@@ -1,0 +1,25 @@
+'---
+'Config purchase file for scenario: BN14S06.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 14 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+ 477  '  76.2mm PP 27  [ AT  Soviet Union]  Cost: 84
+1516  '  76.2mm P 02  [ATY  Soviet Union]  Cost: 132
+1554  '  U-2  [ TB  Soviet Union]  Cost: 192
+2843  '  T-18  [ TK  Soviet Union]  Cost: 276
+5125  '  Border Guard  [INF  Soviet Union]  Cost: 84
+6947  '  R-5  [ TB  Soviet Union]  Cost: 252
+7590  '  I-3  [FTR  Soviet Union]  Cost: 288
+7712  '  25 Engineers  [INF  Soviet Union]  Cost: 336
+7713  '  25 Regular Infantry  [INF  Soviet Union]  Cost: 84
+7714  '  25 Regular Cavalry  [INF  Soviet Union]  Cost: 132
+7715  '  25 Construction  [INF  Soviet Union]  Cost: 156
+7716  '  25 Combat Command  [INF  Soviet Union]  Cost: 132
+7717  '  25 MG Infantry  [ AT  Soviet Union]  Cost: 120
+7718  '  Recon Cavalry  [RCN  Soviet Union]  Cost: 120

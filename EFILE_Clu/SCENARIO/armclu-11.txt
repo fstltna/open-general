@@ -1,0 +1,80 @@
+Unternehmen Bumerang
+406 AT Bn/64 RflD
+451 RflRgt/64 RflD
+440 RflRgt/64 RflD
+433 RflRgt/64 RflD
+1029 Aty Rgt/64 RflD
+1133 RflRgt/339 RflD
+1135 RflRgt/339 RflD
+1137 RflRgt/339 RflD
+17 AT Bn/339 RflD
+900 Aty Rgt/339 RflD
+696 RflRgt/383 RflD
+691 RflRgt/383 RflD
+694 RflRgt/383 RflD
+319 AT Bn/383 RflD
+966 Aty Rgt/383 RflD
+1979 AA Rgt/64 AA AtyD
+240 RflRgt/117 RflD
+275 RflRgt/117 RflD
+820 RflRgt/117 RflD
+222 AT Bn/117 RflD
+322 Aty Rgt/117 RflD
+1079 RflRgt/312 RflD
+1081 RflRgt/312 RflD
+1083 RflRgt/312 RflD
+375 AT Bn/312 RflD
+859 Aty Rgt/312 RflD
+583 Mrt Rgt/33 Army
+360 Gds hvy SP Aty Rgt/33 Army
+301 Av BmbD/3 Av BmbCps
+197 Ass AvD/6 Ass AvCps
+241 Av BmbD/3 Av BmbCps
+244 Tk Rgt/33 Army
+257 Tk Rgt/33 Army
+361 Gds hvy SP Aty Rgt/33 Army
+1266 AA Rgt/33 Army
+III/FF
+2/FlaK/FF
+II/FF
+MF Buschmuehle
+VS Dresden
+Art.Ers.u.Ausbld.Abt.59
+VII/FF
+Fest.MgBat.84
+I/FF
+V/FF
+Pio-SperrBat.zbV.
+VI/FF
+Fest.PaK-Verband/FF
+Fest.ArtAbt.1325
+Fest.ArtAbt.3157
+Fest.ArtAbt.1326
+Fest.FlaKBat.829
+Fest.InfBat.1449
+Oder
+Trepliner See
+Treplin
+Boossen
+Kliestow
+Rosengarten
+Hirschberge
+Pagram
+Lichtenberg
+Pilgram
+Biegen
+Wulkow
+Frankfurt an der Oder
+Dammvorstadt
+Trettin
+Schwetig
+Bischofsee
+Kunersdorf
+Neu Bischofsee
+Zohlow
+Neu Zohlow
+Drenzig
+Neuendorf
+Goldenes Fliess
+Gueldendorf
+Eichwald

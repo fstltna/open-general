@@ -1,0 +1,111 @@
+* Read carefully before editing!
+* Each line can be any lenght, but only first 96 chars will be read
+* Emply lines and those starting with * will be skipped.
+* Can replace any text but do no change the seqünce of lines
+*-------------------------------------------------------------------
+* Sides
+Achse
+Alliierte
+
+* Nations
+Alle Länder
+China
+Belgien
+Bulgarien
+Japan
+Vichy Frankreich
+Finnland
+Frankreich
+Deutschland
+Griechenland
+USA
+Ungarn
+Tschechoslowakei
+Italien
+Niederlande
+Norwegen
+Polen
+Australien
+Rumänien
+Türkei
+Russland
+Philippinen
+Neuseeland
+Grossbritannien
+Königreich Jugoslawien
+Span. Nationalisten
+Span. Republikaner
+Kanada
+Indien
+Dänemark
+Thailand
+Kroatien
+Südafrika
+Persien
+Portugal
+Äthiopien
+Mandschurei
+Slowakei
+Mongolei
+Irak
+Freies Frankreich
+Albanien
+Schweiz
+Österreich
+Tschetniks
+Serbische Nationalisten
+Schweden
+Jugoslawische Kommunisten
+Chinesische Kommunisten
+Griechische Kommunisten
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)

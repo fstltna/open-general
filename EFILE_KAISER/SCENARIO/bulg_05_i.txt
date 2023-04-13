@@ -1,0 +1,12 @@
+Choice - The Interallied War
+
+June 28th, 1913
+
+Our worst expectations have become true. Serbia claims that, since the European great powers deny her the right to occupy Albania, she needs another compensation for the war against the Ottomans, so they won't leave Vardar Macedonia, which they conquered with virtually no Bulgarian support. And the Greeks have allied with them, since they long for Western Thrace.
+Tsar Ferdinand I has decided that negotiations are useless. Only a quick, decissive attack will convince Serbia to give us what is rightfully ours. Tomorrow we'll start a war on Serbia and Greece.
+This is a very dangerous move. Our army hasn't recovered from the losses of the war against Turkey, and the combined strength of Serbian, Greek and Montenegrin troops is greater than ours. We'll have to employ almost all our soldiers in this new war, leaving the rest of our borders undefended. The Ottomans could take the chance to recover some of the lands they lost some months ago, and Romania will have a golden opportunity for seizing our Dobrudzha region.
+But the decision is already made, General. Now you must choose if you'll fight against Serbia and Montenegro or against Greece. 
+
+Choice conditions:
+- If you choose to fight against Serbia and Montenegro click on the Serbian flag.
+- If you choose to fight against Greece click on the Greek flag.

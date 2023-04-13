@@ -1,0 +1,12 @@
+Yelnia
+¯¯¯¯¯
+Herr General: After our conquest of Smolensk the Soviet troops have been attacking our line centered on the city of Yelnia. Our troops cannot hold them off for long. If Yelnia is lost Smolensk will follow. You should use your Panzer corps to restore our front. 
+
+Victory Conditions:
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Hold 8 VHs to get a BV/DV, 7 to a V, and 6 to a TV/MV
+
+Scenario Credits:
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+This is an original scenario made by Jorge Gabitto for his Barbarossa campaign, then converted by Guille to Open Gen. The scenario has been slightly modified by myself to fit into this campaign.
+

@@ -1,0 +1,36 @@
+Sidi Bou Zid
+Wadi El Fekka
+Bir El Hafey
+Sened
+Station de Sened
+Maknassy
+Sidi Khalif
+Faid
+Poste de Lessouda
+Sidi Bou Zid
+Wadi Leben
+1 168 RCT
+2 168 RCT
+168 RCT
+CCA/1 ArmD
+CCC/1 ArmD
+1 B/7 Pz R/10 Pz
+2 B/7 Pz R/10 Pz
+10 Rec/10 Pz
+1 R/10 Pzg Br/10 Pz
+2 R/10 Pzg Br/10 Pz
+10 Krad B/10 Pz
+86 Pzg R/10 Pz
+155 R/10 Pz
+49 Pio B/10 Pz
+90 Pzjgr B/10 Pz
+302 B/10 Pz
+1 B/5 Pz R/21 Pz/DAK
+2 B/5 Pz R/21 Pz/DAK
+104 Pzg R/21 Pz/DAK
+47 R/21 Pz/DAK
+155 R/21 Pz/DAK
+200 Pzjgr B/21 Pz/DAK
+220 Pio B/21 Pz/DAK
+[2 Luftflotte]
+[2 Luftflotte]

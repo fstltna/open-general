@@ -1,0 +1,27 @@
+Vinkt
+(26-27 May 1940)
+v.1.0
+The Campaign of the 18 Days
+(10-28 May 1940)
+
+General,
+
+The Germans have received reinforcements (225th Infantry Division) and have now secured the bridgehead of Meigem. They are now attacking the positions near Vinkt. This is an important crossroads that has to be held at all costs. 
+
+You must provide support to the "Chasseurs Ardennais" defending Vinkt. 
+
+Once more the attack will be done by infantrymen without armour support but do not underestimate the German artillery and the Luftwaffe.
+
+Le Chef d'Etat-major général de l’armée (EMGA)
+
+Warning: only six core units can be deployed and supply has become extremely difficult due to the supremacy of the German Luftwaffe.
+
+Victory conditions: to hold 5 VH for a BV, 3 VH for a V and 2 VH for a TV.
+
+Map: Vinkt1940 (931)
+
+E-file: OLGWW2 (version 2.00)
+
+Paqueo, February 2013
+
+

@@ -1,0 +1,281 @@
+Fa12-Draw
+I/RflRgt 436/155 RflD
+II/RflRgt 436/155 RflD
+III/RflRgt 436/155 RflD
+I/RflRgt 659/155 RflD
+II/RflRgt 659/155 RflD
+III/RflRgt 659/155 RflD
+I/RflRgt 768/155 RflD
+II/RflRgt 768/155 RflD
+III/RflRgt 768/155 RflD
+Tk BN 421/155 RflD
+AT Bn 178/155 RflD
+I/Aty Rgt 306/155 RflD
+II/Aty Rgt 306/155 RflD
+III/Aty Rgt 306/155 RflD
+Rec Bn 129/155 RflD
+lt Det/155 RflD
+RajaP
+RajaP
+RajaP
+SK Lieksa 1
+SK Lieksa 2
+SK Kuhmo
+SK Nurmes
+Tk Bn 97/54 RflD
+AT Bn 58/54 RflD
+I/Aty Rgt 86/54 RflD
+II/Aty Rgt 86/54 RflD
+III/Aty Rgt 86/54 RflD
+Rec Bn/54 RflD
+I/RflRgt 118/54 RflD
+II/RflRgt 118/54 RflD
+III/RflRgt 118/54 RflD
+I/RflRgt 337/54 RflD
+II/RflRgt 337/54 RflD
+III/RflRgt 337/54 RflD
+I/RflRgt 529/54 RflD
+II/RflRgt 529/54 RflD
+III/RflRgt 529/54 RflD
+Mg Bn/54 RflD
+Siberian Ski Bde.
+RajaP
+RajaP
+KTR 9/9 Div
+JR 27/9 Div
+JR 64/9 Div
+JR 65/9 Div
+PioP 22
+Ontojarvi
+Ontojarvi
+Ontojarvi
+Ontojarvi
+Ontojarvi
+Ontojarvi
+Ontojarvi
+Ontojarvi
+Ontojarvi
+Ontojarvi
+Ontojarvi
+Ontojarvi
+Ontojarvi
+Ontojarvi
+Lentua
+Lentua
+Lentua
+Lentua
+Lentua
+Lentua
+Lentua
+Lentua
+Lentua
+Lentua
+Lentua
+Kuhmo
+Kuhmo
+Kuikkavaara
+Kuikkavaara
+Kuikkavaara
+Kuikkavaara
+Kivipuro
+Kivipuro
+Kivipuro
+Kivipuro
+Kivivaara
+Kivivaara
+Kivivaara
+Kivivaara
+Urpovaara
+Urpovaara
+Urpovaara
+Paaskivaara
+Paaskivaara
+Kuohattijarvi
+Kuohattijarvi
+Nurmes
+Nurmes
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Pielinen
+Kynsisaari
+Kynsisaari
+Kynsisaari
+Kynsisaari
+Kynsisaari
+Kynsisaari
+Kynsisaari
+Porosaari
+Paalasmaa
+Paalasmaa
+Paalasmaa
+Paalasmaa
+Paalasmaa
+Paalasmaa
+Paalasmaa
+Hattusaari
+Vieki
+Lieksa
+Oinasvaara
+Oinasvaara
+Tainiovaara
+Tainiovaara
+Pankajarvi
+Pankajarvi
+Pankajarvi
+Pankajarvi
+Pankajarvi
+Pankajarvi
+Hatunkyla
+Murroovaara
+Murroovaara
+Murroovaara
+Nurmijarvi
+Nurmijarvi
+Kivivaari
+Tuulivaara
+Savijarvi
+Savijarvi
+Tanelivaara
+Tanelivaara
+Tanelivaara
+Nuottivaara
+Nuottivaara
+Koivujoki
+Koivujoki
+Koivujoki
+Koivujoki
+Koivujoki
+Koivujoki
+Koivujoki
+Koivujoki
+Koivujoki
+Koivujoki
+Koivujoki
+Koivujoki
+Koivujoki
+Koivujoki
+Koivujoki
+Louhipuro
+Louhipuro
+Louhipuro
+Louhipuro
+Louhipuro
+Louhipuro
+Kivipuro
+Kivipuro
+Kivipuro
+Kivipuro
+Jonkerijarvi
+Jonkerijarvi
+Jonkerijarvi
+Jonkerijarvi
+Murtopuro
+Murtopuro
+Murtopuro
+Saunajarvi
+Saunajarvi
+Saunajarvi
+Saunajarvi
+Lummejoki
+Lummejoki
+Lummejoki
+Kosseli
+Kiekinkoski
+Kosselinjoki
+Kosselinjoki
+Kosselinjoki
+Kosselinjoki
+Kosselinjoki
+Kosselinjoki
+Kosselinjoki
+Kosselinjoki
+Kosselinjoki
+Kosselinjoki
+Kosselinjoki
+Kolvasjarvi
+Repola
+Repola
+Jurttivaara
+Jurttivaara
+TO (spec. LRPatrol)
+KevOs.9/9.Div.

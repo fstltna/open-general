@@ -1,0 +1,78 @@
+Clu's Battle of Mokra
+19 p.ul.
+21 p.ul.
+12 p.ul
+21 dpanc
+11 bsp
+2 psk
+2 dak
+4/84
+82 bmap
+4 sk
+8 sp
+7 b.ckm
+SchRgt 12/4. PzD
+I/PzRgt 36/4. PzD
+I/ARgt 103/4. PzD
+Mokra I
+Mokra II
+Mokra III
+Teile/A.A.7
+3/PiBat 31/31. ID
+1/PiBat 62
+IRgt 12/31. ID
+II/PzRgt 36/4. PzD
+I/ARgt 31/31. ID
+leFlaKAbt. 77
+II(schw.)/ARgt 54
+3/PiBat 79/4. PzD
+PzRgt 35/4. PzD
+II+III/ARgt 103/4. PzD
+PzAbwAbt. 49/4. PzD
+LW
+SG
+27/7
+25/7
+74/7
+7/7
+7 hvy/7
+7 pio/7
+SchRgt 1/1. PzD
+PzRgt 1/1. PzD
+PzRgt 2/1. PzD
+A.A.4/1. PzD
+PiBat 37/1. PzD
+PzAbwAbt. 37/1. PzD
+Parzymiechy
+Warta River
+Napoleon
+Zbori
+Dabrowka
+Kocinka River
+Lipie
+Liswarta River
+Kuznica
+Gominaka River
+Zajaczki Drugie
+Rebielice Krolewski
+Izbiska
+Biala Oksza River
+Krzepice
+Ostrowy
+Wapiennik
+Miedzno
+Iwanowice
+Wilkowiecko
+Kolaczkowice
+Debnik
+Opatow
+Kocin
+Walenzcow
+Janiki
+Lobodno
+Klobuck
+Kamyk
+Panki
+Libidza
+Czami Las
+Smialy

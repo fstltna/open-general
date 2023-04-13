@@ -1,0 +1,37 @@
+1943-45 ALLIED INVASION OF ITALY
+
+File                	Scenario                                           Date           BV   V  TV    L  Map
+
+ 0 invaital0.xscn       Operation Corkscrew: Pantelleria                   Jun 11, 1943    1   1   1   Ls  456.png
+ 1 invaital1.xscn       Operation Corkscrew: Lampedusa                     Jun 13, 1943    2   2   2   Ls  1417.png
+ 2 invaital2.xscn       Operation Husky: Gela                              Jul 10, 1943    3   3   3   Ls  69.png
+ 3 invaital3.xscn       Operation Husky: Sicily                            Jul 13, 1943    4   4   4   Ls  1407.png
+ 4 invaital4.xscn       Stretto di Messina                                 Aug 11, 1943    5   5   5   Ls  115.png
+ 5 invaital5.xscn       Operation Avalanche                                Sep  9, 1943    6   6   6   Ls  5.png
+ 6 invaital6.xscn       The Volturno Line                                  Oct 12, 1943    7   7   7   Ls  404.jpg
+ 7 invaital7.xscn       Operation Shingle                                  Jan 22, 1944    8   8   8   Ls  413.png
+ 8 invaital8.xscn       Operation Diadem                                   May 11, 1944    9   9   9   Ls  92.png
+ 9 invaital9.xscn       Liberation of Rome                                 Jun  1, 1944   10  10  10   Ls  407.png
+10 invaital10.xscn      Operation Brassard                                 Jun 17, 1944   11  11  11   Ls  154.jpg
+11 invaital11.xscn      Serchio Valley                                     Oct 15, 1944   12  12  12   Ls  411.png
+12 invaital12.xscn      The Gothic Line                                    Nov  1, 1944   13  13  13   Ls  409.png
+13 invaital13.xscn      Operation Roast                                    Apr  1, 1945   14  14  14   Ls  447.jpg
+14 invaital14.xscn      Spring Offensive '45                               Apr  6, 1945  Win Win Win   Ls  980.png
+
+Summary of maps needed:
+
+5.png                 used 1   times
+154.jpg               used 1   times
+447.jpg               used 1   times
+404.jpg               used 1   times
+413.png               used 1   times
+1407.png              used 1   times
+980.png               used 1   times
+407.png               used 1   times
+115.png               used 1   times
+69.png                used 1   times
+92.png                used 1   times
+409.png               used 1   times
+456.png               used 1   times
+1417.png              used 1   times
+411.png               used 1   times

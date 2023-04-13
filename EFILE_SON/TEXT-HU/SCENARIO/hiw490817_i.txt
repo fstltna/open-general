@@ -1,0 +1,10 @@
+Orsova
+1849. VIII. 17.
+
+Tábornok polgártárs! A temesvári kudarca után Görgeinek más lehetõsége nem maradt, mint Rüdiger csapatai elõtt föltétel nélkül letenni a fegyvert. Komárom erõdje és néhány elszigetelt erõsség maradt csupán magyar kézen. A kormányzó elhagyni készül az országot, talán az õ diplomáciai tehetsége még föl tudja kelteni a nemzetközi közvélemény érdeklõdését a magyar függetlenség ügye iránt. Az Ön feladata, hogy a megmaradt néhány hûséges hadosztállyal biztosítsa Kossuth menekülését. Haynau vérszomjasságát ismerve jobban teszi, ha Ön is elhagyja az országot.
+
+Elhelyezhetõ egység: 10
+
+KÜLDETÉS: A „Parancsnokság” egység jelképezi Kossuthot, õrizd meg sértetlenül és juttasd el a visszavonulási pontra!
+
+JAVASLAT: Ha több mint 10 egységed van, add el a többletet és a kapott presztízs pontokat fordítsd egységeid újratöltésére.

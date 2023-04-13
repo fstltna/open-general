@@ -1,0 +1,8 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+4466  '  Ta 183 Huckebein  [FTR  Germany]  Cost: 1536
+4467  '  Ho 229 A-1  [ TB  Germany]  Cost: 1800

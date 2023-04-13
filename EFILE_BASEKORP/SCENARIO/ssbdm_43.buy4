@@ -1,0 +1,119 @@
+'---
+'Config purchase file for scenario: SSBDM_43.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 148 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+ 356  '  Repulse BC  [sBS  United Kingdom]  Cost: 1500
+ 357  '  King George V BB  [sBS  United Kingdom]  Cost: 1752
+ 358  '  County CA  [sBS  United Kingdom]  Cost: 1260
+ 359  '  Leander CL  [sBS  United Kingdom]  Cost: 780
+ 360  '  Illustrious CV  [sCV  United Kingdom]  Cost: 1200
+ 361  '  Tribal DD  [sDD  United Kingdom]  Cost: 288
+ 388  '  Spitfire IXB  [FTR  United Kingdom]  Cost: 852
+ 389  '  Spitfire VC  [FTR  United Kingdom]  Cost: 732
+ 390  '  Spitfire XIIE  [FTR  United Kingdom]  Cost: 924
+ 391  '  Spitfire XIVE  [FTR  United Kingdom]  Cost: 960
+ 392  '  Beaufighter  [ TB  United Kingdom]  Cost: 732
+ 394  '  Hurricane IID  [ TB  United Kingdom]  Cost: 600
+ 395  '  Mosquito VI  [ TB  United Kingdom]  Cost: 888
+ 396  '  Tempest II  [FTR  United Kingdom]  Cost: 1068
+ 397  '  Typhoon  [ TB  United Kingdom]  Cost: 984
+ 897  '  Mosquito PR  [ TB  United Kingdom]  Cost: 408
+ 994  '  Tempest VI  [FTR  United Kingdom]  Cost: 1068
+1719  '  Meteor I  [FTR  United Kingdom]  Cost: 1116
+1722  '  Beaufort  [ TB  United Kingdom]  Cost: 540
+1725  '  Barracuda  [ TB  United Kingdom]  Cost: 360
+1726  '  Hudson  [ TB  United Kingdom]  Cost: 504
+1730  '  Halifax  [ LB  United Kingdom]  Cost: 756
+1731  '  Lancaster  [ LB  United Kingdom]  Cost: 960
+1735  '  Lightning CL  [sBS  United Kingdom]  Cost: 684
+1736  '  Fiji CL  [sBS  United Kingdom]  Cost: 792
+1737  '  Manchester CL  [sBS  United Kingdom]  Cost: 804
+1738  '  Dido CL  [sBS  United Kingdom]  Cost: 816
+1739  '  Exeter CA  [sBS  United Kingdom]  Cost: 1248
+1740  '  Hood BC  [sBS  United Kingdom]  Cost: 1536
+1741  '  Royal Sovereign BB  [sBS  United Kingdom]  Cost: 1572
+1742  '  Queen Elizabeth BB  [sBS  United Kingdom]  Cost: 1584
+1743  '  Furious CV  [sCV  United Kingdom]  Cost: 1020
+1744  '  Hermes CV  [sCV  United Kingdom]  Cost: 804
+1745  '  S SS  [SUB  United Kingdom]  Cost: 456
+2098  '  F4U-1 Corsair  [FTR  New Zealand]  Cost: 924
+2102  '  Spitfire IXB  [FTR  New Zealand]  Cost: 852
+2103  '  Hudson  [ TB  New Zealand]  Cost: 504
+2109  '  Typhoon  [ TB  New Zealand]  Cost: 984
+2110  '  Tempest II  [FTR  New Zealand]  Cost: 1032
+2111  '  Mosquito VI  [ TB  New Zealand]  Cost: 888
+2112  '  Beaufighter  [ TB  New Zealand]  Cost: 732
+2113  '  Mosquito XII  [ TB  New Zealand]  Cost: 828
+2117  '  Stirling I  [ LB  New Zealand]  Cost: 744
+2118  '  Lancaster  [ LB  New Zealand]  Cost: 864
+2124  '  Achilles CL  [sBS  New Zealand]  Cost: 780
+2125  '  Gambia CL  [sBS  New Zealand]  Cost: 804
+2246  '  Spitfire IXB  [FTR  Canada]  Cost: 852
+2247  '  Spitfire XIVE  [FTR  Canada]  Cost: 960
+2251  '  Mustang III  [FTR  Canada]  Cost: 876
+2253  '  Beaufighter  [ TB  Canada]  Cost: 732
+2254  '  Beaufort  [ TB  Canada]  Cost: 540
+2256  '  Hudson  [ TB  Canada]  Cost: 504
+2258  '  Mosquito VI  [ TB  Canada]  Cost: 888
+2259  '  Typhoon  [ TB  Canada]  Cost: 984
+2261  '  Hurricane IID  [ TB  Canada]  Cost: 600
+2263  '  Halifax  [ LB  Canada]  Cost: 744
+2264  '  Lancaster  [ LB  Canada]  Cost: 864
+2265  '  B-24D Liberator  [ LB  Canada]  Cost: 828
+2266  '  Iroquis DD  [sDD  Canada]  Cost: 288
+2267  '  Saguenay DD  [sDD  Canada]  Cost: 264
+2268  '  Uganda CL  [sBS  Canada]  Cost: 792
+2269  '  Ameer CV  [sCV  Canada]  Cost: 624
+2317  '  Spitfire VC  [FTR  Australia]  Cost: 732
+2318  '  Spitfire VIII  [FTR  Australia]  Cost: 900
+2321  '  Hudson  [ TB  Australia]  Cost: 504
+2323  '  Catalina  [ TB  Australia]  Cost: 420
+2324  '  Beaufort  [ TB  Australia]  Cost: 540
+2326  '  Ventura  [ TB  Australia]  Cost: 504
+2328  '  Beaufighter  [ TB  Australia]  Cost: 732
+2330  '  Halifax  [ LB  Australia]  Cost: 744
+2331  '  Lancaster  [ LB  Australia]  Cost: 864
+2332  '  B-24D Liberator  [ LB  Australia]  Cost: 828
+2334  '  Stuart DD  [sDD  Australia]  Cost: 264
+2335  '  Arunta DD  [sDD  Australia]  Cost: 288
+2336  '  Perth CL  [sBS  Australia]  Cost: 780
+2337  '  Adelaide CL  [sBS  Australia]  Cost: 804
+2338  '  Australia CA  [sBS  Australia]  Cost: 1260
+2339  '  K9 SS  [SUB  Australia]  Cost: 432
+2560  '  Entrenched  [INF  United Kingdom]  Cost: 168
+2603  '  Spitfire XVI  [FTR  United Kingdom]  Cost: 972
+2605  '  Lysander I  [ TB  United Kingdom]  Cost: 336
+2606  '  Baltimore V  [ TB  United Kingdom]  Cost: 504
+2608  '  Boston  [ TB  United Kingdom]  Cost: 840
+2612  '  A DD  [sDD  United Kingdom]  Cost: 264
+3130  '  MTB-459 MTB  [sDD  Canada]  Cost: 168
+3131  '  Bangor AM  [sDD  Canada]  Cost: 180
+3132  '  MTB-1 MTB  [sDD  United Kingdom]  Cost: 168
+3133  '  Halcyon AM  [sDD  United Kingdom]  Cost: 180
+3134  '  H 28 SS  [SUB  United Kingdom]  Cost: 432
+3135  '  Triton SS  [SUB  United Kingdom]  Cost: 492
+3159  '  Bathurst AM  [sDD  Australia]  Cost: 180
+3160  '  Breeze AM  [sDD  New Zealand]  Cost: 180
+3324  '  Seafire I  [FTR  United Kingdom]  Cost: 876
+4004  '  Catalina III  [ LB  Canada]  Cost: 396
+4041  '  Mosquito NF.XIII  [ TB  United Kingdom]  Cost: 948
+4050  '  Beaufighter VIF  [ TB  United Kingdom]  Cost: 888
+4066  '  Stirling III  [ LB  United Kingdom]  Cost: 648
+4084  '  Mosquito FB.XV  [ TB  United Kingdom]  Cost: 924
+4132  '  Sunderland III  [ LB  Australia]  Cost: 504
+4151  '  B-25D Mitchell  [ TB  Australia]  Cost: 720
+4163  '  Mosquito FB.40  [ TB  Australia]  Cost: 960
+4192  '  Sunderland III  [ LB  Canada]  Cost: 504
+4262  '  Sunderland III  [ LB  New Zealand]  Cost: 504
+4848  '  Lancaster III Special  [ LB  United Kingdom]  Cost: 756
+5561  '  Kingfisher  [ TB  Australia]  Cost: 552
+5562  '  Kingfisher  [ TB  United Kingdom]  Cost: 552
+5861  '  Attacker CVE  [sCV  United Kingdom]  Cost: 612
+5862  '  Nelson BB  [sBS  United Kingdom]  Cost: 1572

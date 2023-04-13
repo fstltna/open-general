@@ -1,0 +1,35 @@
+'---
+'Config AI file for scenario: bk14.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=0 
+$buy_newair=50 
+$buy_pick_method=1 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3  
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2  
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=17 items  ' Replacement for default list
+ 489  '  Katyusha 82mm  [ATY  Russia]  Cost: 420
+ 496  '  Kavaleria 41  [INF  Russia]  Cost: 144
+ 515  '  KV-1/39  [ TK  Russia]  Cost: 708
+ 518  '  KV-2  [ AT  Russia]  Cost: 768
+ 520  '  T-26B  [ TK  Russia]  Cost: 276
+ 521  '  T-34/40  [ TK  Russia]  Cost: 552
+ 686  '  BT-7M  [ TK  Russia]  Cost: 336
+ 832  '  Cossacks 38  [INF  Russia]  Cost: 252
+ 847  '  Motociklisti 40  [INF  Russia]  Cost: 264
+ 980  '  T-28  [ TK  Russia]  Cost: 480
+1833  '  KV-8  [ AT  Russia]  Cost: 552
+1845  '  I-15  [FTR  Russia]  Cost: 384
+1846  '  I-16-10  [FTR  Russia]  Cost: 456
+1856  '  Su-2  [ TB  Russia]  Cost: 432
+2589  '  R-10   [ TB  Russia]  Cost: 384
+3066  '  BA-20  [RCN  Russia]  Cost: 216
+7984  '  Yag 76.2mm  [ATY  Russia]  Cost: 420

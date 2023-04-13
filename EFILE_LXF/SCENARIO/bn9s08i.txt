@@ -1,0 +1,44 @@
+
+BATTLE OF MOSCOW - 9 DEC 1941
+
+Dmitrow, North of Moscow
+
+The German offensives against our capital were halted and our strategic counter-offensive started. Your goal is to cross the Moscow-Leningrad railway line and to liberate the city of Klin.
+
+ORDERS
+Take all VHs.
+
+NOTES
+Attention - winter conditions! If possible, equip your troops with tracked movement. Check if you can switch between wheeled and tracked movement for free.
+
+CORE (recommended)
+3x Tank
+4x Infantry
+1x Anti-Tank
+2x Reconnaissance
+1x Flak
+4x Artillery (+1)
+2x Fighter Aircraft
+2x Tactical Bomber
+
+++++++++++++++++++++++++++++++++++++++++
+
+STORY
+The Battle of Moscow was a military campaign that consisted of two periods of strategically significant fighting on a 600 km (370 mi) sector of the Eastern Front during World War II. It took place between October 1941 and January 1942. The Soviet defensive effort frustrated Hitler's attack on Moscow, the capital and largest city of the Soviet Union. Moscow was one of the primary military and political objectives for Axis forces in their invasion of the Soviet Union.
+
+The German strategic offensive, named Operation Typhoon, called for two pincer offensives, one to the north of Moscow against the Kalinin Front by the 3rd and 4th Panzer Armies, simultaneously severing the Moscow-Leningrad railway, and another to the south of Moscow Oblast against the Western Front south of Tula, by the 2nd Panzer Army, while the 4th Army advanced directly towards Moscow from the west.
+
+Initially, the Soviet forces conducted a strategic defence of the Moscow Oblast by constructing three defensive belts, deploying newly raised reserve armies, and bringing troops from the Siberian and Far Eastern Military Districts. As the German offensives were halted, a Soviet strategic counter-offensive and smaller-scale offensive operations forced the German armies back to the positions around the cities of Oryol, Vyazma and Vitebsk, and nearly surrounded three German armies. It was a major setback for the Germans, and the end of the idea of a quick German victory in the USSR. As a result of the failed offensive, Field Marshal Walther von Brauchitsch was dismissed as supreme commander of the German Army, with Hitler replacing him in the position. 
+
+Although the Wehrmacht's offensive had been stopped, German intelligence estimated that Soviet forces had no more reserves left and thus would be unable to stage a counteroffensive. This estimate proved wrong, as Stalin transferred over 18 divisions, 1,700 tanks, and over 1,500 aircraft from Siberia and the Far East. The Red Army had accumulated a 58-division reserve by early December, when the offensive proposed by Zhukov and Vasilevsky was finally approved by Stalin. Even with these new reserves, Soviet forces committed to the operation numbered only 1,100,000 men, only slightly outnumbering the Wehrmacht. Nevertheless, with careful troop deployment, a ratio of two-to-one was reached at some critical points.
+
+On 5 December 1941, the counteroffensive for "removing the immediate threat to Moscow" started on the Kalinin Front. The South-Western Front and Western Fronts began their offensives the next day. After several days of little progress, Soviet armies retook Solnechnogorsk on 12 December and Klin on 15 December. Guderian's army "beat a hasty retreat towards Venev" and then Sukhinichi. "The threat overhanging Tula was removed."
+
+On 8 December, Hitler had signed his directive No.39, ordering the Wehrmacht to assume a defensive stance on the whole front. German troops were unable to organize a solid defense at their present locations and were forced to pull back to consolidate their lines. Guderian wrote that discussions with Hans Schmidt and Wolfram Freiherr von Richthofen took place the same day, and both commanders agreed the current front line could not be held. On 14 December, Franz Halder and Günther von Kluge finally gave permission for a limited withdrawal to the west of the Oka river, without Hitler's approval. On 20 December, during a meeting with German senior officers, Hitler cancelled the withdrawal and ordered his soldiers to defend every patch of ground, "digging trenches with howitzer shells if needed." Guderian protested, pointing out that losses from cold were actually greater than combat losses and that winter equipment was held by traffic ties in Poland. Nevertheless, Hitler insisted on defending the existing lines, and Guderian was dismissed by 25 December, along with generals Hoepner and Strauss, commanders of the 4th Panzer and 9th Army, respectively. Fedor von Bock was also dismissed, officially for "medical reasons". Walther von Brauchitsch, Hitler's commander-in-chief, had been removed even earlier, on 19 December.
+
+Meanwhile, the Soviet offensive continued in the north. The offensive liberated Kalinin and the Soviets reached Klin on 7 December, overrunning the headquarters of the LVI Panzer Corps outside the city. As the Kalinin Front drove west, a bulge developed around Klin. The Soviet front commander, General Ivan Konev, attempted to envelop any German forces remaining. Zhukov diverted more forces to the southern end of the bulge, to help Konev trap the Third Panzer Army. The Germans pulled their forces out in time. Although the encirclement failed, it unhinged the German defenses. A second attempt was made to outflank Army Group Centre's northern forces, but met strong opposition near Rzhev and was forced to halt, forming a salient that would last until March 1943. In the south, the offensive went equally well, with Southwestern Front forces relieving Tula on 16 December 1941. A major achievement was the encirclement and destruction of the German XXXV Corps, protecting Guderian's Second Panzer Army's southern flank.
+
+The Luftwaffe was paralysed in the second half of December. The weather, recorded as -42 °C (-44 °F), was a meteorological record. Logistical difficulties and freezing temperatures created technical difficulties until January 1942. In the meantime, the Luftwaffe had virtually vanished from the skies over Moscow, while the Red Air Force, operating from better prepared bases and benefiting from interior lines, grew stronger. On 4 January, the skies cleared. The Luftwaffe was quickly reinforced, as Hitler hoped it would save the situation. The Kampfgruppen (Bomber Groups) II./KG 4 and II./KG 30 arrived from refitting in Germany, whilst four Transportgruppen (Transport Groups) with a strength of 102 Junkers Ju 52 transports were deployed from Luftflotte 4 (Air Fleet 4) to evacuate surrounded army units and improve the supply line to the front-line forces. It was a last minute effort and it worked. The German air arm was to help prevent a total collapse of Army Group Centre. Despite the Soviets' best efforts, the Luftwaffe had contributed enormously to the survival of Army Group Centre. Between 17 and 22 December the Luftwaffe destroyed 299 motor vehicles and 23 tanks around Tula, hampering the Red Army's pursuit of the German Army.
+
+In the centre, Soviet progress was much slower. Soviet troops liberated Naro-Fominsk only on 26 December, Kaluga on 28 December, and Maloyaroslavets on 2 January, after ten days of violent action. Soviet reserves ran low, and the offensive halted on 7 January 1942, after having pushed the exhausted and freezing German armies back 100-250 km (62-155 mi) from Moscow. Stalin continued to order more offensives in order to trap and destroy Army Group Centre in front of Moscow, but the Red Army was exhausted and overstretched and they failed.
+

@@ -1,0 +1,16 @@
+10. Retreat to the Attila-line (Battle of Budapest) 2-4 November 1944
+
+The leading elements of the 2nd Ukrainian Front are trying to overrun the last weakly fortified defense lines at the gates of Budapest. Only weak or tired Hungarian troops are deployed at the south-eastern suburbs of the Hungarian capital, waiting for the aid of two SS Cavalry Divisions arriving from Buda. The German 3rd Panzer Corps slowly retreats from Tisza River and there is a risk to be cut off again. General, it is your job to secure the Cegléd-Budapest railway line and relief the 6th Hungarian Corps at Attila-line.
+
+TACTICAL ORDERS
+
+Prevent losing all the three Hungarian VHs, and at the end of the 18 turn scenario, hold 5 VH for Brilliant Victory, 4 for Victory and 3 for Tactical Victory. Any lower number will result in Loss.
+
+NOTES:
+
+- The enemy gets strong and permanent reinforcements after GT-2.
+- You will get 8th and 22nd SS Cavalry Divisions as reinforcements.
+- Units will not be automatically reinforced to strength 10 at the end of the scenario.
+
+SCENARIO DESIGNER
+Csaba - lvjtn

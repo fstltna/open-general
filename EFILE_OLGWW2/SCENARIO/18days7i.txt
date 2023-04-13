@@ -1,0 +1,25 @@
+Le combat de la Tête de Flandre
+(19-20 May 1940)
+v.1.0
+The Campaign of the 18 Days
+(10-28 May 1940)
+
+General,
+
+Our troops are taking their new positions behind the Terneuzen canal and the Escaut/Scheldt River. The "Corps de Cavalerie" has to secure this movement.
+
+We have been informed that some German troops of the 208 Infantry Division have crossed the Escaut/Scheldt river through one of the tunnels in Antwerpen/Anvers that, due once more to the absence of coordination with our allies, has not been completely destroyed. 
+
+Given that the 17 DI, which is defending the area, is withdrawing to their new positions, you have to help the "2 Division de Cavalerie" to re-establish the situation.   
+
+Le Chef d'Etat-major général de l’armée (EMGA)
+
+Warning: the 17 DI will retreat in the first turns. You can only deploy 5 units.
+
+Victory conditions: to hold 4 VH for a BV, 3 VH for a V and 2 VH for a TV.
+
+Map: Antwerp (512)
+
+E-file: OLGWW2 (version 2.00 or higher)
+
+Paqueo, July 2012

@@ -1,0 +1,12 @@
+Vác
+1849. IV. 10.
+
+Tábornok úr! Amíg Aulich a II. hadtesttel leköti Pest elõtt az osztrák fõsereg figyelmét, addig Ön kanyarodjon északra az I., III. és VII. hadtesttel, foglalja vissza Vácot és szorítsa a császáriakat a Garam mögé.
+
+Elhelyezhetõ egység: 20
+
+KÜLDETÉS: Foglald el az összes gyõzelmi pontot.
+
+JAVASLAT:
+- 3 vasúti szállító áll rendelkezésedre.
+- Vedd számításba, hogy a csata végén az egységek készletei nem töltõdnek föl automatikusan.

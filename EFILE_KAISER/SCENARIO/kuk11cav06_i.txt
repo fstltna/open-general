@@ -1,0 +1,11 @@
+Gorlice
+(May 2, 1915)
+
+The German general staff finally agreed to launch a major joint offensive with us against the Russian 3rd Army in Galicia, and they have sent the newly formed 11th Army to help us. General, only an imminent decisive victory can persuade Italy and Romania not to enter the war on the side of the Entente. Do not fail your country!
+
+ORDER: Keep your MSU alive and take all VHs.
+
+NOTES:
+- The German auxes are commanded by AI. They might need your help.
+- The High Command has approved the expansion of your forces to include a Machine Gun detachment.
+- You can upgrade your Cavalry after this scenario, but they will lose 25% experience, so use green replacements carefully.

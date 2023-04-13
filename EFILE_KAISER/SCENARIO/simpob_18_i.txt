@@ -1,0 +1,16 @@
+Cry for the Romanovs: Ekaterinburg
+
+July 12th, 1919
+
+Our defensive actions at Ufa could not stop the Red Army for a long time, and when they received fresh units from the west they resumed their counteroffensive. Their next objectives were Perm and Ekaterinburg, where they had murdered the Tzar and his family in 1918. This time the High Command ordered us to stay there, acting as reserve troops.
+
+Perm fell rather easily, and on July 5 the operations against Ekaterinburg began. Initially, the  offensive of the Red Second Army was stopped by our shock regiments, but then the 28th Soviet Infantry Division outflanked their positions and attacked from the rear, surrounding and defeating our Siberian Army. 
+
+The Bolshevik advance was too fast for us to intervene. Knowing that the city was lost, we decided to organize the evacuation of Ekaterinburg. While we kept the railroads open, we would have to defend the positions that we didn't have lost yet.
+
+Victory conditions:
+- You must evacuate 6 units through the EH at (36,9). All of them must be MSUs.
+- Don't lose your VH.
+
+Special note: 
+- The railroads will be very important for the evacuation. Be careful, and try not to blow them with artillery fire.

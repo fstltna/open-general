@@ -1,0 +1,8 @@
+Typhoon called off - December1941
+
+HQ reports that yesterday the Bolsheviks launched heavy counter-attacks against the 2nd PzGruppe to the North of us. Watch out, this Russian offensive could spread to your sector.
+
+PLAYER ORDERS
+- Strength lost on core units will not be automatically replaced at HQ at the start of the next scenario.
+- New units cannot be acquired at HQ at the start of the next scenario.
+- Hold 5 Victory hexes at the end of the scenario for a Brilliant Victory. Hold 4 for a Victory and 3 for a Tactical Victory.

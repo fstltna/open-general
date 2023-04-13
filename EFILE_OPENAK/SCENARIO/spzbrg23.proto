@@ -1,0 +1,14 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  73  '  2 Flakvierling Sfl  [FlaK  Deutschland]  Cost: 324
+  78  '  7,5 Pak40  [ AT  Deutschland]  Cost: 168
+ 155  '  leSPW (MG)  [RCN  Deutschland]  Cost: 228
+ 169  '  Bf 110D-2  [ TB  Deutschland]  Cost: 948
+ 617  '  Pz IVF  [ TK  Deutschland]  Cost: 432
+2728  '  2 Flak38 LKW  [FlaK  Deutschland]  Cost: 192
+4289  '  Bf 110E-2  [ TB  Deutschland]  Cost: 1080
+5054  '  Bf 109F-4/Trop  [FTR  Deutschland]  Cost: 1008

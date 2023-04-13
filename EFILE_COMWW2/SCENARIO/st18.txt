@@ -1,0 +1,74 @@
+Towards Grozny
+Malgobek
+Mozdok
+Psedah
+Juzhnyi
+Kievskoe
+Lukovskaja
+Cernojarskiy
+Baraki
+Village
+Terek River
+Kurp River
+Malgobek Airfield
+CCCXI/30G
+CCCXIII/30G
+XXXIII/318
+LXVII/20
+CLXXIV/20
+CCLXV/20
+CXXVI/11
+CXXVII/11
+CXXVIII/11
+XXXIV/318
+MCCCXXXI/318
+MCCCXXXV/318
+MCCCXXXVII/318
+CMLXI/247
+CMLXIII/247
+LXXV/31G
+CXVIII/31G
+DCCCXVIII/31G
+XXXV/30G
+LXXI/30G
+CCLVI/30G
+LXIII/TB
+LXIV/TB
+I/SWF
+II/SWF
+V/1
+VI/1
+I/1
+II/1
+CCVI/1
+XXXIX/1
+CXVI/13
+LXXXII/1
+XVI/13
+III/1
+CCCXIV/1
+I/Rom.AF
+II/4L
+CLX/13
+DXVI/1
+DXVII/1
+DXVIII/1
+Temp. Airfield
+Nordland/5SS
+MOUNTAIN
+HILL
+CLEAR
+ROUGH
+LAKE
+FOREST
+STREAM
+Novy Redant
+Terskaya
+Kalininsky
+Russkoye
+Urozhaynoye
+Kamindye
+Nizniy Kurp
+Sagopshi
+Inarki
+Starjy Malgobek

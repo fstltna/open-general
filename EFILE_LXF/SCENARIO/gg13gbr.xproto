@@ -1,0 +1,13 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  73  '  SdKfz 7/1  [FlaK  Germany]  Cost: 396
+ 155  '  SdKfz 250/1  [RCN  Germany]  Cost: 276
+ 597  '  7.5cm PaK97/38  [ AT  Germany]  Cost: 120
+1322  '  4.2cm lePaK41 (Airborne)  [ AT  Germany]  Cost: 228
+1350  '  StuG IIIE  [ AT  Germany]  Cost: 408
+1359  '  SdKfz 251/2  [ATY  Germany]  Cost: 348
+2968  '  SdKfz 7/1 CS  [ AT  Germany]  Cost: 396

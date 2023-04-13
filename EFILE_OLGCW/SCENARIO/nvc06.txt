@@ -1,0 +1,57 @@
+Attack on Khe Sanh
+1 Btn/9 R/2 USMC/[III]
+37 ARVN RBtn./-/[I]
+18C R/325C PAVN Div./[MR5]
+8 Btn./29 R/324 PAVN Div./[MR5]
+101D R/325C PAVN Div./[MR5]
+325C Div./[MR5]
+325C PAVN Div./[MR5]
+HQ/325C PAVN Div./[MR5]
+325C PAVN Div./[MR5]
+Bru CIDGs
+SVRF
+SVRF
+SVRF
+I/3 Btn/26 R/3 USMC/[III]
+K/3 Btn/26 R/3 USMC/[III]
+E/2 Btn/26 R/3 USMC/[III]
+2 Btn/26 R/3 USMC/[III]
+A/1/2 Btn/26 R/3 USMC/[III]
+1 Btn/26 R/3 USMC/[III]
+L/3 Btn/26 R/3 USMC/[III]
+203 Arm R./-/[MR5]
+9 R/304 PAVN Div./[MR5]
+57 R/304 PAVN Div./[MR5]
+66 R/304 PAVN Div./[MR5]
+HQ/304 PAVN Div./[MR5]
+KS Combat Base/Airstrip
+Old French Fort [FORT]
+Khe Sanh
+Lang Vei
+Tan Lien
+Tan Hop
+Lang Vay
+Song Quang Tri River
+1 Btn./-/-/[III]
+(-) B/3 TBtn./2 USMC/[III]
+HQ/3 USMC/[III]
+Air Support 3/MACG/[III]
+(-) 3 TBtn./2 USMC/[III]
+95C R/325C PAVN Div./[MR5]
+16 AR/559 AtyGrp./[MR5]
+Hill 881N
+Hill 881S
+Hill 861A
+Hill 558
+Hill 950
+Hill 689
+Hill 471
+324 PAVN Div./[MR5]
+325C PAVN Div./[MR5]
+7 EngR/-/[MR5]
+304 PAVN Div./[MR5]
+USAF
+Khe Sanh Combat Base
+Khe Sanh Combat Base
+304 PAVN Div./[MR5]
+Ind.Eng./-/[MR5]

@@ -1,0 +1,151 @@
+'---
+'Config purchase file for scenario: BN9S16.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 140 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+  65  '  2cm FlaK38 Quad  [FlaK  Germany]  Cost: 120
+  67  '  3.7cm FlaK36  [FlaK  Germany]  Cost: 216
+  68  '  FlaKPz Möbelwagen  [FlaK  Germany]  Cost: 492
+  72  '  SdKfz 251/17  [FlaK  Germany]  Cost: 300
+  73  '  SdKfz 7/1  [FlaK  Germany]  Cost: 396
+  74  '  SdKfz 6/2  [FlaK  Germany]  Cost: 408
+  75  '  SdKfz 10/4  [FlaK  Germany]  Cost: 288
+  76  '  FlaKPz Wirbelwind  [FlaK  Germany]  Cost: 432
+  77  '  5cm PaK38  [ AT  Germany]  Cost: 108
+  78  '  7.5cm PaK40  [ AT  Germany]  Cost: 180
+  79  '  8.8cm FlaK36 CS  [ AT  Germany]  Cost: 276
+  80  '  8.8cm PaK43  [ AT  Germany]  Cost: 312
+  82  '  Hetzer  [ AT  Germany]  Cost: 636
+  83  '  Jagdpanther  [ AT  Germany]  Cost: 864
+  84  '  JgdPz IV/48  [ AT  Germany]  Cost: 660
+  85  '  JgdPz IV/70  [ AT  Germany]  Cost: 732
+  88  '  Nashorn  [ AT  Germany]  Cost: 720
+  91  '  StuG IIIG  [ AT  Germany]  Cost: 672
+  92  '  10.5cm leFH18  [ATY  Germany]  Cost: 288
+  93  '  15cm sFH18  [ATY  Germany]  Cost: 492
+  94  '  17cm K18  [ATY  Germany]  Cost: 2172
+  95  '  10.5cm GebH40  [ATY  Germany]  Cost: 288
+  97  '  Hummel  [ATY  Germany]  Cost: 900
+  98  '  15cm NbW41  [ATY  Germany]  Cost: 492
+  99  '  SdKfz 251/1 II  [ATY  Germany]  Cost: 984
+ 101  '  sIG 38(t)M  [ AT  Germany]  Cost: 528
+ 102  '  15cm K39  [ATY  Germany]  Cost: 1596
+ 104  '  StuH 42  [ AT  Germany]  Cost: 588
+ 105  '  Wespe  [ATY  Germany]  Cost: 576
+ 111  '  Grenadiers  [INF  Germany]  Cost: 144
+ 119  '  SdKfz 233  [RCN  Germany]  Cost: 384
+ 120  '  SdKfz 234/1  [RCN  Germany]  Cost: 312
+ 121  '  SdKfz 234/2  [RCN  Germany]  Cost: 444
+ 133  '  Pz VG  [ TK  Germany]  Cost: 1608
+ 151  '  Pz IVH  [ TK  Germany]  Cost: 1176
+ 152  '  Pz IVJ  [ TK  Germany]  Cost: 1212
+ 153  '  Pz VIE  [ TK  Germany]  Cost: 1428
+ 154  '  Pz VIB  [ TK  Germany]  Cost: 1896
+ 155  '  SdKfz 250/1  [RCN  Germany]  Cost: 276
+ 179  '  Fusiliers  [RCN  Germany]  Cost: 144
+ 185  '  Rifles  [INF  Germany]  Cost: 168
+ 308  '  44 Regular Infantry  [INF  Romania]  Cost: 144
+ 597  '  7.5cm PaK97/38  [ AT  Germany]  Cost: 120
+ 802  '  7.5cm GebG36  [ATY  Germany]  Cost: 144
+ 889  '  Volksgrenadiers  [INF  Germany]  Cost: 120
+1307  '  44 Mountain Infantry  [INF  Romania]  Cost: 288
+1310  '  44 Guards  [INF  Romania]  Cost: 168
+1311  '  5cm FlaK41  [FlaK  Germany]  Cost: 240
+1312  '  3.7cm FlaK Truck  [FlaK  Germany]  Cost: 408
+1315  '  sWS 3.7cm Flak43  [FlaK  Germany]  Cost: 420
+1317  '  SdKfz 251/21  [FlaK  Germany]  Cost: 408
+1333  '  Marder IIIM  [ AT  Germany]  Cost: 540
+1337  '  RSO/PaK 40  [ AT  Germany]  Cost: 444
+1341  '  SdKfz 250/8  [ AT  Germany]  Cost: 420
+1342  '  SdKfz 251/10  [ AT  Germany]  Cost: 300
+1343  '  SdKfz 251/16  [ AT  Germany]  Cost: 504
+1345  '  SdKfz 251/9  [ AT  Germany]  Cost: 372
+1348  '  StuG IV  [ AT  Germany]  Cost: 636
+1351  '  21cm NbW42  [ATY  Germany]  Cost: 708
+1352  '  21cm K38  [ATY  Germany]  Cost: 3036
+1353  '  21cm M18  [ATY  Germany]  Cost: 1164
+1360  '  SdKfz 4/1  [ATY  Germany]  Cost: 612
+1363  '  sIG 33  [ AT  Germany]  Cost: 216
+1378  '  Construction  [INF  Germany]  Cost: 228
+1416  '  Pz 735(f)  [ TK  Germany]  Cost: 384
+1417  '  Pz 740(f)  [ TK  Germany]  Cost: 456
+1423  '  Pz IIIN  [ TK  Germany]  Cost: 648
+1497  '  FlaKPz T-34(r)  [FlaK  Germany]  Cost: 492
+1885  '  37mm M36  [FlaK  Romania]  Cost: 216
+1889  '  75mm M97/38  [ AT  Romania]  Cost: 120
+1890  '  75mm M40  [ AT  Romania]  Cost: 180
+1892  '  R35 TD  [ AT  Romania]  Cost: 288
+1893  '  TA  [ AT  Romania]  Cost: 672
+1894  '  TACAM R-2  [ AT  Romania]  Cost: 480
+1895  '  TACAM T-60  [ AT  Romania]  Cost: 504
+1896  '  105mm M18/40  [ATY  Romania]  Cost: 288
+1897  '  100mm M16  [ATY  Romania]  Cost: 180
+1898  '  155mm M17  [ATY  Romania]  Cost: 744
+1899  '  150mm M34  [ATY  Romania]  Cost: 744
+1901  '  75mm M15  [ATY  Romania]  Cost: 132
+1903  '  75mm M97  [ATY  Romania]  Cost: 120
+1912  '  Regular Cavalry  [INF  Romania]  Cost: 144
+1913  '  Engineers  [INF  Romania]  Cost: 396
+1917  '  AB  [RCN  Romania]  Cost: 252
+1918  '  OA-30   [RCN  Romania]  Cost: 144
+1933  '  T-38  [ TK  Romania]  Cost: 516
+1934  '  T-4G  [ TK  Romania]  Cost: 1044
+2355  '  sWG41  [ATY  Germany]  Cost: 840
+2376  '  SdKfz 250/3 CC  [RCN  Germany]  Cost: 312
+2379  '  Pz IV CC  [ TK  Germany]  Cost: 1260
+2380  '  Pz V CC  [ TK  Germany]  Cost: 1632
+2388  '  12cm GrW42  [ATY  Germany]  Cost: 216
+2393  '  10cm NbW35  [ATY  Germany]  Cost: 156
+2398  '  81mm M35  [ATY  Romania]  Cost: 108
+2399  '  120mm M42  [ATY  Romania]  Cost: 216
+2419  '  8cm GrW34  [ATY  Germany]  Cost: 108
+2429  '  Mountain MG Infantry  [ AT  Germany]  Cost: 192
+2769  '  54cm G041  [ATY  Germany]  Cost: 1464
+2865  '  37mm M43 sWS  [FlaK  Romania]  Cost: 420
+2866  '  37mm M36 Truck  [FlaK  Romania]  Cost: 408
+2867  '  44 Light Infantry  [INF  Romania]  Cost: 132
+2919  '  Combat Command  [INF  Romania]  Cost: 132
+2965  '  SdKfz 10/4 CS  [ AT  Germany]  Cost: 300
+2968  '  SdKfz 7/1 CS  [ AT  Germany]  Cost: 396
+2969  '  SdKfz 6/2 CS  [ AT  Germany]  Cost: 324
+2970  '  FlaKPz Wirbelwind CS  [ AT  Germany]  Cost: 432
+2971  '  8.8cm FlaK36 CS  [ AT  Germany]  Cost: 276
+3257  '  43 Engineers  [INF  Germany]  Cost: 564
+3262  '  Armoured Grenadiers  [INF  Germany]  Cost: 180
+3279  '  Construction  [INF  Romania]  Cost: 204
+3281  '  MG Infantry  [ AT  Romania]  Cost: 120
+3375  '  Combat Command  [INF  Germany]  Cost: 144
+3377  '  Mountain Combat Command  [INF  Germany]  Cost: 288
+3378  '  Mountain Engineers  [INF  Germany]  Cost: 516
+4089  '  Mountain Engineers  [INF  Romania]  Cost: 480
+4659  '  Recon Cavalry  [RCN  Germany]  Cost: 144
+4662  '  MG Infantry  [ AT  Germany]  Cost: 132
+4663  '  10cm NbW35 (Mountain)  [ATY  Germany]  Cost: 204
+4664  '  8cm GrW34 (Mountain)  [ATY  Germany]  Cost: 168
+4733  '  43 Mountain AT Infantry  [ AT  Germany]  Cost: 228
+4735  '  43 AT Infantry  [ AT  Germany]  Cost: 168
+4767  '  44 Mountain Infantry  [INF  Germany]  Cost: 312
+4771  '  Mountain Bridging Engineers  [INF  Germany]  Cost: 276
+5328  '  12cm GrW42 (Mountain)  [ATY  Germany]  Cost: 264
+5692  '  10.5cm K18  [ATY  Germany]  Cost: 708
+6735  '  Pz 747(r)  [ TK  Germany]  Cost: 720
+6736  '  Pz 739(f)  [ TK  Germany]  Cost: 480
+6739  '  Pz 753(r)  [ TK  Germany]  Cost: 612
+6842  '  Recon Infantry  [RCN  Romania]  Cost: 120
+6897  '  Armoured Engineers  [INF  Germany]  Cost: 600
+6913  '  3.7cm FlaK43  [FlaK  Germany]  Cost: 240
+7510  '  24cm M39  [ATY  Germany]  Cost: 1752
+7514  '  T-4F1  [ TK  Romania]  Cost: 576
+7515  '  AB-41  [RCN  Romania]  Cost: 264
+7530  '  50mm M38  [ AT  Romania]  Cost: 108
+7531  '  75mm M43  [ AT  Romania]  Cost: 168
+7532  '  40mm M36  [FlaK  Romania]  Cost: 216
+7537  '  122mm M10/30  [ATY  Romania]  Cost: 204
+7539  '  152mm M09/30  [ATY  Romania]  Cost: 324
+7540  '  105mm M36  [ATY  Romania]  Cost: 444

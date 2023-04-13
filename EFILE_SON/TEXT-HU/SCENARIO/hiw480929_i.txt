@@ -1,0 +1,10 @@
+Pákozd
+1848. IX. 29.
+
+Ezredes úr! A Haza veszélyben van! A bécsi kamarilla áskálódásának köszönhetõen már nem csak a rabló rácok, hanem a gaz horvátok is Magyarország ellen fordultak. Fölállítottuk a nemzetõrséget, megkezdtük az új honvédség toborzását, de sokat nem tehetünk, mert nincs elég sereg, egyenruha, fegyver. Állítsa meg Jellašiæot és védje meg Hazánk szent földjét, ezzel idõt nyerünk, és lesz honvéd, lesz ágyú.
+
+Elhelyezhetõ egység: 10
+
+KÜLDETÉS: Foglald el az összes gyõzelmi pontot.
+
+MEGJEGYZÉS: 1750 presztízs pontod van megvásárolni a saját törzsegységeid, ne zárd be az egység elhelyezés menüt, amíg nem fejezted be a beszerzést.

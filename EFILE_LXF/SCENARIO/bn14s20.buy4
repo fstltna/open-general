@@ -1,0 +1,21 @@
+'---
+'Config purchase file for scenario: BN14S20.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 24 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+ 593  '  Guerrilla  [INF  Communist China]  Cost: 144
+ 822  '  Assault Infantry  [INF  Communist China]  Cost: 132
+ 847  '  Regular Cavalry  [INF  Communist China]  Cost: 156
+2926  '  Combat Command  [INF  Communist China]  Cost: 132
+3296  '  MG Infantry  [ AT  Communist China]  Cost: 120
+5762  '  Recon Infantry  [RCN  Communist China]  Cost: 120
+5770  '  82mm Mortar  [ATY  Communist China]  Cost: 108
+5780  '  Construction  [INF  Communist China]  Cost: 204
+5781  '  Engineers  [INF  Communist China]  Cost: 624
+5782  '  46 Regular Infantry  [INF  Communist China]  Cost: 144

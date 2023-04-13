@@ -1,0 +1,6 @@
+Hs 293 was a German radio controlled anti-ship guided missile (actually a glide bomb with a rocket engine slung underneath it).
+Unlike the Fritz X, the Hs 293 was intended to destroy unarmoured ships.
+Much like the Fritz X, its length of almost 4 m and its weight of around one ton made that only bigger planes could deploy them, and even then only one at a time.
+
+The Ju 247 is a fictitious carrier-based medium bomber able to carry the Hs 293. 
+Careful, due to its size, it can only land on the bigger carriers.

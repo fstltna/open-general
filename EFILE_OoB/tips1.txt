@@ -1,0 +1,96 @@
+[Tips arranged by subject and themes.]
+
+Beginner Playing Tips
+
+[Gameplay]
+-Playing is about having fun, so have some fun!
+-Battles are usually won by taking or holding all of the Victory Hexes, but there are exceptions, so read scenario intro briefings carefully.
+-A hex that has a pink border around it is an Escape hex (EH), and is used to exit the map according to scenario intro briefing.
+-A hex with a yellow border around it is a Victory hex (VH).
+-A hex with a green border around it is a Supply hex (SH).
+-A hex with a green and yellow border around it is a dual Victory/Supply hex (VH/SH).
+-You can use a SH or Dual VH/SH that you own to deploy units to.
+-Enemy Units with a gray strength number background must be destroyed.
+-Friendly Units with a gray strength number background must survive.
+-Sometimes when you do really well in a scenario by acheiving a Brilliant Victory (BV),you will be awarded a Prototype unit.
+-Prestige is used to purchase, upgrade, overstrength, or repair units during a scenario.
+-Units receiving replacements automatically receive resupply.
+-Air units which are at a friendly airfield, or adjacent to it, are automatically resupplied each turn.
+-If it is raining or snowing, units not in a friendly city, port, or airfield get less supply.
+-Ships can only be repaired or replenished in port.
+-Focus on taking victory hexes, not just destroying enemy units.
+-You can't UNDO a move if by moving you discover a previously unknown unit.
+-Destroy a wounded enemy unit before it gets the chance to reinforce again.
+-Keep your artillery close enough to the front lines to support your troops.
+-Infantry units are great for capturing and holding urban, forested, and rough terrain.
+-Try not to leave weak infantry out in open and clear terrain.
+-Units break entrenchment when they move.
+-Entering a river hex ends a ground unit's movement, unless the river is frozen.
+-Keep weakened ground units within range of an AD or FlaK unit.
+-Experienced units sustain fewer casualties and inflict more damage than less experienced units.
+
+[Leaders, *=class leader]
+-Aggressive Attack leader gives the unit +2 Hard attack (HA), +2 Soft attack (SA).
+*Aggressive Maneuver is a Tank class leader giving +1 movement to the unit.
+-All Weather Combat leader allows the [air?] unit to attack regardless of the weather.
+-Alpine Training leader allows the unit to move with mountain ability.
+-Battlefield Intelligence leader makes unit immune to being surprised.
+-Bridging leader allows the unit to treat rivers as rough terrain.
+-Ground units with the Combat Support leader lends its bars to adjacent ground units.
+-Air units with the Combat Support leader lends its bars to adjacent air units.
+-Determined Defense leader gives the unit +2 Ground Defense (GD), +2 Air Defense (AD).
+-Devastating Fire leader allows the unit to fire twice.
+*Elite Recon Veteran is a Recon class leader giving +2 spotting.
+-Ferocious Defender leader causes entrenchment to be ignored by any unit. [?? can not be ignored]
+-Fire Discipline leader allows the unit to consume half the ammo when attacking.
+-First Strike leader allows the unit to fire first if initiative is won.
+-Flak Support leader allows the unit to do multiple Intercepts and also give Support Fire to ground units at range 1.
+-Forest Camouflage leader allows the unit to become invisible when located in forest terrain; any enemy ground unit entering it's ZOC is subject to a surprise contact.
+-Infiltration Tactics leader allows the unit to ignore entrenchment, and also allows it to act as a bridge.
+-Influence leader allows the unit to be upgraded, reinforced, or overstrength for half price.
+-Liberator leader allows the unit to earn double the prestige for capturing enemy hexes.
+*Marksman is an Artillery and Naval class leader giving +1 to range of attack.
+*Mechanized Veteran is an AD class leader that allows the unit to move then fire in the same turn.
+-Overwatch leader automatically ambushes the first enemy ground unit that moves within range of it.
+-Overwhelming Attack leader causes suppressions to become kills.
+-Reconnaissance Movement leader gives the unit to use phased movement.
+-Resilience leader makes the unit harder to destroy.
+-Shock Tactics leader allows the unit to inflict suppression that lasts the entire turn.
+*Skilled Assault is a Tactical Bomber class leader making the unit immune to surprise when "out of the sun".
+-Skilled Ground Attack leader gives a bonus when attacking ground units.
+*Skilled Interceptor is a Fighter class leader allowing the unit to intercept several times.
+-Skilled Reconnaissance leader gives the unit +1 for spotting.
+-Street Fighter leader allows the unit to ignore entrenchment in cities.
+-Superior Maneuver leader allows the unit to ignore Zone of Control (ZOC).
+*Tank Killer is an Anti Tank class leader allowing the unit to move and shoot without penalty.
+-Tenacious Defense leader gives +4 to ground defense.
+
+[Units]
+-Always read scenario intro briefings carefully.
+-Recon units can stagger their movement into separate stages.
+-Artillery or Capital ship with '=' at top of unit info screen are able to Barrage attack; press "Shift" and then target any unspotted hex.
+-A Successful Barrage Attack on a hidden enemy can destroy fuel and ammo as well as Strength points.
+-A Successful Barrage Attack on an empty hex can make the terrain harder to move through.
+-A Successful Barrage Attack can reduce a City, Airfield, Bridge, or Port to rubble, making them unusable until Repaired.
+-Level Bombers have the ability of Strategically Bombing an enemy's VH, SH, City, Port, or Airfield and if successful, the enemy will lose prestige according to the experience, strength, and leader of the Level Bomber.
+-The job of a recon unit is to scout ahead of attacking units and exploit breakthroughs.
+-Engineer units ignore entrenchment when attacking.
+-Units showing a 'z' at the top of unit info window are able to repair or blow up cities, airfields, ports, and bridges when they occupy them without having moved by selecting unit and pressing specific number to do specific task.
+-Units showing a 'z' at the top of unit info window are also able to lay or clear mines in hex they occupy without having moved by selecting unit and pressing specific number to do specific task.
+-Dismounted bridging units may serve as bridges to allow other units to quickly cross a unfrozen river.
+-An overrun is a special ability of Tanks that allow it destroy multiple units in a single turn.
+-A Tank that overruns an enemy unit can continue its attack if it still has movement allowance left.
+-A rugged defense can occur if a unit's movement takes it into the hex of a hidden enemy.
+-Don't rush forward with your Tanks until making sure that the route is clear of enemies.
+-FlaK units can fire at both Ground and Air targets.
+-FlaK and AD can Intercept enemy aircraft that fly within 1 hex of them.
+-Self Propelled AD and Arty units are ideal for supporting an attack.
+-Anti Tank units are meant to counter enemy Tank activity.
+-Engage enemy armor with anti-tank units from a distance if possible.
+-Artillery is useful for both attack and defense.
+-Fighter class units should be used to destroy enemy aircraft or to prevent enemy aircraft from carrying out their missions.
+-Tactical Bombers are like flying artillery; used correctly and covered by Fighter escorts, they can have a dramatic effect on the outcome of a battle.
+-Aircraft carriers act as mobile airfields for Fighters and Tactical Bombers.
+
+
+Visit OG Forums at http://forum.open-general.com/ to learn even more about OpenGen and Wargaming Tactics and Strategies.

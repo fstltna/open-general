@@ -1,0 +1,8 @@
+Running Fight
+
+02/01/1945
+
+'Kurmark' received orders to build a new defensive line to the north and south of Reppen. But the Soviets had already broken through on both flanks and the front was dissolving rapidly.
+
+7 deploy hexes. New units have strength 8 and experience 50. You have to hold or (re-) capture all victory hexes for a BV.
+No proto.

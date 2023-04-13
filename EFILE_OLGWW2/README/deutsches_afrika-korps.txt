@@ -1,0 +1,126 @@
+*** Deutsches Afrika-Korps Open General Version ***
+By Santiago Fuertes & Pablo Schlegel - LG 2011 - http://gilestiel.nerim.net/lg/
+
+*** BACKGROUND.
+
+Congratulations for your designation as new commander in chief of our expeditionary forces in Africa. Your mission is to aid our Italian partners in their fight against the British, after a bad year of defeats for our allies in Africa.
+
+The Italians have lost most of their territories in Africa, and we cannot allow the British to get complete control of this continent, otherwise, the Mediterranean Sea would be completely under enemy management.
+
+OKH knows that you will be able to stop the enemy, and defeat his plans. For this purpose, we will put under your command the 15th Panzer Division, and the 5th Leichte Division, however, depending on your success, more reinforcements would be sent to you.
+
+As soon as you arrive in Africa, you will feel that the environment is completely different from the Polish or French soil, where you have undertaken actions until now. The terrain there, is desertical, with extremely hot days, and icy nights. The roads are mainly sand stripes made by the wheels of the trucks, drawn between the dunes. The fuel and the water are precious goods, and basically the life is hard in the deserts of North Africa. 
+
+In the other hand, the enemy forces consist mainly of elements from the 8th British Army. Some of the enemy units are the finest of all the British Armies, like the 7th Armoured Division (Desert Rats). The British surely will outnumber our units, but our equipment is better, at least we think that.
+
+*** SCENARIOS.
+
+* Historical part 1941-1942
+Beda Fomm - Benghazi                   			
+Halfaya Pass                  	
+OperationCrusader                   	
+Mersa el Brega 1942                   
+Pursuit to Mechilli 
+Gazala Line
+Mersa Matruh
+Operation Herkules
+Alam Halfa Battle
+El Alamein
+
+* Hipothetical part 1942-1943
+Alexandria
+Port Said
+El Cairo
+Suez Kanal        	
+Kasserine Pass
+Bone
+Choice
+
+* Middle East
+El Arish
+Tel Aviv
+Siria
+Baghdad
+Tehran
+
+* Historical part 1941-1942
+Beda Fomm - Benghazi 
+Halfaya Pass 
+OperationCrusader 
+Mersa el Brega 1942 
+Pursuit to Mechilli 
+Gazala Line
+Mersa Matruh
+Operation Herkules
+Alam Halfa Battle
+El Alamein
+
+* Hipothetical part 1942-1943
+Alexandria
+Port Said
+El Cairo
+Suez Kanal 
+Kasserine Pass
+Bone
+Choice
+
+*Middle East
+El Arish
+Tel Aviv
+Siria
+Baghdad
+Tehran
+
+*Defeat Path
+Keren 
+Massawa 
+Mogadishu 
+Mombasa 
+Algiers 
+Oran 
+Port Lyautey 
+Casablanca 
+Sidi Bou Zid 
+Battle of Kasserine Pass 
+Bone 
+Medenine 
+Mareth Line 
+Tunis
+
+*** REQUERIMENTS.
+
+* Open General program. This campaign is NOT compatible with Panzer General 2.
+
+* MAPS: BENGHAZI, SOLLUM, BARDIA, AGEDABIA, GAZALA, MATRUH2, ALAMEIN, ALEXANDRIA, PORT SAID, CAIRO, SUEZ, KASSERINE, BONA, EURO, EL ARISH, TEL AVIV, DAMASCUS, BAGHDAD2, TEHRAN, KEREN, MASSAWA, MOGADISHU, MOMBASA, ALGIERS, ORAN, PORT LYAUTEY, CASABLANCA, MAKNASSY, MEDENINE, TUNIS.
+
+Get all the maps from:
+
+http://pg2mapfinder.gilestiel.eu/
+
+Following this link you will have all the maps in the same screen:
+
+http://pg2mapfinder.gilestiel.eu/index.php?search=116,214,45,48,141,515,46,47,38,109,63,62,111,346,849,209,373,363,362,420,419,113,114,149,172,203,39,58
+
+* EFILE: Open LG WW2 1.0 or higher (included). Check for updates the Open LG WW2 section at The Latin Generals website. http://gilestiel.nerim.net/lg/
+
+*** SETUP.
+
+1º - Update your PG2. Follow the instructions there:
+
+http://gilestiel.nerim.net/lg/tuto_eng.htm  (In English).
+
+http://gilestiel.nerim.net/lg/tuto_es.htm  (In Spanish).
+
+2º Unzip the campaign.zip file into the SCENARIO folder, usually c:\OG\EFILE_OLGWW2\SCENARIO.
+
+3º Unzip the mapfiles.zip file into the same folder of the 2º step.
+
+4º Unzip the OLGWW2_1.0.zip file into the main Open LG Cold War efile folder, usually c:\OG\EFILE_OLGWW2. Check from time to time for new updates.
+
+5º Unzip the special background sounds (available at The Latin Generals site) into the main SOUND folder, usually, c:\OG\SOUND.
+
+4º Play.
+
+*** SPECIAL THANKS.
+
+Corrected English TXT files by Doug Hone.

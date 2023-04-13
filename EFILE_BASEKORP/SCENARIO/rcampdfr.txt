@@ -1,0 +1,10 @@
+SOVIET BLACK SEA CAMPAIGN 1941-1944
+
+Version:  Apr-2019
+Number of Scenarios: 26
+Player Country: Russia
+Equipment file: Basekorp 
+Campaign Designer: Dennis Felling
+Modified by Brian Gosley aka Puma
+
+In 1941 German and Rumanian Armies invade the Soviet Union. Along the Black Sea coasts battles were fought from the beginning in 1941 until far into 1944. Odessa, Sevastopol, Kerch, Feodosiya, Rostov, Novorossiysk, Ordzhonikidze, Maikop. All important battles, fought close to the Black Sea. The enemy will drive you back during 1941 and 1942, but in the winter of 1942/1943 the tide turns, and during 1943 and 1944 you will advance west. Finally you reach the positions you had in 1941, and invade Rumania and Bulgaria. Then the coasts of the Black Sea are once again pacified.

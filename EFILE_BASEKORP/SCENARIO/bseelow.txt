@@ -1,0 +1,65 @@
+Seelow
+Frankfurt
+Strausberg
+Furstenwalde
+Berlin
+Oder River
+Warta River
+Hauptgraben River
+Alte Oder River
+Oder-Spree Canal
+Spree River
+27/11G
+45/11G
+44/11G
+40/11G
+12/11
+36/11
+20/11
+805/230
+990/230
+988/230
+193/90G
+274/90G
+272/90G
+192/87G
+264/87G
+262/87G
+132/60G
+185/60G
+180/60G
+902/248
+905/248
+899/248
+Frankfurt
+Pillgram
+Hasenfeld
+Mullrose
+Beeskow
+Seelow
+Kustrin
+Kunersdorf
+Protzel
+Strausberg
+Spreenhagen
+Furstenwalde
+Waldsieversdorf
+Garzin
+Muncheberg
+Eisenhuttenstadt
+Sophienthal
+Berlin
+Berlin
+Krummensee
+Bernau
+LAKE
+LAKE
+Aurith
+248
+248
+248
+248
+5G
+5G
+5G
+5G

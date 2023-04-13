@@ -1,0 +1,17 @@
+Broken Steamroller
+
+July 4th, 1916
+
+After the battle of Gorlice, all was quiet on the eastern front. For almost the entire year the war was conducted in the Balkans, Alpes, and Turkish Straits... But in 1916 the Germans decided to start the war of attrition and attacked at Verdun. France was on the edge of disaster so they asked the allies to attack on other fronts to relieve them. The Brits attacked at Somme, Italians at Isonzo, and the Russians began the Brusilov's offensive which pushed the KuK army back.
+ 
+Legiony Polskie was stationed at the front at Wo³yñ for almost the entire year. All three brigades were together and consisted mostly of infantry but with some artillery and cavalry as well. Initially Brusilov's main thrust omitted Polish positions. But after a few weeks, the Poles were also under harsh conditions.
+
+Orders: Initial infantry unit must survive. Hold 12 turns of constant Russian attacks: for BV keep 3 VHs, for V keep 2 VHs, and for TV keep 1 VH.
+
+Intelligence report: Russians are coming from the North, East and South.
+Your goal is to judge which part of the frontline is threatened, and send the reinforcements there.
+Fast units of the Turkish Expedtionary Corps will arrive as reinforcements. So very exotic equipment is - theoretically - available.
+Our resources are limited, so there will be no prestige for refitting. 
+MG with transport will increase the ground and air defence of the core.
+
+Good Luck!

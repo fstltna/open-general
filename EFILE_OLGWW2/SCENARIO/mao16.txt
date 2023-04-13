@@ -1,0 +1,133 @@
+Sino - Soviet Incident
+Amur River
+Tungusskij Sawod
+Osipovka
+Wolotschajowka Wtoraja
+Khabarovsk
+Vladimirovka
+Ussuri River
+Nekrasowka
+Wu-su-chen
+Shuangysan
+Hsiao-wen-t'sai
+Hulin
+Bikin
+LAKE
+PLAA
+PLAA
+PLAA
+PLAA
+[18 Army HQ]
+178 PLA Div./[60C]
+178 PLA Div./[60C]
+178 PLA Div./[60C]
+179 PLA Div./[60C]
+179 PLA Div./[60C]
+179 PLA Div./[60C]
+180 PLA Div./[60C]
+180 PLA Div./[60C]
+180 PLA Div./[60C]
+181 PLA Div./[61C]
+181 PLA Div./[61C]
+181 PLA Div./[61C]
+182 PLA Div./[61C]
+182 PLA Div./[61C]
+182 PLA Div./[61C]
+183 PLA Div./[61C]
+183 PLA Div./[61C]
+183 PLA Div./[61C]
+184 PLA Div./[62C]
+184 PLA Div./[62C]
+184 PLA Div./[62C]
+185 PLA Div./[62C]
+185 PLA Div./[62C]
+185 PLA Div./[62C]
+186 PLA Div./[62C]
+186 PLA Div./[62C]
+186 PLA Div./[62C]
+[60 Corps HQ]
+[61 Corps HQ]
+[62 Corps HQ]
+Tk.Btn./-/[60C]
+Tk.Btn./-/[61C]
+Tk.Btn./-/[62C]
+178 PLA Div./[60C]
+180 PLA Div./[60C]
+179 PLA Div./[60C]
+181 PLA Div./[61C]
+182 PLA Div./[61C]
+183 PLA Div./[61C]
+184 PLA Div./[62C]
+186 PLA Div./[62C]
+185 PLA Div./[62C]
+[18 Army Att.]
+[18 Army Att.]
+[18 Army Att.]
+[18 Army Att.]
+[18 Army Att.]
+50 FEAB/-/[FEF]
+73 MR Div./[17A]
+73 MR Div./[17A]
+73 MR Div./[17A]
+73 MR Div./[17A]
+73 MR Div./[17A]
+51 MR Div./[17A]
+51 MR Div./[17A]
+51 MR Div./[17A]
+51 MR Div./[17A]
+51 MR Div./[17A]
+[17 Army Att.]
+Ftr.Grp. 2/FEAF
+Ftr.Grp. 2/FEAF
+Ftr.Bmr.Grp. 7/FEAF
+Ftr.Bmr.Grp. 7/FEAF
+8 Tk.Div./[3A]
+8 Tk.Div./[3A]
+8 Tk.Div./[3A]
+8 Tk.Div./[3A]
+8 Tk.Div./[3A]
+12 MR Div./[3A]
+12 MR Div./[3A]
+12 MR Div./[3A]
+12 MR Div./[3A]
+12 MR Div./[3A]
+12 MR Div./[3A]
+12 MR Div./[3A]
+8 Tk.Div./[3A]
+8 Tk.Div./[3A]
+22 MR Div./[3A]
+22 MR Div./[3A]
+22 MR Div./[3A]
+22 MR Div./[3A]
+22 MR Div./[3A]
+PLA People's Militia
+PLA People's Militia
+PLA People's Militia
+PLA People's Militia
+PLA People's Militia
+PLA People's Militia
+PLA People's Militia
+[61 Corps Att.]
+[62 Corps Att.]
+Sinivaja Retschka
+[FEF]
+[17 Army Att.]
+8 Tk.Div./[3A]
+[3 Army Att.]
+[17 Army HQ]
+[3 Army HQ]
+[FEF HQ]
+[3 Army Att.]
+Radar Installation
+60 MR Div./[14A]
+60 MR Div./[14A]
+60 MR Div./[14A]
+60 MR Div./[14A]
+60 MR Div./[14A]
+60 MR Div./[14A]
+60 MR Div./[14A]
+[FEF Border Guards]
+[FEF Border Guards]
+[FEF Border Guards]
+[FEF Border Guards]
+Zhen Bao/Damansky Island

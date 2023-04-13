@@ -1,0 +1,413 @@
+Fortress Frankfurt
+ArtRgt.303/'Doeberitz'
+GrenRgt.300/'Doeberitz'
+GrenRgt.301/'Doeberitz'
+GrenRgt.302/'Doeberitz'
+PzAbwAbt.230/169.ID
+ArtRgt.230/169.ID
+GrenRgt.378/169.ID
+GrenRgt.392/169.ID
+GrenRgt.379/169.ID
+FuesBat.230/169.ID
+PioBat.230/169.ID
+StuG-Ausbld.Brig.111
+ArtRgt.1712/712.ID
+GrenRgt.745/712.ID
+GrenRgt.732/712.ID
+GrenRgt.764/712.ID
+I-IV/VolksArtKorps 404
+I/FlaKRgt.26
+PzGrenRgt.1235/'Kurmark'
+ArtRgt.286/286.ID
+GrenRgt.926/286.ID
+GrenRgt.927/286.ID
+GrenRgt.931/286.ID
+SturmBat./AOK 9
+SS-Wrf.Abt.505
+SS-Wrf.Abt.506
+FahnenjunkerRgt.1257
+SS-Frw.ArtRgt.32/32.SS
+'Becker'(88.)/32.SS
+'Kurmark'(87.)/32.SS
+'Schill'(86.)/32.SS
+KG 'Krauss'/32.SS
+KG 'Schoettle'/32.SS
+Ung. Waffen-SS Bat.
+SS-PzJgAbt.561
+SS-GrenRgt.'Falke'
+FahnenjunkerRgt.1233
+GrenRgt.95/391.SichD
+ArtRgtsStab 391/391.SichD
+I/FF
+II/FF
+III/FF
+IV/FF
+V/FF
+VI/FF
+VII/FF
+VS Oberdonau
+VS Franken
+VS Thueringen
+VS Dresden
+VS Wuerzburg
+Fest.PaK-Verband/FF
+Art.Ers.u.Ausbld.Abt.59
+Pio-SperrBat.zbV.
+Fest.InfBat.1449
+Fest.MgBat.84
+Fest.FlaKBat.829
+Fest.ArtAbt.1326
+Fest.ArtAbt.1325
+Fest.ArtAbt.3157
+Posten/FF
+III/JG 1
+Nahaufkl.Grp.8
+II/SchlG 2
+III/SchlG 2
+Selbstopferverband
+Pontoon Bn./69th Army
+I/PzAbt./'Kurmark'
+sSS-PzAbt.502
+PzArtRgt./'Kurmark'
+PzAufklAbt./'Kurmark
+PzGrenRgt./'Kurmark'
+PzPioBat./'Kurmark'
+SPG Bn./79th GRflD
+ATY Rgt./79th GRflD
+1 GRflRgt./79th GRflD
+2 GRflRgt./79th GRflD
+ATY Rgt./88th GRflD
+1 GRflRgt./88th GRflD
+2 GRflRgt./88th GRflD
+Engr Bn./88th GRflD
+SPG Bn./77th GRflD
+ATY Rgt./77th GRflD
+ATY Rgt./4th RflD
+ATY Rgt./134th RflD
+1 GRflRgt./77th GRflD
+2 GRflRgt./77th GRflD
+1 RflRgt./4th RflD
+2 RflRgt./4th RflD
+1 RflRgt./134th RflD
+2 RflRgt./134th RflD
+ATY Rgt./41st RflD
+Mor.Rgt./274th RflD
+1 RflRgt./274th RflD
+2 RflRgt./274th RflD
+1 RflRgt./246th RflD
+2 RflRgt./246th RflD
+1 RflRgt./41st RflD
+2 RflRgt./41st RflD
+ATY Rgt./246th RflD
+AA ATY Rgt./69th Army
+68th Tk Bde
+Mor.Rgt./312th RflD
+ATY Rgt./117th RflD
+1 RflRgt./312th RflD
+2 RflRgt./312th RflD
+1 RflRgt./117th RflD
+2 RflRgt./117th RflD
+1 RflRgt./283rd RflD
+2 RflRgt./283rd RflD
+1 RflRgt./129th RflD
+2 RflRgt./129th RflD
+1 RflRgt./64th RflD
+2 RflRgt./64th RflD
+1 RflRgt./39th RflD
+2 RflRgt./39th RflD
+ATY Rgt./283rd RflD
+Mor.Rgt./129th RflD
+Mor.Rgt./39th RflD
+ATY Rgt./64th RflD
+Engr Bn./283rd RflD
+AA ATY Rgt./33rd Army
+Pontoon Bn./33rd Army
+1 RflRgt./383rd RflD
+2 RflRgt./383rd RflD
+1 RflRgt./339th RflD
+2 RflRgt./339th RflD
+1 RflRgt./323rd RflD
+2 RflRgt./323rd RflD
+1 RflRgt./93rd RflD
+2 RflRgt./93rd RflD
+ATY Rgt./339th RflD
+ATY Rgt./323rd RflD
+Mor.Rgt./93rd RflD
+ATY Rgt./383rd RflD
+AA ATY Rgt./33rd Army
+Pontoon Bn./33rd Army
+Engr Bn./93rd RflD
+1 RflRgt./49th RflD
+2 RflRgt./49th RflD
+1 RflRgt./362nd RflD
+2 RflRgt./362nd RflD
+1 RflRgt./222nd RflD
+2 RflRgt./222nd RflD
+SPG Bn./49th RflD
+ATY Rgt./222nd RflD
+Mor.Rgt./49th RflD
+ATY Rgt./362nd RflD
+Engr Bn./362nd RflD
+356+367 MgBn/119th Fort.Area
+379+380 MgBn/119th Fort.Area
+16+45 MgBn/115th Fort.Area
+370+405+406 MgBn/115th Fort.Area
+401 MgBn/119th Fort.Area
+407+408 MgBn/115th Fort.Area
+Pontoon Bn./33rd Army
+Tk Bde/8th mech. Corps
+RL Rgt./8th mech. Corps
+AA Rgt./8th mech. Corps
+1 GKav Bde/2nd GKavCorps
+2 GKav Bde/2nd GKavCorps
+3 GKav Bde/2nd GKavCorps
+Tk Bde/11th Ind.Tk Corps
+Tk Bde/11th Ind.Tk Corps
+SP ATY Rgt./11th Ind.Tk Corps
+RL Rgt./11th Ind.Tk Corps
+13th Ftr Corps
+9th Air Assault Corps
+3rd Air Bomber Corps
+MF Buschmuehle
+Posten Lindow
+MF Wueste Kunersdorf
+Stellung Podelzig
+HQ V.SS-Geb.Korps
+Posten Treplin
+Posten Wulkow
+Dolgelin
+Huderberg
+Mallnow
+Sachsendorf
+Werder
+Podelzig
+Libbenichen
+Alt Mahlisch
+Niederjesar
+Aalkasten
+Aalkasten
+Aalkasten
+Carzig
+Alt Zeschdorf
+Schoenfliess
+Hathenow
+Reitwein
+Lebus
+Lebus
+Lebus
+Wueste Kunersdorf
+Klessin
+Neu Lebus
+Wulkow
+Treplin
+Treplin
+Kliestow
+Boossen
+Hirschberge
+Hirschberge
+Hirschberge
+Hirschberge 
+Hirschberge
+Hirschberge
+Hirschberge
+Hirschberge
+Rosengarten
+Pillgram
+Pillgram
+Pagram
+Lichtenberg
+Frankfurt an der Oder
+Frankfurt an der Oder
+Frankfurt an der Oder
+Frankfurt an der Oder
+Frankfurt an der Oder
+Frankfurt an der Oder
+Frankfurt an der Oder
+Frankfurt an der Oder
+Frankfurt an der Oder
+Frankfurt an der Oder
+Frankfurt an der Oder
+Dammvorstadt
+Dammvorstadt
+Dammvorstadt
+Gueldendorf
+Schwetig
+Markendorf
+Eichwald
+Eichwald
+Eichwald
+Lossow
+Hohenwalde
+Biegen
+Tagebau
+Tagebau
+Tagebau
+Tagebau
+Tagebau
+Tagebau
+Muellrose
+Muellrose
+Muellrose
+Grosser Muellroser See
+Grosser Muellroser See
+Schlaubehammer
+Gross Lindow
+Friedrich-Wilhelm-Kanal
+Friedrich-Wilhelm-Kanal
+Friedrich-Wilhelm-Kanal
+Friedrich-Wilhelm-Kanal
+Friedrich-Wilhelm-Kanal
+Friedrich-Wilhelm-Kanal
+Brieskow-Finkenheerd
+Brieskow-Finkenheerd
+Mixdorf
+Grunow
+Riessener Berge
+Riessener Berge
+Riessener Berge
+Riessener Berge
+Riessener Berge
+Riessener Berge
+Riessener Berge
+Wiesenau
+Schernsdorf
+Riessen
+Pohlitz
+Fuenfeichen
+Fuerstenberg
+Fuerstenberg
+Ziltendorf
+Vogelsang
+Kunitzer Loose
+Aurith
+Aurith
+Oder Vorwerk
+Goeritz
+Goeritz
+Laessig
+Frauendorf
+Gohlitz
+Leissow
+Starkau
+Klein Rade
+Trettin
+Trettin
+Bischofsee
+Kunersdorf
+Kunersdorf
+Reipzig
+Kunitz
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder-Spree-Kanal
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Oder
+Reitweiner Sporn
+Reitweiner Sporn
+Reitweiner Sporn
+Reitweiner Sporn
+Reitweiner Sporn
+Reitweiner Sporn
+Reitweiner Sporn
+Reitweiner Sporn
+Reitweiner Sporn
+Reitweiner Sporn
+Reitweiner Sporn
+Reitweiner Sporn
+Reitweiner Sporn
+Reitweiner Sporn
+Reitweiner Sporn
+Reitweiner Sporn
+Reitweiner Sporn
+Trepliner See
+Quelle Eduardspring
+Kuestriner Berg
+MF
+MF
+Posten
+Posten
+Bunker
+Bunker
+1 FlaK/FF
+2 FlaK/FF
+Bunker
+Bunker
+Stab/V. SS-Geb.Korps
+II/PzAbt./'Kurmark'
+move 1 hex SW

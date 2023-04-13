@@ -1,0 +1,10 @@
+'---
+'Config AI file for scenario: NOMarinExp17.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=2 items  ' Replacement for default list
+1773  '  F6F-5 Hellcat  [FTR  USA]  Cost: 864
+4764  '  SB2C-4 Helldiver  [ TB  USA]  Cost: 816

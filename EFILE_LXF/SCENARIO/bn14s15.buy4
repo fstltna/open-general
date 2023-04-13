@@ -1,0 +1,72 @@
+'---
+'Config purchase file for scenario: BN14S15.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 73 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+ 282  '  Type 98 Ke-Ni  [ TK  Japan]  Cost: 372
+ 295  '  Ki-51  [ TB  Japan]  Cost: 576
+ 298  '  Type 91  [FTR  Japan]  Cost: 324
+ 300  '  Ki-10-I  [FTR  Japan]  Cost: 456
+ 495  '  Type 99 8.8cm  [ AD  Japan]  Cost: 564
+ 603  '  Type 95 7.5cm FG  [ATY  Japan]  Cost: 216
+ 671  '  Type 88 7.5cm  [ AD  Japan]  Cost: 276
+ 789  '  Guards  [INF  Japan]  Cost: 168
+ 880  '  Ki-27  [FTR  Japan]  Cost: 528
+ 907  '  Type 94 7.5cm M  [ATY  Japan]  Cost: 144
+ 925  '  Ki-21-Ia  [ TB  Japan]  Cost: 480
+ 958  '  Type 94A  [RCN  Japan]  Cost: 204
+ 959  '  Type 97 Te-Ke 37mm  [RCN  Japan]  Cost: 288
+ 960  '  Type 95 Ha-Go  [ TK  Japan]  Cost: 360
+ 966  '  Type 97A Chi-Ha  [ TK  Japan]  Cost: 396
+ 971  '  Type 90 7.5cm CS  [ AT  Japan]  Cost: 144
+ 972  '  Type 92 Osaka  [RCN  Japan]  Cost: 168
+ 973  '  Type 87  [RCN  Japan]  Cost: 144
+ 976  '  Type 96 2.5cm  [FlaK  Japan]  Cost: 84
+ 977  '  Regular Infantry  [INF  Japan]  Cost: 132
+ 978  '  Engineers  [INF  Japan]  Cost: 480
+ 979  '  Regular Cavalry  [INF  Japan]  Cost: 156
+ 981  '  Type 14 10cm FG  [ATY  Japan]  Cost: 288
+ 982  '  Type 38 7.5cm FG  [ATY  Japan]  Cost: 204
+ 983  '  Type 38 12cm H  [ATY  Japan]  Cost: 156
+ 984  '  Type 92B  [RCN  Japan]  Cost: 228
+ 988  '  Ki-30  [ TB  Japan]  Cost: 516
+1013  '  Type 98 2cm AA Truck  [FlaK  Japan]  Cost: 228
+1014  '  Type 11 7.5cm  [ AD  Japan]  Cost: 252
+1022  '  Type 94 3.7cm  [ AT  Japan]  Cost: 84
+1024  '  Type SS Ki-Bo BL  [ AT  Japan]  Cost: 516
+1025  '  Type SS Ki  [ AT  Japan]  Cost: 468
+1026  '  Type 4 15cm H  [ATY  Japan]  Cost: 324
+1027  '  Type 90 7.5cm FG  [ATY  Japan]  Cost: 348
+1028  '  Type 91 10cm H  [ATY  Japan]  Cost: 288
+1029  '  Type 92 10cm FG  [ATY  Japan]  Cost: 696
+1030  '  Type 92 7cm IG  [ AT  Japan]  Cost: 96
+1031  '  Type 96 15cm H  [ATY  Japan]  Cost: 480
+1032  '  Type 99 10cm M  [ATY  Japan]  Cost: 192
+1037  '  Type 92 Kokusan  [RCN  Japan]  Cost: 204
+1038  '  Type 93  [RCN  Japan]  Cost: 144
+1044  '  Ki-32  [ TB  Japan]  Cost: 504
+1045  '  Ki-49-IIb  [ LB  Japan]  Cost: 996
+1049  '  Type 89B I-Go  [ TK  Japan]  Cost: 288
+1052  '  Type 97 Te-Ke 7.7mm  [RCN  Japan]  Cost: 228
+1681  '  Construction  [INF  Japan]  Cost: 192
+1682  '  Mountain Infantry  [INF  Japan]  Cost: 276
+2408  '  Type 3 81mm  [ATY  Japan]  Cost: 108
+2667  '  Light Infantry  [INF  Japan]  Cost: 108
+2809  '  Otsu-Gata Sensha  [ TK  Japan]  Cost: 252
+2851  '  Type 95 Kurogane  [RCN  Japan]  Cost: 96
+2909  '  Combat Command  [INF  Japan]  Cost: 180
+3056  '  Type 95 CC  [ TK  Japan]  Cost: 300
+3371  '  MG Infantry  [ AT  Japan]  Cost: 120
+4779  '  Recon Infantry  [RCN  Japan]  Cost: 120
+6459  '  Type 41 7.5cm M  [ATY  Japan]  Cost: 132
+6935  '  Ki-9  [ TB  Japan]  Cost: 192
+7580  '  Ki-4  [ TB  Japan]  Cost: 276
+
+#2    '  Item/s for Player3 follow...
+ 593  '  Guerrilla  [INF  Communist China]  Cost: 144

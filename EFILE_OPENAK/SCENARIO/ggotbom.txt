@@ -1,0 +1,79 @@
+Operation Typhoon-Battle of Mtsensk
+Upgrades and overstrengthening
+River Oka
+River Plava
+Deploy core at 5,29 when Inf arrives
+Novyje Dol'cy
+Mokroye
+Plavsk
+Kireykovo
+Gorbachevo
+Bolkhov
+Borilovo
+River Nuga
+River Zusha
+Tchern
+Znamenskoye
+Lipicy
+Lipitsy
+Tel'cje
+Otradinskiy
+Mtsensk
+Dubovaya Roshcha
+Zherdevo
+Chulkovo
+Orel
+Naryshkino
+Novosil
+Mokhovoye
+Znamenka
+Move to 5,29
+I/36/4th Pz[XXIV]
+II/36/4th Pz[XXIV]
+I/35/4th Pz[XXIV]
+II/KG 3(II)LF2
+III/KG 3(II)LF2
+I/Tula Cadets(I Guards)
+II/Tula Cadets(I Guards)
+III/Tula Cadets(I Guards)
+IV/Tula Cadets(I Guards)
+I/36 Motociklisti(I Guards)
+II/36 Motociklisti(I Guards)
+III/36 Motociklisti(I Guards)
+I/401/6th Guards(I Guards)
+II/401/6th Guards(I Guards)
+I/474/6th Guards(I Guards)
+II/474/6th Guards(I Guards)
+I/540/6th Guards(I Guards)
+I/599/6th Guards(I Guards)
+I/201st AB(V ALC)(I Guards)
+II/201st AB(V ALC)(I Guards)
+III/201st AB(V ALC)(I Guards)
+I/4/4th Tk Brigade(I Guards)
+II/4/4th Tk Brigade(I Guards)
+III/4/4th Tk Brigade(I Guards)
+I/11/11th Tk Brigade(I Guards)
+II/11/11th Tk Brigade(I Guards)
+III/11/11th Tk Brigade(I Guards)
+II/217/108th Tk(L)
+I/216/108th Tk(L)(REM)
+II/216/108th Tk(L)
+II/108/108th Tk(L)
+I/108/108th Tk(L)
+III/108/108th Tk(L)
+II/108/108th Tk(L)
+II/606/6th Guards(I Guards)
+II/540/6th Guards(I Guards)
+III/105/6th Guards(I Guards)
+II/193/6th Guards(I Guards)
+98IAP/1ShAD
+94IAP/1ShAD
+23BAD/1ShAD
+21BAD/1ShAD
+122BAD/1ShAD
+113BAD/1ShAD
+IV/108/108th Tk(L)
+I/180/6th Guards(I Guards)
+II/180/6th Guards(I Guards)
+III/180/6th Guards(I Guards)
+V/108/108th Tk(L)

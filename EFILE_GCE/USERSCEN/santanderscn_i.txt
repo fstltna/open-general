@@ -1,0 +1,12 @@
+La Caída de Santander
+
+Tras la conquista de Bilbao, las tropas nacionales se preparan para acabar con otra de las provincias del norte republicano: Santander. El inicio se retrasa por la ofensiva republicana en Brunete pero, detenida ésta, ya nada impide el ataque, que se desencadena el 14 de agosto de 1937.
+El CTV se despliega al sur del Puerto del Escudo para tratar de forzar las lineas gubernamentales y conseguir la victoria que Mussolini les exige.
+Resultado: la conquista de Santander por parte del ejercito nacional supone uno de los mayores desastres hasta el momento para la República: pierde unos 60.000 hombres, muchos capturados, así como abundante material de guerra. Más importante aún es la práctica liquidación del frente norte, en el que solo resiste Asturias, que terminará cayendo el 21 de octubre.
+Durante la batalla por Santander también se produce la rendición de la mayor parte de los batallones vascos en el conocido como "Pacto de Santoña", aunque realmente se firmó en Guriezo, localidad próxima.
+
+Efile: GCE
+Map: Santander
+Map design: Guille
+Scenario design: Guille
+Maximum scenario lenght: 18 Turns

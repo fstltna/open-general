@@ -1,0 +1,185 @@
+'---
+'Config purchase file for scenario: legion8.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 174 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+ 197  '  20mm 20/65  [FlaK  Italy]  Cost: 60
+ 198  '  20mm 20/65  [FlaK  Italy]  Cost: 60
+ 199  '  20mm 20/65 Camion  [FlaK  Italy]  Cost: 192
+ 200  '  47mm 47/32  [ AT  Italy]  Cost: 84
+ 204  '  100mm 100/17  [ATY  Italy]  Cost: 204
+ 205  '  149mm 149/13  [ATY  Italy]  Cost: 444
+ 206  '  75mm 75/27  [ATY  Italy]  Cost: 144
+ 209  '  Bunker  [FRT  Italy]  Cost: 144
+ 210  '  Fanteria Trinceata 18  [INF  Italy]  Cost: 168
+ 216  '  Littorio  [sBS  Italy]  Cost: 1668
+ 217  '  Zara  [sBS  Italy]  Cost: 864
+ 218  '  Giussano  [sBS  Italy]  Cost: 480
+ 219  '  L6/40  [ TK  Italy]  Cost: 216
+ 220  '  M13/40  [ TK  Italy]  Cost: 348
+ 227  '  MC.200  [FTR  Italy]  Cost: 504
+ 230  '  Re.2000  [FTR  Italy]  Cost: 600
+ 232  '  Ba.65  [ TB  Italy]  Cost: 504
+ 552  '  Soldati  [sDD  Italy]  Cost: 264
+ 621  '  75mm 75/46  [ AD  Italy]  Cost: 324
+ 625  '  Fanteria 40  [INF  Italy]  Cost: 108
+ 688  '  65mm 65/17 AT  [ AT  Italy]  Cost: 96
+ 701  '  AB-40  [RCN  Italy]  Cost: 216
+ 719  '  37mm 37/45  [ AT  Italy]  Cost: 72
+ 866  '  Moto Guzzi Alce  [TPT  Italy]  Cost: 120
+ 893  '  105mm 105/28  [ATY  Italy]  Cost: 276
+ 974  '  M11/39  [ TK  Italy]  Cost: 288
+ 981  '  CR.42  [FTR  Italy]  Cost: 396
+ 982  '  L3/35  [ TK  Italy]  Cost: 168
+ 988  '  Ro.37  [ TB  Italy]  Cost: 348
+ 992  '  SM.79K  [ TB  Italy]  Cost: 648
+1000  '  L3/35 Lancia Fiamme  [ TK  Italy]  Cost: 252
+1340  '  75mm 75/39  [ AD  Italy]  Cost: 324
+1341  '  75mm 75/46 Camion  [ AD  Italy]  Cost: 708
+1342  '  90mm 90/53  [ AD  Italy]  Cost: 528
+1343  '  90mm 90/53 Camion  [ AD  Italy]  Cost: 888
+1355  '  81mm Mortar  [ATY  Italy]  Cost: 204
+1356  '  65mm 65/17  [ATY  Italy]  Cost: 216
+1357  '  70mm 70/15  [ATY  Italy]  Cost: 180
+1358  '  75mm 75/18  [ATY  Italy]  Cost: 144
+1359  '  75mm 75/13  [ATY  Italy]  Cost: 216
+1360  '  105mm 105/11  [ATY  Italy]  Cost: 384
+1361  '  149mm 149/28  [ATY  Italy]  Cost: 804
+1362  '  149mm 149/40  [ATY  Italy]  Cost: 1500
+1366  '  Cavalleria 40  [INF  Italy]  Cost: 156
+1371  '  AB-611  [RCN  Italy]  Cost: 216
+1372  '  Lancia 1Z  [RCN  Italy]  Cost: 204
+1376  '  L3/38  [ TK  Italy]  Cost: 180
+1379  '  CR.32AS  [FTR  Italy]  Cost: 372
+1380  '  G.50  [FTR  Italy]  Cost: 492
+1383  '  Ju 87B-1  [ TB  Italy]  Cost: 504
+1384  '  Ba.88  [ TB  Italy]  Cost: 672
+1385  '  SM.81  [ TB  Italy]  Cost: 540
+1386  '  Z.506  [ TB  Italy]  Cost: 720
+1387  '  Ca.133  [ TB  Italy]  Cost: 504
+1388  '  Z.1007bis  [ TB  Italy]  Cost: 708
+1389  '  BR.20  [ TB  Italy]  Cost: 516
+1392  '  Fiat 626  [TPT  Italy]  Cost: 96
+1393  '  Navigatori  [sDD  Italy]  Cost: 276
+1394  '  Duca d'Aosta  [sBS  Italy]  Cost: 504
+1395  '  Duca degli Abruzzi  [sBS  Italy]  Cost: 540
+1396  '  Trento  [sBS  Italy]  Cost: 816
+1397  '  Andrea Doria  [sBS  Italy]  Cost: 1320
+1398  '  Sirena  [SUB  Italy]  Cost: 444
+1437  '  8mm modello 37  [FlaK  Italy]  Cost: 48
+1771  '  Paracadutisti 40  [INF  Italy]  Cost: 288
+1947  '  90mm 90/53  [FlaK  Italy]  Cost: 300
+1963  '  155mm 155/14  [ATY  Italy]  Cost: 588
+2359  '  Conte di Cavour (1936)  [sBS  Italy]  Cost: 1008
+2455  '  CR.42bis  [FTR  Italy]  Cost: 420
+2653  '  149mm 149/35  [ATY  Italy]  Cost: 996
+2657  '  San Marco 40  [INF  Italy]  Cost: 288
+2661  '  Ca.111  [ LB  Italy]  Cost: 468
+2663  '  Fiat 2800  [TPT  Italy]  Cost: 192
+2664  '  SPA Dovunque 35  [TPT  Italy]  Cost: 84
+2665  '  Pavesi P4-100  [TPT  Italy]  Cost: 60
+2666  '  Breda 61  [TPT  Italy]  Cost: 168
+2667  '  Lancia 3RO  [TPT  Italy]  Cost: 72
+2670  '  Bicicletta  [TPT  Italy]  Cost: 24
+2671  '  Mules  [TPT  Italy]  Cost: 72
+3157  '  MAS  [sDD  Italy]  Cost: 168
+3158  '  RD  [sDD  Italy]  Cost: 180
+3175  '  Adua  [SUB  Italy]  Cost: 456
+3176  '  Cagni  [SUB  Italy]  Cost: 504
+3217  '  Archimede  [SUB  Italy]  Cost: 480
+3349  '  100mm Mortar  [ATY  Italy]  Cost: 228
+3350  '  47mm 47/32 AB  [ AT  Italy]  Cost: 108
+3560  '  Alpini 40  [INF  Italy]  Cost: 288
+3568  '  Guastatori 40  [INF  Italy]  Cost: 312
+3579  '  Esploratore a Cavallo 40  [RCN  Italy]  Cost: 168
+3583  '  PAI 40  [RCN  Italy]  Cost: 168
+3587  '  MG 40  [FlaK  Italy]  Cost: 156
+3591  '  MVSN Camicie Nere 40  [INF  Italy]  Cost: 72
+3596  '  Stati Maggiori 38  [INF  Italy]  Cost: 384
+3598  '  Stati Maggiori Paracadutisti 38  [INF  Italy]  Cost: 444
+3601  '  Paracadutisti Guastarori 40  [INF  Italy]  Cost: 360
+3609  '  Bersaglieri 40  [INF  Italy]  Cost: 120
+3617  '  Genio 40  [INF  Italy]  Cost: 156
+3625  '  Bersaglieri Motociclisti 40  [INF  Italy]  Cost: 204
+3629  '  Fanteria Anticarro 40  [INF  Italy]  Cost: 252
+3637  '  Fanteria motorizzata 40  [INF  Italy]  Cost: 168
+3643  '  Carabinieri 38  [INF  Italy]  Cost: 48
+3649  '  Zaptie Cavalleria 40  [INF  Italy]  Cost: 156
+3651  '  105mm 105/32  [ATY  Italy]  Cost: 588
+3652  '  152mm 152/13  [ATY  Italy]  Cost: 456
+3653  '  149mm 149/19  [ATY  Italy]  Cost: 1092
+4191  '  Marconi  [SUB  Italy]  Cost: 492
+4318  '  Camelus  [TPT  Italy]  Cost: 60
+4393  '  CR.42ter  [FTR  Italy]  Cost: 444
+4495  '  G.50bis  [FTR  Italy]  Cost: 528
+4496  '  CR.32CN  [FTR  Italy]  Cost: 432
+4497  '  CR.42AS  [FTR  Italy]  Cost: 444
+4498  '  BR.20M  [ LB  Italy]  Cost: 552
+4500  '  MC.200CB  [FTR  Italy]  Cost: 564
+4503  '  Ca.309  [ TB  Italy]  Cost: 420
+4506  '  Ro.37bis  [ TB  Italy]  Cost: 360
+4591  '  Z.506B  [ LB  Italy]  Cost: 468
+4769  '  Fort  [FRT  Italy]  Cost: 168
+4787  '  Ca.311M  [ LB  Italy]  Cost: 420
+4828  '  Ca.310  [ TB  Italy]  Cost: 408
+4890  '  Horse Transport  [TPT  Italy]  Cost: 36
+4915  '  SM.82bis  [ LB  Italy]  Cost: 708
+4916  '  CR.25bis  [FTR  Italy]  Cost: 732
+4917  '  RS.14C  [ LB  Italy]  Cost: 576
+4918  '  Ca.313  [ TB  Italy]  Cost: 444
+4936  '  Ca.133  [ LB  Italy]  Cost: 444
+4938  '  Ca.311  [ TB  Italy]  Cost: 420
+4941  '  CR.42CN  [FTR  Italy]  Cost: 480
+4988  '  SM.84  [ TB  Italy]  Cost: 648
+5304  '  OM36P  [TPT  Italy]  Cost: 72
+5310  '  Autocannone C8 65/17  [ AT  Italy]  Cost: 252
+5313  '  Autocannone 3RO 47/32  [ AT  Italy]  Cost: 192
+5547  '  L6/40 Lancia Fiamme  [ TK  Italy]  Cost: 336
+5548  '  L6/40 Centro Radio  [ TK  Italy]  Cost: 396
+5606  '  Ro.1  [ TB  Italy]  Cost: 336
+5693  '  SPA AS.37  [TPT  Italy]  Cost: 180
+5743  '  Ro.43  [ TB  Italy]  Cost: 300
+5744  '  Z.501  [ LB  Italy]  Cost: 480
+6096  '  Paratrooper MG 39  [FlaK  Italy]  Cost: 204
+6124  '  Tower  [FRT  Italy]  Cost: 300
+6504  '  Andrea Bafile  [sDD  Italy]  Cost: 144
+6512  '  G.50bis/A  [FTR  Italy]  Cost: 600
+7080  '  Dubats 40  [INF  Italy]  Cost: 72
+7082  '  SPA TL.37  [TPT  Italy]  Cost: 84
+7088  '  Penne di Falco 40  [INF  Italy]  Cost: 144
+7095  '  Ascari 40  [INF  Italy]  Cost: 72
+7099  '  Genio coloniale 40  [INF  Italy]  Cost: 60
+7104  '  Granatieri 40  [INF  Italy]  Cost: 228
+7560  '  G.50 SQNLDR  [FTR  Italy]  Cost: 984
+8357  '  Guardia alla Frontiera 38  [INF  Italy]  Cost: 60
+8363  '  Bolzano  [sBS  Italy]  Cost: 840
+8366  '  Spica  [sDD  Italy]  Cost: 192
+8367  '  Maribello  [sDD  Italy]  Cost: 168
+8369  '  Giuseppe Miraglia  [sCV  Italy]  Cost: 324
+8504  '  Ju 88A-4  [ TB  Italy]  Cost: 840
+8510  '  L3/35 Passerella  [ TK  Italy]  Cost: 288
+8512  '  305mm 305/17 G Modello 1917  [ATY  Italy]  Cost: 1608
+8513  '  37mm 37/54  [ AD  Italy]  Cost: 144
+8514  '  37mm 37/54 Camion  [ AD  Italy]  Cost: 300
+8515  '  260mm 260/09 Modello 16  [ATY  Italy]  Cost: 696
+8516  '  381mm 381/40  [ATY  Italy]  Cost: 3000
+8543  '  Ascari di Marina 38  [INF  Italy]  Cost: 108
+8545  '  Gruppo Sahariano  [INF  Italy]  Cost: 156
+8547  '  Turbine  [sDD  Italy]  Cost: 240
+8716  '  75mm 75/27 A.V.  [ AD  Italy]  Cost: 288
+8833  '  Paracadutisti Ricognitori 39  [RCN  Italy]  Cost: 324
+8896  '  Bersaglieri Ciclisti 41  [RCN  Italy]  Cost: 288
+8906  '  Bianchi VM 6C  [RCN  Italy]  Cost: 192
+8907  '  Alfa Romeo 6C 2500 Coloniale  [RCN  Italy]  Cost: 444
+9599  '  MAS 500  [sDD  Italy]  Cost: 180
+9603  '  Breda TP32  [TPT  Italy]  Cost: 84
+9718  '  152mm 152/37  [ATY  Italy]  Cost: 1260
+9729  '  HQ 41  [RCN  Italy]  Cost: 660
+9770  '  81mm Paratrooper Mortar  [ATY  Italy]  Cost: 300
+9964  '  Guastatori Alpini 40  [INF  Italy]  Cost: 372
+
+#1    '  Item/s for Player2 follow...

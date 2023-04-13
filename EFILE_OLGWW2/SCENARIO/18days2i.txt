@@ -1,0 +1,23 @@
+Canal Albert
+(10-12 May 1940)
+v.1.4
+The Campaign of the 18 Days
+(10-28 May 1940)
+
+General,
+
+The expected German attack has started. Early in the morning the Germans have crossed the Dutch border and in few hours they will arrive at our delaying line ("Position de Couverture") situated behind the Canal Albert and the Maas river from Antwerp to Arlon. With the support of the strong fortress of Eben-Emael, you must contain the Germans in the "Position de couverture" for as long as possible in order to allow our troops, as well as that of our French and British allies, to occupy their positions in the "Ligne KW" (Dyle Position for our allies), the main defence line where is foreseen to fight the decisive battle.
+
+Some units of the "Corps de Cavalerie" must help the I Corps, and notably its 7th division, to defend the area of Eben-Emael and prevent the bridges over the Albert-canal in the Maastricht area to be taken by the Germans.
+
+Le Chef d'Etat-major général de l’armée (EMGA)
+
+Victory conditions: keep 6 VH for a BV, 4 VH for a V and 2 VH for a TV.
+
+Tip: blow the bridges before the Germans capture them.
+
+Efile: OLGWW2 (version 2.00 or higher)
+
+Map: Canal Albert (828)
+
+Paqueo, July 2012

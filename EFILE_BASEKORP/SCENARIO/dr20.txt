@@ -1,0 +1,11 @@
+Operation Zitadelle - July 1943
+
+We urgently need to regain the offensive on the Eastern front to deal the Red Army a blow that will weaken its offensive potential for a very long time to come. That will allow us to concentrate on the probable invasion by the Western Allies of either Southern Europe or France. 
+The location for our summer offensive is clear: the great salient around Kursk. Success here will shorten the front by 500km and create a reserve that can be used in the West. Model's 9th Army will strike from the North and Hoth's 4th Pz Army will attack from the South. The SS Corps is part of Hoth's Army.
+
+PLAYER ORDERS
+- Strength lost on core units will not be automatically replaced at HQ at the start of the next scenario if victory or brilliant victory is achieved.
+- New units cannot be acquired at HQ at the start of the next scenario if victory or brilliant victory is achieved.
+- Capture all VH.
+
+The Zitadelle scenario is influenced by Jorge Gabitto's Kursk campaign.

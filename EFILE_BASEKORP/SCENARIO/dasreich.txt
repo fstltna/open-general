@@ -1,0 +1,15 @@
+11.   DAS REICH 
+
+Version:  Apr-2019
+Number of Scenarios: 33
+Player Country: Germany
+Equipment file: Basekorp 
+Campaign Designer: Jurgen Smet
+Modified by Brian Gosley aka Puma
+
+
+
+The DAS REICH campaign puts you in control of the SS units known as SS-Division Verfuegungstruppe, SS-Division Das Reich, SS-Panzergrenadier-Division Das Reich and 2SS Panzer Division Das Reich. The division was one of the classic SS divisions that quickly earned a reputation for courage and bravery. 
+
+The division's troops saw action in Poland, The Netherlands, Belgium, France, The Balkans, Russia, Normandy, The Ardennes, Hungary, Vienna and Prague. Expect a Blitzkrieg type of campaign with battalion size units.
+

@@ -1,0 +1,7 @@
+* This is an Efile description file
+* Please don't change the number and order of the lines.
+<title>OLG WW2
+<description>Openized Latin Generals World War II Equipment
+<version>2.26
+<author>Santiago Fuertes
+<license>License: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)

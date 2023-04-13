@@ -1,0 +1,10 @@
+Battle of Bulair-Sarköy
+
+February 8th, 1913
+
+Welcome to our new 4th Army, General. I guess that, after the Ottoman coup d'etat of January, the failure of the London peace conference was just a matter of time. So here we are again, ready for more fighting.
+During the armistice the Ottomans gathered several regiments at the Gallipolli peninsula. Our intelligence reports suggest that they are preparing a counterattack at the neck of the peninsula, near the village of Bulair. They will combine that assault with an amphibious operation at the coastal town of Sarköy. You must stop them as soon as possible. If they succeed, they could attack our defensive positions on the Çatalca line from the rear, or even relief the siege of Odrin. But you can only count on your local troops. Don't expect any reinforcements.
+You must also expect some attacks fron the Ottoman Navy. Unfortunately, we have no means of defence against them, so be careful. 
+
+Victory conditions: After 12 turns you must hold 4 VHs for a BV, 3 VHs for a V, or 2 VHs for a TV.
+

@@ -1,0 +1,12 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  98  '  15cm NbW41  [ATY  Germany]  Cost: 492
+ 103  '  StuG IIIB  [ AT  Germany]  Cost: 396
+ 146  '  Pz IIIH  [ TK  Germany]  Cost: 648
+ 191  '  Ju 88A-4  [ TB  Germany]  Cost: 672
+1385  '  SS Engineer  [INF  Germany]  Cost: 492
+2378  '  Pz III CC  [ TK  Germany]  Cost: 552

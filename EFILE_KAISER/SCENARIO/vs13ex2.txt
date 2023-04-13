@@ -1,0 +1,173 @@
+Antwerp - The second exit
+Dijle
+Laak
+Demer
+Vaart Mechelen Leuven
+Mechelen
+Bonheiden
+Peulis
+Keerbergen
+Aarschot
+Pijpelheide
+Muizen
+Hever
+Haacht
+Wespelaar
+Weisetter
+Boortmeerbeek
+Werchter
+Wakkerzeel
+Wijgmaal
+Hofstade
+Zemst
+Weerde
+Eppegem
+Elewijt
+Steenokkerzeel
+Kampenhout
+Ruisbeek
+Melsbroek
+Zaventem
+Herent
+Rijmenam
+Schriek
+Achterheide
+Heist-op-den-Berg
+Hulshout
+Booischot
+Scherpenheuvel
+Binkom
+Kerkom
+Bunsbeek
+Leuven
+Rotselaar
+Holsbeek
+Schiplakenbos
+Plantsoenbos
+Silsembos
+Grevensbos
+Bertembos
+Kareelbos
+Huurbossen
+Schrans
+Rodeberg Bos
+Averbodes Bos
+Elsschot
+Sint-Gertadisbos
+Bovenveld
+Wijngaardberg
+Sint-Joris-Winge
+Walenbos
+Kapellebos
+Haachtsesteenweg
+Leuvensesteenweg
+Diestsesteenweg
+Tiensesteenweg
+Mechelsesteenweg
+Aureliaantoren
+Garnison Aarschot [IIIR]
+Landwehr Kp. [IIIR]
+10./VI/2MIR/Mar.Inf./Mar.Div.Flandern  [IIIR]
+11./VI/2MIR/Mar.Inf./Mar.Div.Flandern [IIIR]
+12./VI/2MIR/Mar.Inf./Mar.Div.Flandern [IIIR]
+Hansbrug
+Radfahr.Kp./-/2MIR/Mar.Inf./Mar.Div.Flandern [IIIR]
+2,3./II/2MIR/Mar.Inf./Mar.Div.Flandern [IIIR]
+1./VII/2MIR/Mar.Inf./Mar.Div.Flandern [IIIR]
+LIR73/37Ldw.Br./- [IIIR]
+LIR74/37Ldw.Br./- [IIIR]
+1/2 Ldw-Esk Schwind/-/-/-/Mar.Div.Flandern [IIIR]
+I.Ldw.Fld./-/-/Mar.Div.Flandern [IIIR]
+Elms. 1R.Erz.R/1R.Erz.Br/- Gen.Gouv.Belgien
+Elms. 2R.Erz.R/1R.Erz.Br/- Gen.Gouv.Belgien
+I/48RIR/9R/5R [IIIR]
+II/48RIR/9R/5R [IIIR]
+III/48RIR/9R/5R [IIIR]
+I/8RIR/9R/5R [IIIR]
+MG/-/48RIR/9R/5R [IIIR]
+6./IV/2MIR/Mar.Inf./Mar.Div.Flandern [IIIR]
+MG Reserve/-/-/-/Mar.Div.Flandern [IIIR]
+II.Ldw.Fld./-/37Ldw.Br./- [IIIR]
+2.Ldw-Esk/-/-/37Ldw.Br./- [IIIR]
+7,8./IV/2MIR/Mar.Inf./Mar.Div.Flandern [IIIR]
+I/171OEIR/82/39ID [XV]
+II/171OEIR/82/39ID [XV]
+I/172OEIR/82/39ID [XV]
+II/172OEIR/82/39ID [XV]
+14/-/82/39ID [XV]
+Esk./D.14/-/39ID [XV]
+3./80OEFAR/39/29Id [XV]
+1,4./II/2MIR/Mar.Inf./Mar.Div.Flandern [IIIR]
+V/1MIR/Mar.Inf./Mar.Div.Flandern  [IIIR]
+I/1MIR/Mar.Inf./Mar.Div.Flandern  [IIIR]
+2,4./VIII/1MIR/Mar.Inf./Mar.Div.Flandern  [IIIR]
+9./VI/2MIR/Mar.Inf./Mar.Div.Flandern [IIIR]
+III/126GFvBIR/61/39ID [XV]
+Elms./99ORIR/60/30ID [XV]
+8/-/61/39ID [XV]
+Von Beseler [IIIR]
+I/1MAR/Matr.Art./Mar.Div.Flandern [IIIR]
+II/1MAR/Matr.Art./Mar.Div.Flandern [IIIR]
+III/1MAR/Matr.Art./Mar.Div.Flandern [IIIR]
+IV/2MAR/Matr.Art./Mar.Div.Flandern [IIIR]
+V/2MAR/Matr.Art./Mar.Div.Flandern [IIIR]
+VI/2MAR/Matr.Art./Mar.Div.Flandern [IIIR]
+PPC/-/-/-/CD
+Off map Vliegveld Wilrijk
+4L/-/CD
+5L/-/CD
+Kar.Cycl./-/-/CD
+1,2/GAC/-/-/CD
+GA/-/7BM/2LA
+Elms./27L/7BM/2LA
+I/7Li/7BM/2LA
+II/7Li/7BM/2LA
+III/7Li/7BM/2LA
+7Mi./-/-/7BM/2LA
+I/25Li/5BM/2LA
+II/25Li/5BM/2LA
+III/25Li/5BM/2LA
+I/26Li/6BM/2LA
+II/26Li/6BM/2LA
+III/26Li/6BM/2LA
+I/6Li/6BM/2LA
+II/6Li/6BM/2LA
+III/6Li/6BM/2LA
+GA/-/6BM/2LA
+1G/1/DC
+2G/1/DC
+'Pontus' 31,32/II/2A/2LA
+33/II/2A/2LA
+Mi/-/-/20BM/6LA
+I/2C/20BM/6LA
+II/2C/20BM/6LA
+III/2C/20BM/6LA
+I/4C/20BM/6LA
+II/4C/20BM/6LA
+III/4C/20BM/6LA
+Elms/9Li/9BM/3LA
+I/9Li/9BM/3LA
+II/9Li/9BM/3LA
+III/9Li/9BM/3LA
+I/12Li/12BM/3LA
+II/12Li/12BM/3LA
+III/12Li/12BM/3LA
+I/14Li/14BM/3LA
+II/14Li/14BM/3LA
+III/14Li/14BM/3LA
+I/11Li/11BM/3LA
+II/11Li/11BM/3LA
+III/11Li/11BM/3LA
+3A/-/3LA
+Gp149mm/RgtAtyLourd/-/-
+Elms 3LA
+Elms/4Ch/5BM/4LA
+I/3Ch/17BM/5LA
+II/3Ch/17BM/5LA
+III/3Ch/17BM/5LA
+17Mi./-/17BM/5LA
+II/6Ch/17BM/5LA
+I/6Ch/17BM/5LA
+III/6Ch/17BM/5LA
+HF 3 BAC
+St.Agatha-Berchem (off-map)

@@ -1,0 +1,111 @@
+* Read carefully before editing!
+* Each line can be any lenght, but only first 96 chars will be read
+* Emply lines and those starting with * will be skipped.
+* Can replace any text but do no change the sequence of lines
+*-------------------------------------------------------------------
+* Sides
+Side 1
+Side 2
+All Nations
+
+* Nations
+New Zealand
+Irregular Forces
+British India
+Australia
+Hungary
+Japan
+France
+Germany
+Bulgaria
+USA
+Canada
+Turkey
+Italy
+Romania
+Thailand
+Nationalist China
+Philippines
+Netherlands
+South Korea
+Soviet Union
+Poland
+Communist China
+United Kingdom
+Mongolia
+Manchukuo
+North Korea
+Spanish Republic
+Allied Forces
+Spain
+Axis Forces
+Iraq
+Afghanistan
+Iran
+Free French Forces
+Italian Social Republic
+Belgium
+Portugal
+Slovakia
+Finland
+Greece
+Norway
+Croatia
+Kingdom of Yugoslavia
+Yugoslavia
+Switzerland
+Denmark
+Ethiopia
+Czechoslovakia
+South Africa
+Sweden
+Brazil
+Austria
+Albania
+Mengjiang
+Puppet Regime China
+Nanjing Regime China
+State of Burma
+Free India
+Estonia
+Latvia
+Lithuania
+Russia
+Communist Forces
+Belarus
+Ukraine
+Indonesia
+Chetniks
+Serbian State
+Peru
+Colombia
+Bolivia
+Paraguay
+Ecuador
+India
+Pakistan
+Saudi Arabia
+Kingdom of Yemen
+Viet Minh
+State of Vietnam
+Ireland
+Kingdom of Egypt
+Mexico
+Communist Greece
+Cuba
+Warlord China
+Tibet
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+None

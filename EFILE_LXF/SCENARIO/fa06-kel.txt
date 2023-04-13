@@ -1,0 +1,307 @@
+Fa06-Kelja And No End
+I/RflRgt 104/4 RflD
+II/RflRgt 104/4 RflD
+III/RflRgt 104/4 RflD
+I/RflRgt 101/4 RflD
+II/RflRgt 101/4 RflD
+III/RflRgt 101/4 RflD
+AT Rgt/4 RflD
+Aty Rgt/4 RflD
+Hw Rgt/4 RflD
+Con Bn/4 RflD
+I/RflRgt 39/4 RflD
+II/RflRgt 39/4 RflD
+III/RflRgt 39/4 RflD
+I/RflRgt 220/4 RflD
+II/RflRgt 220/4 RflD
+III/RflRgt 220/4 RflD
+I/RflRgt 19/4 RflD
+II/RflRgt 19/4 RflD
+III/RflRgt 19/4 RflD
+Aty Rgt 31/49 RflD
+Rec Bn 91/49 RflD
+I/RflRgt 15/49 RflD
+II/RflRgt 15/49 RflD
+III/RflRgt 15/49 RflD
+Hw Rgt 166/49 RflD
+Rec Bn/4 RflD
+I/RflRgt 212/49 RflD
+II/RflRgt 212/49 RflD
+III/RflRgt 212/49 RflD
+I/RflRgt 222/49 RflD
+II/RflRgt 222/49 RflD
+III/RflRgt 222/49 RflD
+I/41 SBAP
+II/41 SBAP
+III/41 SBAP
+II/7 IAP
+III/7 IAP
+I/7 IAP
+HQ/4 RflD
+Staff/4 RflD
+Tk Bn 391/49 RflD
+PioK 1/10 Div
+PioK 2/10 Div
+I/JR 29/10 Div
+II/JR 29/10 Div
+III/JR 29/10 Div
+I/KTR 10/10 Div
+II/KTR 10/10 Div
+III/KTR 10/10 Div
+I/JR 28/10 Div
+II/JR 28/10 Div
+III/JR 28/10 Div
+I/JR 23/8 Div
+II/JR 23/8 Div
+III/JR 23/8 Div
+Rask Psto 4/10 Div
+Kev Os 10/10 Div
+I/JR 30/10 Div
+II/JR 30/10 Div
+III/JR 30/10 Div
+II/LLv 24/LeR 2
+Riiska
+Patoniemi
+Kirvesmaki
+Taipale
+Kelja
+Kelja
+Volossula
+Vilakkala
+Lapinlahti
+Pajari
+Hovinniemi
+Sakkola
+Konevitsa
+Konevitsa
+Konevitsa
+Konevitsa
+Konevitsa
+Konevitsa
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Pyhajarvi
+Ylajarvi
+Ylajarvi
+Ylajarvi
+Ylajarvi
+Ylajarvi
+Ylajarvi
+Ylajarvi
+Kosela
+Metsapirtti
+Rautus
+Noitermaa
+Petajarvi
+Petajarvi
+Ojaniemi
+Terenttila
+Eevala
+Saapru
+Enkkua
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Taipaleen joki
+Taipaleen joki
+Taipaleen joki
+Taipaleen joki
+Taipaleen joki
+Taipaleen joki
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+Laatokka
+HQ/49 RflD

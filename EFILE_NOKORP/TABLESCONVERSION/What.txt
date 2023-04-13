@@ -1,0 +1,4 @@
+This folder contains conversion tables, unit equivalances from one E-File to the NOKorp E-File.
+Those tables allow to "translate" scenarios from one E-File to another.
+
+PG2convert.tbl  = Conversion table to port PG2 campaigns to Open General NOKorp

@@ -1,0 +1,12 @@
+Orsova
+August 17, 1849
+
+Citoyen General! After your failure at Temesvár Görgei had no more choice than unconditional surrender. His troops has been disarmed at Világos four days before. Only fortress Komárom and a few isolated strongpoints left on Hungarian hands. Governor Lajos Kossuth decided to leave the country at Orsova. Maybe his diplomatic skills will give an international attention for the independence of Hungary. Your job is securing his fleeing out of Hungary with a few loyal battalions. Knowing the merciless of Haynau, you’d better to leave Hungary too.
+
+Deploy Hexes: 10
+
+ORDER: The HQ Inf represents Governor Kossuth. You must keep this unit alive and move it into the Escape Hex!
+
+NOTE: If you have more than 10 units, sell the excess and spend the gained PP on reinforcing your units.
+
+scenario designer: Csaba (lvjtn)

@@ -1,0 +1,85 @@
+Gotterdammerung
+Buda
+Duna River
+Pest
+Pusztavam
+Etyek
+Vertesbogiar
+Soskut
+Budafok
+Mor
+Csakvar
+Vali River
+Luvasbereny
+Kajaszo-Szt.-Peter
+Baracska
+Isztimer
+Lake Velencei
+Kapolnas Nyek
+Varpolata
+Szekesfehervar
+Kiskuplaczk
+Raczkeve
+Veszprem
+Berhida
+Seregelyes
+Adony
+Domsod
+Polgardi
+Aba
+Dunapentele
+Enying
+Hercegfalva
+Sio Canal
+Dunavecse
+Sarbogard
+Abostag
+Bal-Kiliti
+Adand
+Sagvar
+Szabadhidveg
+Dunafoldvar
+Solt
+Lake Balaton
+XX/9SS
+XIX/9SS
+V/3SS
+IV/2
+21G
+20G
+6G
+CXXXV/23
+XI/5G
+LXIII/5G
+XII/5G
+IX/1G
+37
+30
+XXXII/18
+35G
+135
+104
+XXVI/12SS
+CCCXCIV/3
+CXIII/1
+II/1SS
+III/2SS
+Destroyed Airfield
+Baracska Airfield
+Mor Airfield
+I/1SS
+IX/9SS
+II/2SS
+II/2
+VI/3
+III/3SS
+Sarbogard Airfield
+Berhida Corridor
+*Capture Berhida+Berhida Corridor*
+HAF
+L4
+SNOW/SAND
+CLEAR
+FOREST
+MOUNTAIN
+RUBBLE

@@ -1,0 +1,24 @@
+Verdun: Toter Mann (Mort- Homme)
+
+Mar 6th, 1916
+
+Yes, you're right, General. Our plan at Verdun isn't working as we had expected. Certainly, the French are fighting like lions and are forcing us to take a heavy toll for every centimetre of terrain that we conquer. But once we expell them from one position, their counterattacks are rare.
+One of the main reasons is that our long range artillery hasn't been able to neutralize theirs, so the French guns are constantly harassing our infantry, which has been exposed to enemy fire since the offensive began. The French don't really need to bleed themselves with useless counterattacks.
+We should have stormed the French artillery batteries located on the west bank of the Maas from the very beginning, but now it's too late to regret that mistake. You must correct it now, but be careful. It won't be an easy task. The French are heavily entrenched, and from the higher terrain they'll be able to spot all of your moves. But if your troops are fast, they`ll reach the objectives before the enemy sends its reserves.
+
+Victory conditions:
+- Take all the VHs.
+
+Special note: The unit that takes the VH at (18,12) will obtain +110 exp.
+
+
+
+
+
+
+
+
+
+
+
+

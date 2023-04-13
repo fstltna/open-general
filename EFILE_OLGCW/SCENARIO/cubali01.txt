@@ -1,0 +1,71 @@
+Sierra Maestra 1958
+11 RSEM/-/[EC]
+12 RSEM/-/[EC]
+Tk.Det./-/-/[EC]
+10 R/1 Div./[EC]
+11 R/1 Div./[EC]
+12 R/1 Div./[EC]
+E/1 Div./[EC]
+HQ/1 Div./[EC]
+MG/1 Div./[EC]
+Aty.Det./-/-/[EC]
+Aty.Det./-/-/[EC]
+1/1 GR "Maceo"/-/[EC]
+2/1 GR "Maceo"/-/[EC]
+3/1 GR "Maceo"/-/[EC]
+4/1 GR "Maceo"/-/[EC]
+5/1 GR "Maceo"/-/[EC]
+6/1 GR "Maceo"/-/[EC]
+Tk.Det./-/-/[EC]
+[FAEC]
+[FAEC]
+Che/Columna 1
+Columna 1
+Columna 1
+Columna 1
+Columna 1
+Cienfuegos/Columna 2
+Columna 2
+Columna 2
+Columna 2
+Columna 2
+Bayamo
+Corral del Rio
+Cuevas del Turquino
+Niquero
+Chivirico
+Colon
+Vega Lara
+Matías
+Dos Palmas
+Comecará
+Baire
+Santa Rita
+Contramaestre
+Guaninao
+Julio Antonio
+Palma Soriano
+San Luis
+Yara
+Bartolomé Masó
+Palmarito
+El Pozón
+San Francisco
+Santiago de Cuba
+Sugar Mill
+Central Azucarera/Sugar Mill
+Fidel HQ
+Fidel HQ
+Fidel HQ
+Fidel HQ
+Cayo Redondo
+Manzanillo
+El Cobre
+Beach
+Manzanillo/Oriente
+Bayamo/Oriente
+Stgo. de Cuba/Oriente
+Stgo. de Cuba/Oriente
+CG/-/[EC]
+CG/-/[EC]
+CG/-/[EC]

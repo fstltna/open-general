@@ -1,0 +1,67 @@
+The Channel Ports
+I/SKG 210(II)LF2
+II/SKG 210(II)LF2
+3/1 RTR/XXX(BEF)
+3/1 RTR/XXX(BEF)
+3/1 RTR/XXX(BEF)
+2 KRRC/60th Rifles/XXX(BEF)
+2/229/XXX(BEF)
+1 RB/60th Rifles/XXX(BEF)
+3/229/XXX(BEF)
+47/68th RPC/XX(BEF)
+1/6/XXX(BEF)
+1 QVR/60th Rifles/XXX(BEF)
+1 RB/60th Rifles/XXX(BEF)
+2 KRRC/60th Rifles/XXX(BEF)
+2/7/16th Inf(I)
+1/1/3(RAF)
+2/1/3(RAF)
+3/1/3(RAF)
+19/8/23rd Inf(I)
+21/8/23rd Inf(I)
+1/3/12th Cav(I)
+2/3/12th Cav(I)
+1/7/16th Inf(I)
+2nd Welsh Guards/XX(BEF)
+2nd Welsh Guards/XX(BEF)
+2/1/1
+Calais
+Gravelines
+Loon Plage
+Bourbourg
+Watten
+St. Omer
+Lumbres
+Guines
+Marquise
+Boulogne-sur-Mer
+Etaples
+Desvres
+1/172/XXX(BEF)
+1 QVR/60th Rifles/XXX(BEF)
+1/229/XXX(BEF)
+2nd Irish Guards/XX(BEF)
+I/1/1st Pz(XIX)
+II/1/1st Pz(XIX)
+I/2/1st Pz(XIX)
+I/86/1st Pz(XIX)
+II/86/1st Pz(XIX)
+I/69/1st Pz(XIX)
+II/69/1st Pz(XIX)
+HMS Vimy
+HMS Keith
+HMS Whitshed
+River Aa
+I/73/1st Pz(XIX)
+II/73/1st Pz(XIX)
+1st Searchlight/6/XXX(BEF)
+I/304/2nd Pz(XIX)
+I/113/1st Pz(XIX)
+II/304/2nd Pz(XIX)
+3/14/23rd Inf(I)
+6/1 QVR/60th Rifles/XXX(BEF)
+4/2 KRRC/60th Rifles/XXX(BEF)
+Calais Defences
+Watten Defences
+Vic Hexes heavily stacked
+Upgrades and Overstrengthening

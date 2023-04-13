@@ -1,0 +1,40 @@
+Prussian Seven Years War Campaign 1756-62
+
+After the War of the Austrian Succession 1740-48, Great Britain no longer considered Austria as a force capable of opposing France, and was looking for an alternative ally. Great Britain found this ally in Frederick II, King of Prussia. As a response to the British-Prussian alliance, Maria Teresa worked towards a reconciliation with France, the traditional enemy of Austria, and she endeavoured intense diplomatic efforts to forge an alliance against Prussia with the goal of wresting the lost province of Silesia from the grasp of Prussia. After long negotiations, France, Austria and Russia reached an agreement, later joined by Saxony and Sweden.
+
+In August 1756, Frederick II of Prussia launched a preventive invasion of Saxony. The Seven Years War had begun...
+
+You will lead the Prussian troops against Austria, Russia, France, Sweden and minor German states.
+
+-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-
+Version: 0.9 (Dec-23-2015)
+Longest path: 23/26 scenarios (linear)
+Creators: Michael Nowak (Micha), Duke Falcon, Csaba (lvjtn)
+Converted and optimized to OpenGen: Csaba (lvjtn)
+License: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Suggested prestige %: 120 (novice), 80 (default), 40 (expert)
+AI prestige should always be 100%
+-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-
+
+NOTES:
+- The HQ Infantry represents your headquarter. You must keep this unit alive during the whole campaign!
+- There is a 1 SP “trap” unit in each scenario to prevent a sudden victory by killing all enemy units. Please don’t kill it if you discover its position.
+- Use the gathered PP on reinforcing your units (don’t keep it, if you are near the cap), at the end of the scenarios they won’t be refit automatically.
+- This campaign uses only tiled maps.
+- Take as much flag hexes as possible and take them by core units.
+
+APPLIED RULES:
+- no protos at all
+- no friendly supply hexes, deployment is limited
+- advanced spotting rules (extended LOS)
+- reinforcements arrive when player is active, but have only 50% movement points
+- direct LOF is blocked by bad terrains
+- ports don’t behave as SH
+- green (GR) and elite (ER) replacements are enabled:
+ * GR costs = 100%
+ * GR takes 50% experience of the refitted unit
+ * ER costs = 133%
+ * leader will be removed if unit loses all its bars due to replacements
+- ground conditions are changed by weather (except some winter scenarios)
+- sapper unit can build fort, bridge
+- units lose 10% when upgrading

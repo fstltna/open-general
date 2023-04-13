@@ -1,0 +1,15 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  51  '  Erhardt PzWgn 15  [RCN  German Empire]  Cost: 420
+  93  '  Albatros B.II  [ TB  German Empire]  Cost: 420
+ 447  '  7,92mm MG 08  [ AD  German Empire]  Cost: 156
+ 930  '  Gebirgsjäger  [INF  German Empire]  Cost: 288
+3566  '  Aviatik B.II  [ TB  German Empire]  Cost: 456
+3574  '  Gotha WD.2  [ TB  German Empire]  Cost: 420
+3580  '  LVG B.II  [ TB  German Empire]  Cost: 468
+4299  '  Friedrichshafen FF.33e  [ TB  German Empire]  Cost: 720
+4763  '  Fokker A.I  [ TB  German Empire]  Cost: 408

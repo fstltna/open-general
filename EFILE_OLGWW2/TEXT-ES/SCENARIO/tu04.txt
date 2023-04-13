@@ -1,0 +1,160 @@
+Medenine
+Ghott El Fedjadj
+Oudref
+Gabes : PORT
+Djebel Tebaga : ROUGH
+El Hamma
+Gabes
+Jarba : PORT
+Aghir
+Adjim
+El Kantara
+Mareth
+Wadi Zigzaou : RIVER
+Matmata
+Houjarie
+Wadi Zeuss : RIVER
+Medenine
+Sabkhat al Milh : SWAMP
+B.Soltane
+Hallouf
+Ben Gardane
+Ksan Rhilane
+Foum Tatahouime
+Kirchaou
+Oouirat
+8 R/Giov.Fasc D/XX/I
+136 R/Giov.Fasc D/XX/I
+65 R/Trieste D/XX/I
+66 R/Trieste D/XX/I
+21 R/Trieste D/XX/I
+aaB/Trieste D/XX/I
+eB/Trieste D/XX/I
+200 R/90 Leicht D/XX/I
+361 R/90 Leicht D/XX/I
+155 R/90 Leicht D/XX/I
+190 R/90 Leicht D/XX/I
+aaB/90 Leicht D/XX/I
+190 B/90 Leicht D/XX/I
+125 R/Spezia D/XXI/I
+126 R/Spezia D/XXI/I
+80 R/Spezia D/XXI/I
+80 atB/Spezia D/XXI/I
+80 aaB/Spezia D/XXI/I
+35 R/Pistoia D/XXI/I
+36 R/Pistoia D/XXI/I
+3 R/Pistoia D/XXI/I
+3 B/Pistoia D/XXI/I
+3 aaB/Pistoia D/XXI/I
+220 R/164 Leicht D/XXI/I
+382 R/164 Leicht D/XXI/I
+433 R/164 Leicht D/XXI/I
+164 B/164 Leicht D/XXI/I
+350 R/Saharian Grouping
+290 R/Saharian Grouping
+Novara B/Saharian Grouping
+atB/Saharian Grouping
+DAK
+580 B/21 Pz/DAK
+200 Pzjgr B/21 Pz/DAK
+5 Pz R/21 Pz/DAK
+104 Pzg R/21 Pz/DAK
+47 R/21 Pz/DAK
+609 B/21 Pz
+2/2 155 R/21Pz
+220 Pio B/21 Pz/DAK
+1/2 155 R/21Pz
+8 R/15 Pz D
+155 R/15 Pz D
+13 Pio B/15 Pz D
+14 B/15 Pz D
+276 B/15 Pz D
+33 R/15 Pz D
+4 Pzjgr B/15 Pz D
+Sikh
+Cornwall
+Achilles
+Luft
+JG 27/FliFü.Afr.
+1 Br/50 ID/XIII/VIII
+151 Br/50 ID/XIII/VIII
+69 Br/50 ID/XIII/VIII
+eB/50 ID/XIII/VIII
+beB/50 ID/XIII/VIII
+102 R/50 ID/XIII/VIII
+rB/50 ID/XIII/VIII
+34 aaB/50 ID/XIII/VIII
+74 R/50 ID/XIII/VIII
+eB/51 ID/XXX/VIII
+beB/51 ID/XXX/VIII
+152 Br/51 ID/XXX/VIII
+153 Br/51 ID/XXX/VIII
+154 Br/51 ID/XXX/VIII
+51 B/51 ID/XXX/VIII
+61 R/51 ID/XXX/VIII
+126 R/51 ID/XXX/VIII
+127 R/51 ID/XXX/VIII
+40 R/51 ID/XXX/VIII
+7 Br/4 Indian/XXX/VIII
+5 Br/4 Indian/XXX/VIII
+161 Br/4 Indian/XXX/VIII
+4 B/4 Indian/XXX/VIII
+23 Br/4 Indian/XXX/VIII
+149 R/4 Indian/XXX/VIII
+57 R/4 Indian/XXX/VIII
+11 R/4 Indian/XXX/VIII
+32 R/4 Indian/XXX/VIII
+22 Br/7 Arm/XIII/VIII
+4 Br/7 Arm/XIII/VIII
+131 Br/7 Arm/XIII/VIII
+65 R/7 Arm/XIII/VIII
+11 R/7 Arm/XIII/VIII
+3 R/7 Arm/XIII/VIII
+15 R/7 Arm/XIII/VIII
+1 B Krr/7 Arm/XIII/VIII
+5 Br/2 NZ/XXX/VIII
+4 Br/2 NZ/XXX/VIII
+6 Br/2 NZ/XXX/VIII
+6 eB/2 NZ/XXX/VIII
+Free French/7 Arm D
+9 Br/2 NZ/XXX/VIII
+7 R/2 NZ/XXX/VIII
+14 R/2 NZ/XXX/VIII
+2 R/2 NZ/XXX/VIII
+4 R/2 NZ/XXX/VIII
+1 Br/1 Arm D/X/VIII
+2 Br/1 Arm D/X/VIII
+12 B/1 Arm D/X/VIII
+eB/1 Arm D/X/VIII
+7 Br/1 Arm D/X/VIII
+76 R/1 Arm D/X/VIII
+2 R/1 Arm D/X/VIII
+44 R/1 Arm D/X/VIII
+Luft
+Para Rgt.8th RAF
+RAF
+USAAF
+LUFT
+REGGIA
+Guard
+10 Rec/10 Pz
+2 B/90 Pzjgr R/10 Pz
+2 B/7 Pz R/10 Pz
+1 B/7 Pz R/10 Pz
+2 R/10 Pzg Br/10 Pz
+86 Pzg R/10 Pz
+Ctrc/10 Pz
+49 Pio B/10 Pz
+1 R/10 Pzg Br/10 Pz
+1/2 90 R/10 Pz
+10 Krad B/10 Pz
+1 B/90 Pzjgr R/10 Pz
+69 Pzg R/10 Pz
+302 B/10 Pz
+2/2 90 R/10 Pz
+128 R/51 ID/XXX/VIII
+5 R/2 NZ/XXX/VIII
+128 R/51 ID/XXX/VIII
+6 R/2 NZ/XXX/VIII
+27 B/2 NZ/XXX/VIII
+1/7 B/51 ID/XXX/VIII

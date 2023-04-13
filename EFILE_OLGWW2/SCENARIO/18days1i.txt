@@ -1,0 +1,21 @@
+Assignment
+(9 May 1940)
+v.1.0
+The Campaign of the 18 Days
+(10-28 May 1940)
+
+General,
+
+Thanks to your great performance in the 1938 manouvres, you have been assigned to command the "1ère Divison de Cavalerie" of our army. As you know, this an elite motorized division of the regular army that thanks to its greater mobility can help other units where needed, notably performing reconnaissance and providing protection. We are confident you will honour your tasks. 
+
+You can choose to command the forces at disposal of the Ist Army Corps ("I Corps d'Armée") to provide it support to defend the Canal Albert line and the Eben Emael fort.
+
+Or you can choose to command the forces being part of the K Group ("Groupement K)" in the Ardennes whose mission is to delay the enemy's advance until our allies come.
+
+Le Chef d'Etat-major général de l’armée (EMGA)
+
+Efile: OLGWW2 (version 2.00 or higher)
+
+Map: EuroDF (346)
+
+Paqueo, July 2012

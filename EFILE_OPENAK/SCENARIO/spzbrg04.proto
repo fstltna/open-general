@@ -1,0 +1,31 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  65  '  2 Flakvierling38  [FlaK  Deutschland]  Cost: 108
+  77  '  5 Pak38  [ AT  Deutschland]  Cost: 108
+ 103  '  Sturmgeschutz B  [ AT  Deutschland]  Cost: 288
+ 110  '  40 Pioniere  [INF  Deutschland]  Cost: 432
+ 114  '  40 Fallschirmjager  [INF  Deutschland]  Cost: 288
+ 722  '  40 Jager  [INF  Deutschland]  Cost: 156
+ 728  '  Do 17Z-2  [ TB  Deutschland]  Cost: 864
+ 744  '  7,5 LG40  [ATY  Deutschland]  Cost: 312
+1235  '  7,5 GebG36  [ATY  Deutschland]  Cost: 276
+1241  '  40 FJ MG  [ AT  Deutschland]  Cost: 228
+1242  '  40 Luftlande-Sturm  [INF  Deutschland]  Cost: 804
+1286  '  Zerstorer 1936A DD  [sDD  Deutschland]  Cost: 504
+2955  '  Fi 167A-0  [ TB  Deutschland]  Cost: 684
+3295  '  Do 17Z-1  [ LB  Deutschland]  Cost: 660
+3421  '  40 Kradschutzen  [INF  Deutschland]  Cost: 264
+3442  '  40 Gebirgsjager  [INF  Deutschland]  Cost: 336
+3443  '  40 Gebirgspioniere  [INF  Deutschland]  Cost: 816
+3453  '  40 Luftlande-infanterie  [INF  Deutschland]  Cost: 276
+3491  '  40 Aufklarungskavallerie  [RCN  Deutschland]  Cost: 156
+4291  '  Do 17Z-10 Kauz II  [ TB  Deutschland]  Cost: 780
+4296  '  Ju 88D-2  [ TB  Deutschland]  Cost: 720
+4332  '  Ju 86P-1  [ LB  Deutschland]  Cost: 720
+4402  '  Ju 87R-2  [ TB  Deutschland]  Cost: 648
+4537  '  Bf 109E-7/B  [ TB  Deutschland]  Cost: 972
+4772  '  Do 215B-4  [ TB  Deutschland]  Cost: 696

@@ -1,0 +1,8 @@
+Dorna-Watra
+(August 28, 1916)
+
+General, I know your division has suffered severe losses against the Russians and that we sent you to Bukovina to be refitted, but the situation has changed. Romania declared war on us and is ready to launch a full scale invasion. Dorna-Watra, near the Hungarian border, is a small but important city. If it falls, our troops in Bukovina will be easily encircled by the Russian and Romanian forces. The Germans are busy on the Western front, and we have deployed our last reserves to halt Brusilov on the Eastern front, so don't expect much in the way of reinforcements. You must hold on at all costs!
+
+ORDER: Keep your MSU alive and hold at least 3 VHs.
+
+NOTE: AI plays first.

@@ -1,0 +1,602 @@
+4 Ceskoslovensko/Czechoslovakia and units of the Czechoslovak forces in the East and in the West, as well as units of the Slovak National Uprising
+*Fronts
+#Bohema-Moravia-Sudet
+#Slovakia-Ruthenia
+#Poland
+#France
+#Britain
+#North Africa
+#Southwestern Front
+
+*Factions
+@Corps and Army troops
+@Fortification and border troops
+@Militia and Home
+@Polish-equipped
+@French-equipped
+@British-equipped
+@Soviet-equipped
+@Fast troops
+@Infantry division
+@Mountain troops
+@Uprising
+@Air force
+@Paratroopers
+@Home and Militia
+
+
+7 France
+*Fronts
+#Théâtre des Opérations Nord-Est *Western Europe
+#Ligne Maginot *Maginot Line
+#Théâtre des opérations Sud-Est *Italian border
+#Théâtre d'opérations Afrique du Nord *North Africa
+#Scandinavie *Scandinavia
+#Amérique *Americas
+#Madagascar *Madagascar
+#Indochine *French Indochina
+#Afrique Equatoriale Française *Africa south of Sahara
+#Théâtre des Opérations Méditerranée orientale *The Levant
+#Italie *Italy
+#Somaliland *Djibouti
+#Désert Occidental *Egypt and Libya
+#Océan Atlantique *North Sea and Atlantic Ocean
+#Méditerranée *Mediterranean
+#Océan Pacifique
+#Eastern Front
+
+*Factions
+@Unités d'Armée et du Corps *Corps and army units
+@Division Infanterie *Infantry division
+@Division Légère de Cavalerie *Cavalry division
+@Division Infanterie Motorisée *Motorised infantry division
+@Division Légère Mécanique *Light Mechanised Division
+@Division Cuirassée *Armoured division
+@Brigade de Montagne *Mountain brigade
+@Légion étrangère *Foreign legion
+@Colonial *Colonial
+@Marine Nationale *Navy
+@Milice
+@Armée de l'Air
+@Réussi *successful
+@Vichy
+@La Resistance
+@Collaborationniste
+@SS
+@Volontaires en Espagne
+@Fighters
+@Bombers
+@Naval planes
+@Recons
+@Soviet-equipped
+@Destroyers
+@Cruisers
+@Capital ships
+@Carriers
+@Submarines
+
+
+8 Deutschland/Nazi Germany
+*Fronts
+#Deutschland
+#Nordwest
+#West
+#Norwegen
+#Finnland
+#Heeresgruppe Nord
+#Heeresgruppe Mitte
+#Heeresgruppe Süd
+#Afrika
+#Balkan
+#Italien
+#Mittelmeer
+#Spanien
+#Atlantik
+#Pazifik und Indische Ozean
+#Baltische See
+
+*Factions
+@Kriegsmarine
+@U-boote
+@Leichte Schiffe
+@Hochseeflotte
+@Heer
+@Heerestruppen
+@Beutewaffen
+@Kampfflieger
+@Jagdflieger
+@Aufklärer
+@Luftwaffe Feld
+@Sicherung und Landwehr
+@Hilfswillige
+@Inf. Div.
+@Pz. Div.
+@Kavallerie
+@Fallschirmjäger
+@Mot. Inf. Div.
+@Geb. Div.
+@Tausendjähriges Reich
+@Panzerzug
+@Wunderwaffen
+@Jäg. Div.
+@SS
+@sPzAbt
+
+10 USA
+*Fronts
+#Continental US
+#Britain
+#Western Europe
+#Iceland
+#Northwest Africa
+#Italy
+#Egypt
+#Alaska
+#Panama
+#Hawaii
+#Phillipines
+#Southeast Pacific Islands
+#Australia
+#Atlantic
+#Southern Pacific
+#Northern Pacific
+#CBI
+#Japan
+
+*Factions
+@The Army
+@Corps and Army troops
+@Infantry Division
+@Armored Division
+@Mountain Division
+@Paratroopers
+@Cavalry
+@The Marines
+@The Navy
+@US Army Air Force
+@Strategic Air Force
+@Tacical Air Force
+@Fighters
+@Capital Ships
+@Cruisers
+@Carriers
+@Light Ships
+@Submarines
+
+11 Hungary
+*Fronts
+#Home
+#Eastern Front
+#Mediterrenean Front
+#Slovakia/Ruthenia
+#Transylvania
+#Budapest
+
+*Factions
+@The Army
+@Army and Corps Troops
+@Militia
+@Infantry Division
+@Cavalry Division
+@Armour
+@Security Division
+@Border Troops
+@Mountain Troops
+@1. Army
+@2. Army
+@3. Army
+@Successful
+@The Air Force
+@Fighters
+@Bomobers
+@Recons
+@German equipment
+
+13 Italia/Italy
+*Fronts
+#Italia Settentrionale
+#Italia Meridionale
+#Spagna
+#Albania e Grecia
+#Forze di occupazione in Jugoslavia e Grecia
+#Africa Settentrionale
+#Africa Orientale Italiana Settentrionale
+#Africa Orientale Italiana Meridionale
+#Russia
+#Mediterraneo Orientale
+#Mediterraneo Centrale e Occidentale
+#Oceano Indiano e Oceano Pacifico
+#Oceano Atlantico
+#Mar Nero
+#Lago Ladoga
+#Mar Rosso
+#Francia
+
+*Factions
+@Regio Esercito
+@Colonial Troops
+@Truppe d'Armata
+@Divisione Alpina
+@Divisione da Montagna
+@Divisione Corazzata
+@Divisione Motorizzata
+@Divisione Celere
+@Divisione di Fanteria
+@Divisione d'Assalto e da Sbarco
+@Paracadutist
+@MVSN
+@Guarnigione
+@Volontari Stranieri 
+@Regia Marina
+@Sommergibili
+@Navi Costiere e Leggere 
+@Flotta Navale da Battaglia
+@Vincente
+@Armi catturate
+@Regia Aeronautica
+@Caccia
+@Bombardieri
+@Aeri da ricognizione
+@Resistenza
+@Cobelligerante
+
+16 Polska/Republic of Poland
+*Fronts
+#Homeland
+#Warsaw
+#Great Britain
+#Western Europe
+#Libya
+#Italy
+#Atlantic Ocean
+#Baltic Sea
+#Scandinavia
+#Middle East
+
+*Factions
+@Regular Army
+@Navy
+@Light ships
+@Submatines
+@Cruisers
+@Air force
+@Fighters
+@Bombers
+@Recon planes
+@Corps and Army units
+@Infantry division
+@Cavalry brigade
+@Mechanised/Armoured
+@Mountain
+@Militia
+@AK
+@Narodowe Sily Zbrojne
+@Airborne
+@French-equipped
+@British-equipped
+@Successful
+
+18 Romania/Kingdom of Romania
+*Fronts
+#Teritoriul National
+#Transilvania
+#Crimeea
+#Transnistria
+#Frontul Balcanic
+#Marea Neagra
+#Frontul de Vest
+#Frontul de Est
+
+*Factions
+@Fortele Terestre
+@Fortele Navale
+@Aeronautica
+@Trupele Armatei si Corpurilor
+@Divizie Infanterie
+@Cavalerie
+@Divizie Blindata
+@Infanterie Munte
+@Divizie Garda
+@Divizie Graniceri
+@Trupe de Rezerva
+@Fortificatii si Paza
+@Garda de Fier
+@Rezistenta
+@Vanatoare
+@Bombardiere 
+@Recunoastere
+@Submarine
+@Nave usoare
+
+20 SSSR/Soviet Union
+*Fronts
+#Arctic
+#Leningrad Military District
+#Northwestern Front
+#Western Front
+#Southwestern Front
+#Mongolia
+#Far East and Manchuria
+#Spain
+#Baltic Sea
+#Black Sea
+#White Sea
+#Pacific Sea
+#Caucasus
+#Home Front
+
+*Factions
+@The Red Army
+@Corps and Army Troops
+@Rifle Division
+@Cavalry Division
+@Cossacks
+@Guards Division
+@Armoured/Mechanised
+@Motorised Division
+@Mountain Division
+@Militia
+@Paratroopers
+@Partisans
+@Paratroopers
+@The Red Air Force
+@Fighters
+@Bombers
+@Recon and army cooperation planes
+@Naval planes
+@The Red Navy
+@Capital ships
+@Cruisers
+@Light ships
+@Armoured trains
+
+23 United Kingdom
+*Fronts
+#Western Europe
+#The Home Islands
+#Ulster
+#Scandinavia and Iceland
+#The Pacific
+#The Northern Atlantic
+#The Southern Atlantic
+#The North Sea
+#The Western Meditterenean
+#The Central Meditterenean
+#The Eastern Meditterenean
+#The Indian Ocean
+#The Far East
+#India
+#The Western Desert
+#West Africa
+#East Africa
+#The Near East
+#Madagascar
+#Italy
+#Greece and the Balkans
+
+*Factions
+@The Army
+@Corps and Army Troops
+@The Royal Navy
+@Capital Ships
+@Cruisers
+@Carriers
+@Light Ships
+@Submarines
+@The Royal Air Force
+@Fighter Command
+@Bomber Command
+@Army Cooperation
+@Coastal Command
+@Fleet Air Arm
+@Paratroopers
+@Infantry Division
+@The Home Guard
+@Scottish
+@Armoured Division
+@Light Division
+@Colonial Troops
+@Volunteers in Spain
+@Indian
+@Cavalry Brigade
+@Army Tank Brigade
+
+24 Jugoslavija
+*Fronts
+#Northwest
+#Littoral
+#West
+#North
+#Northeast
+#East
+#Southeast
+#South
+#The Mediterrenean
+#North Africa and Italy
+
+*Factions
+@The Army
+@Corps and Army troops
+@Infantry Division
+@Cavalry Division
+@Mountain troops
+@Reserves
+@JVuO
+@Chetniks
+@Successful
+@Navy
+@Air force
+@Fighters
+@Bombers
+@Recon planes
+
+25 Estado Español
+*Fronts
+#Morocco
+#Southern Spain
+#Extramadura
+#Northwestern Spain
+#Central Spain
+#Catalonia
+#Baleares
+#Canary Islands
+#Soviet Union
+#Yugoslavia
+#Atlantic
+#Mediterrenean
+
+*Factions
+@The army
+@Corps and Army troops
+@Legion
+@Moroccans
+@Infantry Divion
+@Cavalry
+@Mechanised troops
+@Carlists
+@Falange
+@Blue Division
+@Foreign Volunteers
+@The air force
+@Fighters
+@Bombers
+@Recon planes
+@The navy
+@Destroyers and light ships
+@Cruisers
+@Battleships
+@Submarines
+
+26 República Española
+*Fronts
+#Northern front
+#Catalonia
+#Central Spain
+#Granada
+#Extramadura
+#Baleares
+#Morocco
+#Rio de Oro
+#Islas Canarias
+#France
+#Atlantic
+#Mediterranean
+
+*Factions
+@The Army
+@Army and Corps unis
+@Infantry division
+@Mountain troops
+@Armoured troops
+@Militia
+@CNT-FAI
+@POUM
+@International brigades
+@Security
+@Navy
+@Resistance
+@Air force
+@Fighters
+@Bombers
+@Recons
+@Cavalry
+@Submarines
+@Destroyers and light ships
+@Cruisers
+@Battleships
+@Resistance
+
+32 SS/Waffen SS
+*Fronts
+#Deutschland
+#Nordwest
+#West
+#Norwegen
+#Finnland
+#Heeresgruppe Nord
+#Heeresgruppe Mitte
+#Heeresgruppe Süd
+#None
+#Balkan
+#Italien
+#None
+#None
+#None
+#None
+#Baltische See
+
+*Factions
+@None
+@None
+@None
+@None
+@SS
+@Korpstruppen
+@Beutewaffen
+@None
+@None
+@Aufklärer
+@None
+@Sicherung und Landwehr
+@Hilfswillige
+@Inf. Div.
+@Pz. Div.
+@Kavallerie
+@Fallschirmjäger
+@Mot. Inf. Div.
+@Geb. Div.
+@Tausendjähriges Reich
+@None
+@Wunderwaffen
+@Jäg. Div.
+
+33 Forces Francais Libres
+*Fronts
+#Théâtre des Opérations Nord-Est *Western Europe
+#Ligne Maginot *Maginot Line
+#Théâtre des opérations Sud-Est *Italian border
+#Théâtre d'opérations Afrique du Nord *North Africa
+#Scandinavie *Scandinavia
+#Amérique *Americas
+#Madagascar *Madagascar
+#Indochine *French Indochina
+#Afrique Equatoriale Française *Africa south of Sahara
+#Théâtre des Opérations Méditerranée orientale *The Levant
+#Italie *Italy
+#Somaliland *Djibouti
+#Désert Occidental *Egypt and Libya
+#Océan Atlantique *North Sea and Atlantic Ocean
+#Méditerranée *Mediterranean
+#Océan Pacifique
+#Angleterre
+#Eastern Front
+
+*Factions
+@Unités d'Armée et du Corps *Corps and army units
+@Division Infanterie *Infantry division
+@Division Légère de Cavalerie *Cavalry division
+@Division Infanterie Motorisée *Motorised infantry division
+@Division Légère Mécanique *Light Mechanised Division
+@Division Cuirassée *Armoured division
+@Brigade de Montagne *Mountain brigade
+@Légion étrangère *Foreign legion
+@Colonial *Colonial
+@Marine Nationale *Navy
+@Milice
+@Armée de l'Air
+@None
+@None
+@La Resistance
+@None
+@None
+@None
+@Fighters
+@Bombers
+@Naval planes
+@Recons
+@Soviet-equipped
+@Destroyers
+@Cruisers
+@Capital ships
+@Carriers
+@Submarines

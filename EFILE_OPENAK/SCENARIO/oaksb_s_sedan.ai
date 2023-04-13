@@ -1,0 +1,87 @@
+'---
+'Config AI file for scenario: OAKSB_S_sedan.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=60 
+$buy_newair=40 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3   
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2   
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=69 items  ' Replacement for default list
+  27  '  25mm mle34  [ AT  France]  Cost: 72
+  30  '  105mm C mle35  [ATY  France]  Cost: 228
+  31  '  155mm L mle17F  [ATY  France]  Cost: 756
+  32  '  75mm C mle97  [ATY  France]  Cost: 132
+  36  '  37 Chasseurs a Cheval  [INF  France]  Cost: 132
+  37  '  37 Chasseurs a Pied  [INF  France]  Cost: 132
+  38  '  37 Sapeurs  [INF  France]  Cost: 324
+  39  '  37 Infanterie  [INF  France]  Cost: 72
+  42  '  AMD 35  [RCN  France]  Cost: 396
+  49  '  H39  [ TK  France]  Cost: 420
+  53  '  R35  [ TK  France]  Cost: 408
+  54  '  R40  [ TK  France]  Cost: 468
+  55  '  S35  [ TK  France]  Cost: 480
+  60  '  D.520C.1  [FTR  France]  Cost: 924
+  61  '  MS.406C.1  [FTR  France]  Cost: 696
+  62  '  Po.633B.2  [ TB  France]  Cost: 720
+ 581  '  25mm mle39  [FlaK  France]  Cost: 84
+ 582  '  H35  [ TK  France]  Cost: 408
+ 586  '  75mm mle17/34  [ AD  France]  Cost: 192
+ 587  '  47mm mle37  [ AT  France]  Cost: 84
+ 590  '  155mm C mle17  [ATY  France]  Cost: 540
+ 595  '  Hawk 75A-2  [FTR  France]  Cost: 756
+ 644  '  37 Chasseurs Colonial  [INF  France]  Cost: 72
+ 736  '  37 Tirailleurs  [INF  France]  Cost: 180
+ 924  '  Char Mitrailleuse  [ TK  France]  Cost: 180
+ 930  '  75mm C mle97/35 AC  [ AT  France]  Cost: 96
+ 949  '  Bre.693AB.2  [ TB  France]  Cost: 840
+ 957  '  Po.63.11A.3  [ TB  France]  Cost: 732
+1164  '  8mm mle14  [FlaK  France]  Cost: 36
+1165  '  20mm mle39  [FlaK  France]  Cost: 72
+1166  '  75mm mle13/34 Portee  [ AD  France]  Cost: 432
+1173  '  105mm L mle13  [ATY  France]  Cost: 240
+1175  '  105mm L mle36  [ATY  France]  Cost: 468
+1176  '  220mm L mle17  [ATY  France]  Cost: 2328
+1182  '  37 Mtr Infanterie  [ AT  France]  Cost: 108
+1184  '  37 Garnison  [INF  France]  Cost: 144
+1186  '  31 Infanterie  [INF  France]  Cost: 72
+1187  '  37 Spahis  [INF  France]  Cost: 204
+1191  '  AMR 35ZT  [RCN  France]  Cost: 288
+1199  '  D.510C.1  [FTR  France]  Cost: 672
+1200  '  VG.33C.1  [FTR  France]  Cost: 924
+1202  '  MB.151C.1  [FTR  France]  Cost: 648
+1204  '  Po.631C.3  [FTR  France]  Cost: 912
+1207  '  Martin 167A.3  [ TB  France]  Cost: 792
+1209  '  LeO.451B.4  [ TB  France]  Cost: 1068
+1211  '  DB.7B.3  [ TB  France]  Cost: 852
+1212  '  Am.354B.4  [ TB  France]  Cost: 1008
+1214  '  MB.174A.3  [ TB  France]  Cost: 888
+1959  '  37mm mle16  [ AT  France]  Cost: 60
+1960  '  39 Infanterie de l'Air  [INF  France]  Cost: 324
+2860  '  37 GRDI  [RCN  France]  Cost: 132
+3182  '  H39 (SA18)  [ TK  France]  Cost: 408
+4518  '  Bre.693A.3  [ TB  France]  Cost: 780
+4525  '  MB.152C.1  [FTR  France]  Cost: 960
+4526  '  Bre.691AB.2  [ TB  France]  Cost: 792
+4527  '  MB.131RB.4  [ TB  France]  Cost: 696
+4528  '  MB.175B.3  [ TB  France]  Cost: 1080
+4729  '  C.400  [ TB  France]  Cost: 300
+4730  '  F.K.58a  [FTR  France]  Cost: 708
+4947  '  Po.540M.4  [ TB  France]  Cost: 660
+5210  '  37 Infanterie Legere d'Afrique  [INF  France]  Cost: 96
+5213  '  VUDB  [RCN  France]  Cost: 168
+5393  '  Hawk 75A-3  [FTR  France]  Cost: 780
+5504  '  13,2mm mle30  [FlaK  France]  Cost: 48
+5516  '  37 Pontonniers  [INF  France]  Cost: 144
+5528  '  AMR 35  [RCN  France]  Cost: 204
+5596  '  ANF.115R.2B.2  [ TB  France]  Cost: 744
+5863  '  AMR 33  [ TK  France]  Cost: 168
+5865  '  75mm mle32  [ AD  France]  Cost: 384

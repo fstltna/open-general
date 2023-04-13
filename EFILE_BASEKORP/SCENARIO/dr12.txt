@@ -1,0 +1,13 @@
+Kiev encirclement - Romny September1941
+
+The Russians attempt to relieve their encircled forces at Kiev. You must respond with a counter attack.
+
+The 10 Motorized Infantry Division is ordered to assist your attack from the North asap, followed soon by the 7th Panzer Division which will support your attack from the South.
+
+PLAYER ORDERS
+- Strength lost on core units will be automatically replaced at HQ at the start of the next scenario.
+- New units can be acquired at HQ at the start of the next scenario.
+- The supply hex allows you to deploy all the allowed core forces, but not all on the first turn.
+
+CREDITS
+The Romny scenario and the map on which it is played are created by Hannes Gruber. No more than small modifications were made to make it fit into this campaign.

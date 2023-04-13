@@ -1,0 +1,63 @@
+Mogadishu
+Webi Shabeelle
+Cadale
+Jawhar
+Wanlaweyn
+Indian Ocean
+Balcad
+Warshiikh
+Mogadiscio
+Afgooye
+Aw Dheegle
+Aeropuerto de Mogadiscio
+Mogadishu Port
+Janaale
+Marka
+Golweyn
+8 PzR/15 Pz/[DAK]
+15 Schzt/15 Pz/[DAK]
+15 Schzt/15 Pz/[DAK]
+15 Mot/15 Pz/[DAK]
+33 AR/15 Pz/[DAK]
+33 Rec/15 Pz/[DAK]
+33 Pzjgr/15 Pz/[DAK]
+33 Pio/15 Pz/[DAK]
+5 PzR/21 Pz/[DAK]
+104 Schzt/21 Pz/[DAK]
+155 AR/21 Pz/[DAK]
+3 Rec/21 Pz/[DAK]
+39 Pzjgr/21 Pz/[DAK]
+200 Pio/21 Pz/[DAK]
+132 AR/132 Ariete/[XX]
+32 R/132 Ariete/[XX]
+32 R/132 Ariete/[XX]
+32 R/132 Ariete/[XX]
+[DAK]
+1 Br/2 Indian ID
+2 Br/2 Indian ID
+3 Br/2 Indian ID
+eB/2 Indian ID
+at B/2 Indian ID
+1 R/2 Indian ID
+2 R/2 Indian ID
+3 R/2 Indian ID
+aa B/2 Indian ID
+RTR/2 Indian ID
+Somaliland Camel Corps
+Somali Gendarmerie 
+HQ/Somalia
+B Coy/KAR
+58 R/EAC
+59 R/EAC
+8 R/SA
+3 R/EAC
+Rhodesia AC
+21 Br/Nigerian
+C Coy/KAR
+RAF
+RAF
+RAF
+RAF
+RAF
+RAF
+RAF

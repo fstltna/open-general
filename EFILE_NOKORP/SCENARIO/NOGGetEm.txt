@@ -1,0 +1,21 @@
+Go Get 'Em!
+Spring 2019
+by none
+
+16 scenarios
+
+No historical pretense whatsoever, just pure hack & slash (shoot & bomb?) fun: It's a DiabloTM-like, with WWII units!
+The idea is to go on an adventure with your (initially) little army, beating up adversaries to gain prestige, allowing you to buy more and better units, which will allow you to fight stronger adversaries. Yes, it's a dungeon crawler with the Open General engine, the only point being to build a core army strong enough to fight increasingly dangerous enemies in various settings and situations.
+While you will be playing with standard German equipment, Ordrac, your adversary, gets the best equipment of all Allied nations, so expect some shifting challenges and strategies as the years pass inside the game.
+To push the dungeon crawler paradigm even further, there are bonuses and tresors hidden in most maps: The most obvious ones are rather dangerous Bunkers which give you 200 prestige points straight if you manage to capture them. You don't need to capture them to win the scenario though, but each will give you 200 prestige points, and there is no prestige cap...
+
+Difficulty:
+Average *
+
+Notes: This campaign uses tiled maps, since the maps are rather "unusual"...
+Also, there are some devious things in there, some good, some bad. Stay on your guard and read the scenario instructions carefully, some times you'll get a warning...
+
+
+* Difficulty rating:
+Easy - Casual - Average - Master - Impossible
+"Average" means that with a little effort a player used to OG should be able to achieve Victories (maybe even Brilliant ones).

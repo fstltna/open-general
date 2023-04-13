@@ -1,0 +1,7 @@
+* This is an Efile description file
+* Please don't change the number and order of the lines.
+<title>OLG Cold War
+<description>Openized Latin Generals Cold War Equipment
+<version>1.67
+<author>Santiago Fuertes
+<license>License: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)

@@ -1,0 +1,50 @@
+'---
+'Config purchase file for scenario: BN9S02.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 67 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+ 603  '  Type 95 7.5cm FG  [ATY  Japan]  Cost: 216
+ 763  '  Type 41 7.5cm M  [ATY  Manchukuo]  Cost: 132
+ 764  '  Type 38 7.5cm FG  [ATY  Manchukuo]  Cost: 204
+ 789  '  Guards  [INF  Japan]  Cost: 168
+ 846  '  Regular Cavalry  [INF  Manchukuo]  Cost: 132
+ 907  '  Type 94 7.5cm M  [ATY  Japan]  Cost: 144
+ 958  '  Type 94A  [RCN  Japan]  Cost: 204
+ 959  '  Type 97 Te-Ke 37mm  [RCN  Japan]  Cost: 288
+ 960  '  Type 95 Ha-Go  [ TK  Japan]  Cost: 360
+ 966  '  Type 97A Chi-Ha  [ TK  Japan]  Cost: 396
+ 971  '  Type 90 7.5cm CS  [ AT  Japan]  Cost: 144
+ 972  '  Type 92 Osaka  [RCN  Japan]  Cost: 168
+ 973  '  Type 87  [RCN  Japan]  Cost: 144
+ 977  '  Regular Infantry  [INF  Japan]  Cost: 132
+ 978  '  Engineers  [INF  Japan]  Cost: 480
+ 982  '  Type 38 7.5cm FG  [ATY  Japan]  Cost: 204
+ 984  '  Type 92B  [RCN  Japan]  Cost: 228
+1013  '  Type 98 2cm AA Truck  [FlaK  Japan]  Cost: 228
+1026  '  Type 4 15cm H  [ATY  Japan]  Cost: 324
+1027  '  Type 90 7.5cm FG  [ATY  Japan]  Cost: 348
+1028  '  Type 91 10cm H  [ATY  Japan]  Cost: 288
+1031  '  Type 96 15cm H  [ATY  Japan]  Cost: 480
+1032  '  Type 99 10cm M  [ATY  Japan]  Cost: 192
+1037  '  Type 92 Kokusan  [RCN  Japan]  Cost: 204
+1038  '  Type 93  [RCN  Japan]  Cost: 144
+1052  '  Type 97 Te-Ke 7.7mm  [RCN  Japan]  Cost: 228
+1681  '  Construction  [INF  Japan]  Cost: 192
+1835  '  Guards  [INF  Manchukuo]  Cost: 120
+2408  '  Type 3 81mm  [ATY  Japan]  Cost: 108
+2667  '  Light Infantry  [INF  Japan]  Cost: 108
+2816  '  MG Infantry  [ AT  Manchukuo]  Cost: 120
+2817  '  Type 97 81mm  [ATY  Manchukuo]  Cost: 108
+2909  '  Combat Command  [INF  Japan]  Cost: 180
+2930  '  Combat Command  [INF  Manchukuo]  Cost: 144
+3056  '  Type 95 CC  [ TK  Japan]  Cost: 300
+3371  '  MG Infantry  [ AT  Japan]  Cost: 120
+4779  '  Recon Infantry  [RCN  Japan]  Cost: 120
+6459  '  Type 41 7.5cm M  [ATY  Japan]  Cost: 132
+6805  '  Recon Cavalry  [RCN  Manchukuo]  Cost: 132

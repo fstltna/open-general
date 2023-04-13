@@ -1,0 +1,94 @@
+Alexandria
+1 SA Div (Remnants)/[XXX]
+1 SA Div (Remnants)/[XXX]
+1 SA Div (Remnants)/[XXX]
+1 SA Div (Remnants)/[XXX]
+1 SA Div (Remnants)/[XXX]
+[8 Army]
+22 Guards Inf.Bde.
+31 FR/22 Guards Inf.Bde.
+8 FR/22 Guards Inf.Bde.
+65 ATR/22 Guards Inf.Bde.
+4 RTR/22 Guards Inf.Bde.
+2 RTR/7 Arm Bde
+Supply Point
+11 Hussars
+1 KRRC
+104 Schzt/21 Pz/[DAK]
+5 PzR/21 Pz/[DAK]
+200 Pio/21 Pz/[DAK]
+3 Rec/21 Pz/[DAK]
+39 Pzjgr/21 Pz/[DAK]
+155 AR/21 Pz/[DAK]
+5 R/Raemcke Bde./[DAK]
+HMS Exeter
+HMS Repulse
+HMS Australia
+HMS Jervis
+HMS Milne
+HMS Marne
+HMS Kelvin
+HMS Sidon
+RM N. Da Recco
+RM L.Malocello
+RM Alpino
+RM Andrea Doria
+RM Caio Mario
+RM Duca degli Abruzzi
+RM C.Mirabello
+SMG Giada
+SMG Squalo
+2 NZ Div (Remnants)/[XXX]
+2 NZ Div (Remnants)/[XXX]
+2 NZ Div (Remnants)/[XXX]
+4 Indian Div.(Remnants)/[XXX]
+9 Aust. Div (Remnants)/[XXX]
+9 Aust. Div (Remnants)/[XXX]
+9 Aust. Div (Remnants)/[XXX]
+5 RTR/7 Arm.Div
+DAF
+DAF
+DAF
+DAF
+[2 Luftflotte]
+[2 Luftflotte]
+[2 Luftflotte]
+5 SA
+Lybian Air Command
+Lybian Air Command
+32 R/132 Ariete/[XX]
+132 AR/132 Ariete/[XX]
+8 R/132 Ariete/[XX]
+33 R/133 Littorio/[XX]
+32 R/132 Ariete/[XX]
+32 R/132 Ariete/[XX]
+65 R/101 Trieste/[XX]
+66 R/101 Trieste/[XX]
+21 AR/101 Trieste/[XX]
+9 R/101 Trieste/[XX]
+8 PzR/15 Pz/[DAK]
+15 Schzt/15 Pz/[DAK]
+15 Schzt/15 Pz/[DAK]
+15 Mot/15 Pz/[DAK]
+33 Rec/15 Pz/[DAK]
+33 AR/15 Pz/[DAK]
+33 Pzjgr/15 Pz/[DAK]
+33 Pio/15 Pz/[DAK]
+Abu Qir
+Idku
+Alexandria
+Al Muaddiyah : PORT
+Alexandria : PORT
+Eastern Harbour : PORT
+Kafr el Dauwar
+El Delr
+Ezbet Tell
+Hosh Isa
+Al Kawm al Asmar
+Nag'el Hizaiyir
+Taftish Gianaclis
+Ezbet el Rubi
+[8 Army]
+5 SA
+5 SA
+[XX]

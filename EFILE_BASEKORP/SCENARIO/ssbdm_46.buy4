@@ -1,0 +1,23 @@
+'---
+'Config purchase file for scenario: SSBDM_46.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 13 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+ 489  '  Katyusha 82mm  [ATY  Russia]  Cost: 420
+ 490  '  Katyusha 300m  [ATY  Russia]  Cost: 708
+ 680  '  Katyusha 132mm  [ATY  Russia]  Cost: 600
+ 682  '  Infantry 43  [INF  Russia]  Cost: 96
+1777  '  Pe-8  [ LB  Russia]  Cost: 720
+1822  '  T-60 BM-8-24  [ATY  Russia]  Cost: 492
+1827  '  Siberian  [INF  Russia]  Cost: 204
+1858  '  IL-4  [ LB  Russia]  Cost: 864
+3334  '  BM-13-16  [ATY  Russia]  Cost: 708
+7909  '  Suicide Antonav  [ TB  Russia]  Cost: 48
+4691  '  Suicide Bisnovat  [ TB  Russia]  Cost: 36
+ 561  '  Patriotic Crew  [ TB  All Countries]  Cost: 60

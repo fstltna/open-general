@@ -1,0 +1,10 @@
+Komárom-Szõny
+April 26, 1849
+
+Citoyen General! The Austrians surrounded Komárom last December. Though it is a strong fortress, its brave defenders are almost out of supply. Your troops fought the previous 3 weeks and pushed back the imperials from the River Tisza to the River Vág. Amazing! Before the well deserved rest, your Corps should cross the River Danube and break the blockade of Komárom. A fast advance here makes the imperials trapped in Buda.
+
+Deploy Hexes: 23
+
+ORDER: Take all VHs.
+
+scenario designer: Csaba (lvjtn)

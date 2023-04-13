@@ -1,0 +1,13 @@
+Königgrätz
+
+Jul 3rd, 1866
+
+Despite the many drawbacks and misadventures, the Austro-Saxon Army of the North could finally regroup near the town of Königgrätz. They had allowed the Prussians to take the initiative in the campaign, and now they were paying the price: three Prussian armies were converging on the Elbe Valley, and would soon reach the Austrian positions.
+
+The First and the Elbe Prussian armies arrived first, from the west, on July 2, and decided to attack the next day. Although the Austrians outnumbered them nearly two to one, they wouldn't wait for the arrival of the Prussian Second Army, which was marching from the north. Thus, on July 3rd, 1866, the fate of Germany was to be decided.
+
+Victory conditions:
+- Take all the VHs
+
+Special note:
+- On turn 12 the Prussian II Army, with four Army Corps, will come from the north.

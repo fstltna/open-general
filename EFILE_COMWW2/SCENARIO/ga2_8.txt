@@ -1,0 +1,63 @@
+Gizel
+CXXVI/23
+CXXVIII/23
+LI/23
+XCIII/13
+LXVI/13
+CLXX/111
+IV/13
+CCI/23
+XLIII/13
+XIII/13
+XXIII/23
+CCLXXI/13
+Gizel
+Gizel Airfield
+Terek River
+Beslan
+Humalag
+Alagir
+Batakojurt
+Farn
+Krasnogor
+Darg-Koch
+Ardon
+Arhonskaja
+Nart
+Village
+Ramonovo
+The Corridor
+II/G
+V/GTB
+X/G
+CLI
+CCLXXV
+CCCXCII
+CXL/TB
+XXXVII
+IV/SWF
+ Krasnogor Airfield
+Railroad
+Abandoned Airfield
+STREAM
+SNOW/SAND
+HILL
+CLEAR
+FOREST
+Destroyed Airfield
+Destroyed Bridge
+Tarkskoye
+Verkniy Alkun
+Nizhniy Alkun
+Muzhichi
+RUBBLE
+Galashki
+Arshty
+Chemulga
+Berd-Yurt
+Michurino
+Kosta
+Kardzhin
+Flagdon
+Zavodskoy
+Mikhaylovskoy

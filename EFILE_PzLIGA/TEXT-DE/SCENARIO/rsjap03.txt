@@ -1,0 +1,230 @@
+1945 Ketsu-Go - Kampf um Tokyo [PL 3.2]
+Tokio
+Kaiserlicher Palast
+Strand
+Yokohama
+Kawasaki
+Yokosuka
+Nisaki
+Chikagasaki
+Kamakura
+Tachikawa
+Hachioji
+Omiya
+Urawa
+Noda
+Funabashi
+Owada
+Chiba
+Kawagoe
+Tsukuba
+Susaki
+Nemoto
+Yateyama
+Funakata
+Okamoto
+Amatsu
+Hachiyama
+Hota
+Kanaya
+Minato
+Go
+Dami
+Yachimata
+Kataka
+Naruto
+Hachimoto
+Nohe
+Yokachiba
+Nawekara
+Sawara
+Aohima
+Isumi
+Takamagi
+[HQ der 12.Armee]
+Kaiserliche WachDiv./[12A]
+Kaiserliche WachDiv./[12A]
+Kaiserliche WachDiv./[12A]
+4.U-Boot Flotte
+2 Tk.Bde.(Ind.)/-/[12A]
+3 Tk.Bde.(Ind.)/-/[12A]
+2 Div./[12A]
+2 Div./[12A]
+2 Div./[12A]
+2 Div./[12A]
+2 Div./[12A]
+2 Div./[12A]
+2 Div./[12A]
+1.SpezialWachDiv./[12A]
+1.SpezialWachDiv./[12A]
+1.SpezialWachDiv./[12A]
+2.SpezialWachDiv./[12A]
+2.SpezialWachDiv./[12A]
+2.SpezialWachDiv./[12A]
+3.SpezialWachDiv.[12A]
+3.SpezialWachDiv.[12A]
+3.SpezialWachDiv.[12A]
+SNLF
+SNLF
+SNLF
+SNLF
+3 Div./[14A]
+3 Div./[14A]
+3 Div./[14A]
+3 Div./[12A]
+3 Div./[14A]
+3 Div./[12A]
+3 Div./[12A]
+3 Div./[12A]
+3 Div./[12A]
+3 Div./[12A]
+[12A]
+[12A]
+[12A]
+[12A]
+[12A]
+[12A]
+[12A]
+4 Div./[12A]
+4 Div./[12A]
+4 Div./[12A]
+4 Div./[12A]
+4 Div./[12A]
+4 Div./[12A]
+1 R/1 USMC/[III]
+5 R/1 USMC/[III]
+7 R/1 USMC/[III]
+1 USMC/[III]
+5 R/1 USMC/[III]
+1 USMC/[III]
+1 USMC/[III]
+1 USMC/[III]
+USS Shangri-la
+USS Saratoga
+CVE
+USS Alabama
+USS Bremerton
+USS Vicksburg
+USS Providence
+USS Portsmouth
+[US Marine]
+[USS Saratoga]
+[USS Shangri-la]
+[USAAF]
+[USAAF]
+[USAAF]
+1 Tokko
+2 Tokko
+3 Tokko
+21.Jgr.Geschw.
+22.Jgr.Geschw.
+9.Jgr.Geschw.
+10.Jgr.Geschw.
+7.Marinebombergeschwader
+7.Marinebombergeschwader
+7.Takt.Bomb.Geschw.
+5 Div./[12A]
+5 Div./[12A]
+5 Div./[12A]
+5 Div./[12A]
+5 Div./[12A]
+5 Div./[12A]
+[12A]
+3.SpezialWachDiv./[12A]
+39 Bde./7 Div./[XXIV]
+41 Bde./7 Div./[XXIV]
+45 Bde./7 Div./[XXIV]
+155 Arm.Bde./7 Div./[XXIV]
+7 Div./[XXIV]
+23 R/4 USMC/[III]
+24 R/4 USMC/[III]
+25 R/4 USMC/[III]
+14 R/4 USMC/[III]
+4 Pio.Btn./4 USMC/[III]
+4 USMC/[III]
+4 USMC/[III]
+4 USMC/[III]
+4 R/6 USMC/[III]
+22 R/6 USMC/[III]
+29 R/6 USMC/[III]
+6 USMC/[III]
+6 USMC/[III]
+6 USMC/[III]
+SEE
+6 Div./[12A]
+6 Div./[12A]
+6 Div./[12A]
+6 Div./[12A]
+1.Freiwilligen Div./[12A]
+1.Freiwilligen Div./[12A]
+2.Freiwilligen Div./[12A]
+2.Freiwilligen Div./[12A]
+3.Freiwilligen Div./[12A]
+3.Freiwilligen Div./[12A]
+3.Freiwilligen Div./[12A]
+4.Freiwilligen Div./[12A]
+4.Freiwilligen Div./[12A]
+6 Div./[12A]
+4.SpezialWachDiv./[12A]
+4.SpezialWachDiv./[12A]
+3.Freiwilligen Div./[12A]
+105 R/27 Div./[XXIV]
+106 R/27 Div./[XXIV]
+165 R/27 Div./[XXIV]
+104 AR/27 Div./[XXIV]
+105 AR/27 Div./[XXIV]
+106 AR/27 Div./[XXIV]
+249 AR/27 Div./[XXIV]
+102 Pio.Btn./27 Div./[XXIV]
+381 R/96 Div./[XXIV]
+382 R/96 Div./[XXIV]
+383 R/96 Div./[XXIV]
+96 Kav.R/96 Div./[XXIV]
+96 AR/96 Div./[XXIV]
+19 R/24 Div./[X]
+21 R/24 Div./[X]
+34 R/24 Div./[X]
+3 Pio.Btn./24 Div./[X]
+63 Btn./24 Div./[X]
+13 Btn./24 Div./[X]
+52 Btn./24 Div./[X]
+11 Btn./24 Div./[X]
+70 Tk.Btn./24 Div./[X]
+[HQ der 1.Armee]
+[HQ der 8.Armee]
+61 Bde./31 Div./[X]
+62 Bde./31 Div./[X]
+56 Bde./31 Div./[X]
+106 Eng.R./31 Div./[X]
+73 Bde./37 Div./[X]
+74 Bde./37 Div./[X]
+112 Pio.R/37 Div./[X]
+62 Bde./37 Div./[X]
+24 Tk.Btn./13 Arm.Div./[XIII]
+45 Tk.Btn./13 Arm.Div./[XIII]
+46 Tk.Btn./13 Arm.Div./[XIII]
+16 Btn./13 Arm.Div./[XIII]
+59 Btn./13 Arm.Div./[XIII]
+67 Btn./13 Arm.Div./[XIII]
+93 Rec/13 Arm.Div./[XIII]
+124 Pio.Btl./13 Arm.Div./[XIII]
+13 Arm.Div./[XIII]
+USS Ticonderoga
+USS Hornet
+USS Randolph
+USS Baltimore
+USS Amsterdam
+USS Oakland
+[USS Ticonderoga]
+[USS Randolph]
+[USS Hornet]
+1 R/6 Div./[XIV]
+20 R/6 Div./[XIV]
+63 R/6 Div./[XIV]
+32 Div./[XIV]
+32 Div./[XIV]
+32 Div./[XIV]
+38 Div./[XIV]
+38 Div./[XIV]
+38 Div./[XIV]
+38 Div./[XIV]

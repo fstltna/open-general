@@ -1,0 +1,16 @@
+'---
+'Config purchase file for scenario: Panther0.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 5 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+7855  '  PzBeWg I  [ TK  Germany]  Cost: 216
+
+#1    '  Item/s for Player2 follow...
+4470  '  I-5  [FTR  Russia]  Cost: 300
+1845  '  I-15  [FTR  Russia]  Cost: 384
+ 926  '  I-153  [FTR  Russia]  Cost: 420
+1846  '  I-16-10  [FTR  Russia]  Cost: 456

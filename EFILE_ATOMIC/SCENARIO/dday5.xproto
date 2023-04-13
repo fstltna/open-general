@@ -1,0 +1,11 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 366  '  Comet  [ TK  United Kingdom]  Cost: 1176
+2610  '  Marauder MK III  [ TB  United Kingdom]  Cost: 1116
+4111  '  Seafire XV  [FTR  United Kingdom]  Cost: 972
+5623  '  Wasp II  [ AT  United Kingdom]  Cost: 216
+8531  '  M24 Chaffee  [RCN  United Kingdom]  Cost: 624

@@ -1,0 +1,872 @@
+* SFX files of Open General
+* 10xx.mp3 files are the sound for units moving.
+* 20xx.mp3 files are sounds for units attacking.
+* 30xx.mp3 files are for when a unit gets destroyed.
+1000: Leg Infantry
+1001: Leg Infantry
+1002: Cavalry
+1003: Wheeled units
+1004: Tank 1
+1005: Half Tracked units
+1007: Tracked units
+1008: Cavalry
+1009: Horse drawn units
+1011: Propeller plane
+1012: Jet plane
+1013: Dive bombers
+1014: Bombers
+1015: Large bomber
+1016: Ships
+1017: Infantry
+1018: Tiger tank
+1020: Helicopter
+1021: Rocket Jet
+1022: Large bomber
+1023: Large bomber
+1030: Fighter move
+1031: Fighter move
+1032: Large bomber
+1033: Wheeled units
+1034: Heavy Wheeled units
+1035: Wheeled units
+1036: Wheeled units
+1037: Fighter move
+1038: Infantry
+1039: Infantry
+1040: Infantry
+1041: Wheeled units
+1043: Wheeled units
+1044: Horse drawn units
+1045: Fighter move
+1046: bomber move
+1047: Fighter move
+1048: Wheeled units
+1049: Half Tracked
+1050: Cavalry
+1051: Motorcycle
+1052: Submarine
+1053: Ski
+1054: Bicycle/ordnance
+1060: Tank
+1061: Tank
+1062: Tank
+1063: Tank
+1070: Light Tracked unit
+1071: Heavy Tracked unit
+1072: Infantry
+1073: Tracked unit
+1074: Very Heavy Tracked unit
+1075: Heavy Tracked unit
+1076: Tracked unit
+1077: Heavy Tracked unit
+1078: Tracked unit
+1079: Light Tracked unit
+1080: Ordnance Move
+1081: Fighter move
+1082: Jet flying-no attack
+1083: Infantry moving-no attack
+1084: Calvary running
+1085: Horses walking-making sounds
+1086: Train
+1090: Ordnance move
+1091: Tank
+1092: Train 2
+1096: Helicopter
+1097: Infantry
+1098: Destroyer movement
+1099: Jet move
+1100: Chuck Norris
+1101: UK Leg Infantry
+1102: UK Leg Infantry 2
+1103: US Leg Infantry
+1104: US Leg Infantry 2
+1105: German Leg Infantry
+1106: German Leg Infantry 2
+1107: French Leg Infantry
+1108: French Leg Infantry 2
+1109: Italian Leg Infantry
+1110: Italian Leg Infantry 2
+1111: Japan Leg Infantry
+1112: Japan Leg Infantry 2
+1113: Soviet Leg Infantry
+1114: US Wheeled units
+1115: UK Wheeled units
+1116: German Wheeled units
+1117: French Wheeled units
+1118: Italian Wheeled units
+1119: Japan Wheeled units
+1120: Soviet Wheeled units
+1121: US Tracked units
+1122: UK Tracked units
+1123: German Tracked units
+1124: French Tracked units
+1125: Italian Tracked units
+1126: Japan Tracked units
+1127: Soviet Tracked units
+1128: US Light Tracked unit
+1129: UK Light Tracked unit
+1130: German Light Tracked unit
+1131: French Light Tracked unit
+1132: Italian Light Tracked unit
+1133: Japan Light Tracked unit
+1134: Soviet Light Tracked unit
+1135: US Heavy Tracked unit
+1136: UK Heavy Tracked unit
+1137: German Heavy Tracked unit
+1138: Soviet Heavy Tracked unit
+1139: US Half Tracked units
+1140: UK Half Tracked units
+1141: German Half Tracked units
+1142: French Half Tracked units
+1143: Italian Half Tracked units
+1144: Japan Half Tracked units
+1145: Soviet Half Tracked units
+1146: German Cavalry
+1147: Soviet Cavalry
+1148: US Fighter move
+1149: UK Fighter move
+1150: German Fighter move
+1151: French Fighter move
+1152: Italian Fighter move
+1153: Japan Fighter move
+1154: Soviet Fighter move
+1155: US Bombers
+1156: UK Bombers
+1157: German Bombers
+1158: French Bombers
+1159: Italian Bombers
+1160: Japan Bombers
+1161: Soviet Bombers
+1162: German Dive bombers
+1163: Italian Dive bombers
+1164: French Dive bombers
+1165: US Large bomber
+1166: UK Large bomber
+1167: Japan Large bomber
+1168: Soviet Large bomber
+1169: German Jet move
+1170: US Horse drawn units
+1171: UK Horse drawn units
+1172: German Horse drawn units
+1173: French Horse drawn units
+1174: Italian Horse drawn units
+1175: Japan Horse drawn units
+1176: Soviet Horse drawn units
+1177: Helicopter rotor
+1178: Insectoid infantry
+1179: Silent hovering - flying
+1180: Orgatron fly
+1181: Ptera-voice
+1182: Grav-move
+1183: Hard-target infantry
+1184: Mechanics
+1185: Orgatron move
+1186: Snake movement
+1187: 8-wheels move
+1188: Anti-grav things
+1217: WW1 Fighter
+1218: Train
+1219: Passenger Liner/Freighter move
+1220: Fighter
+1221: Motorcycle or Car
+1222: Jet
+1223: Sub
+1224: Tractor
+1225: Airplane 1
+1226: Airplane 2
+1227: Airplane 3
+1228: Airplane 4
+1229: Airplane 5
+1230: Horses
+1231: Truck
+1232: Tracked Vehicle 1
+1233: Tracked Vehicle 2
+1234: Tracked Vehicle 3
+1235: Tracked Vehicle 4
+1236: Tracked Vehicle 5
+1237: Infantry with Dogs
+1238: Infantry
+1239: Tracked Vehicle 6
+1240: Ship or Sub move
+1241: Elephant with Infantry
+1242: Spitfire
+1243: 4 Horse Transport
+1244: Airplane move
+1245: Jet or Rocket move
+1246: Helicopter
+1247: Truck pulling Gun
+1248: US Tank - from Kelly's Heroes (It's a piece of junk)
+1249: US Command Group with Halftrack - from Kelly's Heroes (Come on now lets get this army of my back in the war)
+1250: US Command Group with Truck - from Kelly's Heroes (Come on now lets get this army of my back in the war)
+1251: US Command Group - from Kelly's Heroes (Come on now lets get this army of my backin the war)
+1252: Truck moving over rough terrain 1
+1253: Truck moving over rough terrain 2
+1254: Heavy Truck moving over rough terrain
+1255: Spitfire
+1256: Mosquito
+1257: Hurricane
+1258: Fw-190
+1259: Hot Air Balloon
+1260: Marching Infantry 1
+1261: Blizzard
+1262: Ship
+1263: Running Infantry
+1264: Camel
+1265: Mule
+1266: PT Boat/MTB 1
+1267: PT Boat/MTB 2
+1268: Ship
+1269: Marching Infantry 2
+1270: Elephants
+1271: Submarine
+1272: Jet
+1273: Heavy Truck for WW1 or WW2
+1274: WW1 vehicle movement
+1275: WW1 vehicle movement
+1276: WW1 vehicle movement
+1277: WW1 Aircraft movement
+1278: WW1 Aircraft movement
+1279: WW1 Aircraft movement
+1280: V1 move sound
+1281: ME-163 move - fast rocket sound
+1282: Heavy Bombers
+1283: Heavy Bombers
+1284: Heavy Vehicle w Infantry move
+1285: Light Vehicle w Infantry move
+1286: Medium Vehicle w Infantry move
+1287: Infantry marching with Bagpipers playing
+1288: Infantry marching with Bagpipers playing
+1289: Italian AC w Infantry move
+1290: Tracked Vehicle w Infantry move sounds
+1291: Tracked Vehicle w Infantry move sounds
+1292: GER Tracked Vehicle w Infantry move sounds
+1293: GER Tracked Vehicle w Infantry move sounds
+1294: Tracked Vehicle w Infantry move sounds
+1295: Tracked Vehicle w Infantry move sounds
+1296: Tracked Vehicle w Infantry move sounds
+1297: Halftrack move
+1298: Soviet Halftrack move
+1299: Halftrack move
+1300: Single horse gallop sound for scouts
+1301: Steam Train move with whistle
+1302: Steam Train move
+1303: US Police Car move
+1304: US Firetruck move
+1305: European Firetruck move
+1306: European Police Car move
+1307: Godzilla move
+1308: Rocket take off & flight
+1309: UFO move
+1310: Jet move
+1311: Heavy Bomber move / B-17
+1312: Medium Bomber move / He-111
+1313: Bulldozer move
+1314: Farm Tractor move
+1315: Fighter move / P-51
+1316: Scottish Piper Band
+1317: Confederate Band
+1318: Union Band
+1319: Infantry with drums
+1320: Napoleonic ship
+1321: Napoleonic ordnance move
+1322: Light Helicopter
+1323: Helicopter (UH-1 Huey)
+1324: African tribe
+1325: African porters
+1326: Zeppelin
+1327: Light Helicopter (Gazelle)
+1328: Helicopter (Puma)
+1329: Helicopter (Mi-8)
+1330: Civilians/Irregulars
+1331: Helicopter (Apache)
+1332: Helicopter (Blackhawk)
+1333: Helicopter (Ka-25)
+1334: Helicopter (Mi-24)
+1335: Modern Tank
+1336: Jet Fighter
+1337: Jet Fighter 2
+1338: Modern L Tank
+1339: HQ Infantry
+1340: WW1 Artillery move
+1341: WW1 Native warriors
+1342: WW1 Engineers digging
+1343: Light Cavalry move
+1344: Heavy Cavalry move
+1345: Submarine
+1346: WW1 Tank 1
+1347: WW1 Armoured car
+1348: Infantry move
+1349: Guards move
+1350: WW1 Recon plane
+1351: WW1 Bomber plane
+1352: Transport ship
+1353: Single horse move
+1354: Infantry charge
+1355: Light Infantry move
+1356: Steam ship
+1357: Sailing ship
+1358: Train slow
+1359: Sappers move
+1360: Garrison move
+1361: Motorcycle move
+1362: Diesel Locomotive
+1363: Diesel Locomotive
+1364: (missing description)
+1400: single Infantry - Antique
+1401: some Infantry - Antique
+1402: Troup Infantry - Antique
+1403: wagon
+1404: wagon 2
+1405: Troup Infantry 2 - Antique
+1406: Infantry + Elephant
+1407: Elephant
+1408: Wagon + Cavalry 1
+1409: Wagon + Cavalry 2
+1410: Wagon 3
+1411: wagon 4
+1412: Ship - Antique
+1413: Infantry + Armour - Antique
+1414: Donkey
+1415: Indogenous
+1416: heavy Infantry - Antique
+1417: small Ship / Transport - Antique
+1418: Galley - Antique
+1419: Ship 2 - Antique
+2000: Sniper
+2001: Jet attack
+2002: Infantry
+2003: Elite Infantry
+2004: Bunker
+2005: Soviet Shocktroops
+2006: Fortification
+2007: Fortification
+2008: Destroyer
+2009: Light tanks/recons
+2010: Native Warriors
+2011: Tanks
+2012: Recons/transporter
+2013: Recons
+2014: Large gun
+2015: Artillery
+2016: Light Artillery
+2017: Rocket Artillery
+2018: Fighter
+2019: Fighter
+2020: Bomber
+2021: Fighterbomber
+2022: Bomber
+2023: Fighterbomber
+2024: Bomber
+2025: FighterBomber (From Mustang)
+2026: Bomber
+2027: Bomber
+2028: Battleship
+2029: Ship
+2030: Heavy AA Gun
+2031: Fighter
+2032: Heavy AA Gun
+2033: Plane/AA gun
+2034: Large bomber
+2035: Large bomber
+2036: Large gun
+2037: Cavalry
+2038: H Cavalry
+2039: Chuck Norris
+2040: Rocket
+2041: Torpedo
+2042: Rocket Artillery
+2043: Rocket
+2044: Dive bomber
+2045: Flametrower Infantry
+2046: AA gun/artillery
+2047: Small QF cannon
+2048: Large Artillery Gun
+2049: Large Gun
+2050: Heavy Infantry
+2051: Anti-tank Gun
+2052: High Velocity Tank Attack
+2053: Large gun (from Tiger)
+2054: Flame
+2055: v2 rocket
+2056: Battleship
+2057: Gun/cannon
+2058: Pac sound
+2059: Air-defense
+2060: Death Squad
+2061: Infantry
+2062: Infantry
+2063: Infantry
+2064: Recons
+2065: Large Artillery Gun
+2066: Fighter
+2067: Fighter
+2068: Fighter
+2069: Fighterbomber
+2070: AT rifle
+2071: 20mm Autocannon
+2072: Machinegun
+2073: Anti-tank Gun
+2074: Sm-gun
+2075: Mine
+2076: Light air-defense gun
+2077: Anti-tank Gun
+2078: Henschel Hs-129/Stuka Ju-87G
+2079: Anti-tank Gun
+2080: Heavy Air-defense gun
+2081: Heavy Artillery
+2082: Small arms fire
+2083: Tank attack (main gun and smg)
+2084: Gun w/reload
+2085: Light Artillery
+2086: Machinegun
+2087: Fighterbomber
+2088: Submarine
+2089: Assault Pioneer attack
+2090: Stuka 1
+2091: Cannon
+2092: Sherman with rocket launcher
+2093: Infantry
+2094: Piston fighter attack
+2095: Bomber Run
+2096: Infantry 2
+2097: Infantry 3
+2098: Infantry 4
+2099: Smg
+2100: Anti-tank Gun
+2101: Awesome rocket aty sound
+2102: Small arms w/ricochet
+2103: Stuka diving-kinda long
+2104: Great minefield sound
+2105: Prop. Plane move/attack
+2106: Automatic rifle
+2107: MG fire
+2108: Large tank/AT fire
+2109: High velocity large gun
+2110: Great large aty fire
+2111: Kamikazee Charge
+2112: Blaster launcher
+2113: Catapult
+2114: Insectoid bomber
+2115: Insectoid canon
+2116: Alien Attack 1
+2117: UFO vessel weapons
+2118: Alien bomber
+2119: Crystal fire
+2120: US Infantry
+2121: UK Infantry
+2122: German Infantry
+2123: French Infantry
+2124: Italian Infantry
+2125: Japan Infantry
+2126: Soviet Infantry
+2127: US Infantry 2
+2128: UK Infantry 2
+2129: German Infantry 2
+2130: French Infantry 2
+2131: Italian Infantry 2
+2132: Japan Infantry 2
+2133: Soviet Infantry 2
+2134: US Infantry Assault
+2135: UK Infantry Assault
+2136: German Infantry Assault
+2137: French Infantry Assault
+2138: Italian Infantry Assault
+2139: Japan Infantry Assault
+2140: Soviet Infantry Assault
+2141: US Anti-tank Gun
+2142: UK Anti-tank Gun
+2143: German Anti-tank Gun
+2144: French Anti-tank Gun
+2145: Italian Anti-tank Gun
+2146: Japan Anti-tank Gun
+2147: Soviet Anti-tank Gun
+2148: US Tanks
+2149: UK Tanks
+2150: German Tanks
+2151: French Tanks
+2152: Italian Tanks
+2153: Japan Tanks
+2154: Soviet Tanks
+2155: US Small QF cannon
+2156: UK Small QF cannon
+2157: German Small QF cannon
+2158: French Small QF cannon
+2159: Italian Small QF cannon
+2160: Japan Small QF cannon
+2161: Soviet Small QF cannon
+2162: US Heavy Tank gun
+2163: UK Heavy Tank gun
+2164: German Heavy Tank gun
+2165: Soviet Heavy Tank gun
+2166: US Recons
+2167: UK Recons
+2168: German Recons
+2169: French Recons
+2170: Italian Recons
+2171: Japan Recons
+2172: Soviet Recons
+2173: US Light tanks/recons
+2174: UK Light tanks/recons
+2175: German Light tanks/recons
+2176: French Light tanks/recons
+2177: Italian Light tanks/recons
+2178: Japan Light tanks/recons
+2179: Soviet Light tanks/recons
+2180: US Sm-gun
+2181: UK Sm-gun
+2182: German Sm-gun
+2183: French Sm-gun
+2184: Italian Sm-gun
+2185: Japan Sm-gun
+2186: Soviet Sm-gun
+2187: US Large gun
+2188: UK Large gun
+2189: German Large gun
+2190: French Large gun
+2191: Italian Large gun
+2192: Japan Large gun
+2193: Soviet Large gun
+2194: US Anti-tank Gun
+2195: UK Anti-tank Gun
+2196: German Anti-tank Gun
+2197: French Anti-tank Gun
+2198: Italian Anti-tank Gun
+2199: Japan Anti-tank Gun
+2200: Soviet Anti-tank Gun
+2201: US Artillery
+2202: UK Artillery
+2203: German Artillery
+2204: French Artillery
+2205: Italian Artillery
+2206: Japan Artillery
+2207: Soviet Artillery
+2208: US Light Artillery
+2209: UK Light Artillery
+2210: German Light Artillery
+2211: French Light Artillery
+2212: Italian Light Artillery
+2213: Japan Light Artillery
+2214: Soviet Light Artillery
+2215: US Large Artillery
+2216: UK Large Artillery
+2217: German Large Artillery
+2218: French Large Artillery
+2219: Italian Large Artillery
+2220: Japan Large Artillery
+2221: Soviet Large Artillery
+2222: US Rocket Artillery
+2223: UK Rocket Artillery
+2224: German Rocket Artillery
+2225: Soviet Rocket Artillery
+2226: US Autocannon
+2227: UK Autocannon
+2228: German Autocannon
+2229: French Autocannon
+2230: Italian Autocannon
+2231: Japan Autocannon
+2232: Soviet Autocannon
+2233: US AA gun
+2234: UK AA gun
+2235: German AA gun
+2236: French AA gun
+2237: Italian AA gun
+2238: Japan AA gun
+2239: Soviet AA gun
+2240: US Heavy AA gun
+2241: UK Heavy AA gun
+2242: German Heavy AA gun
+2243: French Heavy AA gun
+2244: Italian Heavy AA gun
+2245: Japan Heavy AA gun
+2246: Soviet Heavy AA gun
+2247: Blizzard
+2248: Flamethrower only
+2249: Artillery Barrage 1
+2250: Anti-tank Rifle 1
+2251: Anti-tank Rifle 2
+2252: Artillery/Anti-tank
+2253: Light Artillery
+2254: Medium Artillery
+2255: Submarine
+2256: Stuka 1
+2257: Stuka 2
+2258: Stuka 3
+2259: Jet Bomber 1
+2260: Jet Bomber 2
+2261: Jet Bomber 3
+2262: Jet Bomber 4
+2263: Medium Flak
+2264: Artillery Fire 1
+2265: Infantry Fire 1
+2266: MG 1
+2267: MG 2
+2268: MG42
+2269: Infantry laser
+2270: Infantry Fire 2
+2271: Heavy Infantry Fire 1
+2272: Cavalry Fight with Sabres & Guns
+2273: Heavy Artillery/Large Ship Fire 1
+2274: Heavy Artillery/Large Ship Fire 2
+2275: Artillery Fire 2
+2276: Bazooka/Recoiless Rifle
+2277: Attack sound for ME-163
+2278: Recoiless Rifle fire
+2279: Recoiless Rifle fire
+2280: MG fire from US 30cal 1917 model
+2281: WW1 aircraft dogfights
+2282: WW1 aircraft dogfights
+2283: WW1 aircraft dogfights
+2284: WW1 MG Fire
+2285: MG34/42 fire sound
+2286: 4 rifle shots
+2287: German 20mm Flak Gun fire
+2288: Rifle & Pistol fire
+2289: Rifle & Pistol fire
+2290: 2 rifle shots/Mauser 98k
+2291: 155mm Guns firing
+2292: Medium Flak w Infantry fire
+2293: Armor w Infantry fire 1
+2294: Russian Armor w Infantry fire
+2295: German Heavy Armor w Infantry fire
+2296: Armor w Infantry fire 2
+2297: Heavy Armor w Infantry fire
+2298: Armor w Infantry fire 3
+2299: Armor w Infantry fire 4
+2300: Psionic blast
+2301: Sonic weaponry
+2302: Godzilla screams
+2303: Artillery Fire - 105mm
+2304: Infantry Fire
+2305: Gas Attack - men coughing
+2306: Machine Gun fire - MG34/42
+2307: Mortars firing
+2308: WW1 Machine Gun fire
+2309: Tank or SPG firing
+2310: Heavy Infantry fire
+2311: UFO firing
+2312: MG 3
+2313: Heavy Mortar
+2314: Fighterbomber
+2315: Recoiless Rifle
+2316: Alien commander's attack
+2317: Atom Bomb
+2318: Artillery Barrage 2
+2319: MG 4
+2320: Infantry & Mortar Fire
+2321: Heavy Infantry Fire 2
+2322: Infantry Fire 3
+2323: Automatic Rifle
+2324: Artillery/Medium Ship 1
+2325: Artillery/Medium Ship 2
+2326: Tank/Anti-tank Fire
+2327: MG 5
+2328: Angry Mob
+2329: Kamikaze
+2330: Bazooka
+2331: Artillery Barrage 3
+2332: Alien Attack 1
+2333: Alien Attack 2
+2334: Field Gun
+2335: Automatic Gun
+2336: Small Arms Fire
+2337: Rocket Launcher
+2338: SMG Thompson
+2339: SMG AK-47
+2340: Gatling Gun
+2341: 16 Inch - 2 rounds
+2342: Artillery Fire
+2343: 30 cal MG
+2344: Sniper
+2345: Artillery Fire 2
+2346: Artillery Fire
+2347: MG 1
+2348: MG 2
+2349: Light Artillery or Anti-tank
+2350: Ship/Artillery Fire 1
+2351: Ship/Artillery Fire 2
+2352: Ship/Artillery Fire 3
+2353: Small Arms Fire
+2354: Fighter
+2355: Artillery Fire
+2356: Infantry with Horns
+2357: Infantry with Horns 2
+2358: Napoleonic Ship
+2359: Napoleonic Ship 2
+2360: Napoleonic artillery
+2361: Napoleonic artillery 2
+2362: Napoleonic artillery 3
+2363: Napoleonic artillery 4
+2364: Napoleonic musquets
+2365: Napoleonic musquets 2
+2366: cavalry Charge
+2367: Napoleonic cavalry 2
+2368: Union infantry
+2369: Confederate infantry
+2370: Hand to hand
+2371: Indians
+2372: Coastal Gun
+2373: Gas attack
+2374: Gas attack 2
+2375: Sea Mines
+2376: Zeppelin
+2377: Infantry Charge
+2378: Napoleonic Siege Mortar
+2379: Napoleonic Infantry
+2380: Small Arms
+2381: Infantry
+2382: Artillery
+2383: WW1 Infantry attack 1
+2384: WW1 Infantry attack 2
+2385: WW1 Infantry attack 3
+2386: WW1 Infantry attack 4
+2387: Native Warriors 2
+2388: Close Infantry attack (muskets)
+2389: WW1 Cavalry attack
+2390: WW1 Cavalry attack 2
+2391: Civilian revolt
+2392: Submarine
+2393: WW1 Tank
+2394: WW1 Armoured car
+2395: WW1 Tank 2
+2396: WW1 Armoured train 1
+2397: WW1 Armoured train 2
+2398: WW1 Rail gun
+2399: WW1 Fighter
+2400: WW1 Bomber
+2401: Sea mines
+2402: Cavalry charge
+2403: Militia attack
+2404: WW1 Cavalry attack 3
+2405: Congreve rocket
+2406: Curassiers charge
+2407: Hussars charge
+2408: WW1 Cavalry attack 4
+2409: (missing description)
+2410: (missing description)
+2411: (missing description)
+2412: (missing description)
+2413: (missing description)
+2414: (missing description)
+2415: Discs firing
+2416: Interceptor fire
+2417: Jets' minigun
+2418: Mini/machinegun
+2419: S.calibered minigun
+2420: Special troops' weaponry
+2421: Flamer
+2422: Small calibered gun
+2423: Sniper heavy
+2424: Cavalry charge
+2425: Missile launch
+2426: Hunter rifle shot
+2427: Rifle shot
+2428: S.H.O.G.
+2429: Spiker's spikes
+2430: Arrow
+2431: Techno-rifle shot
+2432: Plasma-launcher fire
+2433: Zhard infantry weapons
+2434: Insectoid infantry fire
+2435: Ballista
+2436: Blaster fire
+2437: Alien towers' weapons
+2438: Monster attack
+2439: Digesticore attack
+2440: Vulcan-Phalanx Gun
+2500: Elephant
+2501: Stormattack Infantry 1 - Antique
+2502: Stormattack Infantry 2 - Antique
+2503: Infantry Attack + Swords - Antique
+2504: Infantry Attack + Spears - Antique
+2505: Bow-Attack 1
+2506: Bow-Attack 2
+2507: Catapult 1
+2508: Attack Sab.
+2509: Slingers
+2510: Spears
+2511: Ship - Antique
+2512: Fire
+2513: Horn 1
+2514: Horn 2
+2515: Knife (Spy)
+2516: Ballista
+2517: Rammer
+2518: Cavalry - Antique
+2519: Infantry + Swords 2
+2520: single Bow
+2521: Slingers 2
+2522: Laser fire
+2523: Plasmagun
+2524: Shockbolt
+2525: Nail gatling
+2526: Fusion fire
+2527: Mechanon weapons
+2528: Insectoid tank fire
+2529: Heavy gatling
+2530: Orgatron attack
+3001: Infantry
+3002: Light unit
+3003: Heavy unit
+3004: Plane
+3005: Ship
+3006: Bunker
+3007: Large plane
+3008: Fighter
+3009: Fighter
+3010: Calvary
+3011: Rocket
+3012: Helicopter
+3013: Infantry
+3014: Light plane
+3015: Ship explodes and sinks
+3016: Infantry being overrun
+3017: Infantry death
+3018: Infantry death 2
+3020: Plane
+3021: Light unit
+3022: Light unit
+3023: Jet plane
+3024: Explosion 1
+3025: Explosion 2
+3026: Explosion 3
+3027: Explosion 4
+3028: Explosion 5
+3029: Infantry Death
+3030: Explosion 6
+3031: Explosion 7
+3040: Beasts death
+3041: Human deathcry
+3042: Ogaron deathcry
+3043: Viperon deathcry
+3044: Ufo deathcry
+3045: Zhard deathcry
+3046: Cyberentics death
+3047: Mechanics destruction
+3048: Orgatron deathcry
+3049: Zarack deathcry
+3050: Battlethrall deathcry
+3051: Zhard vechicle explosion
+3075: Mine
+3099: Bomber
+3100: Napoleonic ship
+3101: Vehicle
+3102: Building
+3103: Tank
+3104: Destroyed Train
+3105: Destroyed Fort
+3106: (missing description)
+3200: Elephant
+3201: Ship - Antique
+3202: Single Person
+3203: Single Person 2
+3204: Cavalry - Antique
+3205: Camel
+3206: Catapult / Palisade
+3207: Amazon
+3208: Infantry - Antique
+3209: Infantry 2 - Antique
+3300: Godzilla dies
+3401: (missing description)
+3412: (missing description)
+3413: (missing description)
+3426: (missing description)

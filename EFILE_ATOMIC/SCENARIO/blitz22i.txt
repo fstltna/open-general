@@ -1,0 +1,15 @@
+SITUATION:
+
+Herr General, after your splendid success in North Africa, your units are transfered back to the eastern front and, after some holidays in the "Heimat", are ordered to the Kursk front as army reserve. 
+
+General, as you know the Kursk Salient poses a serious threat to us. To reduce this salient and restore the integrity of our line, we will attack from the north and south, pocket, and then crush the enemy trapped inside. You and your command will lead the southern thrust of our offensive. You must penetrate as far as the town of Prokhorovka. Good Luck.
+
+ORDERS: 
+
+Repel the enemy attack and prevent the Soviets from capturing Belograd. Then move out and take all VHs in 12/15/18 turns for a BV/V/TV.
+
+NOTES:
+
+No air-transports are available in this scenario.
+
+AI will have the first turn!

@@ -1,0 +1,7 @@
+<?xml-stylesheet type='text/xsl' href='http://opengeneral.sourceforge.net/efile.xsl'?>
+<efile>
+	<title>ROI</title>
+	<description>WW2 equipment file based on OLG WW2 2.26 with only slight changes.</description>
+	<version>0.1.1</version>
+	<author>Gotha229</author>
+</efile>

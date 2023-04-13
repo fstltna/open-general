@@ -1,0 +1,13 @@
+Westerplatte
+Danzig
+Danzig: PORT
+Polish Barracks
+I/StG1
+Westerplatte Garrison
+Westerplatte Fortifications
+"Fort"
+"Wal"
+"Prom"
+Pio Trainings Battalion
+SS-Heimwehr
+Danzig HQ

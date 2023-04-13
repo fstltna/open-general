@@ -1,0 +1,30 @@
+Kuhmo
+Railroad
+Frozen Lake
+Lake Pajakkajoki
+Tervapolku
+Kuhmo
+Haatajantie
+Karhunpolku
+Piilolantie Airfield
+Haatajantie Airfield
+Lake  Haatajanjarvi
+Frozen Strait
+Lake Lammasjarvi
+Piilolantie
+Tervapolku  Airfield
+IX/47th Corps
+CXVIII/54th Rifle Div.
+97th Tank Bn.
+LXXXVI/54th Rifle Div.
+CCCXXXVII/54th Rifle Div.
+DXXIX/54th Rifle Div.
+LLv.24
+XXV/9
+XXVII/9
+IX/9
+LLv.10
+Destroyed Airfield
+SNOW/SAND
+CLEAR
+FOREST

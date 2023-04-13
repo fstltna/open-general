@@ -1,0 +1,34 @@
+*** OpenSuite - Map summary report ***
+
+File : tutorial.xscn
+Title: Tutorial Scenario Lupo 3 
+Map  : 506.png   Size: 43 x 35 (1884 x 1740 pixels)
+
+Player                   Side            Victory   Supply    Ports     Deploy    AirPorts  Owned     EH air    EH_gnd   
+P1 USSR                  Side 1          4         0         0         0         0         0         0         0        
+P2 Rebels/Misc.          Side 2          2         0         0         0         3         8         0         0        
+P3 not defined                           0         0         0         0         0         0         0         0        
+P4 not defined                           0         0         0         0         0         0         0         0        
+
+* Prestige *
+
+Hex base prestige is: 40
+No hexes have prestige modifier
+All owned hexes give prestige
+8 hexes give prestige
+Prestige to win for Side 1 is 560
+Prestige to win for Side 2 is 0
+
+*  Terrain usage *
+
+12869  hexes are Clear
+84    hexes are City
+11    hexes are Airfield
+183   hexes are Forest
+122   hexes are Ocean
+40    hexes are River
+1     hexes are Port
+No RailStations
+
+
+All hexes has proper Player/Flag settings

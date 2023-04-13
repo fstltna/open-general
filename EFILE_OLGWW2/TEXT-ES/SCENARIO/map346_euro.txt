@@ -1,0 +1,21 @@
+[MAP:346] [euro.MAP            ]
+--------------------------------
+(15,09) #Kongsvinger
+(16,09) #Lillehammer
+(28,09) #Helsinki
+(12,11) #Kristiansand
+(15,11) #Oslo
+(19,11) #Stochkholm
+(16,15) #Copenhaguen
+(34,15) #Moscow
+(07,17) #London
+(11,17) #Amsterdam
+(13,17) #Army Group B (von Bock)
+(18,18) #Berlin
+(23,18) #Warsaw
+(10,19) #Brussells
+(14,20) #Army Group A (von Runstedt)
+(10,21) #Paris
+(03,25) #Asturias
+(16,26) #Roma
+(04,28) #Madrid

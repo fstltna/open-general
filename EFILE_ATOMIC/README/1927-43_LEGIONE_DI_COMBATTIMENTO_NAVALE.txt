@@ -1,0 +1,37 @@
+1927-43 LEGIONE DI COMBATTIMENTO NAVALE
+
+File                    Scenario                                           Date           BV   V  TV    L  Map
+
+ 0 legion0.xscn         Second Italo-Senussi War                           Jun 16, 1927    1   1   1   Ls  117.jpg
+ 1 legion1.xscn         Battle of Mallorca                                 Aug 16, 1936    2   2   2   Ls  1479.png
+ 2 legion2.xscn         Catalonia Offensive                                Jan 20, 1939    3   3   3   Ls  757.png
+ 3 legion3.xscn         Invasion of Albania                                Apr  7, 1939    4   4   4   Ls  1527.png
+ 4 legion4.xscn         Sidi Barrani                                       Sep 12, 1940    5   5   5   Ls  49.png
+ 5 legion5.xscn         Operation Felix                                    Jan 20, 1941    6   6   6   Ls  99.jpg
+ 6 legion6.xscn         North Dalmatia                                     Apr  6, 1941    7   7   7   Ls  321.png
+ 7 legion7.xscn         Corinth Isthmus                                    Apr 26, 1941    8   8   8   Ls  98.png
+ 8 legion8.xscn         Guns of Navarone                                   May 18, 1941    9   9   9   Ls  703.jpg
+ 9 legion9.xscn         Operation Merkur                                   May 20, 1941   10  10  10   Ls  1469.png
+10 legion10.xscn        Alexandria                                         Dec 18, 1941   11  11  11   Ls  1473.png
+11 legion11.xscn        Suez Canal                                         Jan 12, 1942   12  12  12   Ls  1058.png
+12 legion12.xscn        Siwa Oasis                                         Jul  1, 1942   13  13  13   Ls  1486.png
+13 legion13.xscn        Operazione C3                                      Jul 14, 1942   14  14  14   Ls  1470.png
+14 legion14.xscn        Operation Husky                                    Jul 10, 1943  Win Win Win   Ls  1407.png
+
+Summary of maps needed:
+
+757.png               used 1   times
+321.png               used 1   times
+1479.png              used 1   times
+49.png                used 1   times
+703.jpg               used 1   times
+117.jpg               used 1   times
+1407.png              used 1   times
+1527.png              used 1   times
+99.jpg                used 1   times
+1470.png              used 1   times
+1058.png              used 1   times
+1469.png              used 1   times
+98.png                used 1   times
+1486.png              used 1   times
+1473.png              used 1   times

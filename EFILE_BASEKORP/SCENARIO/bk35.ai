@@ -1,0 +1,420 @@
+'---
+'Config AI file for scenario: bk35.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=412 items  ' Replacement for default list
+  26  '  M16  [FlaK  France]  Cost: 348
+  28  '  90mm mle40  [ AD  France]  Cost: 384
+  29  '  M10  [ AT  France]  Cost: 648
+  31  '  155mm L mle17F  [ATY  France]  Cost: 1032
+  33  '  M7  [ATY  France]  Cost: 660
+  40  '  44 Infanterie  [INF  France]  Cost: 168
+  41  '  M8  [RCN  France]  Cost: 288
+  43  '  Dunkerque BB  [sBS  France]  Cost: 1404
+  44  '  Richelieu BB  [sBS  France]  Cost: 1668
+  45  '  Suffren CA  [sBS  France]  Cost: 792
+  46  '  La Galissonniere LC  [sBS  France]  Cost: 540
+  47  '  Le Fantasque DD  [sDD  France]  Cost: 324
+  50  '  M5A1  [RCN  France]  Cost: 420
+  51  '  M4A2  [ TK  France]  Cost: 564
+  52  '  M4A1-76W  [ TK  France]  Cost: 744
+  57  '  M3A1  [TPT  France]  Cost: 264
+ 100  '  3.7inch  [ AD  United Kingdom]  Cost: 396
+ 182  '  Pesadija  [INF  Allied Yugoslavia]  Cost: 84
+ 242  '  Stuart V  [ TK  Allied Yugoslavia]  Cost: 336
+ 243  '  T-34/85  [ TK  Allied Yugoslavia]  Cost: 972
+ 256  '  43 Partizani  [INF  Allied Yugoslavia]  Cost: 204
+ 260  '  17pdr  [ AT  Poland]  Cost: 312
+ 263  '  25 Pdr  [ATY  Poland]  Cost: 264
+ 269  '  42 SP Piechota  [INF  Poland]  Cost: 324
+ 272  '  Staghound I  [RCN  Poland]  Cost: 348
+ 274  '  Cromwell VI  [ TK  Poland]  Cost: 504
+ 275  '  Sherman V  [ TK  Poland]  Cost: 744
+ 320  '  20mm  [FlaK  United Kingdom]  Cost: 60
+ 321  '  40mm I  [ AD  United Kingdom]  Cost: 144
+ 322  '  40mm Truck  [ AD  United Kingdom]  Cost: 480
+ 323  '  17pdr  [ AT  United Kingdom]  Cost: 312
+ 326  '  Achilles  [ AT  United Kingdom]  Cost: 780
+ 327  '  Wolverine  [ AT  United Kingdom]  Cost: 648
+ 328  '  25 pdr  [ATY  United Kingdom]  Cost: 276
+ 330  '  5.5inch  [ATY  United Kingdom]  Cost: 816
+ 332  '  Bishop  [ATY  United Kingdom]  Cost: 504
+ 333  '  Sexton  [ATY  United Kingdom]  Cost: 660
+ 338  '  40 Engineer  [INF  United Kingdom]  Cost: 408
+ 340  '  36 Bridging  [INF  United Kingdom]  Cost: 192
+ 345  '  40 Paratrooper  [INF  United Kingdom]  Cost: 348
+ 348  '  AEC I  [RCN  United Kingdom]  Cost: 336
+ 349  '  AEC II  [RCN  United Kingdom]  Cost: 396
+ 350  '  AEC III  [RCN  United Kingdom]  Cost: 444
+ 351  '  Daimler II  [RCN  United Kingdom]  Cost: 300
+ 352  '  Humber II  [RCN  United Kingdom]  Cost: 228
+ 353  '  Humber IV  [RCN  United Kingdom]  Cost: 276
+ 354  '  Scout  [RCN  United Kingdom]  Cost: 216
+ 355  '  Staghound I  [RCN  United Kingdom]  Cost: 348
+ 356  '  Repulse BC  [sBS  United Kingdom]  Cost: 1320
+ 357  '  King George V BB  [sBS  United Kingdom]  Cost: 1752
+ 358  '  County CA  [sBS  United Kingdom]  Cost: 804
+ 359  '  Leander CL  [sBS  United Kingdom]  Cost: 504
+ 360  '  Illustrious CV  [sCV  United Kingdom]  Cost: 864
+ 361  '  Tribal DD  [sDD  United Kingdom]  Cost: 288
+ 362  '  Centurion  [ TK  United Kingdom]  Cost: 1416
+ 363  '  Challenger  [ TK  United Kingdom]  Cost: 1152
+ 365  '  Churchill IICS  [ TK  United Kingdom]  Cost: 636
+ 366  '  Comet  [ TK  United Kingdom]  Cost: 1176
+ 367  '  Cromwell VI  [ TK  United Kingdom]  Cost: 504
+ 368  '  Cromwell VII  [ TK  United Kingdom]  Cost: 564
+ 375  '  Sherman I  [ TK  United Kingdom]  Cost: 552
+ 378  '  Firefly V  [ TK  United Kingdom]  Cost: 1212
+ 380  '  Valentine XI  [ TK  United Kingdom]  Cost: 588
+ 382  '  QL  [TPT  United Kingdom]  Cost: 72
+ 388  '  Spitfire IXB  [FTR  United Kingdom]  Cost: 852
+ 389  '  Spitfire VC  [FTR  United Kingdom]  Cost: 732
+ 390  '  Spitfire XIIE  [FTR  United Kingdom]  Cost: 924
+ 391  '  Spitfire XIVE  [FTR  United Kingdom]  Cost: 960
+ 392  '  Beaufighter  [ TB  United Kingdom]  Cost: 732
+ 394  '  Hurricane IID  [ TB  United Kingdom]  Cost: 600
+ 395  '  Mosquito VI  [ TB  United Kingdom]  Cost: 888
+ 396  '  Tempest V  [FTR  United Kingdom]  Cost: 1068
+ 398  '  C-47  [ATP  United Kingdom]  Cost: 348
+ 545  '  Transport  [NTP  France]  Cost: 60
+ 548  '  Transport  [NTP  United Kingdom]  Cost: 60
+ 570  '  Transport  [NTP  Poland]  Cost: 60
+ 590  '  155mm C mle17  [ATY  France]  Cost: 756
+ 626  '  Archer  [ AT  United Kingdom]  Cost: 696
+ 628  '  75mm  [ATY  Allied Yugoslavia]  Cost: 144
+ 631  '  Daimler ICS  [RCN  United Kingdom]  Cost: 348
+ 633  '  Staghound III  [RCN  United Kingdom]  Cost: 444
+ 636  '  Centaur IVCS  [ TK  United Kingdom]  Cost: 492
+ 642  '  Churchill VIII  [ TK  United Kingdom]  Cost: 792
+ 643  '  Churchill VIIICS  [ TK  United Kingdom]  Cost: 744
+ 647  '  37mm  [ AT  Allied Yugoslavia]  Cost: 72
+ 649  '  20mm  [FlaK  Allied Yugoslavia]  Cost: 60
+ 656  '  105mm  [ATY  Allied Yugoslavia]  Cost: 240
+ 657  '  IMAD  [TPT  Allied Yugoslavia]  Cost: 84
+ 661  '  AEC III  [RCN  Allied Yugoslavia]  Cost: 444
+ 666  '  105mm C mle35  [ATY  France]  Cost: 276
+ 667  '  44 Tirailleurs  [INF  France]  Cost: 300
+ 673  '  Wagon  [TPT  Allied Yugoslavia]  Cost: 24
+ 714  '  44 Infantry  [INF  United Kingdom]  Cost: 108
+ 726  '  40mm wz.36  [ AD  Poland]  Cost: 144
+ 734  '  Crocodile  [FlaK  United Kingdom]  Cost: 600
+ 897  '  Mosquito PR  [ TB  United Kingdom]  Cost: 408
+ 910  '  Transport  [NTP  Allied Yugoslavia]  Cost: 60
+ 994  '  Tempest II  [FTR  United Kingdom]  Cost: 1068
+1061  '  76.2mm  [ AD  Allied Yugoslavia]  Cost: 288
+1062  '  47mm  [ AT  Allied Yugoslavia]  Cost: 84
+1063  '  81mm mortar  [ATY  Allied Yugoslavia]  Cost: 192
+1064  '  100mm  [ATY  Allied Yugoslavia]  Cost: 192
+1065  '  Engineer  [INF  Allied Yugoslavia]  Cost: 348
+1066  '  Titova Garda  [INF  Allied Yugoslavia]  Cost: 144
+1067  '  L3/35  [ TK  Allied Yugoslavia]  Cost: 228
+1068  '  Konjica  [RCN  Allied Yugoslavia]  Cost: 168
+1069  '  AB-41  [RCN  Allied Yugoslavia]  Cost: 264
+1070  '  Spitfire VC  [FTR  Allied Yugoslavia]  Cost: 732
+1071  '  Hurricane IID  [ TB  Allied Yugoslavia]  Cost: 600
+1072  '  Mules  [TPT  Allied Yugoslavia]  Cost: 12
+1167  '  40mm mle36  [ AD  France]  Cost: 144
+1169  '  6pdr I  [ AT  France]  Cost: 120
+1170  '  C-47  [ATP  France]  Cost: 348
+1172  '  75mm M mle28  [ATY  France]  Cost: 276
+1178  '  81mm mortar  [ATY  France]  Cost: 192
+1179  '  155mm C mle28  [ATY  France]  Cost: 804
+1180  '  155mm C mle41  [ATY  France]  Cost: 612
+1188  '  43 Chocs  [INF  France]  Cost: 576
+1192  '  M3A1  [RCN  France]  Cost: 192
+1195  '  Centaur III  [ TK  France]  Cost: 492
+1196  '  P-38F  [FTR  France]  Cost: 900
+1197  '  P-47D  [FTR  France]  Cost: 972
+1216  '  Jaguar DD  [sDD  France]  Cost: 264
+1217  '  Duguay-Trouin LC  [sBS  France]  Cost: 444
+1218  '  Emile Berten LC  [sBS  France]  Cost: 396
+1219  '  Algerie CA  [sBS  France]  Cost: 840
+1220  '  Bearn CV  [sCV  France]  Cost: 576
+1221  '  Redoubtable SS  [SUB  France]  Cost: 240
+1469  '  M16  [FlaK  Poland]  Cost: 348
+1470  '  6pdr I  [ AT  Poland]  Cost: 120
+1471  '  Wolverine  [ AT  Poland]  Cost: 648
+1477  '  Sexton  [ATY  Poland]  Cost: 660
+1478  '  182mm H wz.43  [ATY  Poland]  Cost: 1428
+1485  '  42 SP Pionerzy  [INF  Poland]  Cost: 588
+1486  '  44 Piechota  [INF  Poland]  Cost: 84
+1487  '  41 Pionierzy  [INF  Poland]  Cost: 408
+1489  '  Crusader AA II  [FlaK  Poland]  Cost: 312
+1493  '  Greyhound  [RCN  Poland]  Cost: 288
+1498  '  Spitfire IXB  [FTR  Poland]  Cost: 852
+1499  '  Mustang III  [FTR  Poland]  Cost: 876
+1501  '  Mosquito VI  [ TB  Poland]  Cost: 888
+1503  '  Bren Carrier  [TPT  Poland]  Cost: 240
+1504  '  C-47  [ATP  Poland]  Cost: 348
+1505  '  Wicher DD  [sDD  Poland]  Cost: 264
+1506  '  Orzel SS  [SUB  Poland]  Cost: 228
+1519  '  Guiseppe Garibaldi  [INF  Allied Yugoslavia]  Cost: 72
+1551  '  IL-2m3  [ TB  Allied Yugoslavia]  Cost: 792
+1630  '  YaK-1  [FTR  Allied Yugoslavia]  Cost: 624
+1685  '  Crusader AA I  [ AD  United Kingdom]  Cost: 564
+1686  '  Crusader AA II  [FlaK  United Kingdom]  Cost: 312
+1687  '  6pdr IV  [ AT  United Kingdom]  Cost: 180
+1688  '  Deacon 6pdr  [ATY  United Kingdom]  Cost: 204
+1689  '  3inch mortar  [ATY  United Kingdom]  Cost: 180
+1690  '  4.2" mortar  [ATY  United Kingdom]  Cost: 288
+1692  '  75mm I AB  [ATY  United Kingdom]  Cost: 144
+1694  '  7.2inch IV  [ATY  United Kingdom]  Cost: 1416
+1695  '  155mm Long Tom  [ATY  United Kingdom]  Cost: 1188
+1697  '  44 Royal Marine  [INF  United Kingdom]  Cost: 180
+1700  '  MG  [FlaK  United Kingdom]  Cost: 108
+1701  '  Marmon-Herrington II  [RCN  United Kingdom]  Cost: 204
+1702  '  Marmon-Herrington III  [RCN  United Kingdom]  Cost: 240
+1703  '  Staghound IICS  [RCN  United Kingdom]  Cost: 396
+1711  '  Churchill AVRE  [FlaK  United Kingdom]  Cost: 516
+1712  '  Churchill VI  [ TK  United Kingdom]  Cost: 816
+1713  '  Cromwell IV  [ TK  United Kingdom]  Cost: 564
+1714  '  Firefly II  [ TK  United Kingdom]  Cost: 1164
+1715  '  Sherman III  [ TK  United Kingdom]  Cost: 744
+1716  '  Sherman II  [ TK  United Kingdom]  Cost: 588
+1719  '  Meteor I  [FTR  United Kingdom]  Cost: 1116
+1725  '  Barracuda  [ TB  United Kingdom]  Cost: 360
+1726  '  Hudson  [ TB  United Kingdom]  Cost: 504
+1730  '  Halifax  [ LB  United Kingdom]  Cost: 756
+1731  '  Lancaster  [ LB  United Kingdom]  Cost: 960
+1735  '  Lightning CL  [sBS  United Kingdom]  Cost: 336
+1736  '  Fiji CL  [sBS  United Kingdom]  Cost: 528
+1737  '  Manchester CL  [sBS  United Kingdom]  Cost: 540
+1738  '  Dido CL  [sBS  United Kingdom]  Cost: 504
+1739  '  Exeter CA  [sBS  United Kingdom]  Cost: 792
+1740  '  Hood BC  [sBS  United Kingdom]  Cost: 1368
+1741  '  Royal Sovereign BB  [sBS  United Kingdom]  Cost: 1356
+1742  '  Queen Elizabeth BB  [sBS  United Kingdom]  Cost: 1404
+1743  '  Furious CV  [sCV  United Kingdom]  Cost: 684
+1744  '  Hermes CV  [sCV  United Kingdom]  Cost: 480
+1745  '  S SS  [SUB  United Kingdom]  Cost: 228
+1906  '  MG  [FlaK  Allied Yugoslavia]  Cost: 108
+1918  '  B-25D  [ TB  France]  Cost: 552
+1920  '  P-39Q  [ TB  France]  Cost: 936
+1921  '  Valentine VIII  [ TK  Poland]  Cost: 528
+1922  '  Sherman II  [ TK  Poland]  Cost: 552
+1925  '  Sherman III  [ TK  Poland]  Cost: 612
+1926  '  Carrier Recon  [RCN  Poland]  Cost: 204
+1931  '  Carrier Recon  [RCN  United Kingdom]  Cost: 204
+1957  '  Valentine DD  [ TK  United Kingdom]  Cost: 528
+1958  '  4.5inch  [ AD  United Kingdom]  Cost: 780
+1968  '  Bridging  [INF  Allied Yugoslavia]  Cost: 168
+1987  '  Ju 52  [ATP  Allied Yugoslavia]  Cost: 276
+1994  '  43 Para Engineers  [INF  United Kingdom]  Cost: 588
+1999  '  94mm wz.38  [ AD  Poland]  Cost: 396
+2518  '  M3 GMC  [FlaK  Poland]  Cost: 192
+2521  '  107mm Mortar  [ATY  Poland]  Cost: 288
+2522  '  Scout  [RCN  Poland]  Cost: 216
+2523  '  Humber II  [RCN  Poland]  Cost: 228
+2525  '  Challenger  [ TK  Poland]  Cost: 1152
+2537  '  Carrier  [TPT  Poland]  Cost: 240
+2538  '  C8  [TPT  Poland]  Cost: 84
+2539  '  Matador  [TPT  Poland]  Cost: 48
+2540  '  CX22  [TPT  Poland]  Cost: 96
+2545  '  Lancaster  [ LB  Poland]  Cost: 864
+2560  '  Entrenched  [INF  United Kingdom]  Cost: 180
+2593  '  43 Scots Infantry  [INF  United Kingdom]  Cost: 168
+2603  '  Spitfire XVI  [FTR  United Kingdom]  Cost: 972
+2604  '  Firefly I  [FTR  United Kingdom]  Cost: 900
+2605  '  Lysander I  [ TB  United Kingdom]  Cost: 336
+2606  '  Baltimore V  [ TB  United Kingdom]  Cost: 504
+2607  '  Sunderland I  [ LB  United Kingdom]  Cost: 624
+2610  '  Marauder  [ TB  United Kingdom]  Cost: 1116
+2612  '  A DD  [sDD  United Kingdom]  Cost: 264
+2614  '  C8  [TPT  United Kingdom]  Cost: 84
+2615  '  Carrier  [TPT  United Kingdom]  Cost: 168
+2616  '  MW 15cwt  [TPT  United Kingdom]  Cost: 60
+2617  '  Matador  [TPT  United Kingdom]  Cost: 96
+2618  '  Pioneer  [TPT  United Kingdom]  Cost: 84
+2619  '  CX22  [TPT  United Kingdom]  Cost: 96
+2689  '  44 Indian  [INF  United Kingdom]  Cost: 108
+2690  '  43 Ghurka  [INF  United Kingdom]  Cost: 372
+2825  '  M3 GMC  [FlaK  France]  Cost: 192
+2827  '  44 Legionnaire  [INF  France]  Cost: 204
+2830  '  P-63  [ TB  France]  Cost: 1044
+2833  '  Baltimore  [ TB  France]  Cost: 504
+2839  '  GMC 2.5t  [TPT  France]  Cost: 84
+2840  '  Mack 7.5t  [TPT  France]  Cost: 96
+2843  '  M3A1  [TPT  France]  Cost: 264
+2844  '  Jeep  [TPT  France]  Cost: 108
+2852  '  Mules  [TPT  France]  Cost: 12
+2854  '  T214  [TPT  France]  Cost: 84
+2857  '  Infanterie Alpine  [INF  France]  Cost: 288
+2858  '  43 Infanterie Mecanisee  [INF  France]  Cost: 336
+2863  '  44 Sapeur  [INF  France]  Cost: 432
+2922  '  6pdr IV AB  [ AT  United Kingdom]  Cost: 180
+2923  '  Bren AB  [FlaK  United Kingdom]  Cost: 120
+2924  '  Jeep AB  [RCN  United Kingdom]  Cost: 144
+2925  '  Jeep  [TPT  United Kingdom]  Cost: 144
+2927  '  43 Motor Infantry  [INF  United Kingdom]  Cost: 420
+2942  '  Horsa II  [ATP  United Kingdom]  Cost: 180
+2943  '  Hamilcar  [ATP  United Kingdom]  Cost: 180
+3081  '  45mm  [ AT  Allied Yugoslavia]  Cost: 84
+3082  '  76.2mm  [ATY  Allied Yugoslavia]  Cost: 180
+3084  '  Horse  [TPT  Allied Yugoslavia]  Cost: 12
+3085  '  VTZ  [TPT  Allied Yugoslavia]  Cost: 84
+3086  '  Dovunque  [TPT  Allied Yugoslavia]  Cost: 48
+3132  '  MTB-1 MTB  [sDD  United Kingdom]  Cost: 168
+3133  '  Halcyon AM  [sDD  United Kingdom]  Cost: 180
+3134  '  H 28 SS  [SUB  United Kingdom]  Cost: 216
+3135  '  Triton SS  [SUB  United Kingdom]  Cost: 240
+3136  '  S-1 MTB  [sDD  Poland]  Cost: 168
+3137  '  Jaskolka AM  [sDD  Poland]  Cost: 180
+3138  '  Dragon CL  [sBS  Poland]  Cost: 504
+3161  '  VTB 3 MTB  [sDD  France]  Cost: 168
+3162  '  Elan AM  [sDD  France]  Cost: 180
+3163  '  La Melpomene TB  [sDD  France]  Cost: 132
+3164  '  Sirene SS  [SUB  France]  Cost: 228
+3165  '  Cer TB  [sDD  Allied Yugoslavia]  Cost: 132
+3171  '  Carrier, 3inch  [ATY  United Kingdom]  Cost: 252
+3177  '  Carrier, MMG  [ AT  United Kingdom]  Cost: 252
+3185  '  Bretagne BB  [sBS  France]  Cost: 1368
+3229  '  Firefly V  [ TK  Poland]  Cost: 1212
+3230  '  20mm wz.30  [FlaK  Poland]  Cost: 60
+3250  '  Konjica  [INF  Allied Yugoslavia]  Cost: 180
+3277  '  20mm AB  [FlaK  United Kingdom]  Cost: 60
+3279  '  20mm wz.30 AB  [FlaK  Poland]  Cost: 120
+3281  '  75mm wz.38 AB  [ATY  Poland]  Cost: 144
+3297  '  Jeep AB  [TPT  Poland]  Cost: 144
+3298  '  6pdr IV AB  [ AT  Poland]  Cost: 180
+3300  '  Crusader GT  [TPT  United Kingdom]  Cost: 276
+3304  '  43 Paratrooper  [INF  France]  Cost: 348
+3307  '  M3A1  [TPT  United Kingdom]  Cost: 240
+3321  '  44 Strzelcy Konni  [INF  Poland]  Cost: 180
+3324  '  Seafire I  [FTR  United Kingdom]  Cost: 876
+3370  '  155mm wz.40  [ATY  Poland]  Cost: 1380
+3386  '  Cromwell V  [RCN  United Kingdom]  Cost: 576
+3390  '  Cromwell V  [RCN  Poland]  Cost: 576
+3391  '  20mm Quad  [FlaK  United Kingdom]  Cost: 108
+3404  '  40 MG  [FlaK  Poland]  Cost: 108
+3512  '  43 MMG  [ AT  United Kingdom]  Cost: 156
+3513  '  M3A1  [TPT  Poland]  Cost: 312
+3540  '  43 Saperzy  [INF  Poland]  Cost: 216
+3548  '  44 Piechota  [INF  Poland]  Cost: 132
+3556  '  43 Pionierzy  [INF  Poland]  Cost: 396
+3659  '  43 KM Pechota  [FlaK  Poland]  Cost: 132
+3870  '  3.7inch  [ATY  United Kingdom]  Cost: 408
+3871  '  44 Indian Infantry  [INF  United Kingdom]  Cost: 120
+3872  '  44 Ghurka  [INF  United Kingdom]  Cost: 300
+3873  '  44 Sikhs  [INF  United Kingdom]  Cost: 336
+3877  '  44 Parachute Engineers  [INF  United Kingdom]  Cost: 1116
+3883  '  43 Chindits  [INF  United Kingdom]  Cost: 408
+3888  '  43 Constabulary  [INF  United Kingdom]  Cost: 84
+3889  '  43 Colonial Infantry  [INF  United Kingdom]  Cost: 84
+3890  '  43 Colonial Cavalry  [INF  United Kingdom]  Cost: 144
+3891  '  43 Camel  [INF  United Kingdom]  Cost: 156
+3893  '  43 Indian Constabulary  [INF  United Kingdom]  Cost: 168
+3894  '  43 Arab Legion  [INF  United Kingdom]  Cost: 84
+3895  '  43 Home Guard  [INF  United Kingdom]  Cost: 60
+3896  '  43 Crown Volunteers  [INF  United Kingdom]  Cost: 84
+3900  '  44 Light Infantry  [INF  United Kingdom]  Cost: 900
+3901  '  44 Engineers  [INF  United Kingdom]  Cost: 540
+3902  '  44 Bridging  [INF  United Kingdom]  Cost: 252
+3903  '  44 Parachute Infantry  [INF  United Kingdom]  Cost: 444
+3904  '  44 Motor Infantry  [INF  United Kingdom]  Cost: 228
+3905  '  44 Air Landing Infantry  [INF  United Kingdom]  Cost: 384
+3906  '  44 Scots Infantry  [INF  United Kingdom]  Cost: 240
+3909  '  44 Saperzy  [INF  Poland]  Cost: 252
+3930  '  44 Pionerzy  [INF  Poland]  Cost: 540
+3939  '  44 SP Pionerzy  [INF  Poland]  Cost: 1116
+3940  '  44 SP Piechota  [INF  Poland]  Cost: 444
+3941  '  44 Dragoni  [INF  Poland]  Cost: 816
+3943  '  43 Komandosi  [INF  Poland]  Cost: 996
+3954  '  43 Tirailleurs Montagnards  [INF  France]  Cost: 372
+3957  '  43 Pontonniers  [INF  France]  Cost: 216
+3959  '  44 Infanterie de l'Air  [INF  France]  Cost: 444
+4007  '  Baltimore V  [ TB  United Kingdom]  Cost: 696
+4010  '  Firebrand TF.IV  [ TB  United Kingdom]  Cost: 1008
+4012  '  Corsair IV  [ TB  United Kingdom]  Cost: 948
+4015  '  Hellcat II  [FTR  United Kingdom]  Cost: 900
+4019  '  Wildcat VI  [FTR  United Kingdom]  Cost: 744
+4024  '  Halifax III  [ LB  Poland]  Cost: 696
+4032  '  Spitfire IXE  [FTR  United Kingdom]  Cost: 828
+4033  '  Mustang IV  [FTR  Poland]  Cost: 876
+4035  '  Hurricane IVRP  [ TB  Poland]  Cost: 612
+4036  '  Lysander III  [ TB  Poland]  Cost: 444
+4037  '  Lysander III  [ TB  United Kingdom]  Cost: 444
+4040  '  Mosquito NF.30  [ TB  Poland]  Cost: 900
+4042  '  Mosquito NF.30  [ TB  United Kingdom]  Cost: 972
+4043  '  Auster AOP  [ TB  Poland]  Cost: 216
+4044  '  Auster AOP  [ TB  United Kingdom]  Cost: 216
+4046  '  Warwick III  [ATP  United Kingdom]  Cost: 588
+4047  '  Warwick III  [ATP  Poland]  Cost: 588
+4054  '  Hurricane IVRP  [ TB  United Kingdom]  Cost: 672
+4062  '  Spitfire VIII  [FTR  United Kingdom]  Cost: 936
+4063  '  Spitfire XVIII  [FTR  United Kingdom]  Cost: 912
+4064  '  Spitfire XVIE  [FTR  United Kingdom]  Cost: 816
+4073  '  Thunderbolt II  [ TB  United Kingdom]  Cost: 936
+4074  '  Tempest FB.II  [ TB  United Kingdom]  Cost: 1008
+4077  '  Sunderland III  [ LB  United Kingdom]  Cost: 504
+4078  '  Sunderland V  [ LB  United Kingdom]  Cost: 552
+4080  '  Mosquito PR.IX  [ TB  United Kingdom]  Cost: 636
+4081  '  Mosquito PR.34  [ TB  United Kingdom]  Cost: 756
+4083  '  Mosquito NF.36  [ TB  United Kingdom]  Cost: 984
+4084  '  Mosquito FB.XVIII  [ TB  United Kingdom]  Cost: 900
+4085  '  Mosquito B.IV Special  [ LB  United Kingdom]  Cost: 552
+4087  '  Mosquito B.XVI  [ TB  United Kingdom]  Cost: 792
+4088  '  Mosquito B.35  [ TB  United Kingdom]  Cost: 828
+4089  '  Meteor III  [FTR  United Kingdom]  Cost: 1332
+4092  '  Spitfire XIVE  [FTR  Poland]  Cost: 948
+4093  '  Lincoln I  [ LB  United Kingdom]  Cost: 816
+4110  '  Seafire III  [FTR  United Kingdom]  Cost: 852
+4111  '  Seafire XV  [FTR  United Kingdom]  Cost: 972
+4115  '  Spitfire PR.XIX  [ TB  United Kingdom]  Cost: 744
+4193  '  Liberator GR.VIII  [ LB  United Kingdom]  Cost: 624
+4242  '  Firefly FR.IV  [ TB  United Kingdom]  Cost: 900
+4250  '  Wellington GR.XIV  [ LB  United Kingdom]  Cost: 504
+4330  '  Warwick GR.V  [ LB  United Kingdom]  Cost: 552
+4724  '  Liberator I  [ LB  United Kingdom]  Cost: 816
+4725  '  Halifax III  [ LB  United Kingdom]  Cost: 696
+4726  '  Halifax VI  [ LB  United Kingdom]  Cost: 792
+4775  '  MS.505  [ TB  France]  Cost: 252
+4808  '  Spitfire IXC  [ TB  Allied Yugoslavia]  Cost: 936
+4811  '  Yak-9M  [FTR  Allied Yugoslavia]  Cost: 708
+4813  '  Bf 109G-6  [FTR  Allied Yugoslavia]  Cost: 828
+4815  '  U-2VS  [ TB  Allied Yugoslavia]  Cost: 276
+4816  '  Pe-2  [ TB  Allied Yugoslavia]  Cost: 780
+4823  '  Fi 156C-1  [ TB  Allied Yugoslavia]  Cost: 240
+5105  '  York I  [ATP  United Kingdom]  Cost: 888
+5107  '  Ventura IIA  [ TB  United Kingdom]  Cost: 936
+5117  '  Spitfire IX tropical  [FTR  United Kingdom]  Cost: 1116
+5119  '  Spitfire XVIC  [ TB  United Kingdom]  Cost: 1236
+5121  '  Mustang III  [FTR  United Kingdom]  Cost: 1152
+5122  '  Mustang IV  [FTR  United Kingdom]  Cost: 1200
+5184  '  42 Bataliony Chlopskie  [INF  Poland]  Cost: 96
+5188  '  44 Kawaleria AK  [INF  Poland]  Cost: 156
+5189  '  44 Grupa Ppanc AK  [INF  Poland]  Cost: 252
+5190  '  44 Kedyw  [INF  Poland]  Cost: 408
+5191  '  44 Strzelcy NSZ  [INF  Poland]  Cost: 120
+5192  '  45 Strzelcy WiN  [INF  Poland]  Cost: 168
+5194  '  44 Zwiadowcy konni  [RCN  Poland]  Cost: 144
+5195  '  44 Zwiadowcy zmotoryzowani  [RCN  Poland]  Cost: 156
+5196  '  Kubus  [RCN  Poland]  Cost: 216
+5198  '  45mm wz.37   [ AT  Poland]  Cost: 120
+5200  '  44 Ckm Piechota AK  [FlaK  Poland]  Cost: 132
+5201  '  81mm M wz.29  [ATY  Poland]  Cost: 108
+5203  '  Horse  [TPT  Poland]  Cost: 204
+5204  '  Citroen TA  [TPT  Poland]  Cost: 120
+5205  '  Chevrolet 157  [TPT  Poland]  Cost: 72
+5207  '  44 Powstancy AK  [INF  Poland]  Cost: 48
+5213  '  Berliet  [RCN  France]  Cost: 192
+5216  '  44L  [RCN  France]  Cost: 228
+5429  '  Halifax II  [ LB  France]  Cost: 864
+5432  '  B.26B  [ TB  France]  Cost: 1200
+5435  '  Spitfire IX  [FTR  France]  Cost: 1116
+5513  '  M12  [ATY  France]  Cost: 972
+5521  '  43 Goumiere  [INF  France]  Cost: 276
+5570  '  20mm Portee  [FlaK  United Kingdom]  Cost: 204
+5582  '  Jaguar DD  [sDD  France]  Cost: 228
+5586  '  81mm Maquis  [ATY  France]  Cost: 84
+5625  '  Sherman III DD  [ TK  United Kingdom]  Cost: 672
+5683  '  44 Parachute HQ  [INF  United Kingdom]  Cost: 288
+5691  '  Daimler II  [RCN  United Kingdom]  Cost: 384
+5808  '  3inch  [ AT  United Kingdom]  Cost: 228
+5815  '  Train  [RTP  France]  Cost: 120
+5824  '  Train  [RTP  Poland]  Cost: 120
+5830  '  Train  [RTP  Allied Yugoslavia]  Cost: 120
+5831  '  Train  [RTP  United Kingdom]  Cost: 120
+7991  '  25 Pdr at-aty  [ATY  United Kingdom]  Cost: 276

@@ -1,0 +1,132 @@
+'---
+'Config AI file for scenario: OAKSB_S_rtd.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=60 
+$buy_newair=40 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3   
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2   
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=114 items  ' Replacement for default list
+  27  '  25mm mle34  [ AT  France]  Cost: 72
+  30  '  105mm C mle35  [ATY  France]  Cost: 228
+  31  '  155mm L mle17F  [ATY  France]  Cost: 756
+  32  '  75mm C mle97  [ATY  France]  Cost: 132
+  36  '  37 Chasseurs a Cheval  [INF  France]  Cost: 132
+  37  '  37 Chasseurs a Pied  [INF  France]  Cost: 132
+  38  '  37 Sapeurs  [INF  France]  Cost: 324
+  39  '  37 Infanterie  [INF  France]  Cost: 72
+  42  '  AMD 35  [RCN  France]  Cost: 396
+  49  '  H39  [ TK  France]  Cost: 420
+  53  '  R35  [ TK  France]  Cost: 408
+  54  '  R40  [ TK  France]  Cost: 468
+  55  '  S35  [ TK  France]  Cost: 480
+  60  '  D.520C.1  [FTR  France]  Cost: 924
+  61  '  MS.406C.1  [FTR  France]  Cost: 696
+  62  '  Po.633B.2  [ TB  France]  Cost: 720
+ 100  '  3.7inch  [ AD  United Kingdom]  Cost: 564
+ 320  '  20mm  [FlaK  United Kingdom]  Cost: 72
+ 321  '  40mm I  [ AD  United Kingdom]  Cost: 180
+ 328  '  25pdr  [ATY  United Kingdom]  Cost: 192
+ 338  '  40 Engineers  [INF  United Kingdom]  Cost: 396
+ 340  '  40 Bridging  [INF  United Kingdom]  Cost: 192
+ 354  '  Dingo  [RCN  United Kingdom]  Cost: 216
+ 381  '  Lt IV  [ TK  United Kingdom]  Cost: 168
+ 385  '  Hurricane I  [FTR  United Kingdom]  Cost: 756
+ 387  '  Spitfire IA  [FTR  United Kingdom]  Cost: 900
+ 551  '  Lt VI  [ TK  United Kingdom]  Cost: 204
+ 581  '  25mm mle39  [FlaK  France]  Cost: 84
+ 582  '  H35  [ TK  France]  Cost: 408
+ 586  '  75mm mle17/34  [ AD  France]  Cost: 192
+ 587  '  47mm mle37  [ AT  France]  Cost: 84
+ 590  '  155mm C mle17  [ATY  France]  Cost: 540
+ 595  '  Hawk 75A-2  [FTR  France]  Cost: 756
+ 627  '  18pdr  [ATY  United Kingdom]  Cost: 144
+ 629  '  4.5inch  [ATY  United Kingdom]  Cost: 192
+ 644  '  37 Chasseurs Colonial  [INF  France]  Cost: 72
+ 650  '  Cruiser I  [ TK  United Kingdom]  Cost: 312
+ 700  '  Matilda I  [ TK  United Kingdom]  Cost: 480
+ 702  '  Blenheim I  [ TB  United Kingdom]  Cost: 780
+ 914  '  Battle I  [ TB  United Kingdom]  Cost: 672
+ 924  '  Char Mitrailleuse  [ TK  France]  Cost: 180
+ 930  '  75mm C mle97/35 AC  [ AT  France]  Cost: 96
+ 949  '  Bre.693AB.2  [ TB  France]  Cost: 840
+ 957  '  Po.63.11A.3  [ TB  France]  Cost: 732
+1164  '  8mm mle14  [FlaK  France]  Cost: 36
+1165  '  20mm mle39  [FlaK  France]  Cost: 72
+1166  '  75mm mle13/34 Portee  [ AD  France]  Cost: 432
+1173  '  105mm L mle13  [ATY  France]  Cost: 240
+1175  '  105mm L mle36  [ATY  France]  Cost: 468
+1176  '  220mm L mle17  [ATY  France]  Cost: 2328
+1182  '  37 Mtr Infanterie  [ AT  France]  Cost: 108
+1186  '  31 Infanterie  [INF  France]  Cost: 72
+1187  '  37 Spahis  [INF  France]  Cost: 204
+1191  '  AMR 35ZT  [RCN  France]  Cost: 288
+1199  '  D.510C.1  [FTR  France]  Cost: 672
+1200  '  VG.33C.1  [FTR  France]  Cost: 924
+1202  '  MB.151C.1  [FTR  France]  Cost: 648
+1204  '  Po.631C.3  [FTR  France]  Cost: 912
+1207  '  Martin 167A.3  [ TB  France]  Cost: 792
+1209  '  LeO.451B.4  [ TB  France]  Cost: 1068
+1211  '  DB.7B.3  [ TB  France]  Cost: 852
+1212  '  Am.354B.4  [ TB  France]  Cost: 1008
+1214  '  MB.174A.3  [ TB  France]  Cost: 888
+1689  '  3inch  [ATY  United Kingdom]  Cost: 84
+1693  '  6inch  [ATY  United Kingdom]  Cost: 456
+1696  '  9.2inch  [ATY  United Kingdom]  Cost: 828
+1700  '  40 MMG  [ AT  United Kingdom]  Cost: 108
+1720  '  Defiant I  [FTR  United Kingdom]  Cost: 672
+1722  '  Beaufort I  [ TB  United Kingdom]  Cost: 684
+1724  '  Blenheim IV  [ TB  United Kingdom]  Cost: 816
+1726  '  Hudson I  [ TB  United Kingdom]  Cost: 708
+1931  '  Scout Carrier  [RCN  United Kingdom]  Cost: 204
+1959  '  37mm mle16  [ AT  France]  Cost: 60
+1960  '  39 Infanterie de l'Air  [INF  France]  Cost: 324
+2592  '  40 Scots Infantry  [INF  United Kingdom]  Cost: 144
+2595  '  40 Infantry  [INF  United Kingdom]  Cost: 72
+2860  '  37 GRDI  [RCN  France]  Cost: 132
+2865  '  60pdr  [ATY  United Kingdom]  Cost: 480
+3182  '  H39 (SA18)  [ TK  France]  Cost: 408
+3338  '  25mm I  [ AT  United Kingdom]  Cost: 84
+3853  '  40 Motor Infantry  [INF  United Kingdom]  Cost: 144
+3855  '  40 Constabulary  [INF  United Kingdom]  Cost: 60
+3870  '  3.7inch  [ATY  United Kingdom]  Cost: 408
+3910  '  40 Motorcycle  [RCN  United Kingdom]  Cost: 144
+4001  '  Hampden TB.I  [ TB  United Kingdom]  Cost: 768
+4037  '  Lysander IIIA  [ TB  United Kingdom]  Cost: 648
+4056  '  Spitfire I  [FTR  United Kingdom]  Cost: 900
+4097  '  Hector I  [ TB  United Kingdom]  Cost: 480
+4518  '  Bre.693A.3  [ TB  France]  Cost: 780
+4525  '  MB.152C.1  [FTR  France]  Cost: 960
+4526  '  Bre.691AB.2  [ TB  France]  Cost: 792
+4527  '  MB.131RB.4  [ TB  France]  Cost: 696
+4528  '  MB.175B.3  [ TB  France]  Cost: 1080
+4664  '  Hurricane IA  [FTR  United Kingdom]  Cost: 804
+4729  '  C.400  [ TB  France]  Cost: 300
+4730  '  F.K.58a  [FTR  France]  Cost: 708
+4947  '  Po.540M.4  [ TB  France]  Cost: 660
+5128  '  Lysander I  [ TB  United Kingdom]  Cost: 624
+5130  '  Spitfire PR.IV  [ TB  United Kingdom]  Cost: 780
+5210  '  37 Infanterie Legere d'Afrique  [INF  France]  Cost: 96
+5213  '  VUDB  [RCN  France]  Cost: 168
+5393  '  Hawk 75A-3  [FTR  France]  Cost: 780
+5504  '  13,2mm mle30  [FlaK  France]  Cost: 48
+5516  '  37 Pontonniers  [INF  France]  Cost: 144
+5528  '  AMR 35  [RCN  France]  Cost: 204
+5596  '  ANF.115R.2B.2  [ TB  France]  Cost: 744
+5683  '  44 Parachute HQ  [INF  United Kingdom]  Cost: 288
+5686  '  2pdr  [ AT  United Kingdom]  Cost: 84
+5687  '  Matilda II  [ TK  United Kingdom]  Cost: 720
+5688  '  Cruiser IIA  [ TK  United Kingdom]  Cost: 348
+5689  '  Cruiser III  [ TK  United Kingdom]  Cost: 300
+5690  '  Cruiser IV  [ TK  United Kingdom]  Cost: 324
+5863  '  AMR 33  [ TK  France]  Cost: 168
+5865  '  75mm mle32  [ AD  France]  Cost: 384

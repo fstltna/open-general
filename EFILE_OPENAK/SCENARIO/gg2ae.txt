@@ -1,0 +1,170 @@
+2 Army Encirclement
+Minsk
+Volkovysk
+Novogrudok
+Kobryn
+Mosty
+Grodno
+Bereza
+Pinsk
+Lida
+Ivacevicy
+Slonim
+Baranavicy
+Njasviz
+Stoubey
+Dzjarzynsk
+Scucyn
+Valozyn
+Smaljavysk
+Luninec
+Salihorsk
+Slucak
+Slutsk
+Pripet Marshes
+River Pripet
+River Niemen
+Zelva
+Mozyr
+Zhitkovich
+II/152/6th Cav(VI)
+I/48/6th Cav(VI)
+I/94/6th Cav(VI)
+II/24/36th Cav(VI)
+I/102/36th Cav(VI)
+II/42/36th Cav(VI)
+I/144/36th Cav(VI)
+95AP/9ShAD
+102AP/9ShAD
+99AP/9ShAD
+101AP/9ShAD
+45BAD/9ShAD
+46BAD/9ShAD
+51BAD/9ShAD
+47BAD/9ShAD
+Pinsk Fortifications
+I/169/86th Rifle(V)
+I/330/86th Rifle(V)
+II/284/86th Rifle(V)
+III/52/24th Rifle(XXI)
+II/119/13th Rifle(V)
+I/172/13th Rifle(V)
+I/296/13th Rifle(V)
+II/513/113th Rifle(V)
+I/513/113th Rifle(V)
+II/679/113th Rifle(V)
+I/725/113th Rifle(V)
+II/13/2nd Rifle(I)
+II/200/2nd Rifle(I)
+II/261/2nd Rifle(I)
+II/151/8th Rifle(I)
+I/229/8th Rifle(I)
+II/310/8th Rifle(I)
+I/261/2nd Rifle(I)
+II/132/27th Rifle(IV)
+I/239/27th Rifle(IV)
+II/120/27th Rifle(IV)
+I/345/27th Rifle(IV)
+I/37/56th Rifle(IV)
+I/184/56th Rifle(IV)
+II/213/56th Rifle(IV)
+I/55/17th Rifle(XXI)
+I/271/17th Rifle(XXI)
+II/278/17th Rifle(XXI)
+I/20/37th Rifle(XXI)
+I/91/37th Rifle(XXI)
+I/247/37th Rifle(XXI)
+I/7/24th Rifle(XXI)
+II/168/24th Rifle(XXI)
+I/274/24th Rifle(XXI)
+I/168/24th Rifle(XXI)
+I/59/85th Rifle(IV)
+I/103/85th Rifle(IV)
+II/141/85th Rifle(IV)
+I/164/2nd Rifle(I)
+II/770/209th Mech(XVII)
+II/7/24th Rifle(XXI)
+I/246/24th Rifle(XXI)
+I/370/24th Rifle(XXI)
+I/123/86th Rifle(V)
+I/94/2nd Rifle(I)
+I/14/7th Tk(VI)
+I/161/17th Rifle(XXI)
+II/66/33rd Tk(XI)
+I/57/29th Tk(XI)
+I/59/29th Tk(XI)
+I/65/33rd Tk(XI)
+II/65/33rd Tk(XI)
+I/700/204th Mech(XI)
+II/700/204th Mech(XI)
+I/706/204th Mech(XI)
+II/706/204th Mech(XI)
+I/106/29th Mech(XI)
+II/106/29th Mech(XI)
+I/128/29th Mech(XI)
+II/128/29th Mech(XI)
+I/752/208th Mech(XIII)
+II/752/208th Mech(XIII)
+I/52/24th Rifle(XXI)
+I/213/56th Rifle(IV)
+I/137/85th Rifle(IV)
+I/151/8th Rifle(I)
+I/128/86th Rifle(V)
+II/248/86th Rifle(V)
+II/172/13th Rifle(V)
+II/228/55th Rifle(XLVII)
+I/679/113th Rifle(V)
+II/725/113th Rifle(V)
+I/48/13th Rifle(V)
+I/21/17th Inf(XIII)
+I/17/17th Inf(XIII)
+II/68/23rd Inf(VII)
+I/43/7th Inf(VII)
+I/59/23rd Inf(VII)
+I/41/5th Inf(V)
+I/44/8th Inf(VII)
+I/458/258th Inf(VII)
+I/445/134th Inf(XLIII)
+I/448/137th Inf(IX)
+II/215/78th Inf(XII)
+II/434/131st Inf(XLIII)
+II/509/292nd Inf(IX)
+I/75/5th Inf(V)
+II/83/28th Inf(VIII)
+I/371/161st Inf(VIII)
+I/109/35th Inf(V)
+III/743/26th Inf(VI)
+I/58/6th Inf(VI)
+II/39/26th Inf(VI)
+I/314/162nd Inf(XX)
+II/456/256th Inf(XX)
+II/2/12th Pz(LVII)
+II/92/20th Pz(XXXIX)
+I/37/7th Pz(XXXIX)
+I/19/19th Pz(LVII)
+I/29/12th Pz(LVII)
+II/27/19th Pz(LVII)
+I/21/20th Pz(XXXIX)
+III/58/7th Pz(XXXIX)
+I/11/14th Mot Inf(XXXIX)
+II/90/20th Mot Inf(XXXIX)
+I/69/20th Mot Inf(XXXIX)
+I/30/18th Mot Inf(LVII)
+II/30/18th Mot Inf(LVII)
+I/51/18th Mot Inf(LVII)
+II/KG 3(II) LF2
+II/StG 77(II) LF2
+I/JG 51(II) LF2
+II/JG 51(II) LF2
+II/15/29th Mot Inf(XLVII)
+I/71/29th Mot Inf(XLVII)
+Don't take the 2 cities
+Infantry
+I/574/121st Rifle(XLVII)
+III/274/24th Rifle(XXI)
+III/635/143rd Rifle(XLVII)
+III/487/143rd Rifle(XLVII)
+I/770/209th Mech(XVII)
+I/754/209th Mech(XVII)
+III/52/24th Rifle(XXI)
+II/57/29th Tk(XI)

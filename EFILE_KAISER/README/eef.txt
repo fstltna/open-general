@@ -1,0 +1,37 @@
+"THE LAST CRUSADE" - The Egyptian Expeditonary Force 1915-18
+
+THE CAMPAIGN:
+When Turkey joined the Central Powers in November 1914, the new enemy threatened the most vital supply line of the British Empire - the Suez Canal. The Egyptian Army was weak, and the Canal only defended by some battalions of the Indian Army. But soon troops from all over the Empire flooded into the Nile Delta. 
+Many came only for a few months of training before they were shipped to the Western Front.
+However, some remained in Egypt and built the nucleus of the army that was to fight all its way across the desert into the heart of the Holy Land - The Egyptian Expeditionary Force (EEF), as it was officially named in March 1916.
+The EEF was an "imperial" force in its true sense. Indian Ghurkas fought alongside Scotsmen, Australian Lighthorsemen beside New Zealand Mounted Rifles and the Imperial Camel Corps. This is their story...
+
+NOTE:
+No horses were harmed during the making of this PG2 campaign. ;)
+
+
+REQUIREMENTS: 
+PG2UK220 exe, the latest datup, Kaiser General II Efile, the GraphicSwitcher Tool,
+and the following user-made maps:
+kantara.map(#563)
+beersheb.map(#595)
+gaza.map(#594)
+sollum.map(#214)
+magdhaba.map(#565)
+matruh.map(#131)
+jerusa17.map(#596)
+rafa.map(#593)
+romani.map(#564)
+
+
+INSTRUCTIONS:
+Unzip the files from "Campaign" into the scenario folder, unzip "Equipment" into main Pg2 folder. 
+Then Use the latest Graphswitcher to switch to the Baltic Efile for correct representation of the country flags.
+
+For any comments, suggestions, etc. contact me at greatwargeneral@yahoo.de
+
+Hope you enjoy the campaign!
+
+Best regards,
+Patrick Steinmann
+August 20008

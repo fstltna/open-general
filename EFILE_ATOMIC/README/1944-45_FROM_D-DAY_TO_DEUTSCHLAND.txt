@@ -1,0 +1,40 @@
+1944-45 FROM D-DAY TO DEUTSCHLAND
+
+File               	Scenario                               		   Date           BV   V  TV    L  Map
+
+ 0 dday0.xscn           Landing at Omaha Beach                             Jun  6, 1944    1   1   1   Ls  345.jpg
+ 1 dday1.xscn           Battle of Cherbourg                                Jun 18, 1944    2   2   2   Ls  1509.png
+ 2 dday2.xscn           Battle of Caen                                     Jul  9, 1944    3   3   3   Ls  1508.png
+ 3 dday3.xscn           Tank Battle of Avranches                           Jul 28, 1944    4   4   4   Ls  323.png
+ 4 dday4.xscn           Falaise Pocket                                     Aug 15, 1944    5   5   5   Ls  715.png
+ 5 dday5.xscn           Siege of Dunkerque                                 Sep 10, 1944    6   6   6   Ls  3.png
+ 6 dday6.xscn           Operation Market Garden                            Sep 17, 1944    7   7   7    7  1056.png
+ 7 dday7.xscn           Battle of Aachen                                   Oct  2, 1944    8   8   8   Ls  1013.jpg
+ 8 dday8.xscn           Battle of Hürtgen Forest                           Oct  6, 1944    9   9   9   Ls  167.jpg
+ 9 dday9.xscn           Operation Pheasant                                 Oct 27, 1944   10  10  10   Ls  718.png
+10 dday10.xscn          Battle of the Bulge                                Dec 17, 1944   11  11  11   Ls  123.png
+11 dday11.xscn          Save the airfields                                 Jan  1, 1945   12  12  12   12  1056.png
+12 dday12.xscn          Attack from the North                              Jan  6, 1945   13  13  13   Ls  31.png
+13 dday13.xscn          Race to the Ludendorff Bridge                      Mar  5, 1945   14  14  14   Ls  197.png
+14 dday14.xscn          Operation Plunder                                  Mar 23, 1945   15  15  15   Ls  885.jpg
+15 dday15.xscn          Ruhr Pocket                                        Apr  1, 1945   16  16  16   Ls  85.jpg
+16 dday16.xscn          The Harz Fortress                                  Apr  8, 1945  Win Win Win   Ls  1055.png
+
+Summary of maps needed:
+
+345.jpg               used 1   times
+885.jpg               used 1   times
+1509.png              used 1   times
+197.png               used 1   times
+715.png               used 1   times
+323.png               used 1   times
+1055.png              used 1   times
+167.jpg               used 1   times
+1056.png              used 2   times
+3.png                 used 1   times
+1013.jpg              used 1   times
+85.jpg                used 1   times
+31.png                used 1   times
+718.png               used 1   times
+123.png               used 1   times
+1508.png              used 1   times

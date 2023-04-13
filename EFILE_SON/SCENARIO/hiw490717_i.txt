@@ -1,0 +1,12 @@
+Vác-Rétság
+Jule 17, 1849
+
+Citoyen General! After the failure to find a way on the right bank of River Danube to the new provisional capital at Szeged, you have to try to breakout on the left side. General Paskievich ordered the 2nd and 3rd Corps of Russian Army to block your operation at Vác. You are surely outnumbered but you should push back the Russians. The failure is not an option, the NDC is counting on you!
+
+Deploy Hexes: 24
+
+ORDER: Take all VHs.
+
+NOTE: You’ve got 2 railway transports.
+
+scenario designer: Csaba (lvjtn)

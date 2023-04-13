@@ -1,0 +1,46 @@
+'---
+'Config AI file for scenario: CAS7SC22.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=38 items  ' Replacement for default list
+ 703  '  Engineer  [INF  Turkey]  Cost: 288
+ 851  '  40mm M.36  [ AD  Turkey]  Cost: 144
+ 853  '  75mm M.03/10  [ATY  Turkey]  Cost: 144
+ 854  '  105mm M.98/10  [ATY  Turkey]  Cost: 204
+ 856  '  Suvari  [INF  Turkey]  Cost: 108
+ 857  '  38 Daglari  [INF  Turkey]  Cost: 240
+ 858  '  Humber II  [RCN  Turkey]  Cost: 228
+ 860  '  T-26  [ TK  Turkey]  Cost: 276
+ 862  '  MS.406  [FTR  Turkey]  Cost: 480
+ 863  '  Hurricane IA  [FTR  Turkey]  Cost: 468
+ 864  '  Blenheim I  [ TB  Turkey]  Cost: 540
+ 865  '  Wagon  [TPT  Turkey]  Cost: 24
+ 866  '  ZiS-5  [TPT  Turkey]  Cost: 48
+ 870  '  Transport  [ATP  Turkey]  Cost: 276
+1663  '  7.92mm M.39  [FlaK  Turkey]  Cost: 36
+1666  '  120mm M.04  [ATY  Turkey]  Cost: 216
+1667  '  150mm M.13  [ATY  Turkey]  Cost: 516
+1678  '  He 111F  [ LB  Turkey]  Cost: 696
+1679  '  T6  [TPT  Turkey]  Cost: 84
+1754  '  BA-3  [RCN  Turkey]  Cost: 252
+1905  '  MG  [FlaK  Turkey]  Cost: 96
+1938  '  75mm M.34  [ATY  Turkey]  Cost: 336
+1943  '  150mm M.33  [ATY  Turkey]  Cost: 744
+2492  '  2pdr  [ AT  Turkey]  Cost: 84
+2493  '  75mm M.15  [ATY  Turkey]  Cost: 240
+2494  '  81mm mortar  [ATY  Turkey]  Cost: 168
+2495  '  100mm M.16  [ATY  Turkey]  Cost: 408
+2497  '  122mm M.10/30  [ATY  Turkey]  Cost: 228
+2503  '  R35  [ TK  Turkey]  Cost: 276
+2504  '  Stuart V  [ TK  Turkey]  Cost: 348
+2512  '  Horse  [TPT  Turkey]  Cost: 12
+2513  '  Ford A  [TPT  Turkey]  Cost: 60
+2514  '  Limber  [TPT  Turkey]  Cost: 36
+2515  '  Car  [TPT  Turkey]  Cost: 108
+2516  '  Mules  [TPT  Turkey]  Cost: 12
+3343  '  V-11GB  [ TB  Turkey]  Cost: 456
+3347  '  20mm M.39  [FlaK  Turkey]  Cost: 60
+5820  '  Train  [RTP  Turkey]  Cost: 120

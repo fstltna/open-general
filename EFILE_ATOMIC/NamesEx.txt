@@ -1,0 +1,3712 @@
+*** #1 .. Slovakia
+Pilfousek
+Malar
+Turanec
+Pulanich
+Tiso
+Tuka
+Mach
+Malar
+Reznak
+Kovarik
+Martis
+Golian
+Catlos
+Gerthofer
+Gabcik
+Dzur
+Hanovec
+Krisko
+Ocvirk
+Cyprich
+Esterle
+Cunderlik
+Imro
+Puskar
+Dumbala
+Danihel
+Kocka
+Jancovic
+Bozik
+Stauder
+Geric
+*** #2 .. Belgium
+Crombez
+de Burlet
+Coppens
+de Meulemeester
+Thieffy
+Olieslagers
+Jacquet
+Van Lierde
+Lallemant
+Dossin
+Ruwet
+Lantonnois van Rode
+de Witte
+Michel
+Leman
+Baix
+de Selliers de Moranville
+Decarpentrie 
+van Strydonck de Burkel
+Piron
+Van Vaerenbergh 
+de Selys Longchamps
+Blondeel
+Hiernaux
+Daufresne de la Chevalerie
+Bricart
+Van Overstraeten
+Cooreman
+d'Otreppe de Bouvette
+Van Wanzeele
+Vekemans
+*** #3 .. Bulgaria
+Hristov
+Houbchev
+Balakov
+Mihajlov
+Tcherchesov
+Sirakov
+Borimirov
+Stoichkov
+Luboslav
+Ivanov
+Popov
+Petrov
+Sirakov
+Borimirov
+Stoichkov
+Luboslav
+Ivanov
+Popov
+Petrov
+Sirakov
+Borimirov
+Stoichkov
+Luboslav
+Ivanov
+Popov
+Petrov
+Stoichkov
+Luboslav
+Ivanov
+Popov
+Petrov
+*** #4 .. Czechoslovakia
+Svoboda
+Jaros
+Tesarik
+Frantisek
+Skavarda
+Kuttelwascher
+Vasatko
+Perina
+Smik
+Mansfeld
+Stehlik
+Srom
+Liska
+Klapalek
+Mittelhauser
+Syrovy
+Krejci
+Kajdos
+Neumann
+Cihak
+Sklenovsky
+Ingr
+Bocek
+Drgac
+Prochazka
+Kratochvil
+Rytir
+Rusov
+Vacek
+Blahnik
+Slimak
+*** #5 .. Denmark
+Hjalf
+Møller
+Prior
+With
+Nyholm
+Wolff
+Gørtz
+Tuxen
+Jacobsen
+Blixenkrone-Møller
+Vedel
+Kofoed-Hansen
+Amdrup
+Wenck
+Rechnitzer
+Pontoppidan
+Thostup
+Westermann
+Søgaard
+Andersen
+Løvgreen
+Larsen
+Jespersen
+Bak
+Hansen
+Olsen
+Jepsen
+Clausen
+Poulsen
+Fredensborg
+Nørholt
+*** #6 .. Finland
+Mannerheim
+Ignatius
+Linder
+Löfström
+Wetzer
+Wilkman
+Frisell
+Hjalmarson
+Kalm
+Voss-Schrader
+Aminoff
+Ekström
+Nordensvan
+Wallenius
+Oesch
+Airo
+Heinrichs
+Kallio
+Ryti
+Lagus
+Pajari
+Siilasvuo
+Hägglund
+Tiainen
+Svensson
+Kunnas
+Oinonen
+Heinonen
+Laatikainen
+Talvela
+Raappana
+*** #7 .. France
+Leclerc
+Valluy
+Blaizot
+Carpentier
+Mouchotte
+Salan
+Navarre
+Chasse
+Gamelin
+Georges
+Weygand
+Giraud
+Huntziger
+Lafontaine
+Clostermann
+Albert
+de Gaulle
+Fayolle
+Cabanier
+Rousselot 
+Germain
+Sarrail
+Pasquier
+Petain
+Lyautey
+Gouraud
+de Lattre de Tassigny
+Blanchard
+Prioux
+Michon
+de Castries
+*** #8 .. Germany
+Rommel
+Dietl
+Kretschmer
+Prien
+Hartmann
+von Rundstedt
+Guderian
+Rudel
+Wittmann
+Hardegen
+Müller
+von Kleist
+Raeder
+Topp
+Model
+Langsdorff
+von Richthofen
+Volkmann
+Heye
+von Seeckt
+von Kluge
+Hoth
+von Manstein
+List
+von Weichs
+Heinrici
+Ruoff
+von Blomberg
+Groener
+Kempf
+Mackensen
+*** #9 .. Greece
+Metaxas
+Danglis
+Kountouriotis
+Dousmanis
+Paraskevopoulos
+Matthaiopoulos
+Sapountzakis
+Kallaris
+Moschopoulos
+Papagos
+Miliotis-Komninos
+Kleomenous
+Gennadis
+Konstantinopoulos
+Vrachnos
+Stanotas
+Dimaratos
+Giatzis
+Katsimitros
+Lioumbas
+Kosmas
+Liosis
+Moutousis
+Papadopoulos
+Bakos
+Tsakalotos
+Georgoulas
+Betinakis
+Cheretis
+Dres
+Antoniadis
+*** #10 .. USA
+Marshall
+Eisenhower
+MacArthur
+Clark
+Bradley
+Patton
+King
+Nimitz
+Halsey
+Fletcher
+Arnold
+Eaker
+Spruance
+Spaatz
+Bong
+McGuire
+McCampbell
+Doolittle
+Murphy
+Doss
+Day
+Hodges
+Mabry
+Gilmore
+Spears
+Turner
+Ingersoll
+O'Kane
+Kearby
+Simpson
+Hodges
+*** #11 .. Hungary
+Aggteleky
+Bajnóczy
+Bakay
+Bartha
+Beregfy
+Csatáry
+Decleva
+Dömötör
+Góthay
+Henney
+Horváth
+Jány
+Keresztes-Fischer
+Kiss
+Kolthay
+Lághy
+Lakatos
+Littay
+Máthé
+Náday
+Nagy
+Németh
+Osskó
+Paksy
+Peterdy
+Rakovszky
+Ruszkiczay-Rüdiger
+Schweitzer
+Szombathelyi
+Vásárhelyi
+Vörös
+*** #12 .. Turkey
+Mehmet
+Biret
+Tarkan
+Mevlana
+Hikmet
+Kemal
+Pamuk
+Sinan
+Hoca
+Rumi
+Osman
+Ozkok
+Ornek
+Alparslan
+Bey
+Keykubat
+Mehmet
+Ibrahim
+Fesa
+Kenan
+Dogan
+Ariburun
+Tulgan
+Batur
+Alpkaya
+Goker
+Goksenin
+Cuha
+Kilic
+Corekci
+Ucaner
+*** #13 .. Italy
+De Bono
+Badoglio
+Graziani
+Messe
+Guzzoni
+Bastico
+Roatta
+Martinoli
+Ferrulli
+Lucchini
+Amedo
+di Revel
+Campioni
+Iachino
+Cadorna
+Velardi
+De Simone
+Frusci
+di Savoia
+Ambrosio
+Cavallero
+Bastico
+Gariboldi
+Balbo
+Bergonzoli
+Maletti
+Berti
+Gambara
+Nebbia
+Vaccaro
+Visintini
+*** #14 .. Netherlands
+Winkelmann
+Scharroo
+van Voorst tot Voorst
+Harberts
+van Loon
+Furstner
+van der Stad
+Doorman
+Helfrich
+Stachouwer
+ter Poorten
+van Mook
+van Oyen
+Spoor
+Franken
+Buurman van Vreeden
+Struivenberg 
+Toorop 
+Wulfhorst
+Koppen 
+de Veer
+Overakker
+Westerling
+Gosenson
+de Vries
+Hoogenband
+de Waal
+Boers
+van Nijnatten
+den Ouden
+Kroon
+*** #15 .. Norway
+Laake
+Ruge
+Bryhn
+Broch
+Grundt Spang
+Haug
+Liljedahl
+Berg
+Laurantzon
+Yngvar
+Astrup
+Jensen
+Wettre
+Hansen
+Strugstad
+Hagle
+Ljungberg
+Haneborg
+Steen
+Mork
+Dahl
+Torkildsen
+Hiorth
+Gladstad
+Thue
+Frisvold
+Getz
+Eriksen
+Haukelid
+Lier-Hansen
+Heglund
+*** #16 .. Poland
+Sikorski
+Jordan-Rozwadowski
+Haller
+Mokrzecki
+Latinik
+Roja
+Skierski
+Broniewski
+Fieldorf
+Stachiewicz
+Kutrzeba
+Szylling
+Bortnowski
+Skalski
+Urbanowicz
+Horbaczewski
+Maczek
+Unrug
+Mohuczy
+Hulewicz
+Sosabowski
+Pilsudski
+Szeptychi
+Iwaszkiewicz
+Nieniewski
+Krawczyk
+Kownacki
+Kuncman
+Dziewicki
+Rakowski
+Majewski
+*** #17 .. Portugal
+Craveiro Lopes
+Delgado
+de Arriaga
+dos Santos
+de Freitas
+Norton de Matos
+Tamagnini de Abreu e Silva
+Gomes da Costa
+Machado
+Garcia Rosado
+Roberto da Cunha Baptista
+Lopes dos Santos
+Lemos Pires
+Sinel de Cordes
+Carmona
+Alves
+Marques
+Ferreira Gil
+Bénard Guedes
+Curado
+Milhais
+de Bettencourt
+Botelho Moniz
+Beleza Ferraz
+de Passos e Sousa
+Homem Teles
+Sarmento de Beires
+Rosa Coutinho
+da Silva Horta
+do Canto e Castro
+Capelo
+*** #18 .. Romania
+Florescu
+Cornicioiu
+Leventi
+Dumitrescu
+Paraschiv
+Popescu
+Macici
+Atanasiu
+Antonescu
+Avramescu
+Mihail
+Ciuperca
+Dragalina
+Dascalescu
+Baldescu
+Lascar
+Racovita
+Mociulschi
+Iacobici
+Ioanitiu
+Cantacuzino
+Milu
+Serbanescu
+Vizanty
+Macellariu
+Margineanu
+Costachescu
+Sion
+Sova
+Korne
+Jienescu
+*** #19 .. Croatia
+Kren
+Rogulja
+Mifek
+Boban
+Metikos
+Percic
+Domanik
+Zorn
+Tomasevic
+Dukovac
+Galic
+Dzal
+Bencetic
+Boskic
+Culinovic
+Martinko
+Mikovic
+Stipcic
+Starc
+Helebrant
+Martinasevic
+Kvaternik
+Pavicic
+Laxa
+Dragojlov
+Stancer
+Vokic
+Navratil
+Steinfl
+Moskov
+Greguric
+*** #20 .. USSR
+Tolbukhin
+Maslennikov
+Zhukov
+Vasilevsky
+Vatutin
+Malinovsky
+Yeryomenko
+Konev
+Rokossovsky
+Kozlov
+Oktyabrsky
+Vladimirsky
+Kolganov
+Stepanov
+Panteleyev
+Tributs
+Meretskov
+Budyonny 
+Voroshilov
+Timoshenko
+Popov
+Stalin
+Malenkov
+Kuznetsov
+Pavlov
+Tyulenev
+Kirponos
+Shtern
+Konev
+Levchenko
+Novikov
+*** #21 .. Sweden
+Almgren
+Bildt
+Björck
+Bonde
+Ehrensvärd
+Rappe
+Thörnell
+Tingsten
+Göransson
+Hederstedt
+Hammarskjöld
+Jung
+Janse
+Linder
+Nygren
+Peyron
+Ljung
+Kellin
+Liljestrand
+Klintberg
+Synnergren
+Swedlund
+Ekström
+Sandqvist
+von Horn
+Wallroth
+Carleson
+Larsen
+Ottosson
+Bergstrand
+Agell
+*** #22 .. Yugoslavia
+Jevic
+Soldiavic
+Cenic
+Cerni
+Cetkovic
+Dapsevic
+Drapsin
+Drljevic
+Gace
+Gosnjac
+Jaksic
+Jovanovic
+Krunic
+Lekic
+Loncar
+Marinovic
+Milojevic
+Moraca
+Nad
+Njegomir
+Ogulinec
+Parmac
+Pejnovic
+Petricevic
+Popovic
+Protic
+Rukavina
+Segrt
+Tarabic
+Todorovic
+Adleric
+*** #23 .. United Kingdom
+Brooke
+Montgomery
+Alexander
+Wavell
+Harris
+Auchinleck
+Portal
+Dowding
+Gort
+Cunningham
+Mountbatten
+Pound
+Tedder
+Dempsey
+Churchill
+Attlee
+Woods
+Ironside
+Poole
+Ellington
+Urquhart
+Briggs
+Templer
+Stockwell
+Keightley
+Power
+Leigh-Mallory
+Park
+Ramsey
+Lloyd
+Anderson
+*** #24 .. Kingdom of Yugoslavia
+Antic
+Bozic
+Brasic
+Cukavac
+Dimitrijevic
+Glisic
+Hanel
+Hristic
+Isakovic
+Jankovic
+Jovanovic
+Jurisic
+Kostic
+Kukavicic
+Ljubicic
+Lukic
+Maric
+Mihajlovic
+Mirkovic
+Naumovic
+Nedic
+Petrovic
+Predic
+Radenkovic
+Ristic
+Rupnik
+Simovic
+Stefanovic
+Varjacic
+Zelenika
+Adleric
+*** #25 .. Nationalist Spain
+de Buruaga
+Blanco
+Goded
+Burriel
+Mola
+Yagüe
+Asensio Cabanillas
+Barron
+Beorlegui y Canet 
+Franco
+Varela
+Queipo de Llano
+Ituarte
+Meziane
+de Tella
+Ortiz
+Solchaga
+Davila Arrondo
+Trallero
+Aranda
+Grandes
+Ruiz
+Vega
+Moscardo
+Bastico
+Yoldi
+Espinosa
+Moreneo
+Sanez
+Garcia Escamez
+Redondo
+*** #26 .. Republican Spain
+Morato
+Romerales
+Llano de la Encomienda
+Huertas
+Riquelme
+Mangada
+Puigdendolas
+Ortega
+Garmendia
+Monje
+Romero
+Escobar
+Miaja
+Prada Vaquero
+Merriman
+Pozas Perea
+Lister
+Ciutat de Miguel
+Modesto
+Tomas
+Bayo
+Rojo Lluch
+Güemes
+Duran
+Lopez
+Jover
+Saravia
+Galan
+Vega
+Jurado
+Capulino
+*** #27 .. Australia
+Blamey
+Lavarack
+Morshead
+Macarthur-Onslow
+Whitehead
+Hassett
+O'Brien
+O'Donnell
+Callaghan
+Jackson
+Richardson
+Caldwell
+Goldsmith
+Hughes
+Truscott
+Waddy
+Clisby
+Irving
+Ramsay
+Herring
+Whitelaw
+Smyth
+Green
+Walsh
+Ferguson
+MacAdie
+Cresswell
+Steege
+Spence
+Rowell
+Secombe
+*** #28 .. Canada
+Roberts
+Potts
+Foulkes
+Green
+Ray
+Stone
+Beurling
+Laubman
+Fumerton
+Glover
+Page
+Breadner
+Lawson
+Foster
+Pearkes
+Triquet
+Mahony
+Price
+Sansom
+Keller
+Keefler
+Spry
+Simonds
+Burns
+Hoffmeister
+Rockingham
+Smith
+Currie
+Cosens
+Tilston
+McNaughton
+*** #29 .. Ethiopian Empire
+Anbassu
+Zelleka
+Sileshi
+Merid
+Hapte Mikael
+Amde Mikael
+Damtew
+Endelkachew
+Zamanuael
+Amanuel
+Samanthar
+Walda Samayat
+Kello
+Aregai
+Safo
+Mariam Mammo
+Asfaw
+Wolde Hawariat
+Kassa
+Mangasha
+Kebbede
+Birru
+Sebhat
+Yeggazu
+Belew
+Selassie
+Darge
+Demissie
+Abate
+Tafari
+Mariam Gabre
+*** #30 .. New Zealand
+Armstrong
+Rogers
+Brackenbury
+Salmond
+Pilkington
+Anderson
+Baillie
+Bishop
+Cotter
+Dockery
+Dunn
+Gray
+Fuller
+Grigg
+Haines
+Hall
+Hawke
+Hodge
+Ingley
+Jones
+Keedwell
+Kempton
+King
+Maxton
+Morris
+Sayer
+Taylor
+Terry
+Wakelin
+Wilkie
+Young
+*** #31 .. South Africa
+Smuts
+Botha
+Hugo
+Pattle
+Malan
+Le Roux
+Lewis
+Bosman
+van Deventer
+Potgieter
+du Toit
+Lemmer
+Laubscher
+le Grange
+Roos
+Royston
+Brink
+Viljoen
+Geldenhuys
+Liebenberg
+Meiring
+Armstrong
+Van Der Spy
+Breytenbach
+Daniel
+Van Der Hoven
+Pienaar
+Venter
+Ross
+Poole
+Bierman
+*** #32 .. British India
+Auchinleck
+Rana
+Hartley
+Monro
+Wavell
+Awan
+Shrinagesh
+Ghadge
+Birdwood
+Jacob
+Hafiz
+Chetwode
+Rawlinson
+Singh
+Cariappa
+Rahman
+Duff
+Creagh
+Khan
+Bhagat
+Allmand
+Khattak
+Haidar
+Jadav
+Lama
+Lockhart
+Palmer
+Gharaya
+Jadeja
+Kumaramangalam
+Panwar
+*** #33 .. Free French Forces
+Valin
+Muselier
+de Gaulle
+Auboyneau
+Kieffer
+D'Inville
+Bingen
+Giraud
+Mast
+Savary
+d'Argenlieu
+d'Estienne d'Orves
+Albert
+Fayolle
+Closterman
+Gary
+Le Gloan
+Mouchotte
+de Saint-Exupéry
+Labouchère
+Blaison
+Mendès France
+Scheidhauer
+Cabanier
+Rousselot
+Éboué
+Leclerc de Hauteclocque
+Koenig
+de Larminat
+Legentilhomme
+Magrin-Vernerey
+*** #34 .. Cuba
+Garcia
+Rodriguez
+Martinez
+Hernandez
+Lopez
+Gonzalez
+Perez
+Sanchez
+Ramirez
+Torres
+Flores
+Rivera
+Gomez
+Diaz
+Reyes
+Morales
+Cruz
+Ortiz
+Gutierrez
+Chavez
+Ramos
+Gonzales
+Ruiz
+Alvarez
+Mendoza
+Vasquez
+Castillo
+Jimenez
+Moreno
+Romero
+Herrera
+*** #35 .. Japan
+Yamamoto
+Yui
+Otani
+Kondo
+Nagumo
+Yamaguchi
+Takuma
+Aketo
+Fuchida
+Okamura
+Tojo
+Umezu
+Anami
+Asaka
+Hata
+Itagaki
+Matsui
+Nishio
+Sugiyama
+Tada
+Kato
+Kamio
+Honjo
+Tamon
+Hayashi
+Ueda
+Komatsubara
+Takagi
+Shima
+Ito
+Komura
+*** #36 .. Euzko Gudarostea
+Aroztegi
+Elizalde
+Eneko
+Etxeberria
+Etxepare
+Ezkibel
+Intxausti
+Zubiri
+Lekuberri
+Ibarra
+Goikoetxea
+Bolibar
+Elizondo
+Zabala
+Urberoaga
+Etxandi
+Agirre
+Orzabal
+Semen
+Sorapuru
+Yaben
+Zubiria
+Nafarro
+Aristizabal
+Mendoza
+Katarain
+Ibaiguren
+Loiola
+Mendiluze
+Bidarte
+Barrenetxea
+*** #37 .. Estonia
+Laidoner
+Pitka
+Paulus
+Eskola
+Kalm
+Kuperjanov
+Soodla
+Tönisson
+Pödder
+Reek
+Puskar
+Irv
+Jonson
+Parts
+Rink
+Larka
+Soots
+Reiman
+Lossmann
+Kurvits
+Kruus
+Usin
+Jervan
+Mere
+Maide
+Orasmaa
+Öunapuu
+Traksmaa
+Kauler
+Rotberg
+Aaminsepp
+*** #38 .. Viet Minh
+Banh
+Cao
+Chau
+Chu
+Chung
+Diep
+Duong
+Dam
+Dao
+Dinh
+Doan
+Giang
+Ha
+Han
+Kieu
+Kim
+La
+Lac
+Lam
+Lieu
+Luc
+Luong
+Giap
+Ma
+Mach
+Mai
+Nghiem
+Pho
+Phung
+Quach
+Quang
+*** #39 .. Brazil
+da Costa
+Dutra
+Mascarenhas de Moraes
+de Farias
+Gomes Ramagem
+Medeiros
+Xavier
+Gastaldoni
+Torres
+de Castro
+Loureiro
+Moura
+Castelo Branco
+Couto e Silva
+de Abreu
+de Albuquerque Lima
+Vargas
+Martins
+Guilhem
+de Noronha
+Gomes
+Teixeira Lott
+de Oliveira
+Rocha Veneu
+da Silva Leal
+Vieira
+Ferreira
+Pitaluga
+da Nobrega
+Moretto
+Pereira
+*** #40 .. Austria
+de Angelis
+von Boog
+Leopold
+Körner
+Deutsch
+Eifler
+von Lahousen
+Hülgerth
+Jansa
+Böhme
+Zehner
+Friedländer
+Glass
+von Meyszner
+Rauter
+Wächter
+Weydenhammer
+Reschny
+Dollfuss
+Eimannsberger
+Schilhawsky
+Buzek
+Vidossich
+Schneider
+Haselmayr
+Sandri
+Feuerstein
+Brunner
+Yllam
+Seebauer
+Ringel
+*** #41 .. Don Republic
+Kaledin
+Nazarov
+Voloshinov
+Dobrynin
+Kislov
+Mamontov
+Sidorin
+Bogaewsky 
+Kudinov
+Krasnov
+Popov
+Poliakov
+Keltchevski 
+Alekseyev 
+Skoropadskyi
+Filimonov
+Bukretov 
+Kvitkovski 
+Oskilko
+Hryzlo
+Shkuro
+Kornilov
+Dutov
+Shkuro
+Ermoleno
+Babiev
+Naumenko
+Golovin
+Eliseev
+Fedenko
+Bezladniy
+*** #42 .. Peoples Republic China
+Zhou
+Zhu
+Huang
+Ye
+Cai
+Gu
+Dong
+Shen
+He
+Liao
+Tang
+Qing
+Feng
+Jiang
+Liu
+Nie
+Guo
+Zhang
+Deng
+Mao
+Xia
+Xu
+Chiang
+Xiao
+Peng
+Sun
+Xiao
+Ren
+Li
+Zeng
+Ni
+*** #43 .. South Korea
+Son Yong-Jo
+Chang Hyang-Soon
+Jang Joon-Ho
+Jeung Yong-Ik
+Shin Bong-Choi
+Jong Gab-Do
+Ri Yong-Ik
+An Se-Hong
+Jo Dae-Du
+San Chulsoon
+Jeon Jung-Keun
+Ryom Han-Gyong
+Jeon Kyou-Chull
+Baik Jung-Oh
+Hwang Soon-Chun
+Cho In-Tak
+Paek Ho-Pyong
+Yu Jung-Mo
+Bong-Choi
+Moon Hae-Sup
+Byon Chang-Hee
+Gu Jung-Keun
+Ahn Bong-Choi
+Kwang Jung-Mo
+Yu Se-Hong
+Park Se-Hong
+Moon Gab-Do
+Son Yong-Jo
+Yu Seung-Lip
+Kang Hyong-Kim
+Cho Chang-Sun
+*** #44 .. North Korea
+Desc Chang-Hee
+Ho Eui-Kon
+Ho Young-Su
+Choi Chulsoon
+Li In-Tak
+Kang Kyou-Chull
+Yoon Young-Su
+Lee Chang-Hee
+Shin Kyou-Chull
+Yang Gyong-Si
+Son Byeoung-Keun
+Ri Jung-Oh
+Chang Ho-Pyong
+An Young-Su
+Han Hae-Sup
+Chung Soon-Chun
+Kang Jae-Yup
+Si Chang-Sun
+Jo Soon-Chun
+Ri Dae-Du
+Bang Jung-Mo
+Ri Eui-Tae
+Gwang Ho-Jun
+Youn Eui-Kon
+Sung Jung-Oh
+Ryom Eui-Kon
+Park Jung-Keun
+Chol Ho-Jun
+Song Se-Hong
+Ryom Jeaki
+Seo Ho-Pyong
+*** #45 .. Red Finland
+Aaltonen
+Haapalainen
+Rahja
+Taimi
+Eloranta
+Manner
+Wesley
+Salmela
+Kaljunen
+Johansson
+Autio
+Lehtimäki
+Karjalainen
+Kokko
+Backman
+Koski
+Järvinen
+Borg
+Parkkinen
+Krogerus
+Lähteenmäki
+Rantala
+Kaljunen
+Leinonen
+Viljanen
+Siukola
+Hurri
+Salmela
+Nyqvist
+Huurre
+Linnanen
+*** #46 .. White Finland
+Mannerheim
+Ignatius
+Linder
+Löfström
+Wetzer
+Wilkman
+Frisell
+Hjalmarson
+Kalm
+Prus-Boguslawski
+Runeberg
+Winge
+Palme
+Aminoff
+Nordensvan
+Ekström
+Sihvo
+Wärnhjelm
+Wallenius
+von Bonsdorff
+Fabritius
+Sainio
+Malm
+Oesch
+Heikinheimo
+Voss-Schrader
+von Coler
+Ausfeld
+Svinhufvud
+Malmberg
+Österman
+*** #47 .. Republic China
+Zhang Fakui
+Chen Cheng
+He Yingqin
+Chiang Kai-shek
+Sun Fo
+Sun Yat-sen
+Bai Chongxi
+Gao Zhihang
+Chang Yao-ming
+Guan Linzheng
+Lo Yun-lun
+Tang Enbo
+Hu Lian
+Yan Xishan
+Wang Tiexiang
+Xu Jitai
+Zhang Ziliang
+Hu Zepu
+Xie Wendong
+Liu Handong
+Li Huatang
+Wang Jingguo
+Huo Shouyi
+Wei Lihuang
+Du Yuming
+Fan Hanjie
+Zheng Dongguo
+Liao Yaoxiang
+Liu Yuzhang
+Sun Chu
+Chen Changjie
+*** #48 .. White Russia
+Kolchak
+Kornilov
+Denikin
+Wrangel
+Yudenich
+Semyonov
+Diterikhs
+von Ungern-Sternberg
+Pleshkov
+Alexeyev
+Krasnov
+Shkuro
+Mamontov
+Shilling
+Sablin
+Bredov
+May-Mayevsky
+Kutepov
+Sidorin
+Dragomirov
+Ulagay
+Toporkov
+Barbovitch
+Korvin-Krukovsky 
+Markov
+Drozdovsky
+Slashchev
+Yuzefovich
+Korobeinikov
+Pepelyayev
+Kalmykov
+*** #49 .. Communists
+Aaltonen
+Haapalainen
+Dybenko
+Trotsky
+Lenin
+Reichpietsch
+Köbis
+Luxemburg
+Liebknecht
+Svechnikov
+Choibalsan
+Sükhbaatar
+Kun
+Garbai
+Ho
+Truong
+Mao
+Zhu
+Castro
+Guevara
+Antonov-Ovseyenko
+Eisner
+Kozlov
+Oktyabrsky
+Vladimirsky
+Kolganov
+Stepanov
+Panteleyev
+Meretskov
+Budyonny 
+Voroshilov
+*** #50 .. Kingdom of Egypt
+Ali
+Amer
+Azzam
+Boutros
+Chamisi
+Dunkul
+Fahmi
+Faruq
+Gamasi
+Gheit
+Ghorbal
+Hawass
+Husain
+Ismail
+Khalil
+Mahfuz
+Musa
+Mwawi
+Naguib
+Nasser
+Orabi
+Rahman
+Sadat
+Salah
+Sauki
+Serageldin
+Shazli
+Sherif
+Tantawi
+Zaki
+Zikri
+*** #51 .. Chinese Warlords
+Liu Xiang
+Zhang Zuolin
+Wu Peifu
+Feng Yuxiang
+Zhang Zongchang
+Xu Shuzheng
+Duan Qirui
+Lu Yongxiang
+Duan Zhigui
+Ni Sichong
+Zhang Xueliang
+Wu Junsheng
+Guo Songling
+Li Jinglin
+Chu Yupu
+Yan Xishan
+Hu Jingyi
+Sun Yue
+Ma Bufang
+Ma Buqing
+Cao Kun
+Sun Chuanfang
+Ma Zhongying
+Ma Lin
+Jin Shuren
+Sheng Shicai
+Tang Jiyao
+Long Yun
+Yang Sen
+Li Zongren
+Huang Shaohong
+*** #52 .. Manchukuo
+Chuichiro
+Einosuke
+Heisuke
+Hideo
+Hideyoshi
+Hikosuke
+Itagaki
+Juro
+Jutaro
+Kasiburo
+Katsumi
+Keisuke
+Koichi
+Korechika
+Kotouki
+Minoru
+Morikazu
+Shigeo
+Shigetaro
+Shinichi
+Shinpei
+Shojikiro
+Tadashi
+Terauchi
+Tomofumi
+Toshiji
+Tsutomi
+Yaezo
+Yoji
+Yonekuchi
+Yuzuru
+*** #53 .. Mongolia
+Adangqan
+Al Altun
+Alan To
+Arghun Aqa
+Arlsag
+Baatar
+Baiju
+Baryudai
+Bataciqan
+Batu
+Bayan
+Ogedei
+Oghul
+Ozbeg
+Qabul Khan
+Qaci-un
+Qasar
+Qo-aycin
+Saibatar
+Sartaq
+Shidebala
+Shirchin
+Shiremun
+Sorqan
+Subodei
+Sukhbaatar
+Tamaca
+Temuge
+Temujin
+Tengri
+Tode Mongke
+*** #54 .. Thailand
+Anand
+Benjawan
+Chaipatana
+Chalerm
+Chavalit
+Chutimant
+Diskul
+Kantawong
+Khadpo
+Klinpraneet
+Kulawanit
+Mahidol
+Nitaya
+Nut
+Parnthep
+Phya
+Pisit-na
+Pramoj
+Praves
+Pridi
+Putrie
+Samenem
+Silpa-archa
+Srichure
+Suchinda
+Supachai
+Sutabuhr
+Tantasatityanon
+Thanwareth
+Vanich
+Yao-Yun
+*** #55 .. Philippines
+Reyes
+Santos
+Valdez
+Jalandoni
+Duque
+Vargas
+Arellano
+Tan
+Fajardo
+Cabal
+Cruz
+Osias
+Velasco
+Mata
+Atienza
+Lim
+Elizalde
+Lobregat
+Pajota
+Alcaraz
+Mendoza
+Yan
+de Goma
+Monzon
+Espino
+Maglaya
+Lapus
+Villamor
+Tojong
+Yldefonso
+Segura
+*** #56 .. Communist China
+Zhou Enlai
+Zhu De
+Zhu Kejing
+Ye Ting
+Cai Tingkai
+Gu Xunming
+Dong Zhongming
+Zhou Shidi
+He Long
+Liao Qianwu
+He Jinzhai
+Qing Guangyuan
+Zhou Yiqun
+Cai Tingkai
+Liu Bocheng
+Nie Rongzhen
+Guo Moruo
+Zhu De
+Deng Xiaoping
+Mao Zedong
+Xia Xi
+Xu Jishen
+Zhou Weijong
+Xiao Ke
+Peng Dehuai
+Zhu Yunging
+Ye Jianying
+Ren Bishi
+Li Da
+Zeng Zhongsheng
+Ni Zhiliang
+*** #57 .. Red Russia
+Kamenev
+Tukhachevsky 
+Voroshilov 
+Blyukher 
+Budyonny 
+Yegorov 
+Primakov 
+Dumenko
+Mishchenko
+Frunze
+Sorokin
+Avtonomov
+Knyagnitsky 
+Kozhevnikov
+Antonov-Ovseyenko
+Krajewski
+Yegoryev
+Semyonov
+Uborevich
+Dumenko
+Gekker
+Sokolnikov
+Naumovich Dubovoy
+Mezheninov
+Levandovsky
+Shorin
+Yefremov
+Selivachyov
+Hvesin
+Shchors
+Kovtiukh
+*** #58 .. Latvia
+Zemitans
+Kalpaks
+Berkis
+Balodis
+Ulmanis
+Kalnins
+Ozols
+Hartmanis
+Jansons
+Dankers
+Rozitis
+Liepins
+Jurka
+Goldfelds
+Kalnins
+Dannebergs
+Skaistlauks
+Kalpaks
+Skujenieks
+Aparnieks
+Grins
+Dambitis
+Bolsteins
+Bahs
+Spade
+Celmins
+Lobe
+Janums
+Veiss
+Francis
+Goppers
+*** #59 .. Lithuania
+Adomajtis
+Alekna
+Baipsys
+Baranauskas
+Brazonis
+Brevozsky
+Bundonis
+Cernauskas
+Cirtautis
+Czesnauskas
+Dagys
+Dauginas
+Deguits
+Dekus
+Dembinsky
+Gabrys
+Gedgautas
+Gustaitis
+Ivanauskas
+Krupavieius
+Liorentas
+Mastaukas
+Mukalauskas
+Nauseda
+Valeitis
+Rastikis
+Skipitis
+Skirpa
+Szeszlaukis
+Tauvilasa
+Valdemaras
+*** #60 .. Baltische Landeswehr
+Fletcher
+zu Dohna
+von Jena
+Malmede
+von Manteuffel-Szoege
+Ehmcke
+Barth
+Sievert
+Hahn
+von zur Mühlen
+Lieven
+von Khaynach
+Pappenheim
+Drachenfels
+Engelhardt
+Wölki
+Stromberg
+Medem
+von Rautenfeld
+Balodis
+Alexander
+Geist
+Dumpf
+Richter
+Helb
+von Spaun
+von Scheibler
+Alt
+Halm
+zu Eulenberg
+Röhl
+*** #61 .. Kuban People's Republic
+Kaledin
+Nazarov
+Voloshinov
+Dobrynin
+Kislov
+Mamontov
+Sidorin
+Bogaewsky 
+Kudinov
+Krasnov
+Popov
+Poliakov
+Keltchevski 
+Alekseyev 
+Skoropadskyi
+Filimonov
+Bukretov 
+Kvitkovski 
+Oskilko
+Hryzlo
+Shkuro
+Kornilov
+Dutov
+Shkuro
+Ermoleno
+Babiev
+Naumenko
+Golovin
+Eliseev
+Fedenko
+Bezladniy
+*** #62 .. Rif Republic
+El-Krim
+Salam
+Abdel-Karim
+Bojabbar
+Ghannou
+Heriri Jebli
+Mouh-Ameziane
+Cheddi
+Bohout
+Tanout
+Hatmi
+Boujibar
+Ben Hammu
+Oulad Hriz
+Oubasslam
+ou Hammou Zayani
+ou Said
+Amhaouch
+ben Boubker
+Tizniti
+Benomar
+Raddad
+Lasfar
+Aberchan
+El Barkani
+Idrissi
+Boussouf
+El Omari
+Marcouch
+Aujar
+El Ouardi
+*** #63 .. 26th of July Movement
+Castro
+Guevara
+País
+Almeida
+Cienfuegos
+Sánchez
+Bayo
+Abreu
+Espín
+Franqui
+Matos
+Morgan
+Torrado
+Jimenez 
+Latour
+Cubela
+Rodriguez 
+Bosque
+Ameijeiras
+Valdés
+Díaz
+Fuentes
+Reyes
+González
+Morales
+Moya
+Crespo
+Pino
+Roque
+Pérez
+Montes de Oca
+*** #64 .. Imperial State of Iran
+Khan Vali
+Ayrom
+Bayandor
+Buzarjomehri
+Jahanbani
+Hosseinpoor
+Amir Ahmadi
+Tahmasebi
+Aryana
+Hejazi
+Azimi
+Zarghami
+Minbashian
+Sheibani
+Zelli
+Shahin
+Habibollahi
+Yazdanpanah
+Nakhjavan
+Arfa
+Razmara
+Riazi
+Aghevli
+Garzan
+Baharmast
+Hedayat
+Batmanghelidj
+Djam
+Aryana
+Azhari
+Gharabaghi
+*** #65 .. Kingdom of Iraq
+Al Sherhi
+Karzai
+Bin Laden
+Al-Enezi
+Al-Shehhi
+Fayez Ahmed
+Hamza Alghamdi
+Ahmed Alghamdi
+Waleed M Alshehri
+Wail Alshehri
+Mohamed Atta
+Abdulaziz Alomari
+Khalid Al-Midhar
+Majed Moqed
+Nawaq Alhamzi
+Salem Alhamzi
+Hani Hanjour
+Ahmed Alhaznawi
+Ahmed Alnami
+Ziad Jarrahi
+Saeed Alghamdi
+Hekmatyar
+Abu Eisa al-Hindi
+Issa al-Britani
+Ghailani
+Naeem Noor Khan
+Babar Ahmad
+Mounir Motassedeq
+Abdelghani Mzoudi
+Bin al-Shibh
+Zakariya Essabar
+*** #66 .. Kingdom of Spain
+Barron
+Espinosa
+Asensio Cabanillas
+Yagüe
+Franco
+Mola
+Varela
+Queipo de Llano
+Ituarte
+Meziane
+de Tella
+Prada Vaquero
+Pozas Perea
+Solchaga
+Davila Arrondo
+de Buruaga
+Grandes
+Rojo Lluch
+Vega
+Moscardo
+Saravia
+Ortega
+Casado
+Matallana
+Yoldi
+Silvestre
+Berenguer
+Astray
+de Rivera
+Saro
+Kindelan
+*** #67 .. Ireland
+Murphy
+Kelly
+O'Sullivan
+Walsh
+O'Brien
+Byrne
+Ryan
+O'Connor
+O'Neill
+O'Reilly
+Fraser
+Galloway
+Boyle
+McBreen
+Banks
+Cavan
+Keeton
+Coffey
+Crockwell
+Quinn
+McIntosh
+MacGenis
+Carvey
+Durcan
+Garry
+Forbes
+McGeady
+McClean
+Bell
+McKeen
+McLaren
+*** #68 .. Switzerland
+Paravicini
+Bandi
+von Sinner
+von Altishofen
+Lardelli
+von Bernegg
+Sonderegger
+Roost
+Labhardt
+Huber
+de Montmollin
+Annasohn
+Gygli
+Vischer
+Senn
+Zumstein
+Lüthy
+Häsler
+Liener
+Scherrer
+Borel
+Guisan
+Combe
+Prisi
+Constam
+Flückiger
+Scherz
+Schwarz
+Charrière
+von Graffenried
+Koller
+*** #69 .. Chetniks
+Dragutin Zikic
+Zdravko Milosevic
+Milun Vidic
+Strahinja Jovic
+Draze Mihailovica
+Branivoje Petrovic
+Radomir Cvejic
+Stojko Filipovic
+Milorad Mitic
+Dusan Radovic
+Milomir Kolarevic
+Predrag Rakovic
+Trifun Cosic
+Dusan Lazarevic
+Milos Glisic
+Vucko Ignjatovic
+Milos Markovic
+Obren Ristovic
+Miodrag Palosevic
+Milan Radosavljevic
+Nesko Nedic
+Vladimir Komarcevic
+Dragoslav Racic
+Stanimir Vasic
+Vojislav Tufegdzic
+Milos Slovic
+Todor Milasinovic
+Stanimir Vasic
+Milan Pavlovic
+Vladimir Komarcevic
+Milorad Lapcevic
+*** #70 .. Mexico
+Rodríguez
+Arreola
+Garrido
+Vega
+Rebollo
+Ramos
+Mercado
+Aguilar
+Corona
+Rojas
+Luna
+Farell
+Santander
+Cerda
+Retana
+Ramires
+Bedolla
+Valle
+Fuentes
+Vilchis
+Gallegos
+Estrada
+Hernandez
+Landini
+Aveleyra
+Mayor Sauz
+Cardenas
+Castro
+Urquizo
+Limon
+Barragan
+*** #71 .. Argentina
+Ramirez
+Rawson
+Farrell
+Peron
+Pistarini
+Justo
+Uriburu
+Lucero
+Olivieri
+Gargiulo
+Calderon
+Mercante
+De La Vega
+Ladvocat
+Eizaguirre
+Gonzalez
+Avalos
+Baisi
+Uriondo
+Ferrazano
+Dellepiane
+Pertine
+Tonazzi
+Marquez
+Allaria
+Sosa Molina
+Bengoa
+Lonardi
+Aramburu
+Guillentegui
+Moreno
+*** #72 .. Serbia
+Dragutin Zikic
+Zdravko Milosevic
+Milun Vidic
+Strahinja Jovic
+Draze Mihailovica
+Branivoje Petrovic
+Radomir Cvejic
+Stojko Filipovic
+Milorad Mitic
+Dusan Radovic
+Milomir Kolarevic
+Predrag Rakovic
+Trifun Cosic
+Dusan Lazarevic
+Milos Glisic
+Vucko Ignjatovic
+Milos Markovic
+Obren Ristovic
+Miodrag Palosevic
+Milan Radosavljevic
+Nesko Nedic
+Vladimir Komarcevic
+Dragoslav Racic
+Stanimir Vasic
+Vojislav Tufegdzic
+Milos Slovic
+Todor Milasinovic
+Stanimir Vasic
+Milan Pavlovic
+Vladimir Komarcevic
+Milorad Lapcevic
+*** #73 .. Azad Hind
+Bhagat
+Bhonsle
+Singh
+Kiani
+Khan
+Qadir
+Ahmed
+Ghani
+Yellapa
+Thivy
+Loganathan
+Sarkar
+Narula
+Chatterji
+Ayer
+Sahgal
+Dhillon
+Khandwala
+Benegal
+Awan
+Sengupta
+Rajamani
+Sahay
+Rahman
+Bose
+Burhan-ud-Din
+Nahappan
+Malik
+Malla
+Mitra
+Paranjpe
+*** #74 .. Kingdom of Afghanistan
+Sher Ali Khan
+Yakub Khan
+Abdurrahman
+Mohammed Afzal
+Ayub Khan
+Dost Mohammed
+Habibullah
+Afzal Khan
+Azim Khan
+Abdur Rahman Khan
+Amanullah Khan
+Nadir Khan
+Habibullah Khan
+Nasrullah Khan
+Malik Umar Hayat Khan
+Ghulam Haider Khan
+Karim Khan
+Hyder Khan
+Akbar Khan
+Ayub Khan
+Nadir Khan
+Habibullah
+Sher Ali Khan
+Yakub Khan
+Mohammed Jan
+Mir Akhor
+Malik Khizar Hayat Tiwana
+Mohammad Afzal Khan
+Sardar Rahim Dil Khan
+Ghulam Muhammad Tarzi
+Jahandad Khan
+*** #75 .. Arab Countries
+Abawi
+Abdul-Aziz
+Abdul-Qawi
+Abu Risha
+Atasi
+Aziz
+Bandar
+Douri
+Falih
+Ghali
+Haidri
+Hakim
+Halim
+Hamal
+Hammadi
+Hanif
+Hatim
+Hayani
+Idris
+Ilah
+Karim
+Kassam
+Mahmoud
+Majeed
+Mansur
+Mustafa
+Sadr
+Shaker
+Tikriti
+Zebari
+Zubeidi
+*** #76 .. Bolivia
+Méndez
+Hernández
+Flores
+Pereyra
+Ferrari
+Ortiz
+Medina
+Benítez
+Herrera
+Arias
+Acosta
+Moreno
+Aguirre
+Otero
+Cabrera
+Rey
+Rojas
+Vidal
+Molina
+Russo
+Paz
+Vega
+Costa
+Bruno
+Romano
+Morales
+Ríos
+Miranda
+Muñoz
+Franco
+Castillo
+*** #77 .. Paraguay
+Campos
+Benítez
+Martínez
+López
+Giménez
+Vera
+Duarte
+Ramírez
+Villalba
+Fernández
+Gómez
+Acosta
+Rojas
+Ortiz
+Cáceres
+Rodríguez
+Ruíz
+Núñez
+Ayala
+Báez
+Galeano
+Ferreira
+Franco
+Torres
+Cardozo
+Sosa
+Iglesias
+Giménez
+Ramírez
+Martín
+Varela
+*** #78 .. Detachement von Randow
+Müller
+Fischer
+Bischoff
+Caspari
+Manteuffel
+Maercker
+von Randow
+Recknagel
+Balla
+Sachsenberg
+Scholz
+Eichendorff
+Meier
+Büchner
+Hartmann
+Körner
+Roeder
+Lichtschlag
+Brandis
+Schulz
+Schwarz
+Kleist
+Lützow
+Lettow
+Reinhard
+Auerbach
+Malmede
+Pappenheim
+Engelhardt
+Drachenfels
+Loewenfeld
+*** #79 .. Freikorps
+von der Goltz
+Fletcher
+Bischoff
+Caspari
+Manteuffel
+Maercker
+von Randow
+Recknagel
+Balla
+Sachsenberg
+Dohna-Schlodien
+Eichendorff
+Dohna-Schlobitten
+Büchner
+von Hülsen
+Körner
+von Roeder
+Lichtschlag
+von Brandis
+Schulz
+Schwarz
+von Kleist
+Lützow
+Lettow
+Reinhard
+Auerbach
+Malmede
+Pappenheim
+Engelhardt
+Drachenfels
+Loewenfeld
+*** #80 .. German Empire
+Arnauld de la Perière
+von Spee
+von Müller
+von Richthofen
+Boelcke
+Immelmann
+von Hipper
+Scheer
+Hoffmann
+von Storch
+Weddigen
+Raeder
+Valentiner
+Biltz
+von Götzen
+von Waldersee
+von Trotha
+von Falkenhayn
+Sixt von Armin
+von Falkenhausen
+Udet
+Löwenhardt
+Schultze
+Rommel
+von Mücke
+Wichura
+Dieffenbach
+von der Goltz
+von Tutschek
+Sontag
+Ludendorff
+*** #81 .. State of Vietnam
+Nguyen
+Tran
+Le
+Pham
+Huynh
+Hoang
+Phan
+Vu
+Vo
+Dang
+Bui
+Do
+Ho
+Ngo
+Duong
+Ly
+Quyen
+Ta
+Thach
+Thai
+Sai
+Thi
+Than
+Thao
+Thuy
+Tieu
+To
+Ton
+Trang
+Trieu
+Luong
+*** #82 .. Albania
+Zogu
+Kupi
+Ulqinaku
+Peza
+Bajraktari
+Aranitasi
+von Myrdacz
+Radomira
+Gilagoli
+Tirana
+Jusufi
+Pervizi
+Topalli
+Palondrit
+Hoxha
+Moisiu
+Shehu
+Lleshi
+Faja
+Frasheri
+Kelcyra
+Hasa
+Butka
+Lepenica
+Juka
+Verlaci
+Bushati
+Libohova
+Dine
+Mitrovica
+Deva
+*** #83 .. Syrian Republic
+al Za'im
+Shishakli
+Selu
+Aslan
+Atfeh
+Bannud
+al-Hariri
+al-Hinnawi
+Jadid
+al-Atassi
+Karamanoukian
+al-Sufi
+el-Hakim
+al-Hashimi
+al-Sharabati
+al-Bukhari
+al-Atrash
+Jadid
+al-Malki
+al-Abed
+Alwan
+Nabhan
+al-Assad
+al-Quwatli
+Selu
+Aslan
+Atfeh
+Jadid
+Bannud
+Alwan
+Nabhan
+*** #84 .. Israel
+Adan
+Alon
+Amir
+Avriel
+Barak
+Bar Lev
+Begin
+Dayan
+Dori
+Elazar
+Eshkol
+Eytan
+Galili
+Gonen
+Gur
+Herzog
+Hod
+Magen
+Mandler
+Mayer
+Narkis
+Rabin
+Shaltiel
+Sharon
+Sheynerman
+Shomron
+Tal
+Yadin
+Yariv
+Yoffe
+Yosi
+*** #85 .. Indonesia
+Agusalim
+Atmadja
+Budiaman
+Budiman
+Cahyadi
+Chandra
+Dharmawijaya
+Gunardi
+Gunawan
+Hadiman
+Hardja
+Hermawan
+Indradjaja
+Iskandar
+Jayadi
+Kartawijaya
+Kurnia
+Lesmana
+Makmur
+Muljana
+Oesman
+Pranata
+Rachman
+Salim
+Sanjaya
+Sudjarwadi
+Sutedja
+Tanuwidjaja
+Wibowo
+Widjaja
+Yuwono
+*** #86 .. West Germany
+Hildebrandt
+von Plato
+Hansen
+Johannesson
+Reichenberger
+Lange
+Brandt
+Metz
+Reinhardt
+Jacoby
+von der Osten
+Topp
+Thomsen
+Müller
+Philipp
+von Rosen
+Oppermann
+Renner
+Schönbohm
+Schott
+Vogl
+Spiegel
+Roth
+Richstein
+Voss
+Liebeskind
+Eckert
+Hagenbruck
+Monreal
+Meyn
+Krupinski
+*** #87 .. East Germany
+Erdmann
+Schlase
+Stechbarth
+Hoffmann
+Ehm
+Neukirchen
+Zorn
+Bauer
+Rappmann
+Bohne
+Zieris
+Oldenburg
+Böhme
+Lange
+Berger
+Verner
+Baumgarten
+Peter
+Stock
+Linke
+Krause
+Kotte
+Heinecke
+Müller
+Gotthilf
+Krysmann
+Skerra
+Malewsky
+Jonischkies
+Pardella
+Reddig
+*** #88 .. Jordan
+Abbas
+Abdullah
+Almahdi
+Altaf
+Awwab
+Ayham
+Burhan
+Bushr
+Fathi
+Gamal
+Ghanma
+Ghazwan
+Glubb
+Habib
+Hanbal
+Hannad
+Haris
+Hassam
+Hussein
+Imad
+Jalal
+Jasim
+Kardal
+Karif
+Lash
+Lockett
+Majali
+Rabah
+Safar
+Tall
+Umarah
+*** #89 .. Lebanon
+Abawi
+Abdul-Aziz
+Abdul-Qawi
+Abu Risha
+Atasi
+Aziz
+Bandar
+Douri
+Falih
+Ghali
+Haidri
+Hakim
+Halim
+Hamal
+Hammadi
+Hanif
+Hatim
+Hayani
+Idris
+Ilah
+Karim
+Kassam
+Mahmoud
+Majeed
+Mansur
+Mustafa
+Sadr
+Shaker
+Tikriti
+Zebari
+Zubeidi
+*** #90 .. Ukraine
+Makhno
+Shchus
+Khein
+Isaak
+Karetnik
+Nikiforov
+Pyatakov
+Schapiro
+Zadov
+Witkop
+Vasilevsky
+Marchenko
+Veretelnikov
+Gavrilenko
+Kurilenko
+Belash
+Kalasnikov
+Mikhalev-Pavlenko
+Lepetchenko
+Popov
+Markov
+Kuzmenko
+Skoropadsky
+Grigoriev
+Yarchuk
+Gorelik
+Doubinsky
+Radowitzky
+Baburov
+Iltchenko
+Kaplan
+*** #91 .. Italy RSI
+De Marsanich
+Graziani
+Gambara
+Faggioni
+Botto
+Tessari
+Falconi
+Visconti
+Drago
+Gorrini
+Tarantola
+Bellagambi
+Borghese
+Gemelli
+Sparzani
+Ferrini
+Legnani
+Agosti
+Ricci
+Romegialli
+Nicchiarelli
+Faggioni
+Valenzano
+Canevari
+Farina
+Carloni
+Milazzo
+Manfredini
+Perico
+Adami
+Marini
+*** #92 .. Italy Allied
+Messe
+Badoglio
+Utili
+Dapino
+Berardi
+Scattini
+Primieri
+Morigi
+Bologna
+di Pralomo
+Ciampi
+Corti
+Agnelli
+Zurlini
+Buscaglia
+Veronese
+Martinoli
+Didolich
+Fanali
+Negri
+Sanseverino
+Sandalli
+Piacentini
+Del Cima
+Bergamini
+Marcolini
+Conte
+Lodi
+da Zara
+di Vittorio
+Azzi
+*** #93 .. Chile
+del Campo
+Rivera
+Pinto Cocha
+Talavera
+Encina
+Ciris
+Vega
+Valderrama
+Rival
+Espejo
+Carcamo
+Ladron de Guevara
+Mujica
+Cortes
+Urrutia
+Fuentes
+Fuentes Rabe
+Otarola
+Espinoza Mujica
+Mourgues
+Pantoja
+Tirado
+Montalva
+Reyes
+Camino
+Hidalgo
+Peña 
+Vargas
+Merino
+Molina
+Parada Moreno
+*** #94 .. Saudi Arabia
+Abir
+Alyasa
+Amus
+Andrawus
+Asif
+Azar
+Barak
+Daburah
+Fáris
+Ifraym
+Hubab
+Hajjai
+Hawwa
+Iliya
+Ishaq
+Jibril
+Gad
+Jašam
+Lawi
+Malakhi
+Maryam
+Nahamiyya
+Qarun
+Rahil
+Sam
+Samiri
+Shamshun
+Talut
+Ubaydallah
+Yaqub
+Yashsha
+*** #95 .. Ottoman Empire
+Enver Pasha
+Rami Pasha
+Shevki Pasha
+Esat Pasha
+Cevat Pasha
+Vehip Pasha
+Fevzi Pasha
+Kemal Pasha
+Fakhri Pasha
+Kazim Pasha
+Wehib Pasha
+Ahmed Bey
+Tevfik Bey
+Numan Bey
+Mehmed Bey
+Djemal Pasha
+Talaat Pasha
+Muhiddin Pasha
+Tala Bey
+Kerim Pasha
+Nureddin Pasha
+Izzet Pasha
+Halil Pasha
+Karabekir Bey
+Tayyar Bey
+Selahattin Bey
+Ismet Bey
+Ihsan Pasha
+Saffet Bey
+Ali Pasha
+Muhtar Pasha
+*** #96 .. Luxembourg
+Speller
+Jacoby
+Stein
+Weis
+Bech
+Dupong
+Mayer
+Dauffenbach
+Betz
+Welfring
+Ley
+Bruck
+Gretsch
+Lenz
+Ries
+Reinig
+Daubenfeld
+Mancinelli
+Duschène
+Kronsbruck
+Bombardella
+Bourg
+Schneider
+Schuster
+Bodson
+Abens
+Kieffer
+Maar
+Osch
+Krieps
+Petit
+*** #97 .. International Brigades
+Stern
+Kahle
+Flatter
+Di Vittorio
+Frank
+Schenk
+Rau
+Beimler
+Shehu
+Marko
+Vokshi
+Ulanowski
+Kochanek
+Komar
+Martinez
+Chamon
+Merriman
+Copeman
+Markovic
+Nathan
+Marty
+Masaryk
+Pavel
+Francois
+Sossenko
+Nancarrow
+Jones
+Brodsky
+Schreiner
+Szinda
+Zaisser
+*** #98 .. Irregular Forces
+Hoare
+Denard
+Ellis
+Mann
+von Rosen
+Garrison
+Schramme
+Malloch
+Wicks
+Müller
+Köhlert
+Georgiou
+Barker
+Gearhart
+Christodoulou
+McKenzie
+von Lieres
+Peters
+Puren
+Priefert
+Zanata
+St Clair
+Faulques
+Herz
+Guillaume
+Williams
+Yule
+Goossens
+Zumbach
+Wharton
+La Viola
+*** #99 .. Division Azul
+Escobedo
+Grandes
+Zayas
+Larrondo
+Allo
+de Cartagena y Marcaida
+Trapaga
+Vivanco
+Arenas
+Rosello
+Esparza
+Esteban
+Martinez
+Perez
+Vita
+del Prado O'Neil
+Ulzurrun
+Castro Escudero
+Sagredo
+Rodriguez Galan
+Armesto
+del Bosch
+Lazaga
+Aznar
+Salvador
+de Cristo Rey
+y Martin
+de Laiglesia
+de Alba
+Ridruejo
+Pinillos
+*** #100 .. Senussi Order
+Abawi
+Abdul-Aziz
+Abdul-Qawi
+Abu Risha
+Atasi
+Aziz
+Bandar
+Douri
+Falih
+Ghali
+Haidri
+Hakim
+Halim
+Hamal
+Hammadi
+Hanif
+Hatim
+Hayani
+Idris
+Ilah
+Karim
+Kassam
+Mahmoud
+Majeed
+Mansur
+Mustafa
+Sadr
+Shaker
+Tikriti
+Zebari
+Zubeidi
+*** #101 .. Ukrainian Insurgent Army
+Ivakhiv 
+Klyachkivsky
+Shukhevych
+Kuk
+Rudyj
+Zatovkanjuk
+Hrim
+Tepovyj
+Andrusjak
+Kozak
+Voronnyj
+Stepchuk
+Klimchak
+Semeniuk
+Oliynyk
+Protsyk
+Kachka
+Didyk
+Zarytska
+Stupnytskyi
+Borysenko
+Novytskyi
+Novak
+Hrabenko
+Dolnylsky
+Nykolaiuk
+Zahrava
+Soroka
+Ripetsky
+Lebid
+Nebola
+*** #102 .. India
+Shrinagesh
+Singh
+Cariappa
+Katoch
+Singh Aulakh
+Soman
+Dhillon
+Chaudhuri
+Manekshaw
+Arora
+Bewoor
+Candeth
+Bhagat
+Raina
+Jacob
+Malhotra
+Singh Gill
+Nanda
+Kohli
+Lal
+Kao
+Shekhar
+Tipnis
+Jadeja
+Thimayya
+Thapar
+Kumaramangalam
+Sundarji
+Sharma
+Joshi
+Mukerjee
+*** #103 .. Pakistan
+Khan
+Anwar
+Kiani
+Rehman
+Ahmad
+Amin
+Niazi
+Hussain
+Hazara
+Rana
+Rahman
+Malik
+Ahsan
+Janjua
+Hassan
+Shariff
+Lodhi
+Norman
+Callaghan
+Haq
+Musharraf
+Qureshi
+Beg
+Nawaz
+Zia-ul-Haq
+Choudri
+Sirohey
+Mirza
+Shamin
+Khan Durrani
+Chaudhry
+*** #104 .. Axis Russia
+Ivanov
+Kromiadi
+Boyarsky
+Zhilenkov
+Gil-Rodinov
+Krasnov
+Shkuro
+Kononov
+Baidalakov
+Rogozhin
+Shteifon
+Skorodumov
+Kreyter
+Egorov
+Shatilov
+Endrzheevskiy
+Nestrenko
+Vlasov
+Bunyachenko
+Meandrov
+Domanov
+Bychkov
+Zverev
+Shapalov
+Antilevsky
+Maltsev
+Kaminski
+Voskoboinik
+Malishkin
+Trochin
+Kislitsin
+*** #105 .. British Ceylon
+Beauchamp
+Jayawickrama
+Attygalle
+Muttukumaru
+Heyn
+Udugama
+Wijeyekoon
+Kadiragamar
+Amerasakera
+Gardiner
+Fernando
+Kotelawala
+De Costa
+Layton
+D'Albiac
+de Fonseka
+de Mel
+Hunter
+Jayewardene
+Bawa
+Caldecott
+Daniels
+Pakeman
+Patrick
+Mendis
+Senanayake
+Schofield
+Boyle
+Grimwood
+Pelpola
+Ratwatte
+*** #106 .. Kingdom of Yemen
+Akhnukh
+Ayyub
+Azariya
+Binyamin
+Bulus
+Butrus
+Danyal
+Daud
+Habaquq
+Anna
+Harun
+Husha
+Hassan
+Hazqiyal
+Ibrahim
+Iliya
+Israil
+Jibril
+Galut
+Jurj
+Laya
+Madyan
+Maliki-Sadiq
+Malakhi
+Mikhail
+Qarun
+Rahil
+Saffurah
+Shamshun
+Zakariyya
+Yusuf
+*** #107 .. National Government
+Yuan Shikai
+Li Yuanhong
+Long Jiguang
+Zhang Xun
+Feng Guozhang
+Jiang Guiti
+Duan Zhigui
+Ni Sichong
+Liu Guanxiong
+Tang Xiangming
+Li Chun
+Zhu Rui
+Lu Rongting
+Zhao Ti
+Chen Yi
+Tang Jiyao
+Yan Xishan
+Wang Zhanyuan
+Zhang Xiluan
+Zhu Jiabao
+Zhang Mingqi
+Tian Wenlie
+Jin Yunpeng
+Yang Zengxin
+Lu Jianzhang
+Meng Enyuan
+Qu Yinguang
+Cao Kun
+Qi Yaolin
+Yang Shande
+Zhu Qinglan
+*** #108 .. Peru
+Quispe
+Quechuan
+Flores
+Sánchez
+Rodríguez
+García
+Rojas
+González
+Díaz
+Chávez
+Torres
+Ramírez
+Mendoza
+Ramos
+López
+Castillo
+Espinoza
+Vásquez
+Huamán
+Pérez
+Vargas
+Gutiérrez
+Fernández
+Castro
+Mamani
+Ruíz
+Romero
+Martínez
+Morales
+Reyes
+Salazar
+*** #109 .. Ecuador
+Fernández
+Rodríguez
+González
+García
+López
+Martínez
+Pérez
+Álvarez
+Gómez
+Sánchez
+Díaz
+Vásquez
+Castro
+Romero
+Suárez
+Blanco
+Ruiz
+Alonso
+Torres
+Domínguez
+Gutiérrez
+Sosa
+Iglesias
+Giménez
+Ramírez
+Martín
+Varela
+Ramos
+Núnez
+Rossi
+Silva
+*** #110 .. Black Army
+Makhno
+Karetnik
+Shchus
+Belash
+Nikiforovna
+Vasilevsky
+Veretelnikov
+Gavrilenko
+Kurilenko
+Kalasnikov
+Mikhalev-Pavlenko
+Lepetchenko
+Popov
+Zadov
+Antoni
+Chernyi
+Brzostek
+Arshinov
+Chubenko 
+Marchenko
+Eikhenbaum Volin 
+Sukhovolsky 
+Vorobyev
+Sharovsky
+Zabudko
+Zinchenko
+Karpenko
+Olkhovik
+Osipenko
+Petrenko
+Uralov
+*** #111 .. Tibet
+Ngapoi
+Phuntsok
+Bhattarai 
+Andrugtshang 
+Chödak 
+Gyamtsho 
+Lama 
+Lhamo 
+Ngabö 
+Yonten 
+Tshomo 
+Tsarong 
+Raika 
+Sakya 
+Rabgay 
+Dorji 
+Norbu 
+Samdrup 
+Chophel 
+Dawa 
+Phuntshok 
+Bhutan 
+Eden 
+Acharya 
+Ngawang 
+Chensal 
+Ghimiray 
+Ghaley 
+Chapagai 
+Sadutsang 
+Zangpo
+*** #112 .. State of Burma
+Set Kya
+Thakin Tun Oke
+Bo Hpone Myint
+Bo Let Ya
+Bo La Yaung
+Tin Tun
+Saw Kya Doe
+Bo Ne Win
+Ba Maw
+Thakin Mya
+Ba Win
+Thakin Nu
+Thein Maung
+Aung San
+Hla Min
+Thakin Than Tun
+U Mya
+Thakin Lay Maung
+Bandula U Sein
+Tun Aung
+Thakin Lun Baw
+Mahn Ba Khaing
+Kyaw Htin
+Bo Min Guang
+Bo Ba Htoo
+Kyaw Zaw
+Thakin Ba Thein Tin
+San Yu
+Aung Shwe
+Bo Yan Naing
+Bo Lin Yone
+*** #113 .. Algerian Nationalists
+Abbas
+Boumedienne
+Didouche
+Ramdane
+La Pointe
+Zabana
+Zighoud
+Chihani
+Mallah
+Francis
+El Madani
+Bitat
+Ben Bella
+Ben Tobbal
+Boussouf
+Yacef
+Amirouche
+M'Hidi
+Benboulaid
+Belkacem
+Fanon
+Khider
+Mehri
+Mohammedi
+Mazhoudi
+Oumrane
+Lamine
+Ahmed
+Kafi
+Boudghene
+Benyahia
+*** #114 .. Free City of Danzig
+Froböss
+Greiser
+Bethke
+Forster
+Thier
+Bredemeier
+Braun
+Urbanietz
+Baier
+Schulz
+Steiner
+Leiner
+Eberhardt
+Greiser
+Bethke
+Braun
+Bredemeier
+Schulz
+Steiner
+Leiner
+Baier
+Thier
+Goetze
+Bethke
+Bredemeier
+Schulz
+Steiner
+Leiner
+Baier
+Thier
+Goetze
+*** #115 .. Germany
+Rommel
+Dietl
+Kretschmer
+Prien
+Hartmann
+von Rundstedt
+Guderian
+Rudel
+Wittmann
+Hardegen
+Müller
+von Kleist
+Raeder
+Topp
+Model
+Langsdorff
+von Richthofen
+Volkmann
+Heye
+von Seeckt
+von Kluge
+Hoth
+von Manstein
+List
+von Weichs
+Heinrici
+Ruoff
+von Blomberg
+Groener
+Kempf
+Mackensen
+*** #116 .. Kaiju
+Godzilla
+King Kong
+Gargantula
+Sharknado
+Gamera
+King Ghidorah
+Mothra
+Orochi
+Ebirah
+Mechagodzilla
+Megalon
+Destoroyah
+Megaguirus
+Gigan
+Wasei Kingo Kongu
+Varan
+Atragon
+Matango
+Zigra
+Daimaijin
+Yongary
+Nezulla
+Arachnia
+Zarkorr
+Kolossus
+Mecha Shark
+Jumborg Ace
+Izenborg
+Kraa
+Pulgasari
+Gorath

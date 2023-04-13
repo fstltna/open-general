@@ -1,0 +1,1443 @@
+*Nation;FlagID;Efile;GUI;Period
+(empty);84;EFILE_PzLIGA;PzLiga;WW2
+(empty);83;EFILE_AG;Antique General;Antique
+(empty);97;EFILE_LXF;LXF;WW2
+(empty);21;EFILE_GCE;GCE;WW2
+(empty);100;EFILE_PzLIGA;PzLiga;WW2
+(empty);99;EFILE_AG;Antique General;Antique
+(empty);85;EFILE_OoB;OoB;WW2
+(empty);52;EFILE_PzLIGA;PzLiga;WW2
+(empty);51;EFILE_AG;Antique General;Antique
+(empty);68;EFILE_PzLIGA;PzLiga;WW2
+(empty);67;EFILE_AG;Antique General;Antique
+(empty);20;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+(empty);113;EFILE_ATOMIC;Atomic;WW2
+(empty);90;EFILE_LXF;LXF;WW2
+(empty);14;EFILE_GCE;GCE;WW2
+(empty);93;EFILE_PzLIGA;PzLiga;WW2
+(empty);92;EFILE_AG;Antique General;Antique
+(empty);78;EFILE_OoB;OoB;WW2
+(empty);30;EFILE_GCE;GCE;WW2
+(empty);61;EFILE_PzLIGA;PzLiga;WW2
+(empty);60;EFILE_AG;Antique General;Antique
+(empty);99;EFILE_OoB;OoB;WW2
+(empty);46;EFILE_AG;Antique General;Antique
+(empty);77;EFILE_PzLIGA;PzLiga;WW2
+(empty);76;EFILE_AG;Antique General;Antique
+(empty);29;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+(empty);86;EFILE_PzLIGA;PzLiga;WW2
+(empty);85;EFILE_AG;Antique General;Antique
+(empty);87;EFILE_OoB;OoB;WW2
+(empty);54;EFILE_PzLIGA;PzLiga;WW2
+(empty);53;EFILE_AG;Antique General;Antique
+(empty);92;EFILE_OoB;OoB;WW2
+(empty);70;EFILE_PzLIGA;PzLiga;WW2
+(empty);69;EFILE_AG;Antique General;Antique
+(empty);22;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+(empty);31;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+(empty);92;EFILE_LXF;LXF;WW2
+(empty);16;EFILE_GCE;GCE;WW2
+(empty);95;EFILE_PzLIGA;PzLiga;WW2
+(empty);94;EFILE_AG;Antique General;Antique
+(empty);80;EFILE_OoB;OoB;WW2
+(empty);63;EFILE_PzLIGA;PzLiga;WW2
+(empty);62;EFILE_AG;Antique General;Antique
+(empty);79;EFILE_PzLIGA;PzLiga;WW2
+(empty);78;EFILE_AG;Antique General;Antique
+(empty);88;EFILE_PzLIGA;PzLiga;WW2
+(empty);87;EFILE_AG;Antique General;Antique
+(empty);89;EFILE_OoB;OoB;WW2
+(empty);56;EFILE_PzLIGA;PzLiga;WW2
+(empty);55;EFILE_AG;Antique General;Antique
+(empty);94;EFILE_OoB;OoB;WW2
+(empty);72;EFILE_PzLIGA;PzLiga;WW2
+(empty);71;EFILE_AG;Antique General;Antique
+(empty);24;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+(empty);80;EFILE_AG;Antique General;Antique
+(empty);94;EFILE_LXF;LXF;WW2
+(empty);18;EFILE_GCE;GCE;WW2
+(empty);97;EFILE_PzLIGA;PzLiga;WW2
+(empty);96;EFILE_AG;Antique General;Antique
+(empty);82;EFILE_OoB;OoB;WW2
+(empty);48;EFILE_AG;Antique General;Antique
+(empty);65;EFILE_PzLIGA;PzLiga;WW2
+(empty);64;EFILE_AG;Antique General;Antique
+(empty);17;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+(empty);81;EFILE_PzLIGA;PzLiga;WW2
+(empty);11;EFILE_GCE;GCE;WW2
+(empty);90;EFILE_PzLIGA;PzLiga;WW2
+(empty);89;EFILE_AG;Antique General;Antique
+(empty);27;EFILE_GCE;GCE;WW2
+(empty);58;EFILE_PzLIGA;PzLiga;WW2
+(empty);57;EFILE_AG;Antique General;Antique
+(empty);96;EFILE_OoB;OoB;WW2
+(empty);74;EFILE_PzLIGA;PzLiga;WW2
+(empty);73;EFILE_AG;Antique General;Antique
+(empty);26;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+(empty);87;EFILE_LXF;LXF;WW2
+(empty);83;EFILE_PzLIGA;PzLiga;WW2
+(empty);82;EFILE_AG;Antique General;Antique
+(empty);96;EFILE_LXF;LXF;WW2
+(empty);20;EFILE_GCE;GCE;WW2
+(empty);99;EFILE_PzLIGA;PzLiga;WW2
+(empty);98;EFILE_AG;Antique General;Antique
+(empty);84;EFILE_OoB;OoB;WW2
+(empty);51;EFILE_PzLIGA;PzLiga;WW2
+(empty);50;EFILE_AG;Antique General;Antique
+(empty);67;EFILE_PzLIGA;PzLiga;WW2
+(empty);66;EFILE_AG;Antique General;Antique
+(empty);19;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+(empty);89;EFILE_LXF;LXF;WW2
+(empty);92;EFILE_PzLIGA;PzLiga;WW2
+(empty);91;EFILE_AG;Antique General;Antique
+(empty);77;EFILE_OoB;OoB;WW2
+(empty);29;EFILE_GCE;GCE;WW2
+(empty);60;EFILE_PzLIGA;PzLiga;WW2
+(empty);59;EFILE_AG;Antique General;Antique
+(empty);98;EFILE_OoB;OoB;WW2
+(empty);45;EFILE_AG;Antique General;Antique
+(empty);76;EFILE_PzLIGA;PzLiga;WW2
+(empty);75;EFILE_AG;Antique General;Antique
+(empty);28;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+(empty);85;EFILE_PzLIGA;PzLiga;WW2
+(empty);84;EFILE_AG;Antique General;Antique
+(empty);98;EFILE_LXF;LXF;WW2
+(empty);100;EFILE_AG;Antique General;Antique
+(empty);86;EFILE_OoB;OoB;WW2
+(empty);53;EFILE_PzLIGA;PzLiga;WW2
+(empty);52;EFILE_AG;Antique General;Antique
+(empty);91;EFILE_OoB;OoB;WW2
+(empty);69;EFILE_PzLIGA;PzLiga;WW2
+(empty);68;EFILE_AG;Antique General;Antique
+(empty);21;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+(empty);114;EFILE_ATOMIC;Atomic;WW2
+(empty);30;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+(empty);91;EFILE_LXF;LXF;WW2
+(empty);15;EFILE_GCE;GCE;WW2
+(empty);94;EFILE_PzLIGA;PzLiga;WW2
+(empty);93;EFILE_AG;Antique General;Antique
+(empty);79;EFILE_OoB;OoB;WW2
+(empty);62;EFILE_PzLIGA;PzLiga;WW2
+(empty);61;EFILE_AG;Antique General;Antique
+(empty);100;EFILE_OoB;OoB;WW2
+(empty);47;EFILE_AG;Antique General;Antique
+(empty);78;EFILE_PzLIGA;PzLiga;WW2
+(empty);77;EFILE_AG;Antique General;Antique
+(empty);87;EFILE_PzLIGA;PzLiga;WW2
+(empty);86;EFILE_AG;Antique General;Antique
+(empty);100;EFILE_LXF;LXF;WW2
+(empty);88;EFILE_OoB;OoB;WW2
+(empty);55;EFILE_PzLIGA;PzLiga;WW2
+(empty);54;EFILE_AG;Antique General;Antique
+(empty);93;EFILE_OoB;OoB;WW2
+(empty);71;EFILE_PzLIGA;PzLiga;WW2
+(empty);70;EFILE_AG;Antique General;Antique
+(empty);23;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+(empty);79;EFILE_AG;Antique General;Antique
+(empty);93;EFILE_LXF;LXF;WW2
+(empty);17;EFILE_GCE;GCE;WW2
+(empty);96;EFILE_PzLIGA;PzLiga;WW2
+(empty);95;EFILE_AG;Antique General;Antique
+(empty);81;EFILE_OoB;OoB;WW2
+(empty);64;EFILE_PzLIGA;PzLiga;WW2
+(empty);63;EFILE_AG;Antique General;Antique
+(empty);16;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+(empty);80;EFILE_PzLIGA;PzLiga;WW2
+(empty);10;EFILE_GCE;GCE;WW2
+(empty);89;EFILE_PzLIGA;PzLiga;WW2
+(empty);88;EFILE_AG;Antique General;Antique
+(empty);31;EFILE_GCE;GCE;WW2
+(empty);90;EFILE_OoB;OoB;WW2
+(empty);57;EFILE_PzLIGA;PzLiga;WW2
+(empty);56;EFILE_AG;Antique General;Antique
+(empty);95;EFILE_OoB;OoB;WW2
+(empty);73;EFILE_PzLIGA;PzLiga;WW2
+(empty);72;EFILE_AG;Antique General;Antique
+(empty);25;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+(empty);82;EFILE_PzLIGA;PzLiga;WW2
+(empty);81;EFILE_AG;Antique General;Antique
+(empty);95;EFILE_LXF;LXF;WW2
+(empty);19;EFILE_GCE;GCE;WW2
+(empty);98;EFILE_PzLIGA;PzLiga;WW2
+(empty);97;EFILE_AG;Antique General;Antique
+(empty);83;EFILE_OoB;OoB;WW2
+(empty);50;EFILE_PzLIGA;PzLiga;WW2
+(empty);49;EFILE_AG;Antique General;Antique
+(empty);66;EFILE_PzLIGA;PzLiga;WW2
+(empty);65;EFILE_AG;Antique General;Antique
+(empty);18;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+(empty);88;EFILE_LXF;LXF;WW2
+(empty);12;EFILE_GCE;GCE;WW2
+(empty);91;EFILE_PzLIGA;PzLiga;WW2
+(empty);90;EFILE_AG;Antique General;Antique
+(empty);28;EFILE_GCE;GCE;WW2
+(empty);59;EFILE_PzLIGA;PzLiga;WW2
+(empty);58;EFILE_AG;Antique General;Antique
+(empty);97;EFILE_OoB;OoB;WW2
+(empty);75;EFILE_PzLIGA;PzLiga;WW2
+(empty);74;EFILE_AG;Antique General;Antique
+(empty);27;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+(no);26;EFILE_OPENPG;OpenPG1;WW2
+(yes);25;EFILE_OPENPG;OpenPG1;WW2
+Abkhasia;110;EFILE_OLGCW;OpenLG CW;Modern
+Abkhasia;110;EFILE_LUPO;OpenLG CW;Modern
+Achaians;9;EFILE_AG;Antique General;Antique
+Afghanistan;74;EFILE_ATOMIC;Atomic;WW2
+Afghanistan;33;EFILE_OPENPEG;OpenPeG;Modern
+Afghanistan;32;EFILE_LXF;LXF;WW2
+Afghanistan;39;EFILE_LUPO;OpenLG CW;Modern
+Afghanistan;47;EFILE_OoB;OoB;WW2
+Afghanistan;46;EFILE_KAISER;Kaiser;Imperialism/WW1
+Afghanistan;39;EFILE_OLGCW;OpenLG CW;Modern
+Afghanistan;38;EFILE_OPENAK;OpenAK;WW2
+Afghanistan – Communists;8;EFILE_OPENPEG;OpenPeG;Modern
+Afghanistan – Communists;37;EFILE_LUPO;OpenLG CW;Modern
+Afghanistan – Communists;37;EFILE_OLGCW;OpenLG CW;Modern
+Afghanistan – Mujahideen;84;EFILE_OLGCW;OpenLG CW;Modern
+Afghanistan – Mujahideen;35;EFILE_OPENPEG;OpenPeG;Modern
+Afghanistan – Mujahideen;84;EFILE_LUPO;OpenLG CW;Modern
+Afghanistan – Northern Alliance;102;EFILE_OLGCW;OpenLG CW;Modern
+Afghanistan – Northern Alliance;102;EFILE_LUPO;OpenLG CW;Modern
+Afghanistan – Taliban;38;EFILE_LUPO;OpenLG CW;Modern
+Afghanistan – Taliban;38;EFILE_OLGCW;OpenLG CW;Modern
+Afghanistan – Taliban;34;EFILE_OPENPEG;OpenPeG;Modern
+Albania;14;EFILE_OoB;OoB;WW2
+Albania;53;EFILE_LXF;LXF;WW2
+Albania;82;EFILE_ATOMIC;Atomic;WW2
+Albania;39;EFILE_OPENAK;OpenAK;WW2
+Albania;51;EFILE_ROI;OpenLG WW2;WW2
+Albania;51;EFILE_OLGWW2;OpenLG WW2;WW2
+Albania;41;EFILE_PzLIGA;PzLiga;WW2
+Albania;91;EFILE_LUPO;OpenLG CW;Modern
+Albania;91;EFILE_OLGCW;OpenLG CW;Modern
+Algeria;68;EFILE_OLGCW;OpenLG CW;Modern
+Algeria;68;EFILE_LUPO;OpenLG CW;Modern
+Allied Forces;37;EFILE_OoB;OoB;WW2
+Allied Forces;28;EFILE_LXF;LXF;WW2
+Angola;8;EFILE_OLGCW;OpenLG CW;Modern
+Angola;8;EFILE_LUPO;OpenLG CW;Modern
+Angola – UNITA;82;EFILE_LUPO;OpenLG CW;Modern
+Angola – UNITA;82;EFILE_OLGCW;OpenLG CW;Modern
+Arabs;13;EFILE_KAISER;Kaiser;Imperialism/WW1
+Arabs;75;EFILE_ATOMIC;Atomic;WW2
+Argentina;71;EFILE_ATOMIC;Atomic;WW2
+Argentina;18;EFILE_OLGCW;OpenLG CW;Modern
+Argentina;18;EFILE_LUPO;OpenLG CW;Modern
+Argentina;40;EFILE_OPENAK;OpenAK;WW2
+Argentina;38;EFILE_OPENPEG;OpenPeG;Modern
+Arm;14;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+Armenia;68;EFILE_KAISER;Kaiser;Imperialism/WW1
+Armenia;20;EFILE_AG;Antique General;Antique
+Ashes;13;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+Assyrians;12;EFILE_AG;Antique General;Antique
+Athenian Confederacy;15;EFILE_AG;Antique General;Antique
+Australia;4;EFILE_LXF;LXF;WW2
+Australia;29;EFILE_OLGWW2;OpenLG WW2;WW2
+Australia;29;EFILE_ROI;OpenLG WW2;WW2
+Australia;27;EFILE_ATOMIC;Atomic;WW2
+Australia;17;EFILE_PzLIGA;PzLiga;WW2
+Australia;27;EFILE_COMWW2;Composite;WW2
+Australia;27;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Australia;48;EFILE_LUPO;OpenLG CW;Modern
+Australia;40;EFILE_OoB;OoB;WW2
+Australia;5;EFILE_OPENPG;OpenPG1;WW2
+Australia;48;EFILE_OLGCW;OpenLG CW;Modern
+Australia;27;EFILE_NOKORP;NOKorp;WW2
+Australia;27;EFILE_OPENAK;OpenAK;WW2
+Australia;27;EFILE_BASEKORP;Basekorp;WW2
+Australia;29;EFILE_OPENPEG;OpenPeG;Modern
+Austria – Empire;4;EFILE_SON;SoN;Industrialism
+Austria – Empire;34;EFILE_KAISER;Kaiser;Imperialism/WW1
+Austria – Republic;1;EFILE_Clu;Clu;WW2
+Austria – Republic;9;EFILE_OoB;OoB;WW2
+Austria – Republic;63;EFILE_ROI;OpenLG WW2;WW2
+Austria – Republic;63;EFILE_OLGWW2;OpenLG WW2;WW2
+Austria – Republic;40;EFILE_ATOMIC;Atomic;WW2
+Austria – Republic;143;EFILE_OPENAK;OpenAK;Modern
+Austria – Republic;73;EFILE_LUPO;OpenLG CW;Modern
+Austria – Republic;42;EFILE_OPENAK;OpenAK;WW2
+Austria – Republic;52;EFILE_LXF;LXF;WW2
+Austria – Republic;73;EFILE_OLGCW;OpenLG CW;Modern
+Austria – Republic;43;EFILE_PzLIGA;PzLiga;WW2
+Austria-Hungary – KuK;3;EFILE_KAISER;Kaiser;Imperialism/WW1
+Axis Forces;115;EFILE_ATOMIC;Atomic;WW2
+Axis Forces;30;EFILE_LXF;LXF;WW2
+Axis Forces;36;EFILE_OoB;OoB;WW2
+Azerbaijan;69;EFILE_KAISER;Kaiser;Imperialism/WW1
+Babylonia;13;EFILE_AG;Antique General;Antique
+Bangladesh;87;EFILE_LUPO;OpenLG CW;Modern
+Bangladesh;87;EFILE_OLGCW;OpenLG CW;Modern
+Belarus – Axis;66;EFILE_OoB;OoB;WW2
+Belarus – Axis;64;EFILE_LXF;LXF;WW2
+Belgium;2;EFILE_OLGWW2;OpenLG WW2;WW2
+Belgium;11;EFILE_KAISER;Kaiser;Imperialism/WW1
+Belgium;2;EFILE_OPENPG;OpenPG1;WW2
+Belgium;2;EFILE_ROI;OpenLG WW2;WW2
+Belgium;2;EFILE_COMWW2;Composite;WW2
+Belgium;2;EFILE_ATOMIC;Atomic;WW2
+Belgium;2;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Belgium;6;EFILE_OoB;OoB;WW2
+Belgium;2;EFILE_NOKORP;NOKorp;WW2
+Belgium;36;EFILE_LXF;LXF;WW2
+Belgium;2;EFILE_Clu;Clu;WW2
+Belgium;2;EFILE_PzLIGA;PzLiga;WW2
+Belgium;43;EFILE_LUPO;OpenLG CW;Modern
+Belgium;2;EFILE_OPENAK;OpenAK;WW2
+Belgium;2;EFILE_BASEKORP;Basekorp;WW2
+Belgium;43;EFILE_OLGCW;OpenLG CW;Modern
+Biafra;104;EFILE_OLGCW;OpenLG CW;Modern
+Biafra;104;EFILE_LUPO;OpenLG CW;Modern
+Bolivia;76;EFILE_ATOMIC;Atomic;WW2
+Bolivia;71;EFILE_LXF;LXF;WW2
+Bolivia;40;EFILE_ROI;OpenLG WW2;WW2
+Bolivia;40;EFILE_OLGWW2;OpenLG WW2;WW2
+Bolivia;41;EFILE_KAISER;Kaiser;Imperialism/WW1
+Bolivia;47;EFILE_OPENAK;OpenAK;WW2
+Bosnia-Herzegovina;58;EFILE_LUPO;OpenLG CW;Modern
+Bosnia-Herzegovina;58;EFILE_OLGCW;OpenLG CW;Modern
+Brazil;64;EFILE_OLGWW2;OpenLG WW2;WW2
+Brazil;39;EFILE_ATOMIC;Atomic;WW2
+Brazil;51;EFILE_LXF;LXF;WW2
+Brazil;46;EFILE_OPENAK;OpenAK;WW2
+Brazil;61;EFILE_OoB;OoB;WW2
+Brazil;64;EFILE_ROI;OpenLG WW2;WW2
+Britons;36;EFILE_AG;Antique General;Antique
+Bulgaria;3;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Bulgaria;3;EFILE_NOKORP;NOKorp;WW2
+Bulgaria;3;EFILE_Clu;Clu;WW2
+Bulgaria;3;EFILE_PzLIGA;PzLiga;WW2
+Bulgaria;3;EFILE_BASEKORP;Basekorp;WW2
+Bulgaria;3;EFILE_OPENAK;OpenAK;WW2
+Bulgaria;19;EFILE_KAISER;Kaiser;Imperialism/WW1
+Bulgaria;3;EFILE_OLGWW2;OpenLG WW2;WW2
+Bulgaria;3;EFILE_OPENPG;OpenPG1;WW2
+Bulgaria;3;EFILE_ROI;OpenLG WW2;WW2
+Bulgaria;9;EFILE_LXF;LXF;WW2
+Bulgaria;3;EFILE_COMWW2;Composite;WW2
+Bulgaria;3;EFILE_ATOMIC;Atomic;WW2
+Bulgaria;19;EFILE_OoB;OoB;WW2
+Bulgaria – Communists;52;EFILE_OLGCW;OpenLG CW;Modern
+Bulgaria – Communists;48;EFILE_OPENAK;OpenAK;Modern
+Bulgaria – Communists;69;EFILE_ROI;OpenLG WW2;WW2
+Bulgaria – Communists;69;EFILE_OLGWW2;OpenLG WW2;WW2
+Bulgaria – Communists;52;EFILE_LUPO;OpenLG CW;Modern
+Burma – Axis;57;EFILE_LXF;LXF;WW2
+Burma – Axis;49;EFILE_OoB;OoB;WW2
+Burma – Axis;112;EFILE_ATOMIC;Atomic;WW2
+Burma – British;49;EFILE_OPENAK;OpenAK;WW2
+Byzantine Empire;41;EFILE_AG;Antique General;Antique
+Cambodia;85;EFILE_LUPO;OpenLG CW;Modern
+Cambodia;85;EFILE_OLGCW;OpenLG CW;Modern
+Cambodia – Communists;4;EFILE_OLGCW;OpenLG CW;Modern
+Cambodia – Communists;4;EFILE_LUPO;OpenLG CW;Modern
+Canada;28;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Canada;47;EFILE_LUPO;OpenLG CW;Modern
+Canada;39;EFILE_OoB;OoB;WW2
+Canada;47;EFILE_OLGCW;OpenLG CW;Modern
+Canada;31;EFILE_OLGWW2;OpenLG WW2;WW2
+Canada;31;EFILE_ROI;OpenLG WW2;WW2
+Canada;28;EFILE_NOKORP;NOKorp;WW2
+Canada;28;EFILE_OPENAK;OpenAK;WW2
+Canada;28;EFILE_BASEKORP;Basekorp;WW2
+Canada;12;EFILE_OPENPG;OpenPG1;WW2
+Canada;28;EFILE_ATOMIC;Atomic;WW2
+Canada;28;EFILE_COMWW2;Composite;WW2
+Canada;27;EFILE_PzLIGA;PzLiga;WW2
+Canada;11;EFILE_LXF;LXF;WW2
+Carthage;7;EFILE_AG;Antique General;Antique
+Celtic Opponents;38;EFILE_AG;Antique General;Antique
+Celts;2;EFILE_AG;Antique General;Antique
+Ceylon – British;105;EFILE_ATOMIC;Atomic;WW2
+Chad;103;EFILE_OLGCW;OpenLG CW;Modern
+Chad;103;EFILE_LUPO;OpenLG CW;Modern
+Chechnya;77;EFILE_OLGCW;OpenLG CW;Modern
+Chechnya;77;EFILE_LUPO;OpenLG CW;Modern
+Chile;39;EFILE_KAISER;Kaiser;Imperialism/WW1
+Chile;93;EFILE_ATOMIC;Atomic;Imperialism/WW1
+China – Communists / Jiangxi Soviet;49;EFILE_ROI;OpenLG WW2;WW2
+China – Communists / Jiangxi Soviet;51;EFILE_OPENAK;OpenAK;WW2
+China – Communists / Jiangxi Soviet;49;EFILE_OLGWW2;OpenLG WW2;WW2
+China – Communists / Jiangxi Soviet;48;EFILE_PzLIGA;PzLiga;WW2
+China – Communists / Jiangxi Soviet;66;EFILE_KAISER;Kaiser;Imperialism/WW1
+China – Communists / PRC;56;EFILE_ATOMIC;Atomic;WW2
+China – Communists / PRC;52;EFILE_OPENAK;OpenAK;WW2
+China – Communists / PRC;19;EFILE_OLGCW;OpenLG CW;Modern
+China – Communists / PRC;3;EFILE_OPENPEG;OpenPeG;Modern
+China – Communists / PRC;19;EFILE_LUPO;OpenLG CW;Modern
+China – Communists / PRC;19;EFILE_OLGWW2;OpenLG WW2;WW2
+China – Communists / PRC;19;EFILE_ROI;OpenLG WW2;WW2
+China – Communists / PRC;42;EFILE_ATOMIC;Atomic;WW2
+China – Communists / PRC;22;EFILE_LXF;LXF;WW2
+China – Communists / PRC;58;EFILE_OoB;OoB;WW2
+China – Empire;63;EFILE_KAISER;Kaiser;Imperialism/WW1
+China – Empire;24;EFILE_AG;Antique General;Antique
+China – Fengtian Clique / Warlords;50;EFILE_ROI;OpenLG WW2;WW2
+China – Fengtian Clique / Warlords;50;EFILE_OLGWW2;OpenLG WW2;WW2
+China – Fengtian Clique / Warlords;85;EFILE_LXF;LXF;WW2
+China – Fengtian Clique / Warlords;55;EFILE_OPENAK;OpenAK;WW2
+China – Fengtian Clique / Warlords;51;EFILE_ATOMIC;Atomic;WW2
+China – Fengtian Clique / Warlords;55;EFILE_KAISER;Kaiser;Imperialism/WW1
+China – Mengjiang (Axis);53;EFILE_OoB;OoB;WW2
+China – Mengjiang (Axis);106;EFILE_OPENAK;OpenAK;WW2
+China – Mengjiang (Axis);54;EFILE_LXF;LXF;WW2
+China – Mengjiang (Axis);46;EFILE_ROI;OpenLG WW2;WW2
+China – Mengjiang (Axis);46;EFILE_OLGWW2;OpenLG WW2;WW2
+China – Nanjing (Reorganized) Nationalist Government (Axis);107;EFILE_ATOMIC;Atomic;WW2
+China – Nanjing (Reorganized) Nationalist Government (Axis);67;EFILE_ROI;OpenLG WW2;WW2
+China – Nanjing (Reorganized) Nationalist Government (Axis);56;EFILE_OoB;OoB;WW2
+China – Nanjing (Reorganized) Nationalist Government (Axis);67;EFILE_OLGWW2;OpenLG WW2;WW2
+China – Nanjing (Reorganized) Nationalist Government (Axis);56;EFILE_LXF;LXF;WW2
+China – Nanjing (Reorganized) Nationalist Government (Axis);54;EFILE_OPENAK;OpenAK;WW2
+China – Nationalists / Kuomintang;36;EFILE_ROI;OpenLG WW2;WW2
+China – Nationalists / Kuomintang;36;EFILE_OLGWW2;OpenLG WW2;WW2
+China – Nationalists / Kuomintang;65;EFILE_KAISER;Kaiser;Imperialism/WW1
+China – Nationalists / Kuomintang;58;EFILE_OPENAK;OpenAK;WW2
+China – Nationalists / ROC;36;EFILE_KAISER;Kaiser;Imperialism/WW1
+China – Nationalists / ROC;1;EFILE_PzLIGA;PzLiga;WW2
+China – Nationalists / ROC;57;EFILE_OoB;OoB;WW2
+China – Nationalists / ROC;28;EFILE_OLGCW;OpenLG CW;Modern
+China – Nationalists / ROC;35;EFILE_NOKORP;NOKorp;WW2
+China – Nationalists / ROC;28;EFILE_LUPO;OpenLG CW;Modern
+China – Nationalists / ROC;53;EFILE_OPENAK;OpenAK;WW2
+China – Nationalists / ROC;47;EFILE_ATOMIC;Atomic;WW2
+China – Nationalists / ROC;16;EFILE_OPENPEG;OpenPeG;Modern
+China – Nationalists / ROC;28;EFILE_OLGWW2;OpenLG WW2;WW2
+China – Nationalists / ROC;28;EFILE_ROI;OpenLG WW2;WW2
+China – Nationalists / ROC;16;EFILE_LXF;LXF;WW2
+China – Nationalists / ROC;5;EFILE_COMWW2;Composite;WW2
+China – Provisional Government (Axis);55;EFILE_LXF;LXF;WW2
+China – Provisional Government (Axis);54;EFILE_OoB;OoB;WW2
+China – Qing Empire;21;EFILE_KAISER;Kaiser;Imperialism/WW1
+China – Reformed Government (Axis);55;EFILE_OoB;OoB;WW2
+China – Revolutionaries;72;EFILE_KAISER;Kaiser;Imperialism/WW1
+Cilician Pirates;5;EFILE_AG;Antique General;Antique
+Colombia;42;EFILE_ROI;OpenLG WW2;WW2
+Colombia;42;EFILE_OLGWW2;OpenLG WW2;WW2
+Colombia;65;EFILE_OPENAK;OpenAK;WW2
+Colombia;70;EFILE_LXF;LXF;WW2
+Communists;69;EFILE_OPENAK;OpenAK;WW2
+Communists;49;EFILE_ATOMIC;Atomic;WW2
+Communists;63;EFILE_LXF;LXF;WW2
+Communists – Warsaw Pact;27;EFILE_OLGCW;OpenLG CW;Modern
+Communists – Warsaw Pact;27;EFILE_LUPO;OpenLG CW;Modern
+Confederate States – CSA;6;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+Confederate States – CSA;22;EFILE_KAISER;Kaiser;Imperialism/WW1
+Congo;107;EFILE_LUPO;OpenLG CW;Modern
+Congo;107;EFILE_OLGCW;OpenLG CW;Modern
+Cossack Hosts;41;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Cossack Hosts;78;EFILE_KAISER;Kaiser;Imperialism/WW1
+Cossack Hosts;61;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Croatia;19;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Croatia;54;EFILE_LUPO;OpenLG CW;Modern
+Croatia;57;EFILE_ROI;OpenLG WW2;WW2
+Croatia;42;EFILE_LXF;LXF;WW2
+Croatia;54;EFILE_OLGCW;OpenLG CW;Modern
+Croatia;57;EFILE_OLGWW2;OpenLG WW2;WW2
+Croatia;19;EFILE_NOKORP;NOKorp;WW2
+Croatia;31;EFILE_PzLIGA;PzLiga;WW2
+Croatia;18;EFILE_OoB;OoB;WW2
+Croatia;19;EFILE_OPENAK;OpenAK;WW2
+Croatia;19;EFILE_BASEKORP;Basekorp;WW2
+Croatia;19;EFILE_OPENPG;OpenPG1;WW2
+Croatia;19;EFILE_ATOMIC;Atomic;WW2
+Croatia;19;EFILE_COMWW2;Composite;WW2
+Cuba;101;EFILE_OLGCW;OpenLG CW;Modern
+Cuba;101;EFILE_LUPO;OpenLG CW;Modern
+Cuba;67;EFILE_OPENAK;OpenAK;WW2
+Cuba;84;EFILE_LXF;LXF;WW2
+Cuba – Communists;1;EFILE_OLGCW;OpenLG CW;Modern
+Cuba – Communists;1;EFILE_LUPO;OpenLG CW;Modern
+Cuba – Rebels;50;EFILE_KAISER;Kaiser;Imperialism/WW1
+Cult of the New Dawn;7;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+Cyprus;100;EFILE_OLGCW;OpenLG CW;Modern
+Cyprus;100;EFILE_LUPO;OpenLG CW;Modern
+Czechoslovakia;77;EFILE_KAISER;Kaiser;Imperialism/WW1
+Czechoslovakia;4;EFILE_ATOMIC;Atomic;WW2
+Czechoslovakia;48;EFILE_LXF;LXF;WW2
+Czechoslovakia;12;EFILE_PzLIGA;PzLiga;WW2
+Czechoslovakia;4;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Czechoslovakia;4;EFILE_NOKORP;NOKorp;WW2
+Czechoslovakia;5;EFILE_OLGWW2;OpenLG WW2;WW2
+Czechoslovakia;5;EFILE_ROI;OpenLG WW2;WW2
+Czechoslovakia;1;EFILE_OoB;OoB;WW2
+Czechoslovakia;4;EFILE_BASEKORP;Basekorp;WW2
+Czechoslovakia;4;EFILE_Clu;Clu;WW2
+Czechoslovakia;4;EFILE_OPENAK;OpenAK;WW2
+Czechoslovakia – Communists;50;EFILE_LUPO;OpenLG CW;Modern
+Czechoslovakia – Communists;50;EFILE_OLGCW;OpenLG CW;Modern
+Czechoslovakia – Legion;9;EFILE_KAISER;Kaiser;Imperialism/WW1
+Denmark;43;EFILE_KAISER;Kaiser;Imperialism/WW1
+Denmark;29;EFILE_PzLIGA;PzLiga;WW2
+Denmark;5;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Denmark;59;EFILE_ROI;OpenLG WW2;WW2
+Denmark;5;EFILE_NOKORP;NOKorp;WW2
+Denmark;59;EFILE_OLGWW2;OpenLG WW2;WW2
+Denmark;5;EFILE_BASEKORP;Basekorp;WW2
+Denmark;25;EFILE_SON;SoN;Industrialism
+Denmark;46;EFILE_LXF;LXF;WW2
+Denmark;76;EFILE_LUPO;OpenLG CW;Modern
+Denmark;5;EFILE_Clu;Clu;WW2
+Denmark;76;EFILE_OLGCW;OpenLG CW;Modern
+Denmark;5;EFILE_OPENAK;OpenAK;WW2
+Denmark;5;EFILE_ATOMIC;Atomic;WW2
+Denmark;3;EFILE_OoB;OoB;WW2
+Ecuador;52;EFILE_ROI;OpenLG WW2;WW2
+Ecuador;52;EFILE_OLGWW2;OpenLG WW2;WW2
+Ecuador;109;EFILE_ATOMIC;Atomic;WW2
+Ecuador;73;EFILE_LXF;LXF;WW2
+Ecuador;71;EFILE_OPENAK;OpenAK;WW2
+Egypt – Arab Republic;24;EFILE_OLGCW;OpenLG CW;Modern
+Egypt – Arab Republic;24;EFILE_LUPO;OpenLG CW;Modern
+Egypt – Arab Republic;18;EFILE_OPENPEG;OpenPeG;Modern
+Egypt – Kingdom;81;EFILE_LXF;LXF;WW2
+Egypt – Kingdom;95;EFILE_LUPO;OpenLG CW;Modern
+Egypt – Kingdom;66;EFILE_ROI;OpenLG WW2;WW2
+Egypt – Kingdom;72;EFILE_OPENAK;OpenAK;WW2
+Egypt – Kingdom;66;EFILE_OLGWW2;OpenLG WW2;WW2
+Egypt – Kingdom;95;EFILE_OLGCW;OpenLG CW;Modern
+Egypt – Kingdom;50;EFILE_ATOMIC;Atomic;WW2
+Egypt – Ptolemaic;10;EFILE_AG;Antique General;Antique
+Egypt – Sultanate;48;EFILE_KAISER;Kaiser;Imperialism/WW1
+Estonia;30;EFILE_OoB;OoB;WW2
+Estonia;4;EFILE_KAISER;Kaiser;Imperialism/WW1
+Estonia;37;EFILE_NOKORP;NOKorp;WW2
+Estonia;37;EFILE_OPENAK;OpenAK;WW2
+Estonia;59;EFILE_LXF;LXF;WW2
+Estonia;37;EFILE_BASEKORP;Basekorp;WW2
+Estonia;37;EFILE_ATOMIC;Atomic;WW2
+Ethiopia;29;EFILE_OPENAK;OpenAK;WW2
+Ethiopia;29;EFILE_BASEKORP;Basekorp;WW2
+Ethiopia;35;EFILE_PzLIGA;PzLiga;WW2
+Ethiopia;29;EFILE_ATOMIC;Atomic;WW2
+Ethiopia;35;EFILE_ROI;OpenLG WW2;WW2
+Ethiopia;29;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Ethiopia;35;EFILE_OLGWW2;OpenLG WW2;WW2
+Ethiopia;47;EFILE_LXF;LXF;WW2
+Ethiopia;29;EFILE_NOKORP;NOKorp;WW2
+Ethiopia;44;EFILE_OoB;OoB;WW2
+Ethiopia – Abyssinia;67;EFILE_KAISER;Kaiser;Imperialism/WW1
+Etruscan Tribes;23;EFILE_AG;Antique General;Antique
+Finland;46;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Finland;6;EFILE_OPENAK;OpenAK;WW2
+Finland;6;EFILE_BASEKORP;Basekorp;WW2
+Finland;6;EFILE_PzLIGA;PzLiga;WW2
+Finland;6;EFILE_KAISER;Kaiser;Imperialism/WW1
+Finland;65;EFILE_LUPO;OpenLG CW;Modern
+Finland;6;EFILE_OLGWW2;OpenLG WW2;WW2
+Finland;6;EFILE_OPENPG;OpenPG1;WW2
+Finland;65;EFILE_OLGCW;OpenLG CW;Modern
+Finland;6;EFILE_ROI;OpenLG WW2;WW2
+Finland;39;EFILE_LXF;LXF;WW2
+Finland;29;EFILE_OoB;OoB;WW2
+Finland;6;EFILE_COMWW2;Composite;WW2
+Finland;6;EFILE_ATOMIC;Atomic;WW2
+Finland;6;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Finland;6;EFILE_NOKORP;NOKorp;WW2
+Finland;6;EFILE_Clu;Clu;WW2
+Finland – Communists;79;EFILE_KAISER;Kaiser;Imperialism/WW1
+Finland – Communists;45;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Flandria – Axis;44;EFILE_OPENAK;OpenAK;WW2
+France – Empire;13;EFILE_SON;SoN;Industrialism
+France – Empire;35;EFILE_KAISER;Kaiser;Imperialism/WW1
+France – Forces Français Libres;33;EFILE_NOKORP;NOKorp;WW2
+France – Forces Français Libres;40;EFILE_PzLIGA;PzLiga;WW2
+France – Forces Français Libres;33;EFILE_OPENAK;OpenAK;WW2
+France – Forces Français Libres;33;EFILE_BASEKORP;Basekorp;WW2
+France – Forces Français Libres;34;EFILE_LXF;LXF;WW2
+France – Forces Français Libres;38;EFILE_OoB;OoB;WW2
+France – Forces Français Libres;33;EFILE_ATOMIC;Atomic;WW2
+France – Forces Français Libres;44;EFILE_ROI;OpenLG WW2;WW2
+France – Forces Français Libres;44;EFILE_OLGWW2;OpenLG WW2;WW2
+France – Kingdom;11;EFILE_SON;SoN;Industrialism
+France – Republic;7;EFILE_COMWW2;Composite;WW2
+France – Republic;7;EFILE_ATOMIC;Atomic;WW2
+France – Republic;7;EFILE_OoB;OoB;WW2
+France – Republic;7;EFILE_NASHORNPBEM;Adlerkorps;WW2
+France – Republic;7;EFILE_NOKORP;NOKorp;WW2
+France – Republic;7;EFILE_OLGCW;OpenLG CW;Modern
+France – Republic;7;EFILE_Clu;Clu;WW2
+France – Republic;22;EFILE_GCE;GCE;WW2
+France – Republic;7;EFILE_LUPO;OpenLG CW;Modern
+France – Republic;7;EFILE_OPENAK;OpenAK;WW2
+France – Republic;7;EFILE_BASEKORP;Basekorp;WW2
+France – Republic;25;EFILE_OPENPEG;OpenPeG;Modern
+France – Republic;7;EFILE_LXF;LXF;WW2
+France – Republic;7;EFILE_PzLIGA;PzLiga;WW2
+France – Republic;7;EFILE_KAISER;Kaiser;Imperialism/WW1
+France – Republic;12;EFILE_SON;SoN;Industrialism
+France – Republic;7;EFILE_OLGWW2;OpenLG WW2;WW2
+France – Republic;7;EFILE_OPENPG;OpenPG1;WW2
+France – Republic;7;EFILE_ROI;OpenLG WW2;WW2
+France – Vichy;4;EFILE_OLGWW2;OpenLG WW2;WW2
+France – Vichy;4;EFILE_ROI;OpenLG WW2;WW2
+France – Vichy;5;EFILE_PzLIGA;PzLiga;WW2
+France – Vichy;75;EFILE_OPENAK;OpenAK;WW2
+Franconians;29;EFILE_AG;Antique General;Antique
+Georgia;70;EFILE_KAISER;Kaiser;Imperialism/WW1
+Georgia;78;EFILE_LUPO;OpenLG CW;Modern
+Georgia;78;EFILE_OLGCW;OpenLG CW;Modern
+German-American Union;11;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+Germanic Opponents;39;EFILE_AG;Antique General;Antique
+Germanic Tribes;6;EFILE_AG;Antique General;Antique
+Germany – Baden;16;EFILE_SON;SoN;Industrialism
+Germany – Baden;60;EFILE_KAISER;Kaiser;Imperialism/WW1
+Germany – Baltische Landeswehr;60;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Germany – Bavaria;17;EFILE_SON;SoN;Industrialism
+Germany – Bavaria;57;EFILE_KAISER;Kaiser;Imperialism/WW1
+Germany – Bundesrepublik / BRD;77;EFILE_OPENAK;OpenAK;Modern
+Germany – Bundesrepublik / BRD;21;EFILE_OPENPEG;OpenPeG;Modern
+Germany – Bundesrepublik / BRD;86;EFILE_ATOMIC;Atomic;Modern
+Germany – Bundesrepublik / BRD;25;EFILE_OLGCW;OpenLG CW;Modern
+Germany – Bundesrepublik / BRD;25;EFILE_LUPO;OpenLG CW;Modern
+Germany – Colonial Empire;39;EFILE_NOKORP;NOKorp;WW1
+Germany – Communists;74;EFILE_KAISER;Kaiser;Imperialism/WW1
+Germany – Communists / DDR;26;EFILE_OLGCW;OpenLG CW;Modern
+Germany – Communists / DDR;26;EFILE_LUPO;OpenLG CW;Modern
+Germany – Communists / DDR;78;EFILE_OPENAK;OpenAK;Modern
+Germany – Communists / DDR;87;EFILE_ATOMIC;Atomic;Modern
+Germany – Deutscher Bund;2;EFILE_SON;SoN;Industrialism
+Germany – Empire;99;EFILE_LXF;LXF;Imperialism/WW1
+Germany – Empire;8;EFILE_KAISER;Kaiser;Imperialism/WW1
+Germany – Empire;80;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Germany – Freikorps;79;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Germany – Freikorps;78;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Germany – Freikorps;37;EFILE_KAISER;Kaiser;Imperialism/WW1
+Germany – Hannover;21;EFILE_SON;SoN;Industrialism
+Germany – Hannover;61;EFILE_KAISER;Kaiser;Imperialism/WW1
+Germany – Hesse-Kassel;26;EFILE_SON;SoN;Industrialism
+Germany – Legion Condor;8;EFILE_GCE;GCE;WW2
+Germany – Prussia;33;EFILE_KAISER;Kaiser;Imperialism/WW1
+Germany – Prussia;10;EFILE_SON;SoN;Industrialism
+Germany – Revolutionaries;84;EFILE_KAISER;Kaiser;Imperialism/WW1
+Germany – Rheinbund;18;EFILE_SON;SoN;Industrialism
+Germany – Saxony;58;EFILE_KAISER;Kaiser;Imperialism/WW1
+Germany – Saxony;20;EFILE_SON;SoN;Industrialism
+Germany – Third Reich;4;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+Germany – Third Reich;8;EFILE_Clu;Clu;WW2
+Germany – Third Reich;8;EFILE_OPENAK;OpenAK;WW2
+Germany – Third Reich;8;EFILE_BASEKORP;Basekorp;WW2
+Germany – Third Reich;8;EFILE_LXF;LXF;WW2
+Germany – Third Reich;8;EFILE_PzLIGA;PzLiga;WW2
+Germany – Third Reich;8;EFILE_OLGWW2;OpenLG WW2;WW2
+Germany – Third Reich;8;EFILE_OPENPG;OpenPG1;WW2
+Germany – Third Reich;8;EFILE_ROI;OpenLG WW2;WW2
+Germany – Third Reich;8;EFILE_COMWW2;Composite;WW2
+Germany – Third Reich;8;EFILE_ATOMIC;Atomic;WW2
+Germany – Third Reich;8;EFILE_OoB;OoB;WW2
+Germany – Third Reich;8;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Germany – Third Reich;8;EFILE_NOKORP;NOKorp;WW2
+Germany – Waffen SS;32;EFILE_ATOMIC;Atomic;WW2
+Germany – Waffen SS;32;EFILE_NOKORP;NOKorp;WW2
+Germany – Waffen SS;32;EFILE_OPENAK;OpenAK;WW2
+Germany – Waffen SS;1;EFILE_COMWW2;Composite;WW2
+Germany – Waffen SS;33;EFILE_OoB;OoB;WW2
+Germany – Waffen SS;32;EFILE_BASEKORP;Basekorp;WW2
+Germany – Weimar Republic;79;EFILE_OPENAK;OpenAK;WW2
+Germany – Württemberg;59;EFILE_KAISER;Kaiser;Imperialism/WW1
+Germany – Württemberg;19;EFILE_SON;SoN;Industrialism
+Giant Ants;3;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+Goths;32;EFILE_AG;Antique General;Antique
+Greece;9;EFILE_OPENPG;OpenPG1;WW2
+Greece;9;EFILE_ROI;OpenLG WW2;WW2
+Greece;29;EFILE_KAISER;Kaiser;Imperialism/WW1
+Greece;9;EFILE_COMWW2;Composite;WW2
+Greece;32;EFILE_SON;SoN;Industrialism
+Greece;9;EFILE_ATOMIC;Atomic;WW2
+Greece;9;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Greece;9;EFILE_NOKORP;NOKorp;WW2
+Greece;46;EFILE_LUPO;OpenLG CW;Modern
+Greece;9;EFILE_Clu;Clu;WW2
+Greece;46;EFILE_OLGCW;OpenLG CW;Modern
+Greece;24;EFILE_OoB;OoB;WW2
+Greece;9;EFILE_OPENAK;OpenAK;WW2
+Greece;9;EFILE_BASEKORP;Basekorp;WW2
+Greece;9;EFILE_PzLIGA;PzLiga;WW2
+Greece;40;EFILE_LXF;LXF;WW2
+Greece;9;EFILE_OLGWW2;OpenLG WW2;WW2
+Greece – Communists;83;EFILE_LXF;LXF;WW2
+Greece – Communists;49;EFILE_PzLIGA;PzLiga;WW2
+Greece – Communists;72;EFILE_ROI;OpenLG WW2;WW2
+Greece – Communists;72;EFILE_OLGWW2;OpenLG WW2;WW2
+Greece – Communists;80;EFILE_OPENAK;OpenAK;WW2
+Grenada;89;EFILE_LUPO;OpenLG CW;Modern
+Grenada;89;EFILE_OLGCW;OpenLG CW;Modern
+Heroes;74;EFILE_OoB;OoB;Fictional/Fantasy
+Hittites;11;EFILE_AG;Antique General;Antique
+Hungary;11;EFILE_OLGWW2;OpenLG WW2;WW2
+Hungary;11;EFILE_OPENPG;OpenPG1;WW2
+Hungary;11;EFILE_ROI;OpenLG WW2;WW2
+Hungary;11;EFILE_COMWW2;Composite;WW2
+Hungary;11;EFILE_ATOMIC;Atomic;WW2
+Hungary;11;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Hungary;5;EFILE_LXF;LXF;WW2
+Hungary;15;EFILE_OoB;OoB;WW2
+Hungary;11;EFILE_NOKORP;NOKorp;WW2
+Hungary;85;EFILE_KAISER;Kaiser;Industrialism
+Hungary;11;EFILE_Clu;Clu;WW2
+Hungary;5;EFILE_SON;SoN;Industrialism
+Hungary;11;EFILE_OPENAK;OpenAK;WW2
+Hungary;11;EFILE_BASEKORP;Basekorp;WW2
+Hungary;11;EFILE_PzLIGA;PzLiga;WW2
+Hungary – Communists;72;EFILE_LUPO;OpenLG CW;Modern
+Hungary – Communists;72;EFILE_OLGCW;OpenLG CW;Modern
+Hungary – Communists;73;EFILE_KAISER;Kaiser;Imperialism/WW1
+Huns;3;EFILE_AG;Antique General;Antique
+Iceland;72;EFILE_OoB;OoB;WW2
+Iceland;84;EFILE_OPENAK;OpenAK;WW2
+Illyrians;35;EFILE_AG;Antique General;Antique
+India – Azad Hindi (Axis);86;EFILE_OPENAK;OpenAK;WW2
+India – Azad Hindi (Axis);73;EFILE_ATOMIC;Atomic;WW2
+India – British;4;EFILE_COMWW2;Composite;WW2
+India – British;3;EFILE_LXF;LXF;WW2
+India – British;28;EFILE_PzLIGA;PzLiga;WW2
+India – British;87;EFILE_OPENAK;OpenAK;WW2
+India – British;21;EFILE_OLGWW2;OpenLG WW2;WW2
+India – British;21;EFILE_ROI;OpenLG WW2;WW2
+India – British;42;EFILE_OoB;OoB;WW2
+India – Free;58;EFILE_LXF;LXF;WW2
+India – Free;48;EFILE_OoB;OoB;WW2
+India – Free;102;EFILE_ATOMIC;Atomic;WW2
+India – Free;85;EFILE_OPENAK;OpenAK;WW2
+India – Free;62;EFILE_ROI;OpenLG WW2;WW2
+India – Free;62;EFILE_OLGWW2;OpenLG WW2;WW2
+India – Maurya Empire;18;EFILE_AG;Antique General;Antique
+India – Republic;74;EFILE_LXF;LXF;Modern
+India – Republic;17;EFILE_OPENPEG;OpenPeG;Modern
+India – Republic;21;EFILE_OLGCW;OpenLG CW;Modern
+India – Republic;21;EFILE_LUPO;OpenLG CW;Modern
+Indian Nations;45;EFILE_KAISER;Kaiser;Imperialism/WW1
+Indonesia;63;EFILE_LUPO;OpenLG CW;Modern
+Indonesia;63;EFILE_OLGCW;OpenLG CW;Modern
+Indonesia;27;EFILE_OPENPEG;OpenPeG;Modern
+Indonesia – Axis;64;EFILE_OoB;OoB;WW2
+Indonesia – Axis;88;EFILE_OPENAK;OpenAK;WW2
+Indonesia – Axis;54;EFILE_ROI;OpenLG WW2;WW2
+Indonesia – Axis;54;EFILE_OLGWW2;OpenLG WW2;WW2
+Indonesia – Axis;66;EFILE_LXF;LXF;WW2
+Indonesia – Axis;85;EFILE_ATOMIC;Atomic;WW2
+Iran – Islamic Republic;17;EFILE_OLGCW;OpenLG CW;Modern
+Iran – Islamic Republic;17;EFILE_LUPO;OpenLG CW;Modern
+Iran – Islamic Republic;4;EFILE_OPENPEG;OpenPeG;Modern
+Iran – Persia;33;EFILE_LXF;LXF;WW2
+Iran – Persia;32;EFILE_OLGWW2;OpenLG WW2;WW2
+Iran – Persia;46;EFILE_OoB;OoB;WW2
+Iran – Persia;115;EFILE_OPENAK;OpenAK;WW2
+Iran – Persia;33;EFILE_PzLIGA;PzLiga;WW2
+Iran – Persia;64;EFILE_ATOMIC;Atomic;WW2
+Iran – Persia;32;EFILE_ROI;OpenLG WW2;WW2
+Iraq – Kingdom;39;EFILE_OLGWW2;OpenLG WW2;WW2
+Iraq – Kingdom;65;EFILE_ATOMIC;Atomic;WW2
+Iraq – Kingdom;97;EFILE_LUPO;OpenLG CW;Modern
+Iraq – Kingdom;97;EFILE_OLGCW;OpenLG CW;Modern
+Iraq – Kingdom;45;EFILE_OoB;OoB;WW2
+Iraq – Kingdom;39;EFILE_PzLIGA;PzLiga;WW2
+Iraq – Kingdom;89;EFILE_OPENAK;OpenAK;WW2
+Iraq – Kingdom;39;EFILE_ROI;OpenLG WW2;WW2
+Iraq – Kingdom;31;EFILE_LXF;LXF;WW2
+Iraq – Republic;12;EFILE_OPENPEG;OpenPeG;Modern
+Iraq – Republic;16;EFILE_OLGCW;OpenLG CW;Modern
+Iraq – Republic;16;EFILE_LUPO;OpenLG CW;Modern
+Ireland;67;EFILE_ATOMIC;Atomic;WW2
+Ireland;68;EFILE_ROI;OpenLG WW2;WW2
+Ireland;73;EFILE_OoB;OoB;WW2
+Ireland;68;EFILE_OLGWW2;OpenLG WW2;WW2
+Ireland;90;EFILE_OPENAK;OpenAK;WW2
+Ireland;80;EFILE_LXF;LXF;WW2
+Ireland;53;EFILE_KAISER;Kaiser;Imperialism/WW1
+Irregular Forces;94;EFILE_LUPO;OpenLG CW;Modern
+Irregular Forces;98;EFILE_ATOMIC;Atomic;WW2
+Irregular Forces;94;EFILE_OLGCW;OpenLG CW;Modern
+Irregular Forces;63;EFILE_ATOMIC;Atomic;Modern
+Irregular Forces;2;EFILE_LXF;LXF;WW2
+Irregular Forces;76;EFILE_OoB;OoB;WW2
+Israel;15;EFILE_OPENPEG;OpenPeG;Modern
+Israel;6;EFILE_LUPO;OpenLG CW;Modern
+Israel;84;EFILE_ATOMIC;Atomic;Modern
+Israel;91;EFILE_OPENAK;OpenAK;Modern
+Israel;6;EFILE_OLGCW;OpenLG CW;Modern
+Italy;13;EFILE_OPENAK;OpenAK;WW2
+Italy;13;EFILE_BASEKORP;Basekorp;WW2
+Italy;27;EFILE_KAISER;Kaiser;Imperialism/WW1
+Italy;13;EFILE_LXF;LXF;WW2
+Italy;13;EFILE_PzLIGA;PzLiga;WW2
+Italy;13;EFILE_OLGWW2;OpenLG WW2;WW2
+Italy;13;EFILE_OPENPG;OpenPG1;WW2
+Italy;13;EFILE_ROI;OpenLG WW2;WW2
+Italy;13;EFILE_ATOMIC;Atomic;WW2
+Italy;13;EFILE_COMWW2;Composite;WW2
+Italy;13;EFILE_OoB;OoB;WW2
+Italy;13;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Italy;41;EFILE_LUPO;OpenLG CW;Modern
+Italy;13;EFILE_NOKORP;NOKorp;WW2
+Italy;41;EFILE_OLGCW;OpenLG CW;Modern
+Italy;13;EFILE_Clu;Clu;WW2
+Italy – Co-Belligerent Army;92;EFILE_OPENAK;OpenAK;WW2
+Italy – Co-Belligerent Army;92;EFILE_ATOMIC;Atomic;WW2
+Italy – Corpo Truppe Volontarie / CTV;13;EFILE_GCE;GCE;WW2
+Italy – Garibaldines;64;EFILE_KAISER;Kaiser;Imperialism/WW1
+Italy – Piedmont-Sardinia;6;EFILE_SON;SoN;Industrialism
+Italy – Piedmont-Sardinia;62;EFILE_KAISER;Kaiser;Imperialism/WW1
+Italy – Salo / RSI;93;EFILE_OPENAK;OpenAK;WW2
+Italy – Salo / RSI;35;EFILE_LXF;LXF;WW2
+Italy – Salo / RSI;45;EFILE_ROI;OpenLG WW2;WW2
+Italy – Salo / RSI;91;EFILE_ATOMIC;Atomic;WW2
+Italy – Salo / RSI;45;EFILE_OLGWW2;OpenLG WW2;WW2
+Italy – Salo / RSI;35;EFILE_OoB;OoB;WW2
+Italy – Sicily;30;EFILE_SON;SoN;Industrialism
+Italy – Sicily;82;EFILE_KAISER;Kaiser;Imperialism/WW1
+Italy – Tuscany;31;EFILE_SON;SoN;Industrialism
+Italy – Venice;83;EFILE_KAISER;Kaiser;Industrialism
+Italy – Venice;1;EFILE_SON;SoN;Industrialism
+Japan;34;EFILE_BASEKORP;Basekorp;WW2
+Japan;27;EFILE_OLGWW2;OpenLG WW2;WW2
+Japan;6;EFILE_LXF;LXF;WW2
+Japan;27;EFILE_ROI;OpenLG WW2;WW2
+Japan;34;EFILE_ATOMIC;Atomic;WW2
+Japan;24;EFILE_KAISER;Kaiser;Imperialism/WW1
+Japan;23;EFILE_OPENPEG;OpenPeG;Modern
+Japan;34;EFILE_NOKORP;NOKorp;WW2
+Japan;34;EFILE_OPENAK;OpenAK;WW2
+Japan;4;EFILE_PzLIGA;PzLiga;WW2
+Japan;9;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+Japan;59;EFILE_LUPO;OpenLG CW;Modern
+Japan;51;EFILE_OoB;OoB;WW2
+Japan;59;EFILE_OLGCW;OpenLG CW;Modern
+Japan;21;EFILE_COMWW2;Composite;WW2
+Japan – Navy;35;EFILE_OPENAK;OpenAK;WW2
+Japan – Navy;35;EFILE_BASEKORP;Basekorp;WW2
+Japan – Navy;35;EFILE_ATOMIC;Atomic;WW2
+Jews;33;EFILE_AG;Antique General;Antique
+Jordan;15;EFILE_OLGCW;OpenLG CW;Modern
+Jordan;15;EFILE_LUPO;OpenLG CW;Modern
+Jordan;94;EFILE_OPENAK;OpenAK;Modern
+Jordan;36;EFILE_OPENPEG;OpenPeG;Modern
+Jordan;88;EFILE_ATOMIC;Atomic;Modern
+Kaiju;116;EFILE_ATOMIC;Atomic;Fictional
+Katanga;106;EFILE_OLGCW;OpenLG CW;Modern
+Katanga;106;EFILE_LUPO;OpenLG CW;Modern
+Kazakhstan;74;EFILE_LUPO;OpenLG CW;Modern
+Kazakhstan;74;EFILE_OLGCW;OpenLG CW;Modern
+Kazakhstan;30;EFILE_OPENPEG;OpenPeG;Modern
+Kosovo;56;EFILE_LUPO;OpenLG CW;Modern
+Kosovo;56;EFILE_OLGCW;OpenLG CW;Modern
+Kurdish Factions;88;EFILE_LUPO;OpenLG CW;Modern
+Kurdish Factions;88;EFILE_OLGCW;OpenLG CW;Modern
+Kuwait;36;EFILE_OLGCW;OpenLG CW;Modern
+Kuwait;36;EFILE_LUPO;OpenLG CW;Modern
+Kuwait;13;EFILE_OPENPEG;OpenPeG;Modern
+Laos – Communists;90;EFILE_LUPO;OpenLG CW;Modern
+Laos – Communists;90;EFILE_OLGCW;OpenLG CW;Modern
+Laos – Kingdom;97;EFILE_OPENAK;OpenAK;Modern
+Laos – Kingdom;92;EFILE_LUPO;OpenLG CW;Modern
+Laos – Kingdom;92;EFILE_OLGCW;OpenLG CW;Modern
+Latvia;58;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Latvia;2;EFILE_KAISER;Kaiser;Imperialism/WW1
+Latvia – Axis;60;EFILE_LXF;LXF;WW2
+Latvia – Axis;31;EFILE_OoB;OoB;WW2
+Latvia – Axis;98;EFILE_OPENAK;OpenAK;WW2
+Lebanon;35;EFILE_OLGCW;OpenLG CW;Modern
+Lebanon;35;EFILE_LUPO;OpenLG CW;Modern
+Lebanon;89;EFILE_ATOMIC;Atomic;Modern
+Lebanon – French Mandate;99;EFILE_OPENAK;OpenAK;WW2
+Libya – Arab Republic;69;EFILE_LUPO;OpenLG CW;Modern
+Libya – Arab Republic;69;EFILE_OLGCW;OpenLG CW;Modern
+Libya – Rebels;113;EFILE_OLGCW;OpenLG CW;Modern
+Libya – Rebels;113;EFILE_LUPO;OpenLG CW;Modern
+Libya – Senussi Order;100;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Lithuania;59;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Lithuania;12;EFILE_KAISER;Kaiser;Imperialism/WW1
+Lithuania – Axis;103;EFILE_OPENAK;OpenAK;WW2
+Lithuania – Axis;32;EFILE_OoB;OoB;WW2
+Lithuania – Axis;61;EFILE_LXF;LXF;WW2
+Lithuania – Central;81;EFILE_KAISER;Kaiser;Imperialism/WW1
+Luxembourg;96;EFILE_ATOMIC;Atomic;WW2
+Luxembourg;104;EFILE_OPENAK;OpenAK;WW2
+Luxembourg;71;EFILE_OoB;OoB;WW2
+Macedonia – Kingdom;16;EFILE_AG;Antique General;Antique
+Majas;26;EFILE_AG;Antique General;Antique
+Malaysia;31;EFILE_OPENPEG;OpenPeG;Modern
+Malaysia;75;EFILE_LUPO;OpenLG CW;Modern
+Malaysia;75;EFILE_OLGCW;OpenLG CW;Modern
+Manchukuo;36;EFILE_PzLIGA;PzLiga;WW2
+Manchukuo;52;EFILE_OoB;OoB;WW2
+Manchukuo;25;EFILE_LXF;LXF;WW2
+Manchukuo;31;EFILE_COMWW2;Composite;WW2
+Manchukuo;52;EFILE_ATOMIC;Atomic;WW2
+Manchukuo;105;EFILE_OPENAK;OpenAK;WW2
+Manchukuo;37;EFILE_ROI;OpenLG WW2;WW2
+Manchukuo;37;EFILE_OLGWW2;OpenLG WW2;WW2
+Mexico – Empire;76;EFILE_KAISER;Kaiser;Imperialism/WW1
+Mexico – Rebels;49;EFILE_KAISER;Kaiser;Imperialism/WW1
+Mexico – Republic;23;EFILE_SON;SoN;Industrialism
+Mexico – Republic;70;EFILE_ATOMIC;Atomic;WW2
+Mexico – Republic;42;EFILE_KAISER;Kaiser;Imperialism/WW1
+Mexico – Republic;65;EFILE_ROI;OpenLG WW2;WW2
+Mexico – Republic;82;EFILE_LXF;LXF;WW2
+Mexico – Republic;65;EFILE_OLGWW2;OpenLG WW2;WW2
+Mexico – Republic;107;EFILE_OPENAK;OpenAK;WW2
+Mongolia;38;EFILE_PzLIGA;PzLiga;WW2
+Mongolia;38;EFILE_ROI;OpenLG WW2;WW2
+Mongolia;108;EFILE_OPENAK;OpenAK;WW2
+Mongolia;28;EFILE_OPENPEG;OpenPeG;Modern
+Mongolia;60;EFILE_LUPO;OpenLG CW;Modern
+Mongolia;59;EFILE_OoB;OoB;WW2
+Mongolia;38;EFILE_OLGWW2;OpenLG WW2;WW2
+Mongolia;60;EFILE_OLGCW;OpenLG CW;Modern
+Mongolia;53;EFILE_ATOMIC;Atomic;WW2
+Mongolia;24;EFILE_LXF;LXF;WW2
+Montenegro;56;EFILE_KAISER;Kaiser;Imperialism/WW1
+Montoneros;112;EFILE_OLGCW;OpenLG CW;Modern
+Montoneros;112;EFILE_LUPO;OpenLG CW;Modern
+Morocco;67;EFILE_LUPO;OpenLG CW;Modern
+Morocco;67;EFILE_OLGCW;OpenLG CW;Modern
+Morocco;32;EFILE_KAISER;Kaiser;Imperialism/WW1
+Namibia – SWAPO;81;EFILE_LUPO;OpenLG CW;Modern
+Namibia – SWAPO;81;EFILE_OLGCW;OpenLG CW;Modern
+Natives;25;EFILE_AG;Antique General;Antique
+Natives;29;EFILE_SON;SoN;Industrialism
+Natives;30;EFILE_KAISER;Kaiser;Imperialism/WW1
+NATO;13;EFILE_OLGCW;OpenLG CW;Modern
+NATO;13;EFILE_LUPO;OpenLG CW;Modern
+Netherlands;5;EFILE_OoB;OoB;WW2
+Netherlands;14;EFILE_ATOMIC;Atomic;WW2
+Netherlands;14;EFILE_COMWW2;Composite;WW2
+Netherlands;14;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Netherlands;14;EFILE_NOKORP;NOKorp;WW2
+Netherlands;44;EFILE_LUPO;OpenLG CW;Modern
+Netherlands;14;EFILE_Clu;Clu;WW2
+Netherlands;44;EFILE_OLGCW;OpenLG CW;Modern
+Netherlands;14;EFILE_OPENAK;OpenAK;WW2
+Netherlands;14;EFILE_BASEKORP;Basekorp;WW2
+Netherlands;14;EFILE_PzLIGA;PzLiga;WW2
+Netherlands;14;EFILE_OLGWW2;OpenLG WW2;WW2
+Netherlands;14;EFILE_ROI;OpenLG WW2;WW2
+Netherlands;14;EFILE_OPENPG;OpenPG1;WW2
+Netherlands;18;EFILE_LXF;LXF;WW2
+Netherlands;28;EFILE_SON;SoN;Industrialism
+New Zealand;30;EFILE_COMWW2;Composite;WW2
+New Zealand;30;EFILE_ATOMIC;Atomic;WW2
+New Zealand;22;EFILE_PzLIGA;PzLiga;WW2
+New Zealand;30;EFILE_NASHORNPBEM;Adlerkorps;WW2
+New Zealand;49;EFILE_LUPO;OpenLG CW;Modern
+New Zealand;41;EFILE_OoB;OoB;WW2
+New Zealand;49;EFILE_OLGCW;OpenLG CW;Modern
+New Zealand;1;EFILE_LXF;LXF;WW2
+New Zealand;30;EFILE_NOKORP;NOKorp;WW2
+New Zealand;30;EFILE_OPENAK;OpenAK;WW2
+New Zealand;30;EFILE_BASEKORP;Basekorp;WW2
+New Zealand;21;EFILE_OPENPG;OpenPG1;WW2
+New Zealand;30;EFILE_OLGWW2;OpenLG WW2;WW2
+New Zealand;30;EFILE_ROI;OpenLG WW2;WW2
+Nigeria;105;EFILE_OLGCW;OpenLG CW;Modern
+Nigeria;105;EFILE_LUPO;OpenLG CW;Modern
+North Korea;22;EFILE_LUPO;OpenLG CW;Modern
+North Korea;44;EFILE_ATOMIC;Atomic;Modern
+North Korea;26;EFILE_LXF;LXF;Modern
+North Korea;95;EFILE_OPENAK;OpenAK;Modern
+North Korea;22;EFILE_OLGWW2;OpenLG WW2;Modern
+North Korea;22;EFILE_ROI;OpenLG WW2;Modern
+North Korea;5;EFILE_OPENPEG;OpenPeG;Modern
+North Korea;63;EFILE_OoB;OoB;Modern
+North Korea;22;EFILE_OLGCW;OpenLG CW;Modern
+Norway;15;EFILE_Clu;Clu;WW2
+Norway;45;EFILE_OLGCW;OpenLG CW;Modern
+Norway;15;EFILE_OPENAK;OpenAK;WW2
+Norway;15;EFILE_BASEKORP;Basekorp;WW2
+Norway;15;EFILE_PzLIGA;PzLiga;WW2
+Norway;15;EFILE_OLGWW2;OpenLG WW2;WW2
+Norway;15;EFILE_ROI;OpenLG WW2;WW2
+Norway;15;EFILE_OPENPG;OpenPG1;WW2
+Norway;4;EFILE_OoB;OoB;WW2
+Norway;41;EFILE_LXF;LXF;WW2
+Norway;15;EFILE_ATOMIC;Atomic;WW2
+Norway;15;EFILE_COMWW2;Composite;WW2
+Norway;15;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Norway;15;EFILE_NOKORP;NOKorp;WW2
+Norway;45;EFILE_LUPO;OpenLG CW;Modern
+Nubians;31;EFILE_AG;Antique General;Antique
+Numidians;19;EFILE_AG;Antique General;Antique
+Obodu;38;EFILE_NOKORP;NOKorp;Fictional/Fantasy
+Ordrac;40;EFILE_NOKORP;NOKorp;Fictional/Fantasy
+Pakistan;103;EFILE_ATOMIC;Atomic;WW2
+Pakistan;19;EFILE_OPENPEG;OpenPeG;Modern
+Pakistan;30;EFILE_OLGCW;OpenLG CW;Modern
+Pakistan;30;EFILE_LUPO;OpenLG CW;Modern
+Pakistan;112;EFILE_OPENAK;OpenAK;WW2
+Pakistan;75;EFILE_LXF;LXF;WW2
+Palestine – Arab Liberation Army;99;EFILE_LUPO;OpenLG CW;Modern
+Palestine – Arab Liberation Army;99;EFILE_OLGCW;OpenLG CW;Modern
+Palestine – British;53;EFILE_ROI;OpenLG WW2;WW2
+Palestine – British;53;EFILE_OLGWW2;OpenLG WW2;WW2
+Palestine / PLO;40;EFILE_LUPO;OpenLG CW;Modern
+Palestine / PLO;40;EFILE_OLGCW;OpenLG CW;Modern
+Palestine / PLO;37;EFILE_OPENPEG;OpenPeG;Modern
+Panama;70;EFILE_LUPO;OpenLG CW;Modern
+Panama;70;EFILE_OLGCW;OpenLG CW;Modern
+Papal States;80;EFILE_KAISER;Kaiser;Imperialism/WW1
+Paraguay;41;EFILE_ROI;OpenLG WW2;WW2
+Paraguay;41;EFILE_OLGWW2;OpenLG WW2;WW2
+Paraguay;114;EFILE_OPENAK;OpenAK;WW2
+Paraguay;77;EFILE_ATOMIC;Atomic;WW2
+Paraguay;72;EFILE_LXF;LXF;WW2
+Parthians;21;EFILE_AG;Antique General;Antique
+Pegasus;5;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+Persia;17;EFILE_AG;Antique General;Antique
+Peru;43;EFILE_ROI;OpenLG WW2;WW2
+Peru;69;EFILE_LXF;LXF;WW2
+Peru;43;EFILE_OLGWW2;OpenLG WW2;WW2
+Peru;40;EFILE_KAISER;Kaiser;Imperialism/WW1
+Peru;108;EFILE_ATOMIC;Atomic;WW2
+Peru;116;EFILE_OPENAK;OpenAK;WW2
+Philippines;86;EFILE_LUPO;OpenLG CW;Modern
+Philippines;86;EFILE_OLGCW;OpenLG CW;Modern
+Philippines;17;EFILE_LXF;LXF;WW2
+Philippines;117;EFILE_OPENAK;OpenAK;WW2
+Philippines;56;EFILE_ROI;OpenLG WW2;WW2
+Philippines;56;EFILE_OLGWW2;OpenLG WW2;WW2
+Philippines;21;EFILE_PzLIGA;PzLiga;WW2
+Philippines;55;EFILE_ATOMIC;Atomic;WW2
+Philippines;60;EFILE_OoB;OoB;WW2
+Philippines – Rebels;51;EFILE_KAISER;Kaiser;Imperialism/WW1
+Phoenix Guard;15;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+Picts;37;EFILE_AG;Antique General;Antique
+Pointless Nation in OpenAK;126;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;142;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;61;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;111;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;70;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;135;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;68;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;43;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;144;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;59;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;113;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;137;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;66;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;50;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;41;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;130;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;81;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;57;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;124;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;139;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;64;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;132;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;83;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;101;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;76;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;141;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;62;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;110;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;134;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;102;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;127;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;60;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;121;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;136;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;73;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;131;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;82;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;56;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;125;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;63;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;133;EFILE_OPENAK;OpenAK;WW2
+Pointless Nation in OpenAK;100;EFILE_OPENAK;OpenAK;WW2
+Poland;16;EFILE_ATOMIC;Atomic;WW2
+Poland;16;EFILE_COMWW2;Composite;WW2
+Poland;16;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Poland;2;EFILE_OoB;OoB;WW2
+Poland;10;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+Poland;16;EFILE_NOKORP;NOKorp;WW2
+Poland;21;EFILE_LXF;LXF;WW2
+Poland;16;EFILE_OPENAK;OpenAK;WW2
+Poland;16;EFILE_BASEKORP;Basekorp;WW2
+Poland;16;EFILE_PzLIGA;PzLiga;WW2
+Poland;16;EFILE_KAISER;Kaiser;Imperialism/WW1
+Poland;16;EFILE_OLGWW2;OpenLG WW2;WW2
+Poland;16;EFILE_ROI;OpenLG WW2;WW2
+Poland;16;EFILE_OPENPG;OpenPG1;WW2
+Poland;7;EFILE_SON;SoN;Industrialism
+Poland – Communists;33;EFILE_OLGCW;OpenLG CW;Modern
+Poland – Communists;33;EFILE_LUPO;OpenLG CW;Modern
+Poland – Communists / LWP;47;EFILE_ROI;OpenLG WW2;WW2
+Poland – Communists / LWP;47;EFILE_OLGWW2;OpenLG WW2;WW2
+Poland – Communists / LWP;16;EFILE_Clu;Clu;WW2
+Poland – Communists / LWP;118;EFILE_OPENAK;OpenAK;WW2
+Polynesians;27;EFILE_AG;Antique General;Antique
+Portugal;17;EFILE_NOKORP;NOKorp;WW2
+Portugal;17;EFILE_Clu;Clu;WW2
+Portugal;37;EFILE_LXF;LXF;WW2
+Portugal;17;EFILE_OPENAK;OpenAK;WW2
+Portugal;17;EFILE_BASEKORP;Basekorp;WW2
+Portugal;17;EFILE_KAISER;Kaiser;Imperialism/WW1
+Portugal;27;EFILE_SON;SoN;Industrialism
+Portugal;33;EFILE_ROI;OpenLG WW2;WW2
+Portugal;33;EFILE_OLGWW2;OpenLG WW2;WW2
+Portugal;17;EFILE_ATOMIC;Atomic;WW2
+Portugal;24;EFILE_GCE;GCE;WW2
+Portugal;34;EFILE_OLGCW;OpenLG CW;Modern
+Portugal;34;EFILE_LUPO;OpenLG CW;Modern
+Portugal;34;EFILE_PzLIGA;PzLiga;WW2
+Portugal;17;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Portugal;28;EFILE_OoB;OoB;WW2
+Rebels / Revolutionaries;15;EFILE_KAISER;Kaiser;Imperialism/WW1
+Rebels / Revolutionaries;74;EFILE_OPENAK;OpenAK;WW2
+Rebels / Revolutionaries;4;EFILE_AG;Antique General;Antique
+Rebels / Revolutionaries;9;EFILE_OLGCW;OpenLG CW;Modern
+Rebels / Revolutionaries;9;EFILE_LUPO;OpenLG CW;Modern
+Rebels / Revolutionaries;65;EFILE_OoB;OoB;WW2
+Rhodesia;71;EFILE_LUPO;OpenLG CW;Modern
+Rhodesia;71;EFILE_OLGCW;OpenLG CW;Modern
+Rif Tribes;62;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Rif Tribes;31;EFILE_KAISER;Kaiser;Imperialism/WW1
+Rif Tribes;109;EFILE_OPENAK;OpenAK;Imperialism/WW1
+Roman Empire;1;EFILE_AG;Antique General;Antique
+Roman Rebels;30;EFILE_AG;Antique General;Antique
+Romania;18;EFILE_OLGWW2;OpenLG WW2;WW2
+Romania;18;EFILE_ROI;OpenLG WW2;WW2
+Romania;18;EFILE_OPENPG;OpenPG1;WW2
+Romania;18;EFILE_ATOMIC;Atomic;WW2
+Romania;18;EFILE_COMWW2;Composite;WW2
+Romania;18;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Romania;18;EFILE_NOKORP;NOKorp;WW2
+Romania;14;EFILE_LXF;LXF;WW2
+Romania;18;EFILE_Clu;Clu;WW2
+Romania;17;EFILE_OoB;OoB;WW2
+Romania;18;EFILE_OPENAK;OpenAK;WW2
+Romania;18;EFILE_BASEKORP;Basekorp;WW2
+Romania;18;EFILE_PzLIGA;PzLiga;WW2
+Romania;18;EFILE_KAISER;Kaiser;Imperialism/WW1
+Romania – Communists;51;EFILE_LUPO;OpenLG CW;Modern
+Romania – Communists;51;EFILE_OLGCW;OpenLG CW;Modern
+Romania – Communists;119;EFILE_OPENAK;OpenAK;Modern
+Russia – Axis;104;EFILE_ATOMIC;Atomic;WW2
+Russia – Axis;120;EFILE_OPENAK;OpenAK;WW2
+Russia – Axis;34;EFILE_OoB;OoB;WW2
+Russia – Axis;62;EFILE_LXF;LXF;WW2
+Russia – Communists;57;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Russia – Communists;20;EFILE_KAISER;Kaiser;Imperialism/WW1
+Russia – Empire;3;EFILE_SON;SoN;Industrialism
+Russia – Empire;25;EFILE_KAISER;Kaiser;Imperialism/WW1
+Russia – Green Armies;75;EFILE_KAISER;Kaiser;Imperialism/WW1
+Russia – Republic;5;EFILE_OLGCW;OpenLG CW;Modern
+Russia – Republic;5;EFILE_LUPO;OpenLG CW;Modern
+Russia – Republic;2;EFILE_OPENPEG;OpenPeG;Modern
+Russia – White;54;EFILE_KAISER;Kaiser;Imperialism/WW1
+Russia – White;48;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Sarmatians;42;EFILE_AG;Antique General;Antique
+Saudi Arabia;31;EFILE_OLGCW;OpenLG CW;Modern
+Saudi Arabia;31;EFILE_LUPO;OpenLG CW;Modern
+Saudi Arabia;122;EFILE_OPENAK;OpenAK;WW2
+Saudi Arabia;76;EFILE_LXF;LXF;WW2
+Saudi Arabia;7;EFILE_OPENPEG;OpenPeG;Modern
+Saudi Arabia;94;EFILE_ATOMIC;Atomic;WW2
+Saxons;28;EFILE_AG;Antique General;Antique
+Scoti;43;EFILE_AG;Antique General;Antique
+Serbia;55;EFILE_LUPO;OpenLG CW;Modern
+Serbia;55;EFILE_OLGCW;OpenLG CW;Modern
+Serbia – Government of National Salvation (Axis);69;EFILE_OoB;OoB;WW2
+Serbia – Government of National Salvation (Axis);71;EFILE_OLGWW2;OpenLG WW2;WW2
+Serbia – Government of National Salvation (Axis);45;EFILE_PzLIGA;PzLiga;WW2
+Serbia – Government of National Salvation (Axis);68;EFILE_LXF;LXF;WW2
+Serbia – Government of National Salvation (Axis);123;EFILE_OPENAK;OpenAK;WW2
+Serbia – Government of National Salvation (Axis);72;EFILE_ATOMIC;Atomic;WW2
+Serbia – Government of National Salvation (Axis);71;EFILE_ROI;OpenLG WW2;WW2
+Serbia – Kingdom;28;EFILE_KAISER;Kaiser;Imperialism/WW1
+Singapore;62;EFILE_LUPO;OpenLG CW;Modern
+Singapore;62;EFILE_OLGCW;OpenLG CW;Modern
+Singapore;22;EFILE_OPENPEG;OpenPeG;Modern
+Skythians;22;EFILE_AG;Antique General;Antique
+Slovakia;1;EFILE_NOKORP;NOKorp;WW2
+Slovakia;16;EFILE_OoB;OoB;WW2
+Slovakia;1;EFILE_OPENAK;OpenAK;WW2
+Slovakia;29;EFILE_COMWW2;Composite;WW2
+Slovakia;1;EFILE_OLGWW2;OpenLG WW2;WW2
+Slovakia;1;EFILE_BASEKORP;Basekorp;WW2
+Slovakia;17;EFILE_OPENPG;OpenPG1;WW2
+Slovakia;1;EFILE_ROI;OpenLG WW2;WW2
+Slovakia;37;EFILE_PzLIGA;PzLiga;WW2
+Slovakia;38;EFILE_LXF;LXF;WW2
+Slovakia;1;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Slovakia;1;EFILE_ATOMIC;Atomic;WW2
+Slovenia;57;EFILE_LUPO;OpenLG CW;Modern
+Slovenia;57;EFILE_OLGCW;OpenLG CW;Modern
+Socialist States;12;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+South Africa;49;EFILE_LXF;LXF;WW2
+South Africa;31;EFILE_NOKORP;NOKorp;WW2
+South Africa;31;EFILE_OPENAK;OpenAK;WW2
+South Africa;31;EFILE_BASEKORP;Basekorp;WW2
+South Africa;43;EFILE_OoB;OoB;WW2
+South Africa;17;EFILE_OLGWW2;OpenLG WW2;WW2
+South Africa;17;EFILE_ROI;OpenLG WW2;WW2
+South Africa;31;EFILE_ATOMIC;Atomic;WW2
+South Africa;32;EFILE_PzLIGA;PzLiga;WW2
+South Africa;31;EFILE_NASHORNPBEM;Adlerkorps;WW2
+South Africa;29;EFILE_OLGCW;OpenLG CW;Modern
+South Africa;29;EFILE_LUPO;OpenLG CW;Modern
+South Africa – Boer States;14;EFILE_KAISER;Kaiser;Imperialism/WW1
+South Korea;62;EFILE_OoB;OoB;Modern
+South Korea;12;EFILE_OLGCW;OpenLG CW;Modern
+South Korea;43;EFILE_ATOMIC;Atomic;Modern
+South Korea;12;EFILE_LUPO;OpenLG CW;Modern
+South Korea;19;EFILE_LXF;LXF;Modern
+South Korea;12;EFILE_OLGWW2;OpenLG WW2;Modern
+South Korea;96;EFILE_OPENAK;OpenAK;Modern
+South Korea;12;EFILE_ROI;OpenLG WW2;Modern
+South Korea;6;EFILE_OPENPEG;OpenPeG;Modern
+South Ossetia;114;EFILE_OLGCW;OpenLG CW;Modern
+South Ossetia;114;EFILE_LUPO;OpenLG CW;Modern
+Soviet Union – USSR;20;EFILE_LXF;LXF;WW2
+Soviet Union – USSR;20;EFILE_PzLIGA;PzLiga;WW2
+Soviet Union – USSR;20;EFILE_OLGWW2;OpenLG WW2;WW2
+Soviet Union – USSR;20;EFILE_ROI;OpenLG WW2;WW2
+Soviet Union – USSR;20;EFILE_OPENPG;OpenPG1;WW2
+Soviet Union – USSR;20;EFILE_ATOMIC;Atomic;WW2
+Soviet Union – USSR;20;EFILE_COMWW2;Composite;WW2
+Soviet Union – USSR;20;EFILE_OoB;OoB;WW2
+Soviet Union – USSR;20;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Soviet Union – USSR;32;EFILE_OPENPEG;OpenPeG;Modern
+Soviet Union – USSR;20;EFILE_NOKORP;NOKorp;WW2
+Soviet Union – USSR;20;EFILE_OLGCW;OpenLG CW;Modern
+Soviet Union – USSR;20;EFILE_Clu;Clu;WW2
+Soviet Union – USSR;20;EFILE_LUPO;OpenLG CW;Modern
+Soviet Union – USSR;2;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+Soviet Union – USSR;20;EFILE_OPENAK;OpenAK;WW2
+Soviet Union – USSR;20;EFILE_BASEKORP;Basekorp;WW2
+Spain – Basques;36;EFILE_BASEKORP;Basekorp;WW2
+Spain – Basques;2;EFILE_GCE;GCE;WW2
+Spain – Basques;36;EFILE_ATOMIC;Atomic;WW2
+Spain – Basques;36;EFILE_NOKORP;NOKorp;WW2
+Spain – Basques;36;EFILE_OPENAK;OpenAK;WW2
+Spain – Brigadas Internacionales;5;EFILE_GCE;GCE;WW2
+Spain – Brigadas Internacionales;97;EFILE_ATOMIC;Atomic;WW2
+Spain – Carlists;44;EFILE_KAISER;Kaiser;Imperialism/WW1
+Spain – Carlists;6;EFILE_GCE;GCE;WW2
+Spain – CNT-FAI;1;EFILE_GCE;GCE;WW2
+Spain – Communists;9;EFILE_GCE;GCE;WW2
+Spain – Communists;58;EFILE_ROI;OpenLG WW2;WW2
+Spain – Communists;58;EFILE_OLGWW2;OpenLG WW2;WW2
+Spain – División Azul;25;EFILE_Clu;Clu;WW2
+Spain – División Azul;99;EFILE_ATOMIC;Atomic;WW2
+Spain – Falange;7;EFILE_GCE;GCE;WW2
+Spain – Kingdom;26;EFILE_KAISER;Kaiser;Imperialism/WW1
+Spain – Kingdom;32;EFILE_OLGCW;OpenLG CW;Modern
+Spain – Kingdom;32;EFILE_LUPO;OpenLG CW;Modern
+Spain – Kingdom;15;EFILE_SON;SoN;Industrialism
+Spain – Kingdom;66;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Spain – Nationalists;25;EFILE_ROI;OpenLG WW2;WW2
+Spain – Nationalists;4;EFILE_OPENPG;OpenPG1;WW2
+Spain – Nationalists;25;EFILE_ATOMIC;Atomic;WW2
+Spain – Nationalists;25;EFILE_COMWW2;Composite;WW2
+Spain – Nationalists;25;EFILE_GCE;GCE;WW2
+Spain – Nationalists;19;EFILE_Clu;Clu;WW2
+Spain – Nationalists;25;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Spain – Nationalists;27;EFILE_OoB;OoB;WW2
+Spain – Nationalists;25;EFILE_NOKORP;NOKorp;WW2
+Spain – Nationalists;25;EFILE_OPENAK;OpenAK;WW2
+Spain – Nationalists;25;EFILE_BASEKORP;Basekorp;WW2
+Spain – Nationalists;29;EFILE_LXF;LXF;WW2
+Spain – Nationalists;25;EFILE_PzLIGA;PzLiga;WW2
+Spain – Nationalists;25;EFILE_OLGWW2;OpenLG WW2;WW2
+Spain – POUM;3;EFILE_GCE;GCE;WW2
+Spain – Republicans;26;EFILE_Clu;Clu;WW2
+Spain – Republicans;26;EFILE_NOKORP;NOKorp;WW2
+Spain – Republicans;26;EFILE_OPENAK;OpenAK;WW2
+Spain – Republicans;26;EFILE_BASEKORP;Basekorp;WW2
+Spain – Republicans;26;EFILE_PzLIGA;PzLiga;WW2
+Spain – Republicans;1;EFILE_OPENPG;OpenPG1;WW2
+Spain – Republicans;26;EFILE_OLGWW2;OpenLG WW2;WW2
+Spain – Republicans;26;EFILE_ROI;OpenLG WW2;WW2
+Spain – Republicans;27;EFILE_LXF;LXF;WW2
+Spain – Republicans;26;EFILE_ATOMIC;Atomic;WW2
+Spain – Republicans;26;EFILE_COMWW2;Composite;WW2
+Spain – Republicans;26;EFILE_GCE;GCE;WW2
+Spain – Republicans;26;EFILE_OoB;OoB;WW2
+Spain – Republicans;26;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Spain – Socialists;4;EFILE_GCE;GCE;WW2
+Spartans;14;EFILE_AG;Antique General;Antique
+Sudan;47;EFILE_KAISER;Kaiser;Imperialism/WW1
+Sweden;14;EFILE_SON;SoN;Industrialism
+Sweden;21;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Sweden;21;EFILE_NOKORP;NOKorp;WW2
+Sweden;11;EFILE_OoB;OoB;WW2
+Sweden;21;EFILE_Clu;Clu;WW2
+Sweden;21;EFILE_OPENAK;OpenAK;WW2
+Sweden;21;EFILE_BASEKORP;Basekorp;WW2
+Sweden;50;EFILE_LXF;LXF;WW2
+Sweden;46;EFILE_PzLIGA;PzLiga;WW2
+Sweden;64;EFILE_LUPO;OpenLG CW;Modern
+Sweden;64;EFILE_OLGCW;OpenLG CW;Modern
+Sweden;21;EFILE_ATOMIC;Atomic;WW2
+Switzerland;68;EFILE_ATOMIC;Atomic;WW2
+Switzerland;128;EFILE_OPENAK;OpenAK;WW2
+Switzerland;42;EFILE_PzLIGA;PzLiga;WW2
+Switzerland;60;EFILE_ROI;OpenLG WW2;WW2
+Switzerland;45;EFILE_LXF;LXF;WW2
+Switzerland;66;EFILE_LUPO;OpenLG CW;Modern
+Switzerland;60;EFILE_OLGWW2;OpenLG WW2;WW2
+Switzerland;66;EFILE_OLGCW;OpenLG CW;Modern
+Switzerland;12;EFILE_OoB;OoB;WW2
+Switzerland;22;EFILE_Clu;Clu;WW2
+Syria – Arab Republic;3;EFILE_OLGCW;OpenLG CW;Modern
+Syria – Arab Republic;3;EFILE_LUPO;OpenLG CW;Modern
+Syria – Arab Republic;14;EFILE_OPENPEG;OpenPeG;Modern
+Syria – Republic;96;EFILE_LUPO;OpenLG CW;Modern
+Syria – Republic;83;EFILE_ATOMIC;Atomic;Modern
+Syria – Republic;129;EFILE_OPENAK;OpenAK;Modern
+Syria – Republic;96;EFILE_OLGCW;OpenLG CW;Modern
+Tanzania;109;EFILE_OLGCW;OpenLG CW;Modern
+Tanzania;109;EFILE_LUPO;OpenLG CW;Modern
+Texas;22;EFILE_SON;SoN;Industrialism
+Thailand;61;EFILE_OLGCW;OpenLG CW;Modern
+Thailand;34;EFILE_ROI;OpenLG WW2;WW2
+Thailand;15;EFILE_LXF;LXF;WW2
+Thailand;10;EFILE_OPENPEG;OpenPeG;Modern
+Thailand;34;EFILE_OLGWW2;OpenLG WW2;WW2
+Thailand;54;EFILE_ATOMIC;Atomic;WW2
+Thailand;50;EFILE_OoB;OoB;WW2
+Thailand;30;EFILE_PzLIGA;PzLiga;WW2
+Thailand;12;EFILE_COMWW2;Composite;WW2
+Thailand;61;EFILE_LUPO;OpenLG CW;Modern
+Thebes;44;EFILE_AG;Antique General;Antique
+Thrakians;34;EFILE_AG;Antique General;Antique
+Tibet;55;EFILE_OLGWW2;OpenLG WW2;WW2
+Tibet;111;EFILE_ATOMIC;Atomic;WW2
+Tibet;86;EFILE_LXF;LXF;WW2
+Tibet;55;EFILE_ROI;OpenLG WW2;WW2
+Trojans;8;EFILE_AG;Antique General;Antique
+Turkey – Ottoman Empire;1;EFILE_KAISER;Kaiser;Imperialism/WW1
+Turkey – Ottoman Empire;8;EFILE_SON;SoN;Industrialism
+Turkey – Ottoman Empire;95;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Turkey – Republic;12;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Turkey – Republic;12;EFILE_NOKORP;NOKorp;WW2
+Turkey – Republic;25;EFILE_OoB;OoB;WW2
+Turkey – Republic;42;EFILE_LUPO;OpenLG CW;Modern
+Turkey – Republic;61;EFILE_ROI;OpenLG WW2;WW2
+Turkey – Republic;12;EFILE_Clu;Clu;WW2
+Turkey – Republic;61;EFILE_OLGWW2;OpenLG WW2;WW2
+Turkey – Republic;42;EFILE_OLGCW;OpenLG CW;Modern
+Turkey – Republic;12;EFILE_OPENAK;OpenAK;WW2
+Turkey – Republic;12;EFILE_BASEKORP;Basekorp;WW2
+Turkey – Republic;19;EFILE_PzLIGA;PzLiga;WW2
+Turkey – Republic;12;EFILE_LXF;LXF;WW2
+Turkey – Republic;11;EFILE_OPENPEG;OpenPeG;Modern
+Turkey – Republic;71;EFILE_KAISER;Kaiser;Imperialism/WW1
+Turkey – Republic;12;EFILE_ATOMIC;Atomic;WW2
+Uganda;108;EFILE_OLGCW;OpenLG CW;Modern
+Uganda;108;EFILE_LUPO;OpenLG CW;Modern
+Ukraine;24;EFILE_OPENPEG;OpenPeG;Modern
+Ukraine;5;EFILE_KAISER;Kaiser;Imperialism/WW1
+Ukraine;90;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Ukraine – Anarchists;52;EFILE_KAISER;Kaiser;Imperialism/WW1
+Ukraine – Anarchists;110;EFILE_ATOMIC;Atomic;Imperialism/WW1
+Ukraine – Insurgent Army (Axis);101;EFILE_ATOMIC;Atomic;WW2
+Ukraine – Insurgent Army (Axis);68;EFILE_OoB;OoB;WW2
+Ukraine – Nationalists;65;EFILE_LXF;LXF;WW2
+Ukraine – Nationalists;67;EFILE_OoB;OoB;WW2
+United Kingdom – Great Britain;23;EFILE_ATOMIC;Atomic;WW2
+United Kingdom – Great Britain;9;EFILE_SON;SoN;Industrialism
+United Kingdom – Great Britain;23;EFILE_COMWW2;Composite;WW2
+United Kingdom – Great Britain;23;EFILE_GCE;GCE;WW2
+United Kingdom – Great Britain;23;EFILE_OoB;OoB;WW2
+United Kingdom – Great Britain;23;EFILE_NASHORNPBEM;Adlerkorps;WW2
+United Kingdom – Great Britain;23;EFILE_LXF;LXF;WW2
+United Kingdom – Great Britain;23;EFILE_OLGCW;OpenLG CW;Modern
+United Kingdom – Great Britain;23;EFILE_Clu;Clu;WW2
+United Kingdom – Great Britain;23;EFILE_LUPO;OpenLG CW;Modern
+United Kingdom – Great Britain;23;EFILE_NOKORP;NOKorp;WW2
+United Kingdom – Great Britain;23;EFILE_OPENAK;OpenAK;WW2
+United Kingdom – Great Britain;9;EFILE_OPENPEG;OpenPeG;Modern
+United Kingdom – Great Britain;23;EFILE_BASEKORP;Basekorp;WW2
+United Kingdom – Great Britain;23;EFILE_PzLIGA;PzLiga;WW2
+United Kingdom – Great Britain;23;EFILE_KAISER;Kaiser;Imperialism/WW1
+United Kingdom – Great Britain;23;EFILE_OLGWW2;OpenLG WW2;WW2
+United Kingdom – Great Britain;23;EFILE_ROI;OpenLG WW2;WW2
+United Kingdom – Great Britain;23;EFILE_OPENPG;OpenPG1;WW2
+United Nations;11;EFILE_OLGCW;OpenLG CW;Modern
+United Nations;20;EFILE_OPENPEG;OpenPeG;Modern
+United Nations;11;EFILE_LUPO;OpenLG CW;Modern
+United States (USA);10;EFILE_NOKORP;NOKorp;WW2
+United States (USA);1;EFILE_OPENPEG;OpenPeG;Modern
+United States (USA);10;EFILE_OLGCW;OpenLG CW;Modern
+United States (USA);10;EFILE_Clu;Clu;WW2
+United States (USA);10;EFILE_LUPO;OpenLG CW;Modern
+United States (USA);10;EFILE_OPENAK;OpenAK;WW2
+United States (USA);10;EFILE_BASEKORP;Basekorp;WW2
+United States (USA);1;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+United States (USA);10;EFILE_LXF;LXF;WW2
+United States (USA);10;EFILE_PzLIGA;PzLiga;WW2
+United States (USA);10;EFILE_KAISER;Kaiser;Imperialism/WW1
+United States (USA);10;EFILE_OLGWW2;OpenLG WW2;WW2
+United States (USA);10;EFILE_OPENPG;OpenPG1;WW2
+United States (USA);10;EFILE_ROI;OpenLG WW2;WW2
+United States (USA);24;EFILE_SON;SoN;Industrialism
+United States (USA);10;EFILE_ATOMIC;Atomic;WW2
+United States (USA);10;EFILE_OoB;OoB;WW2
+United States (USA);10;EFILE_NASHORNPBEM;Adlerkorps;WW2
+United States (USA) – Army;10;EFILE_COMWW2;Composite;WW2
+United States (USA) – Navy/Marines;17;EFILE_COMWW2;Composite;WW2
+United States (USA) – Union;38;EFILE_KAISER;Kaiser;Imperialism/WW1
+Unknown Force;8;EFILE_AO;Anomalous Operation;Fictional/Fantasy
+Vietnam – Communists / DRV;26;EFILE_OPENPEG;OpenPeG;Modern
+Vietnam – Communists / DRV;2;EFILE_OLGCW;OpenLG CW;Modern
+Vietnam – Communists / DRV;2;EFILE_LUPO;OpenLG CW;Modern
+Vietnam – Communists / SRV;93;EFILE_OLGCW;OpenLG CW;Modern
+Vietnam – Communists / SRV;93;EFILE_LUPO;OpenLG CW;Modern
+Vietnam – Communists / Viet Cong;79;EFILE_LUPO;OpenLG CW;Modern
+Vietnam – Communists / Viet Cong;79;EFILE_OLGCW;OpenLG CW;Modern
+Vietnam – Communists / Viet Minh;38;EFILE_ATOMIC;Atomic;WW2
+Vietnam – Communists / Viet Minh;83;EFILE_LUPO;OpenLG CW;Modern
+Vietnam – Communists / Viet Minh;78;EFILE_LXF;LXF;WW2
+Vietnam – Communists / Viet Minh;83;EFILE_OLGCW;OpenLG CW;Modern
+Vietnam – Communists / Viet Minh;138;EFILE_OPENAK;OpenAK;WW2
+Vietnam – Empire;86;EFILE_KAISER;Kaiser;Imperialism/WW1
+Vietnam – French;79;EFILE_LXF;LXF;WW2
+Vietnam – Republic / South;14;EFILE_OLGCW;OpenLG CW;Modern
+Vietnam – Republic / South;81;EFILE_ATOMIC;Atomic;Modern
+Vietnam – Republic / South;14;EFILE_LUPO;OpenLG CW;Modern
+Villains;75;EFILE_OoB;OoB;Fictional/Fantasy
+Wallonia – Axis;45;EFILE_OPENAK;OpenAK;WW2
+Western Roman Empire;40;EFILE_AG;Antique General;Antique
+Yemen – Kingdom;106;EFILE_ATOMIC;Atomic;WW2
+Yemen – Kingdom;98;EFILE_LUPO;OpenLG CW;Modern
+Yemen – Kingdom;77;EFILE_LXF;LXF;WW2
+Yemen – Kingdom;140;EFILE_OPENAK;OpenAK;WW2
+Yemen – Kingdom;98;EFILE_OLGCW;OpenLG CW;Modern
+Yugoslavia – Communists;21;EFILE_OoB;OoB;WW2
+Yugoslavia – Communists;22;EFILE_OPENAK;OpenAK;WW2
+Yugoslavia – Communists;22;EFILE_BASEKORP;Basekorp;WW2
+Yugoslavia – Communists;24;EFILE_Clu;Clu;WW2
+Yugoslavia – Communists;48;EFILE_OLGWW2;OpenLG WW2;WW2
+Yugoslavia – Communists;44;EFILE_LXF;LXF;WW2
+Yugoslavia – Communists;47;EFILE_PzLIGA;PzLiga;WW2
+Yugoslavia – Communists;22;EFILE_OPENPG;OpenPG1;WW2
+Yugoslavia – Communists;53;EFILE_LUPO;OpenLG CW;Modern
+Yugoslavia – Communists;22;EFILE_ATOMIC;Atomic;WW2
+Yugoslavia – Communists;22;EFILE_COMWW2;Composite;WW2
+Yugoslavia – Communists;53;EFILE_OLGCW;OpenLG CW;Modern
+Yugoslavia – Communists;22;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Yugoslavia – Communists;22;EFILE_NOKORP;NOKorp;WW2
+Yugoslavia – Communists;48;EFILE_ROI;OpenLG WW2;WW2
+Yugoslavia – Kingdom;24;EFILE_NOKORP;NOKorp;WW2
+Yugoslavia – Kingdom;24;EFILE_OPENAK;OpenAK;WW2
+Yugoslavia – Kingdom;24;EFILE_BASEKORP;Basekorp;WW2
+Yugoslavia – Kingdom;24;EFILE_PzLIGA;PzLiga;WW2
+Yugoslavia – Kingdom;24;EFILE_OLGWW2;OpenLG WW2;WW2
+Yugoslavia – Kingdom;24;EFILE_ROI;OpenLG WW2;WW2
+Yugoslavia – Kingdom;24;EFILE_OPENPG;OpenPG1;WW2
+Yugoslavia – Kingdom;22;EFILE_OoB;OoB;WW2
+Yugoslavia – Kingdom;43;EFILE_LXF;LXF;WW2
+Yugoslavia – Kingdom;24;EFILE_ATOMIC;Atomic;WW2
+Yugoslavia – Kingdom;24;EFILE_COMWW2;Composite;WW2
+Yugoslavia – Kingdom;24;EFILE_NASHORNPBEM;Adlerkorps;WW2
+Yugoslavia / Serbia – Chetniks;67;EFILE_LXF;LXF;WW2
+Yugoslavia / Serbia – Chetniks;70;EFILE_ROI;OpenLG WW2;WW2
+Yugoslavia / Serbia – Chetniks;69;EFILE_ATOMIC;Atomic;WW2
+Yugoslavia / Serbia – Chetniks;70;EFILE_OLGWW2;OpenLG WW2;WW2
+Yugoslavia / Serbia – Chetniks;44;EFILE_PzLIGA;PzLiga;WW2
+Yugoslavia / Serbia – Chetniks;70;EFILE_OoB;OoB;WW2
+Zaire;111;EFILE_OLGCW;OpenLG CW;Modern
+Zaire;111;EFILE_LUPO;OpenLG CW;Modern
+Zanzibar – Sultanate;87;EFILE_KAISER;Kaiser;Imperialism/WW1
+Zimbabwe;80;EFILE_LUPO;OpenLG CW;Modern
+Zimbabwe;80;EFILE_OLGCW;OpenLG CW;Modern

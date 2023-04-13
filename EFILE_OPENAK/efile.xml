@@ -1,0 +1,8 @@
+<?xml-stylesheet type='text/xsl' href='http://opengeneral.sourceforge.net/efile.xsl'?>
+<efile>
+	<title>OpenAK</title>
+	<description>Openized version of Adlerkorps Equipment File.</description>
+	<version>0.331</version>
+	<author>von Adler</author>
+	<url>http://www.adlerkorps.com/</url>
+</efile>

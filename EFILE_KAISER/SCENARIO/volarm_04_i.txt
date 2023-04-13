@@ -1,0 +1,25 @@
+Novorossiysk
+
+Aug 23rd, 1918
+
+I'm not feeling well since we took Ekaterinodar. The pain is terrible, but that won't stop me. My next mission is too important to care for my health.
+Novorossiysk is one of the most important ports in the Black Sea. If we take it, most of our supply problems will be solved. The Entente powers will be able to send us whatever we need, as long as they're willing to. But it's even more important than that. In Novorossiysk we'll be able to settle, at last, the capital of our provisional government. The rebirth of our nation will start. So failure is not an option.
+
+However, it won't be easy. This area is being defended by the Taman Army Group, one of the best units of the Red Army of the Northern Caucasus. They'll try to stop our advance or, at the very least, retreat unharmed to the south, where they'd reinforce Sorokin's units. But I'm here to stop them. The victory will be mine.
+
+Victory conditions: 
+- Take all the VHs or destroy all the enemy MSUs (there are 10 in total).
+- If the Reds evacuate their 10 MSUs you will lose.
+
+Special note:
+- When you take the airfield at (21,7) a recon bomber unit will be added to your core.
+
+
+
+
+
+
+
+
+
+

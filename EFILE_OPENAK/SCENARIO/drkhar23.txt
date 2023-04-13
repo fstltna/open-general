@@ -1,0 +1,168 @@
+The Fourth Battle of Kharkov
+Merla River
+Udy River
+Lopan' River
+Khar'kov River
+Bogodukhov
+Klenovo
+Dolshik
+Russkaya Lozovaya
+Krysino
+Dergachi
+Tsirkuny
+Merchik River
+Olshany
+Peresechnaya
+Gavrilovka
+Khar'kov
+Murafa
+Sharovka
+Novyi Merchik
+Staryi Lyubotin
+Pesochin
+Tractor Works
+Staryi Merchik
+Lyubotin
+Korotich
+Vysokopol'ye
+Merefa River
+Kovyagi
+Bezlyudovka
+Kolomak River
+Ogult'sy
+Yuzhny
+Perekop
+Valki
+Odrynka
+Kolomak
+Mzha River
+Merefa
+Borovaya
+Bridok
+Seneshkov Kut
+Rakitnoye
+Staraya Vodolaga
+Orchik River
+Rudoi Bairak
+Masulevka
+Novaya Vodolaga
+Sokolovo
+Zamostye
+Borki
+Zmiyev
+Zid'ki
+Northern Donets River
+Blagodatnoye
+Nikolskoye
+Taranovka
+Stanichny
+Ol'khovatka
+Berestovaya River
+Karavanskoye
+Krestishche
+Staroverovka
+Okhocheye
+Novoberetskij
+Paraskovaya
+Tishinkovka
+Berestovenka
+Bereka
+Verkhnij Bishkin
+Medvedovka
+Bereka River
+Yefremovka
+Orel' River
+KG Pape /3Pz [2SS] 4PzA
+KG Pape /3Pz [2SS] 4PzA
+1/503SchwPzAbt [XI] Kempf
+1/560SchwJgdPzAbt [XI] Kempf
+1/3/-/3Pz [2SS] 4PzA
+KG Raus [XI] Kempf
+KG Raus 4FlakRgt [XI]  Kempf
+KG Raus 393StuGBde [XI] Kempf
+KG Raus [XI] Kempf
+248/-/168ID [XI] Kempf
+I/248/168ID [XI] Kempf
+II/248/168ID [XI] Kempf
+III/248/168ID [XI] Kempf
+IV/248/168ID [XI] Kempf
+V/248/168ID [XI] Kempf
+248/-/168ID [XI] Kempf
+I/417/168ID [XI] Kempf
+II/417/168ID [XI] Kempf
+III/417/168ID [XI] Kempf
+I/429/168ID [XI] Kempf
+II/429/168ID [XI] Kempf
+III/429/168ID [XI] Kempf
+I/442/168ID [XI] Kempf
+II/442/168ID [XI] Kempf
+III/442/168ID [XI] Kempf
+248/-/168ID [XI] Kempf
+KG 6Pz [XI] Kempf 
+Partisani HQ
+1/25TBr [29T] 5GTA
+2/25TBr [29T] 5GTA
+1/31TBr [29T] 5GTA
+2/31TBr [29T] 5GTA
+1/32TBr [29T] 5GTA
+2/32TBr [29T] 5GTA
+108ATRgt [29T] 5GTA
+1446SURgt [29T] 5GTA
+747/-/- [29T] 5GTA
+271MtrRgt [29T] 5GTA
+4/53MotRBr [29T] 5GTA
+38/-/- [29T] 5GTA
+3/25TBr [29T] 5GTA
+3/31TBr [29T] 5GTA
+3/32TBr [29T] 5GTA
+1/53MotRBr [29T] 5GTA
+2/53MotRBr [29T] 5GTA
+3/53MotRBr [29T] 5GTA
+75/-/- [29T] 5GTA
+1/10GMBr [5GM] 5GTA
+1/11GMBr [5GM] 5GTA
+1/12GMBr [5GM] 5GTA
+1/24GTBr [5GM] 5GTA
+2/24GTBr [5GM] 5GTA
+1/51GTRgt [5GM] 5GTA
+2/54GTRgt [5GM] 5GTA
+1/55GTRgt [5GM] 5GTA
+2/10GMBr [5GM] 5GTA
+2/11GMBr [5GM] 5GTA
+2/12GMBr [5GM] 5GTA
+104GATRgt [5GM] 5GTA
+1447SURgt [5GM] 5GTA
+2/51GTRgt [5GM] 5GTA
+2/54GTRgt [5GM] 5GTA
+2/55GTRgt [5GM] 5GTA
+409GMtrBtn [5GM] 5GTA
+4GArmCarBn [5GM] 5GTA
+3/10GMBr [5GM] 5GTA
+4/10GMBr [5GM] 5GTA
+5/10GMBr [5GM] 5GTA
+3/11GMBr [5GM] 5GTA
+4/11GMBr [5GM] 5GTA
+5/11GMBr [5GM] 5GTA
+3/24GTBr [5GM] 5GTA
+2GMCBtn [5GM] 5GTA
+3/12GMBr [5GM] 5GTA
+4/12GMBr [5GM] 5GTA
+5/12GMBr [5GM] 5GTA
+1502ATRgt [2T] 5GTA
+1/169TBr [2T] 5GTA
+2/169TBr [2T] 5GTA
+1/26TBr [2T] 5GTA
+2/26TBr [2T] 5GTA
+1/99TBr [2T] 5GTA
+2/99TBr [2T] 5GTA
+269MtrRgt [2T] 5GTA
+307GMtrBtn [2T] 5GTA
+4/58MotRBr [2T] 5GTA
+1698AARgt [2T] 5GTA
+3/169TBr [2T] 5GTA
+3/26TBr [2T] 5GTA
+3/99TBr [2T] 5GTA
+1/58MotRBr [2T] 5GTA
+2/58MotRBr [2T] 5GTA
+3/58MotRBr [2T] 5GTA
+83MCBtn [2T] 5GTA

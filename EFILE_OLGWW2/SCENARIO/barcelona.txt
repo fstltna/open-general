@@ -1,0 +1,210 @@
+Road to Barcelona
+Barcelona
+Rio Llobregat
+El Prat de Llobregat
+Villadecans
+Vallvidrera
+Les Planes
+Sabadell
+Terrassa
+San Cugat del Valles
+Tivissa
+Garcia
+Asco
+Torre del Espanyol
+Vinebre
+La Figuera
+Hospitalet
+Pratdip
+Falset
+Alforja
+La Mussara
+Alcover
+Valls
+Tarragona
+Torre de Fontaubella
+Rio Gaya
+El Vendrell
+Vilanova i la Geltru
+Montferri
+Altafulla
+Montblanc
+Querol
+Pontils
+Ulldemolins
+Juncosa
+Torms
+El Soleras
+Lleida
+Vilanova de la Barca
+Albesa
+Balaguer
+Casteyo de Farfanya
+Alfarras
+Os de Balaguer
+Camarasa
+Cubells
+Agramunt
+Oliola
+Sanahuja
+Biosca
+Montfalco
+Calaf
+Manresa
+Rio Ebro
+Rio Segre
+L1 [FORTIFICATION]
+L2 [FORTIFICATION]
+Tetuan 1/1Bda/53D/[V]
+Tetuan 2/1Bda/53D/[V]
+Ban. 2/1Bda/53D/[V]
+Bon.1/1Bda/53D/[V]
+Bon.2/1Bda/53D/[V]
+Bon.4/1Bda/53D/[V]
+Ban3/2Bda/53D/[V]
+Ban7/2Bda/53D/[V]
+Ban15/2Bda/53D/[V]
+El Pilar/2Bda/53D/[V]
+Bon5/2Bda/53D/[V]
+EM/53 Div./[V]
+HQ/54 Div./[V]
+Aty/53 Div./[V]
+Aty/53 Div./[V]
+Bon3/2Bda/53D/[V]
+140 BM/44 Div./[XII]
+144 BM/44 Div./[XII]
+145 BM/44 Div./[XII]
+AtyGrp/44 Div./[XII]
+122 BM/27 BM/[XVIII]
+123 BM/27 BM/[XVIII]
+124 BM/27 BM/[XVIII]
+AtyGrp/27 BM/[XVIII]
+HQ/44 Div./[XII]
+EM/27 BM/[XVIII]
+84 BM/60 Div./[XVIII]
+95 BM/60 Div./[XVIII]
+224 BM/60 Div./[XVIII]
+EM/60 Div./[XVIII]
+AtyGrp/60 Div./[XVIII]
+3 BM/56 Div./[XII]
+BM/56 Div./[XII]
+BM/56 Div./[XII]
+EM/56 Div./[XII]
+AtyGrp/56 Div./[XII]
+23 BM/16 Div./[XII]
+24 BM/16 Div./[XII]
+149 BM/16 Div./[XII]
+EM/16 Div./[XII]
+AtyGrp/16 Div./[XII]
+11 BM/35 Div./[XV]
+13 BM/35 Div./[XV]
+15 BM/35 Div./[XV]
+EM/35 Div./[XV]
+AtyGrp/35 Div./[XV]
+31 BM/3 Div./[XV]
+14 BM/3 Div./[XV]
+139 BM/3 Div./[XV]
+EM/3 Div./[XV]
+AtyGrp/3 Div./[XV]
+72 BM/42 Div./[XXIV]
+102 BM/42 Div./[XXIV]
+130 BM/42 Div./[XXIV]
+EM/42 Div./[XXIV]
+AtyGrp/42 Div./[XXIV]
+10 BM/46 Div./[V]
+37 BM/46 Div./[V]
+101 BM/46 Div./[V]
+AtyGrp/46 Div./[V]
+EM/46 Div./[V]
+Santa Coloma
+1 BM/11 Div./[V]
+9 BM/11 Div./[V]
+100 BM/11 Div./[V]
+AtyGrp/11 Div./[V]
+EM/11 Div./[V]
+12 BM/45 Div./[V]
+14 BM/45 Div./[V]
+139 BM/45 Div./[V]
+AtyGrp/45 Div./[V]
+EM/45 Div./[V]
+FARE
+L1
+L1
+L2
+L2
+DECA/GERO
+DECA/GERO
+DECA/GERO
+L1
+L1
+L1
+MGGrp/45 Div./[V]
+EM/XVIII CE
+EM/V CE
+EM/XV CE
+EM/XXIV CE
+MGGrp/44 Div./[XII]
+MGGrp/11 Div./[V]
+MGGrp/16 Div./[XII]
+12 Bon./50 Div./[CEM]
+21 Bon./50 Div./[CEM]
+9 Bon./50 Div./[CEM]
+19 Bon./50 Div./[CEM]
+7 Bon./50 Div./[CEM]
+5 Bon./50 Div./[CEM]
+3 Bon./50 Div./[CEM]
+7 Bon./50 Div./[CEM]
+17 Bon./50 Div./[CEM]
+16 Bon./50 Div./[CEM]
+4 Bon./50 Div./[CEM]
+17 Bon./50 Div./[CEM]
+18 Ban./50 Div./[CEM]
+AtyGrp/50 Div./[CEM]
+AtyGrp/50 Div./[CEM]
+Pont./-/[CEM]
+EM/50 Div./[CEM]
+Jagdgruppe 88
+Kampfgruppe 88
+[Legion Condor]
+CTV
+1 Bda./53 Div./[V]
+2 Bda./53 Div./[V]
+1 Bda./54 Div./[V]
+1 Bda./54 Div./[V]
+EM/54 Div./[V]
+AtyGrp/54 Div./[V]
+AtyGrp/54 Div./[V]
+1 Ban/4 Div./[CTV]
+2 Ban/4 Div./[CTV]
+3 Ban/4 Div./[CTV]
+TKBtn./4 Div./[CTV]
+EM/4 Div./[CTV]
+AtyGrp/4 Div./[CTV]
+EBtn./4 Div./[CTV]
+FA/-/[CTV]
+FV/-/[CTV]
+FN/-/[CTV]
+1 Bda./40 Div./-/
+2 Bda./40 Div./-/
+3 Bda./40 Div./-/
+AtyGrp./40 Div./-/
+EM/40 Div./-/
+1 Bda./50 Div./[CEM]
+2 Bda./50 Div./[CEM]
+3 Bda./50 Div./[CEM]
+4 Bda./50 Div./[CEM]
+1 Bda./5 Div./[N]
+2 Bda./5 Div./[N]
+3 Bda./5 Div./[N]
+AtyGrp/1 Div./[N]
+EM/1 Div./[N]
+1 Bda./4 Div./[N]
+2 Bda./4 Div./[N]
+3 Bda./4 Div./[N]
+3 Bda./12 Div./[N]
+2 Bda./12 Div./[N]
+1 Bda./12 Div./[N]
+FAE
+EM/4 Div./[N]
+AtyGrp./4 Div./[N]
+[N]

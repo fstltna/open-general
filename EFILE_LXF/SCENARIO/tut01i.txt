@@ -1,0 +1,6 @@
+TANKS
+
+You get now a powerful Panther tank, use it wisely. To win you must take the Russian Victory Hex!
+
+Tank Class (TK)
+Tank class units are the armoured fist of your combat forces, and proper use of TK units is of paramount importance. They represent light, medium, and heavy armoured tank units with groups of mechanised or motorised infantry attached to support them. TK units have a special ability called Overrun. This ability allows TK units to ‘roll over’ weak defending units without conducting an attack. They can overrun a weak defender, continue to move into contact with another enemy unit, and then conduct a standard attack. As powerful as they are, TK units should avoid fighting INF or AT units in urban, forested, or rough areas (that’s what your INF units are for) and should also avoid attacking AT units that have a high entrenchment level in any type of terrain. If used properly, TK units are devastating on attack or defense. However, they can be expensive, so use some thought as to where and when you commit them to battle.

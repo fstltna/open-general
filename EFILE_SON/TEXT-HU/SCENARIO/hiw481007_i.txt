@@ -1,0 +1,10 @@
+Ozora
+1848. X. 7.
+
+Ezredes úr! A pákozdi diadal után a horvát martalócok fejvesztve menekülnek Hazánkból. Roth és Philipovic vezetésével Ozora felé menekül a jobbszárnyuk. Állítsa meg õket és fegyverezze le seregüket, mielõtt visszasettenkednének Horvátországba.
+
+A Honvédelmi Bizottmány egy lovassági egységet helyez a parancsnoksága alá.
+
+Elhelyezhetõ egység: 13
+
+KÜLDETÉS: Foglald el az összes gyõzelmi pontot.

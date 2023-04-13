@@ -1,0 +1,8 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+2868  '  Cañón 5.7cm Nordenfelt Md.1885  [ AT  Spain]  Cost: 168
+2857  '  Cañón 7.5cm Krupp Md.1896  [ATY  Spain]  Cost: 204

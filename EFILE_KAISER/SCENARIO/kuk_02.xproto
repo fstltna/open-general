@@ -1,0 +1,14 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 487  '  7,5cm Skoda GebG M15  [ATY  Austro-Hungarian Empire]  Cost: 384
+ 526  '  Piechota Legionowa   [INF  Austro-Hungarian Empire]  Cost: 84
+ 991  '  Ulani Legionowi  [RCN  Austro-Hungarian Empire]  Cost: 276
+2849  '  10,4cm Skoda FK M15  [ATY  Austro-Hungarian Empire]  Cost: 408
+2879  '  22,5cm Minenwrf M15  [ATY  Austro-Hungarian Empire]  Cost: 384
+3492  '  Kavallerie 15  [ TK  Austro-Hungarian Empire]  Cost: 324
+3493  '  Huszaren 15  [RCN  Austro-Hungarian Empire]  Cost: 264
+3496  '  Ulanen 15  [RCN  Austro-Hungarian Empire]  Cost: 276

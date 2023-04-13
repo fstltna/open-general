@@ -1,0 +1,33 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  83  '  PzJag V  [ AT  Deutschland]  Cost: 1116
+  84  '  lePzJag IV  [ AT  Deutschland]  Cost: 492
+ 121  '  sPzSpWg (5)  [RCN  Deutschland]  Cost: 492
+ 131  '  Pz Panther A  [ TK  Deutschland]  Cost: 1104
+ 154  '  Pz Tiger B  [ TK  Deutschland]  Cost: 1620
+ 600  '  Sturmgeschutz IV  [ AT  Deutschland]  Cost: 516
+ 608  '  43 SS Pzgrenadiere (mot)  [INF  Deutschland]  Cost: 300
+1257  '  AufPz 38  [RCN  Deutschland]  Cost: 396
+1258  '  Luchs  [RCN  Deutschland]  Cost: 444
+1270  '  Fw 190A-8  [FTR  Deutschland]  Cost: 1320
+1899  '  12,8 Flak40  [ AD  Deutschland]  Cost: 1452
+3418  '  43 Jager (L)  [INF  Deutschland]  Cost: 336
+3440  '  43 Gebirgsjager  [INF  Deutschland]  Cost: 396
+3445  '  43 Gebirgspioniere  [INF  Deutschland]  Cost: 924
+3450  '  43 Brandenburger  [INF  Deutschland]  Cost: 360
+3454  '  43 Kustenjager  [INF  Deutschland]  Cost: 768
+3478  '  43 Pzgrenadiere (gep)  [INF  Deutschland]  Cost: 588
+3480  '  44 Pioniere  [INF  Deutschland]  Cost: 444
+3501  '  43 Gebirgs-aufklarung  [RCN  Deutschland]  Cost: 360
+3833  '  43 SS Pzgrenadiere (gep)  [INF  Deutschland]  Cost: 624
+4295  '  Bf 110G-4c/R3  [ TB  Deutschland]  Cost: 1308
+4297  '  Ju 88S-1  [ LB  Deutschland]  Cost: 996
+4548  '  Fw 190A-8/U8  [ TB  Deutschland]  Cost: 1248
+4550  '  Fw 190F-8  [ TB  Deutschland]  Cost: 1248
+4552  '  Fw 190G-8  [ TB  Deutschland]  Cost: 1200
+4554  '  Ju 188E-1  [ TB  Deutschland]  Cost: 1296
+4555  '  Ju 188A-2  [ TB  Deutschland]  Cost: 1260

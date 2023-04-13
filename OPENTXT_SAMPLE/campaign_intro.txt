@@ -1,0 +1,14 @@
+TITLE (mandatory)
+
+Version: current version number of the campaign (mandatory)
+Number of Scenarios: total number of the scenarios in this campaign (optional, recommended)
+Player Country: name of the human player's main country (mandatory)
+Campaign Creator: name of the author(s) of the original campaign (mandatory)
+Campaign Converter: name of the designer(s) who created the current version of the campaign (mandatory, if the current campaign is a conversion)
+Playtester: name of the players who helped to test the campaign (optional)
+Last Playtest: date of the last time the campaign was fully tested by its creator or an expert player (optional)
+License: term of usage, share, copy, edit and credit of the campaign, existing templates like Creative Commons licenses can be used
+
+Intro text: background story or briefing of the campaign (optional, recommended)
+
+Notes: any special rule(s), setting(s), recommended prestige levels what players should know (optional, recommended)

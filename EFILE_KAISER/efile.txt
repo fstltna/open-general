@@ -1,0 +1,7 @@
+* This is an Efile description file
+* Please don't change the number and order of lines.
+<title>Kaiser General II
+<description>Great War Equipment File covering the period 1850 to 1926.
+<version>24/05/20
+<author>Juankar
+<license>CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)

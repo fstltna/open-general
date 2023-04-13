@@ -1,0 +1,15 @@
+
+KILL BRUNO - 28 JAN 1944
+
+HQ Soviet Partisans, Estonia
+CO General Karotamm
+
+The Germans hide a rail gun in a our operation area. This gun must be destroyed. The German Luftwaffe is very active in this area and makes an air strike impossible. So, here is our plan.
+
+The Germans consider their rail gun safe, because any direct attack is smashed by the Luftwaffe. So we first switch off the German airfields.
+There are two airfields that must be made unusable. The eastern airfield is to seize with your troops. A reinforcing Smersh team, which is subordinate to you for this operation, attack the western airfield.
+Start similar the central attack on the rail gun! If the rail gun destroyed, block the railway line as long as possible before you retreat your troops. The Germans will soon bring in reinforcements. Good luck, and leave a pile of rubble behind you!
+
+Note: You can use a Smersh commando or a Partisan unit to make a airfield unusable. Move the unit on the airfield hex and press key 1 for "blow". Remember that an airfield sometimes consist of several airfield hexes. Then you have to "blow" each airfield hex.
+
+Order: Resist the German attack for 16 turns and hold as much VHs as possible!

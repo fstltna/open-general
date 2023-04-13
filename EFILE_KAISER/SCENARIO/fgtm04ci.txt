@@ -1,0 +1,6 @@
+WWI: 1914 Campaign Path Choice
+Gospodin General-Major, August of 1914 brings the nations of Europe into a great conflict.  You must choose which campaign you would like to take part in for the duration of 1914.
+
+Victory: East Prussia.  You will take part in the battles of the 1st Army as you attempt to invade East Prussia with the aim of capturing Koenigsberg and opening the way into Germany.  The front-line troops have been mobilized more rapidly than anticipated by the enemy, and the Russian Steamroller can be unleashed to honor our alliance with France.
+
+Tactical Victory: Galicia.  Preserving our Slavic bond with Serbia, our armies will defend the frontier against an Austro-Hungarian aggression on the South-Western Front.  With success, the way may be open to capture the Carpathian mountain passes into Vienna or, perhaps, for an invasion of German Silesia.

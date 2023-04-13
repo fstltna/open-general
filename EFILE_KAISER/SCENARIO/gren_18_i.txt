@@ -1,0 +1,18 @@
+Cambrai: the offensive
+
+November 20th, 1917
+
+Although the third battle of Ypres was not the success that Haig had hoped for, it had proved that our Army, by using the new methods in combined arms, could pierce even the deepest German defence line. However, our enemies possessed an outstanding ability for mobilizing their reserves and counterattacking in a matter of hours, so they had been able to stop all our former offensives before we had had any real chance to inflict on them a decisive defeat. But if we could launch a surprise attack on the Germans, so that they could not know when or where it would take place, even the Hindenburg Line might fall.
+
+With that aim, an offensive was planned in the Cambrai before the end of 1917. We would attack with artillery and veteran infantry units, supported by a large number of tanks. It was a very dangerous move, since the German defences were formidable, but so was our determination. We knew that Germany was about to win the war in the East, so in a few weeks they could use new divisions against us. We had to force them to surrender before that could happen.
+
+(from the memoirs of Lt. Gen. Bruce W. Dickinson)
+
+Victory conditions:
+- After 17 turns you must hold 6 VHs for a BV, 5 VHs for a V and 4 VHs for a TacV.
+- Your MSU core unit must survive.
+
+
+
+
+

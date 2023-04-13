@@ -1,0 +1,14 @@
+Student May1940
+
+We had to abandon our original plan 'Fall Gelb' after one of our Fallschirmguys lost the plans to the Belgians when his plane crashed. The new Sichelschnitt plan is much more daring, shifting the focus of the attack from The Netherlands and Belgium to the South of Belgium: the supposedly impassable Ardennes. This leaves the forces that need to capture the Netherlands much weaker than originally planned. Generalleutnant Student will land his FliegerKorps XI Fliegerdivision 7 and Luftlandedivision 22 near The Hague, Rotterdam and the bridges at Dordrecht and Moerdijk. Your task is to follow Generalleutnant Schmidt's 9th Panzerdivision through the South of the Netherlands. Once your forces arrive as West as Moerdijk, turn North to the Hague and follow the path cleared by Student's troops.
+
+PLAYER ORDERS
+- Capture all Victory hexes excluding the Petroleum Refineries.
+- Strength lost on core units will not be automatically replaced at HQ at the start of the next scenario and no new units can be added to your core as your troops need to push South after capturing the Netherlands.
+- Units can not be upgraded before the scenario.
+
+ADDITIONAL INFORMATION
+- The SS-V Flak Bataillon has been placed under your command.
+- Your core SS units and the 9th Panzer Division have crossed the German-Dutch border and are expected to relieve Fliegerdivision 7 and Luftlandedivision 22 a few days from now.
+- The Dutch army is fully mobilized and has multiple divisions around the airports captured by Student's forces.
+- The Dutch airforce is substantially smaller than our Luftflotte 2 that is covering the Netherlands and Belgium.

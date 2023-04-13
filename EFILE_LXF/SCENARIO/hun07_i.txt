@@ -1,0 +1,10 @@
+January 12, 1943
+
+A catastrophe has happened near the Don River! The Bosheviks are attacking everywhere!
+They launched heavy offensives (Operation Uranus, Operation Saturn, Operation Little Saturn) and stopped the German counterattack (Operation Wintergewitter). The 3rd and 4th Romanian armies were wiped out of the front line, while the German 6th Army has been surrounded in Stalingrad. Our 2nd Army has been given the task of protecting the 8th Italian Army's northern flank between Novaya Pokrovka and Rossosh. You are to hold the lines behind the Don River. Now you must try to stop the Bolshevik hordes. Good luck!
+
+HINT: A small German reinforcement is coming from South-West.
+
+NOTE: You have 25 DHs. There are two ways to win this scenario: retreat 8 units before the end of the 12th turn for a TV, or hold 3 VHs for TV, 5 VHs for V and 6 VHs for BV.
+
+RULE: Ground condition cannot be changed by weather. Default strength of new units is only 8 SP.

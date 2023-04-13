@@ -1,0 +1,8 @@
+Montello
+(June 15, 1918)
+
+The German High Command has asked the Monarchy to launch a full scale attack on the Italian front. We have concentrated all available divisions (including yours) here, but the Italians outnumber our troops. They not only have more soldiers, but also more heavy artillery, planes, ammunitions, and food. Moreover, a few well experienced British and French divisions have joined them. Our plan is basically a frontal assault on Monte Grappa and across the Piave River, though -- to be honest -- it doesn't hold much hope for us. If we fail here and now, the war will be lost for sure. This means we must win at all costs! Your job is to create a bridgehead around Montello Hill.
+
+ORDER: Keep your MSU alive and take all VHs.
+
+NOTE: The High Command has approved the expansion of your forces to include an Air Defense detachment.

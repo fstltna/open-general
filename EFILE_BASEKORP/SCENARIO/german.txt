@@ -1,0 +1,19 @@
+21. Short German Campaign 1938-1945
+
+Campaign by Alex
+
+This is a short fictional World War II campaign. It is concentrated around the motorised brigade/division and its accompanying air support. It is perfectly suited for a lonely weekend. The scale of battles is small to medium and they are not really hard.
+
+You start during the Spanish Civil War with a tiny core, and you'll move all over the Europe with an ever-increasing forces under your command. You will fight the rapid skirmishes of the early years of "Blitzkrieg!", and you will encounter the attrition battles of the desperate resistance while "Defending the Reich".
+
+
+******************************************************************************************************************************************
+
+
+Notes on the core managment and campaign design:
+
+You are completely responsible for the ground forces. This includes the upgrades and the expansion of your core. You are not only a field commander, but also a quartermaster and a politician who uses his prestige to gain any advantage possible. The air support is only partially in your hands, but it comes without any price. You can finish the campaign without any airplane purchased, just upgrade the airforce when necessary. I used the "air missions" setting, so the planes work much differently than in original Panzer General II.
+
+This campaign uses the "no prototype" settings. For the "Blitzkrieg!" minicampaign, you'd be awarded with an air support appropriate to your results; lets say that the High Command attached a Luftwaffe unit to your brigade for the purpose of testing the new Messerschmitt planes in combat. For the "Defending the Reich" minicampaign this flow of test planes will stop due to the Allied air offensive.
+
+This campaign is a result of a long and tedious work. I wish that you will find it interesting, challenging and entertaining. I had fun while designing it, and it learnt me a few things about Open General, Open Suite, and about history of World War II. Enjoy playing the campaign at least the same as I enjoyed the designing.

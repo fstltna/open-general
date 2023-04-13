@@ -1,0 +1,88 @@
+De Gaulle's Counter-Attack
+Wassigny
+Le Nouvion en T.
+Fourmies
+Oise River
+Le Catelet
+Bohain
+La Capelle
+Guise
+Hirson
+Aube River
+Vervins
+Aubenton
+Liart
+Saint Quentin
+Sains-Richaumont
+Escaut River
+Marle
+Rozoy
+Montcornet
+Crecy
+Laon
+Sissone
+Chateau Porcien
+Aisne River
+Rethel
+Craonne
+Asfeld
+Neufchatel
+Vailly
+Canal
+Soisson
+Vesle River
+Braine
+Fismes
+Reims
+Tank and Anti-Tank
+1/116/9th Mot Inf(XVI)
+2/116/9th Mot Inf(XVI)
+16/116/9th Mot Inf(XVI)
+1/13/9th Mot Inf(XVI)
+3/13/9th Mot Inf(XVI)
+2/131/9th Mot Inf(XVI)
+1/95/9th Mot Inf(XVI)
+2/95/9th Mot Inf(XVI)
+14/95/9th MotInf(XVI)
+1/19/4th DCR
+2/19/4th DCR
+3/19/4th DCR
+3/47/4th DCR
+1/46/4th DCR
+1/3/4th DCR
+2/3/4th DCR
+3/3/4th DCR
+4/3/4th DCR
+1/345/4th DCR
+3/345/4th DCR
+4/345/4th DCR
+II/7/10th Pz(XIX)
+III/7/10th Pz(XIX)
+I/7/10th Pz(XIX)
+IV/7/10th Pz(XIX)
+Saint Quentin Fortifications
+704/409/9th MotInf(XVI)
+1/24/4th DCR
+2/24/4th DCR
+3/2/4th DCR
+1/2/4th DCR
+2/44/4th DCR
+3/44/4th DCR
+1/44/4th DCR
+3/24/4th DCR
+2/47/4th DCR
+1/47/4th DCR
+2/46/4th DCR
+3/46/4th DCR
+2/2/4th DCR
+2/245/4th DCR
+II/StG 77(II)LF2
+III/StG 77(II)LF2
+II/25/2nd Inf(Res)(XIX)
+2/59/9th Mot Inf(XVI)
+3/59/9th Mot Inf(XVI)
+4/59/9th Mot Inf(XVI)
+A little help for the AI
+AI has spotter units
+II/25/2nd Inf(Res)(XIX)
+I/25/2nd Inf(Res)(XIX)

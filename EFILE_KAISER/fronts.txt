@@ -1,0 +1,472 @@
+* ------------------------------------------------------------------ 
+* . To define Fronts for any country: 
+* . Lines starting with a single number defines country for next fronts/factions 
+* . can include country name after a space or tab, but won't be read 
+* . lines starting with # are read as a front name 
+* . lines starting with @ are read as a faction name 
+* . and belong to the last country read 
+* ------------------------------------------------------------------ 
+
+1 Ottoman Empire
+* fronts:
+#Europe
+#Middle East
+
+* factions:
+@Land
+@Sea
+@Air
+
+2 Latvia
+
+* factions:
+@Land
+@Sea
+@Air
+
+3 Austro-Hungarian Empire
+
+* factions:
+@Land
+@Sea
+@Air
+@Orient-Korps
+@k.u.k. Armee
+@k.k. Landwehr
+@m.k. Honvédség
+@Infantry Div.
+@Motorized Div.
+@Cavalry Div.
+@Mountain Div.
+
+4 Estonia
+
+* factions:
+@Land
+@Sea
+@Air
+
+5 Ukraine
+
+* factions:
+@Land
+@Sea
+@Air
+
+6 Finland
+
+* factions:
+@Land
+@Sea
+@Air
+
+7  France
+* fronts:
+#Europe
+#Outremer
+
+* factions:
+@Troupes Coloniales
+@Land
+@Sea
+@Air
+
+8  German Empire
+* fronts:
+#Europa
+#Übersee
+
+* factions:
+@Ostasien ExpeditionKorps
+@Afrika-Schutztruppe
+@Asien-Korps
+@Land
+@Sea
+@Air
+@Alpenkorps
+
+9  Czech Legions
+
+* factions:
+@Ceskoslovenské legie v Rusku
+@Ceskoslovenské legie ve Francii  
+@Ceskoslovenské legie v Itálii 
+@Ceskoslovenské legie v Srbsku
+@Land
+@Sea
+@Air
+
+10 United States
+
+* factions:
+@Land
+@Sea
+@Air
+
+11 Belgium
+* fronts:
+#Europe
+#Colonial
+
+* factions:
+@Force Publique
+@Land
+@Sea
+@Air
+
+12 Lithuania
+
+* factions:
+@Land
+@Sea
+@Air
+
+15 Rebels/Revolutionaries
+
+* factions:
+@Land
+@Sea
+@Air
+@None
+
+16 Poland
+
+* factions:
+@Legiony Polskie
+@Wojsko Polskie
+@Land
+@Sea
+@Air
+
+17 Portugal
+* fronts:
+#Europa
+#Colonial
+
+* factions:
+@Land
+@Sea
+@Air
+
+18 Romania
+
+* factions:
+@Land
+@Sea
+@Air
+
+19 Bulgaria
+
+* factions:
+@Land
+@Sea
+@Air
+
+20 Red Russia
+
+* factions:
+@Land
+@Sea
+@Air
+
+21 Quing China
+
+* factions:
+@Land
+@Sea
+@Air
+
+22 Confederate States
+
+* factions:
+@Land
+@Sea
+
+23 British Empire
+* fronts:
+#Europe
+#Colonial
+
+* factions:
+@United Kingdom
+@ANZAC
+@Canada
+@India
+@South Africa
+@Land
+@Sea
+@Air
+
+24 Japanese Empire
+
+* factions:
+@Land
+@Sea
+@Air
+
+25 Russian Empire
+
+* factions:
+@Land
+@Sea
+@Air
+
+26 Spain
+* fronts:
+#Europa
+#Marruecos
+#Cuba y Puerto Rico
+#Pacífico y Filipinas
+
+* factions:
+@Land
+@Sea
+@Air
+
+27 Italy
+* fronts:
+#Europa
+#Colonial
+
+* factions:
+@Land
+@Sea
+@Air
+
+28 Serbia
+
+* factions:
+@Land
+@Sea
+@Air
+
+29 Greece
+
+* factions:
+@Land
+@Sea
+@Air
+
+30 Indigenous
+* factions:
+@Zulus
+@Herero
+@Maji-Maji
+
+33 Prussia
+
+* factions:
+@Land
+@Sea
+@Air
+
+34 Austrian Empire
+
+* factions:
+@Land
+@Sea
+
+35 French Empire
+
+* factions:
+@Land
+@Sea
+
+36 Republic of China
+
+* factions:
+@Land
+@Sea
+@Air
+
+37 German Freikorps
+
+* factions:
+@Land
+@Sea
+@Air
+
+38 Union States
+
+* factions:
+@Land
+@Sea
+
+39 Chile
+
+* factions:
+@Land
+@Sea
+
+40 Peru
+
+* factions:
+@Land
+@Sea
+
+41 Bolivia
+
+* factions:
+@Land
+@Sea
+
+42 Mexico
+
+* factions:
+@Land
+@Sea
+@Air
+
+43 Denmark
+
+* factions:
+@Land
+@Sea
+@Air
+ 
+52 Anarchist Ukraine
+
+* factions:
+@Land
+@Sea
+@Air
+
+53 Ireland
+
+* factions:
+@Land
+@Sea
+@Air
+
+54 White Russia
+
+* factions:
+@Land
+@Sea
+@Air
+
+55 Warlord China
+
+* factions:
+@Land
+@Sea
+@Air
+
+56 Montenegro
+
+* factions:
+@Land
+@Sea
+@Air
+
+62 Piedmont-Sardinia
+
+* factions:
+@Land
+@Sea
+
+63 Empire of China
+
+* factions:
+@Land
+@Sea
+@Air
+
+65 Nationalist China
+
+* factions:
+@Land
+@Sea
+@Air
+
+66 Red China
+
+* factions:
+@Land
+@Sea
+@Air
+
+68 Armenia
+
+* factions:
+@Land
+@Sea
+@Air
+
+69 Azerbaijan
+
+* factions:
+@Land
+@Sea
+@Air
+
+70 Georgia
+
+* factions:
+@Land
+@Sea
+@Air
+
+71 Turkey
+
+* factions:
+@Land
+@Sea
+@Air
+
+73 Red Hungary
+
+* factions:
+@Land
+@Sea
+@Air
+
+74 German Revolutionaries 
+
+* factions:
+@Land
+@Sea
+@Air
+
+75 Russian Green Armies
+
+* factions:
+@Land
+@Sea
+@Air
+
+76 Mexican Empire
+
+* factions:
+@Land
+@Sea
+
+77 Czechoslovakia
+
+* factions:
+@Land
+@Sea
+@Air
+
+78 Cossack Hosts
+
+* factions:
+@Land
+@Sea
+@Air
+
+79 Red Finland
+
+* factions:
+@Land
+@Sea
+@Air
+
+81 Central Lithuania 
+
+* factions:
+@Land
+@Sea
+@Air
+
+

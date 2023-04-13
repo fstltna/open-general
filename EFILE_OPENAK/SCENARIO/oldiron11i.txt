@@ -1,0 +1,11 @@
+11. Operation Buffalo: Anzio beachhead breakout, May 23rd, 1944
+
+Last January our troops landed at Anzio - 80km behind the Gustav line. Kesselring moved every spare unit to be found into a ring around our beachhead and stopped all breakout attempts. Four months later we are ready to try again: Operation Buffalo. Strike inland to cut the lines of communication of the German Tenth Army fighting at Monte Cassino and move North-West to capture Rome.
+
+ORDERS
+Capture all Victory Hexes.
+
+Expect no reinforcements.
+
+NOTES: 
+- Units will be automatically reinforced to strength 10 at the end of the scenario and you will be able to acquire new units at that point.

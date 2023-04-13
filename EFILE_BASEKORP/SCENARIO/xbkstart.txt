@@ -1,0 +1,24 @@
+02.   BKBK   BaseKorps Blitzkrieg
+
+Version:  Apr-2019
+Number of Scenarios: 19
+Player Country: Germany
+Equipment file: Basekorp 
+Campaign Designer: Multiple scenarios combined
+Modified by Brian Gosley aka Puma
+
+German and Axis Campaign 1937-1941 maybe further sometime in the future.
+You take command of Axis troops from the civil war in Spain, to the end of the WW2 conflict.
+This is not a "blitzkrieg" campaign. Battles are hard and long.
+There is much prestige in the three early Spain battles. Build a core of 30 odd units and gain experience for your long campaign to follow.
+Auxillary units are sparse as this is designed as a "core" campaign.
+Sometimes it is best to bypass the enemy instead of trying to destroy him.
+Repair crews, saboteurs, mineclearers and At/Aty units are excellent fortification destroyers.
+
+Germany is the main country but other Axis nations are support countries. 
+
+This is an Open General campaign with many new ideas and concepts utilised.
+
+I created this campaign using scenarios from other designers campaigns. I used scenarios that I liked and modified them to suit the campaign flow and OG features.
+There are 19 scenarios and someday I might finish the campaign but I doubt it.
+

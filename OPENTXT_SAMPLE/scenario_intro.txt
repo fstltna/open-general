@@ -1,0 +1,12 @@
+TITLE (mandatory)
+Date: date of the scenaro (optional)
+
+Intro text: background story or briefing of the scenario (optional, recommended)
+
+Orders: victory condition(s) (optional, recommended)
+
+Notes: any special rule(s), setting(s), hints (e.g. about non-organic transport, reinforcement) what players should know (optional, recommended)
+
+Scenario Creator: name of the author(s) of the original scenario (mandatory, if not defined in the campaign intro)
+Scenario Converter: name of the designer(s) who created the current version of the scenario (mandatory, if the current scenario is a conversion)
+License: term of usage, share, copy, edit and credit of the scenario, existing templates like Creative Commons licenses can be used (mandatory, if not defined in the campaign intro)

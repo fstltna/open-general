@@ -1,0 +1,84 @@
+'---
+'Config purchase file for scenario: hun13a.xscn
+'* List of items to purchase all active players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=76 items  ' Replacement for default list
+ 767  '  LSM  [NTP  Hungary]  Cost: 120
+1938  '  40M Nimród  [FlaK  Hungary]  Cost: 420
+1939  '  40mm 36M  [FlaK  Hungary]  Cost: 216
+1940  '  80mm 30M  [ AD  Hungary]  Cost: 528
+1941  '  37mm 36M  [ AT  Hungary]  Cost: 84
+1942  '  Hetzer  [ AT  Hungary]  Cost: 636
+1943  '  40mm 40M  [ AT  Hungary]  Cost: 96
+1944  '  50mm 38M  [ AT  Hungary]  Cost: 108
+1945  '  75mm 40M  [ AT  Hungary]  Cost: 180
+1946  '  75mm 97/38M  [ AT  Hungary]  Cost: 120
+1947  '  150mm 43M  [ATY  Hungary]  Cost: 492
+1948  '  StuG IIIG  [ AT  Hungary]  Cost: 672
+1949  '  44M Zrinyi I  [ AT  Hungary]  Cost: 636
+1950  '  40/43M Zrínyi II  [ AT  Hungary]  Cost: 492
+1951  '  100mm 14M  [ATY  Hungary]  Cost: 180
+1952  '  105mm 31M  [ATY  Hungary]  Cost: 444
+1953  '  105mm 37M  [ATY  Hungary]  Cost: 288
+1954  '  149mm 14M  [ATY  Hungary]  Cost: 324
+1955  '  150mm 31M  [ATY  Hungary]  Cost: 768
+1956  '  210mm 39M  [ATY  Hungary]  Cost: 1164
+1957  '  84mm 18M  [ATY  Hungary]  Cost: 132
+1958  '  75mm 15M  [ATY  Hungary]  Cost: 132
+1962  '  Bf 109G-2  [FTR  Hungary]  Cost: 876
+1966  '  Arrow Cross Militia  [INF  Hungary]  Cost: 72
+1967  '  Border Guard  [INF  Hungary]  Cost: 84
+1968  '  Construction  [INF  Hungary]  Cost: 192
+1969  '  Regular Cavalry  [INF  Hungary]  Cost: 144
+1970  '  Fusiliers  [RCN  Hungary]  Cost: 132
+1971  '  Gendarmerie  [INF  Hungary]  Cost: 60
+1972  '  Mountain Infantry  [INF  Hungary]  Cost: 228
+1973  '  Parachute Infantry  [INF  Hungary]  Cost: 300
+1974  '  Engineer  [INF  Hungary]  Cost: 444
+1976  '  39M Csaba  [RCN  Hungary]  Cost: 192
+1980  '  Fw 190F-8  [ TB  Hungary]  Cost: 972
+1981  '  Fw 58B-2  [ TB  Hungary]  Cost: 252
+1984  '  Ju 88A-4  [ TB  Hungary]  Cost: 672
+1985  '  Me 210A-2  [ TB  Hungary]  Cost: 912
+1986  '  Fi 156C-3  [ TB  Hungary]  Cost: 204
+1990  '  42M Toldi IIA  [ TK  Hungary]  Cost: 408
+1991  '  40M Turán I  [ TK  Hungary]  Cost: 576
+1992  '  41M Turán II  [ TK  Hungary]  Cost: 636
+1993  '  Pz IVH  [ TK  Hungary]  Cost: 1176
+1996  '  38M Ford Marmon  [TPT  Hungary]  Cost: 108
+1997  '  Horse  [TPT  Hungary]  Cost: 24
+2137  '  Light Horse  [TPT  Hungary]  Cost: 24
+2328  '  Ju 52/3m g4e  [ATP  Hungary]  Cost: 240
+2394  '  81mm 36M  [ATY  Hungary]  Cost: 108
+2634  '  36M Lo-2000  [TPT  Hungary]  Cost: 84
+2635  '  37M Hansa-Lloyd  [TPT  Hungary]  Cost: 108
+2651  '  28M P4-100  [TPT  Hungary]  Cost: 60
+2657  '  43M Lehel  [TPT  Hungary]  Cost: 216
+2669  '  Mounted  [TPT  Hungary]  Cost: 48
+2674  '  Heavy Horse  [TPT  Hungary]  Cost: 36
+2711  '  Light Infantry  [INF  Hungary]  Cost: 108
+2712  '  Motorcycle  [TPT  Hungary]  Cost: 132
+2855  '  40M Nimrod CS  [ AT  Hungary]  Cost: 324
+2874  '  AAMG  [FlaK  Hungary]  Cost: 48
+2908  '  Combat Command  [INF  Hungary]  Cost: 144
+3254  '  44 Regular Infantry  [INF  Hungary]  Cost: 144
+3255  '  MG Infantry  [ AT  Hungary]  Cost: 120
+3256  '  Mule  [TPT  Hungary]  Cost: 12
+4773  '  Fw 189A-1  [ TB  Hungary]  Cost: 348
+4776  '  River Guard  [INF  Hungary]  Cost: 84
+5230  '  Train  [RTP  Hungary]  Cost: 108
+5330  '  38M Botond  [TPT  Hungary]  Cost: 72
+5373  '  43M Turán III  [ TK  Hungary]  Cost: 1176
+5669  '  41M Ansaldo  [RCN  Hungary]  Cost: 264
+5670  '  44M Tas  [ TK  Hungary]  Cost: 1560
+5671  '  44M Tas  [ AT  Hungary]  Cost: 900
+5672  '  Garrison  [INF  Hungary]  Cost: 72
+5673  '  20mm 38M  [FlaK  Hungary]  Cost: 72
+5677  '  Ju 87D-1  [ TB  Hungary]  Cost: 684
+5678  '  3.7cm FlaK Truck  [FlaK  Hungary]  Cost: 408
+5679  '  40M Csaba CC  [RCN  Hungary]  Cost: 228
+6732  '  Ju 88D-1  [ TB  Hungary]  Cost: 444
+6733  '  Ju 88C-6  [FTR  Hungary]  Cost: 696

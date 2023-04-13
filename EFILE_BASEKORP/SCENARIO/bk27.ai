@@ -1,0 +1,72 @@
+'---
+'Config AI file for scenario: bk27.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=64 items  ' Replacement for default list
+ 713  '  43 Infantry  [INF  Canada]  Cost: 96
+1704  '  Otter I  [RCN  Canada]  Cost: 216
+2189  '  3.7inch  [ AD  Canada]  Cost: 396
+2190  '  40mm I  [ AD  Canada]  Cost: 144
+2192  '  6pdr I  [ AT  Canada]  Cost: 120
+2194  '  17pdr  [ AT  Canada]  Cost: 312
+2195  '  Wolverine  [ AT  Canada]  Cost: 648
+2197  '  MG  [FlaK  Canada]  Cost: 108
+2201  '  5.5inch  [ATY  Canada]  Cost: 732
+2202  '  25 pdr  [ATY  Canada]  Cost: 264
+2203  '  4.2" mortar  [ATY  Canada]  Cost: 288
+2204  '  3inch mortar  [ATY  Canada]  Cost: 180
+2205  '  75mm  [ATY  Canada]  Cost: 276
+2206  '  105mm  [ATY  Canada]  Cost: 240
+2209  '  40 Engineer  [INF  Canada]  Cost: 408
+2214  '  40 Guards  [INF  Canada]  Cost: 144
+2216  '  40 Mountain  [INF  Canada]  Cost: 264
+2218  '  Staghound I  [RCN  Canada]  Cost: 348
+2219  '  Lynx  [RCN  Canada]  Cost: 216
+2220  '  Fox  [RCN  Canada]  Cost: 276
+2221  '  White  [RCN  Canada]  Cost: 192
+2222  '  Carrier Recon  [RCN  Canada]  Cost: 204
+2225  '  Grizzly  [ TK  Canada]  Cost: 552
+2227  '  Stuart VI  [RCN  Canada]  Cost: 348
+2231  '  Churchill III  [ TK  Canada]  Cost: 636
+2232  '  OKE  [ AT  Canada]  Cost: 600
+2233  '  Sherman II  [ TK  Canada]  Cost: 552
+2234  '  Sherman III  [ TK  Canada]  Cost: 612
+2236  '  Ram II  [ TK  Canada]  Cost: 480
+2239  '  QL  [TPT  Canada]  Cost: 84
+2240  '  Bren Carrier  [TPT  Canada]  Cost: 240
+2242  '  Kittyhawk IV  [FTR  Canada]  Cost: 720
+2245  '  Spitfire VC  [FTR  Canada]  Cost: 732
+2246  '  Spitfire IXB  [FTR  Canada]  Cost: 852
+2248  '  Tomahawk IIB  [FTR  Canada]  Cost: 648
+2251  '  Mustang III  [FTR  Canada]  Cost: 876
+2253  '  Beaufighter  [ TB  Canada]  Cost: 732
+2254  '  Beaufort  [ TB  Canada]  Cost: 540
+2256  '  Hudson  [ TB  Canada]  Cost: 504
+2257  '  Mitchell II  [ TB  Canada]  Cost: 720
+2258  '  Mosquito VI  [ TB  Canada]  Cost: 888
+2259  '  Typhoon  [ TB  Canada]  Cost: 984
+2260  '  Mosquito II  [ TB  Canada]  Cost: 936
+2261  '  Hurricane IID  [ TB  Canada]  Cost: 600
+2266  '  Iroquis DD  [sDD  Canada]  Cost: 288
+2267  '  Saguenay DD  [sDD  Canada]  Cost: 264
+2268  '  Uganda CL  [sBS  Canada]  Cost: 528
+2269  '  Ameer CV  [sCV  Canada]  Cost: 240
+2270  '  C-47  [ATP  Canada]  Cost: 348
+2635  '  CMP  [TPT  Canada]  Cost: 84
+2636  '  Carrier  [TPT  Canada]  Cost: 240
+2639  '  Pioneer  [TPT  Canada]  Cost: 72
+3130  '  MTB-459 MTB  [sDD  Canada]  Cost: 168
+3131  '  Bangor AM  [sDD  Canada]  Cost: 180
+4205  '  Beaufighter TF.X  [ TB  Canada]  Cost: 852
+4206  '  Beaufighter VIF  [ TB  Canada]  Cost: 888
+4207  '  Beaufighter XIC  [ TB  Canada]  Cost: 792
+4210  '  Hampden TB.I  [ TB  Canada]  Cost: 504
+4228  '  Kittyhawk IA  [ TB  Canada]  Cost: 720
+4235  '  Spitfire VB  [FTR  Canada]  Cost: 792
+4245  '  Mosquito B.XX  [ TB  Canada]  Cost: 684
+4248  '  Sea Hurricane XII  [FTR  Canada]  Cost: 672
+5652  '  41 Engineers  [INF  Canada]  Cost: 432
+5836  '  Train  [RTP  Canada]  Cost: 120

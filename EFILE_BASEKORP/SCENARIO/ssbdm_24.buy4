@@ -1,0 +1,58 @@
+'---
+'Config purchase file for scenario: SSBDM_24.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 128 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+ 484  '  122mm M-30  [ATY  Russia]  Cost: 420
+ 485  '  152mm ML-20  [ATY  Russia]  Cost: 1092
+ 489  '  Katyusha 82mm  [ATY  Russia]  Cost: 420
+ 490  '  Katyusha 300m  [ATY  Russia]  Cost: 708
+ 506  '  BA-64  [RCN  Russia]  Cost: 276
+ 528  '  Gaz-3  [TPT  Russia]  Cost: 72
+ 530  '  YaK-1  [FTR  Russia]  Cost: 564
+ 531  '  YaK-9D  [FTR  Russia]  Cost: 792
+ 532  '  La-5FN  [FTR  Russia]  Cost: 792
+ 540  '  P-39Q Airacobra  [ TB  Russia]  Cost: 780
+ 543  '  IL-2m3  [ TB  Russia]  Cost: 780
+ 576  '  203mm BR-4  [ATY  Russia]  Cost: 1452
+ 639  '  120mm Mortar  [ATY  Russia]  Cost: 312
+ 680  '  Katyusha 132mm  [ATY  Russia]  Cost: 600
+ 696  '  57mm ZiS-2  [ AT  Russia]  Cost: 132
+ 697  '  YaK-1M  [FTR  Russia]  Cost: 720
+ 698  '  YaK-7B  [FTR  Russia]  Cost: 684
+ 905  '  76.2mm ZiS-3  [ AT  Russia]  Cost: 180
+ 979  '  Pe-2  [ TB  Russia]  Cost: 720
+1158  '  85mm AA  [ AD  Russia]  Cost: 504
+1777  '  Pe-8  [ LB  Russia]  Cost: 720
+1812  '  76.2mm M-41  [ATY  Russia]  Cost: 180
+1816  '  122mm A-19  [ATY  Russia]  Cost: 696
+1817  '  152mm M-10  [ATY  Russia]  Cost: 420
+1818  '  152mm D-1  [ATY  Russia]  Cost: 696
+1819  '  152mm BR-2  [ATY  Russia]  Cost: 1428
+1820  '  210mm BR-17  [ATY  Russia]  Cost: 2100
+1821  '  305mm BR18  [ATY  Russia]  Cost: 1644
+1825  '  160mm Mortar  [ATY  Russia]  Cost: 552
+1847  '  P-39D Airacobra  [FTR  Russia]  Cost: 720
+1850  '  Pe-3  [FTR  Russia]  Cost: 576
+1855  '  Tu-2  [ TB  Russia]  Cost: 864
+1858  '  IL-4  [ LB  Russia]  Cost: 864
+2580  '  Gaz-1  [TPT  Russia]  Cost: 108
+2581  '  Gaz-2  [TPT  Russia]  Cost: 60
+2583  '  Gaz-4  [TPT  Russia]  Cost: 84
+2731  '  Gaz-5  [TPT  Russia]  Cost: 96
+3782  '  Motociklisti 43  [INF  Russia]  Cost: 300
+3812  '  43 Mototsikletnaya Razvedka  [RCN  Russia]  Cost: 300
+3814  '  43 HQ  [RCN  Russia]  Cost: 348
+4481  '  La-5  [FTR  Russia]  Cost: 684
+4687  '  IL-2 NS-37  [ TB  Russia]  Cost: 864
+4706  '  Tu-2s  [ TB  Russia]  Cost: 864
+7866  '  85mm  [ AT  Russia]  Cost: 180
+7973  '  152mm AT  [ AT  Russia]  Cost: 384
+7974  '  76.2mm AT/ATY  [ATY  Russia]  Cost: 180
+7984  '  Yag 76.2mm  [ATY  Russia]  Cost: 420

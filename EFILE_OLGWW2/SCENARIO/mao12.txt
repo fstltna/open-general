@@ -1,0 +1,61 @@
+Chosin Reservoir [Korean War]
+5 R/1 USMC/[X]
+7 R/1 USMC/[X]
+[Fox]/1 USMC/[X]
+1 R/1 USMC/[X]
+1 R/1 USMC/[X]
+HQ/1 USMC/[X]
+11 AR/1 USMC/[X]
+1 Tk.Bn./1 USMC/[X]
+1 Eng.Bn./1 USMC/[X]
+11 AR/1 USMC/[X]
+Task Force Faith/[X]
+Task Force Faith/[X]
+Chinhung-ni
+Koto-ri
+Hagaru-ri
+Shinhung-ni
+Hudong-ni
+Yudam-ni
+Aistrip
+Chosin Reservoir
+Changjin River
+P'ungniury River
+235 R/79 PLA Div./[27A]
+236 R/79 PLA Div./[27A]
+237 R/79 PLA Div./[27A]
+238 R/80 PLA Div./[27A]
+239 R/80 PLA Div./[27A]
+240 R/80 PLA Div./[27A]
+[27 PLA HQ]
+[27 PLA]
+265 R/89 PLA Div./[20A]
+266 R/89 PLA Div./[20A]
+267 R/89 PLA Div./[20A]
+175 R/59 PLA Div./[20A]
+176 R/59 PLA Div./[20A]
+177 R/59 PLA Div./[20A]
+172 R/58 PLA Div./[20A]
+173 R/58 PLA Div./[20A]
+174 R/58 PLA Div./[20A]
+178 R/60 PLA Div./[20A]
+179 R/60 PLA Div./[20A]
+180 R/60 PLA Div./[20A]
+[20A]
+[20 PLA Army Militia]
+[20 PLA]
+[20 PLA HQ]
+[20A]
+[20 PLA]
+[20A]
+60 PLA Div./[20A]
+58 PLA Div./[20A]
+59 PLA Div./[20A]
+US Navy
+CPV
+[X Corps]
+PLAA
+PLAA
+[X Corps Defensive Line]
+[X Corps Defensive Line]
+[1 USMC Div.]

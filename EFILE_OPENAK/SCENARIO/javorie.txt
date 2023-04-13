@@ -1,0 +1,48 @@
+Javorie Mountains
+Dobra Niva
+Krupinica
+Tisovnik
+Lake
+Cinobana
+Pliesovce
+Horny Tisovnik
+Lovinobana
+Oremov Laz
+Krupina
+Senohrad
+Tomasovce
+Halic
+Lucenec
+Litava
+Senne
+28 R/8 JgDiv
+38 R/8 JgDiv
+84 R/8 JgDiv
+/8 JgDiv
+178 R/76 ID
+203 R/76 ID
+230 R/76 ID
+/76 ID
+176 R/76 ID
+/228 ID
+1 R/2 ID/[VII]
+26 R/2 ID/[VII]
+31 R/2 ID/[VII]
+9 aR/2 ID/[VII]
+14 aR/2 ID/[VII]
+/[VII]
+23 R/ 10 ID/[VII]
+38 R/10 ID/[VII]
+33 R/10 ID/[VII]
+3 aR/10 ID/[VII]
+20 aR/10 ID/[VII]
+94 R/19 ID/[VII]
+95 R/19 ID/[VII]
+96 R/19 ID/[VII]
+37 aR/19 ID/[VII]
+3 /3 MD/[IV]
+6 /3 MD/[IV]
+4 /2 MD/[IV]
+5 /2 MD/[IV]
+3 a/3 MD/[IV]
+2 a/2 MD/[IV]

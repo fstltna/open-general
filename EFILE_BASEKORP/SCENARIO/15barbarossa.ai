@@ -1,0 +1,97 @@
+'---
+'Config AI file for scenario: 15Barbarossa.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=0 
+$buy_newair=30 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3  
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2  
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=79 items  ' Replacement for default list
+ 474  '  37mm ZP-39  [ AD  Russia]  Cost: 144
+ 475  '  76.2mm ZP-38  [ AD  Russia]  Cost: 288
+ 476  '  45mm PTP-37  [ AT  Russia]  Cost: 84
+ 477  '  76.2mm F-22  [ AT  Russia]  Cost: 132
+ 484  '  122mm M-30  [ATY  Russia]  Cost: 420
+ 485  '  152mm ML-20  [ATY  Russia]  Cost: 1092
+ 489  '  Katyusha 82mm  [ATY  Russia]  Cost: 420
+ 496  '  Kavaleria 41  [INF  Russia]  Cost: 144
+ 502  '  Marine Infantry 41  [INF  Russia]  Cost: 108
+ 505  '  BA-10  [RCN  Russia]  Cost: 312
+ 511  '  BT-5  [ TK  Russia]  Cost: 300
+ 512  '  BT-7  [ TK  Russia]  Cost: 324
+ 515  '  KV-1/39  [ TK  Russia]  Cost: 708
+ 516  '  KV-1/40  [ TK  Russia]  Cost: 792
+ 518  '  KV-2  [ AT  Russia]  Cost: 768
+ 520  '  T-26B  [ TK  Russia]  Cost: 276
+ 521  '  T-34/40  [ TK  Russia]  Cost: 552
+ 522  '  T-34/41  [ TK  Russia]  Cost: 600
+ 530  '  YaK-1  [FTR  Russia]  Cost: 564
+ 535  '  LaGG-3  [FTR  Russia]  Cost: 564
+ 537  '  MiG-3  [FTR  Russia]  Cost: 564
+ 538  '  I-16-29  [FTR  Russia]  Cost: 504
+ 542  '  IL-2  [ TB  Russia]  Cost: 636
+ 576  '  203mm BR-4  [ATY  Russia]  Cost: 1452
+ 639  '  120mm Mortar  [ATY  Russia]  Cost: 312
+ 678  '  85mm ZP-39  [ AD  Russia]  Cost: 504
+ 681  '  NKVD 39  [INF  Russia]  Cost: 96
+ 683  '  FAI  [RCN  Russia]  Cost: 192
+ 684  '  BT-5A  [ TK  Russia]  Cost: 312
+ 685  '  BT-7A  [ TK  Russia]  Cost: 336
+ 686  '  BT-7M  [ TK  Russia]  Cost: 336
+ 832  '  Cossacks 38  [INF  Russia]  Cost: 252
+ 847  '  Motociklisti 40  [INF  Russia]  Cost: 264
+ 920  '  Mountain 38  [INF  Russia]  Cost: 276
+ 926  '  I-153  [FTR  Russia]  Cost: 420
+ 948  '  25mm ZP-40  [FlaK  Russia]  Cost: 96
+ 979  '  Pe-2  [ TB  Russia]  Cost: 720
+ 980  '  T-28  [ TK  Russia]  Cost: 480
+ 985  '  SB 2  [ TB  Russia]  Cost: 564
+ 995  '  Pe-2R  [ TB  Russia]  Cost: 408
+1777  '  Pe-8  [ LB  Russia]  Cost: 720
+1801  '  4xMG  [FlaK  Russia]  Cost: 132
+1807  '  76.2mm PP-27  [ AT  Russia]  Cost: 108
+1808  '  76.2mm E-2  [ AT  Russia]  Cost: 132
+1812  '  76.2mm M-41  [ATY  Russia]  Cost: 180
+1816  '  122mm A-19  [ATY  Russia]  Cost: 696
+1817  '  152mm M-10  [ATY  Russia]  Cost: 420
+1819  '  152mm BR-2  [ATY  Russia]  Cost: 1428
+1820  '  210mm BR-17  [ATY  Russia]  Cost: 2100
+1821  '  305mm BR18  [ATY  Russia]  Cost: 1644
+1824  '  107mm Mortar  [ATY  Russia]  Cost: 276
+1827  '  Siberian  [INF  Russia]  Cost: 204
+1829  '  MG 39  [FlaK  Russia]  Cost: 108
+1833  '  KV-8  [ AT  Russia]  Cost: 552
+1845  '  I-15  [FTR  Russia]  Cost: 384
+1846  '  I-16-10  [FTR  Russia]  Cost: 456
+1850  '  Pe-3  [FTR  Russia]  Cost: 576
+1854  '  TB-3  [ TB  Russia]  Cost: 564
+1856  '  Su-2  [ TB  Russia]  Cost: 432
+2589  '  R-10   [ TB  Russia]  Cost: 384
+2949  '  45mm  AB  [ AT  Russia]  Cost: 84
+2966  '  BA-6  [RCN  Russia]  Cost: 300
+3020  '  Katyusha  [ATY  Russia]  Cost: 600
+3024  '  Mineclearer  [INF  Russia]  Cost: 324
+3066  '  BA-20  [RCN  Russia]  Cost: 216
+3067  '  BA-27M  [RCN  Russia]  Cost: 240
+3170  '  Mountain Engineer 38  [INF  Russia]  Cost: 372
+3405  '  12.7mm DShK-38  [FlaK  Russia]  Cost: 60
+3755  '  Engineer 38  [INF  Russia]  Cost: 312
+3758  '  Novobranets 38  [INF  Russia]  Cost: 48
+3759  '  Parashutisti 38  [INF  Russia]  Cost: 264
+3804  '  38 Mototsikletnaya Razvedka  [RCN  Russia]  Cost: 204
+3828  '  Repair Crew  [INF  Russia]  Cost: 84
+4739  '  Maxim 4M AB  [FlaK  Russia]  Cost: 120
+5703  '  GST  [ LB  Russia]  Cost: 696
+7974  '  76.2mm AT/ATY  [ATY  Russia]  Cost: 180
+7975  '  Battery  [ATY  Russia]  Cost: 900
+7981  '  SU-203  [ATY  Russia]  Cost: 1800
+7984  '  Yag 76.2mm  [ATY  Russia]  Cost: 420

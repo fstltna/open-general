@@ -1,0 +1,7 @@
+Second Battle of Lodz
+30 November, 1914
+Gospodin General-Major, following the unsuccessful attempt to encircle our 2nd Army at Lodz, the line stabilized to the north of the city.  The Germans are now attempting to reduce the salient to the west and south-west of Lodz.  Receiving Austrian Carpathian forces (from the 2nd Austrian Army), the German 9th Army redeployed to take the city directly from the west.
+
+Stavka came upon the decision to evacuate Lodz and to consolidate the line at prepared positions west of Warsaw.  Our 2nd and 5th armies must fight heavy rearguard battles as the troops withdraw to a new position.
+
+Note: the victory conditions are reversed here.  A BV is impossible, and a Victory result is a loss.  You must hold your lines until the Tactical Victory limit, and then you may "capture" the evacuation victory hex to successfully complete your mission.

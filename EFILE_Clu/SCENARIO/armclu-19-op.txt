@@ -1,0 +1,11 @@
+Fortress Frankfurt
+
+04/16/1945
+
+On the morning of April 16, 1945, the Soviet attack on Berlin began. While the 1st Ukrainian Front (Konev) in the south is advancing quickly, the attack of the 1st Belorussian Front (Shukov) gets stuck in front of Seelow. 
+In the Frankfurt area, hard fighting is reported west of the Reitwein Spur and around the Soviet bridgehead at the Eichwald (Oak Wood). The Fortress itself is left quite untouched.
+
+You have to hold the victory hexes at Frankfurt (13,16; 11,15; 12,18), Dolgelin (02,01) and Muellrose (05,27) for a BV, three (3) of them for a V and one (1) for a TV. This is a reversed and modified version of my PBEM-scenario. German units are short on ammo and fuel.
+
+14 deploy hexes. New units have strength 8.
+

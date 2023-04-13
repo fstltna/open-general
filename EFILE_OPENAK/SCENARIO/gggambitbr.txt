@@ -1,0 +1,70 @@
+Gambit Barbarossa
+River Bug
+River Nurzec
+River Ljasnaja Levaja
+Pohranicnaja
+Siemiatycze
+Balava
+Kobryn
+River Bug Tributary
+River Machawic
+Zabinka
+Losice
+Brest Citadel
+Brest
+River Krzna
+Biala Podlaska
+Miedzyrzec Podlaski
+Kan. Wieprz-Krzna
+Bradzjacin
+Radzyn Podlaski
+Hanna
+vos Arechauskae
+I/44/22nd Tk(XIV)
+II/43/22nd Tk(XIV)
+I/60/30th Tk(XIV)
+I/61/30th Tk(XIV)
+I/30/30th Tk(XIV)
+I/84/6th Rifle(XXVIII)
+I/125/6th Rifle(XXVIII)
+I/28/75th Rifle(XXVIII)
+I/333/6th Rifle(XXVIII)
+I/15/49th Rifle(XXVIII)
+I/212/49th Rifle(XXVIII)
+I/222/49th Rifle(XXVIII)
+I/44/42nd Rifle(XXVIII)
+II/44/42nd Rifle(XXVIII)
+I/455/42nd Rifle(XXVIII)
+I/459/42nd Rifle(XXVIII)
+II/84/6th Rifle(XXVIII)
+II/125/6th Rifle(XXVIII)
+II/459/42nd Rifle(XXVIII)
+II/455/42nd Rifle(XXVIII)
+I/12/31st Inf(XII)
+I/17/31st Inf(XII)
+II/82/31st Inf(XII)
+II/80/34th Inf(XII)
+I/253/34th Inf(XII)
+I/131/6th Rifle(XXVIII)
+I/235/75th Rifle(XXVIII)
+I/226/205 Mech(XIV)
+II/672/205 Mech(XIV)
+II/721/205 Mech(XIV)
+124IAP/10ShAD
+51IAP/10ShAD
+77IAP/10ShAD
+12BAD/10ShAD
+19BAD/10ShAD
+Large stack at Brest
+Infantry
+1/17/NKVD Border Grds(XXVIII)
+2/17/NKVD Border Grds(XXVIII)
+3/17/NKVD Border Grds(XXVIII)
+Brest Fortifications
+II/17/42nd Rifle(XXVIII)
+III/31/31st Inf(XII)
+III/164/205 Mech(XIV)
+Disembark Railgun
+III/34/34th Inf(XII)
+River Bug (Bridge)
+River Machawic (Bridge)

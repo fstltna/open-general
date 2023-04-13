@@ -1,0 +1,10 @@
+Szolnok
+1849. I. 22-24.
+
+Görgei hadtestével a Felvidékre vonult, hogy onnét fenyegesse a császári fõsereg oldalát. Windisch-Grätz ezért megosztotta seregét, és csak korlátozott erõket küldött a Tiszához. Ezredes úr, az Ön feladata egy merész rohammal visszavennie Szolnokot, és ha teheti: Ceglédet.
+
+Elhelyezhetõ egység: 18
+
+KÜLDETÉS: Foglald el az összes gyõzelmi pontot.
+
+JAVASLAT: 2 vasúti szállító áll rendelkezésedre.

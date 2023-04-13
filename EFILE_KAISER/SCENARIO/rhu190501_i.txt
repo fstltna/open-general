@@ -1,0 +1,16 @@
+Szolnok: Securing The Bridgehead
+
+May 1, 1919
+
+Comrade Commisar, the Romanians have reached the Tisza, and a smaller vanguard has crossed the river at Szolnok. The retreat must end here and now, if the main troops of the reactionists can cross the Tisza, our proletarian state will collapse. Your job is to secure the western bank of the river and form a bridgehead on the eastern bank, if possible. But be cautious, more and more Romanian divisions are on their way.
+
+ORDER: Hold at least 4 VHs and keep your MSU alive.
+
+NOTES:
+- You are awarded by an Ammunition Wagon (depot RTP) detachment.
+- You can purchase two new units.
+- You have 4 free RTP slots.
+
+14 Turns
+
+Scenario designed by Csaba (lvjtn)

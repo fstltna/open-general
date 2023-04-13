@@ -1,0 +1,56 @@
+1914-18 KuK 11TH ROYAL CAVALRY DIVISION
+
+Version: 1.1
+Equipment File: Kaiser General
+Number of Scenarios: 15
+Player Country: Austro-Hungarian Empire
+Campaign Designer: Csaba (lvjtn)
+License: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Playtesters: Redfox, Tinyrodent
+
+You will command the Hungarian 11. Királyi (Honvéd) Huszár Hadosztály fighting in Galicia, Bukovina, Transylvania, Romania and Italy.
+
+This campaign is semi-historical: all scenarios refer to real battles, but there are no historical OOBs at all.
+
+-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-
+Suggested prestige %: 150 (novice), 100 (default), 50 (expert)
+AI prestige should always be 100%
+-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-
+
+UNIT NAMES:
+
+"Division/Brigade/Regiment City" or "Division/-/Company Role"
+e.g. "11/22/3 Szeged" means "11. Division 22. Brigade 3. Regiment recruited in Szeged"
+
+Géppuskás = Machine Gun(ner)
+Hegyi üteg = Mountain Artillery / Battery
+Légelhárító = Air Defense
+Lovasüteg = Horse Artillery / Battery
+Parancsnokság = Headquarters
+Utász = Sapper
+
+NOTES:
+- The HQ Inf represents your headquarters. You must keep this unit alive during the whole campaign!
+- There is a 1 SP "trap" unit in each scenario to prevent a sudden victory by killing all enemy units. Please don't kill it if you discover its position.
+- Use the gathered PP on reinforcing your units (don't keep it, if you are near the cap), at the end of the scenarios they won't be refit automatically.
+- Units lose 25% of their actual experience when upgraded.
+- All core units are free (don't count against the cap).
+- You can't purchase new units, but you can repurchase the lost units -- though losing a core is not recommended.
+- Attachments are available. They give +1 bonus only, but no malus.
+- It's an Austro-Hungarian campaign, don't expect an "all BVs" record :)
+
+APPLIED RULES:
+- no protos at all
+- no friendly supply hexes, deployment is limited
+- advanced spotting rules (extended LOS)
+- reinforcements arrive when player is active, but have only 50% movement points
+- direct LOF is blocked by bad terrains
+- ports don't behave as SH
+- green (GR) and elite (ER) replacements are enabled:
+* GR costs = 100%
+* GR takes 50% experience of the refitted unit
+* ER costs = 133%
+* leader will be removed if unit loses all its bars due to replacements
+- ground conditions are changed by weather (except some winter scenarios)
+- "build" and "repair" are enabled, but "blow" and "barrage fire" are disabled
+- evade efile special (see light recons) is disabled

@@ -1,0 +1,27 @@
+'---
+'Config purchase file for scenario: Panther3.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 16 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+3063  '  Pz IVE  [ TK  Germany]  Cost: 468
+ 617  '  Pz IVF  [ TK  Germany]  Cost: 552
+ 150  '  Pz IVG  [ TK  Germany]  Cost: 612
+ 151  '  Pz IVH  [ TK  Germany]  Cost: 684
+3421  '  Kradschutzen 40  [INF  Germany]  Cost: 204
+ 155  '  SdKfz 250/1  [RCN  Germany]  Cost: 228
+ 730  '  SdKfz 250/3  [RCN  Germany]  Cost: 252
+ 729  '  SdKfz 250/10  [RCN  Germany]  Cost: 288
+  75  '  SdKfz 10/4  [FlaK  Germany]  Cost: 252
+  73  '  SdKfz 7/1  [FlaK  Germany]  Cost: 396
+2729  '  37mm Flak36 LKW  [ AD  Germany]  Cost: 300
+  74  '  SdKfz 6/2  [ AD  Germany]  Cost: 420
+
+#1    '  Item/s for Player2 follow...
+ 530  '  YaK-1  [FTR  Russia]  Cost: 564
+1850  '  Pe-3  [FTR  Russia]  Cost: 576
+4481  '  La-5  [FTR  Russia]  Cost: 684
+ 698  '  YaK-7B  [FTR  Russia]  Cost: 684

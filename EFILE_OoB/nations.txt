@@ -1,0 +1,128 @@
+
+* Read carefully before editing!
+*------------------------------------------------------------------------------------------
+* Lines can be of any length, only the first 96 chars will be read.
+* Blank lines and those starting with * are not read.
+* Line's text & data can be changed, but do not change the sequence.
+*------------------------------------------------------------------------------------------
+* Up to 255 lines can be used to define countries (first 3 are necessary) 
+*  "All Countries" plus 254 playable countries - "1" to "254".
+*   "All Countries" (or similar name) must be the first entry.
+*    At minimum, countries "1" and "2" must to be defined 
+*     (this provides at least one country for each opposing side).
+*------------------------------------------------------------------------------------------
+*------------------------------------------------------------------------------------------
+* "SS", "Gov. of National Salvation" (occupied Serbia), "Chetniks"
+*  and "Ireland" are included for flag purposes.
+*------------------------------------------------------------------------------------------
+
+*   Sides
+Side 1
+Side 2
+
+*   Nations
+All Countries
+Czechoslovakia
+Poland
+Denmark
+Norway
+Netherlands
+Belgium
+France
+Germany
+Austria
+United States
+Sweden
+Switzerland
+Italy
+Albania
+Hungary
+Slovakia
+Romania
+Croatia
+Bulgaria
+Soviet Union
+Yugoslav Partisans (Tito)
+Kingdom of Yugoslavia
+United Kingdom
+Greece
+Turkey
+Republican Spain
+Nationalist Spain
+Portugal
+Finland
+Estonia
+Latvia
+Lithuania
+SS
+Russian Liberation Army
+Italian Social Republic
+Axis (captured equipment)
+Allies (captured equipment)
+Free French Forces
+Canada
+Australia
+New Zealand
+British Raj
+South Africa
+Ethiopia
+Iraq
+Iran
+Afghanistan
+Free India
+State of Burma
+Thailand
+Japan
+Manchukuo
+Mengjiang
+Provisional Gov. of China
+Reformed Gov. of China
+Nanjing Nationalist Gov.
+Republic of China
+People's Liberation Army
+Mongolia
+Philippines
+Brazil
+South Korea
+North Korea
+Indonesia
+Revolutionary Forces
+Belarus
+Ukraine
+Nationalist Forces
+Gov. of National Salvation
+Chetniks
+Luxembourg
+Iceland
+Ireland
+Heroes
+Villains
+Irregular Forces
+77 (Empty)
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+100 (Empty)
+
+
+
+

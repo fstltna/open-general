@@ -1,0 +1,35 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 110  '  Albatros C.V  [ TB  German Empire]  Cost: 804
+ 112  '  Fokker D.IV  [FTR  German Empire]  Cost: 600
+ 122  '  AEG C.IV  [ TB  German Empire]  Cost: 888
+ 707  '  7,7cm FK 16 (ber. Art.)  [ATY  German Empire]  Cost: 588
+1003  '  10,5cm lFH 16  [ATY  German Empire]  Cost: 480
+1018  '  7,7cm IG L/20   [ AT  German Empire]  Cost: 216
+1041  '  Hansa-Brandenburg KDW  [FTR  German Empire]  Cost: 636
+1050  '  Albatros D.I  [FTR  German Empire]  Cost: 672
+1052  '  Halberstadt D.II  [FTR  German Empire]  Cost: 564
+1053  '  Albatros D.II  [FTR  German Empire]  Cost: 660
+1054  '  Fokker E.IV  [FTR  German Empire]  Cost: 540
+2083  '  7,7cm FK 16  [ATY  German Empire]  Cost: 384
+2292  '  Wacht  [INF  German Empire]  Cost: 72
+2333  '  10,5cm Geb H 12  [ATY  German Empire]  Cost: 348
+2834  '  7,62cm IG L/16.5 (r)  [ AT  German Empire]  Cost: 240
+2839  '  3,7cm TaK 16  [ AT  German Empire]  Cost: 180
+2876  '  Granatenwerfer 16  [ATY  German Empire]  Cost: 360
+3526  '  Albatros W.4  [FTR  German Empire]  Cost: 636
+3527  '  Fokker D.I  [FTR  German Empire]  Cost: 564
+3528  '  Fokker D.II  [FTR  German Empire]  Cost: 540
+3529  '  Fokker D.III  [FTR  German Empire]  Cost: 540
+3530  '  Fokker D.V  [FTR  German Empire]  Cost: 576
+3533  '  Halberstadt D.III  [FTR  German Empire]  Cost: 600
+3534  '  Halberstadt D.IV  [FTR  German Empire]  Cost: 600
+3535  '  Halberstadt D.V  [FTR  German Empire]  Cost: 636
+3547  '  Pfalz E.IV  [FTR  German Empire]  Cost: 516
+3565  '  Albatros C.VII  [ TB  German Empire]  Cost: 864
+3570  '  Aviatik C.III  [ TB  German Empire]  Cost: 636
+4300  '  Friedrichshafen FF.33l  [FTR  German Empire]  Cost: 648

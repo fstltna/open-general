@@ -1,0 +1,22 @@
+1864-71 PRUSSIAN CAMPAIGN
+
+Version: 1.0
+Equipment File: Kaiser General
+Number of Scenarios: 15
+Player Country: Prussia
+Campaign Designer: Urica
+Playtesters: Urica
+
+Since the beginning of the XIX century, and the rise of nationalist ideologies, the different German states had made great efforts to achieve some kind of economic and political union. However, it wasn't until the 1860's when Prussia, one of the most powerful German kingdoms, could lead the other states to unification. Through a skilled use of diplomacy and military power, and after winning three wars against Denmark, Austria and France, Prussia made possible, in just seven years, the transformation of Germany from a loose confederation into a Empire composed of 26 constituent states.
+
+This campaign recreates the main battles that Prussia fought during that historical period.
+
+
+
+
+
+
+
+
+
+

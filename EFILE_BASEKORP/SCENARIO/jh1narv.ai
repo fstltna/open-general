@@ -1,0 +1,73 @@
+'---
+'Config AI file for scenario: jh1narv.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=65 items  ' Replacement for default list
+ 183  '  120mm m/32  [ATY  Norway]  Cost: 240
+ 254  '  75mm m/01 Pv  [ AT  Norway]  Cost: 96
+ 255  '  75mm m/01  [ATY  Norway]  Cost: 144
+ 257  '  Gladiator IIA  [FTR  Norway]  Cost: 348
+ 259  '  Wagon  [TPT  Norway]  Cost: 24
+ 356  '  Repulse BC  [sBS  United Kingdom]  Cost: 1320
+ 358  '  County CA  [sBS  United Kingdom]  Cost: 804
+ 359  '  Leander CL  [sBS  United Kingdom]  Cost: 504
+ 360  '  Illustrious CV  [sCV  United Kingdom]  Cost: 864
+ 361  '  Tribal DD  [sDD  United Kingdom]  Cost: 288
+ 382  '  QL  [TPT  United Kingdom]  Cost: 72
+ 383  '  Bren Carrier  [TPT  United Kingdom]  Cost: 216
+ 398  '  C-47  [ATP  United Kingdom]  Cost: 348
+ 569  '  Transport  [NTP  Norway]  Cost: 60
+ 574  '  Transport  [ATP  Norway]  Cost: 348
+ 578  '  Bicycle Recon  [RCN  Norway]  Cost: 132
+ 616  '  35 Engineer  [INF  Norway]  Cost: 288
+ 632  '  Lastbil  [TPT  Norway]  Cost: 60
+1454  '  81mm mortar  [ATY  Norway]  Cost: 168
+1455  '  75mm m/11-24  [ATY  Norway]  Cost: 276
+1456  '  MG  [FlaK  Norway]  Cost: 96
+1462  '  C.VE  [ TB  Norway]  Cost: 288
+1463  '  Sleipner TB  [sDD  Norway]  Cost: 228
+1464  '  Norge BC  [sBS  Norway]  Cost: 744
+1465  '  B1 SS  [SUB  Norway]  Cost: 228
+1518  '  105mm m/04  [ATY  Norway]  Cost: 228
+1733  '  Wagon  [TPT  United Kingdom]  Cost: 12
+1735  '  Lightning CL  [sBS  United Kingdom]  Cost: 336
+1736  '  Fiji CL  [sBS  United Kingdom]  Cost: 528
+1737  '  Manchester CL  [sBS  United Kingdom]  Cost: 540
+1738  '  Dido CL  [sBS  United Kingdom]  Cost: 504
+1739  '  Exeter CA  [sBS  United Kingdom]  Cost: 792
+1740  '  Hood BC  [sBS  United Kingdom]  Cost: 1368
+1741  '  Royal Sovereign BB  [sBS  United Kingdom]  Cost: 1356
+1742  '  Queen Elizabeth BB  [sBS  United Kingdom]  Cost: 1404
+1743  '  Furious CV  [sCV  United Kingdom]  Cost: 684
+1744  '  Hermes CV  [sCV  United Kingdom]  Cost: 480
+1745  '  S SS  [SUB  United Kingdom]  Cost: 228
+1977  '  Bridging  [INF  Norway]  Cost: 216
+2469  '  120mm m/09  [ATY  Norway]  Cost: 204
+2471  '  Grensejeger  [INF  Norway]  Cost: 216
+2472  '  Garden  [INF  Norway]  Cost: 108
+2477  '  Cletrac  [TPT  Norway]  Cost: 60
+2482  '  MF-11  [ TB  Norway]  Cost: 324
+2483  '  He 115  [ TB  Norway]  Cost: 360
+2546  '  Horse  [TPT  Norway]  Cost: 12
+2547  '  Mules  [TPT  Norway]  Cost: 12
+2612  '  A DD  [sDD  United Kingdom]  Cost: 264
+2613  '  Horse  [TPT  United Kingdom]  Cost: 12
+2614  '  C8  [TPT  United Kingdom]  Cost: 84
+2615  '  Carrier  [TPT  United Kingdom]  Cost: 168
+2616  '  MW 15cwt  [TPT  United Kingdom]  Cost: 60
+2618  '  Pioneer  [TPT  United Kingdom]  Cost: 84
+2942  '  Horsa II  [ATP  United Kingdom]  Cost: 180
+2943  '  Hamilcar  [ATP  United Kingdom]  Cost: 180
+3122  '  Nordkap AM  [sDD  Norway]  Cost: 192
+3123  '  Snogg TB  [sDD  Norway]  Cost: 132
+3132  '  MTB-1 MTB  [sDD  United Kingdom]  Cost: 168
+3133  '  Halcyon AM  [sDD  United Kingdom]  Cost: 180
+3134  '  H 28 SS  [SUB  United Kingdom]  Cost: 216
+3135  '  Triton SS  [SUB  United Kingdom]  Cost: 240
+3311  '  Skis  [TPT  Norway]  Cost: 72
+3319  '  7.92mm m/29  [FlaK  Norway]  Cost: 36
+5823  '  Train  [RTP  Norway]  Cost: 120
+5831  '  Train  [RTP  United Kingdom]  Cost: 120

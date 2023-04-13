@@ -1,0 +1,32 @@
+1939-41 GUDERIAN'S GAMBIT
+
+As the famous panzer commander you must race your forces to take your objectives. Encircle and wipe out the Poles then move West to destroy the French before taking on the might of the Russian Bear. 
+
+You will engineer some of the most famous victories of all time- Brest, Sedan, Smolensk, Kiev before finally
+tasting defeat at the gates of Moscow.
+
+The original Guderian campaign has been re-engineered for Open General and makes use of many of the new and exciting features available. It includes a new Dunkirk scenario and a more realistic ending.
+
+Enjoy :)
+ 
+Doug Hone 2011
+
+RULES:
+ - Auto-refit is disabled
+ - Green replacement is enabled
+ - Blow / build / repair is allowed
+ - Air units can be fired when entering AD range
+ - Barrage fire is allowed
+ - True spotting zero
+ - Extended LOS (aka advanced spotting) rules
+ - Roads are allowed on any terrain
+ - Reinforcement is arrived when player is active, but have only 67% movement points
+ - Added core behaves as prototype
+ - Weather can change ground condition
+ - Max Core is limited, there are no friendly SH
+
+Campaign Designer: Doug Hone
+Number of Scenarios: 22
+LXF Conversion: Csaba Zsadányi-Nagy, based on GG for OpenAK v3.0
+LXF Version: v4.0 (?)
+Last Playtest: 02/2017 by Csaba

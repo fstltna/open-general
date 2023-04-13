@@ -1,0 +1,104 @@
+'---
+'Config AI file for scenario: OAKSB_S_suomuss.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=60 
+$buy_newair=40 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3     
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2     
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=86 items  ' Replacement for default list
+ 474  '  37mm ZP-39  [ AD  SSSR]  Cost: 168
+ 475  '  76.2mm ZP-38  [ AD  SSSR]  Cost: 468
+ 476  '  45mm PTP-37  [ AT  SSSR]  Cost: 72
+ 477  '  76,2mm PP-27  [ AT  SSSR]  Cost: 72
+ 484  '  122mm M-30  [ATY  SSSR]  Cost: 252
+ 485  '  152mm ML-20  [ATY  SSSR]  Cost: 756
+ 486  '  76,2mm F-22  [ATY  SSSR]  Cost: 180
+ 499  '  38 Saperno-mostovoi  [INF  SSSR]  Cost: 156
+ 505  '  BA-10  [RCN  SSSR]  Cost: 384
+ 511  '  BT-5/34  [ TK  SSSR]  Cost: 300
+ 512  '  BT-7/37  [ TK  SSSR]  Cost: 312
+ 520  '  T-26/38  [ TK  SSSR]  Cost: 312
+ 576  '  203mm BR-4  [ATY  SSSR]  Cost: 1020
+ 678  '  85mm ZP-39  [ AD  SSSR]  Cost: 516
+ 679  '  152mm M-09/30  [ATY  SSSR]  Cost: 444
+ 681  '  39 Voiska NKVD  [INF  SSSR]  Cost: 132
+ 683  '  FAI M  [RCN  SSSR]  Cost: 168
+ 685  '  BT-7A  [ AT  SSSR]  Cost: 288
+ 686  '  BT-7M/39  [ TK  SSSR]  Cost: 324
+ 832  '  38 Kazaki  [INF  SSSR]  Cost: 216
+ 920  '  38 Gornostrelkovy  [INF  SSSR]  Cost: 264
+ 926  '  I-153  [FTR  SSSR]  Cost: 624
+ 980  '  T-28/38  [ TK  SSSR]  Cost: 444
+ 985  '  SB 2M-100  [ TB  SSSR]  Cost: 720
+1139  '  82mm BM-37 AB  [ATY  SSSR]  Cost: 276
+1801  '  Maxim 4M  [FlaK  SSSR]  Cost: 48
+1803  '  37mm PTP-30  [ AT  SSSR]  Cost: 72
+1808  '  76,2mm M-02/30  [ AT  SSSR]  Cost: 72
+1810  '  76,2mm PP-27  [ATY  SSSR]  Cost: 84
+1811  '  76,2mm M-02/30  [ATY  SSSR]  Cost: 144
+1813  '  76,2mm E-2  [ATY  SSSR]  Cost: 300
+1814  '  107mm M-10/30  [ATY  SSSR]  Cost: 216
+1815  '  122mm M-10/30  [ATY  SSSR]  Cost: 216
+1816  '  122mm A-19  [ATY  SSSR]  Cost: 528
+1817  '  152mm M-10  [ATY  SSSR]  Cost: 540
+1819  '  152mm BR-2  [ATY  SSSR]  Cost: 1344
+1823  '  82mm BM-37  [ATY  SSSR]  Cost: 84
+1824  '  107mm PBHM-38  [ATY  SSSR]  Cost: 444
+1829  '  38 Pulemetny  [ AT  SSSR]  Cost: 96
+1839  '  OT-133  [ TK  SSSR]  Cost: 312
+1840  '  T-26/31  [ TK  SSSR]  Cost: 156
+1841  '  T-27  [ TK  SSSR]  Cost: 156
+1842  '  T-35/39  [ TK  SSSR]  Cost: 636
+1845  '  I-15 M-25  [FTR  SSSR]  Cost: 528
+1846  '  I-16-10  [FTR  SSSR]  Cost: 684
+2429  '  38 Strelkovy  [INF  SSSR]  Cost: 60
+2430  '  39 Novobrantsy  [INF  SSSR]  Cost: 60
+2589  '  R-Z  [ TB  SSSR]  Cost: 600
+2791  '  76,2mm M-09  [ATY  SSSR]  Cost: 276
+2949  '  45mm PTP-37 AB  [ AT  SSSR]  Cost: 216
+2950  '  76,2mm E-2 AB  [ATY  SSSR]  Cost: 300
+2966  '  BA-6  [RCN  SSSR]  Cost: 384
+3066  '  BA-20  [RCN  SSSR]  Cost: 168
+3067  '  BA-I  [RCN  SSSR]  Cost: 312
+3170  '  38 Gornosaperny  [INF  SSSR]  Cost: 684
+3405  '  12,7mm DShK-38  [FlaK  SSSR]  Cost: 48
+3406  '  38 Kavaleriya  [INF  SSSR]  Cost: 120
+3755  '  38 Saperno-Shturmovoi  [INF  SSSR]  Cost: 276
+3756  '  38 Vnutrennie voiska NKVD  [INF  SSSR]  Cost: 60
+3757  '  38 Motostrelkovy  [INF  SSSR]  Cost: 72
+3758  '  38 Pogranvoiska  [INF  SSSR]  Cost: 84
+3759  '  38 Vozdushno-desantny  [INF  SSSR]  Cost: 264
+3760  '  38 Mototsiklisty  [INF  SSSR]  Cost: 204
+3803  '  38 Razvedchiki  [RCN  SSSR]  Cost: 144
+3804  '  38 Mototsikletnaya razvedka  [RCN  SSSR]  Cost: 132
+3805  '  38 Konnaya razvedka  [RCN  SSSR]  Cost: 108
+3806  '  38 Gornaya kavaleriya  [RCN  SSSR]  Cost: 204
+3822  '  38 Tachanka  [ AT  SSSR]  Cost: 96
+4116  '  R-10  [ TB  SSSR]  Cost: 660
+4118  '  R-5  [ TB  SSSR]  Cost: 444
+4473  '  I-16-5  [FTR  SSSR]  Cost: 624
+4474  '  I-16-27  [ TB  SSSR]  Cost: 864
+4484  '  SB 2M-103  [ TB  SSSR]  Cost: 816
+4713  '  KOR-1  [ TB  SSSR]  Cost: 588
+4739  '  Maxim 4M AB  [FlaK  SSSR]  Cost: 48
+5478  '  DI-6Sh  [ TB  SSSR]  Cost: 588
+5696  '  IP-1  [FTR  SSSR]  Cost: 804
+5971  '  SU-12  [ATY  SSSR]  Cost: 348
+5972  '  BT-2/32  [ TK  SSSR]  Cost: 168
+5973  '  SU-4  [ AT  SSSR]  Cost: 156
+5974  '  D-8  [RCN  SSSR]  Cost: 192
+5975  '  FAI  [RCN  SSSR]  Cost: 168
+5976  '  D-12  [FlaK  SSSR]  Cost: 168
+5979  '  T-26/33  [ TK  SSSR]  Cost: 300
+5980  '  T-26/39  [ TK  SSSR]  Cost: 336
+5981  '  T-28/34  [ TK  SSSR]  Cost: 444

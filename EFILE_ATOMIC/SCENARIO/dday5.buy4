@@ -1,0 +1,571 @@
+'---
+'Config purchase file for scenario: dday5.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 560 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+ 182  '  Tiger Moth  [ TB  United Kingdom]  Cost: 252
+ 321  '  40mm I  [ AD  United Kingdom]  Cost: 144
+ 322  '  40mm Truck  [ AD  United Kingdom]  Cost: 480
+ 323  '  17pdr  [ AT  United Kingdom]  Cost: 312
+ 326  '  Achilles  [ AT  United Kingdom]  Cost: 780
+ 327  '  Wolverine  [ AT  United Kingdom]  Cost: 648
+ 330  '  5.5inch  [ATY  United Kingdom]  Cost: 1020
+ 331  '  7.2inch I  [ATY  United Kingdom]  Cost: 1188
+ 332  '  Bishop  [ATY  United Kingdom]  Cost: 504
+ 337  '  Entrenched 18  [INF  Canada]  Cost: 168
+ 338  '  Entrenched 18  [INF  United Kingdom]  Cost: 168
+ 348  '  AEC I  [RCN  United Kingdom]  Cost: 336
+ 349  '  AEC II  [RCN  United Kingdom]  Cost: 396
+ 350  '  AEC III  [RCN  United Kingdom]  Cost: 420
+ 351  '  Daimler AC I  [RCN  United Kingdom]  Cost: 300
+ 352  '  Humber II  [RCN  United Kingdom]  Cost: 228
+ 353  '  Humber IV  [RCN  United Kingdom]  Cost: 276
+ 354  '  Daimler Dingo  [RCN  United Kingdom]  Cost: 228
+ 355  '  Staghound I  [RCN  United Kingdom]  Cost: 348
+ 363  '  Challenger  [ TK  United Kingdom]  Cost: 1152
+ 365  '  Churchill IICS  [ TK  United Kingdom]  Cost: 636
+ 367  '  Cromwell VI  [ TK  United Kingdom]  Cost: 504
+ 368  '  Cromwell VII  [ TK  United Kingdom]  Cost: 564
+ 376  '  Stuart V  [ TK  United Kingdom]  Cost: 348
+ 378  '  Firefly V  [ TK  United Kingdom]  Cost: 1212
+ 380  '  Valentine XI  [ TK  United Kingdom]  Cost: 588
+ 384  '  Pechoty Príkop 18  [INF  Czechoslovakia]  Cost: 168
+ 388  '  Spitfire IXB  [FTR  United Kingdom]  Cost: 852
+ 389  '  Spitfire VC  [FTR  United Kingdom]  Cost: 732
+ 390  '  Spitfire XIIE  [FTR  United Kingdom]  Cost: 924
+ 391  '  Spitfire XIVE  [FTR  United Kingdom]  Cost: 960
+ 393  '  Baltimore III  [ TB  United Kingdom]  Cost: 780
+ 394  '  Baltimore V  [ TB  United Kingdom]  Cost: 792
+ 395  '  Mosquito VI  [ TB  United Kingdom]  Cost: 900
+ 396  '  Tempest V  [FTR  United Kingdom]  Cost: 1068
+ 397  '  Typhoon I  [ TB  United Kingdom]  Cost: 996
+ 399  '  3inch M3  [ AD  USA]  Cost: 288
+ 400  '  T28E1 CGMC  [ AD  USA]  Cost: 528
+ 401  '  M15  [ AD  USA]  Cost: 492
+ 402  '  M16  [FlaK  USA]  Cost: 348
+ 403  '  3inch M5  [ AT  USA]  Cost: 180
+ 405  '  57mm M1  [ AT  USA]  Cost: 120
+ 406  '  M10  [ AT  USA]  Cost: 648
+ 407  '  M18 Hellcat  [ AT  USA]  Cost: 612
+ 408  '  M3 GMC  [ AT  USA]  Cost: 192
+ 409  '  M36  [ AT  USA]  Cost: 756
+ 410  '  M2A1/M101 105mm Howitzer  [ATY  USA]  Cost: 240
+ 411  '  M1 155mm Howitzer  [ATY  USA]  Cost: 1056
+ 412  '  M8 AB 75mm Howitzer  [ATY  USA]  Cost: 312
+ 414  '  M12 155mm  [ATY  USA]  Cost: 1392
+ 415  '  M4-105  [ TK  USA]  Cost: 576
+ 416  '  M7 Priest  [ATY  USA]  Cost: 684
+ 417  '  M8  [ATY  USA]  Cost: 480
+ 418  '  T19 HMC  [ATY  USA]  Cost: 648
+ 419  '  Bunker  [FRT  USA]  Cost: 144
+ 420  '  Fort  [FRT  USA]  Cost: 168
+ 421  '  Entrenched 18  [INF  USA]  Cost: 168
+ 428  '  M20  [RCN  USA]  Cost: 252
+ 430  '  M8 Greyhound  [RCN  USA]  Cost: 288
+ 431  '  M3A1 Scout Car  [RCN  USA]  Cost: 216
+ 440  '  M5A1  [RCN  USA]  Cost: 336
+ 443  '  M4A1  [ TK  USA]  Cost: 552
+ 444  '  M4A1-76W  [ TK  USA]  Cost: 744
+ 445  '  M4A3  [ TK  USA]  Cost: 564
+ 446  '  M4A3E2  [ TK  USA]  Cost: 588
+ 447  '  M4A3-76W HVSS  [ TK  USA]  Cost: 792
+ 449  '  GMC 3t  [TPT  USA]  Cost: 84
+ 450  '  M3A2  [TPT  USA]  Cost: 240
+ 452  '  F4U-1 Corsair  [FTR  USA]  Cost: 924
+ 454  '  P-38J Lightning  [FTR  USA]  Cost: 936
+ 455  '  P-38L Lightning  [FTR  USA]  Cost: 960
+ 458  '  P-47D Thunderbolt  [FTR  USA]  Cost: 1080
+ 459  '  P-47N Thunderbolt  [FTR  USA]  Cost: 1104
+ 461  '  P-51D Mustang  [FTR  USA]  Cost: 960
+ 466  '  B-25G Mitchell  [ TB  USA]  Cost: 924
+ 467  '  B-25H Mitchell  [ TB  USA]  Cost: 1152
+ 468  '  B-25J Mitchell  [ TB  USA]  Cost: 996
+ 469  '  PBJ-1C Mitchell  [ TB  USA]  Cost: 744
+ 471  '  A-36 Apache  [ TB  USA]  Cost: 804
+ 493  '  Wagon  [TPT  Czechoslovakia]  Cost: 24
+ 626  '  Archer  [ AT  United Kingdom]  Cost: 696
+ 631  '  Daimler AC ICS  [RCN  United Kingdom]  Cost: 348
+ 633  '  Staghound III  [RCN  United Kingdom]  Cost: 444
+ 635  '  Centaur I  [ TK  United Kingdom]  Cost: 480
+ 636  '  Centaur IVCS  [ TK  United Kingdom]  Cost: 492
+ 641  '  Churchill VCS  [ TK  United Kingdom]  Cost: 708
+ 642  '  Churchill VIII  [ TK  United Kingdom]  Cost: 792
+ 643  '  Churchill VIIICS  [ TK  United Kingdom]  Cost: 744
+ 658  '  Valentine VIII  [ TK  United Kingdom]  Cost: 528
+ 670  '  T30 HMC  [ATY  USA]  Cost: 492
+ 674  '  M3A3  [ TK  USA]  Cost: 324
+ 677  '  M4A3E2-76W  [ TK  USA]  Cost: 960
+ 720  '  Tetrarch  [ TK  United Kingdom]  Cost: 396
+ 731  '  M13  [FlaK  USA]  Cost: 228
+ 734  '  Churchill Crocodile  [ TK  United Kingdom]  Cost: 852
+ 868  '  Supply Camp  [FRT  USA]  Cost: 240
+ 897  '  Mosquito PR  [ TB  United Kingdom]  Cost: 444
+ 898  '  40mm M1  [ AD  USA]  Cost: 144
+ 994  '  Tempest II  [FTR  United Kingdom]  Cost: 1068
+ 999  '  Regular Infantry 44  [INF  USA]  Cost: 132
+1101  '  Pechota 44  [INF  Czechoslovakia]  Cost: 132
+1293  '  Willys Jeep  [TPT  USA]  Cost: 156
+1686  '  Crusader AA II  [FlaK  United Kingdom]  Cost: 360
+1687  '  6pdr IV  [ AT  United Kingdom]  Cost: 180
+1692  '  M1 75mm Airborne  [ATY  United Kingdom]  Cost: 192
+1694  '  7.2inch Mk 6  [ATY  United Kingdom]  Cost: 1416
+1695  '  155mm Long Tom  [ATY  United Kingdom]  Cost: 1596
+1697  '  Regular Infantry 44  [INF  United Kingdom]  Cost: 132
+1701  '  Marmon-Herrington II  [RCN  United Kingdom]  Cost: 204
+1702  '  Marmon-Herrington III  [RCN  United Kingdom]  Cost: 240
+1703  '  Staghound IICS  [RCN  United Kingdom]  Cost: 396
+1704  '  Otter I  [RCN  Canada]  Cost: 228
+1711  '  Churchill AVRE  [ AT  United Kingdom]  Cost: 516
+1713  '  Cromwell IV  [ TK  United Kingdom]  Cost: 564
+1714  '  Firefly II  [ TK  United Kingdom]  Cost: 1164
+1715  '  Sherman III  [ TK  United Kingdom]  Cost: 744
+1716  '  Sherman II  [ TK  United Kingdom]  Cost: 588
+1719  '  Meteor F.1  [FTR  United Kingdom]  Cost: 1116
+1722  '  Beaufort  [ TB  United Kingdom]  Cost: 540
+1726  '  Hudson I  [ TB  United Kingdom]  Cost: 504
+1733  '  Bedford QL  [TPT  United Kingdom]  Cost: 84
+1748  '  40 mm / SCR-584 Mobile Radar  [ AD  USA]  Cost: 348
+1750  '  M1 81mm Mortar   [ATY  USA]  Cost: 204
+1751  '  M2 107mm Mortar  [ATY  USA]  Cost: 264
+1752  '  M1A1 75mm Howitzer  [ATY  USA]  Cost: 240
+1755  '  M3 AB 105mm Howitzer  [ATY  USA]  Cost: 384
+1757  '  155mm Long Tom  [ATY  USA]  Cost: 1596
+1760  '  M1 240mm Howitzer  [ATY  USA]  Cost: 1584
+1761  '  M1 203mm Howitzer  [ATY  USA]  Cost: 1500
+1765  '  M4  [ TK  USA]  Cost: 516
+1766  '  M4A3-75W  [ TK  USA]  Cost: 576
+1767  '  M4A3-76W  [ TK  USA]  Cost: 768
+1768  '  M4A4  [ TK  USA]  Cost: 564
+1769  '  M4A6  [ TK  USA]  Cost: 564
+1770  '  M22 Locust  [ TK  USA]  Cost: 324
+1772  '  Airborne 50cal M51  [FlaK  USA]  Cost: 108
+1777  '  P-70 Havoc  [FTR  USA]  Cost: 912
+1780  '  P-61A-10 Black Widow  [FTR  USA]  Cost: 1176
+1783  '  PV-1 Ventura  [ TB  USA]  Cost: 660
+1788  '  Wagon  [TPT  USA]  Cost: 24
+1910  '  4.5inch BL  [ATY  United Kingdom]  Cost: 756
+1931  '  Carrier Recon  [RCN  United Kingdom]  Cost: 216
+1952  '  No. 1 Armoured Train  [ AT  Canada]  Cost: 300
+1957  '  Valentine D-Day  [ TK  United Kingdom]  Cost: 528
+1958  '  4.5inch II  [ AD  United Kingdom]  Cost: 804
+1961  '  M4A1 D-Day  [ TK  USA]  Cost: 672
+1998  '  Bedford MW  [TPT  United Kingdom]  Cost: 96
+2189  '  3.7inch  [ AD  Canada]  Cost: 396
+2190  '  40mm I  [ AD  Canada]  Cost: 144
+2193  '  6pdr IV  [ AT  Canada]  Cost: 180
+2194  '  17pdr  [ AT  Canada]  Cost: 312
+2195  '  Wolverine  [ AT  Canada]  Cost: 648
+2196  '  Archer  [ AT  Canada]  Cost: 696
+2199  '  4.5inch  [ATY  Canada]  Cost: 192
+2200  '  4.5inch BL  [ATY  Canada]  Cost: 756
+2201  '  5.5inch  [ATY  Canada]  Cost: 1020
+2202  '  25 pdr  [ATY  Canada]  Cost: 264
+2203  '  4.2inch mortar  [ATY  Canada]  Cost: 288
+2204  '  3inch Mortar  [ATY  Canada]  Cost: 204
+2205  '  75mm  [ATY  Canada]  Cost: 276
+2206  '  105mm  [ATY  Canada]  Cost: 240
+2207  '  Sexton  [ATY  Canada]  Cost: 648
+2211  '  Regular Infantry 44  [INF  Canada]  Cost: 132
+2217  '  Paratroopers 44  [INF  Canada]  Cost: 300
+2218  '  Staghound I  [RCN  Canada]  Cost: 348
+2219  '  Lynx  [RCN  Canada]  Cost: 228
+2220  '  Fox  [RCN  Canada]  Cost: 276
+2222  '  Carrier Recon  [RCN  Canada]  Cost: 216
+2225  '  Grizzly  [ TK  Canada]  Cost: 552
+2227  '  Stuart VI  [RCN  Canada]  Cost: 360
+2232  '  OKE  [ TK  Canada]  Cost: 600
+2233  '  Sherman II  [ TK  Canada]  Cost: 588
+2234  '  Sherman III  [ TK  Canada]  Cost: 744
+2238  '  Wagon  [TPT  Canada]  Cost: 24
+2239  '  Bedford QL  [TPT  Canada]  Cost: 84
+2240  '  Bren Carrier  [TPT  Canada]  Cost: 240
+2241  '  Kangaroo  [TPT  Canada]  Cost: 360
+2246  '  Spitfire IXB  [FTR  Canada]  Cost: 852
+2247  '  Spitfire XIVE  [FTR  Canada]  Cost: 960
+2251  '  Mustang III  [FTR  Canada]  Cost: 876
+2253  '  Beaufighter  [ TB  Canada]  Cost: 732
+2254  '  Beaufort  [ TB  Canada]  Cost: 540
+2256  '  Hudson I  [ TB  Canada]  Cost: 504
+2257  '  Mitchell II  [ TB  Canada]  Cost: 744
+2258  '  Mosquito VI  [ TB  Canada]  Cost: 900
+2259  '  Typhoon I  [ TB  Canada]  Cost: 996
+2261  '  Hurricane IID  [ TB  Canada]  Cost: 720
+2263  '  Halifax I  [ LB  Canada]  Cost: 720
+2264  '  Lancaster  [ LB  Canada]  Cost: 864
+2265  '  Liberator  [ LB  Canada]  Cost: 876
+2345  '  7.65mm Vickers   [FlaK  United Kingdom]  Cost: 48
+2346  '  M9  [RCN  USA]  Cost: 240
+2360  '  P-61B-15 Black Widow  [FTR  USA]  Cost: 1260
+2362  '  20mm  [FlaK  United Kingdom]  Cost: 60
+2364  '  20mm Portee  [FlaK  United Kingdom]  Cost: 204
+2603  '  Spitfire XVIE  [FTR  United Kingdom]  Cost: 972
+2606  '  Beaufighter  [ TB  United Kingdom]  Cost: 732
+2608  '  Boston  [ TB  United Kingdom]  Cost: 804
+2611  '  Anson I  [ TB  United Kingdom]  Cost: 360
+2616  '  CX22S  [TPT  United Kingdom]  Cost: 96
+2617  '  AEC Matador  [TPT  United Kingdom]  Cost: 96
+2634  '  Horse  [TPT  Canada]  Cost: 12
+2635  '  CMP C8  [TPT  Canada]  Cost: 96
+2637  '  MW 15cwt  [TPT  Canada]  Cost: 84
+2638  '  AEC Matador  [TPT  Canada]  Cost: 96
+2639  '  Scammell Pioneer  [TPT  Canada]  Cost: 84
+2640  '  CX22S  [TPT  Canada]  Cost: 96
+2688  '  K-Class blimp  [ TB  USA]  Cost: 372
+2713  '  Wellington GR.XII  [ LB  Canada]  Cost: 648
+2762  '  100mm Mortar  [ATY  Czechoslovakia]  Cost: 228
+2765  '  Jezdectvo 44  [INF  Czechoslovakia]  Cost: 168
+2780  '  Bren Carrier  [TPT  Czechoslovakia]  Cost: 240
+2782  '  Limber  [TPT  Czechoslovakia]  Cost: 36
+2792  '  Mules  [TPT  Czechoslovakia]  Cost: 72
+2794  '  Mustang I  [ TB  Canada]  Cost: 996
+2796  '  Bicycle Recon  [RCN  Czechoslovakia]  Cost: 156
+2867  '  T48 GMC  [ AT  USA]  Cost: 192
+2871  '  Paratroopers 44  [INF  USA]  Cost: 300
+2877  '  F6F-5 Hellcat  [FTR  USA]  Cost: 996
+2885  '  B-17G Flying Fortress  [ LB  USA]  Cost: 936
+2908  '  57mm M1 AB  [ AT  USA]  Cost: 132
+2909  '  37mm M3 AB  [ AT  USA]  Cost: 120
+2910  '  Airborne Scout Jeep  [RCN  USA]  Cost: 240
+2911  '  Dodge 2t  [TPT  USA]  Cost: 96
+2913  '  Dodge 8t  [TPT  USA]  Cost: 96
+2914  '  M3A1  [TPT  USA]  Cost: 180
+2915  '  GMC 7t  [TPT  USA]  Cost: 120
+2917  '  M35  [TPT  USA]  Cost: 252
+2923  '  Bren Airborne  [FlaK  United Kingdom]  Cost: 120
+2924  '  Airborne Scout Jeep  [RCN  United Kingdom]  Cost: 240
+2925  '  Willys Jeep  [TPT  United Kingdom]  Cost: 156
+2926  '  Cavalry 42  [INF  United Kingdom]  Cost: 168
+2929  '  Horse  [TPT  USA]  Cost: 12
+2930  '  Limber  [TPT  USA]  Cost: 36
+2931  '  GMC 1t  [TPT  USA]  Cost: 84
+2932  '  Dodge 4t  [TPT  USA]  Cost: 84
+2933  '  Dodge 6t  [TPT  USA]  Cost: 84
+2934  '  M5  [TPT  USA]  Cost: 168
+3104  '  17pdr  [ AT  Czechoslovakia]  Cost: 312
+3171  '  Carrier, 3inch  [ATY  United Kingdom]  Cost: 252
+3173  '  M4A1  [ATY  USA]  Cost: 300
+3177  '  Carrier MMG  [ AT  United Kingdom]  Cost: 252
+3178  '  Humber II  [RCN  Czechoslovakia]  Cost: 228
+3196  '  25 pdr  [ATY  Czechoslovakia]  Cost: 276
+3209  '  Airborne Scouts 43  [RCN  USA]  Cost: 348
+3240  '  Scammell Pioneer  [TPT  United Kingdom]  Cost: 84
+3242  '  Bren Carrier  [TPT  United Kingdom]  Cost: 240
+3277  '  20mm Airborne  [FlaK  United Kingdom]  Cost: 96
+3300  '  Crusader GT  [TPT  United Kingdom]  Cost: 216
+3301  '  Crusader GT  [TPT  Canada]  Cost: 276
+3303  '  M39  [TPT  USA]  Cost: 228
+3307  '  M3A1  [TPT  United Kingdom]  Cost: 240
+3311  '  M3A2 105mm Howitzer  [ATY  USA]  Cost: 228
+3324  '  Seafire I  [FTR  United Kingdom]  Cost: 876
+3359  '  GMC 5t  [TPT  USA]  Cost: 108
+3382  '  Stuart Recce  [RCN  United Kingdom]  Cost: 288
+3386  '  Cromwell V  [ TK  United Kingdom]  Cost: 540
+3387  '  Staghound AA  [FlaK  United Kingdom]  Cost: 264
+3391  '  20mm Polsten  [FlaK  United Kingdom]  Cost: 144
+3393  '  Inzenyri 44  [INF  Czechoslovakia]  Cost: 324
+3398  '  Achilles  [ AT  Canada]  Cost: 780
+3519  '  LVT(A)4 Ronson  [ TK  USA]  Cost: 444
+3704  '  MG 44  [FlaK  USA]  Cost: 180
+3820  '  Swordfish III  [ TB  United Kingdom]  Cost: 372
+3840  '  Paratroopers 44  [INF  United Kingdom]  Cost: 300
+3843  '  Swordfish III  [ TB  Canada]  Cost: 372
+3855  '  Royal Marines 44  [INF  United Kingdom]  Cost: 300
+3869  '  Mountain 44  [INF  United Kingdom]  Cost: 300
+3870  '  3.7inch Mountain Howitzer  [ATY  United Kingdom]  Cost: 384
+3880  '  PV-1 Ventura  [ LB  Canada]  Cost: 576
+3889  '  Combat Engineers 44  [INF  United Kingdom]  Cost: 324
+3896  '  B-24D Liberator  [ LB  USA]  Cost: 876
+3903  '  Conscripts 44  [INF  United Kingdom]  Cost: 84
+3910  '  Motorcycle Scouts 40  [RCN  United Kingdom]  Cost: 288
+3922  '  US Marine Corps 44  [INF  USA]  Cost: 300
+3936  '  Mountain 44  [INF  USA]  Cost: 300
+3981  '  DUKW  [TPT  USA]  Cost: 144
+3983  '  Mules  [TPT  USA]  Cost: 72
+4003  '  Fulmar II  [FTR  United Kingdom]  Cost: 600
+4004  '  Catalina Canso-A  [ TB  Canada]  Cost: 480
+4008  '  Boston III  [ TB  United Kingdom]  Cost: 816
+4011  '  Corsair II  [FTR  United Kingdom]  Cost: 924
+4012  '  Corsair IV  [ TB  United Kingdom]  Cost: 948
+4014  '  Hellcat I  [FTR  United Kingdom]  Cost: 936
+4016  '  Martlet IV  [FTR  United Kingdom]  Cost: 768
+4037  '  Lysander III  [ TB  United Kingdom]  Cost: 348
+4042  '  Mosquito PR  [ TB  USA]  Cost: 444
+4044  '  Taylorcraft Auster  [ TB  United Kingdom]  Cost: 216
+4062  '  Spitfire VIII  [FTR  United Kingdom]  Cost: 900
+4065  '  Wellington X  [ LB  United Kingdom]  Cost: 648
+4066  '  Stirling I  [ LB  United Kingdom]  Cost: 696
+4069  '  Welkin I  [FTR  United Kingdom]  Cost: 960
+4072  '  Vengeance  [ TB  United Kingdom]  Cost: 660
+4073  '  Thunderbolt II  [ TB  United Kingdom]  Cost: 936
+4075  '  Swordfish I  [ TB  United Kingdom]  Cost: 372
+4076  '  Sunderland III  [ LB  United Kingdom]  Cost: 600
+4084  '  Mosquito FB.XVIII  [ TB  United Kingdom]  Cost: 900
+4087  '  Mosquito B.XVI  [ TB  United Kingdom]  Cost: 852
+4108  '  Hurricane IV  [FTR  United Kingdom]  Cost: 744
+4110  '  Seafire III  [FTR  United Kingdom]  Cost: 912
+4113  '  AEC 4x4 ACV  [RCN  United Kingdom]  Cost: 588
+4115  '  Spitfire PR.XIX  [ TB  United Kingdom]  Cost: 492
+4145  '  P-38-F4 Lightning  [ TB  USA]  Cost: 444
+4189  '  Catalina Canso-A  [ LB  Canada]  Cost: 420
+4192  '  Sunderland III  [ LB  Canada]  Cost: 600
+4193  '  Liberator GR.VIII  [ LB  United Kingdom]  Cost: 912
+4196  '  Lysander I  [ TB  Canada]  Cost: 336
+4200  '  Halifax III  [ LB  Canada]  Cost: 744
+4204  '  PV-1 Ventura  [ LB  USA]  Cost: 576
+4205  '  Beaufighter TF.X  [ TB  Canada]  Cost: 852
+4207  '  Beaufighter VIC  [ TB  Canada]  Cost: 1152
+4213  '  Anson I  [ TB  Canada]  Cost: 360
+4214  '  Barracuda II  [ TB  United Kingdom]  Cost: 744
+4215  '  Swordfish II  [ TB  Canada]  Cost: 372
+4216  '  Albacore  [ TB  Canada]  Cost: 372
+4219  '  Mosquito PR  [ TB  Canada]  Cost: 444
+4229  '  Hurricane Tac R  [FTR  Canada]  Cost: 648
+4242  '  Firefly I  [FTR  United Kingdom]  Cost: 936
+4243  '  Firefly FR I  [FTR  United Kingdom]  Cost: 936
+4246  '  Mosquito B.25  [ TB  Canada]  Cost: 684
+4248  '  Sea Hurricane XII  [FTR  Canada]  Cost: 660
+4253  '  Wellington GR.XII  [ LB  United Kingdom]  Cost: 648
+4255  '  Wellington GR.XIV  [ LB  United Kingdom]  Cost: 612
+4269  '  Kittyhawk IV  [ TB  United Kingdom]  Cost: 756
+4279  '  Light Utility Car 4 x 2.   [TPT  United Kingdom]  Cost: 120
+4302  '  PV-2 Harpoon  [ LB  USA]  Cost: 792
+4347  '  Lancaster  [ LB  United Kingdom]  Cost: 864
+4374  '  Spitfire VB  [FTR  Czechoslovakia]  Cost: 732
+4375  '  Spitfire IXB  [FTR  Czechoslovakia]  Cost: 852
+4390  '  B-26G Marauder  [ TB  USA]  Cost: 1116
+4480  '  M3 Command  [ TK  USA]  Cost: 516
+4510  '  P-47D-22 Thunderbolt  [ TB  USA]  Cost: 936
+4512  '  F6F-3 Hellcat  [FTR  USA]  Cost: 936
+4515  '  Combat Engineers 42  [INF  USA]  Cost: 312
+4570  '  Stuart Command  [ TK  Canada]  Cost: 516
+4572  '  P-47C Thunderbolt SQNLDR  [FTR  USA]  Cost: 1896
+4580  '  Spitfire XIVE SQNLDR  [FTR  United Kingdom]  Cost: 1920
+4581  '  Spitfire XIVE SQNLDR  [FTR  Canada]  Cost: 1920
+4583  '  Crusader II Command  [ TK  Canada]  Cost: 696
+4594  '  B-24J/F7A Liberator  [ LB  USA]  Cost: 696
+4596  '  A-35B Vengeance  [ TB  USA]  Cost: 660
+4598  '  SB2C-4 Helldiver  [ TB  USA]  Cost: 780
+4600  '  SBD-5 Dauntless  [ TB  USA]  Cost: 684
+4606  '  A-29 Hudson  [ TB  USA]  Cost: 636
+4625  '  F4U-1D Corsair  [ TB  USA]  Cost: 948
+4632  '  Motorcycle Recon  [RCN  USA]  Cost: 156
+4635  '  Scout Jeep  [RCN  USA]  Cost: 168
+4637  '  T40 Whizbang  [ATY  USA]  Cost: 828
+4650  '  LVT-1  [TPT  USA]  Cost: 240
+4652  '  PBY-5A Catalina  [ TB  USA]  Cost: 540
+4653  '  PBY-6A Catalina  [ LB  USA]  Cost: 468
+4657  '  PB4Y-1 Liberator  [ LB  USA]  Cost: 996
+4667  '  Beaufighter TF.X  [ TB  United Kingdom]  Cost: 852
+4677  '  P-47D-10 Thunderbolt  [ TB  USA]  Cost: 900
+4723  '  Mules  [TPT  United Kingdom]  Cost: 72
+4724  '  Liberator I  [ LB  United Kingdom]  Cost: 876
+4726  '  Halifax III  [ LB  United Kingdom]  Cost: 744
+4756  '  Wellington X  [ LB  Canada]  Cost: 648
+4758  '  Fortress II  [ LB  United Kingdom]  Cost: 912
+4778  '  Fulmar NF.II  [FTR  United Kingdom]  Cost: 756
+4790  '  Bicycle  [TPT  United Kingdom]  Cost: 12
+4793  '  Horse  [TPT  United Kingdom]  Cost: 12
+4827  '  Mitchell II  [ TB  United Kingdom]  Cost: 744
+4848  '  Lancaster w/ D.P.12000lb  [ TB  United Kingdom]  Cost: 1800
+4860  '  Fulmar II Tac R  [FTR  United Kingdom]  Cost: 756
+4862  '  Wagon  [TPT  United Kingdom]  Cost: 24
+4867  '  20mm  [FlaK  Canada]  Cost: 60
+4871  '  Churchill ARK Bridgelayer  [ TK  United Kingdom]  Cost: 348
+4875  '  Barracuda III  [ TB  United Kingdom]  Cost: 804
+4882  '  20mm Portee  [FlaK  Canada]  Cost: 204
+4883  '  Hopkins  [ TK  United Kingdom]  Cost: 396
+4934  '  Churchill VI  [ TK  United Kingdom]  Cost: 816
+4939  '  M1 4.5inch   [ATY  USA]  Cost: 864
+4972  '  Tower  [FRT  United Kingdom]  Cost: 300
+5036  '  Generalni Stab 42  [INF  Czechoslovakia]  Cost: 396
+5040  '  Mostni Zenista 44  [INF  Czechoslovakia]  Cost: 180
+5042  '  Motostrelecky 43  [RCN  Czechoslovakia]  Cost: 180
+5048  '  US-6  [TPT  Czechoslovakia]  Cost: 84
+5086  '  L-4 Grasshopper  [ TB  USA]  Cost: 228
+5107  '  Ventura II  [ TB  United Kingdom]  Cost: 660
+5109  '  Hurricane IV  [ TB  United Kingdom]  Cost: 744
+5120  '  Mustang I  [ TB  United Kingdom]  Cost: 996
+5121  '  Mustang III  [FTR  United Kingdom]  Cost: 876
+5127  '  Beaufighter VIC  [ TB  United Kingdom]  Cost: 1152
+5138  '  Blenheim V  [ TB  United Kingdom]  Cost: 696
+5145  '  National Guard 44  [INF  USA]  Cost: 84
+5153  '  Field Command 42  [INF  USA]  Cost: 396
+5158  '  Airborne Field Command 42  [INF  USA]  Cost: 456
+5164  '  Airborne Engineers 44  [INF  USA]  Cost: 372
+5221  '  LVT(A)4  [ATY  USA]  Cost: 504
+5234  '  Paratrooper MG 43  [FlaK  USA]  Cost: 228
+5238  '  LVT(A)1  [ TK  USA]  Cost: 444
+5259  '  M4 Mobile Assault Bridge  [ TK  USA]  Cost: 348
+5272  '  M3A1 Scout Car  [RCN  Czechoslovakia]  Cost: 216
+5306  '  Crusader AA I  [ AD  United Kingdom]  Cost: 564
+5325  '  MG 44  [FlaK  United Kingdom]  Cost: 180
+5344  '  Special Forces Command 42  [INF  USA]  Cost: 516
+5345  '  M3A2  [TPT  Czechoslovakia]  Cost: 240
+5399  '  PB4Y-1 Liberator  [ LB  Canada]  Cost: 996
+5439  '  C15TA  [TPT  Canada]  Cost: 132
+5531  '  Bunker  [FRT  United Kingdom]  Cost: 144
+5550  '  Catalina III  [ TB  United Kingdom]  Cost: 540
+5554  '  OS2U-3 Kingfisher  [ TB  USA]  Cost: 576
+5556  '  SO3C-2 Seamew  [ TB  USA]  Cost: 444
+5558  '  J2F-5 Duck  [ TB  USA]  Cost: 480
+5562  '  Kingfisher  [ TB  United Kingdom]  Cost: 576
+5563  '  Seamew  [ TB  United Kingdom]  Cost: 444
+5597  '  Hurricane IID  [ TB  United Kingdom]  Cost: 720
+5604  '  A-20G Havoc  [ TB  USA]  Cost: 936
+5624  '  Wasp IIC  [ AT  Canada]  Cost: 240
+5625  '  Sherman III D-Day  [ TK  United Kingdom]  Cost: 672
+5626  '  M3A1 Satan  [ TK  USA]  Cost: 348
+5651  '  Combat Engineers 44  [INF  Canada]  Cost: 324
+5657  '  Conscripts 44  [INF  Canada]  Cost: 84
+5661  '  PB2Y-3 Coronado  [ LB  USA]  Cost: 672
+5668  '  Limber  [TPT  United Kingdom]  Cost: 36
+5672  '  Kittyhawk IV  [ TB  Canada]  Cost: 756
+5691  '  Daimler AC II  [RCN  United Kingdom]  Cost: 360
+6056  '  Field Command 42  [INF  Canada]  Cost: 396
+6078  '  LVT-1  [TPT  United Kingdom]  Cost: 240
+6083  '  Paratrooper MG 43  [FlaK  United Kingdom]  Cost: 228
+6087  '  LVT-1  [TPT  Canada]  Cost: 240
+6150  '  Paramarines 44  [INF  USA]  Cost: 456
+6152  '  Beach Jumpers 44  [INF  USA]  Cost: 300
+6168  '  3.7inch VI  [ AD  United Kingdom]  Cost: 432
+6179  '  Paratrooper MG 43  [FlaK  Canada]  Cost: 228
+6227  '  F6F-5N Hellcat  [FTR  USA]  Cost: 1092
+6359  '  P-63A Kingcobra  [FTR  USA]  Cost: 960
+6386  '  40mm Truck  [ AD  Canada]  Cost: 480
+6487  '  Fort  [FRT  United Kingdom]  Cost: 168
+6493  '  F4F-4 Wildcat  [FTR  USA]  Cost: 768
+6494  '  FM-2 Wildcat  [FTR  USA]  Cost: 780
+6604  '  Field Command 42  [INF  United Kingdom]  Cost: 396
+6666  '  Light Infantry 44  [INF  USA]  Cost: 144
+6932  '  Locust  [ TK  United Kingdom]  Cost: 324
+6941  '  Motorcycle Infantry 44  [INF  Czechoslovakia]  Cost: 228
+6945  '  AT Infantry 44  [INF  Czechoslovakia]  Cost: 276
+6949  '  Horska Pechota 44  [INF  Czechoslovakia]  Cost: 300
+6998  '  Bridging 44  [INF  USA]  Cost: 180
+7005  '  AT Infantry 44  [INF  USA]  Cost: 276
+7013  '  Military Police 38  [INF  USA]  Cost: 48
+7029  '  F4U-2 Corsair  [FTR  USA]  Cost: 972
+7035  '  Seabees 44  [INF  USA]  Cost: 216
+7058  '  Motorizovana Pechota 44  [INF  Czechoslovakia]  Cost: 180
+7342  '  Grenadiers 44  [INF  USA]  Cost: 228
+7629  '  3inch Mortar  [ATY  United Kingdom]  Cost: 204
+7630  '  4.2inch mortar  [ATY  United Kingdom]  Cost: 300
+7631  '  Sexton  [ATY  United Kingdom]  Cost: 648
+7634  '  25 pdr (low angle)  [ATY  United Kingdom]  Cost: 276
+7635  '  3inch  [ AT  United Kingdom]  Cost: 228
+7637  '  6pdr I  [ AT  United Kingdom]  Cost: 120
+7639  '  6pdr Portee  [ AT  United Kingdom]  Cost: 240
+7641  '  25pdr AT  [ AT  United Kingdom]  Cost: 108
+7646  '  DUKW  [TPT  United Kingdom]  Cost: 144
+7677  '  20mm Polsten  [FlaK  Canada]  Cost: 144
+7790  '  Airborne Field Command 42  [INF  United Kingdom]  Cost: 456
+7796  '  Airborne Engineers 44  [INF  United Kingdom]  Cost: 372
+7807  '  Light Infantry 44  [INF  United Kingdom]  Cost: 144
+7818  '  Bridging 44  [INF  United Kingdom]  Cost: 180
+7827  '  Motorcycle Infantry 44  [INF  United Kingdom]  Cost: 228
+7831  '  AT Infantry 44  [INF  United Kingdom]  Cost: 276
+7845  '  M24 Chaffee  [RCN  USA]  Cost: 624
+7878  '  Tower  [FRT  USA]  Cost: 300
+7883  '  Wellington DWI  [ LB  United Kingdom]  Cost: 396
+7991  '  25 pdr  [ATY  United Kingdom]  Cost: 276
+7992  '  M1918 240mm  [ATY  USA]  Cost: 1476
+7993  '  M1 203mm Gun  [ATY  USA]  Cost: 1992
+7994  '  T34 Calliope  [ATY  USA]  Cost: 888
+7995  '  M10 support  [ATY  USA]  Cost: 732
+7999  '  3-inch Z Battery  [ AD  United Kingdom]  Cost: 204
+8008  '  Military Police 38  [INF  United Kingdom]  Cost: 48
+8017  '  Colonial Cavalry 42  [INF  United Kingdom]  Cost: 168
+8025  '  Naval Construction 44  [INF  United Kingdom]  Cost: 204
+8035  '  Grenadiers 44  [INF  United Kingdom]  Cost: 228
+8046  '  Scots Guards 44  [INF  United Kingdom]  Cost: 156
+8054  '  Home Guard 44  [INF  United Kingdom]  Cost: 72
+8055  '  Arab Legion 40  [INF  United Kingdom]  Cost: 60
+8056  '  Motor Infantry  [INF  United Kingdom]  Cost: 516
+8079  '  Airborne Field Command 42  [INF  Canada]  Cost: 456
+8084  '  Bridging 44  [INF  Canada]  Cost: 180
+8088  '  AT Infantry 42  [INF  Canada]  Cost: 264
+8092  '  Police 38  [INF  Canada]  Cost: 48
+8097  '  Mounted Police 44  [INF  Canada]  Cost: 168
+8102  '  Stormtroops Churchill  [INF  United Kingdom]  Cost: 636
+8106  '  Grenadiers 44  [INF  Canada]  Cost: 228
+8111  '  Veterans Guard 44  [INF  Canada]  Cost: 72
+8112  '  Pacific Coast Militia Rangers   [RCN  Canada]  Cost: 144
+8116  '  Mountain 44  [INF  Canada]  Cost: 300
+8121  '  Canadian Scottish 42  [INF  Canada]  Cost: 132
+8125  '  Morris C8  [TPT  United Kingdom]  Cost: 96
+8126  '  Mules  [TPT  Canada]  Cost: 72
+8168  '  Seabees Combat Engineers 44  [INF  USA]  Cost: 384
+8174  '  Armored Infantry 44  [INF  USA]  Cost: 624
+8250  '  Colonial 42  [INF  United Kingdom]  Cost: 84
+8261  '  Coast Guard 42  [INF  USA]  Cost: 60
+8269  '  90mm M1A1  [ AD  USA]  Cost: 432
+8271  '  M3/M51 MMGC Quad  [FlaK  USA]  Cost: 396
+8281  '  Mosquito NF III  [FTR  United Kingdom]  Cost: 1044
+8282  '  Mosquito NF.30  [FTR  United Kingdom]  Cost: 1128
+8293  '  A-20B Havoc  [ TB  USA]  Cost: 840
+8313  '  Rangers 44  [INF  USA]  Cost: 444
+8318  '  Motor Infantry  [INF  USA]  Cost: 516
+8331  '  Ford GPA  [RCN  USA]  Cost: 264
+8377  '  PBM-3C Mariner  [ LB  USA]  Cost: 672
+8378  '  PBM-1 Mariner  [ TB  USA]  Cost: 600
+8395  '  Catalina I  [ LB  United Kingdom]  Cost: 444
+8423  '  M12 Rocket Launcher  [ATY  USA]  Cost: 252
+8424  '  T27  [ATY  USA]  Cost: 360
+8425  '  T27E2  [ATY  USA]  Cost: 672
+8497  '  3.7inch  [ AT  United Kingdom]  Cost: 300
+8517  '  Mattress Rocket Launcher  [ATY  United Kingdom]  Cost: 324
+8537  '  SCR-270 Radar  [FRT  USA]  Cost: 996
+8538  '  SCR-584 Radar  [FRT  USA]  Cost: 360
+8566  '  90mm M1A1  [FlaK  USA]  Cost: 300
+8589  '  M3A3  [ TK  Canada]  Cost: 324
+8687  '  Stuart Command  [ TK  United Kingdom]  Cost: 516
+8707  '  Commandos 44  [INF  United Kingdom]  Cost: 444
+8811  '  Cromwell Control  [ TK  United Kingdom]  Cost: 1128
+8822  '  HQ 44  [RCN  USA]  Cost: 780
+8825  '  HQ 44  [RCN  United Kingdom]  Cost: 780
+8884  '  M45 Quadmount on Truck  [FlaK  USA]  Cost: 288
+8893  '  M45 Quadmount  [FlaK  USA]  Cost: 168
+8900  '  Airborne Scouts 43  [RCN  United Kingdom]  Cost: 348
+8912  '  Mattress Rocket Launcher  [ATY  Canada]  Cost: 324
+8913  '  13.5 inch /45 Mark V railway gun  [ATY  United Kingdom]  Cost: 3000
+9073  '  Armored Infantry 43  [INF  USA]  Cost: 744
+9074  '  Morris LRC II  [RCN  United Kingdom]  Cost: 276
+9123  '  Armored Infantry 43  [INF  United Kingdom]  Cost: 744
+9329  '  MG 44  [FlaK  Canada]  Cost: 180
+9335  '  Armored Infantry 43  [INF  Canada]  Cost: 744
+9338  '  M4 Command  [ TK  United Kingdom]  Cost: 1032
+9386  '  Cavalry Scout 40  [RCN  United Kingdom]  Cost: 168
+9637  '  81mm Paratrooper Mortar   [ATY  Canada]  Cost: 300
+9640  '  M1 81mm Paratrooper Mortar   [ATY  USA]  Cost: 300
+9641  '  3inch Paratrooper Mortar  [ATY  United Kingdom]  Cost: 300
+9649  '  Willys Jeep  [TPT  Canada]  Cost: 156
+9655  '  M4  [TPT  USA]  Cost: 168
+9656  '  CMP Dodge D60/T110  [TPT  Canada]  Cost: 96
+9657  '  M6  [TPT  USA]  Cost: 168
+9728  '  Bedford MW  [TPT  Czechoslovakia]  Cost: 96
+9758  '  Cromwell VII  [ TK  Czechoslovakia]  Cost: 564
+9781  '  Firefly V  [ TK  Canada]  Cost: 1212
+9789  '  Stuart V  [ TK  Czechoslovakia]  Cost: 348
+9790  '  Firefly V  [ TK  Czechoslovakia]  Cost: 1212
+9791  '  Challenger  [ TK  Czechoslovakia]  Cost: 1152
+9795  '  M6 Fargo  [ AT  USA]  Cost: 192
+9797  '  8-inch Mk. VI railway gun  [ATY  USA]  Cost: 2700
+9798  '  14-inch M1920 railway gun  [ATY  USA]  Cost: 3000
+9799  '  BL 9.2-inch railway gun  [ATY  United Kingdom]  Cost: 2700
+9802  '  Bicykl  [TPT  Czechoslovakia]  Cost: 12
+9858  '  Scottish Highlanders 43  [INF  United Kingdom]  Cost: 228
+9907  '  90mm M2  [ AT  USA]  Cost: 300
+9908  '  GL Mk. II Radar  [FRT  United Kingdom]  Cost: 996
+9920  '  Buffalo Soldiers 44  [INF  USA]  Cost: 132
+9928  '  M4 Command  [ TK  USA]  Cost: 1032
+9931  '  Grizzly Command  [ TK  Canada]  Cost: 1032
+9940  '  Vojenska policie 38  [INF  Czechoslovakia]  Cost: 48
+9974  '  Mountain Combat Engineers 44  [INF  USA]  Cost: 384
+9993  '  M3A1E3 Scout Car  [RCN  USA]  Cost: 372
+6573  '  MG 44  [FlaK  Czechoslovakia]  Cost: 180
+
+#1    '  Item/s for Player2 follow...

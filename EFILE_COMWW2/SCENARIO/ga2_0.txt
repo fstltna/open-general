@@ -1,0 +1,59 @@
+Toward Tarnopol
+Tarnopol
+Lemberg
+Dubno
+Sambir
+Brody
+Zabolotja
+Przemysl
+Lublin
+Dniester River
+Bug River
+Village
+1/L4
+2/L4
+2STG/L4
+IV/5
+I/298
+II/298
+III/298
+XVI/64
+XVI/79
+Finnisch/5SS
+Nordland/5SS
+Westland/5SS
+Germania/5SS
+III/Kv
+II/Kv
+I/Kv
+III/Kv
+II/Kv
+I/Kv
+II/19
+II/15
+III/15
+I/SWF
+II/SWF
+I/7
+I/140
+II/7
+I/146
+II/146
+II/140
+I/15
+I/19
+Rokossovsky
+IV/4
+IV/8
+II/L4
+I/L4
+Finnisch/5SS
+III/L4
+HQ
+Dubno Airfield
+Border Airfield
+LXVIII/34
+Supply Base
+FOREST
+ROUGH
+CLEAR

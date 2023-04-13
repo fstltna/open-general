@@ -1,0 +1,11 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 160  '  Me-109G-2  [FTR  Germany]  Cost: 708
+1283  '  Hs-129B-1  [ TB  Germany]  Cost: 684
+3306  '  Me-155  [FTR  Germany]  Cost: 768
+5087  '  Ju-88C-6  [ TB  Germany]  Cost: 780
+5113  '  Ju-88P-2  [ TB  Germany]  Cost: 708

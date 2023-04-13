@@ -1,0 +1,10 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 133  '  Panther G  [ TK  Germany]  Cost: 888
+2408  '  Sturmtiger  [ATY  Germany]  Cost: 1200
+4463  '  Ta 154 Moskito  [FTR  Germany]  Cost: 936
+7969  '  Tiger Id  [ TK  Germany]  Cost: 1200

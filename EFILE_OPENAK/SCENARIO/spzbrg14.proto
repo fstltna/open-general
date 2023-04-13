@@ -1,0 +1,13 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  87  '  Marder 38T H  [ AT  Deutschland]  Cost: 348
+ 119  '  sPzSpWg (7,5)  [RCN  Deutschland]  Cost: 408
+ 172  '  Hs 129B-2/R2  [ TB  Deutschland]  Cost: 1128
+ 603  '  21 NbWf42  [ATY  Deutschland]  Cost: 756
+1230  '  kz 8 GrW42  [ATY  Deutschland]  Cost: 348
+4978  '  He 111H-16  [ TB  Deutschland]  Cost: 1020
+5056  '  Bf 109G-6/Trop  [FTR  Deutschland]  Cost: 1128

@@ -1,0 +1,12 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  78  '  7.5 PaK40  [ AT  Germany]  Cost: 180
+ 102  '  sIG IIB  [ATY  Germany]  Cost: 396
+ 144  '  Pz IIIJ  [ TK  Germany]  Cost: 348
+ 597  '  7.5 PaK97/38  [ AT  Germany]  Cost: 132
+1557  '  StuIG 33B  [ATY  Germany]  Cost: 444
+2447  '  PzJgr 35(f)  [ AT  Germany]  Cost: 336

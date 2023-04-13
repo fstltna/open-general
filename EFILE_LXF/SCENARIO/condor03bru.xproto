@@ -1,0 +1,9 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+2554  '  Do 17E-1  [ TB  Spain]  Cost: 384
+2560  '  Ju 87A-1  [ TB  Spain]  Cost: 396
+7780  '  Bf 109C-1  [FTR  Spain]  Cost: 516

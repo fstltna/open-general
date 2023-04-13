@@ -1,0 +1,57 @@
+22. Infanterie Division Campaign
+
+22. INFANTERIE DIVISION CAMPAIGN
+
+Version: OoB_v1.0
+Number of Scenarios: 16
+Player Country: WWII Germany
+Campaign Designer: Dennis Felling
+Campaign Converter: HundredDays
+
+
+In 1935 the 22. Infanterie Division of the new German Army, the Wehrmacht, was created. One regiment, the 16th, participated in the invasion of Poland; the rest of the division stayed in garrison on the West Wall in case of a preemptive French attack. Retrained as 22. Luftlande Infanterie Division (Air Landing Infantry Division) for rapid tactical deployment to captured enemy airbases. It performed in that role during the invasion of the Netherlands suffering heavy losses
+
+The 22.Infanterie-Division next took part in the Invasion of the Soviet Union as a part of Armeegrupp Sud, fighting in southern Russia with the 11.Armee. As ordinary ground infantry it moved through Romania, crossed the Prut River and fought to the Djnestr River and Stalin Line, which it fought through. Moving on to cross the Bug and Dnjepr Rivers, the division eventually fought into the Crimea where it took part in fierce and bloody fighting for Sevastopol. The 22.Infanterie-Division led the assault against the heavily defended fortress city in its sector and stormed numerous Soviet positions until Sevastopol surrendered in 1942.
+
+Thereafter the 22.Infanterie-Division (LL) was transfered to Crete where it took part in security and occupation operations until 1944. During its occuption of Crete, the 22.Infanterie-Division was also used as the main assault force in various amphibious assault operations in the Aegean Sea in 1943, most notably against the Islands of Kos and Leros.
+
+Joining the German withdrawal from the Balkans, in fear of being cut off by Soviet armies, it retreated from Macedonia through the rough terrain of Yugoslavia towards Austria. Usually being the rearguard of the retreating Armygroup it fought numerous bloody and intenste fighting, May 1945 the division was few kilometers away from the Austrian border...
+
+
+
+----------------------------------------------------------------------------
+[From original Introduction/Readme:]
+
+Original Equipment File: Adlerkorps (AK) 4000 version 0.43 or better.
+
+Maps (with mapnumber) required:
+BOBRUISK (217)
+CAPORETO (450)
+CRIMEA (244)
+DUBNO (236)
+HOLLABRUN (281)
+KAUNAS (388)
+KOS (396)
+LEROS (80)
+OSOWIEC (372)
+PEREKOP (143)
+RAHAENG (433)
+SERCHIO (411)
+SHOLLAND (327)
+SIBIU (451)
+TIENEN (385)
+
+Comments, compliments, suggestions or whatever can be sent to Dennis Felling by mailing me on armygroupdf@hotmail.com
+
+Visit my website at http://members.home.nl/felling/pg2/index.html
+
+Dennis Felling
+April 2006
+
+
+
+
+
+
+----------------------------------------------------------------------------
+[Adapted for the OoB OpenGeneral Efile by HD.]

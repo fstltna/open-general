@@ -1,0 +1,185 @@
+First Ypres - La Bassee
+Aire-La Bassee Canal
+Loisne
+La riviere des Laces
+La Bassee
+Auchy
+Quincy
+Vermelles
+Givenchy
+Festubert
+Bethune
+Neuve Chapelle
+Douvrain
+Haisnes
+vers Loos
+Hulluch
+Cambrain
+Annequin
+Le Rutoire
+Beuvry
+Sailly
+Vendin
+Richebourg
+Fromelles
+Illies
+Marquillies
+Laventie
+La Gorgue
+Rouge-Croix
+Essars
+le Touret
+Mervilles
+Lestrem
+Pont-Riquel
+Robecq
+Wingles
+Hantay
+Groupe/62RAC/-/13DI [XXI]
+Esc/-/4ChCh/-/13DI [XXI]
+21/1/11/-/13DI [XXI]
+Bn/017RI/25/13DI [XXI]
+Bn/021RI/26/13DI [XXI]
+Bn/109RI/26/13DI [XXI]
+17BCP/-/25/13DI [XXI]
+20BCP/-/25/13DI [XXI]
+21BCP/-/25/13DI [XXI]
+Bn/256RI/116/58DI [XXI]
+Bn/285RI/116/58DI [XXI]
+Bn/295RI/116/58DI [XXI]
+Bn/280RI/132/58DI [XXI]
+Bn/281RI/132/58DI [XXI]
+Bn/296RI/132/58DI [XXI]
+11/6BrCuir/7DC [II De Mitry]
+12/6BrCuir/7DC [II De Mitry]
+7/1BrDrag/7DC [II De Mitry]
+13/1BrDrag/7DC [II De Mitry]
+8/1BrDrag/7DC [II De Mitry]
+14/7BrLegere/7DC [II DeMitry]
+1/7BrLegere/7DC [II DeMitry]
+20/7BrLegere/7DC [II DeMitry]
+7Cycl/4BCP/-/-/7DC [II]
+IV/30RAC/-/7DC [II De Mitry]
+1/2BrCuir/1DC [I Conneau]
+2/2BrCuir/1DC [I Conneau]
+6/5BrDrag/1DC [I Conneau]
+23/5BrDrag/1DC [I Conneau]
+27/11BrDrag/1DC [I Conneau]
+32/11BrDrag/1DC [I Conneau]
+7/11BrDrag/1DC [I Conneau]
+1/26BCP/-/-/1DC [I Conneau]
+IV/13RAC/-/1DC [I Conneau]
+4/4BrCuir/3DC [I Conneau]
+9/4BrCuir/3DC [I Conneau]
+6ChCh/4BrCuir/3DC [I]
+5/13BrDrag/3DC [I Conneau]
+21/13BrDrag/3DC [I Conneau]
+19ChCh/13BrDrag/3DC [I]
+3/3BrLegere/3DC [I Conneau]
+8/3BrLegere/3DC [I Conneau]
+3/18BCP/-/-/3DC [I Conneau]
+IV/42RAC/-/3DC [I Conneau]
+15/10BrDrag/10DC [I Conneau]
+20/10BrDrag/10DC [I Conneau]
+21ChCh/10BrDrag/10DC [I](dism)
+10/15BrDrag/10DC [I Conneau]
+19/15BrDrag/10DC [I Conneau]
+1Hus/15BrDrag/10DC [I Conneau]
+9/9BrLegere/10DC [I]
+10/9BrLegere/10DC [I]
+10/1BCP/-/-/10DC [I Conneau]
+IV/14RAC/-/10DC [I Conneau]
+BLC5
+III/3RFeldA/-/4KD [HKI]
+2GMG/-/-/4KD [HKI]
+K.2/3/4KD [HKI]
+U.9/3/4KD [HKI]
+D.17/17/4KD [HKI]
+D.18/17/4KD [HKI]
+H.15/18/4KD [HKI]
+H.16/18/4KD [HKI]
+J.3/39/4KD [HKI]
+D.14/39/4KD [HKI]
+BayChev.8/Schrott/4KD [HKI]
+Kaufmann/Schrott/4KD [HKI]
+Flotow//Schrott/4KD [HKI]
+7/-/-/4KD [HKI]
+III/1RGFeldA/-/GKD [HKI]
+1GMG/-/-/GKD [HKI]
+GdC/1G/GKD [HKI] (dism.)
+GK/1G/GKD [HKI] (dism.)
+GU.1/2G/GKD [HKI] (dism.)
+GU.3/2G/GKD [HKI] (dism.)
+GD.1/3G/GKD [HKI] (dism.)
+GD.2/3G/GKD [HKI] (dism.)
+J/-/-/GKD [HKI]
+4MG/-/-/2KD [HKII]
+III/35RWPFeldA/-/2KD [HKII]
+S/-/-/2KD [HKII]
+D.2/5/2KD [HKII]
+U.3/5/2KD [HKII]
+K.7/8/2KD [HKII]
+H.12/8/2KD [HKII]
+LH.1/LH/2KD [HKII]
+LH.2/LH/2KD [HKII]
+3,4/GU.2/ZgsG/2KD [HKII]
+1,2,4/H.3/ZgsG/2KD [HKII]
+2,4/LGH/ZgsG/2KD [HKII]
+7MG/-/-/9KD [HKII]
+III/10RHFeldA/-/9KD [HKII]
+K.4/13/9KD [HKII]
+H.8/13/9KD [HKII]
+H.11/14/9KD [HKII]
+U.5/14/9KD [HKII]
+U.13/19/9KD [HKII]
+D.19/19/9KD [HKII]
+2Esc/D.3/-/9KD [HKII]
+3Esc/D.16/-/9KD [HKII]
+4/-/-/- [HKII]
+7/-/-/- [HKII]
+9/-/-/- [HKII]
+10/-/-/- [HKII]
+I/3/2/1BavR [I BavR]
+II/3/2/1BavR [I BavR]
+III/3/2/1BavR [I BavR]
+I/12/2/1BavR [I BavR]
+II/12/2/1BavR [I BavR]
+III/12/2/1BavR [I BavR]
+I/1BavRFAR/-/1BavR [I BavR]
+II/1BavRFAR/-/1BavR [I BavR]
+1RKavR/-/1BavR [I BavR]
+I/1/1/1BavR [I BavR]
+II/1/1/1BavR [I BavR]
+III/1/1/1BavR [I BavR]
+I/2/1/1BavR [I BavR]
+II/2/1/1BavR [I BavR]
+III/2/1/1BavR [I BavR]
+MajGen Fergusson 5th Div [II]
+17F/-/-/-5ID [II]
+59F/-/-/-5ID [II]
+VIIIHow/5ID [II]
+108H/-/5ID [II]
+11/XV/5ID [II]
+52/XV/5ID [II]
+80/XV/5ID [II]
+XXVII/5ID [II]
+XXVIII/5ID [II]
+2KOSB/13/5ID [II]
+2DWR/13/5ID [II]
+1RWK/13/5ID [II]
+2KOYLI/13/5ID [II]
+2SUFFOLK/14/5ID [II]
+1E.SURR/14/5ID [II]
+1DCLI/14/5ID [II]
+2MAN/14/5ID [II]
+1NOR/15/5ID [II]
+2BEDFORD/15/5ID [II]
+1CHES/15/5ID [II]
+2DORSET/15/5ID [II]
+3Sq RFC
+5/-/-/-/5ID [II]
+A/-/19HRS/-/5ID [II]
+5Sq RFC
+FFA9
+London Busses [II]
+FFA 9

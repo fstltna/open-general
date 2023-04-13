@@ -1,0 +1,107 @@
+1944 Angriff auf die Trans-Sibirische Eisenbahn [PL 3.2]
+115 IAD
+107 ShAD
+[BP-43 gepanzerter Zug]
+75 Tk.Bde./Sp. Rotbanner
+75 Tk.Bde./Sp. Rotbanner
+75 Tk.Bde./Sp. Rotbanner
+75 Tk.Bde./Sp. Rotbanner
+Amur
+Tamna
+Malyschewskoje
+Archangelowka
+Tunguska
+Tscheptschiki
+Ozero Petropavlovskoye
+Protoka Khokhlatskaya
+Malaya Chernaya
+Tungusskij Sawod
+Osipowka
+Konstaninowka
+Wolotschajowka Wtoraja
+Khabarovsk
+Sita
+Knjase-Wolkon
+Wladimirowka
+Garowka
+Sergejewka
+Obor
+Ussuri
+Kazakevicheva
+Sinivaja Retschka
+Nekrasowka
+Wu-su-chen
+Chirka
+Hsiao-wen-t'sai
+Smejkowskij
+[Opolchenye Khabarovsk]
+[Opolchenye Khabarovsk]
+[Opolchenye Khabarovsk]
+[Opolchenye Khabarovsk]
+[Opolchenye Khabarovsk]
+[Opolchenye Khabarovsk]
+[Opolchenye Khabarovsk]
+[Opolchenye Khabarovsk]
+[Opolchenye Khabarovsk]
+53 RD/[16A]
+53 RD/[16A]
+53 RD/[16A]
+53 RD/[16A]
+53 RD/[16A]
+53 RD/[16A]
+[16.Armee]
+[Befestigtes Gebiet]
+[Befestigtes Gebiet]
+[Sp. Rotbanner HQ]
+75 RD/[16A]
+75 RD/[16A]
+75 RD/[16A]
+75 RD/[16A]
+75 RD/[16A]
+75 RD/[16A]
+22 RD/[Sp. Rotbanner.]
+22 RD/[Sp. Rotbanner.]
+22 RD/[Sp. Rotbanner.]
+22 RD/[Sp. Rotbanner.]
+22 RD/[Sp. Rotbanner.]
+22 RD/[Sp. Rotbanner.]
+[Fernostfront]
+9 Div./[3A/Kwantung]
+9 Div./[3A/Kwantung]
+9 Div./[3A/Kwantung]
+9 Div./[3A/Kwantung]
+12 Div./[3A/Kwantung]
+12 Div./[3A/Kwantung]
+12 Div./[3A/Kwantung]
+57 Div./[3A/Kwantung]
+57 Div./[3A/Kwantung]
+57 Div./[3A/Kwantung]
+12 Div./[3A/Kwantung]
+57 Div./[3A/Kwantung]
+Botanko AR/-/[Kwantung]
+23 Tk.R/-/[Kwantung]
+1 Tk.Bde./[3A/Kwantung]
+[Kwantung]
+9 Sep.Pio.R./-/[3A/Kwantung]
+[HQ der 16.Armee]
+10 Div./-/[Kwantung]
+10 Div./-/[Kwantung]
+10 Div./-/[Kwantung]
+10 Div./-/[Kwantung]
+[HQ der 3.Armee/Kwantung]
+2.Gemischte Div./[2A]
+2.Gemischte Div./[2A]
+2.Gemischte Div./[2A]
+2.Gemischte Div./[2A]
+2 C.Div./[2A]
+2 C.Div./[2A]
+2 C.Div./[2A]
+2 C.Div./[2A]
+[HQ der 2. Jilin-Armee]
+9/48 Sentai
+3/6 Sentai
+[Opolchenye Khabarovsk]
+[Opolchenye Khabarovsk]
+[Opolchenye Khabarovsk]
+[Opolchenye Khabarovsk]
+[Opolchenye Khabarovsk]

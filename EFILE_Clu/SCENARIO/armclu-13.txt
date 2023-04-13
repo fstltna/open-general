@@ -1,0 +1,55 @@
+The Fortress Falls
+Pi-Ers.-u. Ausb.Bat 68
+Ung. Inf.Bat. IV
+Flak-Rgt. 114
+verst. Nordkaukas. Einsatz Bat.
+FuesBat.309/309.ID
+sArt-Ers.Abt. 39
+PzAbw. Kuestrin
+verst. Turk. Einsatz Bat.
+Festungskommandantur
+Festungs-Gren.Ers.Bat. 50
+Pantherturm
+Festungs-Inf-Bat. 1450
+100 Gds RflRgt/35 Gds RflD
+101 Gds RflRgt/35 Gds RflD
+102 Gds RflRgt/35 Gds RflD
+37 Gds AT Bn/35 Gds RflD
+65 Gds AtyRgt/35 Gds RflD
+242 Gds RflRgt/82 Gds RflD
+244 Gds RflRgt/82 Gds RflD
+246 Gds RflRgt/82 Gds RflD
+86 Gds AT Bn/82 Gds RflD
+185 Gds AtyRgt/82 Gds RflD
+1373 RflRgt/416 RflD
+1368 RflRgt/416 RflD
+1374 RflRgt/416 RflD
+1054 AtyRgt/416 RflD
+444 ATBn/416 RflD
+295 Gds Cn Rgt/8 Gds Army
+43 Gds Cn Bde/8 Gds Army
+40 Gds Cn Rgt/8 Gds Army
+308 Gds AA Rgt/3 Gds AA AtyD
+188 Bmb AvD/16 Air Army
+221 Bmb AvD/16 Air Army
+282 Ftr AvD/16 Air Army
+64 En-Sap Bde/8 Gds Army
+141 Mrt Rgt/8 Gds Army
+Oder
+Warthe
+Alte Oder
+Kuestrin
+Festung Kuestrin
+Kalenzig
+Schaumburg
+Drewitz
+Schaeferei
+Bleyen
+Kietz
+Gorgast
+Fort Gorgast
+Manschnow
+Neu Manschnow
+Neu Wilkersdorf
+Wilkersdorf
+Zorndorf

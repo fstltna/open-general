@@ -1,0 +1,112 @@
+'---
+'Config purchase file for scenario: NOBuSands15.xscn
+'* List of items to purchase all active players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=104 items  ' Replacement for default list
+  73  '  SdKfz 7/1  (20mm Quad)  [FlaK  Germany]  Cost: 300
+  75  '  SdKfz 10/4  (20mm Flak30)  [FlaK  Germany]  Cost: 264
+  87  '  Marder III  [ AT  Germany]  Cost: 300
+  89  '  Panzerjäger I  [ AT  Germany]  Cost: 228
+  90  '  StuG IIIF/8  [ AT  Germany]  Cost: 336
+  91  '  StuG IIIG  [ AT  Germany]  Cost: 348
+  96  '  L2H43 Protze / 20mm Flak38  [FlaK  Germany]  Cost: 276
+  99  '  Wurfrahmen  [ATY  Germany]  Cost: 588
+ 101  '  Sturmpanzer I Bison  150mm  [ATY  Germany]  Cost: 552
+ 104  '  StuH 42  105mm  [ATY  Germany]  Cost: 384
+ 117  '  Psw 222  [RCN  Germany]  Cost: 192
+ 118  '  Psw 231/8  [RCN  Germany]  Cost: 288
+ 136  '  Pz 38(t)  [ TK  Germany]  Cost: 348
+ 141  '  Pz IIF  [ TK  Germany]  Cost: 348
+ 144  '  Pz IIIJ  [ TK  Germany]  Cost: 456
+ 145  '  Pz IIIL  [ TK  Germany]  Cost: 468
+ 147  '  Pz IIIN  [ TK  Germany]  Cost: 480
+ 150  '  Pz IVG  [ TK  Germany]  Cost: 636
+ 156  '  SdKfz 251  [TPT  Germany]  Cost: 180
+ 157  '  Blitz 3.6  [TPT  Germany]  Cost: 60
+ 174  '  Ju 87 D-1  [ TB  Germany]  Cost: 600
+ 199  '  Fiat 626 / Breda M35  [FlaK  Italy]  Cost: 180
+ 201  '  Semovente da 47/32  [ AT  Italy]  Cost: 360
+ 203  '  Semovente da 90/53  [ AT  Italy]  Cost: 744
+ 208  '  Semovente da 75/18  [ATY  Italy]  Cost: 348
+ 213  '  Genio Guastatori 38  [INF  Italy]  Cost: 372
+ 214  '  Fanteria 41  [INF  Italy]  Cost: 120
+ 215  '  AB-41  [RCN  Italy]  Cost: 264
+ 219  '  L6/40  [ TK  Italy]  Cost: 216
+ 220  '  M13/40  [ TK  Italy]  Cost: 348
+ 221  '  M14/41  [ TK  Italy]  Cost: 360
+ 224  '  Fiat 626  [TPT  Italy]  Cost: 60
+ 598  '  Marder II  [ AT  Germany]  Cost: 300
+ 605  '  Panzerwerfer 42 - SdKfz 4/15   [ATY  Germany]  Cost: 576
+ 704  '  Sturmpanzer II Bison  150mm  [ATY  Germany]  Cost: 564
+ 711  '  Grenadiere 42  [INF  Germany]  Cost: 132
+ 730  '  SdKfz 250/3  [RCN  Germany]  Cost: 264
+ 746  '  Bersaglieri Motociclisti  [INF  Italy]  Cost: 216
+ 975  '  Genio 40  [INF  Italy]  Cost: 480
+1229  '  SdKfz 10 with 37mm Pak36  [ AT  Germany]  Cost: 240
+1255  '  SdKfz 251/9  Stummel  (75mm KwK37)  [ AT  Germany]  Cost: 264
+1260  '  Pz IID  [ TK  Germany]  Cost: 336
+1341  '  Lancia 3Ro / 75mm 75/46  [ AD  Italy]  Cost: 468
+1346  '  Autocannone 75mm 75/46  [ AT  Italy]  Cost: 468
+1349  '  Semovente da 75/18  [ AT  Italy]  Cost: 348
+1380  '  Ro.57bis  [ TB  Italy]  Cost: 900
+1392  '  SPA AS.37  [TPT  Italy]  Cost: 180
+1557  '  StuIG 33B  150mm  [ATY  Germany]  Cost: 576
+1915  '  Psw 223  [RCN  Germany]  Cost: 180
+1929  '  Marder I  [ AT  Germany]  Cost: 288
+2401  '  SdKfz 11  [TPT  Germany]  Cost: 132
+2402  '  SdKfz 9  [TPT  Germany]  Cost: 204
+2403  '  SdKfz 7  [TPT  Germany]  Cost: 168
+2404  '  SdKfz 8  [TPT  Germany]  Cost: 192
+2406  '  Blitz 2.5  [TPT  Germany]  Cost: 48
+2407  '  SdKfz 3 Maultier  [TPT  Germany]  Cost: 120
+2663  '  SPA TL.37  [TPT  Italy]  Cost: 96
+2664  '  SPA 35 Dovunque  [TPT  Italy]  Cost: 48
+2667  '  Lancia 3Ro  [TPT  Italy]  Cost: 96
+2669  '  SPA TM40  [TPT  Italy]  Cost: 120
+2728  '  Flakpanzer I  (20mm)  [FlaK  Germany]  Cost: 216
+2729  '  37mm Flak 36 Truck  [ AD  Germany]  Cost: 300
+2730  '  SdKfz 10  [TPT  Germany]  Cost: 120
+2820  '  SdKfz 2  [TPT  Germany]  Cost: 132
+2928  '  Panzergrenadiere 40  [INF  Germany]  Cost: 132
+3015  '  SdKfz 251/2 (Granatwerfer)  [ATY  Germany]  Cost: 216
+3272  '  Fanteria Motorizzata 40  [INF  Italy]  Cost: 120
+3376  '  SdKfz 6/3  (76.2mm FK36(r))  [ AT  Germany]  Cost: 276
+3396  '  150mm sFH13/1 (Sf) auf Geschützwagen Lorraine Schlepper (f)  [ATY  Germany]  Cost: 768
+3410  '  Building Crew  [INF  Germany]  Cost: 288
+3416  '  Sturmpioniere 41  [INF  Germany]  Cost: 384
+3418  '  Jäger 42  [INF  Germany]  Cost: 384
+3460  '  Panzerpioniere 40  [INF  Germany]  Cost: 372
+3481  '  Sturmpioniere 42  [INF  Germany]  Cost: 396
+3485  '  Späher (Scouts)  [RCN  Germany]  Cost: 96
+3505  '  L2H43 Protze  [TPT  Germany]  Cost: 96
+3574  '  Recon 42  [RCN  Italy]  Cost: 156
+3621  '  L3/35-38  [RCN  Italy]  Cost: 204
+3627  '  Bersaglieri 38  [INF  Italy]  Cost: 144
+3638  '  Reparti d'assalto 42  [INF  Italy]  Cost: 396
+3964  '  Breda TP32  [TPT  Italy]  Cost: 120
+4503  '  Ca.309 Ghibli  [RCN  Italy]  Cost: 480
+4544  '  Fi 156 C-5  [RCN  Germany]  Cost: 240
+5054  '  Bf 109 F-4/Trop  [FTR  Germany]  Cost: 708
+5055  '  Bf 109 G-2/Trop  [FTR  Germany]  Cost: 720
+5057  '  Fw 190 A-4/Trop  [FTR  Germany]  Cost: 924
+5310  '  Autocannone 65/17  [ AT  Italy]  Cost: 456
+5311  '  Autocannone 75/27  [ATY  Italy]  Cost: 576
+5313  '  Autocannone 47/32  [ AT  Italy]  Cost: 444
+5415  '  37mm Pak Protze  [ AT  Germany]  Cost: 144
+5630  '  SdKfz 250  [TPT  Germany]  Cost: 168
+5801  '  Blitz A  [TPT  Germany]  Cost: 72
+5942  '  Kübelwagen  [TPT  Germany]  Cost: 60
+5955  '  Brandenburger  [INF  Germany]  Cost: 840
+6053  '  Kradschützen 42  [RCN  Germany]  Cost: 276
+6084  '  SdKfz 9 with 88mm Flak36  [ AD  Germany]  Cost: 684
+6085  '  SdKfz 9 with 88mm Flak36  [FlaK  Germany]  Cost: 684
+6091  '  Lancia 3Ro / 90mm 90/53  [FlaK  Italy]  Cost: 492
+6151  '  SPA-Viberti AS.42  [TPT  Italy]  Cost: 168
+6152  '  Opel Blitz / 20mm Flakvierling  [FlaK  Germany]  Cost: 264
+6154  '  Lancia 3Ro / 75mm 75/46  [FlaK  Italy]  Cost: 468
+6208  '  Einheits-PKW / Twin MG  [TPT  Germany]  Cost: 132
+7930  '  SdKfz 9 with 88mm Flak36  [ AT  Germany]  Cost: 684
+7967  '  Tiger Ib  [ TK  Germany]  Cost: 1200

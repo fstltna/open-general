@@ -1,0 +1,9 @@
+WWI: 1915 Campaign Path Choice
+
+Gospodin General-Leitenant, please accept the congratulations on your promotion.  Your command has increased to an Army Corps:  you should receive sufficient resources to requisition troops once operations for 1915 commense.
+
+Brilliant Victory: Should you choose a Brilliant Victory in this choice scenario, you will command your corps on the North-Western Front.  Stavka has begun drafting plans for a winter offensive from the Polish Salient into Eastern Prussia.
+
+Victory: Taking a Victory here will lead your corps into the South-Western Front for Galician operations.  The Winter Battle of the Carpathians has already begun, and your corps will join this action as soon as possible.
+
+Tactical Victory: Tactical Victory in this scenario will transfer your troops to the Caucasus Front to join operations against Turkey.

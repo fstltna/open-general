@@ -1,0 +1,12 @@
+Kápolna
+February 26, 1849
+
+Colonel! As you know, Görgei joined our main forces successfully and pushed back Schlik’s corps. During this advance we met two imperial corps led by Windisch-Grätz near village Kápolna. Our troops have too many recruits, they aren’t strong enough to handle the united imperial army. Try to prevent them from joining.
+
+Deploy Hexes: 20
+
+ORDER: Hold at least 4 VHs.
+
+NOTE: Both sides get valuable reinforcements.
+
+scenario designer: Csaba (lvjtn)

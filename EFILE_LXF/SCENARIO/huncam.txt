@@ -1,0 +1,43 @@
+1939-45 HUNGARIAN ROYAL ARMY
+
+"Our nation never accepted the Treaty of Trianon when we lost 2/3 of our territories and population. 3 million ethnic Hungarians live outside the borders. We still claim all territories we lost in 1920 and hopefully we can regain a significant part of them with the support of our ally, Germany. When we will be strong enough, we can start a crusade against our archenemy, the Bolsheviks."
+
+NOTES
+This campaign is a complete rework of Matti's Hungarian campaign for Waffenkammer. It heavily uses new features of Open General like 2.0 AI, minefields, built airfields, blown up hexes, railways, train transports, new victory conditions, etc. Several new scenarios have been added and some maps have been replaced where better ones were available.
+
+Most scenarios refer to a real battle, except the second one (Nagyszeben / Sibiu) which was kept for a better timeline. Although it is a semi-fictional scenario, there was a real chance of a Hungarian-Romanian war before the Second Vienna Award.
+
+Protos are disabled for the entire campaign. But it is still worth trying for a BV. Players will get free core units in some scenarios and their quality depends on the previous result. Getting a BV is rewarded, just in a different way from what we are used to.
+
+The core size is semi-limited: there are no friendly SH in any scenario, so the players can deploy a limited core in every scenario. You can see the exact number of the deployable units in the scenario briefings. The maximum size of the core grows from 15 to 30 units. There is only one scenario (8th scenario, Kovel) where you can't deploy your entire core.
+
+You should expect AI getting some reinforcements in each scenarios, and AI always has a SH and money to buy new units. Human player sometimes gets limited reinforcements too, e.g. planes. When any of the sides receives significant reinforcement, it is mentioned in the scenario briefing, thout not their exact size, strength, composition or location.
+
+All scenarios are playable as standalone.
+
+I hope you will find as much fun in playing as i did in designing.
+
+RULES:
+ - Auto-refit is disabled
+ - Green replacement is enabled, can be used to refit up to the unit base strength (not necessarily 10 SP)
+ - Blow / build / repair is allowed
+ - Air units can be fired when entering AD range
+ - Barrage fire is allowed
+ - True spotting zero / true fire range zero
+ - Extended LOS (aka advanced spotting) rules
+ - Reinforcements arrive when the player is active, but have only 67% movement points on the arrival turn
+ - Added core behaves as prototype (doesn't count against the cap)
+ - Weather can change ground condition
+
+Any feedback is welcome! lvjtn9 AT gmail DOT com
+
+Enjoy!
+
+Csaba Zsadányi-Nagy aka lvjtn
+
+Campaign Designer:  Matti & Csaba Zsadányi-Nagy
+Number of Scenarios: 14
+LXF Conversion: Csaba Zsadányi-Nagy & Golothin, based on COMP v1.2
+LXF Version: v2.6
+License: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Last Playtest: 06/2017 by Csaba

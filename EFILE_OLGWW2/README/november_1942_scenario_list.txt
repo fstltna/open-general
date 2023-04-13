@@ -1,0 +1,34 @@
+Campaign: Camp6n42 * November 1942
+ # File                 Scenario                                           Date           BV   V  TV    L  Map
+ 0 n42s01.scn           Chir                                               Nov 18, 1942    1   1   1   Ls  CHIR.MAP *NF (#28) SSI-type
+ 1 n42s02.scn           Chir 2                                             Dec  7, 1942    2   2   2   Ls  CHIR.MAP *NF (#28) SSI-type
+ 2 n42s03.scn           Don                                                Jan 13, 1943    3   3   3   Ls  don.map *NF (#70) SSI-type
+ 3 n42s04.scn           Syracuse                                           Jul 10, 1943    4   4   4   Ls  Sicily.map *NF (#68) SSI-type
+ 4 n42s05.scn           Gela                                               Jul 20, 1943    5   5   5   Ls  gela.map *NF (#69) SSI-type
+ 5 n42s06.scn           Kharkov                                            Aug 24, 1943    6   6   6   Ls  KHARKOV.map *NF (#83) SSI-type
+ 6 n42s07.scn           Corinth                                            Dec  7, 1943    7   7   7   Ls  KORINTH.MAP *NF (#98) SSI-type
+ 7 n42s08a.scn          Avranches                                          Jun 22, 1944    8   8   8   Ls  AVRANCHE.MAP *NF (#323) Usr-type
+ 8 n42s09.scn           St. Lo                                             Jul 15, 1944    9   9   9   Ls  stlo.map *NF (#18) SSI-type
+ 9 n42s10a.scn          Nancy                                              Sep  8, 1944   10  10  10   Ls  HALEN.MAP *NF (#379) SSI-type
+10 n42s11a.scn          Metz                                               Nov 17, 1944   11  11  11   Ls  LABASSEE.MAP *NF (#465) SSI-type
+11 n42s12a.scn          Nordwind                                           Dec 30, 1944   12  12  12   Ls  TULASOTH.MAP *NF (#690) SSI-type
+12 n42s13a.scn          Dukla Pass                                         Feb 10, 1945   13  13  13   Ls  Dukla.map *NF (#240) SSI-type
+13 n42s14.scn           Lodz Breakout                                      Mar 15, 1945   14  14  14   Ls  LODZ.map *NF (#138) SSI-type
+14 n42s15a.scn          Seelow Heights                                     Apr 30, 1945  Win Win Win  Win  Seelow.map *NF (#10) SSI-type
+
+Summary of maps needed
+seelow.map(#10 ssi)
+korinth.map(#98)
+stlo.map(#18 ssi)
+gela.map(#69)
+halen.map(#379)
+lodz.map(#138)
+sicily.map(#68)
+labassee.map(#465)
+dukla.map(#240)
+tulasoth.map(#690)
+avranche.map(#323)
+don.map(#70)
+chir.map(#28 ssi)
+kharkov.map(#83)
+

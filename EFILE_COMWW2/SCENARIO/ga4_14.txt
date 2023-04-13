@@ -1,0 +1,111 @@
+Osowiec
+Osowiec
+Biebrza River
+Brzozowka River
+Neresl River
+Monki
+Sokolka
+Railroad
+STREAM
+Pond
+Lake
+Goniadz
+Kulesze
+Zabiele
+Karpowicze
+Kulesze Airfield
+Zubole
+Village
+Jatweiz Duza
+Zucielec
+Nowa Wies
+Boguszewo
+Knyszyn
+Suchowola
+Skindzierz
+Knyszyn Airfield
+Rajgorod
+Belda
+Klewianka
+Strongpoint
+I/SG1
+III/JG 52
+286th Sicherung Div.
+XI/14
+HILL
+CL/50
+CXXI/50
+CXXII/50
+CXXIII/50
+150th JgdPz. Abt.
+XIV/14
+CLEAR
+ROUGH
+FOREST
+CMLXXIV/367
+CMLXXV/367
+CCCLXVII/367
+367th Pioniere Batt.
+XIII/5th Pz. Div.
+XIV/5th Pz. Div.
+XXXI/5th Pz. Div.
+CXVI/5th Pz. Div.
+XI/6th Pz. Div.
+IV/6th Pz. Div.
+CXIV/6th Pz. Div.
+57th Pioniere Batt.
+131st JgdPz. Abt.
+CDXXXI/131
+CDXXXII/131
+CDXXXIV/131
+CXXXI/131
+298th FlaK Abt.
+MCXLIV/562
+MCXLV/562
+MDLXII/562
+LIII/14
+240th JgdPz. Abt.
+240th Pioniere Batt.
+CCCXCI/170
+SWAMP
+DXLVII/547
+MXCI/547
+MXCII/547
+MXCIII/547
+LXXVI/6th Pz. Div.
+MLXXVI/542
+MLXXVII/542
+4th Air Army
+CI/14
+CDXXXI/131
+42nd Tank Brig.
+DCCCXXX/238
+CCCXCIV/110
+DVI/139
+XXX/64
+XLIV/42
+XV/49
+1434th SP Art. Reg. 
+CCCLXIV/139
+CLIV/32
+I/43rd Tank Brig.
+V/5th Pz. Div.
+53rd JdgPz. Abt.
+CMLXXVI/367
+23rd Tank Brig.
+1st Guards Assault Brig.
+CLXVI/49
+XVII/32
+CLXXIII/238
+CDXI/110
+195th Saperni Batt.
+409th Sapernii Batt.
+DCI/110
+DCCCXLIII/238
+237th AT Batt.
+II/43rd Tank Brig.
+CCXII/49
+CLXIII/64
+CLIX/64
+65th AT Batt.
+CCXL/170

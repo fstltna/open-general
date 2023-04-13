@@ -1,0 +1,25 @@
+January, 13., 1865  Fort Fisher
+
+
+Dear Friend,
+contrary to some other generals, I really appreciate my black units. Some of my best units are formed from black men...Finally we conduct this war for them and for the freedom of all men... as we did in 1848.. 
+
+ORDERS:
+General, we have to take these important navy bases under all circumstances ... best land your troops on the peninsula north of Fort Fisher but keep some landing units for landing in th outmost west, after the sea has been cleared from enemies.
+Be aware of the confederate fleet !
+For our own fleet support will arrive in a few hours.
+
+
+TAKE ALL VH's
+
+NOTE: From this Scenario on, new purchased Units will start with 99 exp. pnts.
+
+ADVICE FROM YOUR OLDEST SERGEANT:
+-buy or better upgrade some of your experienced units to sappers. they will be ble to better attack enemy fortresses and to build ports on Cape fear river..
+-the slaves on confederate farms are waiting for being liberated and getting some preyed weapons from us so they can  join us in the battle..
+-Scout the Cape fear river completely! According to our latest intelligence reports the confederate Cape fear river flotilla is still there!
+
+
+Remark that different types of ships may use different areas...:
+[ cape fear river is "shallow sea" in contrast to open sea "ocean". Activate unit view and move your mouse carefully on the move-icon in the upper right. Now you will see the moving points: 255 means not reachable, 1= normal move,2= double cost for move. If for a ship you see : "shallow sea=255/ocean=1" then this ship may only move in the open sea but not the Cape fear river. "shallow sea=1/ocean=2" means that ship may move on Cape fear river and the open sea but with double cost on open sea. 
+If you use" additional options" in the menu and activate submenu "area"there you will see the actual areas on the map ]

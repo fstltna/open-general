@@ -1,0 +1,79 @@
+
+Current version: 2.03
+
+-------------------------------------------------------------------------
+
+Changes from version 2.02 to 2.03 [mid April 2016]:
+- Added 'Flag-only' nations of Luxembourg and Kingdom of Iceland.
+- Modified Flags, Medals, Portraits in OPENDAT (including using new material from 'OpenGenMedia'  folder);
+also changes to F/F, Names, Nations files.
+- Added units 6200-6210.
+- Some minor additional changes to icons, unit sfx, a couple of unit stats.
+- "Irregular Forces" changed to "NationalistForces", new "Irregular Forces" added again following "Villains"; 
+corresponding changes made to OPENDAT, F/F, Names, Nations files.
+- All naval transport units given "nominal" (bit 16) 'Carrier Weight' (can not enter containers).
+- Minor change to TERRAINEX for 'Coastal' movement type (muddy rivers movement cost = 254). 
+
+-------------------------------------------------------------------------
+
+Changes from version 2.01 to 2.02 [early/mid April 2016]:
+- Continued icon change (more accurate matching of winter/desert to default; better matching artillery with DAT).
+- Added units 6198, 6199.
+- Hungarian units given correct 'native' language names (thank you to lvjtn).
+- Cosmetic changes scenario to ZB02Mlawa.XSCN (some of the barbed-wire units).
+-------------------------------------------------------------------------
+
+Changes from version 2.0 to 2.01 [early April 2016]:
+- Minor corrections to Bougainville Campaign (a few fortification units had non-0 values set in "fuel" and "moves left" fields;
+should not have affected gameplay).
+- Shifting of a couple of deployment hexes in KCAMPLER.xscn (Deutsche Marinekorps Campaign).
+- France changed to Free French Forces in scenarios SpzBrg15.xscn, SpzBrg16.xscn and SpzBrg17.xscn
+ (Spezial Sturmbrigade "Bistroff" Campaign).
+- Arranged tips in Tips1 & Tips2 by subject and theme.
+- Switched to 'native' language names and added "Custom" descriptions for many Infantry units.
+- Added units 6185-6197 (puppet Serbian State regime).
+- Reduced stats for Lithuanian LVR, TAR.
+- Changes to icons. 
+-------------------------------------------------------------------------
+
+Changes from version 1.10 to 2.0 [end March2016]:
+- Minor changes to some icons & units (name changes, etc.).
+- Adjustments to start-dates, stats/properties of some Hungarian units.
+- Fire support reduced to single fire support for some more of the heavier AT guns (heaviest guns already had single fire support).
+- A couple of minor fixes to "No Price Too High" campaign.
+- "Hungarian Royal Army" campaign had AI and other campaign settings revised.
+- .cfg was having the effect of eliminating the automatic air-defence response from flak units, now corrected. (Also: ground_carrier=1.) 
+- Helicopter class/movement eliminated; new movement-type: "Wagon (Horse)" created - applicable units moved.
+* MAJOR CHANGE: Implemented new movemement scheme across the efile: All unit's movement and fuel settings are "doubled", with terrain-costs in TERRAINEX also doubled (but not completely: the costs for particular movement-types were slightly adjusted to allow for more realistic movement during the game - the point of the new scheme).
+- For converted campaigns/scenarios: all units have had their initial fuel/movements settings doubled (also, any errors in unit settings detected while implementing these changes were corrected at the same time).
+- New OPENGUI .pngs created to give in-game awareness of the new movement scheme.
+- Addition of airfield hexes to a couple of scenarios in Deutsche Marinekorps Campaign (otherwise non-carrier based aircraft would run out of fuel and crash before the end of the scenario). Same also for one scenario in 22.ID Campaign.
+- Jeeps and GMC CCKW trucks given all-terrain movement.
+- Units 6179-6184 added.
+* MAJOR CHANGE: All aircraft given recon type movement (this change may be reconsidered should adverse results/feedback warrant).
+-------------------------------------------------------------------------
+
+Changes from version 1.01 to 1.10 [March2016]:
+- Shortened rail movement from 12 to 10 hexes for most rail cars, exceptions: reconnaissance cars set at 11 hexes;
+	railway guns set at 5 (from 6); railway-mortars set to 8 (from10).
+- Minor changes to icons & units (a few units had name changes, some received a different icon, a few minor statistic altered).
+- Coastal patrol-vessels Hangers/Carrier-weight values set to 'nominal' value (to prevent their entering of containers). [nom. value = bit 16]
+- All ground units had their Hangers/Carrier-weight values set to 'nominal' (no use of containers). [nom. value = bit 16]
+- EQUIP.cfg created for efile:
+	ground_carrier=3* (ground carriers activated: allow entrance/exit; combat support, AD and fire support.
+	Note: only "ground" unit so far given a hanger is the Submarine Pen 
+	(to use Submarine Pen as a hanger, place upon a Port hex). 
+- Important fix to many campaign scenarios: some air units had "remaining fuel" field set at "0" and would immediately crash at start of a scenario.
+- Applied Fronts/Factions to 22.ID Campaign; also fixed Infanterie to make them Air Transportable for the campaign.
+- Many small changes to previously adapted campaigns: making sure briefings appear, matching embarked units to proper transports, made sure
+	Typed Victory conditions were set to "on" where appropriate, setting certain campaign scenarios to visible so they could be played alone.
+- Set earlier start dates for many naval transports. 
+- Scenario hun10a.xscn re-adapted, made visible.
+- Adated MG43's campaign "No Price Too High" for Efile.
+- Couple of new units added to EQUIP.
+-------------------------------------------------------------------------
+
+
+
+
+

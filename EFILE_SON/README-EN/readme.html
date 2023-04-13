@@ -1,0 +1,446 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<title>Spring of Nations E-file</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style>
+tbody, tr, th, td {padding: 0.1em 0.5em 0.1em 0.5em;
+	text-align: center;
+	border: 1px dotted}
+h1 {font-size: 2em;
+	font-weight: bold;
+	text-align: center;
+	margin: 0.8em 0 1.4em 0}
+h2 {font-size: 1.6em;
+	font-weight: bold;
+	text-align: center;
+	margin: 0.6em 0 1.2em 0}
+h3 {font-size: 1.4em;
+	font-weight: bold;
+	text-align: center;
+	margin: 1.2em 0 0.8em 0}
+h4 {font-size: 1.2em;
+	font-weight: bold;
+	text-align: left;
+	margin: 1em 0 0.7em 0}
+h5 {font-size: 1.1em;
+	font-weight: bold;
+	text-align: left;
+	margin: 0.8em 0 0.6em 0}
+h6 {font-size: 1em;
+	font-weight: normal;
+	font-style: italic;
+	text-align: left;
+	margin: 0.8em 0 0.6em 0}
+</style>
+</head>
+<body>
+
+<h1>Spring of Nations E-file</h1>
+<h2>for Open General
+<br>version 0.7.2 (2019-11-20)</h2>
+
+<p>Equipment file covering revolutions and conflicts between national movements and empires from 1756 to 1850.
+
+<h3>Readme file</h3>
+
+<p>November 20, 2019 by lvjtn
+
+<h4>0. Changelog</h4>
+
+<h5>from ver. 0.7.0</h5>
+
+<ul>
+<li>improved OpenGUI
+<li>updated the names.txt to the more modern NamesEx.txt and also added leaders’ names for more nations
+<li>started the UnitPedia
+</ul>
+
+<h4>1. Table of Contents</h4>
+
+<p><a href="#sec2">2. Requirements</a>
+<p><a href="#sec3">3. Installation</a>
+<p><a href="#sec4">4. Acknowledgements</a>
+<p><a href="#sec5">5. About The Efile</a>
+<p><a href="#sec6">6. Campaigns</a>
+<ul>
+<li><a href="#gen">a) Generic Rules</a>
+<li><a href="#hiw">b) Hungarian Independence War 1848-49</a> (HIW)
+<li><a href="#fio">c) For The Indivisible Österreich 1848-49</a> (FIO)
+<li><a href="#umw">d) USA - Mexico War 1846-47</a> (UMW)
+<li><a href="#iem">e) Intervención Estadounidense en México 1846-47</a> (IEM)
+<li><a href="#prs">f) Prussian Seven Years War Campaign 1756-62</a> (PRS)
+<li><a href="#tmw">g) Texian Revolution 1835-36</a> (TMW) “Come and Take It!”
+</ul>
+<p><a href="#sec7">7. Legal Issues</a>
+<p><a href="#sec8">8. Contact</a>
+
+<h4><a name="sec2"></a>2. Requirements</h4>
+
+<ul style="list-style-type: lower-alpha">
+<li>Open General 0.93.3.5 or higher
+</ul>
+
+<p>Getting the latest executable and efile package, please visit <a href="http://sourceforge.net/projects/opengeneral/files/DailyBuild/">http://sourceforge.net/projects/opengeneral/files/DailyBuild/</a>.
+
+<h4><a name="sec3"></a>3. Installation</h4>
+
+<p>The SON efile and all published campaigns are available in the official OpenGen repository.
+
+<p>After download, unzip the <a href="http://sourceforge.net/projects/opengeneral/files/DailyBuild/EFILES/EFILE_SON.zip/download">efile_son.zip</a> into the default Open General directory. If you have an earlier version here, please delete it before unpacking the new version.
+
+<p>No map is part of this zip file. Open General executable will download if you miss any of them.
+
+<h4><a name="sec4"></a>4. Acknowledgements</h4>
+
+<p>Appreciations to
+
+<ul>
+<li><b>Luis Guzmán</b> for creating Open General, PG2 Suite, PG2 ShpTool, Peg Suite and PeG DatTool and for his endless patience towards my requests and reports
+<li><b>Juan Carlos Preciado</b> (Juankar), <b>Gareth Birch</b> (fairline), <b>Halberdier</b>, <b>Santiago Fuertes</b>, <b>VaZqeZ</b> and <b>Spasteur de Mont Tonnerre</b> for their efforts on GUI and icons
+<li><b>Brett Foster</b> (tinyrodent) for maintaining OpenRepository on SourceForge.net, helping me to make an efile fitting the OG standards, and testing the HIW campaign
+<li><b>George Amodeo</b> (MG43) for his ideas about customizing the text files of an efile and making very good examples of the new victory conditions
+<li><b>Konstantin Katazas</b>, <b>Robert Mary</b>, <b>Michael Nowak</b> (Micha) for their PeG / PG2 18-19th century modifications that gave me the idea to create my own efile and campaigns
+<li><b>Tomasz Włoch</b> (Thomsen) for testing the HIW campaign, giving useful advice and correcting Polish unit names
+<li><b>Tymoteusz Pawłowski</b> (Blitzstoper) for testing the HIW campaign and pointing out the weaknesses
+<li><b>Sébastien Hamon</b> (Gilestiel)for maintaining his mapfinder site
+<li><b>David Keprt</b> (Gixian) for his awesome idea about double movement range/cost
+<li><b>podbelski</b> for correcting Russian unit names
+<li><b>Mikael Anteskog</b> (Adler) for correcting swedish unit names
+<li><b>Henry Case</b> for adding Greek units
+<li>my friends, <b>Vali</b> and <b>Orsi</b> (for revising English texts).
+</ul>
+
+<p>Thanks to everybody else i forgot to mention who inspired me or contributed to my work. Of course, the responsibility for any flaws are mine :)
+
+<h4><a name="sec5"></a>5. About The Efile</h4>
+
+<p>The efile consists of 32 nations and 970 units, covering revolutions and conflicts between national movements and empires from 1756 to 1850.
+
+<h5>a) nations</h5>
+
+<p>All of the nations have very similar units, weighted by national specialities (e.g. French Republic / Empire and United States in 1840s have better guns while Hungarian Kingdom in 1848 has worse attack values but higher initiative. All nations have the same detailed factions based on movement types, unit abilities and classes. A few nations like Piedmont-Sardinia, Austria and Hungary have more fronts.
+
+<p>Leaders on dossier_portrait.png: Daniele Manin (Venice), Robert Blum (Deutscher Bund), Nikolay I. Romanov (Russia), Julius Haynau (Austria), Artúr Görgei (Hungary), Carlo Alberto di Savoia (Piedmont-Sardinia), Ignacy Prądzyński (Poland), Abdülmecid I. (Turkey), Arthur Wellesley (United Kingdom), Friedrich II. Hohenzollern (Prussia), Comte de Rochambeau (French Kingdom), Lazare Hoche (French Republic), Napoléon Bonaparte (French Empire), Karl XIII Holstein-Gottorp (Sweden), José de Palafox y Melci (Spain), Karl Friedrich von Baden (Baden), Maximilian Joseph (Bavaria), Eugène de Beauharnais (Rheinbund) Friedrich von Württemberg (Württemberg), Friedrich August III. von Sachsen (Saxony), Georg III. Wilhelm Friedrich (Hannover), Sam Houston (Texas), Antonio López de Santa Anna (Mexico), George Washington (USA), Christian 7. af Oldenborg (Denmark), Wilhelm I. (Hesse-Kassel), Maria I (Portugal), Laurens Pieter van de Spiegel (Netherlands), Tecumseh (Natives), Ferdinando III di Borbone (Sicily), Ferdinando III d’Asburgo-Lorena (Tuscany), Ioannis Kapodistrias (Hellas).
+
+<p>Commanders on inspect_leader.png: Guglielmo Pepe (Venice), Józef Bem (Deutscher Bund), Ivan Paskevich (Russia), Alfred Windisch-Grätz (Austria), György Klapka (Hungary), Eusebio Bava (Piedmont-Sardinia), Józef Dwernicki (Poland), Ömer Lütfi Paşa (Turkey), William Howe (United Kingdom), Gebhard Leberecht von Blücher (Prussia), Marquis de Lafayette (French Kingdom), Napoléon Bonaparte (French Republic), Michel Ney (French Empire), Curt von Stedingk (Sweden), Juan Martín Díez (Spain), Friedrich Karl von Tettenborn (Baden), Karl Philipp von Wrede (Bavaria), Alexander Friedrich Karl von Würtemberg (Württemberg), Franz Xaver von Sachsen (Saxony), Ferdinand von Braunschweig-Wolfenbüttel (Hannover), Stephen Fuller Austin (Texas), Pedro Ampudia y Grimarest (Mexico), Zachary Taylor (USA), Joachim Castenschiold (Denmark), Georg Ernst von Gilsa (Hesse-Kassel), Miguel Pereira Forjaz (Portugal), Johan Zoutman (Netherlands), Vito Nunziante (Sicily), Marchese Federico Manfredini (Tuscany), Theodoros Kolokotronis (Hellas).
+
+<h5>b) classes</h5>
+
+<p>The efile uses only 11 classes: infantry, light cavalry (instead of recon), heavy cavalry (instead of tank), fortification, artillery, man-o-war (instead of battleship), frigate (instead of cruiser), corvette (instead of light cruiser), ground, naval and rail transports.
+
+<h5>c) units</h5>
+
+<p>Units have higher movement range and artilleries have longer firing range than we have been familiar with well-known WW2 efiles, because the battlefields are smaller, one hex represents cca. 500-1000 meters. You need to apply a definitely different tactics to win and save the severely injured units.
+
+<p>All infantry and artillery can be transported by rail, but their horse carriage (and cavalry or siege gun) cannot. Trains are fast and carry mounted units on long distance, on the other hands depending on railways and stations. Players have to think about it is worth to abandon ground transport or not for using rail.
+
+<p>Most unit icons are colorful but one-faced png files (from PeG-NAPGEN and PeG-ACW datup, designed by Fairline, Halberdier).
+
+<p>Units in the same role have very similar stats, though most nations have special abilities, what are represented by +1/-1 values compared to the defaults. See this pdf file for details: <a href="efile_son-nations-weights.pdf">efile_son-nations-weights.pdf</a>.
+
+<h5>d) sample stats of generic units</h5>
+
+<p><img src="all_countries_units.png" alt="sample units for &quot;all countries&quot;">
+
+<p>SA: soft attack, CA: cavalry attack, NA: naval attack, FA: fort attack, GD: ground defense, ND: naval defense, CD: close defense, SM: skirmish modifier
+<br>B: bridge + build/repair, E: ignore trench, C: combat support + no surrender, M: mountain, N: marine, NS: no station, s: no support fire, L: lasting suppression
+
+<h5>e) multimedia</h5>
+
+<p>The sound package contains classical marches as background musics for main nations: Johann Strauss - Radetzky March (Habsburg Empire), Franz Liszt - Hungarian Battle March (Hungary), Karol Kurpiński - Marsz Warszawianka 1831 (Poland), March of The British Grenadiers (United Kingdom), Alter Marsch / Der Zorndorfer (Prussia), Jean-Baptiste Lully - La Marche des Mousquetaires Noirs (French Kingdom), La Carmagnole – Ah Ça Ira (French Republique), Le Pas Redoublé de La Garde Impériale (French Empire), The Yellow Rose of Texas (Texas), Marcha Ecos de México (Mexico), William Steffe - The Battle Hymn of the Republic (USA).
+
+<h5>f) configuration files</h5>
+
+<p>The efile related configuration files are intensely modified. Terrain, weather, movement methods differ from the values defined in Open General default tables. Some of the settings also differ from what you might be familiar.
+
+<h5>g) latitudes / climate zones</h5>
+
+<table>
+<tr><th>ZoneID</th><th>ZoneName</th><th>Used in Campaigns</th><th>Humidity</th><th>Köppen classes</th><th>ClimateCity</th></tr>
+<tr><td>0</td><td>Continental Cold</td><td>not used yet</td><td>dry</td><td>Dwb, Dfb (East)</td><td>Moscow</th></tr>
+<tr><td>1</td><td>Continental Humid</td><td>FIO, HIW, PRS</td><td>medium</td><td>Dfa, Dfb (West)</td><td>Szolnok</th></tr>
+<tr><td>2</td><td>Desert Africa, Asia</td><td>not used yet</td><td>arid</td><td>Bwh, Bsh</td><td>Cairo</th></tr>
+<tr><td>3</td><td>Desert America</td><td>IEM, UMW</td><td>arid</td><td>Bwh, Bsh</td><td>Tucson</th></tr>
+<tr><td>4</td><td>Mediterranean Dry</td><td>IEM, UMW</td><td>dry</td><td>Csa, Csb, Cwa, Cwb, Cwc</td><td>Madrid</th></tr>
+<tr><td>5</td><td>Mediterranean Humid</td><td>FIO, IEM, UMW</td><td>medium</td><td>Cfa</td><td>Venice</th></tr>
+<tr><td>6</td><td>Oceanic</td><td>PRS</td><td>wet</td><td>Cfb, Cfc</td><td>Brussels</th></tr>
+<tr><td>7</td><td>Semi-Arid Africa, Asia</td><td>not used yet</td><td>semi-arid</td><td>Bwk, Bsk, Dsa, Dsb</td><td>Tripoli</th></tr>
+<tr><td>8</td><td>Semi-Arid America</td><td>IEM, UMW</td><td>semi-arid</td><td>Bwk, Bsk, Dsa, Dsb</td><td>Santa Fe</th></tr>
+<tr><td>9</td><td>Subartic</td><td>FIO, HIW</td><td>medium</td><td>Dsc, Dsd, Dwc, Dwd, Dfc, Dfd</td><td>Oslo</th></tr>
+<tr><td>10</td><td>Subtropical</td><td>IEM, UMW</td><td>wet</td><td>Am, Aw</td><td>Villahermosa</th></tr>
+</table>
+
+<p><img src="climate_zones.png" alt="climate zones">	
+
+<h4><a name="sec6"></a>6. Campaigns</h4>
+
+<h5>a) Generic Rules</h5>
+
+<p>All campaigns and scenarios use these generic scenario settings:
+
+<p><img src="scenario_settings.png" alt="generic scenario settings">
+
+<p>The most important generic campaign settings are:
+
+<ul>
+<li>Deployment is limited, there is no friendly SH. The briefings always tell how many core units you can deploy.
+<li>Auto-refit is disabled.
+<li>Instead of prototypes, the players are occasionally awarded by new free core units, depending on the previous results.
+<li>Attachments are available. They give only +1 bonus and zero malus but they count against the cap.
+<li>Green / Elite Replacements are available.
+</ul>
+
+<p>When a campaign or a scenario uses a special setting, it is always mentioned in the campaign intro or the scenario briefing.
+
+<h5><a name="hiw"></a>b) Hungarian Independence War 1848-49 (HIW)</h5>
+
+<p>You can play 22 scenarios as the Hungarian side from Sept. 1848 to August 1849. Winning Buda (the 14th scenario) with MV is a possible end if you don’t like "Defending the Reich" style fighting. Difficulty is easy playing at 100% and intermediate at 50-75%. Other prestige levels haven’t been tested yet. 0% is not recommended, prestige on map is significant. On the other hand, playing at more than 200% doesn’t have too much sense.
+
+<p>All scenarios refer to a real battle, but i didn’t bother with unit names, sizes, etc. This campaign is not strictly historical, it was made for having fun. Though it is a mixture of different military leaders’ operations on the main front, General Artúr Görgei (the best tactician and most successful commander on the Hungarian side) participated in 2/3 of these battles.
+
+<p>If you are interested in the historical background, the related Wikipedia article could be a good start: <a href="http://en.wikipedia.org/wiki/Hungarian_Revolution_of_1848">http://en.wikipedia.org/wiki/Hungarian_Revolution_of_1848</a>. Just please don’t forget: it’s Wikipedia where every moron can have admin rights :)
+
+<h6>i. scenarios</h6>
+
+<table>
+<tr><th>No.</th><th>Scenario (date)</th><th>DV / V</th><th>MV</th><th>L</th><th>options<a name="backhra" href="#opthra">*</a></th></tr>
+<tr><td>01</td><td>Pákozd (September 29, 1848)</td><td>02</td><td>02</td><td>Loss</td><td>DR</td></tr>
+<tr><td>02</td><td>Ozora (October 7, 1848)</td><td>03</td><td>03</td><td>Loss</td><td>DR</td></tr>
+<tr><td>03</td><td>Schwechat (October 30, 1848)</td><td>04</td><td>04</td><td>04</td><td>DR</td></tr>
+<tr><td>04</td><td>Mór (December 30, 1848)</td><td>05</td><td>05</td><td>Loss</td><td>DR</td></tr>
+<tr><td>05</td><td>Szolnok (January 22, 1849)</td><td>06</td><td>06</td><td>Loss</td><td>DR</td></tr>
+<tr><td>06</td><td>Tokaj (January 31, 1849)</td><td>07</td><td>07</td><td>Loss</td><td>DR</td></tr>
+<tr><td>07</td><td>Kápolna (February 26, 1849)</td><td>08</td><td>08</td><td>Loss</td><td>DR</td></tr>
+<tr><td>08</td><td>Szolnok-Cibakháza (March 5, 1849)</td><td>09</td><td>09</td><td>Loss</td><td>DR</td></tr>
+<tr><td>09</td><td>Tápióbicske (April 4, 1849)</td><td>10</td><td>10</td><td>Loss</td><td>DR</td></tr>
+<tr><td>10</td><td>Isaszeg (April 6, 1849)</td><td>11</td><td>11</td><td>Loss</td><td>DR, DS, DU</td></tr>
+<tr><td>11</td><td>Vác (April 10, 1849)</td><td>12</td><td>12</td><td>Loss</td><td>DR, DP</td></tr>
+<tr><td>12</td><td>Nagysalló (April 19, 1849)</td><td>13</td><td>13</td><td>Loss</td><td>DR, DS</td></tr>
+<tr><td>13</td><td>Komárom-Szőny (April 26, 1849)</td><td>14</td><td>14</td><td>Loss</td><td>DR, DS, DP</td></tr>
+<tr><td>14</td><td>Buda (May 4, 1849)</td><td>15</td><td>Win</td><td>Loss</td><td>DR</td></tr>
+<tr><td>15</td><td>Csorna (June 13, 1849)</td><td>16</td><td>16</td><td>Loss</td><td>DR</td></tr>
+<tr><td>16</td><td>Pered (June 20, 1849)</td><td>17</td><td>17</td><td>Loss</td><td>DR</td></tr>
+<tr><td>17</td><td>Komárom-Ács (July 2, 1849)</td><td>18</td><td>18</td><td>Loss</td><td>DR</td></tr>
+<tr><td>18</td><td>Komáromi kitörés (July 11, 1849)</td><td>19</td><td>19</td><td>Loss</td><td>DR, DS</td></tr>
+<tr><td>19</td><td>Vác-Rétság (July 17, 1849)</td><td>20</td><td>20</td><td>Loss</td><td>DR</td></tr>
+<tr><td>20</td><td>Szeged-Szőreg (August 3, 1849)</td><td>21</td><td>21</td><td>21</td><td>DR</td></tr>
+<tr><td>21</td><td>Temesvár (August 9, 1849)</td><td>Win</td><td>22</td><td>22</td><td>DR, DS</td></tr>
+<tr><td>22</td><td>Orsova (August 17, 1849)</td><td>Win</td><td>Win</td><td>Loss</td><td>DR, DS, DU, DP</td></tr>
+</table>
+
+<p><a name="opthra" href="#backhra">*</a> – DR: disable auto-refit, DS: disable auto-supply, DU: disable upgrade, DP: disable purchase
+
+<h6>ii. maps</h6>
+
+<p>All scenarios are based on the built-in tiled maps.
+
+<h6>iii. suggested upgrade line</h6>
+
+<p>In the summer of 1848, most of the Hungarian infantry and cavalry units were militia ("nemzetőr" / "lovas nemzetőr"), without proper training and experience. Only a few regular ("királyi" or "königlich") regiments joined the revolutionary side from the beginning. Producing higher calliber artilleries started only in winter. The evolution regarding skill and self-discipline (XP refers only the experience) can be realized in the following upgrade line:
+
+<ul>
+<li>Infantry: "Nemzetőr" (militia) &gt; "Honvéd" (light inf.) &gt; "Sorkatona" (line inf.) / "Székely határőr" (mountain inf.) &gt; "Vörössapkás" (elite inf.).
+<br>"Várőrség" (fort inf.) and "Parancsnokság" (hq inf.) have special roles
+<li>Light cavalry: "Lovas nemzetőr" (horse militia) &gt; "Huszár" (hussar) / "Ulánus" (uhlan or chevaux-léger).
+<li>Cavalry: "Dragonyos" (dragoon) &gt; "Vértes" (cuirassier)
+</ul>
+
+<p>This evolution was a slow process, only in March-April 1849 were most of the Hungarian batallions in regular/elite state however, some of them were very talented in fall 1848 too.
+
+<h6>iv. text files of scenarios</h6>
+
+<p>All briefings are complete and bilingual (English & Hungarian).
+
+<h6>v. orders of battle</h6>
+
+<p>Hungarian army followed the Austrian military standards. The largest operative military formation was (army) corps and the orders of battle were almost the same, except that a Hungarian corps had less infantry and more cavalry than an Austrian, and a Hungarian battery contained more lower calliber (6 pdr) than an Austrian. A typical corps of both sides had the following disposal:
+
+<p>corps ("hadtest"): 8-15.000 men + 36-48 guns
+<ul style="list-style-type: none">
+<li>= 2-3 divisions ("hadosztály") + 1 sapper company ("század")
+<li>= 4-6 brigades ("dandár")
+<li>= 8-16 infantry batallions ("zászlóalj") + 8-12 cavalry squadrons ("lovasszázad") + 6-8 batteries ("üteg")
+<br>batallion: 6-800 men
+<br>squadron: 200 cavalry
+<br>battery: 6-8 guns + 100-150 artillerists
+</ul>
+
+<p>Every formation was larger in the Russian army. A Russian division was comparable to an Austrian or Hungarian corps:
+
+<p>division: 10-16.000 men + 48 guns
+<ul style="list-style-type: none">
+<li>= 2 brigades
+<li>= 4 regiments ("ezred")
+<li>= 12-16 infantry batallions + 4-8 cavalry squadrons + 4-6 batteries
+<br>batallion: 800-1000 men
+<br>squadron: 300 cavalry
+<br>battery: 8-12 guns + 150-200 artillerists
+</ul>
+
+<p>In a Russian corps there were 3-4 divisions. All three armies had only one sapper company per division.
+
+<p>In the game, an infantry unit represents a batallion, a cavalry unit a squadron and an artillery unit a battery. Russian units have the same strength point, because Russian troops suffered from the same cholera epidemic that had hit the Hungarians in the winter. Moreover, the Russians wore their winter coats, even though the summer heat was excessive across Hungary. An estimated 5-10% of all Russian infantry succumbed to heat exhaustion. Russians had more casualties because of illness and weather than they lost in battles!
+
+<p>In a few battles (e.g. Kápolna, Isaszeg, Temesvár), more corps participated on both sides, but they acted more or less independently, and the communication between them was usualy bad and delayed for making good coordination possible. That’s my reason why i put less units on the related scenarios than it would be realistic. And because i hate huge scenarios :)
+
+<p>Casualties -- as Open General (which is primary designed for playing WW2 scenarios) manages them -- are completely unrealistic: in this war, only during the bloodiest battles suffered a formation more than 3-5% KIA and 8-10% total loss. A way to solve this contradiction is supposing that "killed" units surrendered or retreated from the battlefield.
+
+<h5><a name="fio"></a>c) For The Indivisible Österreich 1848-49 (FIO)</h5>
+
+<p>You can play 19 scenarios as the Austrian side from March 1848 to August 1849. Difficulty is easy playing at 100% and intermediate at 75% and hard at 50%. Other prestige levels haven’t been tested yet. 0% is not recommended, prestige on map is significant. On the other hand, playing at more than 200% doesn’t have too much sense.
+
+<p>All scenarios refer to a real battle, but i didn’t bother with unit names, sizes, etc. This campaign is not strictly historical, it was made for having fun. Battles cover Radetzky’s operations in Lombardia and Schlik’s operations in Hungary.
+
+<h6>i. scenarios</h6>
+
+<table>
+<tr><th>No.</th><th>Scenario (date)</th><th>DV / V</th><th>MV</th><th>L</th><th>options<a name="backfio" href="#optfio">*</a></th></tr>
+<tr><td>01</td><td>Mailand (March 18, 1848)</td><td>02</td><td>02</td><td>Loss</td><td>DR</td></tr>
+<tr><td>02</td><td>Pastrengo (April 30, 1848)</td><td>03</td><td>03</td><td>03</td><td>DR</td></tr>
+<tr><td>03</td><td>Verona (May 6, 1848)</td><td>04</td><td>04</td><td>Loss</td><td>DR</td></tr>
+<tr><td>04</td><td>Goito (May 30, 1848)</td><td>05</td><td>05</td><td>Loss</td><td>DR</td></tr>
+<tr><td>05</td><td>Custozza (July 24, 1848)</td><td>06</td><td>06</td><td>Loss</td><td>DR</td></tr>
+<tr><td>06</td><td>Wien (October 25, 1848)</td><td>07</td><td>07</td><td>Loss</td><td>DR</td></tr>
+<tr><td>07</td><td>Budzimir-Kaschau (December 11, 1848)</td><td>08</td><td>08</td><td>Loss</td><td>DR</td></tr>
+<tr><td>08</td><td>Kaschau (January 4, 1849)</td><td>09</td><td>09</td><td>Loss</td><td>DR</td></tr>
+<tr><td>09</td><td>Braniskopass (February 5, 1849)</td><td>10</td><td>10</td><td>10</td><td>DR</td></tr>
+<tr><td>10</td><td>Kápolna (February 26, 1849)</td><td>11</td><td>11</td><td>Loss</td><td>DR</td></tr>
+<tr><td>11</td><td>Sollnock (March 5, 1849)</td><td>12</td><td>12</td><td>Loss</td><td>DR</td></tr>
+<tr><td>12</td><td>Hatvan (April 2, 1849)</td><td>13</td><td>13</td><td>Loss</td><td>DR</td></tr>
+<tr><td>13</td><td>Isaszeg (April 6, 1849)</td><td>14</td><td>14</td><td>14</td><td>DR, DP</td></tr>
+<tr><td>14</td><td>Komorn I. (April 26, 1849)</td><td>15</td><td>15</td><td>Loss</td><td>DR</td></tr>
+<tr><td>15</td><td>Pered (June 20, 1849)</td><td>16</td><td>16</td><td>Loss</td><td>DR</td></tr>
+<tr><td>16</td><td>Komorn II. (July 2, 1849)</td><td>17</td><td>17</td><td>Loss</td><td>DR</td></tr>
+<tr><td>17</td><td>Komorn III. (July 11, 1849)</td><td>18</td><td>18</td><td>Loss</td><td>DR</td></tr>
+<tr><td>18</td><td>Venedig (August 15, 1849)</td><td>Win</td><td>Win</td><td>Loss</td><td>DR</td></tr>
+</table>
+
+<p><a name="optfio" href="#backfio">*</a> – DR: disable auto-refit, DU: disable upgrade, DP: disable purchase
+
+<h6>ii. maps</h6>
+
+<p>List of used maps: 204, 244, 282, 325, 350, 357, 403, 460, 499, 532, 708, 804, 940, 948, 987, 1013, 9526.
+
+
+<h5><a name="umw"></a>d) USA - Mexico War 1846-47 (UMW)</h5>
+
+<p>You can play 9 scenarios as the American side from May 1846 to September 1847.
+
+<p>All scenarios refer to a real battle, although on different fronts, no real formation participated in all of them.
+
+<p>This campaign is a conversion of Micha’s PeG mod.
+
+<h6>i. scenarios</h6>
+
+<table>
+<tr><th>No.</th><th>Scenario (date)</th><th>DV</th><th>V / MV</th><th>L</th><th>options<a name="backumw" href="#optumw">*</a></th></tr>
+<tr><td>01</td><td>Battle of Resaca de la Palma (May 8, 1846)</td><td>02</td><td>02</td><td>Loss</td><td>DR</td></tr>
+<tr><td>02</td><td>Battle of Monterrey (September 21, 1846)</td><td>03</td><td>03</td><td>Loss</td><td>DR</td></tr>
+<tr><td>03</td><td>Battle of El Brazito (December 25, 1846)</td><td>04</td><td>04</td><td>Loss</td><td>DR</td></tr>
+<tr><td>04</td><td>Battle of Buena Vista (February 23, 1847)</td><td>05</td><td>05</td><td>Loss</td><td>DR</td></tr>
+<tr><td>05</td><td>Battle of Cerro Gordo (April 18, 1847)</td><td>06</td><td>06</td><td>Loss</td><td>DR</td></tr>
+<tr><td>06</td><td>Second Battle of Tabasco (June 15, 1847)</td><td>07</td><td>07</td><td>Loss</td><td>DR, DP</td></tr>
+<tr><td>07</td><td>Battle of Contreras (August 19, 1847)</td><td>08</td><td>08</td><td>Loss</td><td>DR</td></tr>
+<tr><td>08</td><td>Battle of Molino del Rey (September 8, 1847)</td><td>09</td><td>09</td><td>Loss</td><td>DR</td></tr>
+<tr><td>09</td><td>Battle of Chapultepec (September 12, 1847)</td><td>Win</td><td>Win</td><td>Loss</td><td>DR</td></tr>
+</table>
+
+<p><a name="optumw" href="#backumw">*</a> – DR: disable auto-refit, DP: disable purchase
+
+<h6>ii. maps</h6>
+
+<p>All scenarios are based on the built-in tiled maps.
+
+
+<h5><a name="iem"></a>e) Intervención Estadounidense en México 1846-47 (IEM)</h5>
+
+<p>You can play 8 scenarios as the Mexican side from May 1846 to September 1847.
+
+<p>Most scenarios refer to a real battle, although on different fronts, no real formation participated in all of them.
+
+<p>This campaign is inspired by Micha’s PeG mod.
+
+<h6>i. scenarios</h6>
+
+<table>
+<tr><th>No.</th><th>Scenario (date)</th><th>DV</th><th>V / MV</th><th>L</th><th>options<a name="backiem" href="#optiem">*</a></th></tr>
+<tr><td>01</td><td>Batalla de Palo Alto (May 8, 1846)</td><td>02</td><td>02</td><td>Loss</td><td>DR</td></tr>
+<tr><td>02</td><td>Batalla de Santa Fe (Aug 15, 1846)</td><td>03</td><td>03</td><td>Loss</td><td>DR</td></tr>
+<tr><td>03</td><td>Batalla de la Cañada (Jan 24, 1847)</td><td>04</td><td>04</td><td>Loss</td><td>DR, DP</td></tr>
+<tr><td>04</td><td>Batalla de Saltillo (Feb 23, 1847)</td><td>05</td><td>05</td><td>Loss</td><td>DR</td></tr>
+<tr><td>05</td><td>Batalla de Sacramento (Feb 28, 1847)</td><td>06</td><td>06</td><td>Loss</td><td>DR</td></tr>
+<tr><td>06</td><td>Asedio de Veracruz (Mar 24, 1847)</td><td>07</td><td>07</td><td>Loss</td><td>DR</td></tr>
+<tr><td>07</td><td>Batalla de Churubusco (Aug 20, 1847)</td><td>08</td><td>08</td><td>Loss</td><td>DR</td></tr>
+<tr><td>08</td><td>Sitio de Puebla (Sep 22, 1847)</td><td>Win</td><td>Win</td><td>Loss</td><td>DR</td></tr>
+</table>
+
+<p><a name="optiem" href="#backiem">*</a> – DR: disable auto-refit, DP: disable purchase
+
+<h6>ii. maps</h6>
+
+<p>All scenarios are based on the built-in tiled maps.
+
+
+<h5><a name="prs"></a>f) Prussian Seven Years War Campaign 1756-62 (PRS)</h5>
+
+<p>You can play 23 scenarios as the Prussian side from September 1756 to October 1762.
+
+<p>All scenarios refer to a real battle, although on different fronts, no real formation participated in all of them.
+
+<p>This campaign is a conversion of Micha’s PeG mod.
+
+<p>The scenarios are based on the built-in tiled maps.
+
+
+<h5><a name="tmw"></a>g) Texian Revolution 1835-36 (TMW)
+<br>“Come and Take It!”</h5>
+
+<p>You can play 7 scenarios as the Texian side from october 1835 to April 1836.
+
+<p>All scenarios refer to a real battle, although on different fronts, no real formation participated in all of them.
+
+<p>This campaign is a conversion of Micha’s PeG mod.
+
+<h6>i. scenarios</h6>
+
+<table>
+<tr><th>No.</th><th>Scenario (date)</th><th>DV</th><th>V / MV</th><th>L</th><th>options<a name="backtmw" href="#opttmw">*</a></th></tr>
+<tr><td>01</td><td>Battle of Gonzales (October 2, 1835)</td><td>02</td><td>02</td><td>Loss</td><td>DR</td></tr>
+<tr><td>02</td><td>Battle of Concepción (October 28, 1835)</td><td>03</td><td>03</td><td>Loss</td><td>DR, DS, DP</td></tr>
+<tr><td>03</td><td>Grass Fight (November 26, 1835)</td><td>04</td><td>04</td><td>Loss</td><td>DR</td></tr>
+<tr><td>04</td><td>Siege of Béxar (December 5, 1835)</td><td>05</td><td>05</td><td>Loss</td><td>DR, DP</td></tr>
+<tr><td>05</td><td>Battle of The Alamo (February 23, 1836)</td><td>Disabled</td><td>06</td><td>Loss</td><td>DR</td></tr>
+<tr><td>06</td><td>Battle of Coleto Creek (March 19, 1836)</td><td>07</td><td>07</td><td>Loss</td><td>RC</td></tr>
+<tr><td>07</td><td>Battle of San Jacinto (April 21, 1836)</td><td>Win</td><td>Win</td><td>Loss</td><td>DR</td></tr>
+</table>
+
+<p><a name="opttmw" href="#backtmw">*</a> – DR: disable auto-refit, DS: disable auto-supply, DP: disable purchase, RC: restart the core
+
+<h6>ii. maps</h6>
+
+<p>All scenarios are based on the built-in tiled maps.
+
+
+<h4><a name="sec7"></a>7. Legal Issues</h4>
+
+<p>This Efile is licensed under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). It means anybody has the right to use, distribute, modify or derivate the Efile until mentioning me as an original author and not adding the modifications to any commercial product.
+
+<p>The campaigns of this Efile are licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>, which means anybody has the right to use or redistribute them until mentioning me as an original author and not adding the modifications to any commercial product; however, but modifying or derivating them is not allowed without my permission. I gladly allow converting my campaigns, but I want to know about it.
+
+<p>Elements of OPENGUI and SOUND folders, and the icons are made or designed by other members of PG2/OG/PeG community (see acknowledgements).
+
+<p>If any of the files in this package infringed someone else’s trademark, copyright, etc., please let me know in order to remove them ASAP.
+
+<p>This package does not support any political ideology or making war. Text files may contain offensive, politically incorrect phrases. They do not represent my attitudes to any nations or ethnic groups (whether they were involved in these conflicts or not). This kind of language refers only the liberal nationalism widespread in the 19th century.
+
+<h4><a name="sec8"></a>8. Contact</h4>
+
+<p>If you have any questions or suggestions, you can find me on JP’s Panzercentral forum or you can mail me at lvjtn9 AT gmail DOT com
+
+<p>All feedback and comments are welcome!
+
+<p>Csaba Zsadányi-Nagy (aka lvjtn)
+
+</body>
+</html>

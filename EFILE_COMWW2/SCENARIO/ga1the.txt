@@ -1,0 +1,101 @@
+Water Rats
+North Sea
+Oosterschelde
+Mastgat
+Krammer
+Zierikzee
+Keten
+Steenberge Vliet
+Oostkapelle
+Veerse Gat
+Colijnsplaat
+De Heen
+Domburg
+Veere 
+Kamperland
+St. Annaland
+Lake
+Westkapelle
+INUNDATION
+Kortgene
+Stavenisse
+Steenbergen
+Serooskerke
+Walcheren Canal
+Middelburg
+Zandkreek
+Tholen
+Eendracht
+Lepelstraat
+Arnemuiden
+Halsteren
+Wolphaartsdijk
+Sas
+Wemeldinge
+Bergen op Zoom
+Goes
+Zuid-Beveland Canal
+Sloe
+Yerseke
+Vlissingen
+Nisse
+Hansweert
+Westerschelde
+Krabbendijke
+Borsele
+Hoedekenskerke
+Ellewoutsdijk
+Rilland
+Bath
+Woensdrecht
+Hoogerheide
+Ossendrecht
+Breskens
+Kloosterzande
+Putte
+Port  Borsele
+Port Hoedekenske
+Port Breskens
+Breskens Airfield
+Port Kloosterzande
+Port Vlissingen
+Middelburg Airfield
+Port Westkapelle
+Port Veere
+Port Colijnsplaat
+Port Stavenisse
+Port Zierikzee
+Woensdrecht Airfield
+De Heen Airfield
+Railroad
+41st Royal Marine Comm.
+47th Royal Marine Comm.
+4th Special Service Brig.
+7th Batt./Royal Scots
+9th Batt./Royal Scots
+4th Batt./Scottish Borderers
+4th Commando
+V/4
+XXII/4
+XXI/4
+XXVIII/4
+410th Squadron
+HMS Warspite
+84th Grp.
+6th Fallschirm.
+MXX/70
+CLXX/70
+70th Div.
+810th FlaK Abt.
+64th Div.
+MXIX/70
+346th Div.
+CLXXXV/346
+MLIV/346
+MLV/346
+StuG Grp. 280
+JG-26
+ROUGH
+CLEAR
+SWAMP
+FOREST

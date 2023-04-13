@@ -1,0 +1,183 @@
+'---
+'Config AI file for scenario: SpzBrg05.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=175 items  ' Replacement for default list
+  30  '  105mm C mle35  [ATY  France]  Cost: 264
+  31  '  155mm L mle17F  [ATY  France]  Cost: 1032
+  32  '  75mm C mle97  [ATY  France]  Cost: 144
+  37  '  Chasseurs a Pied  [INF  France]  Cost: 96
+  38  '  Sapeurs 40  [INF  France]  Cost: 336
+  48  '  Char B1bis  [ TK  France]  Cost: 540
+  49  '  H39  [ TK  France]  Cost: 324
+  53  '  R35  [ TK  France]  Cost: 276
+  54  '  R40  [ TK  France]  Cost: 324
+  55  '  S35  [ TK  France]  Cost: 444
+  56  '  AGR2  [TPT  France]  Cost: 48
+  58  '  MCG  [TPT  France]  Cost: 204
+  59  '  Wagon  [TPT  France]  Cost: 24
+  60  '  D.520C.1  [FTR  France]  Cost: 504
+  61  '  MS.406C.1  [FTR  France]  Cost: 480
+  62  '  Po.633  [ TB  France]  Cost: 468
+  63  '  Transport  [ATP  France]  Cost: 348
+ 183  '  120mm m/32  [ATY  Norway]  Cost: 240
+ 254  '  75mm m/01 Pv  [ AT  Norway]  Cost: 96
+ 255  '  75mm m/01  [ATY  Norway]  Cost: 144
+ 257  '  Gladiator IIA  [FTR  Norway]  Cost: 348
+ 259  '  Wagon  [TPT  Norway]  Cost: 24
+ 262  '  105mm A wz.13  [ATY  Poland]  Cost: 240
+ 264  '  75mm A wz.97  [ATY  Poland]  Cost: 144
+ 267  '  35 Kawaleria  [INF  Poland]  Cost: 156
+ 268  '  35 Engineer  [INF  Poland]  Cost: 348
+ 273  '  7TP  [ TK  Poland]  Cost: 288
+ 276  '  R35  [ TK  Poland]  Cost: 276
+ 279  '  Wagon  [TPT  Poland]  Cost: 24
+ 282  '  Transport  [ATP  Poland]  Cost: 348
+ 328  '  25 pdr  [ATY  United Kingdom]  Cost: 276
+ 338  '  Engineers 40  [INF  United Kingdom]  Cost: 408
+ 340  '  Bridging 36  [INF  United Kingdom]  Cost: 192
+ 347  '  Royal Marines 39  [INF  United Kingdom]  Cost: 144
+ 369  '  Cruiser IV  [ TK  United Kingdom]  Cost: 300
+ 377  '  Matilda II  [ TK  United Kingdom]  Cost: 528
+ 382  '  QL  [TPT  United Kingdom]  Cost: 72
+ 383  '  Bren Carrier  [TPT  United Kingdom]  Cost: 216
+ 385  '  Hurricane IA  [FTR  United Kingdom]  Cost: 468
+ 387  '  Spitfire IA  [FTR  United Kingdom]  Cost: 588
+ 398  '  C-47  [ATP  United Kingdom]  Cost: 348
+ 574  '  Transport  [ATP  Norway]  Cost: 348
+ 582  '  H35  [ TK  France]  Cost: 276
+ 590  '  155mm C mle17  [ATY  France]  Cost: 756
+ 591  '  Char D1B  [ TK  France]  Cost: 336
+ 592  '  Char D2  [ TK  France]  Cost: 384
+ 595  '  Hawk 75A  [FTR  France]  Cost: 492
+ 614  '  Skua  [ TB  United Kingdom]  Cost: 396
+ 616  '  35 Engineer  [INF  Norway]  Cost: 288
+ 627  '  18pdr  [ATY  United Kingdom]  Cost: 144
+ 629  '  4.5inch  [ATY  United Kingdom]  Cost: 192
+ 632  '  Lastbil  [TPT  Norway]  Cost: 60
+ 650  '  Cruiser I  [ TK  United Kingdom]  Cost: 264
+ 651  '  Cruiser II  [ TK  United Kingdom]  Cost: 276
+ 652  '  Cruiser III  [ TK  United Kingdom]  Cost: 288
+ 700  '  Matilda I  [ TK  United Kingdom]  Cost: 408
+ 702  '  Blenheim I  [ TB  United Kingdom]  Cost: 540
+ 718  '  AMC 34  [ TK  France]  Cost: 324
+ 724  '  Legionnaire  [INF  France]  Cost: 144
+ 725  '  155mm H wz.17  [ATY  Poland]  Cost: 756
+ 736  '  Tirailleurs 35  [INF  France]  Cost: 132
+ 752  '  Pontonniers 35  [INF  France]  Cost: 192
+ 914  '  Battle I  [ TB  United Kingdom]  Cost: 384
+ 930  '  75mm C mle97/35 AC  [ AT  France]  Cost: 96
+ 934  '  Gladiator IIA  [FTR  United Kingdom]  Cost: 360
+ 949  '  Bre 693  [ TB  France]  Cost: 600
+ 957  '  Po.25  [ TB  France]  Cost: 360
+ 993  '  Swordfish I  [ TB  United Kingdom]  Cost: 300
+1168  '  47mm 15TCC Portee  [ AT  France]  Cost: 132
+1171  '  65mm M mle06  [ATY  France]  Cost: 252
+1172  '  75mm M mle28  [ATY  France]  Cost: 276
+1173  '  105mm C mle13  [ATY  France]  Cost: 276
+1174  '  105mm M mle28  [ATY  France]  Cost: 384
+1175  '  105mm L mle36  [ATY  France]  Cost: 468
+1176  '  220mm L mle17  [ATY  France]  Cost: 1836
+1183  '  Chasseurs Alpins  [INF  France]  Cost: 276
+1185  '  Dragons Portes  [INF  France]  Cost: 144
+1193  '  FCM 36  [ TK  France]  Cost: 288
+1199  '  D.510  [FTR  France]  Cost: 420
+1201  '  C.714  [FTR  Poland]  Cost: 432
+1202  '  MB.152  [FTR  France]  Cost: 552
+1203  '  MB.155  [FTR  France]  Cost: 648
+1204  '  Po.631  [ TB  France]  Cost: 660
+1205  '  Late 298  [ TB  France]  Cost: 372
+1207  '  Ma.167F  [ TB  France]  Cost: 648
+1208  '  MB.210  [ TB  France]  Cost: 528
+1209  '  Leo 451  [ TB  France]  Cost: 636
+1210  '  Amiot 143  [ TB  France]  Cost: 468
+1211  '  DB-7B-3  [ TB  France]  Cost: 840
+1212  '  Amiot 354  [ TB  France]  Cost: 624
+1213  '  LN 401  [ TB  France]  Cost: 408
+1453  '  10TP  [ TK  Poland]  Cost: 276
+1454  '  81mm mortar  [ATY  Norway]  Cost: 168
+1455  '  75mm m/11-24  [ATY  Norway]  Cost: 276
+1462  '  C.VE  [ TB  Norway]  Cost: 288
+1472  '  65mm AG wz.06  [ATY  Poland]  Cost: 252
+1475  '  120mm H wz.09/31  [ATY  Poland]  Cost: 228
+1484  '  40 Podhalanscy  [INF  Poland]  Cost: 216
+1518  '  105mm m/04  [ATY  Norway]  Cost: 228
+1553  '  MS.406  [FTR  Poland]  Cost: 480
+1689  '  3inch mortar  [ATY  United Kingdom]  Cost: 180
+1691  '  3.7inch AB  [ATY  United Kingdom]  Cost: 384
+1693  '  6inch  [ATY  United Kingdom]  Cost: 456
+1696  '  9.2inch  [ATY  United Kingdom]  Cost: 1200
+1707  '  Matilda IIICS  [ TK  United Kingdom]  Cost: 528
+1720  '  Defiant  [FTR  United Kingdom]  Cost: 396
+1721  '  Albacore  [ TB  United Kingdom]  Cost: 312
+1722  '  Beaufort  [ TB  United Kingdom]  Cost: 540
+1724  '  Blenheim IV  [ TB  United Kingdom]  Cost: 612
+1726  '  Hudson  [ TB  United Kingdom]  Cost: 504
+1728  '  Nomad  [ TB  United Kingdom]  Cost: 504
+1733  '  Wagon  [TPT  United Kingdom]  Cost: 12
+1960  '  Infanterie de l'Air 39  [INF  France]  Cost: 216
+1977  '  Bridging  [INF  Norway]  Cost: 216
+2255  '  Catalina  [ TB  United Kingdom]  Cost: 420
+2469  '  120mm m/09  [ATY  Norway]  Cost: 204
+2471  '  Grensejeger  [INF  Norway]  Cost: 216
+2472  '  Garden  [INF  Norway]  Cost: 108
+2477  '  Cletrac  [TPT  Norway]  Cost: 60
+2482  '  MF-11  [ TB  Norway]  Cost: 324
+2483  '  He 115  [ TB  Norway]  Cost: 360
+2527  '  R40  [ TK  Poland]  Cost: 300
+2528  '  Horse  [TPT  Poland]  Cost: 12
+2529  '  Limber  [TPT  Poland]  Cost: 36
+2535  '  UE  [TPT  Poland]  Cost: 204
+2536  '  AGR2  [TPT  Poland]  Cost: 48
+2546  '  Horse  [TPT  Norway]  Cost: 12
+2547  '  Mules  [TPT  Norway]  Cost: 12
+2560  '  Entrenched  [INF  United Kingdom]  Cost: 180
+2592  '  Scots Infantry 39  [INF  United Kingdom]  Cost: 96
+2602  '  Hurricane II  [FTR  United Kingdom]  Cost: 504
+2605  '  Lysander I  [ TB  United Kingdom]  Cost: 336
+2609  '  Whitley  [ TB  United Kingdom]  Cost: 648
+2613  '  Horse  [TPT  United Kingdom]  Cost: 12
+2614  '  C8  [TPT  United Kingdom]  Cost: 84
+2615  '  Carrier  [TPT  United Kingdom]  Cost: 168
+2616  '  MW 15cwt  [TPT  United Kingdom]  Cost: 60
+2618  '  Pioneer  [TPT  United Kingdom]  Cost: 84
+2836  '  UE  [TPT  France]  Cost: 216
+2837  '  Horse  [TPT  France]  Cost: 12
+2838  '  Limber  [TPT  France]  Cost: 36
+2845  '  P107  [TPT  France]  Cost: 180
+2847  '  S20TL  [TPT  France]  Cost: 60
+2849  '  S35  [TPT  France]  Cost: 60
+2850  '  FTARH  [TPT  France]  Cost: 60
+2851  '  38L  [TPT  France]  Cost: 240
+2852  '  Mules  [TPT  France]  Cost: 12
+2855  '  P19  [TPT  France]  Cost: 108
+2864  '  Bicycles  [TPT  France]  Cost: 12
+2865  '  60pdr  [ATY  United Kingdom]  Cost: 708
+2942  '  Horsa II  [ATP  United Kingdom]  Cost: 180
+2943  '  Hamilcar  [ATP  United Kingdom]  Cost: 180
+3311  '  Skis  [TPT  Norway]  Cost: 72
+3353  '  Walrus  [ TB  United Kingdom]  Cost: 360
+3546  '  39 Pionierzy  [INF  Poland]  Cost: 312
+3547  '  40 Strzelcy  [INF  Poland]  Cost: 144
+3550  '  39 Saperzy  [INF  Poland]  Cost: 204
+3853  '  Motor Infantry 40  [INF  United Kingdom]  Cost: 144
+3870  '  3.7inch  [ATY  United Kingdom]  Cost: 408
+3946  '  Tirailleurs Montagnards 37  [INF  France]  Cost: 276
+3948  '  Dragons Blindees 40  [INF  France]  Cost: 420
+4075  '  Swordfish I  [ TB  United Kingdom]  Cost: 324
+5173  '  40 Dragoni  [INF  Poland]  Cost: 204
+5176  '  40 KOP Gorska  [INF  Poland]  Cost: 312
+5178  '  40 Piechota  [INF  Poland]  Cost: 84
+5179  '  40 Pionierzy  [INF  Poland]  Cost: 384
+5180  '  40 Saperzy  [INF  Poland]  Cost: 204
+5181  '  40 Strzelcy  [INF  Poland]  Cost: 144
+5183  '  40 Zwiazek Odwetu  [INF  Poland]  Cost: 300
+5393  '  Hawk 75A-3  [FTR  France]  Cost: 780
+5683  '  Parachute HQ  [INF  United Kingdom]  Cost: 288
+5815  '  Train  [RTP  France]  Cost: 120
+5823  '  Train  [RTP  Norway]  Cost: 120
+5824  '  Train  [RTP  Poland]  Cost: 120
+5831  '  Train  [RTP  United Kingdom]  Cost: 120

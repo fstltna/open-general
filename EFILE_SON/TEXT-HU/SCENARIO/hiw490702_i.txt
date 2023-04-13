@@ -1,0 +1,12 @@
+Komárom-Ács
+1849. VII. 2.
+
+Tábornok polgártárs! A II. és VII. hadtest csatlakozott a Komárom erõdjét védõ VIII. hadtesthez. Sajnos a Dunán csak a hídon tudnak seregei átkelni. Az I. és III. hadtest a Csallóközben folytat utóvédharcot. Haynau az I., III. és IV. osztrák hadtesttel és Panyutin hadosztályával igyekszik körbezárni Komáromot és elvágni az utat Pest felé. Noha az erõviszonyok Ön ellen szólnak, mindenképpen biztosítania kell ez az utat
+
+Elhelyezhetõ egység: 24
+
+KÜLDETÉS: Legalább 4 gyõzelmi pontot tarts meg!
+
+JAVASLAT:
+- Vedd számításba, hogy a csata végén az egységek készletei nem töltõdnek föl automatikusan.
+- A magyar gyõzelmi pontokon álló erõd és erõdítmény egységek képesek a szomszédos egységeid föltölteni és némi presztízspontot is termelnek körönként.

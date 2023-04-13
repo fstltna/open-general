@@ -1,0 +1,23 @@
+Clutching at straws: defense of Belebei
+
+May 15th, 1919
+
+I wish you never experience that ominous state of mind of perpetual sadness, when all your efforts seem pointless, and everything that you love and cherish seems about to die. That terrible disease of the soul during which even breathing causes an immense pain, until you end up envying the stray dogs on the streets, hungry and full of ticks, but free of worries.
+
+That's how I was feeling when the failure of our Spring Offensive became clear. I really believed that we could destroy the Bolshevik revolution and win the war, and just two months later all that I could do was to wait impotently until the Reds, fully reinforced and resupplied, decided to recover their lost ground. I could hardly cope with that. I felt sick and weak, and finding the strength to carry on was harder every passing day.
+
+But even then I believed that not everything was lost. If, somehow, we managed to stop the communist swarm, a counterattack would be possible. I had to cling to that last hope.
+
+Victory conditions:
+- After 10 turns, you must hold 5 VHs for a BV, 3 VHs for a V, and 2 VHs for a TacV.
+
+Special notes:
+- In this scenario, the option "skip first player turn" is activated.
+- From now on, your new units will start the game with 99 exp.
+
+
+
+
+
+
+

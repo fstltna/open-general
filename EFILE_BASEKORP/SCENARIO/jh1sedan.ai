@@ -1,0 +1,89 @@
+'---
+'Config AI file for scenario: jh1sedan.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=81 items  ' Replacement for default list
+  30  '  105mm C mle35  [ATY  France]  Cost: 264
+  31  '  155mm L mle17F  [ATY  France]  Cost: 1032
+  32  '  75mm C mle97  [ATY  France]  Cost: 144
+  37  '  Chasseurs a Pied  [INF  France]  Cost: 96
+  38  '  40 Sapeurs  [INF  France]  Cost: 336
+  42  '  AMD 178  [RCN  France]  Cost: 228
+  48  '  Char B1bis  [ TK  France]  Cost: 540
+  49  '  H39  [ TK  France]  Cost: 324
+  53  '  R35  [ TK  France]  Cost: 276
+  54  '  R40  [ TK  France]  Cost: 300
+  55  '  S35  [ TK  France]  Cost: 444
+  56  '  AGR2  [TPT  France]  Cost: 48
+  58  '  MCG  [TPT  France]  Cost: 204
+  59  '  Wagon  [TPT  France]  Cost: 24
+  60  '  D.520C.1  [FTR  France]  Cost: 504
+  61  '  MS.406C.1  [FTR  France]  Cost: 480
+  62  '  Po.633  [ TB  France]  Cost: 468
+  63  '  Transport  [ATP  France]  Cost: 348
+ 582  '  H35  [ TK  France]  Cost: 276
+ 590  '  155mm C mle17  [ATY  France]  Cost: 756
+ 591  '  Char D1B  [ TK  France]  Cost: 312
+ 592  '  Char D2  [ TK  France]  Cost: 384
+ 595  '  Hawk 75A  [FTR  France]  Cost: 492
+ 718  '  AMC 35  [ TK  France]  Cost: 336
+ 724  '  Legionnaire  [INF  France]  Cost: 144
+ 736  '  Tirailleurs  [INF  France]  Cost: 132
+ 752  '  35 Pontonniers  [INF  France]  Cost: 192
+ 848  '  Motocyclistes  [INF  France]  Cost: 228
+ 921  '  AMC P16  [RCN  France]  Cost: 240
+ 930  '  75mm C mle97/35 AC  [ AT  France]  Cost: 96
+ 949  '  Bre 693  [ TB  France]  Cost: 600
+ 957  '  Po.25  [ TB  France]  Cost: 360
+1168  '  47mm 15TCC Portee  [ AT  France]  Cost: 132
+1171  '  65mm M mle06  [ATY  France]  Cost: 252
+1172  '  75mm M mle28  [ATY  France]  Cost: 276
+1173  '  105mm C mle13  [ATY  France]  Cost: 276
+1174  '  105mm M mle28  [ATY  France]  Cost: 384
+1175  '  105mm L mle36  [ATY  France]  Cost: 468
+1176  '  220mm L mle17  [ATY  France]  Cost: 1836
+1182  '  MG  [FlaK  France]  Cost: 96
+1183  '  Chasseurs Alpins  [INF  France]  Cost: 276
+1185  '  Dragons Portes  [INF  France]  Cost: 144
+1189  '  AMD 50AM  [RCN  France]  Cost: 192
+1190  '  AMD 80AM  [RCN  France]  Cost: 240
+1191  '  AMR 35  [RCN  France]  Cost: 192
+1193  '  FCM 36  [ TK  France]  Cost: 288
+1199  '  D.510  [FTR  France]  Cost: 420
+1200  '  VG.33  [FTR  France]  Cost: 516
+1202  '  MB.152  [FTR  France]  Cost: 552
+1203  '  MB.155  [FTR  France]  Cost: 648
+1204  '  Po.631  [ TB  France]  Cost: 660
+1205  '  Late 298  [ TB  France]  Cost: 372
+1207  '  Ma.167F  [ TB  France]  Cost: 648
+1208  '  MB.210  [ TB  France]  Cost: 528
+1209  '  Leo 451  [ TB  France]  Cost: 636
+1210  '  Amiot 143  [ TB  France]  Cost: 468
+1211  '  DB-7B-3  [ TB  France]  Cost: 840
+1212  '  Amiot 354  [ TB  France]  Cost: 624
+1213  '  LN 401  [ TB  France]  Cost: 408
+1214  '  MB.174  [ TB  France]  Cost: 552
+1960  '  Infanterie de l'Air  [INF  France]  Cost: 216
+2828  '  CMD 178  [RCN  France]  Cost: 288
+2836  '  UE  [TPT  France]  Cost: 216
+2837  '  Horse  [TPT  France]  Cost: 12
+2838  '  Limber  [TPT  France]  Cost: 36
+2845  '  P107  [TPT  France]  Cost: 180
+2847  '  S20TL  [TPT  France]  Cost: 60
+2849  '  S35  [TPT  France]  Cost: 60
+2850  '  FTARH  [TPT  France]  Cost: 60
+2851  '  38L  [TPT  France]  Cost: 240
+2852  '  Mules  [TPT  France]  Cost: 12
+2855  '  P19  [TPT  France]  Cost: 108
+2864  '  Bicycles  [TPT  France]  Cost: 12
+3181  '  H39 (SA18)  [ TK  France]  Cost: 420
+3182  '  H39 (SA18)  [ TK  France]  Cost: 420
+3944  '  37 Spahis Motorisee  [INF  France]  Cost: 84
+3946  '  37 Tirailleurs Montagnards  [INF  France]  Cost: 276
+3948  '  40 Dragons Blindees  [INF  France]  Cost: 420
+5213  '  Berliet  [RCN  France]  Cost: 192
+5393  '  Hawk 75A-3  [FTR  France]  Cost: 780
+5815  '  Train  [RTP  France]  Cost: 120

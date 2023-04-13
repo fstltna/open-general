@@ -1,0 +1,16 @@
+
+BATTLE OF TAIERCHUANG - 19 Mar 1938
+
+Part of Battle of Hsuchow
+(Chinese victory)
+Late December 1937 - Early June 1938
+
+HQ North China Front Army, Province Shantung
+CO General Juzo Nishio
+
+General, you are aware that our attack on Hsuchow is deadlocked at Taierchuang.  Our supply is critical and the Chinese continuously bring in reinforcements over the Grand Canal to support their Garrison in Taierchuang.  If we can't stop the reinforcements, we are in big trouble!  With your Brigade attack the Port at Yangcun and cut the Chinese supply lines.  Enemy counterattacks are expected!
+
+ORDER - Capture all VHs!
+AUXIN - 2 Battalions & Naval-Support
+HINT   - Airmobile units can capture enemy airfields.
+NEW    - 1xInf, 1xAty (16 core units)

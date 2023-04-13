@@ -1,0 +1,12 @@
+'---
+'Config AI file for scenario: NOMarinExp18.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=4 items  ' Replacement for default list
+ 415  '  M4-105 Sherman  [ TK  USA]  Cost: 576
+ 441  '  M26 Pershing  [ TK  USA]  Cost: 1296
+1989  '  Armored Infantry 44  [INF  USA]  Cost: 768
+5978  '  M24 Chaffee  [ TK  USA]  Cost: 444

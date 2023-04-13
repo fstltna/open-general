@@ -1,0 +1,253 @@
+Kiev encirclement - Romny
+10/-/10 ID (mot.) [XXIV]
+I/10/10 ID (mot.) [XXIV]
+II/10/10 ID (mot.) [XXIV]
+III/10/10 ID (mot.) [XXIV]
+40/-/10 ID (mot.) [XXIV]
+10/-/10 ID (mot.) [XXIV]
+I/20/10 ID (mot.) [XXIV]
+II/20/10 ID (mot.) [XXIV]
+III/20/10 ID (mot.) [XXIV]
+I/41/10 ID (mot.) [XXIV]
+II/41/10 ID (mot.) [XXIV]
+III/41/10 ID (mot.) [XXIV]
+I/12/4 Pz Div [XXIV]
+II/12/4 Pz Div [XXIV]
+I/33/4 Pz Div [XXIV]
+II/33/4 Pz Div [XXIV]
+49/-/4 Pz Div [XXIV]
+I/103/4 Pz Div [XXIV]
+II/103/4 Pz Div [XXIV]
+III/103/4 Pz Div [XXIV]
+7/-/4 Pz Div [XXIV]
+II/Flak-Rgt. 11 [XXIV]
+Pion.Btl. 45 [XXIV]
+38/-/5 Cav Div [Belov]
+11/5 Cav Div [Belov]
+96/5 Cav Div [Belov]
+131/5 Cav Div [Belov]
+160/5 Cav Div [Belov]
+12/-/9 Cav Div [Belov]
+5/9 Cav Div [Belov]
+72/9 Cav Div [Belov]
+108/9 Cav Div [Belov]
+136/9 Cav Div [Belov]
+1/789/227 Rif Div [40]
+2/789/227 Rif Div [40]
+3/789/227 Rif Div [40]
+1/711/227 Rif Div [40]
+1/Voronezh Rif Rgt [Belov]
+2/Voronezh Rif Rgt [Belov]
+3/Voronezh Rif Rgt [Belov]
+1/85/1 Gds Rif Div [Belov]
+2/85/1 Gds Rif Div [Belov]
+3/85/1 Gds Rif Div [Belov]
+1/331/1 Gds Rif Div [Belov]
+2/331/1 Gds Rif Div [Belov]
+3/331/1 Gds Rif Div [Belov]
+1/355/1 Gds Rif Div [Belov]
+2/355/1 Gds Rif Div [Belov]
+3/355/1 Gds Rif Div [Belov]
+81/-/1 Gds Rif Div [Belov]
+1/34/1 Gds Rif Div [Belov]
+2/34/1 Gds Rif Div [Belov]
+3/34/1 Gds Rif Div [Belov]
+1/46/1 Gds Rif Div [Belov]
+2/46/1 Gds Rif Div [Belov]
+3/46/1 Gds Rif Div [Belov]
+69/-/1 Gds Rif Div [Belov]
+90/-/1 Gds Rif Div [Belov]
+1/1 Tk Bde [Belov]
+2/1 Tk Bde [Belov]
+3/1 Tk Bde [Belov]
+1/129 Tk Bde [Belov]
+2/129 Tk Bde [Belov]
+3/129 Tk Bde [Belov]
+1/1 Tk Bde [Belov]
+129/129 Tk Bde [Belov]
+N
+S
+L
+Luftflotte 2
+Luftflotte 2
+Luftflotte 2
+Luftflotte 2
+19 Air Division
+19 Air Division
+19 Air Division
+19 Air Division
+19 Air Division
+Tern
+Bishkin'
+Bishkin'
+Tern
+Smeloe
+Bishkin'
+Tern
+Khmelevka
+Khmelevka
+Bishkin'
+Bishkin'
+Khoruzhevka
+Ivanitsa
+Tern
+Romen
+Romen
+Khmelevka
+Khmelev
+Khmelevka
+Bishkin'
+Bishkin'
+Besedovka
+Tern
+Tern
+Romen
+Romen
+Rogintsy
+Khmelevka
+Khmelevka
+Bishkin'
+Tern
+Sula
+Romen
+Romen
+Khmelevka
+Khmelevka
+Bishkin'
+Sula
+Sula
+Sula
+Sula
+Sula
+Sula
+Sula
+Sula
+Sula
+Romen
+Basovka
+Khmelevka
+Sula
+Sula
+Sula
+Sula
+Nedrigailov
+Nedrigailov
+Sula
+Ol'shana
+Romen
+Nikolaevka
+Khmelevka
+Sula
+Sula
+Korovintsy
+Romen
+Romen
+Sula
+Sula
+Romen
+Romen
+Sula
+Sula
+Volkovtsy
+Sakunikha
+Olava
+Batsmany
+Romny
+Romny
+Sula
+Sula
+Olava
+Olava
+Romny
+Sula
+Zasul'e
+Semenovka
+Olava
+Sula
+Zarud'e
+Kimlichka
+Khorol
+Olava
+Sula
+Sula
+Bobrik
+Perekrestovka
+Khorol
+Khorol
+Khorol
+Khorol
+Olava
+Sula
+Sula
+Sula
+Khorol
+Sula
+Berestovka
+Khorol
+Glinsk
+Sula
+Ol'shana
+Dolgaya Luka
+Khorol
+Khorol
+Loknya
+Loknya
+Sula
+Perekopovka
+Ol'shana
+Khorol
+Moskovskoe
+Loknya
+Sula
+Sula
+Anastas'evka
+Ol'shana
+Ol'shana
+Khorol
+Sula
+Sula
+Artopolot
+Ol'shana
+Lipovaya Dolina
+Khorol
+Sula
+Andriyashevka
+Artopolot
+Ol'shana
+Khorol
+Grun'
+Sula
+Andreevka
+Artopolot
+Ol'shana
+Khorol
+Khorol
+Svatki
+Grun'
+Artopolot
+Artopolot
+Rusanovka
+Khorol
+Grun'
+Grun'
+Artopolot
+Khorol
+Grun'
+Artopolot
+Khorol
+Grun'
+Sula
+Sula
+Luka
+Artopolot
+Pogarshchina
+Khorol
+Rozbishovka
+Rymarovka
+Grun'
+Grun'
+Sula
+Artopolot
+Artopolot
+Khorol
+Grun'

@@ -1,0 +1,339 @@
+KAISER GENERAL unit name translations:
+
+OTTOMAN EMPIRE
+
+Nizamiye: Infantry 
+Nisanci: Riflemen 
+Araplar: Arab Infantry
+Redif: Second Line Infantry
+Mühendis: Sappers
+Daglari: Mountain Troops 
+Bisiklet Arama: Bicycle Recon
+Istihkâmci: Engineers (Bridging) 
+Jandarma: Gendarmerie
+Mustahfiz: Militia
+Yilderim: Elite Shock Troops
+Bedouin Irregular: 
+Donanmasi: Naval Infantry 
+Genelkurmay: Field Command
+Ihtiyat: Reserve
+Suvari: Cavalry 
+Asiret Alayri: Tribal Light Cavalry 
+Misir: Egyptian infantry
+Hamidiye: Kurdish Cavalry 
+Bedevi: Bedouin
+Hecinsuvar: Camel Troops
+Basibozuk: Bashi-Bazouks (Irregular Cavalry) 
+Çerkezce: Circassians (Caucasus rebels against Russia)
+Arnavut Milisler: Albanian Militia 
+Zuhaf: Zouaves
+
+LATVIA
+
+Inzenieris: Engineers (Bridging)  
+Strelnieks: Riflemen (Reg. Infantry)
+Sapieru Dalas: Sappers 
+Rekrutis: Recruits
+Kajnieki: Infantry
+Jager: All-terrain Infantry
+Brivpratigais Civils: Civilian volunteers
+Brunuvilciens Gvarde: Railroad Guards
+Freikorps: German Mercenaries Guards
+Velocipeds Skauts: Bicycle Scouts
+Brunuvilciens Strelnieks: Railroad Rifles 
+Stabs: General Staff
+Kavalerija: Cavalry
+
+AUSTRIA-HUNGARY (ALL)
+
+Feldjäger: All-terrain Infantry
+Sappeure: Sappers 
+Brückenpioniere: Engineers (Bridging)
+Honvéd: 2nd Line Infantry (Hungarian)
+Kaiserjäger: Mountain Infantry
+Fahrrad Aufklärer: Bicycle Scouts 
+Festungsinfanterie: Fortress Infantry
+Infanterie: Regular Infantry
+Gendarmerie: Gendarmerie
+Landsturm: Militia
+Landwehr: 2nd Line Infantry (Austrian)
+See-Bataillon: Naval Infantry
+Eisenbahntruppen: Railroad Troops
+Eisenbahnpioniere: Railroad Sappers 
+Stosstruppen: Assault Troops
+Bosniaken: Bosnian troops
+Schützen: 2nd Line Infantry (post May 1917 new denomination for the Landwehr)
+Landeschützen: Territorial Mountain Infantry (Tirolian)
+Kaiserschützen: Post Jan. 1917 new denomination for the Landeschützen 
+Kavallerie Schützen: Dismounted Cavalry
+Tschechische Landwehr: 2nd Line Infantry (Czechoslovak)
+Grenadiere: Grenadiers
+Feldkommando: Field Command
+Jäger: All-terrain Infantry
+Grenz-Infanterie: Frontier Infantry
+Albanische Freiwillige: Albanian Militia
+Grenzjäger: Frontier Guard
+Huszaren: Hussars
+Dragoner: Dragoons
+Uhlanen: Ulans
+Kürassiere: Cuirassiers
+Kavallerie: Cavalry
+ 
+ESTONIA
+
+Jalavagi: Infantry
+Kaardivagi: Sappers 
+Soom. Kaardivaelane:
+Jalavagi Valke: Light Infantry
+Insener: Engineers (Bridging)
+Algaja: Recruits
+Volantaar Tsiviilne: Civilian volunteers
+Volantaar Vooras: Foreign Volunteers
+Jalgratas Skaut: Bicycle Scouts
+Vol. Kuperjanow: Estonian Volunteers (who participated in the defense of their homeland)
+Marine: Naval Infantry 
+Jalavagi Soom.: Railroad Troops
+Kindralstaabi: General Staff
+Ratsavagi: Cavalry
+
+UKRAINE
+
+Strilcy: It was the regular Ukrainian infantry.
+Sichovy: Very elite unit.
+Sirozhupannyki: Grey soldiers
+Synozhupannyki Blue soldiers
+Kozaki: Light Infantry
+Konny Kozaki: Mounted rifles.
+Morskaya Pihota: Regular infantry created to back up Ukrainians rights to the Black Sea. Then these units were used as a guards, because of their uniforms.
+
+FINLAND
+FRANCE
+CZECHOSLOVAK
+BELGIUM
+
+
+RUSSIAN (ALL)
+
+Leib-Gvardii: Royal Guards
+Pekhotny: Infantry 
+Pekhotny 1 ocheredy: First Line Infantry
+Pekhotny 2 ocheredy: Second Line Infantry
+Pogranichny: Border Troops
+Komandovaniye: Field Command
+Inzhinerny: Engineers (Bridging)
+Saperny: Sappers
+Udarny: Shock Troops
+Strelkovy : Riflemen
+Zhandarmsky: Gendarmerie
+Opolchenie: Militia 
+Morskoy Pekhotny: Naval Infantry
+Sibirsky: Siberian 
+Zh-D Strelkovy: Railroad Rifles
+Grenadersky: Grenadiers
+Finlyandsky: Finnish
+Turkestansky: Turkmen
+Kav.Strelkovy: Dismounted Cavalry
+Armiansky: Armenians
+Plastunsky: Cossack Infantry
+Kavaleriysky: Cavalry
+Dragunsky: Dragoons
+Fin.Dragunsky: Finnish Dragoons
+Ulansky: Ulans
+Gusarsky: Hussars
+Samokatny: Motorcycle Infantry
+Inorodtsy: Non-Slavic (Middle Asian) cavalry
+Stepnoy Kazachy: Steppe Cossacks (Don, Astrakhan, Orenburg hosts) 
+Kavkassky Kazachy: Caucasian Cossaks (Terek, Kuban hosts)
+Vostochnoy Kazachy: Central, Siberian and Eastern Cossacks (Ural, Amur, Ussuri hosts)
+Armiya Alexeyev: Alexeyev's Volunteer (White) Army
+Armiya Drozdovsky: Drozdovsky's Volunteer (White) Army
+Armiya Kornilov: Kornilov's Volunteer (White) Army
+Armiya Markov: Markov's Volunteer (White) Army
+ChK: Chekist, Soviet Secret Police (also known as VChK, later NKVD)
+ChK Motostrelky: Chekist Motorcyclists
+Partisansky ChK: Chekist partisans
+Strelkovy  Chekist Riflemen
+Gorny: Mountain Troops
+Militseisky: Police/Constabulary
+Shturmovoy: Assault Engineer
+Krasny Partisansky: Red Partisans
+Latyssky Strelkovy: Latvian Riflemen
+Estonsky Strelkovy: Estonian Riflemen 
+Gvardeisky: Guards
+Gv Kavaleria: Guards Cavalry
+Krasny Otryad: Red Guards Militia
+Konny Otryad: Red Guards Militia Cavalry
+Tachanka: Heavy MG Cavalry
+Krasno-Kazachy: Red Cossacks
+Velorazvedka: Bicycle Recon
+
+BOER STATES
+
+Burghers: Basic Infantry. Citizens organised as Commandos, the backbone of the Boer forces.
+Irish Transvaal Bde: Irish miners, who were willing to fight with the Boers against the British. 
+Militie: Militia.
+Politie: Police.
+Skerpskutters: Sharpshooters.
+Veld Opdrag: Field Command.
+Vreemde Vrywilligers: Foreign Volunteers from the Netherlands, Sweden-Norway, Germany, Ireland, France, Italy, Poland, Russia and the United States.
+Cavalerie Voorloper: Cavalry Scouts.
+Cavalerie: Cavalry.
+
+POLAND
+
+Saperzy: Sappers (Bridging)
+Piechota: Infantry
+Piechota Armii Hallera: Haller's army Infantry (Polish Army formed, trained and equipped in France)
+Piechota Gorska: Mountain Infantry
+Zaloga Pociagu Pancernego: Armoured Train Crew
+Pionierzy: Pioneers
+Gwardia Syberyjska: Siberian Guard
+Powstancy: Insurgents
+Zandarmeria: Gendarmerie
+Straz Graniczna: Border Guards
+Zwiad Rowerowy: Bicycle Scouts 
+Grenadierzy: Grenadiers
+Dowodztwo: Field Command
+Piechota Legionowa: Polish volunteer Legions formed, trained and equipped in Austria-Hungary
+Polska Sila Zbrojna: Or Polnische Wehrmacht (mostly members of the Piechota Legionowa equipped by Germans)
+Ulani: Ulans
+Ulani Wielkopolskie: Ulans cavalry units created during so called "Powstanie Wielkopolskie" or Greater Poland Uprising.
+Strzelcy Konni: Mounted Rifles
+Piechota ochotnicza: Volunteer Infantry
+
+ROMANIA
+
+Infanterie: Infantry 
+Reserva: Second line reserve
+Militii: Militia, third line territorial Infantry 
+Dorobanti: Territorial Infantry
+Rosiori: Regular Cavalry
+Calarasi: Territorial Cavalry
+
+QING CHINA
+
+Black Flag Army: Chinese bandits/mercenaires established in Vietnam until 1885
+Xinjun New Army: Build after the defeat against the Japanese. Modernized german equipped infantry that become only reliable force the Emperor could use against rebellions.
+Beiyang Army:  "North Ocean Army", best regional formation China could field. Fought the war against the Japanese 1894-95 almost alone without any substantial support by other regional armies.
+Provintial militia: Named also Tuanlian, Xiang army, Huai army or Yong Ying. Beiyang Army predecessors.
+Kansu Braves: Chinese Muslim troops from the northwestern province of Kansu.
+
+JAPAN
+
+Eihei: Guards
+Fuseikihei Irregular/militia/garrison Troops
+Kenpeitai: Gendarmerie
+Hara Kamei: Field Command
+Hei Kouhei: Engineers (Bridging)
+Sento Kouhei: Sappers
+Tetsudo Butai: Railroad Troops
+Hohei: Infantry
+Kobi Hohei: Second Line Infantry
+Sosakutai: Riflemen
+Sangaku Hohei: Mountain Infantry
+Rikusentai: Naval Infantry
+Jitensha-ka: Bicycle Recon 
+Kihei: Cavalry
+
+GREECE
+
+Archigeio: Field Command
+Chorofylaki: Gendarmerie
+Euzonoi: Elite Light Infantry 
+Ippikon: Cavalry
+Michanikoi: Engineers (Bridging)
+Michanikon: Sappers 
+Ochyrosis Pezikon: Fortress/garrison Troops
+Omada Anagnoriseos: Bicycle Recon  
+Pericharakoméno Pezikon: Entrenched Infantry
+Pezikon: Infantry
+Politofylaki: Volunteer Irregular Militia
+
+
+ARMENIA
+
+Fedayi: Irregulars fighters against the Ottoman rule, military wing of the Armenian national liberation movement. 
+Kamavorner: Volunteer battalions of Armenians fighting with the Russians. 
+Dashnaktsakanner: Militia of the Armenian Revolutionary Federation Alliance.
+Hetevazor: Regular Infantry of the Democratic Republic of Armenia. 
+Inzhenerner: Engineers (Bridging) of the Democratic Republic of Armenia. 
+Pionerner: Combat Engineers of the Democratic Republic of Armenia. 
+Kamavornery Hetselazor: Irregular volunteer cavalry.
+Hetselazor: Regular Cavalry of the Democratic Republic of Armenia.
+Hetsyal Sahmanapah: Mounted Border Guards of the Democractic Republic of Armenia. 
+Glkhavor Shtab: General Staff 
+
+AZERBAIJAN
+
+Müsavat Milis: Urban Militia of the Azeri nationalist 'Müsavat' ('Equality') party
+Azeri Gönüllü: Azeri irregulars/militia, part of the Ottoman 'Army of Islam' 
+Piyada Esger: Regular infantry of the Democratic Republic of Azerbaijan 
+Pionerler: Engineers (Bridging) of the Democratic Republic of Azerbaijan 
+Istehkamçi: Combat Engineers of the Democratic Republic of Azerbaijan 
+Bas Qerargahi: General Staff
+Tatar Süvari: Ex-russian irregular cavalry 
+Azeri Gönüllü Süvari: Azeri irregular cavalry, part of the Ottoman 'Army of Islam'
+Süvari: Regular cavalry of the Democratic Republic of Azerbaijan 
+
+GEORGIA
+
+Kartuli Legioni: Georgian Legion, recruited by the Germans from Georgian POWs of the Imperial Russian Army.
+Sakhalkho Gvardiis: People's Guard, political and military force
+Regularuli Kveiti: Regular Infantry
+Inzhineri: Engineers
+Pionerebi: Pioneers
+Iunkerebi: Cadets 
+Generalur Shtabshi: General Staff 
+Sasazghvro Jarebi: Border Troops
+Mokhaliseta Militsia: Volunteers Militia
+Regularuli Kavaleriis: Regular Cavalry
+Sakhalkho Gvardiis: People's Guard Cavalry
+Bronirebuli Matarebeli: Armoured Train
+
+TURKEY
+
+Kuva-yi Milliye: Irregular units of the Turkish nationalist militias
+Piyade: Infantry 
+Hücum Taburu: Storm Batallion
+Ihtiyat: Reserve Infantry 
+Muhafiz: Guards. Security Forces, (Kemal's personal guards batallion)
+Istihkâmci: Engineers (Bridging) 
+Mühendis: Sappers
+Genelkurmay: General Staff 
+Süvari: Cavalry  
+Süvari Izci: Cavalry Recon
+Yerlesik Piyade: Entrenched Infantry
+
+RED HUNGARY
+
+Gyári Munkás: Armed Factory Workers. They built the force for the later recruitment of the Red Guards and the People's Militia; still without professional military training at this time.
+Székely Hadosztály: Szekely Division. Remnants of the former 38th Honved Division, reinforced by Szekely volunteers. 
+Vörös Örség: Red Guard. Cheka-style internal security force. Political militia built from factory workers and volunteers with after work military training. Supposed to be the reserve force for the Hungarian Red Army and to replace all police or gendarmerie security forces.
+Határvadász: Border Guards
+Nemzetközi Dandár: International Brigade.
+Mérnökök: Engineers (Bridging) of the Red Army
+Utász: Sappers of the Red Army
+Huszár: Husars of the Red Army
+Felderítõ Lovasság: Cavalry Recon of the Red Army
+Rögzült Gyalogság: Entrenched Infantry of the Red Army
+Vöröskatona: Infantry of the Red Army
+
+KINGDOM OF HUNGARY
+
+Hadimérnök: Bridging Engineers
+Rohamutász: Combat Engineers 
+Honvéd: Infantry 
+Nemzetõr: Militia 
+Parancsnokság: HQ Infantry
+Várõrség: Garrison
+Sorkatona: Line Infantry
+Székely határõr: Mountain Infantry
+Vörössapkás: Elite Infantry
+Dragonyos: Dragoons
+Vértes: Cuirassier
+Lovas nemzetõr: Horse Militia
+Huszár: Hussars
+Ulánus: Uhlans
+Székely: Border troops
+
+...to be completed

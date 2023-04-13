@@ -1,0 +1,17 @@
+Camara's Reserve Squadron
+(1 September 1898)
+v 1.0 - Fictional scenario
+The sunset of the Spanish Empire - The Spanish American War 1898
+
+General,
+
+We have excellent news! After hearing of our victory in the Battle of Manila Rear Admiral Camara's Reserve Squadron has been sent to the Philippines.
+
+Together with two of our most powerful warships, the battleship Pelayo and the brand-new armoured cruiser Emperador Carlos V, several transports are carrying 5.000 men and other supplies to reinforce our forces already in the Philippines.
+
+Your orders are to destroy Dewey's squadron, to retake Cavite Arsenal and to force the Americans to surrender or to re-embark.
+
+Victory conditions: to take all VH by turn 18 for a BV, by turn 20 for a V and by turn 22 for a TV. 
+
+Paqueo,
+January 2014

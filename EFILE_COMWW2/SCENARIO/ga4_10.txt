@@ -1,0 +1,92 @@
+Brest-Litovsk
+Jaselda
+Scianka
+Ogorodniki
+Bug River
+Volkovisk
+Zhychin
+Kustychi
+Bakuny
+Vidamlja
+Bereza
+Kobryn
+Bereza Airfield
+Mielnik
+Postolova
+Canal
+Brest-Litovsk
+Kiselevtsy
+Maloryta
+Holovne
+Deblin
+Rahozna
+Mielnik Airfield
+Kobryn Airfield
+Lake
+Kamenka
+Pruzany
+Maljankova
+Radastava
+Dzivin
+Dzivin Airfield
+Lukava
+III./JG 52
+JG 51
+6th Air Army
+16th Air Army
+Outskirts of Cholm
+II/16th Pz. Div.
+LXIV/16th Pz. Div.
+LXXIX/16th Pz. Div.
+XXVII/17th Pz. Div.
+CCXLVIII/88
+CX/88
+DVII/291
+DVIII/291
+DIX/291
+CCXCII/291
+XXXV/8
+XLVII/8
+XXXIX/8
+7th Cav. Corps
+3rd Tank Corps
+I/1
+II/1
+6th Bridging Batt.
+1st Polish Tank Brig.
+JgdPz. Abt. 655 
+XCIII/76
+CCVII/76
+CCXVI/76
+LXXX/76
+Pz. Abt. 509
+13th Art. Reg.
+I/2
+II/2
+LXIII/17th Pz. Div.
+XXXIX/17th Pz. Div.
+XL/17th Pz. Div.
+213th Sicherungs Div.
+297th FlaK Abt.
+CCCXL/340
+DCXCV/340
+CCXLV/88
+CLXXXVIII/88
+JgdPz. Abt. 342
+DCXCVII/342
+DCXCVIII/342
+274th FlaK Abt.
+340th Pioniere Batt.
+213th Art. Reg.
+CCCXLII/342
+16th Tank Corps
+8th Guard Tank Corps
+DCCLXIX/340
+Village
+188th Pioniere Batt.
+7th Engineer Batt. 
+CLEAR
+FOREST
+HILL
+ROUGH
+RUBBLE

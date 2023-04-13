@@ -1,0 +1,98 @@
+Mandalay
+Irrawaddy River
+Jungle
+Mandalay
+Salween River
+Meiktila
+Taunggyi
+Sittang River [STREAM]
+Yenangyaung
+Sittang River
+Akyab
+Magwe
+Prome
+Toungoo
+214 R/33 ID/15 Army
+215 R/33 ID/15 Army
+33 R/33 ID/15 Army
+11 B/33 ID/15 Army
+2 TkR/33 ID/15 Army
+33 R/33 ID/15 Army
+112 R/55 ID/15 Army
+143 R/55 ID/15 Army
+55 R/55 ID/15 Army
+55 R/55 ID/15 Army
+55 R/55 ID/15 Army
+213 R/33 ID/15 Army
+2 Bn/33 R/33 ID/15 Army
+55 R/18 ID/15 Army
+56 R/18 ID/15 Army
+114 R/18 ID/15 Army
+1 R/18 ID/15 Army
+12 Cav R/18 ID/15 Army
+12 eR/18 ID/15 Army
+18 aty R/18 ID/15 Army
+113 R/56 ID/15 Army
+146 R/56 ID/15 Army
+148 R/56 ID/15 Army
+14 Tk R/56 ID/15 Army
+56 Rc R/56 ID/15 Army
+56 aty R/56 ID/15 Army
+56 e R/56 ID/15 Army
+21 Bn/33 ID/15 Army
+26 R/33 ID/15 Army
+51 Bn/33 ID/15 Army
+at Bn/33 ID/15 Army
+HQ/15 Army
+64 R/22 ID/V Army
+65 R/22 ID/V Army
+66 R/22 ID/V Army
+286 R/96 ID/V Army
+287 R/96 ID/V Army
+288 R/96 ID/V Army
+288 R/96 ID/V Army
+599 R/200 ID/V Army
+600 R/200 ID/V Army
+598 R/200 ID/V Army
+HQ/V Army
+Aty/V Army
+e B/V Army
+Tk R/V Army
+Cv R/V Army
+82 R/28 ID/LVXI Army
+83 R/28 ID/LVXI Army
+84 R/28 ID/LVXI Army
+112 R/38 ID/LVXI Army
+113 R/38 ID/LVXI Army
+114 R/38 ID/LVXI Army
+85 R/29 ID/LVXI Army
+86 R/29 ID/LVXI Army
+87 R/29 ID/LVXI Army
+HQ/LVXI Army
+18 R/LVXI Army
+2 Tk R/7 Br/I Burma Corps
+7 Bn/7 Br/I Burma Corps
+West Yorkshire R/7 Br/I Burma Corps
+95 At R/7 Br/I Burma Corps
+414 Bn/7 Br/I Burma Corps
+6 Bn/7 Br/I Burma Corps
+81 Bn/7 Br/I Burma Corps
+8 Bn/1 Burma Div/I Burma Corps
+27 R/1 Burma Div/I Burma Corps
+56 Bn/1 Burma Div/I Burma Corps
+FF1-4/1 Burma Div/I Burma Corps
+1 Br /1 Burma Div/I Burma Corps
+2 Br/1 Burma Div/I Burma Corps
+13 Br/1 Burma Div/I Burma Corps
+2 At R/17 Indian Div/I Burma Corps
+2 Bn/17 Indian Div/I Burma Corps
+12 Bn/17 Indian Div/I Burma Corps
+28 Bn/17 Indian Div/I Burma Corps
+60 Bn/17 Indian Div/I Burma Corps
+16 Br/17 Indian Div/I Burma Corps
+48 Br/17 Indian Div/I Burma Corps
+Pegu Force/17 Indian Div/I Burma Corps
+3 Bn/17 Indian Div/I Burma Corps
+BFF/I Burma Corps
+10th Air Force
+7Th Air Br

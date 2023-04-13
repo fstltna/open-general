@@ -1,0 +1,18 @@
+1919 Battle of Cesis
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+After defeating the Bolsheviks, the German Baltische Landeswehr (Baltic Territorial Army) Freikorps is now turning against us in order to establish puppet governments in the baltic states. You are ordered to take command of the united Estonian and Latvian forces in this descisive battle for freedom!
+
+Scenario Version: February 2020
+Player Countries: Estonia, Latvia
+AI Version: 3.0
+Player Turn Prestige 20pp/turn
+Turns: 20 BV; 24 V; 30 TV
+Scenario Designer: randowe
+
+ORDERS:
+¯¯¯¯¯¯¯¯
+The Germans are advancing northwards, with the Baltic Territorial Army in the center and eastern flank and the Iron Division in the west. Prepare for several attacks!
+
+Your Orders are to repell all attacks and launch your counterattack. Your final objective will be the city of Sigulda in the southwest.
+
+Capture all VHs in 20/24/30 turns for a Brilliant Victory/Victory/Tactical Victory.

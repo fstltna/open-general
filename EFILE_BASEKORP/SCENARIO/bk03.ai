@@ -1,0 +1,33 @@
+'---
+Config AI file for scenario: bk03.xscn
+'* Here could be more global AI settings *
+'  none at this time ...
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=23 items  ' Replacement for default list
+1452  '  40mm m/36  [ AD  Norway]  Cost: 144
+1462  '  C.VE  [ TB  Norway]  Cost: 288
+2483  '  He 115  [ TB  Norway]  Cost: 360
+ 255  '  75mm m/01  [ATY  Norway]  Cost: 144
+1454  '  81mm mortar  [ATY  Norway]  Cost: 168
+2469  '  120mm m/09  [ATY  Norway]  Cost: 204
+1518  '  105mm m/04  [ATY  Norway]  Cost: 228
+ 183  '  120mm m/32  [ATY  Norway]  Cost: 240
+1455  '  75mm m/11-24  [ATY  Norway]  Cost: 276
+3319  '  7,92mm m/29  [FlaK  Norway]  Cost: 36
+ 254  '  75mm m/01 Pv  [FlaK  Norway]  Cost: 96
+1456  '  MG  [FlaK  Norway]  Cost: 96
+ 257  '  Gladiator IIA  [FTR  Norway]  Cost: 348
+4930  '  Gladiator I  [FTR  Norway]  Cost: 564
+1457  '  Skyttelag  [INF  Norway]  Cost: 36
+ 258  '  Regulars  [INF  Norway]  Cost: 60
+2472  '  Garden  [INF  Norway]  Cost: 108
+2471  '  Grensejeger  [INF  Norway]  Cost: 216
+ 616  '  Engineer  [INF  Norway]  Cost: 288
+1464  '  Norge BC  [sBS  Norway]  Cost: 744
+3123  '  Snogg TB  [sDD  Norway]  Cost: 132
+3122  '  Nordkap AM  [sDD  Norway]  Cost: 192
+1463  '  Sleipner TB  [sDD  Norway]  Cost: 228

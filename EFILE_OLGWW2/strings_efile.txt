@@ -1,0 +1,82 @@
+** This file is only intended for those designers wanting to
+** customize some texts.
+**
+* Each section must be identified by a header section
+* enclosed by square brackets, i.e: [sides]
+* watch out header section spelling!
+* You can omit one or more sections if you don't need different
+* (insert an asterisk at start of line including section header)
+* but any section you include, must include all items
+* ------------------------------------------------------------------
+
+[classes]
+None
+Infantry
+Tank  
+Recon
+Anti-tank
+Mobile Air Defense
+Fortification
+Ground Transport
+Rail Transport
+Artillery
+Air Defense
+Fighter
+Tact. Bomber, Fighter-Bomber
+Level Bomber
+Air Transport
+Helo Transport
+Submarine
+Destroyer
+Battleship
+Carrier
+Naval Transport
+Battle Cruiser
+Cruiser
+Light Cruiser
+
+[requisition]
+Switch Ground+Air / Naval units menu
+Select Air defense
+Select Mobile Air Defense
+Select Fortification
+Select Anti-tank
+Select Artillery
+Select Infantry
+Select Recon
+Select Tank
+Select Fighter
+Select Tact. Bomber, Fighter-Bomber
+Select Level Bomber
+Select Submarine
+Select Destroyer
+Select Battleship
+Select Carrier
+Select Battle Cruiser
+Select Cruiser
+Select Light Cruiser
+Name unit
+Reassign Unit
+Exit
+
+[terrain]
+CLEAR
+TOWN
+AIRFIELD
+WOODED
+DENSE UNDERBRUSH
+HILL
+MOUNTAIN
+SAND
+SWAMP
+OCEAN
+RIVER
+FORTIFICATION
+PORT
+STREAM
+ESCARPMENT
+IMPASSABLE RIVER
+ROUGH
+CUSTOM
+ROADS
+RAILS

@@ -1,0 +1,10 @@
+Festungsfront Oder-Warthe-Bogen
+
+01/30/1945
+
+Early in january 1945 the Soviets launched their Vistula-Oder Operation which led them in less then a month from the Vistula bridgeheads to the Oder only 60 to 80 km from Berlin.
+Beginning on the night of January 20th thru January 21st, the Wehrkreis III Brandenburg (military district) transmitted the codeword "Gneisenau". Immediately reserves and Volkssturm units were activated and were ordered to man the bunkers of the Festungsfront (Fortified Area) Oder-Warthe-Bogen. Planned in the 1930's to prevent an attack from the east, the so called Ostwall should have been a tough nut to crack.
+
+You have to hold Blesen (09,07) and Obramuehle (12,2) for 5 turns. Then a withdrawal is possible.
+New units have strength 8 and experience 25. Reinforcements will come in. Wait for the escape unit.
+No proto.

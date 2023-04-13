@@ -1,0 +1,13 @@
+Mars-la-Tour
+
+Aug 16th, 1870
+
+In Lorraine the war wasn't going well for the French, either. Just like it had happened to the Austrians four years earlier, the troops of Napoleon III had been completely surprised by the amazing mobility of the Prussians. Before the Army of the Rhine could react, the northeast of France had been invaded and many French divisions had been trapped in strong positions, unable to stop the Germans or to retreat to secondary defence lines.
+
+Realizing that the situation in the fortress of Metz was going to become desperate very soon, Marshal Bazaine, the new Commander in Chief of the French Army, decided to evacuate the Army of the Rhine from that town and retreat to Verdun, where they could join with the rest of the French forces.
+
+However, just 20 Km west of Metz, at Mars-la-Tour, two Prussian Army Corps were blocking the French line of retreat. As soon as they discovered the enemy, and despite being numerically inferior, the Prussians decided to attack and prevent the French from escaping.
+
+Victory conditions:
+- After 12 turns you must hold 6 VHs for a BV, 4 VHs for a V and 1 VH for a TacV.
+

@@ -1,0 +1,36 @@
+* ------------------------------------------------------------------ 
+* . To define Fronts for any country: 
+* . Lines starting with a single number defines country for next fronts/factions 
+* . can include country name after a space or tab, but won't be read 
+* . lines starting with # are read as a front name 
+* . lines starting with @ are read as a faction name 
+* . and belong to the last country read 
+* ------------------------------------------------------------------ 
+9 Rebels/Misc.
+* fronts:
+
+* factions:
+@Blackwater Worldwide
+@UNLA - Uganda
+@FRELIMO - Mozambique
+@PMOI - Iran
+@Somalia Aidid Forces
+@Iraqi Rebels
+@Hungarian Rebels
+@Czech Rebels
+@Rebels
+
+10 USA
+* fronts:
+
+* factions:
+@USMC
+
+16 Iraq
+* fronts:
+
+* factions:
+@Republican Guard
+
+
+

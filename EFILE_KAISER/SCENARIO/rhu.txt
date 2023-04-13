@@ -1,0 +1,42 @@
+1919 "FEL, VÖRÖSÖK, PROLETÁROK!"
+1919 "COMRADES, LET'S BRAVELY MARCH!"
+
+Version: 1.0
+Equipment File: Kaiser General
+Number of Scenarios: 10
+Player Country: Red Hungary
+Campaign Designer: Csaba (lvjtn)
+License: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Playtesters: 
+
+The World Revolution has begun, the Hungarian working class joined the Russian, German and Finnish comrades in the last struggle to overthrow the capitalism. Though we are weak and exhausted after the Great War, we are also dauntless. "With the sacred faith in our endeavour, we are hurrying to the battle."
+
+-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-
+Suggested prestige %: 150 (novice), 100 (default), 75 (expert)
+AI prestige should always be 100%
+-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-
+
+NOTES:
+ - The Armored Train Artillery is the jewel of the Hungarian Red Army. You must keep this unit alive during the whole campaign!
+ - There is a 1 SP "trap" unit in each scenario to prevent a sudden victory by killing all enemy units. Please don't kill it if you discover its position.
+ - Use the gathered PP on reinforcing your units (don't keep it, if you are near the cap), at the end of the scenarios they won't be refit automatically.
+ - Units lose 20% of their actual experience when upgraded.
+ - Attachments are available. They give +1 bonus only, but no malus.
+ - All scenarios contain dense railway lines, don't be afraid to have core train guns, and use the railway transports to be fast.
+
+APPLIED RULES:
+ - no protos at all
+ - purchase cap is enabled = the size of your core is limited
+ - no friendly supply hexes, deployment is limited
+ - advanced spotting rules (extended LOS)
+ - reinforcements arrive when player is active, but have only 50% movement points
+ - direct LOF is blocked by bad terrains
+ - ports don't behave as SH
+ - green (GR) and elite (ER) replacements are enabled:
+   * GR costs = 80%
+   * GR takes 50% experience of the refitted unit
+   * ER costs = 120%
+   * leader will be removed if unit loses all its bars due to replacements
+ - ground conditions are changed by weather (except some winter scenarios)
+ - "build" and "repair" are enabled, but "blow" and "barrage fire" are disabled
+ - evade efile special (see light recons) is disabled

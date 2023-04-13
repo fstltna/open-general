@@ -1,0 +1,11 @@
+= Payload for the "Mistel" level bomber =
+
+The "Mistel" system consisted in filling up an empty Junkers Ju 88 bomber with 2 tons of explosives, and "steering" it towards some unfortunate target using a modified Bf 109 fighter (other plane models possible). When close to the target, the unmanned bomber was released to go hit its target and explode, leaving the fighter free to return to base.
+It's main purpose was destroying fortifications, but it was vulnerable and not very precise.
+
+
+Use in the game:
+When you buy a "Mistel" level bomber in the game, you actually just bought that specially modified Bf 109 fighter, you still need to buy the explosive-filled payload to make your "Mistel" work. Without it it's just a very lightly armed Bf 109 fighter.
+
+This is the payload for the "Mistel" level bomber. Load it in your "Mistel" like you would deploy a plane into a carrier (You can only do this in airports obviously).
+To use the "Mistel", fly the loaded plane near your target (max. 4 hexes away), open it like a carrier, eject the payload, and now fly *that one* to the target and attack it: The payload will explode, most of the time destroying the target unit. Then fly your "Mistel" plane back to the nearest friendly airport to load another payload, or just to put it out of harm's way.

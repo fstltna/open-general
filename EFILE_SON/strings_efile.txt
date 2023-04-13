@@ -1,0 +1,175 @@
+* Each section must be identified by a header section
+* enclosed by square brackets, i.e: [sides]
+* watch out header section spelling!
+* You can omit one or more sections if you don’t need different
+* (insert an asterisk at start of line including section header)
+* but any section you include, must include all items
+* ------------------------------------------------------------------
+* All sections are commented out for this template
+* uncomment only those sections you need to redefine
+
+[results]
+Decisive Victory
+Victory
+Marginal Victory
+Loss
+
+[targets]
+Soft target
+Cavalry target
+Naval target
+Fort target
+
+[spaces]
+Ground
+(NU)
+
+[movement]
+Heavy
+Fort
+Wheeled
+Leg
+Towed
+(NU)
+(NU)
+Coastal
+Horse
+Marine
+Naval
+Mountain
+Train
+(NU)
+
+[transports]
+Cannot be transported
+Naval
+(NU)
+(NU)
+Train
+(NU)
+
+[classes]
+None
+Infantry
+Cavalry
+Light Cavalry
+(NU)
+(NU)
+Fortification
+Ground Transport
+Rail Transport
+Artillery
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)
+Man-of-war
+(NU)
+Naval Transport
+Frigate
+(NU)
+Corvette
+
+[requisition]
+Switch Ground / Naval units menu
+(NU)
+(NU)
+Select Fortification
+(NU)
+Select Artillery
+Select Infantry
+Select Light Cavalry
+Select Cavalry
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)
+Select Man-of-war
+(NU)
+Select Frigate
+(NU)
+Select Corvette
+Name unit
+Reassign Unit
+Exit
+
+[terrain]
+CLEAR
+TOWN
+(NU)
+FOREST
+SCRUB
+HILL
+MOUNTAIN
+SAND
+SWAMP
+OCEAN
+RIVER
+FORTIFICATION
+PORT
+STREAM
+ESCARPMENT
+IMPASSABLE
+ROUGH
+RUBBLE
+ROADS
+RAILS
+[terrain2]
+LAGOON / LAKE
+
+[sides]
+Revolutionists
+Imperials
+
+[unitdata]
+Leader
+Transport
+Country
+Experience
+Experience Level
+Stamina
+Ammo
+Strength
+Range
+Initiative
+Spot
+Movement Method
+Cavalry Attack
+Soft Attack
+Naval Attack
+Fort Attack
+Ground Defense
+Naval Defense
+Close Defense
+Skirmish Modifier
+Class
+Cost
+
+[latitude]
+Cold Continental
+Humid Continental
+Desert (Africa, Asia)
+Desert (America)
+Dry Mediterranean
+Humid Mediterranean
+Oceanic
+Semi-Arid (Africa, Asia)
+Semi-Arid (America)
+Subartic / Alpine
+Subtropical
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)

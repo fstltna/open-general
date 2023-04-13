@@ -1,0 +1,23 @@
+Gete River
+(13-14 May 1940)
+v.2.0
+The Campaign of the 18 Days
+(10-28 May 1940)
+
+General,
+ 
+After the crossing of the Canal Albert by German troops, the Belgian army has received the order to retreat to the "Ligne KW" (Dyle Position). In order to protect the retreat and give time to take the new positions, you will support the "2e Division de Cavalerie" (2 DC) to establish a temporary defensive line in the Gete river, between Diest and Tienen (Tirlemont).
+
+According to Intelligence a sharp attack of German infantry around the locality of Halen is expected. The 4th Panzerdivision has moved further south towards Gembloux (Gembloers) where it would meet the French Cavalry units of Prioux. So luckily it seems you will not have to fight the German tanks again.
+
+Your mission is i) to stop the Germans in the river in order to permit the redeployment of the allied armies and ii) to safely retreat your troops, so do not engage them unnecessarily.
+
+Le Chef d'Etat-major général de l’armée (EMGA)
+
+Victory conditions: to retreat 12 units. In addition, you have to keep Halen and Kortenaken until turn 9.
+
+Map: Halen (379)
+
+E-file: OLGWW2 (version 2.00 or higher)
+
+Paqueo, July 2012

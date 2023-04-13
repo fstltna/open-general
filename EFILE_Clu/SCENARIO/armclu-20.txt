@@ -1,0 +1,166 @@
+Retreat from Fortress Frankfurt
+FuesBat.230/169.ID
+GrenRgt.392/169.ID
+PioBat.230/169.ID
+GrenRgt.379/169.ID
+PzAbwAbt.230/169.ID
+GrenRgt.378/169.ID
+ArtRgt.230/169.ID
+GrenRgt.745/712.ID
+GrenRgt.732/712.ID
+GrenRgt.764/712.ID
+ArtRgt.1712/712.ID
+GrenRgt.926/286.ID
+GrenRgt.927/286.ID
+GrenRgt.931/286.ID
+ArtRgt.286/286.ID
+Heeres-Flak Abt./Kmk
+PzAufkl.Abt./KmK
+PzGrenRgt/KmK
+I/PzAbt/KmK
+PzPiBat./KmK
+I/PzAbt.Bbg/PzAbt.Kmk/KmK
+PzArt.Abt./KmK
+StuG-Ausbld.Brig.111
+215 Gds RflRgt/77 Gds RflD
+218 Gds RflRgt/77 Gds RflD
+221 Gds RflRgt/77 Gds RflD
+79 Gds AT-Bn/77 Gds RflD
+156 Gds AtyRgt/77 Gds RflD
+68 Tk Bde/69 Army
+33 hvy Gds TkRgt/69 Army
+39 RflRgt/4 RflD
+101 RflRgt/4 RflD
+220 RflRgt/4 RflD
+80 AT-Bn/4 RflD
+40 AtyRgt/4 RflD
+46 lt Aty Bde/12 Aty BrtD
+41 Cn Bde/12 Aty BrtD
+32 Hw Bde/12 Aty BrtD
+11 Mrt Bde/12 Aty BrtD
+440 RflRgt/64 RflD
+451 RflRgt/64 RflD
+433 RflRgt/64 RflD
+406 AT Bn/64 RflD
+1029 Aty Rgt/64 RflD
+696 RflRgt/383 RflD
+691 RflRgt/383 RflD
+694 RflRgt/383 RflD
+319 AT Bn/383 RflD
+966 Aty Rgt/383 RflD
+1133 RflRgt/339 RflD
+1135 RflRgt/339 RflD
+1137 RflRgt/339 RflD
+17 AT Bn/339 RflD
+900 Aty Rgt/339 RflD
+390 RflRgt/89 RflD
+400 RflRgt/89 RflD
+526 RflRgt/89 RflD
+154 AT-Bn/89 RflD
+531 AtyRgt/89 RflD
+90 RflRgt/95 RflD
+161 RflRgt/95 RflD
+241 RflRgt/95 RflD
+97 AT-Bn/95 RflD
+57 Aty Rgt/95 RflD
+1086 RflRgt/323 RflD
+1088 RflRgt/323 RflD
+1090 RflRgt/323 RflD
+892 Aty Rgt/323 RflD
+298 SP Aty Bn/323 RflD
+102 RflRgt/41 RflD
+439 RflRgt/41 RflD
+244 RflRgt/41 RflD
+117 AT-Bn/41 RflD
+132 AtyRgt/41 RflD
+356+367 MgBn/119th Fort.Area
+379+380 MgBn/119th Fort.Area
+401 MgBn/119th Fort.Area
+244 Tk Rgt/33 Army
+257 Tk Rgt/33 Army
+360 Gds hvy SP Aty Rgt/33 Army
+361 Gds hvy SP Aty Rgt/33 Army
+1266 AA Rgt/33 Army
+23 lt Gds Aty Bde/5 Aty BrtD
+9 Hw Bde/5 Aty BrtD
+24 Cn Bde/5 Aty BrtD
+86 hvy Hw Bde/5 Aty BrtD
+1 Mrt Bde/5 Aty BrtD
+241 Av BmbD/3 Av BmbCps
+301 Av BmbD/3 Av BmbCps
+197 Ass AvD/6 Ass AvCps
+198 Ass AvD/6 Ass AvCps
+282 Ftr AvD/16 Air Army
+286 Ftr AvD/16 Air Army
+11 Gds Ass AvD/16 Air Army
+Fortress Frankfurt
+move 1 hex SW
+Fest.ArtAbt.3157
+Fest.ArtAbt.3157
+Jacobsdorf
+Pillgram
+Pagram
+Lichtenberg
+Goldenes Fliess
+Biegen
+Dubrow
+Hohenwalde
+Oder-Spree-Kanal
+Biegenbrueck
+Grosser Muellroser See
+Muellrose
+Schlaube
+Mixdorf
+Ragow
+Grunow
+Langsee
+Schervenzsee
+Hammersee
+Grosser Treppelsee
+Oelsener See
+Dammendorf
+Schneeberg
+Weichensdorf
+Friedland
+Ketschendorf
+Alt Golm
+Neu Golm
+Bad Saarow
+Pieskow
+Pfaffendorf
+Kersdorf
+Briesen
+Dehmsee
+Spree
+Schwenowsee
+Kl. Kossenblatter See
+Gr. Kossenblatter See
+Ranziger See
+Leissnitzer See
+Glower See
+Schwielochsee
+Muehlenfliess
+Kersdorfer See
+Speisekanal
+Neubrueck
+Schwarzberg
+Kosakenberge
+Diensdorf
+Wendisch Rietz
+Glienicke
+Herzberg
+Lindenberg
+Scharmuetzelsee
+Beeskow
+Ahrensdorf
+Giesensdorf
+Kossenblatt
+Wittmansdorf
+Gross Rietz
+Buckow
+Ranzig
+Trebatsch
+Schwarzer Berg
+Watch your
+northern
+victory hex

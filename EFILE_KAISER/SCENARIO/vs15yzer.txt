@@ -1,0 +1,227 @@
+Schlacht an der Yzer
+Noordzee
+Oostduinkerke
+Nieuwpoort
+Yzer
+Brugsevaart
+Lombardsijde
+Veurnekeiweg
+Nieuwpoortkeiweg
+Veurne
+Nieuwpoortsteenweg
+Diksmuidseweg
+Nieuwpoortstraat
+Veurnestraat
+Pervijze
+Avekapelle
+Brugsesteenweg
+Ramskapelle
+Schoorbakke
+Schoorbakkestraat
+Schorestraat
+Pervijzestraat
+Schewege
+Kaaskerkestraat
+Oudekapellestraat
+Kaaskerke
+Lampernisse
+Kruisabele
+Oostkerke
+Lettenburgstraat
+Lampernissestraat
+Zadelstraat
+Knollestraat
+Eggewaartskapelle
+Steenkerke
+Ieperse Steenweg
+Diksmuide
+Wournerweg
+Esenweg
+Esen
+Vladslo
+Vladslostraat
+Werkenstraat
+Beerst
+Beerststraat
+Oostendestraat
+Keizerhoek
+Wijnendalestraat
+Keiem
+Leke
+Zevekotestraat
+Nieuwpoortsesteenweg
+Spermalie
+Mannekensvere
+Sint-Pieters-Kapelle
+Zevekote
+Lappersfortstraat
+Moker
+Lekestraat
+Catstraat
+Oostmeetstraat
+Diksmuidestraat
+Nieuwpoortlaan
+Westende
+Lombardsijdelaan
+Westendelaan
+Middelkerke
+Spermaliestraat
+Slijpesteenweg
+Leffinge
+Vaartdijk-Zuid
+Oostendsebaan
+Zevekotesteenweg
+Steenstraat
+Slijpe
+Flooded area
+Dover Monitor Sq  (RAdm Horace Hood)
+RNAS Spotting balloon (Wg Cdr Maitland)
+Kerkepanne (off-map)
+Hoeve Groote Bamburg
+HMS Venerable
+I/5Li/5BM/2LA
+II/5Li/5BM/2LA
+III/5Li/5BM/2LA
+I/6Li/6BM/2LA
+II/6Li/6BM/2LA
+III/6Li/6BM/2LA
+I/7Li/7BM/2LA
+II/7Li/7BM/2LA
+III/7Li/7BM/2LA
+Mi./-/-/7BM/2LA
+25,26,27+28(att)/GA/-/7BM/2LA
+HF 1  BAC
+Tijck-Landrin 5 BAC
+HMS Severn MG unit (Lt Wise)
+I/1Ch/15BM/4LA
+II/1Ch/15BM/4LA
+III/1Ch/15BM/4LA
+61,62,63/GA/-/15BM/4LA
+I/151RI/84BI/42DI [XVI]
+II/151RI/84BI/42DI [XVI]
+III/151RI/84BI/42DI [XVI]
+16BCP/-/84BI/42DI [XVI]
+9BM/3ID
+I/1RFM/BFM (Marcotte de Sainte-Marie)
+II/1RFM/BFM (Kerros)
+IIII/1RFM/BFM (Rabot)
+I/2RFM/BFM (Jeanniot)
+II/2RFM/BFM (Pugliesi-Conti)
+III/2RFM/BFM (Mauros)
+31,32,33/II/2A/-/2LA (Pontus)
+I/12Li/Meiser/3LA
+II/12Li/Meiser/3LA
+III/12Li/Meiser/3LA
+I/3A/-/3LA
+II/3A/-/3LA
+I/11Li/Meiser/3LA
+II/11Li/Meiser/3LA
+III/11Li/Meiser/3LA
+I/3Ch/17BM/5LA
+II/3Ch/17BM/5LA
+III/3Ch/17BM/5LA
+85,86,87/GA/-/17BM/5LA
+I/13Li/13BM/4LA
+II/13Li/13BM/4LA
+III/13Li/13BM/4LA
+I/8Li/8BM/4LA
+II/8Li/8BM/4LA
+III/8Li/8BM/4LA
+I/10Li/10BM/4LA
+II/10Li/10BM/4LA
+III/10Li/10BM/4LA
+1,2,3/GA/-/2BM/1LA
+I/2Li/2BM/1LA
+II/2Li/2BM/1LA
+III/2Li/2BM/1LA
+I/14Li/14BM/3LA
+II/14Li/14BM/3LA
+III/14Li/14BM/3LA
+I/4Li/4BM/1LA
+II/4Li/4BM/1LA
+III/4Li/4BM/1LA
+I/1Gr/18BM/6LA
+II/1Gr/18BM/6LA
+III/1Gr/18BM/6LA
+I/2C/20BM/6LA
+II/2C/20BM/6LA
+III/2C/20BM/6LA
+I/1C/19BM/6LA
+II/1C/19BM/6LA
+III/1C/19BM/6LA
+I/1Li/1BM/5LA
+II/1Li/1BM/5LA
+III/1Li/1BM/5LA
+I/3Li/3BM/1LA
+II/3Li/3BM/1LA
+III/3Li/3BM/1LA
+I/2Ch/16M/5LA
+II/2Ch/16M/5LA
+III/2Ch/16M/5LA
+I/162RI/84BI/42DI [XVI]
+II/162RI/84BI/42DI [XVI]
+III/162RI/84BI/42DI [XVI]
+I/94RI/83BI/42DI [XVI]
+II/94RI/83BI/42DI [XVI]
+III/94RI/83BI/42DI [XVI]
+8BCP/-/83BI/42DI [XVI]
+19BCP/-/83BI/42DI [XVI]
+A/-/-/-/42DI [XVI]
+FAEA60/-/33Ers/4Ers [IIIR]
+FAEA45/-/33Ers/4Ers [IIIR]
+Brig.Ers.B.34/-/33Ers/4Ers [IIIR]
+Brig.Ers.B.33/-/33Ers/4Ers [IIIR]
+Brig.Ers.B.36/-/33Ers/4Ers [IIIR]
+Brig.Ers.B.81/-/33Ers/4Ers [IIIR]
+Brig.Ers.B.35/-/33Ers/4Ers [IIIR]
+Kav.Ers.IX/-/33Ers/4Ers [IIIR]
+PB9.1.E./-/-/33Ers/4Ers [IIIR]
+FAEA75/-/13Ers/4Ers [IIIR]
+FAEA40/-/13Ers/4Ers [IIIR]
+Brig.Ers.B.14/-/13Ers/4Ers [IIIR]
+Brig.Ers.B.13/-/13Ers/4Ers [IIIR]
+Brig.Ers.B.16/-/13Ers/4Ers [IIIR]
+Brig.Ers.B.15/-/13Ers/4Ers [IIIR]
+Kav.Ers.IV/-/13Ers/4Ers [IIIR]
+PB4.1.E./-/-/13Ers/4Ers [IIIR]
+FAEA39/-/9Ers/4Ers [IIIR]
+FAEA18/-/9Ers/4Ers [IIIR]
+Brig.Ers.B.10/-/9Ers/4Ers [IIIR]
+Brig.Ers.B.9/-/9Ers/4Ers [IIIR]
+Brig.Ers.B.12/-/9Ers/4Ers [IIIR]
+Brig.Ers.B.11/-/9Ers/4Ers [IIIR]
+Kav.Ers.III/-/9Ers/4Ers [IIIR]
+PB3.2.E./-/-/9Ers/4Ers [IIIR]
+Oostende (off-map)
+Handzame (Off-map)
+RJ15/-/85R/43R [XXIIR]
+I/201R/85R/43R [XXIIR]
+II/201R/85R/43R [XXIIR]
+III/201R/85R/43R [XXIIR]
+FFA 40
+I/202R/85R/43R [XXIIR]
+II/202R/85R/43R [XXIIR]
+III/202R/85R/43R [XXIIR]
+I/RFAR43/-/43R [XXIIR]
+II/RFAR43/-/43R [XXIIR]
+KMK 1/-/-/-/- (Batterie Solf)
+2L/3/2CD
+1ChCh/3/2CD
+4ChCh/3/2CD
+I/205R/87R/44R [XXIIR]
+II/205R/87R/44R [XXIIR]
+III/205R/87R/44R [XXIIR]
+RJ16/-/87R/44R [XXIIR]
+III/RFAR43/-/43R [XXIIR]
+I/206R/87R/44R [XXIIR]
+II/206R/87R/44R [XXIIR]
+III/206R/87R/44R [XXIIR]
+I/207R/88R/44R [XXIIR]
+II/207R/88R/44R [XXIIR]
+III/207R/88R/44R [XXIIR]
+I/208R/88R/44R [XXIIR]
+III/208R/88R/44R [XXIIR]
+II/208R/88R/44R [XXIIR]
+I/RFAR4/-/44R [XXIIR]
+II/RFAR4/-/44R [XXIIR]
+III/RFAR4/-/44R [XXIIR]

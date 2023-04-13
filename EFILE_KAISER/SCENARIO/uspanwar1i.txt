@@ -1,0 +1,21 @@
+Peralejo
+(13 July 1895)
+v.1.0
+The sunset of the Spanish Empire - The Spanish-American War 1898
+
+Capitán,
+
+Bienvenido a Cuba!
+
+As you know, a group of dissidents in eastern Cuba have started an armed uprising against the Spanish authority. They are strong in the province of Oriente, where their guerrilla strategy is restricting troops' movements and making difficult to supply garrisons.
+
+Your orders are to join the Spanish column under Brigadier General Santocildes that will escort a supply convoy from Veguitas to Bayamo, a city in the middle of the insurgent stronghold. The Governor General of Cuban, Arsenio Martinez Campos, will also join the column to get an estimate of the situation.
+
+Informants have confirmed that Maceo, "El Titán de Bronce" ("Bronze Titan"), second-in-command of the "Ejército Libertador de Cuba" (Cuban Liberation Army) and probably its best field general, is leading the insurgent forces (around 2,000 men) in the area.
+
+Victory conditions: one of the two units marked MSU must retreat from the scenario.
+
+Warning: There are only three deployment hexes! New purchased units will have 5 as default strength.
+
+Paqueo
+December 2013

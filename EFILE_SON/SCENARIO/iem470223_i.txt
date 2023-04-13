@@ -1,0 +1,12 @@
+Batalla de Saltillo
+February 23, 1847
+
+* Intro text *
+
+Deploy Hexes: 15
+
+ORDER: You have to eliminate 5 American MSU units and keep your MSU alive.
+
+NOTE: You are awarded by a Cavalry detachment.
+
+scenario designer: Csaba (lvjtn)

@@ -1,0 +1,14 @@
+3rd Siege of Kolberg
+December 12, 1761
+
+In May 1761, a Russian army under the command of General Pyotr Alexandrovich Rumyantsev undertook a campaign in Pomerania. The main objective of this campaign was the capture of the fortress of Kolberg. From June, Rumyantsev slowly advanced towards Colberg. On October 20, the Russians crossed the Persante river and surrounded Kolberg completely.
+
+At the end of November, the Prussian general, prince Eugen von Württemberg resolved to make a last attempt to force the Russians to lift the siege of Kolberg. On December 11, Württemberg marched from Treptow in 2 columns, and reached Drenow and Nehmer. The Russians abandoned their positions and retired to Spie, behind the Spiebach River.
+
+Deploy Hexes: 22
+
+ORDER: Take all VHs, and keep your MSU alive.
+
+NOTE: The defenders of Kolberg are commanded by AI.
+
+scenario designer: Csaba (lvjtn)

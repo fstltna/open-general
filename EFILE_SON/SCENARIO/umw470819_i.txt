@@ -1,0 +1,10 @@
+Battle of Contreras
+August 19, 1847
+
+* Intro text *
+
+Deploy Hexes: 17
+
+ORDER: Take all VHs, prevent escaping more than 4 Mexican units and keep your MSU alive.
+
+scenario designer: Csaba (lvjtn)

@@ -1,0 +1,24 @@
+In Desert
+
+Part 2/3 of the "In der Wueste und auf Kreta" minicampaign
+
+
+"Herr General, looks like there's another problem. This whole thing is cursed since we've left the camp... Oh, I'm sorry... But I must really turn your attention to the wounded. If we don't get enough water before the noontime, I fear of their fate... Yes! Yes, commander, I'll give the orders immediatelly, but the morale of our men will drop even lower. Many of them are exhausted and they won't withstand much more... What's happening?
+
+Oh! Collonelo Mammoliti! Finalmente! What have you discovered?
+
+Hmm... Hmm... Si, grazie, ho capito!
+
+Herr General, our situation is even worse than we expected. The oasis is occupied by the Commonwealth forces. Oberst says that there are at least two or three infatry battalions spread across the whole area, road and pathways are blocked with static defense and MGs, deeper in the camp there are artillery batteries under cover of autocannons. Looks like the plutocrats are building a forward base... Huh! What's that noise?
+
+Essi hanno carri armati? O e un aereo? Entrambi, carri armati e aerei? Nessun grande...
+
+Herr General... oh, I see... You have understood. What are the orders then?"
+
+
+Victory condition: Exit the map with 12 units.
+
+Hint: You are lost deep in the desert. There's a wellspring in the oasis (represented by the Retreat Hex), so just let your men quench their thirst there... right after you defeat or evict the defenders. In older versions of Open General the artillery units couldn't leave the map via the Retreat Hex, so maybe it's a good idea to buy several cheap (but fast) infantry in trucks and hurry them to the well.
+You don't need to guard your starting VH. After all - who else would be THAT silly to look for happiness in those dunes...
+
+Warning: Next operation takes place on Crete and the upgrades will be extremely limited!

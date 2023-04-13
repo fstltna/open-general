@@ -1,0 +1,74 @@
+'---
+'Config AI file for scenario: CAS7SC20.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=66 items  ' Replacement for default list
+ 474  '  37mm ZP-39  [ AD  Russia]  Cost: 144
+ 475  '  76.2mm ZP-38  [ AD  Russia]  Cost: 288
+ 477  '  76.2mm F-22  [ AT  Russia]  Cost: 132
+ 484  '  122mm M-30  [ATY  Russia]  Cost: 420
+ 485  '  152mm ML-20  [ATY  Russia]  Cost: 1092
+ 489  '  Katyusha 82mm  [ATY  Russia]  Cost: 420
+ 496  '  41 Kavaleria  [INF  Russia]  Cost: 192
+ 502  '  41 Marine Infantry  [INF  Russia]  Cost: 108
+ 505  '  BA-10  [RCN  Russia]  Cost: 312
+ 515  '  KV-1/39  [ TK  Russia]  Cost: 708
+ 516  '  KV-1/40  [ TK  Russia]  Cost: 792
+ 518  '  KV-2  [ AT  Russia]  Cost: 768
+ 521  '  T-34/40  [ TK  Russia]  Cost: 552
+ 522  '  T-34/41  [ TK  Russia]  Cost: 600
+ 530  '  YaK-1  [FTR  Russia]  Cost: 564
+ 535  '  LaGG-3  [FTR  Russia]  Cost: 564
+ 537  '  MiG-3  [FTR  Russia]  Cost: 564
+ 542  '  IL-2  [ TB  Russia]  Cost: 636
+ 544  '  Li-2  [ATP  Russia]  Cost: 348
+ 639  '  120mm Mortar  [ATY  Russia]  Cost: 312
+ 683  '  FAI  [RCN  Russia]  Cost: 192
+ 832  '  38 Cossacks  [INF  Russia]  Cost: 252
+ 847  '  40 Motociklisti  [INF  Russia]  Cost: 264
+ 920  '  38 Mountain  [INF  Russia]  Cost: 276
+ 979  '  Pe-2  [ TB  Russia]  Cost: 720
+ 985  '  SB 2  [ TB  Russia]  Cost: 564
+1777  '  Pe-8  [ LB  Russia]  Cost: 720
+1801  '  4xMG  [FlaK  Russia]  Cost: 132
+1812  '  76.2mm M-41  [ATY  Russia]  Cost: 180
+1816  '  122mm A-19  [ATY  Russia]  Cost: 696
+1817  '  152mm M-10  [ATY  Russia]  Cost: 420
+1819  '  152mm BR-2  [ATY  Russia]  Cost: 1428
+1829  '  MG 39  [FlaK  Russia]  Cost: 108
+1833  '  KV-8  [ AT  Russia]  Cost: 552
+1844  '  T-40  [RCN  Russia]  Cost: 264
+1850  '  Pe-3  [FTR  Russia]  Cost: 576
+1853  '  Ar-2  [ TB  Russia]  Cost: 636
+1854  '  TB-3  [ TB  Russia]  Cost: 564
+1856  '  Su-2  [ TB  Russia]  Cost: 432
+1857  '  DB-3T  [ TB  Russia]  Cost: 420
+2556  '  Entrenched  [INF  Russia]  Cost: 192
+2580  '  Gaz-1  [TPT  Russia]  Cost: 108
+2582  '  Kom-2  [TPT  Russia]  Cost: 144
+2584  '  Kom-3  [TPT  Russia]  Cost: 156
+2586  '  Kom-4  [TPT  Russia]  Cost: 168
+2951  '  A-7  [ATP  Russia]  Cost: 252
+2952  '  TB-3  [ATP  Russia]  Cost: 348
+2966  '  BA-6  [RCN  Russia]  Cost: 300
+3066  '  BA-20  [RCN  Russia]  Cost: 216
+3067  '  BA-27M  [RCN  Russia]  Cost: 240
+3170  '  38 Gornosaperny  [INF  Russia]  Cost: 372
+3755  '  38 Saperno-Shturmovoi  [INF  Russia]  Cost: 312
+3759  '  38 Parashutisti  [INF  Russia]  Cost: 264
+3761  '  41 NKVD  [INF  Russia]  Cost: 156
+3765  '  41 Cossacks  [INF  Russia]  Cost: 252
+3766  '  41 Sapernii  [INF  Russia]  Cost: 204
+3768  '  41 Mountain  [INF  Russia]  Cost: 276
+3769  '  41 Gornosaperny  [INF  Russia]  Cost: 384
+3806  '  41 HQ  [RCN  Russia]  Cost: 240
+3824  '  MG 41  [FlaK  Russia]  Cost: 108
+4739  '  Maxim 4M AB  [FlaK  Russia]  Cost: 120
+5828  '  Train  [RTP  Russia]  Cost: 120
+7974  '  76.2mm AT/ATY  [ATY  Russia]  Cost: 180
+7975  '  Battery  [ATY  Russia]  Cost: 900
+7984  '  Yag 76.2mm  [ATY  Russia]  Cost: 420
+7990  '  Road Transporter  [TPT  Russia]  Cost: 120

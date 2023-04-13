@@ -1,0 +1,9 @@
+Second battle of Kobadin
+
+October 19th, 1916
+
+It's time to resume our offensive in Kobadin. This time Generalfeldmarschall Mackensen has decided that the German troops and our cavalry division, placed in the Eastern sector, will make the main attack and you, commanding the Western sector, will support them. Your mission is to attack the positions of the Russian 61st and 115th divisions, near Kobadin, and inflict them as many casualties as possible, so they can't send any reinforcements to the east. But be careful. The Russians are flanked by two Romanian divisions, and we know that the 3rd Siberian division, which has just arrived in Dodrudzha, is about to deploy in the area.
+
+Victory conditions: Destroy 20 enemy must-survive units (there are 25 in total, located mainly between Enigea and Kobadin). You have 18 turns for a BV, 21 turns for a V, and 25 turns for a TV.
+Keep your VH.
+

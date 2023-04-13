@@ -1,0 +1,55 @@
+'---
+'Config purchase file for scenario: SSBDM_23.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 258 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+ 481  '  SU-152  [ AT  Russia]  Cost: 900
+ 482  '  SU-76M  [ AT  Russia]  Cost: 408
+ 491  '  SU-122  [ AT  Russia]  Cost: 540
+ 517  '  KV-1/42  [ TK  Russia]  Cost: 840
+ 522  '  T-34/41  [ TK  Russia]  Cost: 600
+ 524  '  T-34/43  [ TK  Russia]  Cost: 648
+ 527  '  T-70  [ TK  Russia]  Cost: 312
+ 530  '  YaK-1  [FTR  Russia]  Cost: 564
+ 531  '  YaK-9D  [FTR  Russia]  Cost: 792
+ 532  '  La-5FN  [FTR  Russia]  Cost: 792
+ 540  '  P-39Q Airacobra  [ TB  Russia]  Cost: 780
+ 543  '  IL-2m3  [ TB  Russia]  Cost: 780
+ 689  '  KV-1/42S  [ TK  Russia]  Cost: 840
+ 692  '  OT-34  [ AT  Russia]  Cost: 552
+ 697  '  YaK-1M  [FTR  Russia]  Cost: 720
+ 698  '  YaK-7B  [FTR  Russia]  Cost: 684
+ 979  '  Pe-2  [ TB  Russia]  Cost: 720
+ 995  '  Pe-2R  [ TB  Russia]  Cost: 408
+1777  '  Pe-8  [ LB  Russia]  Cost: 720
+1806  '  ZiS-30  [ AT  Russia]  Cost: 312
+1822  '  T-60 BM-8-24  [ATY  Russia]  Cost: 492
+1847  '  P-39D Airacobra  [FTR  Russia]  Cost: 720
+1850  '  Pe-3  [FTR  Russia]  Cost: 576
+1855  '  Tu-2  [ TB  Russia]  Cost: 864
+1857  '  DB-3T  [ TB  Russia]  Cost: 420
+1858  '  IL-4  [ LB  Russia]  Cost: 864
+3024  '  Mineclearer  [INF  Russia]  Cost: 324
+3225  '  M15  [ AD  Russia]  Cost: 504
+3227  '  YaG-10/76mm  [ AD  Russia]  Cost: 636
+3334  '  BM-13-16  [ATY  Russia]  Cost: 708
+3815  '  T-50  [RCN  Russia]  Cost: 516
+4481  '  La-5  [FTR  Russia]  Cost: 684
+4687  '  IL-2 NS-37  [ TB  Russia]  Cost: 864
+4691  '  Suicide Bisnovat  [ TB  Russia]  Cost: 36
+4706  '  Tu-2s  [ TB  Russia]  Cost: 864
+5315  '  SU-76  [ATY  Russia]  Cost: 552
+7851  '  KV-5  [ AT  Russia]  Cost: 900
+7972  '  SU-37  [ AD  Russia]  Cost: 552
+7979  '  SU-122 How  [ATY  Russia]  Cost: 780
+7980  '  SU-152 How  [ATY  Russia]  Cost: 1248
+7981  '  SU-203  [ATY  Russia]  Cost: 1800
+7982  '  SU-76 AT/ATY  [ATY  Russia]  Cost: 552
+7987  '  Shocktroops SU-122  [INF  Russia]  Cost: 804
+7988  '  Shocktroops SU-37  [INF  Russia]  Cost: 516

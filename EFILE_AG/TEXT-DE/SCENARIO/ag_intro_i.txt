@@ -1,0 +1,46 @@
+Antique General Intro - playmefirst
+
+
+Ave Legat! Willkommen zu Antique-General!
+* was ist neu - was hat sich geändert? *
+-Im Prinzip funktioniert Antique-General wie gewohnt, wir haben nur wenige Dinge ändern müssen:
+
+-Alle Ziele sind "weich", AUSSER Gebäude, Mauern, Pallisaden u.dergl...die sind "hart".
+
+-Es gibt natürlich keine Luftwaffe, dafür haben wir die neue Spion-Klasse eingeführt, die ganz ähnlich funktioniert. Um auf der Karte zwischen Spion-Klasse und normalen Einheiten umzuschalten, rechts das Auge-Symbol aktivieren, bzw deaktivieren. (genau wie es normalerweise mit Flugzeugen geschieht)
+Die Spion-Klasse gliedert sich in drei Einheitentypen:
+-Spione; einsetzbar gegen andere Spion-Klasse-Einheiten, aber vor allem zur Aufklärung gedacht.
+-Saboteure; gegen harte Ziele.
+-Attentäter; gegen normale und Spion-Klasse-Einheiten.
+Die Spion-Einheiten müssen in einer Spion-Höhle neu munitioniert werden. (quasi das antike Gegenstück zum Flughafen)
+
+Kurzer Überblick über die "normalen" Einheiten-Klassen:
+
+-Befestigungen; Holz- und Steintürme, etc; manche sind effektiv gegen Spion-Klasse.
+-Speerträger; schwere, langsame Infanterie, eher zur Verteidung gedacht; geben Combat Support und Support Fire.
+-Infanterie; normale Infanterie; manche sind effektiv gegen Spion-Klasse.
+-Bogenschützen; Bogenschützen und Geschütze, Katapulte etc; geben wie moderne Geschütze Unterstützungsfeuer.
+-Kundschafter; Aufklärungseinheiten; manche sind effektiv gegen Spion-Klasse.
+-Kavallerie; Kavallerie, Kriegselefanten, Streitwagen etc. Können wie moderne Panzer "überrollen".
+-Spione; haben wir oben besprochen.
+-Boote; vom Floss zum bewaffneten Fischerboot. 
+-Schiffe; alles was grösser ist, Galleeren etc.
+
+-Pioniere können Spionhöhlen, Brücken und Kastelle bauen, was allerdings Prestige und "Munition" kostet; ausserdem "Lilia-Felder", das antike Gegenstück zu Minenfeldern. Eine "Lilia" ist im Prinzip nichts anderes als ein getarntes Loch im Boden, mit einem angespitztem Pfahl untendrin. 
+Erfahrene Pionier-Einheiten können sofort bei betreten eines Fluss-Hex eine Brücke bauen.
+(siehe den Unterschied zwischen den beiden Pionier-Einheiten)
+Bedenke, das bessere Einheiten erst im Lauf des Feldzuges zur Verfügung stehen; dafür hast Du natürlich die Möglichkeit einen Prototyp zu ergattern...
+
+
+Wie Du siehst, verfügt eine Legion über alles, um vollkommen eigenständig operieren zu können - ein genialer Organisationsgrad, der erst Jahrhunderte später, in der Moderne, wieder erreicht wurde....
+....eine klassische Strategie wäre es jetzt, wenn Du mit der schweren Infanterie, gedeckt durch Bogenschützen, langsam vorrückst... sichere die Flanken durch Lilia-Felder und Kavallerie.... bekämpfe feindliche Spione mit deinen Spionen und Aufklärern...
+(Keine Sorge, in der dritten Runde ist mit Verstärkung zu rechnen...)
+
+
+Nun, Legat, bist Du bereit für ein kurzes Übungsgefecht gegen die Antique-General-Development-Crew.... um alle Funktionen mal auszuprobieren....
+... nachdem Du gewonnen hast, bist Du bereit für die Cäsar-Kam.... :-))))
+
+.....und jetzt: Wir befinden uns im Jahr 58 v.Chr. ......
+...........................viel Spass mit Antique-General !
+
+M. Kessler & S. de Mont Tonnerre, MMXII.

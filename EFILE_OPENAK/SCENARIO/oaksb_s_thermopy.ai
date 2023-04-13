@@ -1,0 +1,136 @@
+'---
+'Config AI file for scenario: OAKSB_S_thermopy.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=60 
+$buy_newair=40 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3   
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2   
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=118 items  ' Replacement for default list
+ 100  '  3.7inch  [ AD  United Kingdom]  Cost: 564
+ 320  '  20mm  [FlaK  United Kingdom]  Cost: 72
+ 321  '  40mm I  [ AD  United Kingdom]  Cost: 180
+ 324  '  2pdr  [ AT  United Kingdom]  Cost: 84
+ 328  '  25pdr  [ATY  United Kingdom]  Cost: 192
+ 336  '  Infantry  [INF  Australia]  Cost: 96
+ 338  '  40 Engineers  [INF  United Kingdom]  Cost: 396
+ 339  '  40 Commandos  [INF  United Kingdom]  Cost: 1464
+ 340  '  40 Bridging  [INF  United Kingdom]  Cost: 192
+ 344  '  Infantry  [INF  New Zealand]  Cost: 72
+ 354  '  Dingo  [RCN  United Kingdom]  Cost: 216
+ 389  '  Spitfire VB  [FTR  United Kingdom]  Cost: 1092
+ 551  '  Lt VI  [ TK  United Kingdom]  Cost: 204
+ 596  '  Ippikon  [INF  Hellas]  Cost: 120
+ 652  '  Cruiser III  [ TK  United Kingdom]  Cost: 288
+ 654  '  105mm M19  [ATY  Hellas]  Cost: 444
+ 676  '  Gladiator IIA  [FTR  Hellas]  Cost: 588
+ 738  '  Michanikon  [INF  Hellas]  Cost: 312
+ 778  '  40mm M36  [ AD  Hellas]  Cost: 168
+ 779  '  37mm M35  [ AT  Hellas]  Cost: 72
+ 780  '  75mm M04  [ATY  Hellas]  Cost: 132
+ 781  '  155mm M17  [ATY  Hellas]  Cost: 540
+ 782  '  NC-27  [ TK  Hellas]  Cost: 168
+ 783  '  Pezikon  [INF  Hellas]  Cost: 60
+ 784  '  Orino Pezikon  [INF  Hellas]  Cost: 240
+ 785  '  Euzonoi  [INF  Hellas]  Cost: 192
+ 786  '  P.24G  [FTR  Hellas]  Cost: 672
+ 806  '  Blenheim I  [ TB  Hellas]  Cost: 780
+ 914  '  Battle I  [ TB  United Kingdom]  Cost: 672
+ 922  '  25pdr AT  [ AT  United Kingdom]  Cost: 168
+1293  '  7.92mm M26  [FlaK  Hellas]  Cost: 36
+1294  '  20mm M37  [FlaK  Hellas]  Cost: 60
+1295  '  88mm M18  [ AD  Hellas]  Cost: 576
+1296  '  81mm M27/31  [ATY  Hellas]  Cost: 84
+1297  '  65mm M06  [ATY  Hellas]  Cost: 252
+1298  '  105mm M27  [ATY  Hellas]  Cost: 504
+1299  '  MG  [ AT  Hellas]  Cost: 96
+1300  '  Pezikon Ochyroseon  [INF  Hellas]  Cost: 72
+1301  '  Omas Anagnoriseos  [RCN  Hellas]  Cost: 120
+1302  '  L3/35  [ TK  Hellas]  Cost: 252
+1303  '  MB.151  [FTR  Hellas]  Cost: 648
+1304  '  Po.633B.2 Grec  [ TB  Hellas]  Cost: 720
+1305  '  Battle I  [ TB  Hellas]  Cost: 672
+1310  '  Hs.126K-6  [ TB  Hellas]  Cost: 588
+1689  '  3inch  [ATY  United Kingdom]  Cost: 84
+1724  '  Blenheim IV  [ TB  United Kingdom]  Cost: 816
+1910  '  4.5inch  [ATY  United Kingdom]  Cost: 504
+1931  '  Scout Carrier  [RCN  United Kingdom]  Cost: 204
+1945  '  85mm M25  [ATY  Hellas]  Cost: 324
+1946  '  75mm M19  [ATY  Hellas]  Cost: 276
+1949  '  Carrier  [RCN  Hellas]  Cost: 192
+1964  '  47mm M36  [ AT  Hellas]  Cost: 84
+1973  '  Michanikoi  [INF  Hellas]  Cost: 132
+2062  '  20mm  [FlaK  New Zealand]  Cost: 60
+2063  '  40mm I  [ AD  New Zealand]  Cost: 180
+2066  '  3.7inch  [ AD  New Zealand]  Cost: 396
+2067  '  2pdr  [ AT  New Zealand]  Cost: 84
+2071  '  MMG  [ AT  New Zealand]  Cost: 96
+2074  '  3.7inch  [ATY  New Zealand]  Cost: 264
+2075  '  25pdr  [ATY  New Zealand]  Cost: 192
+2077  '  3inch  [ATY  New Zealand]  Cost: 84
+2078  '  Bridging  [INF  New Zealand]  Cost: 192
+2079  '  Engineer  [INF  New Zealand]  Cost: 396
+2080  '  NZTF  [INF  New Zealand]  Cost: 72
+2082  '  Maori  [INF  New Zealand]  Cost: 276
+2083  '  Cavalry  [INF  New Zealand]  Cost: 144
+2084  '  Reserve  [INF  New Zealand]  Cost: 48
+2085  '  Home Guard  [INF  New Zealand]  Cost: 36
+2086  '  White  [RCN  New Zealand]  Cost: 180
+2087  '  Carrier  [RCN  New Zealand]  Cost: 192
+2089  '  Marmon-Herrington II  [RCN  New Zealand]  Cost: 204
+2099  '  Spitfire IA  [FTR  New Zealand]  Cost: 900
+2104  '  Vildebeest  [ TB  New Zealand]  Cost: 480
+2272  '  20mm  [FlaK  Australia]  Cost: 60
+2273  '  40mm I  [ AD  Australia]  Cost: 168
+2274  '  3.7inch  [ AD  Australia]  Cost: 384
+2275  '  2pdr  [ AT  Australia]  Cost: 84
+2279  '  MMG  [ AT  Australia]  Cost: 96
+2283  '  25pdr  [ATY  Australia]  Cost: 192
+2285  '  3inch  [ATY  Australia]  Cost: 84
+2287  '  25pdr Baby  [ATY  Australia]  Cost: 192
+2289  '  Engineer  [INF  Australia]  Cost: 396
+2290  '  Bridging  [INF  Australia]  Cost: 192
+2291  '  Commando  [INF  Australia]  Cost: 1620
+2292  '  Guerilla  [INF  Australia]  Cost: 144
+2293  '  CMF  [INF  Australia]  Cost: 96
+2294  '  Paratrooper  [INF  Australia]  Cost: 348
+2296  '  Marmon-Herrington III  [RCN  Australia]  Cost: 240
+2298  '  Coastwatchers  [INF  Australia]  Cost: 96
+2299  '  Carrier  [RCN  Australia]  Cost: 192
+2300  '  Lt VI  [ TK  Australia]  Cost: 180
+2316  '  Hurricane IA tropical  [FTR  Australia]  Cost: 792
+2320  '  Wirraway  [ TB  Australia]  Cost: 612
+2321  '  Hudson I  [ TB  Australia]  Cost: 708
+2322  '  Battle I  [ TB  Australia]  Cost: 672
+2344  '  3.7inch  [FlaK  Australia]  Cost: 168
+3027  '  37mm M36  [ AD  Hellas]  Cost: 156
+3028  '  13.2mm M29  [FlaK  Hellas]  Cost: 48
+3029  '  40mm M36  [ AT  Hellas]  Cost: 84
+3271  '  Pezomachon  [INF  Hellas]  Cost: 72
+3367  '  Lt VI  [ TK  New Zealand]  Cost: 180
+3853  '  40 Motor Infantry  [INF  United Kingdom]  Cost: 144
+4037  '  Lysander IIIA  [ TB  United Kingdom]  Cost: 648
+4075  '  Swordfish I  [ TB  United Kingdom]  Cost: 552
+4148  '  Lysander IIIA  [ TB  Australia]  Cost: 648
+4156  '  Audax I  [ TB  Australia]  Cost: 384
+4179  '  Spitfire IA  [FTR  Australia]  Cost: 900
+4283  '  Gordon I  [ TB  New Zealand]  Cost: 444
+4664  '  Hurricane IA  [FTR  United Kingdom]  Cost: 804
+4747  '  P.24F  [FTR  Hellas]  Cost: 768
+4766  '  Blenheim IV  [ TB  Hellas]  Cost: 816
+5112  '  Hurricane IA tropical  [FTR  United Kingdom]  Cost: 792
+5113  '  Hurricane IIA tropical  [FTR  United Kingdom]  Cost: 816
+5114  '  Hurricane IIB tropical  [FTR  United Kingdom]  Cost: 852
+5115  '  Spitfire VC tropical  [ TB  United Kingdom]  Cost: 1188
+5128  '  Lysander I  [ TB  United Kingdom]  Cost: 624
+5170  '  18/75mm  [ATY  United Kingdom]  Cost: 144
+5683  '  44 Parachute HQ  [INF  United Kingdom]  Cost: 288

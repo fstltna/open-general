@@ -1,0 +1,5 @@
+Task ONE: Make contact with the Kuestrin garrison (08/08).
+Task TWO: Accidently a german shell has hit and temporarily damaged the road bridge at Frankfurt. You can't retreat over the bridge. But the Soviets are close. You musst hold the bridgehead until Task One is accomplished.
+
+New units have strength 5 and experience 299. 
+7 deploy hexes.

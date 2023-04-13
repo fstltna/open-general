@@ -1,0 +1,23 @@
+Choice: east or west?
+
+Welcome, General. Sit down and let me explain you the situation. To be sincere, by now it's obvious that we overestimated the strength of our army before the war started. The Russians have defeated us in Galizien, and now they threaten the Hungarian plains. Were it not for the Germans who are fighting against them in Eastern Prussia and Poland, we could have already been forced to surrender.
+
+In Serbia, things are only slightly better. Despite our many efforts, we've been incapable of defeating that tiny kingdom. Our neighbours are starting to believe that we're just a "paper tiger", weak and easy to destroy. We fear what Italy could do under these circumstances. They're supposed to be our allies, but they've never hidden their intention of annexing our Tirol and Triest, either.They could join our enemies if they believe that they can get away with it.
+
+We need your skills more than ever, General. We were not ready to fight at two fronts at the same time, and the future of the Empire is at risk in any of them. The Emperor has granted you the honour of making an important decision. Where do you choose to fight next? Depending on your answer, you could find glory or disgrace.
+
+Options:
+- Click at the Russian flag if you wish to fight the next 7 scenarios (until the autum of 1917) at the Eastern Front, against Russia and Romania.
+
+- Click at the Italian flag if you wish to fight the next 7 scenarios (until the autum of 1917) at the Balkan and Italian Fronts, against Serbia and Italy.
+
+
+
+
+
+
+
+
+
+
+

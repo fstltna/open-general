@@ -1,0 +1,82 @@
+Operation Iskra
+Lake Ladoga
+Shlisselburg
+Kirovsk
+Village
+Sinyavino
+Lipka
+Marino
+Lobanovo
+Navskaia
+Mga
+Poselok 7
+Duprovka
+Nizhniy
+Railroad
+Gribnoe
+Nazija Airfield
+Gory Airfield
+Damaged Airfield
+Bridgehead
+Neva River
+CLI/61
+CLXII/61
+CLXXVI/61
+CLXI/61
+CLIX/69
+CXCIII/69
+CCXXXVI/69
+CLXIX/69
+502nd Pz. Abt.
+VII/4th SS Polizei
+VIII/4th SS Polizei
+IV/4th SS Polizei
+Mishkino
+CMXLII/268th Rifle Div.
+CCCLXXXVII/136th Rifle Div.
+DXLVI/191st Rifle Div.
+Poselok 5
+Poselok 1
+Poselok 4
+Poselok 8
+DXLI/136th Rifle Div.
+CMLII/268th Rifle Div.
+DCCXCIX/268th Rifle Div.
+CCCXVII/268th Rifle Div.
+DLIX/191st Rifle Div.
+CCCLXXIV/128th Rifle Div.
+XCVII/18th Rifle Div.
+DCCLXXVII/227th Rifle Div.
+13th KBF
+14th Air Army
+I/JG54
+CCCXXVIII/227
+CCCLXVI/227
+CDXII/227
+CCXXVII/227
+CCLXXXIII/96
+CCLXXXVII/96
+5th KBF
+Baltic Fleet
+Ladoga Flotilla
+123rd Tank Brig.
+142nd Tank Brig.
+102nd Tank Brig.
+34th Ski Brig.
+13th Ski Brig.
+CLXIX/86th Rifle Div.
+CCCXXX/86th Rifle Div.
+CCXLVIII/86th Rifle Div.
+X/45th Guards
+LXI/45th Guards
+CCXVII/45th Guards
+XXIII/11
+XLIV/11
+XI/11
+CCCXLIV/223
+XXII/1
+CCCXCI/170
+CCCXCIX/170
+CLEAR
+SNOW/SAND
+FOREST

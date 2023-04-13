@@ -1,0 +1,50 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 403  '  3inch M5  [ AT  USA]  Cost: 180
+ 407  '  M18 Hellcat  [ AT  USA]  Cost: 612
+ 415  '  M4-105  [ TK  USA]  Cost: 576
+ 444  '  M4A1-76W  [ TK  USA]  Cost: 744
+ 447  '  M4A3-76W HVSS  [ TK  USA]  Cost: 792
+ 454  '  P-38J Lightning  [FTR  USA]  Cost: 936
+ 461  '  P-51D Mustang  [FTR  USA]  Cost: 960
+ 467  '  B-25H Mitchell  [ TB  USA]  Cost: 1152
+ 468  '  B-25J Mitchell  [ TB  USA]  Cost: 996
+ 999  '  Regular Infantry 44  [INF  USA]  Cost: 132
+1748  '  40 mm / SCR-584 Mobile Radar  [ AD  USA]  Cost: 348
+1760  '  M1 240mm Howitzer  [ATY  USA]  Cost: 1584
+1766  '  M4A3-75W  [ TK  USA]  Cost: 576
+1767  '  M4A3-76W  [ TK  USA]  Cost: 768
+1769  '  M4A6  [ TK  USA]  Cost: 564
+1780  '  P-61A-10 Black Widow  [FTR  USA]  Cost: 1176
+2871  '  Paratroopers 44  [INF  USA]  Cost: 300
+3209  '  Airborne Scouts 43  [RCN  USA]  Cost: 348
+3311  '  M3A2 105mm Howitzer  [ATY  USA]  Cost: 228
+3519  '  LVT(A)4 Ronson  [ TK  USA]  Cost: 444
+3704  '  MG 44  [FlaK  USA]  Cost: 180
+3922  '  US Marine Corps 44  [INF  USA]  Cost: 300
+3936  '  Mountain 44  [INF  USA]  Cost: 300
+4302  '  PV-2 Harpoon  [ LB  USA]  Cost: 792
+4510  '  P-47D-22 Thunderbolt  [ TB  USA]  Cost: 936
+4625  '  F4U-1D Corsair  [ TB  USA]  Cost: 948
+4677  '  P-47D-10 Thunderbolt  [ TB  USA]  Cost: 900
+5221  '  LVT(A)4  [ATY  USA]  Cost: 504
+6150  '  Paramarines 44  [INF  USA]  Cost: 444
+6359  '  P-63A Kingcobra  [FTR  USA]  Cost: 960
+6666  '  Light Infantry 44  [INF  USA]  Cost: 144
+7005  '  AT Infantry 44  [INF  USA]  Cost: 276
+7029  '  F4U-2 Corsair  [FTR  USA]  Cost: 972
+7035  '  Seabees 44  [INF  USA]  Cost: 216
+7993  '  M1 203mm Gun  [ATY  USA]  Cost: 1992
+7994  '  T34 Calliope  [ATY  USA]  Cost: 888
+8168  '  Seabees Combat Engineers 44  [INF  USA]  Cost: 384
+8174  '  Armored Infantry 44  [INF  USA]  Cost: 624
+8271  '  M3/M51 MMGC Quad  [FlaK  USA]  Cost: 396
+8313  '  Rangers 44  [INF  USA]  Cost: 420
+8424  '  T27  [ATY  USA]  Cost: 360
+8425  '  T27E2  [ATY  USA]  Cost: 672
+8884  '  M45 Quadmount on Truck  [FlaK  USA]  Cost: 288
+8893  '  M45 Quadmount  [FlaK  USA]  Cost: 168

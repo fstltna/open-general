@@ -1,0 +1,106 @@
+Russo - Manshu Border
+Ussuri River
+Muleng River
+Jumonji Pass
+Lishan
+Chingkulingmiao
+Hsiaolutai
+Tzusingtun
+Pamiengtun
+Mashan
+Chiamussu
+Aerchinshan
+Paoching
+Iman
+Hutou
+Tumuhop
+Hulin
+Feite
+Sangchihtung
+Tangpichen
+Mishan
+Yungan
+Poli
+Lake Khanka
+Lake
+Tachiao
+9 Raiding Unit/-/[5A]
+20 HV AR./-/[5A]
+66 RD/[35A]
+66 RD/[35A]
+66 RD/[35A]
+125 Tk.Bde./[35A]
+[35A]
+368 R/135 Div./[5A]
+369 R/135 Div./[5A]
+370 R/135 Div./[5A]
+135 AR/135 Div./[5A]
+135 E.Btn./135 Div./[5A]
+Chihsi
+Panchiehho
+Pingyang
+[10 Air Army]
+[10 Air Army]
+[5 Army HQ]
+15 BGU/-/[5A]
+127 R/126 Div./[5A]
+278 R/126 Div./[5A]
+279 R/126 Div./[5A]
+126 AR/126 Div./[5A]
+Raiding Btn./126 Div./[5A]
+Raiding Btn./126 Div./[5A]
+126 E.Btn./126 Div./[5A]
+35 RD/[5RC]
+35 RD/[5RC]
+35 RD/[5RC]
+390 RD/[5RC]
+390 RD/[5RC]
+390 RD/[5RC]
+172 Tk.Bde./[5RC]
+[5RC]
+[5RC]
+[35 Army HQ]
+[5 Rifle Corps HQ]
+271 R/124 Div./[5A]
+272 R/124 Div./[5A]
+273 R/124 Div./[5A]
+Raiding Btn./124 Div./[5A]
+124 E.Btn./124 Div./[5A]
+124 AR/124 Div./[5A]
+1 E.Bde./-/[5A]
+10 E.Bde./-/[5A]
+13 Mortar Btn./-/[5A]
+6 HV AR./-/[5A]
+131 AT.Btn./-/[5A]
+Manshu Militia
+Manshu Militia
+Manshu Militia
+Manshu Militia
+[59 Rifle Corps]
+264 RD/[35A]
+264 RD/[35A]
+264 RD/[35A]
+363 RD/[35A]
+363 RD/[35A]
+363 RD/[35A]
+209 Tk.Bde./[35A]
+39 RD/[59RC]
+39 RD/[59RC]
+39 RD/[59RC]
+231 RD/[59RC]
+231 RD/[59RC]
+231 RD/[59RC]
+365 RD/[59RC]
+365 RD/[59RC]
+365 RD/[59RC]
+75 Tk.Bde./[59RC]
+77 Tk.Bde./[59RC]
+257 Tk.Bde./[59RC]
+335 Guards SPAR/[59RC]
+338 Guards SPAR/[59RC]
+339 Guards SPAR/[59RC]
+[5A]
+[IJAAF]
+[IJAAF]
+125 Tk.Bde./[35A]
+209 Tk.Bde./[35A]

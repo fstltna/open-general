@@ -1,0 +1,19 @@
+October 30th, 1953
+Alamogordo, New Mexico
+-----------------------------------------------------------------------
+The people in Alamogordo and Tularosa are sitting ducks, Commander.  We've got to evacuate them before more of these monsters show up and overrun the entire area.
+
+We've gone ahead and loaded the majority of the residents here into truck convoys.  Your mission is to get these convoys and sufficient escort north to Holloman Air Force Base and the safety of our defense network there.  Unfortunately we do not currently know where the bugs have their nest, so you should keep an eye out in all directions.  We do know that a nearby town has gone dark, so you should assume that it has been compromised.
+
+Air support is still unavailable despite our best efforts.  The sandstorms have cleared up but our high-clearance combat wings were posturing in Europe at the time of the attack; we're still waiting on them to come home.
+
+Morale is shaky but for the moment should hold.  We've told the townspeople that this is a drill preparing them for the event of a nuclear war.  I don't know how many people believe that story but it's certainly more believable than the truth.
+
+Commmander, the loss of even one of these convoys may break our cover story.  Do not let this evacuation turn into a massacre.
+
+Carter out.
+---------------------------------------------------
+SCENARIO NOTES:
+* Escort 9 units to the northwestern retreat hex to win.
+* All three civilian truck transports must survive.
+* Air units cannot be purchased during this scenario, but existing core air units can be deployed.

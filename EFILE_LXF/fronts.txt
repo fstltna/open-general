@@ -1,0 +1,9431 @@
+> ******************************************************************
+* LXF Efile
+* ******************************************************************
+
+* ******************************************************************
+* FRONTS (#) all nations possess:
+* ******************************************************************
+
+* @NONE - No units available!
+* ---------------------------------
+* No units will be available.
+
+
+* ******************************************************************
+* FRACTIONS (@) all nations possess:
+* ******************************************************************
+
+* @NAVY + Corps
+* ---------------------------------
+* All NAVY ground units of the respective nation, which are corps
+* or army units. 
+
+
+* @NAVY + Naval
+* ---------------------------------
+* All naval units of the respective nation and all aircraft that
+* can be carried by ships. Except aircraft carriers and aircraft 
+* that can be carried by aircraft carriers.
+
+
+* @NAVY + Aviation
+* ---------------------------------
+* All aircraft of the respective nations NAVY.
+
+
+* @NAVY + Infantry
+* ---------------------------------
+* All NAVY ground units of the respective nation, which are not
+* corps or army units.
+
+
+* @NAVY + Coastal
+* ---------------------------------
+* All naval units of the respective nation with movement NAVAL or
+* COASTAL. These units can navigate on rivers and shallow water.  
+
+
+* @-
+* ---------------------------------
+* Not to be used!
+
+
+* ******************************************************************
+* FRACTIONS (@) some nations possess:
+* ******************************************************************
+
+* @NAVY + Carriers + Aviation
+* ---------------------------------
+* All aircraft carriers of the respective nations NAVY and aircraft 
+* that can be carried by aircraft carriers.
+
+
+*-------------------------------------------------------------------
+1   New Zealand
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> New Zealand Army 1930-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry  	Infantry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> @SPEC + Motorpool	Add to motorize non-motorized units.
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 41-55
+@NAVY + Aviation 36-55
+@NAVY
+@AIRF
+@AIRF + Aviation 38-55
+@AIRF
+@ARMY + Corps 38-55
+@ARMY + Aviation 38-45
+@ARMY 
+@ARMY D Infantry 30-55
+@ARMY 
+@ARMY
+@ARMY + Mountain 30-55
+@ARMY + Special Forces 41-55
+@ARMY
+@SPEC + Garrison/Security 39-55
+@SPEC
+@SPEC + Auxiliary 42-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 30-55
+@-
+@-
+@NAVY + Coastal 41-55
+@NAVY + Carriers + Aviation 43-55
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+2   Irregular Forces
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> Irregular Forces 1920-55
+> ------------------------------------------------------------------
+> This country has no units but NAVAL/RAIL transport, leader PICS/NAMES etc. and can be used as a container for scenarios against Irregular Forces. 
+*-------------------------------------------------------------------
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+
+*-------------------------------------------------------------------
+3   British India
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Army of India 1930-47(55)
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Armoured Divsion
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Airborne	Airborne Brigade/Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units.
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Cavalry
+> #CLIM Snow		Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 30-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 33-55
+@AIRF
+@ARMY + Corps 30-55
+@ARMY + Aviation 33-55
+@ARMY D Armoured  42-55
+@ARMY D Infantry 30-55
+@ARMY
+@ARMY
+@ARMY + Mountain 30-55
+@ARMY
+@ARMY + Special Forces 43-45
+@SPEC + Garrison/Security 30-50
+@SPEC
+@SPEC + Auxiliary 30-50
+@ARMY D Airborne 41-55
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 30-55
+@-
+@-
+@NAVY + Coastal 30-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+4   Australia
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Australian Military Forces 1930-55
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Armoured Divsion
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Cavalry 	Cavalry Division
+> 
+> Australian Imperial Force 1939-46
+> ------------------------------------------------------------------
+> @ARMY D AIF Armoured 	Armoured  Divsion
+> @ARMY D AIF Infantry	Infantry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units.
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Cavalry
+> #CLIM Snow		Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 30-55
+@NAVY + Aviation 36-55
+@NAVY
+@AIRF
+@AIRF + Aviation 30-55
+@AIRF
+@ARMY + Corps 36-55
+@ARMY + Aviation 36-55
+@ARMY D Armoured  42-43
+@ARMY D Infantry 30-55
+@ARMY D AIF Infantry 39-46
+@ARMY D Cavalry 30-42
+@ARMY + Mountain 30-55
+@ARMY D AIF Armoured  41-43
+@ARMY + Special Forces 42-55
+@SPEC + Garrison/Security 39-45
+@SPEC
+@SPEC + Paramilitary 42-45
+@SPEC + Auxiliary 42-45
+@SPEC + Guerrilla 42-45
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 30-55
+@-
+@-
+@NAVY + Coastal 40-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+5   Hungary
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Royal Hungarian Army 1932-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Armoured Divsion
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Motorized	Motorized Brigade
+> @ARMY D Cavalry 	Cavalry Division
+> @ARMY D Mountain	Mountain Brigade
+> @ARMY D Light		Light Infantry Division
+> 
+> Above are only the main fractions (D) listed. For a normal
+> scenario at least one main fraction should be selected! With
+> sub fractions (+) additional units/transports can be add.
+> A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+>
+> #EQPM Germany		Add German Equipment
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#EQPM Germany 41-55
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQPM Prototypes 45-55
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 36-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 40-55
+@ARMY D Armoured  39-55
+@ARMY D Infantry 32-55
+@ARMY D Motorized 36-55
+@ARMY D Cavalry 32-45
+@ARMY D Mountain 32-55
+@ARMY D Light 32-55
+@ARMY + Special Forces 40-55
+@SPEC + Garrison/Security 32-55
+@SPEC + Rail 39-55
+@SPEC + Paramilitary 44-45
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 36-55
+@-
+@-
+@NAVY + Coastal 32-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+6   Japan
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Imperial Japanese Navy 1928-45(55)
+> ------------------------------------------------------------------
+> @NAVY D Infantry  	Special Naval Landing Force
+> 
+> Imperial Japanese Army 1928-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Tank Division
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Motorized	Motor Division
+> @ARMY D Cavalry 	Cavalry Group
+> @ARMY D Airborne	Raiding Brigade
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units.
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse. Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+>
+> #EQPM Prototypes 	Add Prototypes
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQPM Prototypes 43-55
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY + Corps 28-55
+@NAVY + Naval 28-55
+@NAVY + Aviation 32-55
+@NAVY D Infantry 28-55
+@AIRF
+@AIRF + Aviation 28-55
+@AIRF
+@ARMY + Corps 28-55
+@ARMY + Aviation 28-55
+@ARMY D Armoured  28-55
+@ARMY D Infantry 28-55
+@ARMY D Motorized 28-55
+@ARMY D Cavalry 28-45
+@ARMY + Mountain 28-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 28-55
+@SPEC + Rail 28-55
+@SPEC + Auxiliary 42-45
+@ARMY D Airborne 40-55
+@SPEC + Suicide 43-45
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 28-55
+@-
+@-
+@NAVY + Coastal 28-55
+@NAVY + Carriers + Aviation 32-55
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+7   France
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> French Army 1925-40
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Armoured Division
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Motorized	Motorized Infantry Division
+> @ARMY D Cavalry 	Light Cavalry Division
+> @ARMY D Mountain	Alpine Division
+> @ARMY D Mechanized	Light Mechanized Division	
+> @ARMY D Light		Light Chasseurs Division
+> 
+> French Vichy Army 1940-44
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Metropolitan Military Division
+> @ARMY D Cavalry 	Metropolitan Cavalry Brigade
+> 
+> LVF/Waffen-SS volunteers 1941-55
+> ------------------------------------------------------------------
+> @SPEC D LVF/Waffen-SS
+> 
+> French Army 1944-55
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Armoured Division
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Motorized	Motorized Infantry Division
+> @ARMY D Mountain	Alpine Infantry Division
+> @ARMY D Mechanized	Mechanized Division	
+> @ARMY D Airborne	Parachute Division
+> 
+> Above are only the main fractions (D) listed. For a normal
+> scenario at least one main fraction should be selected! With
+> sub fractions (+) additional units/transports can be add.
+> A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		Camel
+> #CLIM Jungle		Bicycle, Montagnards
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQPM Prototypes 40-42
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 25-55
+@NAVY + Aviation 30-55
+@NAVY + Infantry 40-55
+@AIRF
+@AIRF + Aviation 26-55
+@AIRF
+@ARMY + Corps 25-55
+@ARMY + Aviation 26-55
+@ARMY D Armoured 39-40, 44-55
+@ARMY D Infantry 25-55
+@ARMY D Motorized 37-40, 44-55
+@ARMY D Cavalry 25-44
+@ARMY D Mountain 25-55
+@ARMY D Mechanized 39-40, 44-55
+@ARMY D Light 39-40
+@SPEC + Garrison/Security 25-55
+@SPEC
+@SPEC + Auxiliary 25-55
+@SPEC + Colonial 25-55
+@ARMY D LVF/Waffen-SS 41-55
+@ARMY + Special Forces 44-55
+@ARMY D Airborne 39-55
+@-
+@-
+@-
+@SPEC + Motorpool 37-55
+@-
+@-
+@NAVY + Coastal 25-55
+@NAVY + Carriers + Aviation 30-55
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+8   Germany
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> German Navy 1933-45(55) (set FRONTS #Default)
+> ------------------------------------------------------------------
+> @NAVY D Infantry  	Marine-Infanterie Division
+> 
+> German Air Force 1933-45(55) (set FRONTS #Default)
+> ------------------------------------------------------------------
+> @AIRF D Infantry   	Luftwaffen-Feld Division
+> @AIRF D Airborne  	Fallschirmjäger Division
+> 
+> German Army 1933-45(55) (set FRONTS #Wehrmacht)
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Panzer Division
+> @ARMY D Infantry 	Infanterie/Grenadier Division
+> @ARMY D Motorized	Infanterie(mot)/Panzer-Grenadier Division 
+> @ARMY D Cavalry 	Kavallerie Division
+> @ARMY D Mountain	Gebirgs Division
+> @ARMY D Light		leichte Division
+> 
+> Waffen-SS 1934-45(55) (set FRONTS #Waffen-SS)
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	SS Panzer Division
+> @ARMY D Infantry 	SS Infanterie/Grenadier Division
+> @ARMY D Motorized	SS Infanterie(mot)/Panzer-Grenadier Division 
+> 
+> Above are only the main fractions (D) listed. For a normal
+> scenario at least one main fraction should be selected! With
+> sub fractions (+) additional units/transports can be add.
+> A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #Wehrmacht/Waffen-SS
+> CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> CLIM Snow		Horse, Mounted, Cavalry
+> CLIM Desert		
+> CLIM Jungle		Bicycle
+>
+> #EQPM United Kingdom	Add captured British Equipment
+> #EQPM France 		Add captured French Equipment
+> #EQPM Italy 		Add captured Italian Equipment
+> #EQPM Soviet Union	Add captured Soviet Equipment
+> #EQPM Czechoslovakia 	Add captured Czechoslovak Equipment
+> #EQPM USA 		Add captured US Equipment
+>
+> #EQPM Prototypes	Add Prototypes
+*-------------------------------------------------------------------
+#Default
+#Wehrmacht CLIM Default
+#Wehrmacht CLIM Snow
+#Wehrmacht CLIM Desert
+#Wehrmacht CLIM Jungle
+#Waffen-SS CLIM Default
+#Waffen-SS CLIM Snow
+#Waffen-SS CLIM Desert
+#Waffen-SS CLIM Jungle
+#EQPM United Kingdom 40-45
+#EQPM France 40-44
+#EQPM Italy 43-45
+#EQPM Soviet Union 41-45
+#EQPM Czechoslovakia 39-45
+#EQPM USA 43-45
+#EQPM Prototypes 35-55
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY + Corps 35-55
+@NAVY + Naval 33-55
+@NAVY + Aviation 35-55
+@NAVY D Infantry 33-55
+@AIRF + Corps 35-55
+@AIRF + Aviation 33-55
+@AIRF D Infantry 41-45
+@ARMY + Corps 35-55
+@ARMY + Aviation 33-55
+@ARMY D Armoured  34-55
+@ARMY D Infantry 33-55
+@ARMY D Motorized 33-55
+@ARMY D Cavalry 33-55
+@ARMY D Mountain 33-55
+@ARMY + Special Forces 40-55
+@ARMY D Light 33-55
+@SPEC + Garrison/Security 33-55
+@SPEC + Rail 33-55
+@SPEC + Paramilitary 33-45
+@SPEC + Auxiliary 42-45
+@AIRF D Airborne 36-55
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 34-55
+@SPEC D Heavy Panzer Det. 42-45
+@AIRF + Fighter 33-55
+@NAVY + Coastal 33-55
+@NAVY + Carriers + Aviation 40-55
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+9   Bulgaria
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Royal Bulgarian Army 1932-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Armoured  	Armoured Brigade
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Cavalry 	Cavalry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQPM Soviet Union 44-56
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 39-55
+@AIRF + Infantry 41-55
+@ARMY + Corps 38-55
+@ARMY + Aviation 40-55
+@ARMY D Armoured  41-55
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY D Cavalry 32-48
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 32-55
+@SPEC
+@SPEC + Paramilitary 32-45
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 37-55
+@-
+@-
+@NAVY + Coastal 32-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+10  USA
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> United States Army 1932-55 (set FRONTS #U.S.Army)
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Armoured Division
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Motorized	Motorized Division
+> @ARMY D Cavalry 	Cavalry Division
+> @ARMY D Mountain	Mountain Division
+> @ARMY D Airborne	Airborne Division
+> 
+> United States Marine Corps 1934-55 (set FRONTS #U.S.M.C./Navy)
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Marine Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units.
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #U.S.Army/#U.S.M.C./Navy
+> CLIM Default		Mounted, Cavalry
+> CLIM Snow		Mounted, Cavalry
+> CLIM Desert		
+> CLIM Jungle		
+*-------------------------------------------------------------------
+#Default
+#U.S.Army CLIM Default
+#U.S.Army CLIM Snow
+#U.S.Army CLIM Desert
+#U.S.Army CLIM Jungle
+#U.S.M.C./Navy CLIM Default
+#U.S.M.C./Navy CLIM Snow
+#U.S.M.C./Navy CLIM Desert
+#U.S.M.C./Navy CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY + Corps 32-55
+@NAVY + Naval 32-55
+@NAVY + Aviation 32-55
+@NAVY + Infantry 32-55
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 32-45
+@ARMY D Armoured  32-55
+@ARMY D Infantry 32-55
+@ARMY D Motorized 32-55
+@ARMY D Cavalry 32-41
+@ARMY D Mountain 41-55
+@ARMY + Special Forces 41-55
+@ARMY
+@SPEC + Garrison/Security 32-45
+@SPEC
+@SPEC + Paramilitary 32-55
+@SPEC + Auxiliary 42-45
+@ARMY D Airborne 42-55
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-55
+@NAVY + Carriers + Aviation 32-55
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+11  Canada
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Canadian Army 1930-55
+> ------------------------------------------------------------------
+> @ARMY D Armoured  	Armoured Division
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Airborne 	Airborne Brigade
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>  
+> @SPEC + Motorpool	Add to motorize non-motorized units.
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 30-55
+@NAVY + Aviation 30-55
+@NAVY + Infantry 39-55
+@AIRF
+@AIRF + Aviation 30-55
+@AIRF
+@ARMY + Corps 30-55
+@ARMY + Aviation 30-55
+@ARMY D Armoured  41-55
+@ARMY D Infantry 30-55
+@ARMY
+@ARMY + Cavalry 30-40
+@ARMY + Mountain 30-55
+@ARMY
+@ARMY + Special Forces 42-55
+@SPEC
+@SPEC
+@SPEC + Paramilitary 30-40
+@ARMY D Airborne 43-55
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 30-55
+@-
+@-
+@NAVY + Coastal 30-55
+@NAVY + Carriers + Aviation 43-55
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+12  Turkey
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Turkish Armed Forces 1930-55
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Armoured Brigade/Division
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Cavalry 	Cavalry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>  
+> @SPEC + Motorpool	Add to motorize non-motorized units.
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		Camel
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 30-55
+@NAVY
+@NAVY + Infantry 30-55
+@AIRF
+@AIRF + Aviation 37-55
+@AIRF
+@ARMY + Corps 37-55
+@ARMY + Aviation 39-55
+@ARMY D Armoured  35-55
+@ARMY D Infantry 30-55
+@ARMY
+@ARMY D Cavalry 30-55
+@ARMY + Mountain 30-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 30-55
+@SPEC
+@SPEC + Paramilitary 30-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 30-55
+@-
+@-
+@NAVY + Coastal 30-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+13  Italy
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Italian Royal Army 1925-43(55)
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Armoured Division
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Motorized	Motorized Division
+> @ARMY D Fast	 	Fast Division
+> @ARMY D Mountain	Mountain Division
+> @ARMY D Blackshirt	Militia (Blackshirt) Division
+> @ARMY D Libyan    	Libyan Infantry Division
+> @ARMY D Airborne	Airborne Division
+> 
+> Italian Co-Belligerent Army 1943-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Co-Belligerent	Italian Royalist forces
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units.
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Cavalry, Albanese, Partisan
+> #CLIM Snow		Horse, Cavalry, Albanese, Partisan
+> #CLIM Desert		Askari, Colonial Infantry, Dubat Mercenaries
+> #CLIM Jungle		Bicycle
+>
+> #EQPM France		Add captured French Equipment
+>
+> #EQPM Prototypes 	Add Prototypes
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQPM Germany 41-56
+#EQPM France 40-45
+#EQPM Prototypes 43-55
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY + Corps 34-55
+@NAVY + Naval 25-55
+@NAVY + Aviation 35-55
+@NAVY + Infantry 25-55
+@AIRF + Corps 34-55
+@AIRF + Aviation 29-55
+@AIRF
+@ARMY + Corps 25-55
+@ARMY + Aviation 35-55
+@ARMY D Armoured  26-55
+@ARMY D Infantry 25-55
+@ARMY D Motorized 25-55
+@ARMY D Fast 25-55
+@ARMY D Mountain 25-55
+@ARMY D Blackshirt 25-45
+@ARMY D Libyan 25-41
+@SPEC + Garrison/Security 25-55
+@SPEC + Rail 25-55
+@SPEC + Paramilitary 25-55
+@SPEC + Auxiliary 40-45
+@SPEC + Colonial 25-41
+@SPEC + Partisans 43-45
+@ARMY D Co-Belligerent 43-55
+@ARMY D Airborne 40-55
+@-
+@-
+@SPEC + Motorpool 25-55
+@-
+@-
+@NAVY + Coastal 25-55
+@NAVY + Carriers + Aviation 43-55
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+14  Romania
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Royal Rumanian Armed Forces 1932-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Armoured Division
+> @ARMY D Infantry  	Infantry Division
+> @ARMY D Cavalry  	Cavalry Division
+> @ARMY D Mountain 	Mountain Division
+> @ARMY D Frontier  	Frontier Division
+> @ARMY D Fortress	Fortress Brigade
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>  
+> @SPEC + Motorpool	Add to motorize non-motorized units.
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQPM Germany 40-56
+#EQPM Soviet Union 41-44
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY + Infantry 32-55
+@AIRF
+@AIRF + Aviation 33-55
+@AIRF + Infantry 43-55
+@ARMY + Corps 32-55
+@ARMY + Aviation 39-55
+@ARMY D Armoured  37-55
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY D Cavalry 32-45
+@ARMY D Mountain 32-55
+@ARMY D Frontier 32-55
+@ARMY D Fortress 32-45
+@SPEC + Garrison/Security 32-55
+@SPEC
+@ARMY + Paramilitary 38-45
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+15  Thailand
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Royal Thai Armed Forces 1930-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units.
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle, Horse, Mounted, Cavalry, Elephant
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 30-55
+@NAVY + Aviation 38-48
+@NAVY + Infantry 36-55
+@AIRF
+@AIRF + Aviation 31-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 35-55
+@ARMY
+@ARMY D Infantry 30-55
+@ARMY
+@ARMY
+@ARMY + Mountain 30-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 30-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 30-55
+@-
+@-
+@NAVY + Coastal 30-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+16  Nationalist China
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Chinese Army 1925-55
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Tank Division
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Motorized	Motorized Division
+> @ARMY D Cavalry 	Cavalry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+>
+> #EQPM divers Import   Add imported divers Equipment
+> #EQPM UK Import       Add imported UK Equipment
+> #EQPM US Import       Add imported US Equipment
+> #EQPM USSR Import     Add imported USSR Equipment
+> #EQPM German Import   Add imported German Equipment
+> #EQPM Japan           Add captured Japanese Equipment
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#EQPM divers Import 25-56
+#EQPM UK Import 29-56
+#EQPM US Import 34-56
+#EQPM USSR Import 26-48
+#EQPM German Import 36-56
+#EQPM Japan Captured 37-48
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 25-55
+@NAVY + Aviation 31-48
+@NAVY + Infantry 25-39
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 28-55
+@ARMY + Aviation 32-50
+@ARMY D Armoured  38-55
+@ARMY D Infantry 25-55
+@ARMY D Motorized 38-55
+@ARMY D Cavalry 25-50
+@ARMY + Mountain 25-55
+@ARMY
+@ARMY + Special Forces 44-55
+@SPEC + Garrison/Security 25-55
+@SPEC
+@SPEC + Warlord 25-45
+@SPEC + Guerrilla 32-45
+@SPEC + Paramilitary 25-45
+@SPEC + Suicide 25-45
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 36-55
+@-
+@-
+@NAVY + Coastal 25-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+17  Philippines
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Philippine Army 1936-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>  
+> @SPEC + Motorpool	Add to motorize non-motorized units.
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse
+> #CLIM Snow		Horse
+> #CLIM Desert		
+> #CLIM Jungle		Horse
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 39-42
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 39-42
+@AIRF
+@ARMY + Corps 36-42
+@ARMY + Aviation 36-42
+@ARMY
+@ARMY D Infantry 36-42
+@ARMY
+@ARMY
+@ARMY + Mountain 36-42
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 36-42
+@SPEC
+@SPEC + Guerrilla 42-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 36-42
+@-
+@-
+@NAVY + Coastal 39-42
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+18  Netherlands
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Netherlands Armed Forces 1932-40
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Light	 	Light Division
+> 
+> Netherlands Armed Forces 1932-42
+> ------------------------------------------------------------------
+> @ARMY D KNIL 		East Indies Division
+>
+> Netherlands Armed Forces 1942-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Motorized	Motorized Infantry Brigade
+> 
+> Netherlands Armed Forces 1945-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> 
+> Waffen-SS volunteers 1941-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Waffen-SS
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle, KNIL Cavalry
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY + Aviation 36-45
+@NAVY + Infantry 32-55
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 32-40
+@ARMY
+@ARMY D Infantry 32-40, 42-55
+@ARMY D Motorized 42-55
+@ARMY D Light 32-40
+@ARMY + Mountain 42-55
+@ARMY D KNIL 32-42
+@ARMY + Special Forces 44-55
+@SPEC + Garrison/Security 32-40
+@SPEC
+@SPEC + Paramilitary 32-42
+@SPEC D Waffen-SS 41-55
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 36-55
+@-
+@-
+@NAVY + Coastal 32-55
+@NAVY + Carriers + Aviation 44-45
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+19 South Korea
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Republic of Korea Army 1948-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Mechanized	Mechanized Infantry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Mounted
+> #CLIM Snow		Mounted
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 48-55
+@NAVY
+@NAVY + Infantry 48-55
+@AIRF
+@AIRF + Aviation 50-55
+@AIRF
+@ARMY + Corps 48-55
+@ARMY + Aviation 48-55
+@ARMY
+@ARMY D Infantry 48-55
+@ARMY
+@ARMY
+@ARMY + Mountain 48-55
+@ARMY D Mechanized 48-55
+@ARMY + Special Forces 51-55
+@SPEC + Garrison/Security 48-55
+@SPEC
+@SPEC + Guerrilla 50-53
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 48-55
+@-
+@-
+@NAVY + Coastal 48-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+20  Soviet Union
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Soviet Navy
+> ------------------------------------------------------------------
+> @NAVY D Infantry  	Naval Rifle Brigade
+> 
+> Red Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Tank Division, Tank/Mechanized Corps 
+> @ARMY D Infantry 	Rifle Division/Brigade
+> @ARMY D Motorized	Motorized Rifle Division/Brigade
+> @ARMY D Cavalry 	Cavalry Division
+> @ARMY D Mountain	Mountain Rifle Division
+> @ARMY D Mechanized	Mechanized Division/Brigade
+> 
+> Soviet Armed Forces 1934-55
+> ------------------------------------------------------------------
+> @ARMY D Partisans	Partisan Forces
+> @ARMY D Airborne 	Airborne Brigade
+> @ARMY D NKVD		NKVD Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+>
+> #EQPM Lend-Lease	Add Lend-Lease Equipment
+> #EQPM Reparations	Add Reparations Equipment
+>
+> #EQPM Prototypes 	Add Prototypes
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#EQPM Lend-Lease 41-55
+#EQPM Reparations 44-55
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQPM Prototypes 39-55
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY + Corps 38-55
+@NAVY + Naval 32-55
+@NAVY + Aviation 34-55
+@NAVY D Infantry 32-55
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 32-42
+@ARMY D Armoured 32-55
+@ARMY D Infantry 32-55
+@ARMY D Motorized 32-55
+@ARMY D Cavalry 32-45
+@ARMY D Mountain 32-55
+@ARMY D Mechanized 32-55
+@ARMY + Special Forces 42-55
+@SPEC + Garrison/Security 32-55
+@SPEC + Rail 32-55
+@ARMY D Partisans 41-55
+@ARMY D Airborne 35-55
+@SPEC + Paramilitary 41-45
+@ARMY D NKVD 40-46
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+21  Poland
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Polish Army 1932-39
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Motorized	Motorized Brigade
+> @ARMY D Cavalry 	Cavalry Brigade
+> 
+> Polish Army in France 1939-40
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Motorized	Motorized Brigade
+> @ARMY D Mountain 	Mountain Brigade
+>
+> Polish Armed Forces in the West 1940-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Armoured Brigade/Division
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Airborne 	Parachute Brigade
+>
+> Polish Armed Forces in the East 1943-45(55)
+> ------------------------------------------------------------------
+> @ARMY D LWP
+>
+> Resistance in Poland 1942-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Home Army
+>
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQPM Prototypes 39-39
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 32-48
+@ARMY D Armored 42-55
+@ARMY D Infantry 32-55
+@ARMY D Motorized 37-40
+@ARMY D Cavalry 32-39
+@ARMY D Mountain 32-40
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 32-39
+@SPEC + Rail 32-39
+@ARMY D LWP 43-55
+@ARMY D Home Army 42-55
+@SPEC + Paramilitary 37-39
+@ARMY D Airborne 41-55
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-45
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+22  Communist China
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> People's Liberation Army 1927-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Cavalry 	Cavalry Division
+> @ARMY D Artillery  	Artillery Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		
+>
+> #EQPM USSR Import     Add imported USSR Equipment
+> #EQPM Japan           Add captured Japanese Equipment
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQPM USSR 45-55
+#EQPM Japan 38-50
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 55-55
+@NAVY
+@NAVY + Infantry 50-55
+@AIRF
+@AIRF + Aviation 45-55
+@AIRF
+@ARMY + Corps 45-55
+@ARMY + Aviation 38-45
+@ARMY
+@ARMY D Infantry 27-55
+@ARMY
+@ARMY D Cavalry 36-50
+@ARMY + Mountain 27-55
+@ARMY D Artillery 48-55
+@ARMY + Special Forces 50-55
+@SPEC + Garrison/Security 27-55
+@SPEC
+@SPEC + Paramilitary 27-50
+@SPEC + Guerrilla 36-50
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 45-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+23  United Kingdom
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Royal Navy 1925-55
+> ------------------------------------------------------------------
+> @NAVY D Infantry   	Royal Marines Brigade
+> 
+> British Army 1925-55
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Armoured Division
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Motorized	Motor Division
+> @ARMY D Cavalry 	Cavalry Brigade
+> @ARMY D Mixed     	Mixed Division
+> @ARMY D Airborne 	Airborne Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Mounted
+> #CLIM Snow		Mounted
+> #CLIM Desert		Camel Cavalry, African Rifles, Arab Legion, E.A. Pioneers, Egyptian, Gold Coast, Kenyan, Nigerian
+> #CLIM Jungle		Bicycle, African Rifles, Burmese, E.A. Pioneers, Gold Coast, Kenyan, Malayan, Malayan Volunteers, Nigerian
+>
+> #EQPM Lend-Lease	Add Lend-Lease Equipment
+>
+> #EQPM Prototypes 	Add Prototypes
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQPM Lend-Lease 41-55
+#EQPM Prototypes 43-55
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY + Corps 25-55
+@NAVY + Naval 25-55
+@NAVY + Aviation 33-55
+@NAVY + Infantry 25-55
+@AIRF + Corps 25-55
+@AIRF + Aviation 29-55
+@AIRF + Infantry 41-55
+@ARMY + Corps 25-55
+@ARMY + Aviation 38-55
+@ARMY D Armoured  36-55
+@ARMY D Infantry 25-55
+@ARMY D Motorized 25-55
+@ARMY D Cavalry 25-41
+@ARMY + Mountain 25-55
+@ARMY D Mixed 38-55
+@ARMY + Special Forces 41-55
+@SPEC
+@SPEC + Rail 40-45
+@SPEC + Paramilitary 39-45
+@SPEC + Auxiliary 36-48
+@SPEC + Colonial 25-45
+@ARMY D Airborne 39-55
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 25-55
+@-
+@-
+@NAVY + Coastal 25-55
+@NAVY + Carriers + Aviation 33-55
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+24  Mongolia
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Mongolian Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Cavalry 	Cavalry Division
+> @ARMY D Mechanized	Mechanized Brigade
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		Camel Cavalry
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 35-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 35-55
+@ARMY
+@ARMY
+@ARMY
+@ARMY D Cavalry 32-55
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY D Mechanized 44-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+25  Manchukuo
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Manchukuo Imperial Army 1932-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Cavalry 	Cavalry Division
+> @ARMY D Mixed	    	Mixed Brigade
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQPM Prototypes 43-55
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 34-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 36-55
+@AIRF
+@ARMY + Corps 33-55
+@ARMY + Aviation 36-55
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY D Cavalry 32-55
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY D Mixed 32-55
+@SPEC + Garrison/Security 32-55
+@SPEC
+@SPEC + Auxiliary 34-39
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 33-55
+@-
+@-
+@NAVY + Coastal 34-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+26  North Korea
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Korean People's Army 1948-55
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Armoured Division
+> @ARMY D Infantry 	Infantry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Mounted
+> #CLIM Snow		Mounted
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 48-55
+@NAVY
+@NAVY + Infantry 48-55
+@AIRF
+@AIRF + Aviation 48-55
+@AIRF
+@ARMY + Corps 48-55
+@ARMY
+@ARMY D Armoured  48-55
+@ARMY D Infantry 48-55
+@ARMY
+@ARMY
+@ARMY + Mountain 48-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 48-55
+@SPEC
+@SPEC + Partisans 48-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 48-55
+@-
+@-
+@NAVY + Coastal 48-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+27 Spanish Republic
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Republican Spanish Army 1932-39(55)
+> ------------------------------------------------------------------
+> @ARMY D Armoured	Armoured Brigade/Division
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D International	International Brigade/Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY + Infantry 32-55
+@AIRF
+@AIRF + Aviation 35-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 35-55
+@ARMY D Armored 36-55
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY + Cavalry 32-55
+@ARMY + Mountain 32-55
+@ARMY D International 36-55
+@ARMY
+@SPEC + Garrison/Security 32-55
+@SPEC
+@SPEC + Paramilitary 36-55
+@SPEC + Guerrilla 39-55
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 37-52
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+28 Allied Forces
+*-------------------------------------------------------------------
+> Captured Axis equipment 1941-45(55)
+> ------------------------------------------------------------------
+> Can be added as Supporting Country to buy/upgrade captured Axis equipment. The equipment costs only 2/3 of the normal pp. Use in following scenario the option "Set core units to same player's main country" to align purchased units country.
+> 
+> The country has Allies NAVAL/AIR/RAIL transport, PICS/NAMES etc. and can also be used as a container for scenarios. 
+*-------------------------------------------------------------------
+#ICONSET Default - Green
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@EQP + Germany 41-55
+@EQP + Italy 40-55
+@EQP + Japan 43-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+29  Spain
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Spanish Army 1936-55
+> ------------------------------------------------------------------
+> @ARMY D Armoured	Armoured Division
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Regulares	Indigenous Regular Forces
+> @ARMY D Legion   	Foreign Legion
+> 
+> Wehrmacht volunteers 1941-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Wehrmacht	Division Azul
+>
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#SPEC D LC Fighter 36-39
+#-
+
+@NAVY
+@NAVY + Naval 36-55
+@NAVY + Aviation 36-55
+@NAVY + Infantry 36-55
+@AIRF
+@AIRF + Aviation 36-55
+@AIRF
+@ARMY + Corps 36-55
+@ARMY + Aviation 36-55
+@ARMY D Armored 39-55
+@ARMY D Infantry 36-55
+@ARMY
+@ARMY + Cavalry 36-42
+@ARMY + Mountain 36-55
+@ARMY D Regulares 36-55
+@ARMY D Legion 36-55
+@SPEC + Garrison/Security 36-55
+@SPEC
+@SPEC + Paramilitary 36-39
+@ARMY D Wehrmacht 41-55
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 36-55
+@SPEC D Legion Condor 36-39
+@-
+@NAVY + Coastal 36-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+30  Axis Forces
+*-------------------------------------------------------------------
+> Captured Allies equipment 1939-45(55)
+> ------------------------------------------------------------------
+> Can be added as Supporting Country to buy/upgrade captured Allies equipment. The equipment costs only 2/3 of the normal pp. Use in following scenario the option "Set core units to same player's main country" to align purchased units country.
+> 
+> The country has Axis NAVAL/AIR/RAIL transport, PICS/NAMES etc. and can also be used as a container for scenarios. 
+*-------------------------------------------------------------------
+
+#ICONSET Jungle  - Sand/Camo
+#ICONSET Snow    - White
+#ICONSET Desert  - Sand
+#ICONSET Default - Panzergrau
+#ICONSET Default - Green
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@EQP - US 42-55
+@EQP - United Kingdom 40-55
+@EQP - Soviet Union 41-55
+@EQP - France 40-55
+@EQP - Poland 39-55
+@EQP - Netherlands 40-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+31  Iraq
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Royal Iraqi Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		Camel, Horse, Cavalry, Bedouin Cavalry, Tribal Levy
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#EQPM JIHAD Camp Axis 41-55
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 37-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 34-55
+@ARMY + Aviation 36-55
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 32-55
+@SPEC + Rail 41-55
+@SPEC + Paramilitary 32-48
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 37-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+32  Afghanistan
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Royal Afghan Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Cavalry 	Household Division
+> @ARMY D Mixed	    	Mixed Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		Horse, Mounted, Cavalry
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 36-55
+@AIRF
+@ARMY + Corps 36-55
+@ARMY + Aviation 36-55
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY D Cavalry 32-55
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY D Mixed 32-55
+@SPEC
+@SPEC
+@SPEC + Paramilitary 32-50
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+33  Iran
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Royal Iranian Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Brigade
+> @ARMY D Mixed      	Mixed Division
+> @ARMY D Mechanized	Mechanized Brigade
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		Camel, Horse, Cavalry, Camel Scouts
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 36-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY D Mixed 36-55
+@ARMY + Mountain 32-55
+@ARMY D Mechanized 40-55
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Paramilitary 32-45
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 36-55
+@-
+@-
+@NAVY + Coastal 33-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+34  Free French Forces
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Free French Forces 1940-44(55)
+> ------------------------------------------------------------------
+> @ARMY D Armoured  	Armoured Division
+> @ARMY D Infantry 	Infantry Brigade/Division
+> @ARMY D Motorized 	Motorized Infantry Division
+> @ARMY D Mountain 	Mountain Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse
+> #CLIM Snow		Horse
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 40-55
+@NAVY
+@NAVY + Infantry 40-55
+@AIRF
+@AIRF + Aviation 40-55
+@AIRF
+@ARMY + Corps 40-55
+@ARMY + Aviation 40-55
+@ARMY D Armored 43-55
+@ARMY D Infantry 40-55
+@ARMY D Motorized 42-55
+@ARMY
+@ARMY D Mountain 42-55
+@ARMY
+@ARMY + Special Forces 43-55
+@SPEC
+@SPEC
+@SPEC + Auxiliary 40-55
+@SPEC + Colonial 40-55
+@SPEC + Resistance/FFI 40-55
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 40-55
+@-
+@-
+@NAVY + Coastal 40-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+35  Italian Social Republic
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> National Republican Army 1943-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Marine    	Marine Division
+> @ARMY D Mountain    	Alpine Division
+> @ARMY D Light	    	Bersaglieri Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse
+> #CLIM Snow		Horse
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQPM Prototypes 43-55
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 43-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 43-55
+@AIR
+@ARMY + Corps 43-55
+@ARMY + Aviation 43-55
+@ARMY
+@ARMY D Infantry 43-55
+@ARMY
+@ARMY D Marine 43-55
+@ARMY D Mountain 43-55
+@ARMY D Light 43-55
+@ARMY + Special Forces 43-55
+@SPEC + Garrison/Security 43-45
+@SPEC
+@SPEC + Paramilitary 43-50
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 43-55
+@-
+@-
+@NAVY + Coastal 43-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+36  Belgium
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Belgian Army 1932-40
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Cavalry 	Cavalry Division
+> @ARMY D Light	    	Ardennes Infantry Division
+> 
+> Belgian Armed Forces 1940-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	 Infantry Brigade
+> 
+> Waffen-SS volunteers 1941-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Waffen-SS
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-40,42-44
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 32-40
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY D Cavalry 32-40
+@ARMY + Mountain 32-55
+@ARMY + Special Forces 44-55
+@ARMY D Light 38-40
+@SPEC + Garrison/Security 32-40
+@SPEC
+@SPEC D Waffen-SS 41-55
+@SPEC + Paramilitary 39-40
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 36-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+37  Portugal
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Portuguese Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 36-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 36-55
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Colonial 32-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+38  Slovakia
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Slovakian Armed Forces 1939-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Motorized	Mobile Brigade
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 39-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 39-55
+@AIRF
+@ARMY + Corps 39-55
+@ARMY + Aviation 39-55
+@ARMY
+@ARMY D Infantry 39-55
+@ARMY D Motorized 39-55
+@ARMY
+@ARMY + Mountain 39-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 39-55
+@SPEC + Rail 39-55
+@SPEC + Paramilitary 39-48
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 39-55
+@-
+@-
+@NAVY + Coastal 39-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+39  Finland
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Finnish Defense Forces 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Cavalry 	Cavalry Brigade
+> 
+> Waffen-SS volunteers 1941-43(55)
+> ------------------------------------------------------------------
+> @ARMY D Waffen-SS
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry, Ski
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+>
+> #EQPM Germany		Add German Equipment
+> #EQPM Soviet Union	Add captured Soviet Equipment
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#EQPM Soviet Union 39-55
+#EQPM Germany 40-55
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY
+@AIRF + Corps 39-55
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 32-55
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY D Cavalry 32-45
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY + Special Forces 39-55
+@SPEC + Garrison/Security 32-55
+@SPEC + Rail 32-55
+@SPEC + Paramilitary 32-40
+@ARMY D Waffen-SS 41-55
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+40  Kingdom of Greece
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Hellenic Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Cavalry 	Cavalry Division
+> @ARMY D Mountain	Mountain Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+>
+> #EQPM Italy		Add captured Italian Equipment
+> #EQPM United Kingdom	Add British Equipment
+>
+> #EQPM Prototypes 	Add Prototypes
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQPM Italy 40-41
+#EQPM United Kingdom 40-41
+#EQPM Prototypes 36-41
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 32-41
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY D Cavalry 32-41
+@ARMY D Mountain 32-55
+@ARMY + Special Forces 42-55
+@ARMY
+@SPEC + Garrison/Security 32-55
+@SPEC
+@SPEC + Guerrilla 41-44
+@SPEC + Paramilitary 44-55
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 36-55
+@-
+@-
+@NAVY + Coastal 32-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+41  Norway
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Royal Norwegian Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+>
+> Waffen-SS volunteers 1941-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Waffen-SS
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY + Aviation 38-55
+@NAVY
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 33-40
+@ARMY + Aviation 32-40
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY
+@ARMY
+@ARMY + Special Forces 41-55
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Guerrilla 42-55
+@ARMY D Waffen-SS 41-55
+@SPEC + Paramilitary 32-40
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 39-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+42  Croatia
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Independent State of Croatia
+> (Puppet state of Germany)
+> 
+> Croatian Army 1941-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Bodyguard Division
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Mobile    	Mobile Brigade
+> @ARMY D Mountain 	Mountain Division
+> 
+> Wehrmacht volunteers 1941-43(55)
+> ------------------------------------------------------------------
+> @ARMY D Wehrmacht	Croatian Legion
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 41-55
+@NAVY
+@NAVY
+@AIRF + Corps 41-55
+@AIRF + Aviation 41-55
+@AIRF + Infantry 42-55
+@ARMY + Corps 41-55
+@ARMY + Aviation 41-55
+@ARMY D Armoured  42-55
+@ARMY D Infantry 41-55
+@ARMY D Mobile 41-55
+@ARMY
+@ARMY D Mountain 42-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 41-55
+@SPEC + Rail 41-55
+@SPEC + Paramilitary 41-50
+@ARMY D Wehrmacht 41-55
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 41-55
+@-
+@-
+@NAVY + Coastal 41-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+43  Kingdom of Yugoslavia
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Royal Yugoslavian Army 1932-41(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Cavalry 	Cavalry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 32-48
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY D Cavalry 32-48
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 32-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+44  Yugoslavia
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> People's Liberation Army 1941-55
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Tank Brigade
+> @ARMY D Cavalry 	Cavalry Brigade
+> @ARMY D Mountain 	Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 43-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 44-55
+@AIRF
+@ARMY + Corps 43-55
+@ARMY + Aviation 42-44
+@ARMY D Armoured  44-55
+@ARMY
+@ARMY
+@ARMY D Cavalry 42-44
+@ARMY D Mountain 41-55
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Auxiliary 43-44
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 42-55
+@-
+@-
+@NAVY + Coastal 43-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+45  Switzerland
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Swiss Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Mountain	Mountain Division/Brigade
+> @ARMY D Border   	Border Brigade
+> @ARMY D Light	   	Light Brigade
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 33-55
+@AIRF
+@ARMY + Corps 33-55
+@ARMY
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY
+@ARMY D Mountain 32-55
+@ARMY D Border 32-55
+@ARMY D Light 36-55
+@SPEC + Garrison/Security 32-55
+@SPEC
+@SPEC + Paramilitary 32-41
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 36-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+45  Denmark
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Royal Danish Army 1932-43
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> 
+> Waffen-SS volunteers 1941-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Waffen-SS
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 32-43
+@AIRF
+@ARMY
+@ARMY + Aviation 32-43
+@ARMY
+@ARMY D Infantry 32-43
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@ARMY D Waffen-SS 41-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-43
+@-
+@-
+@NAVY + Coastal 32-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+47  Ethiopia
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Ethiopian Army 1932-36
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Regular Infantry Force
+> @ARMY D Cavalry 	Regular Cavalry Force
+> 
+> Ethiopian Armed Forces 1941-45
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Gideon Force
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		Camel, Horse, Cavalry, Nomads
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY + Corps 32-36
+@ARMY + Aviation 34-36
+@ARMY
+@ARMY D Infantry 32-36,41-45
+@ARMY
+@ARMY D Cavalry 32-36
+@ARMY + Mountain 32-36
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Paramilitary 32-36
+@SPEC + Auxiliary 32-36
+@SPEC + Guerrilla 36-41
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-36,41-45
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+48  Czechoslovakia
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Czechoslovakian Army 1932-39
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Motorized	Infantry Division (motorized)
+> @ARMY D Fast      	Fast Division
+> 
+> Czechoslovakian Armed Forces 1939-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	1st Czechoslovak Armoured Brigade
+> @ARMY D France   	Czechoslovak Legion
+> @ARMY D USSR		1st Czechoslovak Army Corps
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-39
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 35-55
+@AIRF
+@ARMY + Corps 32-39
+@ARMY + Aviation 35-39
+@ARMY D Armoured  43-55
+@ARMY D Infantry 32-55
+@ARMY D Motorized 36-55
+@ARMY D Fast 36-39
+@ARMY + Mountain 32-39
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 32-39
+@SPEC + Rail 32-39
+@ARMY D France 40
+@ARMY D USSR 42-55
+@SPEC + Paritsans 43-55
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-39
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+49  South Africa
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> South African Armed Forces 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Armoured Division
+> @ARMY D Infantry 	Infantry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Cavalry
+> #CLIM Snow		Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY + Aviation 42-55
+@NAVY
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 38-55
+@ARMY + Aviation 32-43
+@ARMY D Armoured  42-55
+@ARMY D Infantry 32-55
+@ARMY + Cavalry 32-43
+@ARMY
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY + Special Forces 40-43
+@SPEC + Garrison/Security 39-42
+@SPEC
+@SPEC + Auxiliary 39-49
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+50  Sweden 
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Royal Swedish Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Cavalry 	Cavalry Brigade
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY + Aviation 34-44
+@NAVY
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 38-55
+@ARMY
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY D Cavalry 32-43
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Paramilitary 40-45
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 39-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+51 Brazil
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Brazilian Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D BEF	 	Brazilian Expeditionary Force
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 43-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 44-55
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY D Infantry 44-55
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@-
+@-
+@-
+@ARMY D BEF 44-45
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 44-55
+@-
+@-
+@NAVY + Coastal 44-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+52  Austria
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Austrian Army 1932-38(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Fast		Fast Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 34-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 34-55
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY D Fast 36-55
+@ARMY
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 32-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+53  Albania
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Army of the Kingdom of Albania 1932-39
+> ------------------------------------------------------------------
+> @ARMY D Infantry
+> 
+> Waffen-SS volunteers 1944-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Waffen-SS
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted
+> #CLIM Snow		Horse, Mounted
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-39
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY + Aviation 36-39
+@ARMY
+@ARMY D Infantry 32-39
+@ARMY
+@ARMY
+@ARMY + Mountain 32-39
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 32-39
+@SPEC
+@SPEC + Guerrilla 39-55
+@ARMY D Waffen-SS 44-55
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-39
+@-
+@-
+@NAVY + Coastal 32-39
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+54  Mengjiang
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Mengjiang National Army 1936-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Cavalry 	Cavalry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY D Infantry 36-55
+@ARMY
+@ARMY D Cavalry 36-55
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Paramilitary 36-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 36-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+55 Puppet Regime China
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Provisional Government of the Republic of China
+> (Puppet state of Japan)
+> 
+> Provisional Government Army 1938-40
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Brigade
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY D Infantry 38-40
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 38-40
+@SPEC
+@SPEC + Paramilitary 38-40
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 38-40
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+56 Nanjing Regime China
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Reorganized National Government of China
+> (Puppet state of Japan)
+> 
+> National Government of China Army 1940-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Brigade
+> @ARMY D Cavalry 	Cavalry Brigade
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 40-55
+@AIRF
+@ARMY + Corps 43-55
+@ARMY + Aviation 40-55
+@ARMY
+@ARMY D Infantry 40-55
+@ARMY
+@ARMY D Cavalry 40-55
+@ARMY
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 40-55
+@SPEC
+@SPEC + Paramilitary 40-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 40-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+57  State of Burma
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Burma National Army 1941-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse
+> #CLIM Snow		Horse
+> #CLIM Desert		
+> #CLIM Jungle		Horse
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY D Infantry 42-55
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Guerrilla 41-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 42-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+58 Free India
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Provisional Government of Free India (Azad Hind)
+> (Puppet state of Japan)
+> 
+> Indian National Army 1942-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Guerrilla Division
+> 
+> Indian Legion (Wehrmacht) 1941-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Wehrmacht	Free India Legion
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse
+> #CLIM Snow		Horse
+> #CLIM Desert		
+> #CLIM Jungle		Horse
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY D Infantry 42-55
+@ARMY
+@ARMY
+@ARMY + Mountain 42-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 43-55
+@SPEC
+@ARMY D Wehrmacht 41-55
+@SPEC + Guerrilla 42-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+59  Estonia
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Estonian Armed Forces 1932-40
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> 
+> Waffen-SS volunteers 1943-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-40
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 36-40
+@AIRF
+@ARMY + Corps 36-55
+@ARMY + Aviation 36-55
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY
+@ARMY
+@ARMY + Special Forces 41
+@ARMY
+@SPEC + Garrison/Security 32-55
+@SPEC + Rail 36-40
+@SPEC + Guerrilla 40-41,44-55
+@SPEC + Paramilitary 41-44
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-40
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+60  Latvia
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Latvian Armed Forces 1932-40
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> 
+> Waffen-SS volunteers 1943-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-40
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 36-40
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 36-55
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 32-55
+@SPEC
+@SPEC + Guerrilla 40-41,44-55
+@SPEC + Paramilitary 41-44
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 36-55
+@-
+@-
+@NAVY + Coastal 32-40
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+61  Lithuania
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Lithuanian Armed Forces 1932-40
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Cavalry  	Cavalry Brigade
+> 
+> Lithuanian Armed Forces 1944-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-44
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 36-40
+@AIRF
+@ARMY + Corps 32-40
+@ARMY + Aviation 36-40
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY D Cavalry 32-40
+@ARMY
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 32-44
+@SPEC + Rail 36-40
+@SPEC + Guerrilla 40-41,44-55
+@SPEC + Paramilitary 32-44
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-44
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+62  Russian Liberation Army
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Russian Liberation Army 1942-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Brigade/Division
+> @ARMY D Cavalry 	Cossack/SS Cossack Division
+> @ARMY D Waffen SS	SS Brigade/Division
+>
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 44-55
+@AIRF
+@ARMY + Corps 43-55
+@ARMY + Aviation 43-55
+@ARMY
+@ARMY D Infantry 42-55
+@ARMY
+@ARMY D Cavalry 43-55
+@ARMY
+@ARMY D Waffen SS 44-55
+@ARMY + Special Forces 44-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 43-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+63  Communist Forces
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Communist Forces 1941-55
+> ------------------------------------------------------------------
+> @Albania (NLM)      	National Liberation Movement	
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@Albania (NLM) 41-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+64  Belarus
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Belarusian Armed Forces 1941-44(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY D Infantry 41-55
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 41-55
+@SPEC
+@SPEC + Guerrilla 44-55
+@SPEC + Paramilitary 41-55
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 41-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+65  Ukraine
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Ukrainian Armed Forces 1941-44(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Cavalry
+> #CLIM Snow		Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY D Infantry 41-55
+@ARMY
+@ARMY
+@ARMY + Mountain 41-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 41-55
+@SPEC
+@SPEC + Guerrilla 44-55
+@SPEC + Paramilitary 41-55
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 41-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+66  Indonesia
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Indonesian National Army 1945-49
+> ------------------------------------------------------------------
+> @ARMY D Infantry
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 45-49
+@AIRF
+@ARMY
+@ARMY + Aviation 45-49
+@ARMY
+@ARMY D Infantry 45-49
+@ARMY
+@ARMY
+@ARMY + Mountain 45-49
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Paramilitary 45-49
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 45-49
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+67  Chetniks
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Chetnik Armed Forces 1941-45(55)
+> ------------------------------------------------------------------
+> @ARMY  D Mountain	Chetnik Detachment
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY + Cavalry 41-55
+@ARMY D Mountain 41-55
+@ARMY
+@ARMY
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+68  Serbian State
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Government of National Salvation
+> (Puppet state of Germany)
+> 
+> Serbian Armed Forces 1941-45(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Serbian State Guard
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Cavalry
+> #CLIM Snow		Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY D Infantry 41-55
+@ARMY
+@ARMY
+@ARMY + Mountain 41-55
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Auxiliary 41-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 41-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+69  Peru
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Peruvian Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Light Infantry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Mounted, Cavalry
+> #CLIM Snow		Horse, Mounted, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Horse, Mounted, Cavalry
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY + Infantry 39-55
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF + Infantry 39-55
+@ARMY + Corps 32-55
+@ARMY + Aviation 32-55
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 32-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+70  Colombia
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> National Army of Colombia 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Horse, Cavalry
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY + Infantry 37-55
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 32-55
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY + Cavalry 32-55
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 32-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+71  Bolivia
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Bolivian Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Cavalry 	Cavalry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Horse, Cavalry
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 32-55
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY D Cavalry 32-55
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 32-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+72  Paraguay
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Paraguayan Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Cavalry 	Cavalry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Horse, Cavalry
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY + Infantry 32-55
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY + Aviation 32-55
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY D Cavalry 32-55
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 32-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+73  Ecuador
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Ecuadorian Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+>
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		Horse, Cavalry
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY + Corps 32-55
+@ARMY
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY + Cavalry 32-55
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 32-55
+@SPEC
+@SPEC + Paramilitary 32-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+74  India
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Indian Army 1947-55
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Armoured Division
+> @ARMY D Infantry 	Infantry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 47-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 47-55
+@AIRF
+@ARMY + Corps 47-55
+@ARMY
+@ARMY D Armoured  47-55
+@ARMY D Infantry 47-55
+@ARMY
+@ARMY
+@ARMY + Mountain 47-55
+@ARMY
+@ARMY + Special Forces 47-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 47-55
+@-
+@-
+@NAVY + Coastal 47-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+75  Pakistan
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Pakistan Army 1947-55
+> ------------------------------------------------------------------
+> @ARMY D Armoured 	Armoured Brigade
+> @ARMY D Infantry 	Infantry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 47-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 47-55
+@AIRF
+@ARMY + Corps 47-55
+@ARMY
+@ARMY D Armoured  47-55
+@ARMY D Infantry 47-55
+@ARMY
+@ARMY
+@ARMY + Mountain 47-55
+@ARMY
+@ARMY
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 47-55
+@-
+@-
+@NAVY + Coastal 47-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+76  Saudi Arabia
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Royal Saudi Forces 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Regular Forces
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Cavalry
+> #CLIM Snow		
+> #CLIM Desert		Camel, Cavalry, Tribal Levy
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 32-42
+@AIRF
+@ARMY
+@ARMY + Aviation 32-40
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Paramilitary 32-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+77  Kingdom of Yemen
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Royal Yemeni Forces 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Royal Guard
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Cavalry
+> #CLIM Snow		
+> #CLIM Desert		Camel, Cavalry, Tribal Levy
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Paramilitary 32-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+78  Viet Minh
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Viet Minh Forces 1941-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Heavy		Heavy Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY + Corps 45-50
+@ARMY
+@ARMY
+@ARMY D Infantry 45-55
+@ARMY
+@ARMY
+@ARMY
+@ARMY D Heavy 50-55
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Paramilitary 41-55
+@SPEC + Guerrilla 41-55
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 45-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+79  State of Vietnam
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Vietnamese National Army 1949-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Light		Light Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 49-55
+@NAVY
+@NAVY + Infantry 49-55
+@AIRF
+@AIRF
+@AIRF
+@ARMY + Corps 49-55
+@ARMY + Aviation 49-55
+@ARMY
+@ARMY D Infantry 49-55
+@ARMY
+@ARMY D Light 49-55
+@ARMY + Mountain 49-55
+@ARMY
+@ARMY + Special Forces 49-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 49-55
+@-
+@-
+@NAVY + Coastal 49-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+80  Ireland
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Irish Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Bicycle, Mounted
+> #CLIM Snow		Mounted
+> #CLIM Desert		
+> #CLIM Jungle		Bicycle
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 37-55
+@AIRF
+@ARMY + Corps 37-55
+@ARMY + Aviation 39-55
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Paramilitary 40-45
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 32-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+81  Kingdom of Egypt
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Egyptian Army 1932-53(55)
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Brigade
+> @ARMY D Motorized	Mobile Brigade
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		Camel
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 32-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 40-55
+@AIRF
+@ARMY + Corps 40-55
+@ARMY
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY D Motorized 40-55
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Paramilitary 32-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 40-55
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+82  Mexico
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Mexican Army 1932-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Brigade
+> @ARMY D Cavalry 	Cavalry Brigade
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse
+> #CLIM Snow		Horse
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 35-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 32-55
+@AIRF
+@ARMY + Corps 32-55
+@ARMY
+@ARMY
+@ARMY D Infantry 32-55
+@ARMY
+@ARMY D Cavalry 32-55
+@ARMY + Mountain 32-55
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 32-55
+@-
+@-
+@NAVY + Coastal 35-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+83 Communist Greece
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> ELAS/DSE 1942-49(55)
+> ------------------------------------------------------------------
+> @ARMY D Cavalry 	Cavalry Brigade
+> @ARMY D Mountain	Communist Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse, Cavalry
+> #CLIM Snow		Horse, Cavalry
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY + Corps 45-55
+@ARMY + Aviation 43-55
+@ARMY
+@ARMY
+@ARMY
+@ARMY D Cavalry 43-55
+@ARMY D Mountain 42-55
+@ARMY + Special Forces 43-55
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Guerrilla 42-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+84 Cuba
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Cuban Army 1933-55
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Brigade
+> @ARMY D Cavalry 	Cavalry Brigade
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse
+> #CLIM Snow		Horse
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 33-55
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 43-55
+@AIRF
+@ARMY + Corps 33-55
+@ARMY
+@ARMY
+@ARMY D Infantry 33-55
+@ARMY
+@ARMY D Cavalry 33-46
+@ARMY + Mountain 33-55
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC + Paramilitary 33-55
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 33-55
+@-
+@-
+@NAVY + Coastal 33-55
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+85 Warlord China
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> Chinese Warlord Armies 1920-34
+> ------------------------------------------------------------------
+> @ARMY D Infantry 	Infantry Division
+> @ARMY D Cavalry 	Cavalry Division
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+> 
+> @SPEC + Motorpool	Add to motorize non-motorized units. 
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		Horse
+> #CLIM Snow		Horse
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#Henan (Guominjun 1924-30)
+#Shaanxi (Guominjun 1924-30)
+#Hunan (Zhili clique 1920-28)
+#Anhui (Zhili clique 1920-28)
+#Guangxi (Guangxi clique 1911-49)
+#Guangdong (Warlords 1911-35)
+#Guizhou (Warlords 1920-35)
+#Shanxi (Shanxi clique 1911-49)
+#Sichuan (Sichuan clique 1912-38)
+#Yunnan (Yunnan clique 1911-49)
+#Muslims (Ma clique 1919-28)
+#Manchurian (Fengtian clique 1911-28)
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY + Naval 20-34
+@NAVY
+@NAVY
+@AIRF
+@AIRF + Aviation 20-34
+@AIRF
+@ARMY + Corps 20-34
+@ARMY
+@ARMY
+@ARMY D Infantry 20-34
+@ARMY
+@ARMY D Cavalry 20-34
+@ARMY + Mountain 20-34
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 20-34
+@SPEC
+@SPEC + Paramilitary 20-34
+@SPEC + Suicide 20-34
+@-
+@-
+@-
+@-
+@-
+@-
+@SPEC + Motorpool 20-34
+@-
+@-
+@NAVY + Coastal 20-34
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+86 Tibet
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> 
+> ------------------------------------------------------------------
+> @ARMY 
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY + Corps 25-56
+@ARMY
+@ARMY
+@ARMY D Infantry 25-56
+@ARMY
+@ARMY D Cavalry 25-56
+@ARMY
+@ARMY
+@ARMY
+@SPEC + Garrison/Security 25-56
+@SPEC
+@SPEC + Paramilitary 25-56
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+87 Empty
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> 
+> ------------------------------------------------------------------
+> @ARMY 
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+88 Empty
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> 
+> ------------------------------------------------------------------
+> @ARMY 
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+89 Empty
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> 
+> ------------------------------------------------------------------
+> @ARMY 
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+90 Empty
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> 
+> ------------------------------------------------------------------
+> @ARMY 
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+91 Empty
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> 
+> ------------------------------------------------------------------
+> @ARMY 
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+92 Empty
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> 
+> ------------------------------------------------------------------
+> @ARMY 
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+93 Empty
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> 
+> ------------------------------------------------------------------
+> @ARMY 
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+94 Empty
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> 
+> ------------------------------------------------------------------
+> @ARMY 
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+95 Empty
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> 
+> ------------------------------------------------------------------
+> @ARMY 
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+96 Empty
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> 
+> ------------------------------------------------------------------
+> @ARMY 
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+97 Empty
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> 
+> ------------------------------------------------------------------
+> @ARMY 
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+98 Empty
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> 
+> ------------------------------------------------------------------
+> @ARMY 
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!
+
+*-------------------------------------------------------------------
+99 German Empire
+*-------------------------------------------------------------------
+> ------------------------------------------------------------------
+> FACTIONS
+> ------------------------------------------------------------------
+>
+> 
+> ------------------------------------------------------------------
+> @ARMY 
+> 
+> Above are only the main FACTIONS (D) listed. For a normal scenario at least one main FACTIONS should be selected! With sub FACTIONS (+) additional units/transports can be added. A review of the selected F/F settings in OG is highly recommended!
+>
+> ------------------------------------------------------------------
+> FRONTS
+> ------------------------------------------------------------------
+> 
+> Season/climate dependent transport/units/equipment
+> ------------------------------------------------------------------
+> #CLIM Default		
+> #CLIM Snow		
+> #CLIM Desert		
+> #CLIM Jungle		
+*-------------------------------------------------------------------
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+
+@NAVY
+@NAVY
+@NAVY
+@NAVY
+@AIRF
+@AIRF
+@AIRF
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@ARMY
+@SPEC
+@SPEC
+@SPEC
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@NONE - No units available!

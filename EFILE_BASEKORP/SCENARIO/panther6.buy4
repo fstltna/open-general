@@ -1,0 +1,31 @@
+'---
+'Config purchase file for scenario: Panther6.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 20 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+ 131  '  Panther A  [ TK  Germany]  Cost: 1500
+ 133  '  Panther G  [ TK  Germany]  Cost: 1692
+3478  '  Stormtroops 42  [INF  Germany]  Cost: 660
+3479  '  Stormtroops 44  [INF  Germany]  Cost: 756
+3454  '  Stormtroops 43  [INF  Germany]  Cost: 852
+1255  '  SdKfz 251/9  [RCN  Germany]  Cost: 384
+3489  '  HQ 42  [RCN  Germany]  Cost: 540
+3492  '  HQ 44  [RCN  Germany]  Cost: 804
+  73  '  SdKfz 7/1  [FlaK  Germany]  Cost: 396
+1224  '  SdKfz 251/21  [FlaK  Germany]  Cost: 444
+  76  '  Wirbelwind  [FlaK  Germany]  Cost: 444
+  74  '  SdKfz 6/2  [ AD  Germany]  Cost: 420
+  68  '  Mobelwagen  [ AD  Germany]  Cost: 456
+  72  '  Ostwind  [ AD  Germany]  Cost: 564
+ 151  '  Pz IVH  [ TK  Germany]  Cost: 684
+ 152  '  Pz IVJ  [ TK  Germany]  Cost: 684
+
+#1    '  Item/s for Player2 follow...
+1850  '  Pe-3  [FTR  Russia]  Cost: 576
+ 698  '  YaK-7B  [FTR  Russia]  Cost: 684
+1847  '  P-39D Airacobra  [FTR  Russia]  Cost: 720
+ 697  '  YaK-1M  [FTR  Russia]  Cost: 720

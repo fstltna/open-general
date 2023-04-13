@@ -1,0 +1,147 @@
+The Assault
+FOREST
+Orlovka River
+ROUGH
+Railroad
+Volga River
+Ayevkur
+CLEAR
+Village
+Jersowka
+Ayevkur Airfield
+Pond
+Rynok
+Inlet
+STEEP HILL
+Mechetka River
+Sredne-Pogromnoye
+Stalingrad
+Spartakowka
+Srednaya Akhtuba
+Orlovka
+Wolzskij
+Gorodishche
+STREAM
+SWAMP
+Destroyed Bridge
+Gumrak Airfield
+Alexejevka
+Ushkovka
+RUBBLE
+Pestsjanka
+Dubov
+Yelshanka
+Minina
+Kov
+Kuporosnoye
+Temp. Airfield
+Svetlyy Yar
+267/94/4P
+13E/14P/4P
+577/305/6
+578/305/6
+89/24P/4P
+178/76/6
+51/4PH/4P
+29/29M/4P
+29/24P/4P
+24P/24P/4P
+3Ft/4AF
+ 3SB/4AF
+Dora
+17/29M/4P
+2Ft/4AF
+2TB/4AF
+6H/SSG/6
+II/100
+191/71/6
+276/94/6
+305/305/6
+64F/16P/6
+389E/389/6
+2P/14P/6
+160/60M/6
+12/60M/6
+517/295/6
+II/100
+276/94/6
+2P/14P/6
+II/100
+2P/14P/6
+1TB/4AF
+1Ft/4AF
+40/14P/4P
+178/76/6
+89/-/62
+13T/13/62
+1077/-/62
+257/45/62
+385/112/62
+416/112/62
+524/112/62
+685/193/62
+883/193/62
+1003/-/62
+270/10/62
+271/10/62
+100/35G/62
+101/35G/62
+102/35G/62
+308/308/62
+189T/23/62
+19/-/62
+1087/-/62
+2/2/62
+13/13G/62
+162/-/62
+106/29/64
+895/193/62
+32/13G/62
+87/39G/62
+419/39G/62
+38M/13/62
+77/29/64
+26T/2/62
+13/13/62
+186/-/62
+1Ft/16AA
+2Ft/8AA
+106/29/64
+2Ft/16AA
+524/112/62
+29/38/64
+883/193/62
+101/62H/62
+100/35G/62
+419/39G/62
+106/29/64
+Volga Fleet
+92nd Infantry Brig.
+92nd Infantry Brig.
+101/62H/62
+Home Guard
+102/35G/62
+32/13G/62
+883/193/62
+101/62H/62
+89/-/62
+101/62H/62
+186/-/62
+307/-/62
+Volga Fleet
+128/29/64
+178/45/62
+6T/23/62
+508/-/62
+120/39G/62
+32/13G/62
+85/-/62
+13T/13/62
+106/29/64
+101/62H/62
+10/45/62
+128/29/64
+106/29/64
+883/193/62
+13T/13/62
+128/29/64

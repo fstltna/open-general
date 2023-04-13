@@ -1,0 +1,3 @@
+Commander, your efforts have been valiant. You have saved the lives of many of your countrymen. These efforts may not be enough to save yourself. Most of the troops on Bataan have surrendered to the Japanese and are even now enjoying a long march in the Philippine sun. MacArthur has left for Australia and now there is talk of surrender among the remaining commanders. In an effort to relieve the situation, Washington feels it is necessary to withdraw as many troops as possible before surrender.
+
+Objective: In order to win you need to exit 12 units. If MacArthur is killed you lose the scenario.

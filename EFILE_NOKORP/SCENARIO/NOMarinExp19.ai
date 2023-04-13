@@ -1,0 +1,11 @@
+'---
+'Config AI file for scenario: NOMarinExp19.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=3 items  ' Replacement for default list
+1714  '  Sherman Firefly  [ TK  Canada]  Cost: 1104
+2233  '  Sherman IV  [ TK  Canada]  Cost: 576
+5654  '  Armored Infantry 44  [INF  Canada]  Cost: 768

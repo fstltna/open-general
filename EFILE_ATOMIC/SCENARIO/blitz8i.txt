@@ -1,0 +1,13 @@
+SITUATION:
+
+Mainland Greece is under control, but the greek islands still need to be captured. Herr General, you and your men have been selected to invade the island of Crete by air and sea. Experienced paratroopers and an italian fleet will assist you in this operation. Codename: Merkur.
+
+ORDERS: 
+
+Take all VHs in 14/18/22 turns for a BV/V/TV.
+
+NOTES:
+
+There are 4 air and 4 naval transports available.
+
+Two submarines in the southwest are patrolling the southern coast of Crete and await your orders.

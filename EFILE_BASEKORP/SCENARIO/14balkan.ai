@@ -1,0 +1,64 @@
+'---
+'Config AI file for scenario: 14Balkan.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=0 
+$buy_newair=30 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3  
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2  
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=46 items  ' Replacement for default list
+ 588  '  150mm M.37  [ATY  Yugoslavia]  Cost: 744
+ 640  '  35 Engineer  [INF  Yugoslavia]  Cost: 288
+ 794  '  37mm M.37  [ AT  Yugoslavia]  Cost: 72
+ 795  '  75mm M.28  [ATY  Yugoslavia]  Cost: 276
+ 797  '  Konjica  [INF  Yugoslavia]  Cost: 120
+ 799  '  R35  [ TK  Yugoslavia]  Cost: 276
+ 800  '  IK-2  [FTR  Yugoslavia]  Cost: 444
+ 917  '  Hurricane IA  [FTR  Yugoslavia]  Cost: 468
+ 938  '  105mm M.13  [ATY  Yugoslavia]  Cost: 240
+ 945  '  Blenheim I  [ TB  Yugoslavia]  Cost: 504
+ 967  '  39 Brdska Pesadija  [INF  Yugoslavia]  Cost: 264
+1865  '  7.92mm M.14  [FlaK  Yugoslavia]  Cost: 36
+1866  '  20mm M.38  [FlaK  Yugoslavia]  Cost: 60
+1869  '  37mm M.17  [ AT  Yugoslavia]  Cost: 72
+1870  '  47mm M.36  [ AT  Yugoslavia]  Cost: 84
+1871  '  T-32  [ AT  Yugoslavia]  Cost: 144
+1872  '  81mm mortar  [ATY  Yugoslavia]  Cost: 180
+1874  '  100mm M.14/19  [ATY  Yugoslavia]  Cost: 192
+1875  '  100mm M.16/19  [ATY  Yugoslavia]  Cost: 312
+1876  '  105mm M.35  [ATY  Yugoslavia]  Cost: 468
+1877  '  120mm M.11  [ATY  Yugoslavia]  Cost: 228
+1878  '  150mm M.14  [ATY  Yugoslavia]  Cost: 444
+1879  '  155mm M.17  [ATY  Yugoslavia]  Cost: 744
+1880  '  MG  [FlaK  Yugoslavia]  Cost: 96
+1881  '  Kraljevska Garda  [INF  Yugoslavia]  Cost: 180
+1883  '  Bicycle Recon  [RCN  Yugoslavia]  Cost: 144
+1886  '  IK-3  [FTR  Yugoslavia]  Cost: 516
+1887  '  Fury II  [FTR  Yugoslavia]  Cost: 312
+1888  '  Ca 310  [ TB  Yugoslavia]  Cost: 396
+1890  '  Do 17K  [ TB  Yugoslavia]  Cost: 564
+1891  '  Bre.19  [ TB  Yugoslavia]  Cost: 384
+3009  '  40 Cetnicka Komanda  [INF  Yugoslavia]  Cost: 276
+3011  '  40 Planinska Pesadija  [INF  Yugoslavia]  Cost: 216
+3374  '  76.5mm M.05/08  [ATY  Yugoslavia]  Cost: 144
+3375  '  76.5mm M.28  [ATY  Yugoslavia]  Cost: 180
+5660  '  47mm M.40  [ AT  Yugoslavia]  Cost: 84
+5663  '  41 Mitraljesci  [FlaK  Yugoslavia]  Cost: 96
+5668  '  75mm M.15  [ATY  Yugoslavia]  Cost: 276
+5669  '  75mm M.3  [ATY  Yugoslavia]  Cost: 132
+5670  '  75mm M.12  [ATY  Yugoslavia]  Cost: 168
+5671  '  100mm M.28  [ATY  Yugoslavia]  Cost: 228
+5673  '  305mm M.11/16  [ATY  Yugoslavia]  Cost: 1608
+5674  '  220mm M.28  [ATY  Yugoslavia]  Cost: 1200
+5675  '  105mm M.13  [ATY  Yugoslavia]  Cost: 240
+5676  '  150mm M.28  [ATY  Yugoslavia]  Cost: 1200
+5679  '  41 Konjicki Izvidjaci  [RCN  Yugoslavia]  Cost: 120

@@ -1,0 +1,193 @@
+The Donets Basin
+36/14P/4P
+129/29M/4P
+129E/29M/4P
+1Ft/4AF
+2Ft/4AF
+1TB/4AF
+4H/4K/4P
+2/16P/6
+2/16P/6
+29/29M/4P
+14/14K/6A
+14K/14K/6
+160/60M/6
+295/295/6
+389/389/6
+16/14P/6
+29/29M/4P
+194/94/4P
+16/16P/6
+14/14K/6
+29/29M/4P
+16/16P/6
+14K/14K/6
+554/389/6
+555/389/6
+12/60M/6
+556/389/6
+517/295/6
+518/295/6
+267/94/6
+274/94/6
+276/94/6
+26/60/6
+15/29/4P
+26/2/62
+27/2/62
+508/62H/62
+186/62H/62
+1/-/62
+34/13G/62
+39/13G/62
+42/13G/62
+416/-/62
+1Ft/8AA
+2Ft/8AA
+1TB/8AA
+1077/-/62
+1078/-/62
+272/10/62
+269/10/62
+244/10/62
+13/244/62
+10/10/62
+13/244/6
+112/112/62
+308/308/62
+124/124/62
+27/27/62
+49/149/6
+193/193/62
+895/193/62
+114/37G/62
+85/193/62
+4/-/62
+1348/399/62
+1349/399/62
+1343/399/62
+6/6G/62
+397/62H/62
+38/38M/62
+6/6G/62
+38/38M/62
+15/29M/4P
+36/14P/4P
+4/14P/4P
+40/14P/4P
+13/14P/4P
+103M/14P/4P
+6/23/62
+50/62H/62
+57/62H/62
+85/62H/62
+189/23/62
+510/-/5T
+77/29/64
+1087/-/62
+106/29/64
+108/29/64
+108/36G/64
+302/29/64
+106/36G/64
+384/157/64
+104/36G/64
+112/39/62
+117/39/62
+1Ft/9AA
+129/29M/4P
+4/4T/5T
+4/4T/5T
+4/4T/5T
+4/4T/5T
+4E/4T/5T
+29/29M/4P
+Donest River
+Rossosh
+Rossosh
+Rossosh
+Donest River
+Rossosh
+Donest River
+Donest River
+Khereshonye
+Bochkovko
+Donest River
+Khuralevka
+Village
+Nekhoteyevka
+Donest River
+Stronghold
+Murom
+Stronghold
+Stronghold
+Murom
+Don River
+Donest River
+Morokboyets
+Pyatuitsa
+Donest River
+Don River
+Borschevoye
+Muravlevo
+Donest River
+Borschevoye
+Don River
+Donskaya
+Borschevoye
+Puk'yantsy
+Don River
+Donest River
+Borschevoye
+Borschevoye
+Varvarovka
+Donest River
+Borschevoye
+Don River
+Dergachi
+Borschevoye
+Bayrak
+Donest River
+Borschevoye
+Don River
+Donest River
+Borschevoye
+Bolbadka
+Donest River
+Vasaloys
+Kalitva River
+Donest River
+Peschanoye
+Molodovoye
+Kalitva River
+Donest River
+Voroshilograd
+Voroshilograd
+Bolbadka
+Kalitva River
+Khotomlya
+Voroshilograd
+Svechenko
+Voroshilograd
+Privol'noye
+Kalitva River
+Voroshilograd
+Voroshilograd
+Voroshilograd
+Svechenko
+Donest River
+Voroshilograd
+Millerovo
+Millerovo
+Kalitva River
+Donest River
+Kaliyva River
+Svechenko Airfield
+Donskaya Airfield
+Muravlevo Airfield
+Railroad
+Forward Base
+Disrupted Airfield
+ROUGH
+CLEAR
+FOREST

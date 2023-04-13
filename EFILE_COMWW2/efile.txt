@@ -1,0 +1,6 @@
+* This is an Efile description file
+* Please don't change the number and order of the lines.
+<title>OpenComposite
+<description>Composite adapted for Open General.
+<version>1.02F
+<author>MG43

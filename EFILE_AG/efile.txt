@@ -1,0 +1,8 @@
+* This is an Efile description file
+* Please don't change the number and order of the lines.
+<title>Antique General
+<description>Historical and fictional Battlefields of the Antique
+<version>3.4."Britannia"
+<author>S. de Mont Tonnerre
+<author>M. Kessler
+<url>http://antique-general.jimdo.com/

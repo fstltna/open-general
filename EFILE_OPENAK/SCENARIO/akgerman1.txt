@@ -1,0 +1,15 @@
+Open AK Blitzkrieg
+
+The original SSI Blitzkrieg campaign modified for the Open AK efile
+
+German Campaign 1938-????
+
+You take command from the civil war in Spain, to the "lightning" victories of early World War II and beyond.
+
+Author:  SSI, conversion to AK 4000 by Kristjan Ambroz, "Openized" by Owen Stairs a.k.a. Llewen
+
+Version:  1.0
+
+Notes:  The intent is to take the original classic SSI Blitzkrieg campaign and add as many of the new features of Open General as possible, as well as making it playable with the excellent high cost Open AK efile.  Hopefully some of the flavour of the original classic campaign has been preserved while making the game play more interesting, varied, and challenging.  I would love to have done a great deal of research and made the whole campaign more realistic in terms of unit choices and names, but I'm afraid that at this time I am not prepared to put that kind of effort forward.  Maybe for some future version I will do so.
+
+Please feel free to offer any feedback on the Open General forums at http://forum.open-general.com, or you can email me directly at olstairs@rogers.com.

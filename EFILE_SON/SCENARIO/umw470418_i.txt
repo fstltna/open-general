@@ -1,0 +1,13 @@
+Battle of Cerro Gordo
+April 18,1847
+
+* Intro text *
+
+Deploy Hexes: 16
+
+ORDER: Take all VHs and keep your MSU alive.
+
+NOTE: You are awarded by an Artillery detachment.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

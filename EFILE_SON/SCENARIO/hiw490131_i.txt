@@ -1,0 +1,10 @@
+Tokaj,
+January 31, 1849
+
+General Schlik, the Napoleonic war veteran captured Kassa and his corps is marching toward the River Tisza. This maneuver threatens the new provisional capital, Debrecen, and also the imperials can encircle the 7th Corps commanded by General Görgei. Colonel, you must hold Tokaj bridgehead over the River Tisza and push back Schlik’s troops!
+
+Deploy Hexes: 20
+
+ORDER: Take all VHs.
+
+scenario designer: Csaba (lvjtn)

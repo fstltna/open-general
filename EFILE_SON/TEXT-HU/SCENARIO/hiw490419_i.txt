@@ -1,0 +1,10 @@
+Nagysalló
+1849. IV. 19.
+
+Tábornok polgártárs! A debreceni országgyûlés kimondta hazánk függetlenségét és a Habsburg-ház trónfosztását! A császáriak tartalékhadteste a Garam mögött gyülekezik. Verje meg õket és nyisson utat a négy hónapja ostromlott Komárom felé.
+
+Elhelyezhetõ egység: 21
+
+KÜLDETÉS: Foglald el az összes gyõzelmi pontot.
+
+JAVASLAT: Vedd számításba, hogy a csata végén az egységek készletei nem pótlódnak automatikusan és nem lesz lehetõséged új egységet venni.

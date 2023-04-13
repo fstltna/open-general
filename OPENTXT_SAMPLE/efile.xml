@@ -1,0 +1,9 @@
+<?xml-stylesheet type='text/xsl' href='http://opengeneral.sourceforge.net/efile.xsl'?>
+<efile>
+	<title>Insert the full title of your Efile here.</title>
+	<description>Give a short description of your Efile, e.g. the covered period, nations, conflicts. If your Efile is a fork of another Efile, give the credits here (e.g. "It's a fork of XYZ Efile")</description>
+	<version>Put the version number here, and don't forget to update it everytime you update your equipment file</version>
+	<author>Give your name or nickname used on JP or both, as you prefer. If more people contribute, the "author" element can be repeated several times.</author>
+	<url>This field is optional, give the URL of your personal homepage related to this Efile. If you want to skip this field, please remove the "[url][/url]" element and add a single empty tag: "[url/]" instead (just replace the box brackets by angle brackets).</url>
+	<license>Give the term of usage, share, copy, edit and credit of the Efile (campaigns should have their own licenses). You can apply existing templates like Creative Commons licenses.</license>
+</efile>

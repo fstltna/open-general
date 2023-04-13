@@ -1,0 +1,11 @@
+Choice Scenario
+We want avoid large troop movements for our big offensives, so we have decided that an army stays in the region, whrere it is deployed. You have to come to a decision, where you want to fight. You have three options:
+You can fight against the Heeresgruppe North:
+This is the easiest and shortest path. You will attack the Germans at Leningrad and will follow them to Courland.
+You can fight against the Heeresgruppe Mitte:
+This can be tough, because you will have the option to fight against west allied troops. Otherwise this path will lead you to Berlin.
+You can fight against the Heeresgruppe South:
+This path contains several scenarios. You will first attack the Kuban-Bridgehead and push the Germans through Romania and Hungary to Prague, where this path will end.
+Please notice: After the battles in Europe two of the three paths will have an additional scenario in asia.
+What is your choice?
+Sgn. Major Heinz

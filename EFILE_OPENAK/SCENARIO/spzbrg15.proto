@@ -1,0 +1,39 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  81  '  PzJag Tiger(P)  [ AT  Deutschland]  Cost: 1116
+  87  '  Marder 38T H  [ AT  Deutschland]  Cost: 348
+  88  '  PzJag IV  [ AT  Deutschland]  Cost: 552
+  91  '  Sturmgeschutz IIIG  [ AT  Deutschland]  Cost: 492
+ 119  '  sPzSpWg (7,5)  [RCN  Deutschland]  Cost: 408
+ 132  '  Pz Panther D  [ TK  Deutschland]  Cost: 1092
+ 151  '  Pz IVH  [ TK  Deutschland]  Cost: 888
+ 171  '  Fw 190G-1  [ TB  Deutschland]  Cost: 1152
+ 172  '  Hs 129B-2/R2  [ TB  Deutschland]  Cost: 1128
+ 175  '  Ju 87G-2  [ TB  Deutschland]  Cost: 984
+ 603  '  21 NbWf42  [ATY  Deutschland]  Cost: 756
+ 604  '  30 NbWf42  [ATY  Deutschland]  Cost: 588
+ 605  '  15 PzWerf42  [ATY  Deutschland]  Cost: 528
+ 729  '  leSPW (2)  [RCN  Deutschland]  Cost: 360
+ 730  '  leSPW (3,7)  [RCN  Deutschland]  Cost: 360
+ 991  '  Sturmpanzer  [ AT  Deutschland]  Cost: 696
+1228  '  mFlammPzWg  [ AT  Deutschland]  Cost: 228
+1231  '  Marder 38T M  [ AT  Deutschland]  Cost: 336
+1255  '  leSPW (7,5)  [RCN  Deutschland]  Cost: 480
+1262  '  Pz III(F)  [ TK  Deutschland]  Cost: 504
+1271  '  Bf 109G-6  [FTR  Deutschland]  Cost: 1092
+1285  '  He 177A-5/R2  [ LB  Deutschland]  Cost: 1104
+3416  '  43 Pioniere  [INF  Deutschland]  Cost: 492
+3477  '  43 Kosaken  [INF  Deutschland]  Cost: 252
+3481  '  43 Pzpioniere  [INF  Deutschland]  Cost: 504
+4337  '  Ju 88P-1  [ TB  Deutschland]  Cost: 1188
+4552  '  Fw 190G-8  [ TB  Deutschland]  Cost: 1200
+4558  '  Ju 87D-5  [ TB  Deutschland]  Cost: 984
+4562  '  Bf 109G-6/R2  [ TB  Deutschland]  Cost: 1116
+4746  '  Bf 109G-8/R5  [ TB  Deutschland]  Cost: 984
+4978  '  He 111H-16  [ TB  Deutschland]  Cost: 1020
+5056  '  Bf 109G-6/Trop  [FTR  Deutschland]  Cost: 1128
+5072  '  Ju 87D-3  [ TB  Deutschland]  Cost: 840

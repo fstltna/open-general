@@ -1,0 +1,20 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  48  '  QF 2pdr MkII 'Pom-Pom'  [ AD  British Empire]  Cost: 264
+ 118  '  Vickers F.B.5 Gunbus  [FTR  British Empire]  Cost: 444
+ 308  '  Austin Mk II  [RCN  British Empire]  Cost: 444
+ 432  '  .303 Hotchkiss  [FlaK  British Empire]  Cost: 216
+ 611  '  3" Stokes MkI  [ATY  British Empire]  Cost: 360
+1169  '  4" Mrt 15  [ATY  British Empire]  Cost: 252
+1172  '  QF 18pdr MkII  [ATY  British Empire]  Cost: 300
+1175  '  9.45" Heavy Mrt  [ATY  British Empire]  Cost: 372
+1184  '  QF 13pdr 9cwt  [ AD  British Empire]  Cost: 480
+1185  '  QF 2pdr MkII/Pierce-Arrow  [ AD  British Empire]  Cost: 504
+1213  '  Voisin III LA  [ TB  British Empire]  Cost: 552
+1234  '  Morane-Saulnier L  [ TB  British Empire]  Cost: 456
+3394  '  Royal Marine 15  [INF  British Empire]  Cost: 132
+3613  '  Caudron G.3  [ TB  British Empire]  Cost: 444

@@ -1,0 +1,70 @@
+'---
+'Config AI file for scenario: bk45.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=62 items  ' Replacement for default list
+  26  '  M16  [FlaK  France]  Cost: 348
+  28  '  90mm mle40  [ AD  France]  Cost: 384
+  29  '  M10  [ AT  France]  Cost: 648
+  33  '  M7  [ATY  France]  Cost: 660
+  40  '  44 Infanterie  [INF  France]  Cost: 168
+  41  '  M8  [RCN  France]  Cost: 288
+  43  '  Dunkerque BB  [sBS  France]  Cost: 1404
+  44  '  Richelieu BB  [sBS  France]  Cost: 1668
+  45  '  Suffren CA  [sBS  France]  Cost: 792
+  46  '  La Galissonniere LC  [sBS  France]  Cost: 540
+  47  '  Le Fantasque DD  [sDD  France]  Cost: 324
+  50  '  M5A1  [RCN  France]  Cost: 420
+  51  '  M4A2  [ TK  France]  Cost: 564
+  57  '  M3A1  [TPT  France]  Cost: 264
+ 545  '  Transport  [NTP  France]  Cost: 60
+ 666  '  105mm C mle35  [ATY  France]  Cost: 276
+ 667  '  44 Tirailleurs  [INF  France]  Cost: 300
+ 930  '  75mm C mle97/35 AC  [ AT  France]  Cost: 96
+1167  '  40mm mle36  [ AD  France]  Cost: 144
+1169  '  6pdr I  [ AT  France]  Cost: 120
+1170  '  C-47  [ATP  France]  Cost: 348
+1178  '  81mm mortar  [ATY  France]  Cost: 192
+1179  '  155mm C mle28  [ATY  France]  Cost: 804
+1180  '  155mm C mle41  [ATY  France]  Cost: 612
+1181  '  75mm M mle27  [ATY  France]  Cost: 288
+1188  '  43 Chocs  [INF  France]  Cost: 576
+1192  '  M3A1  [RCN  France]  Cost: 192
+1196  '  P-38F  [FTR  France]  Cost: 900
+1197  '  P-47D  [FTR  France]  Cost: 972
+1216  '  Jaguar DD  [sDD  France]  Cost: 264
+1217  '  Duguay-Trouin LC  [sBS  France]  Cost: 444
+1218  '  Emile Berten LC  [sBS  France]  Cost: 396
+1219  '  Algerie CA  [sBS  France]  Cost: 840
+1220  '  Bearn CV  [sCV  France]  Cost: 576
+1918  '  B-25D  [ TB  France]  Cost: 552
+1920  '  P-39Q  [ TB  France]  Cost: 936
+2825  '  M3 GMC  [ AT  France]  Cost: 192
+2826  '  M8  [ATY  France]  Cost: 480
+2827  '  44 Legionnaire  [INF  France]  Cost: 204
+2833  '  Baltimore  [ TB  France]  Cost: 504
+2834  '  Boston  [ TB  France]  Cost: 840
+2839  '  GMC 2.5t  [TPT  France]  Cost: 84
+2840  '  Mack 7.5t  [TPT  France]  Cost: 96
+2843  '  M3A1  [TPT  France]  Cost: 264
+2844  '  Jeep  [TPT  France]  Cost: 108
+2852  '  Mules  [TPT  France]  Cost: 12
+2854  '  T214  [TPT  France]  Cost: 84
+2858  '  43 Infanterie Mecanisee  [INF  France]  Cost: 336
+2863  '  44 Sapeur  [INF  France]  Cost: 432
+3161  '  VTB 3 MTB  [sDD  France]  Cost: 168
+3162  '  Elan AM  [sDD  France]  Cost: 180
+3163  '  La Melpomene TB  [sDD  France]  Cost: 132
+3185  '  Bretagne BB  [sBS  France]  Cost: 1368
+3304  '  43 Paratrooper  [INF  France]  Cost: 348
+3954  '  43 Tirailleurs Montagnards  [INF  France]  Cost: 372
+3957  '  43 Pontonniers  [INF  France]  Cost: 216
+3959  '  44 Infanterie de l'Air  [INF  France]  Cost: 444
+5432  '  B.26B  [ TB  France]  Cost: 1200
+5435  '  Spitfire IX  [FTR  France]  Cost: 1116
+5513  '  M12  [ATY  France]  Cost: 972
+5582  '  Jaguar DD  [sDD  France]  Cost: 228
+5815  '  Train  [RTP  France]  Cost: 120

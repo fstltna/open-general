@@ -1,0 +1,11 @@
+Combat at Neubrandenburg
+August 22, 1761
+
+General Belling ordered the Prussian infantry to take position on the hill overlooking the battlefield. The Swedish cavalry passed them and began to form to launch an attack on the Prussian wings. Belling lured the Swedes to charge by sending marauding infantry who feigned a retreat. Seeing this, the Swedish cavalry advanced against the infantry. At close range, hidden Prussian infantry and artillery suddenly opened fire on the advancing cavalry. This salvo was the signal for the Prussian cavalry to charge the disordered Swedish troops.
+
+Deploy Hexes: 21
+
+ORDER: Take all VHs, and keep your MSU alive.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

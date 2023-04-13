@@ -1,0 +1,33 @@
+1927-43 LEGIONE DI COMBATTIMENTO NAVALE
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Comandante, you have been selected to take command of a small force of combined armes and ships to carry out special missions, naval battles and sea- and airborne landing operations on the islands and shores of the Mediterranean Sea in this semi-fictional campaign. Please read the rules and settings below.
+
+Campaign Version: March 2021
+Campaign Difficulty: Easy
+Core Country: Italy
+Number of Scenarios: 15
+AI Version: 2.0
+Campaign Designer: randowe
+
+Notes and Rules:
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+- Reloading is not allowed!
+- No protos.
+- No prestige cap.
+- Free refit mode.
+- Slow experience gain.
+- Sometimes you have to build airfields.
+- Campaign is balanced for a prestige level of 100%/100%.
+- Please read the scenario briefings and turn messages careful. They will provide hints and useful informations about the rules and settings and upcomming events.
+- There is no prestige for refits during a scenario! This is due to technical reasons: players would save the prestige which is intended for refits and upgrade units instead.
+- Check README folder for scenario and map lists.
+
+Campaign's Level of Difficulty
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+The above mentioned level of difficulty is determind the following way:
+
+A random player of average skill who does not know the campaign and plays it without a single reload may think that the campaign is easy or medium or hard to play. 
+Of course there are many things that have to be taken into consideration to determine the difficulty of a certain campaign and different players may experience the level of difficulty differently, so the stated level of difficulty should just be taken as a rough information whether a campaign is easy, medium or hard to play.
+
+----------
+all pictures taken from Wikipedia/Wikimedia

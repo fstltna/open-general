@@ -1,0 +1,16 @@
+SITUATION:
+
+The Allies have been thrown off the continent. Bravo! 
+But while you were driving the Allies into the sea, the Bolsheviks treacherously broke our peace treaty and invaded our allied territories in Eastern Europe. With the bulk of our forces involved on the Western Front and in Afrika they have been able to pollute the sacred soil of the Fatherland and penetrate almost to Berlin! You MUST stop them immediately.
+
+ORDERS: 
+
+Build a defensive perimeter around Berlin and at selected strong points.
+
+Hold 12/8/5 of 14 VHs after 18 turns for a BV/V/TV.
+
+NOTES:
+
+3 Train and 3 Air Transports are available.
+
+The Berlin field hospital works as a healer and supply unit.

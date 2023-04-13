@@ -1,0 +1,38 @@
+1942 Einnahme von Bogor [PL 3.2]
+Depok
+Parung
+Cibinong
+Cipanas
+Raulian/Leuwiliang
+Dorf
+Bogor/Buitenzorg
+Flugplatz Bogor
+Ciawi
+Cisarua
+Cibadak
+Sukabumi
+Flugplatz Sukabumi
+Pelabuanratu
+Flugplatz Pelabuanratu
+Cikembar
+Hafen von Pelabuanratu: HAFEN
+14.KNIL Infanterie-Bataillon
+15.KNIL Infanterie-Bataillon
+1.KNIL Kavallerieeinheit
+10.KNIL Infanterie-Bataillon
+2.Abteilung der Feldartillerie
+Pionierzug
+230 R/Shoji Abteilung
+Shoji Abteilung
+4 R/ 2 ID/Fukushima Abteilung
+2 C/ 2 ID/Fukushima Abteilung
+5 Bn/ 2 ID/Fukushima Abteilung
+2 Bn/ 2 ID/Fukushima Abteilung
+29 R/2 ID/Sato Abteilung
+2 eR/2 ID/Sato Abteilung
+2 R/Sato Abteilung
+2 Art. R/2 ID/Sato Abteilung
+Schwarzer Verband
+232  Geschwader
+59.Sentai
+90.Sentai

@@ -1,0 +1,36 @@
+'---
+'Config purchase file for scenario: kuk11cav13.xscn
+'* List of items to purchase all active players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=28 items  ' Replacement for default list
+  95  '  8mm Schwarzlose M07/12  [FlaK  Austro-Hungarian Empire]  Cost: 192
+ 200  '  Brückenpioniere 09  [INF  Austro-Hungarian Empire]  Cost: 228
+ 366  '  Pferdewagen  [TPT  Austro-Hungarian Empire]  Cost: 36
+ 420  '  Kaiserjäger 09  [INF  Austro-Hungarian Empire]  Cost: 288
+ 487  '  7,5cm Skoda GebG M15  [ATY  Austro-Hungarian Empire]  Cost: 384
+ 490  '  8cm Skoda (ber. Art.)  [ATY  Austro-Hungarian Empire]  Cost: 492
+ 660  '  Wagen  [TPT  Austro-Hungarian Empire]  Cost: 36
+ 718  '  7,92mm MG 08  [FlaK  Austro-Hungarian Empire]  Cost: 204
+ 950  '  8mm Schwarzlose M07/12  [ AD  Austro-Hungarian Empire]  Cost: 144
+1077  '  14cm MinenWrf M16  [ATY  Austro-Hungarian Empire]  Cost: 216
+1080  '  26cm MinenWrf M17  [ATY  Austro-Hungarian Empire]  Cost: 324
+1084  '  10cm Skoda GebH M16  [ATY  Austro-Hungarian Empire]  Cost: 420
+1085  '  10cm Skoda (ber. Art.)  [ATY  Austro-Hungarian Empire]  Cost: 516
+1915  '  Sappeure 09  [INF  Austro-Hungarian Empire]  Cost: 264
+1917  '  Honvéd 17  [INF  Austro-Hungarian Empire]  Cost: 72
+2156  '  sPferdewagen  [TPT  Austro-Hungarian Empire]  Cost: 24
+2209  '  Maultiere 09  [TPT  Austro-Hungarian Empire]  Cost: 60
+2215  '  Fahrräder  [TPT  Austro-Hungarian Empire]  Cost: 48
+2342  '  Kavallerie 09  [TPT  Austro-Hungarian Empire]  Cost: 84
+2846  '  7cm GebG M99  [ATY  Austro-Hungarian Empire]  Cost: 300
+2877  '  Granatenwerfer M16  [ATY  Austro-Hungarian Empire]  Cost: 360
+2878  '  9cm Minenwrf Lanz  [ATY  Austro-Hungarian Empire]  Cost: 180
+2879  '  22,5cm Minenwrf M15  [ATY  Austro-Hungarian Empire]  Cost: 384
+2892  '  Feldkommando 09  [INF  Austro-Hungarian Empire]  Cost: 252
+3470  '  lePferdewagen  [TPT  Austro-Hungarian Empire]  Cost: 36
+3493  '  Huszaren 15  [RCN  Austro-Hungarian Empire]  Cost: 264
+3495  '  Kavallerie Spaeher 15  [RCN  Austro-Hungarian Empire]  Cost: 120
+3508  '  Grenzjäger  [INF  Austro-Hungarian Empire]  Cost: 120

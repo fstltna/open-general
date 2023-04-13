@@ -1,0 +1,10 @@
+Battle of Leuthen
+December 5, 1757
+
+While Frederick the Great was campaigning out in central Germany defeating a combined Franco-Imperial army at the Battle of Roﬂbach, the Austrians had managed to slowly retake Silesia. He arrived near Leuthen to find an army that was twice his size. He realized that he must either win a great victory or suffer a horrible defeat.
+
+Deploy Hexes: 17
+
+ORDER: Take all VHs and keep your MSU alive.
+
+scenario designer: Csaba (lvjtn)

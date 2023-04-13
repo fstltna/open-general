@@ -1,0 +1,22 @@
+The Cause crusaders
+
+Mini carlist campaign, 1.872-1.87???
+
+Made by Urica, 2013
+
+1. Requirements for playing:
+
+- The latest version of OpenGen
+- The latest version of Kaiser efile General
+- The 8 following maps:
+Bilbao 1874 (1096), Eraul (1094), Estella (1098), Guadalajara (780), Montejurra (1095), Prut River (728), Santander 1874 (1097), Segre (808)
+
+2. Mini campaign information:
+
+There are 10 scenarios in total. The first four are linear. In Bilbao a TV or a defeat will lead to a historical path of three scenarios, ending in a Carlist defeat. A V or a BV will take you to a fictional path, also with three scenarios, ending in a Carlist victory. Any loss in the fictional path will take you to the historical one.
+
+3. Acknowledgements:
+
+To Luis Guzman and Juan Calos Preciado, without whom neither the game OpenGen nor the efile KG would be possible.
+To Paqueo, Guille, Pzmaniac and JML, for testing this campaign and making more suggestions to improve it than I can remember.
+

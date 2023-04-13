@@ -1,0 +1,20 @@
+Magersfontein
+
+December 11th, 1899
+
+The British have spent almost two weeks recovering from the losses they suffered while crossing the Modder River. They have received reinforcements, too: a Scottish brigade, more artillery, and some extra cavalry. 
+But we haven't spent this time just sitting on our hands. We have built an impressive line of trenches at Magersfontein, which will help you on your mission. Now use your skills and hold the line. The Kakies must not pass.The Kakies will not pass.
+
+Victory conditions:
+-After 9 turns you must hold 3 VHs for a BV, 2 VHs for a V and 1 VH for a TacV.
+- Your MSU core unit must survive.
+
+
+
+
+
+
+
+
+
+

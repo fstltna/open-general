@@ -1,0 +1,92 @@
+1945 Back to Rangoon
+Rangoon
+Moulmein
+Prome
+Toungoo
+Magwe
+Yenangyaung
+Meiktila
+Akyab
+Jungle
+Irrawady River
+Sittang River
+Salween River
+Pyapon
+Bogale
+Wakema
+112 R/55 ID/[28A]
+143 R/55 ID/[28A]
+55 R/55 ID/[28A]
+55 AR/55 ID/[28A]
+55 ID/[28A]
+111 R/54 ID/[28A]
+121 R/54 ID/[28A]
+54 R/54 ID/[28A]
+54 ID/[28A]
+[28 Army HQ]
+[Burma Area Army HQ]
+[Burma Area Army]
+116 R/255 Ind.Tk.Bde./[IV]
+33 Bde./7 Ind.Div./[IV]
+114 Bde./7 Ind.Div./[IV]
+161 Bde./7 Ind.Div./[IV]
+136 FR/7 Ind.Div./[IV]
+139 FR/7 Ind.Div./[IV]
+136 MR/7 Ind.Div./[IV]
+32 Bde./20 Ind.Div./[XXXIII]
+80 Bde./20 Ind.Div./[XXXIII]
+100 Bde./20 Ind.Div./[XXXIII]
+80 Bde./20 Ind.Div./[XXXIII]
+4 Btn./3 MR./20 Ind.Div./[XXXIII]
+80 AA-AT R./20 Ind.Div./[XXXIII]
+80 Bde./20 Ind.Div./[XXXIII]
+MG Btn./9 JR/20 Ind.Div./[XXXIII]
+9 FR/20 Ind.Div./[XXXIII]
+23 MR/20 Ind.Div./[XXXIII]
+9 Bde./5 Ind.Div./-/[14A Res.]
+10 Bde./5 Ind.Div./-/[14A Res.]
+9 Bde./5 Ind.Div./-/[14A Res.]
+29 Bde./5 Ind.Div./-/[14A Res.]
+123 Bde./5 Ind.Div./-/[14A Res.]
+161 Bde./5 Ind.Div./-/[14A Res.]
+48 Bde./17 Ind.Div./[IV]
+63 Bde./17 Ind.Div./[IV]
+129 FR/17 Ind.Div./[IV]
+21 MR/17 Ind.Div./[IV]
+29 MR/17 Ind.Div./[IV]
+82 RA/17 Ind.Div./[IV]
+16 LC/255 Ind.Tk.Bde./[IV]
+118 R/53 ID/[15A]
+119 R/53 ID/[15A]
+151 R/53 ID/[15A]
+53 ID/[15A]
+55 R/18 ID/[33A]
+56 R/18 ID/[33A]
+114 R/18 ID/[33A]
+18 ID/[33A]
+106 R/49 ID/-/[BAA]
+153 R/49 ID/-/[BAA]
+168 R/49 ID/-/[BAA]
+49 ID/-/[BAA]
+1 Tk.R./18 ID/[33A]
+12 ER./18 ID/[33A]
+18 MR/18 ID/[33A]
+8 Sentai/4 Hikodan
+55 ER/55 ID/[28A]
+55 CR/55 ID/[28A]
+55 MR/55 ID/[28A]
+4 Ind.ER/-/-/[BAA]
+20 Ind.ER/-/-/[BAA]
+2 Air Commando Group
+221 Group
+12 Bombardment Group
+1 Air Commando Group
+64 Sentai/4 Hikodan
+81 Sentai/4 Hikodan
+50 AB.Bde./-/-/[14A]
+4 Bde./26 ID/-/[14A]
+36 Bde./26 ID/-/[14A]
+71 Bde./26 ID/-/[14A]
+12 Btn./26 ID/-/[14A]
+160 FR/26 ID/-/[14A]
+20 MR/26 ID/-/[14A]

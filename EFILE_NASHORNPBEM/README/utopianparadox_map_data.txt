@@ -1,0 +1,39 @@
+*** OpenSuite - Map summary report ***
+
+File : UtopianParadox.xscn
+Title: UtopianParadox
+Map  : utopia.png   Size: 43 x 38 (1920 x 1920 pixels)
+
+Player                   Side            Victory   Supply    Ports     Deploy    AirPorts  Owned    
+P1 Germans               Axis            13        7         2         0         8         36       
+P2 Russians              Allied          13        7         1         0         4         39       
+P3 not defined                           0         0         0         0         0         0        
+P4 not defined                           0         0         0         0         0         0        
+
+* Prestige *
+
+Hex base prestige is: 100
+36 hexes have prestige modifier
+6 hexes don't give prestige
+69 hexes give prestige
+Prestige to win for Axis is 10200
+Prestige to win for Allied is 10200
+
+*  Terrain usage *
+
+2757  hexes are CLEAR
+293   hexes are CITY
+12    hexes are AIRFIELD
+55    hexes are WOODED
+71    hexes are HILL
+210   hexes are HEAVY
+19    hexes are MARSH
+297   hexes are DEEP RIVER
+38    hexes are RIVER
+27    hexes are PORT
+13    hexes are ESCARPMENT
+4     hexes are IMPASSABLE
+404   hexes are ROUGH
+
+
+All hexes has proper Player/Flag settings

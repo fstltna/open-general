@@ -1,0 +1,11 @@
+Skirmish of Güstow
+November 18, 1758
+
+Eager for revenge on recent setbacks during his operations in Pomerania, the Swedish Commander-in-Chief, general Hamilton, ordered general von Lingen to assault the village of Güstow which was held by the Prussians.
+
+Deploy Hexes: 19
+
+ORDER: Hold the VH, destroy the Swedish HQ at Mühlhof and keep your MSU alive.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

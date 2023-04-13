@@ -1,0 +1,121 @@
+* This file is only intended for those designers wanting to
+* customize some text categories.
+* Notice each section must be preceded by a section token
+* between square brackets.
+* If you include any section, please provide all items
+* In order to avoid doing unneeded translations, please
+* include only those sections you really need to modify
+* ------------------------------------------------------------------
+
+[results] 
+Decisive Victory
+Victory
+Marginal Victory
+Loss
+
+*_[targets]
+*_Soft target
+*_Hard target
+*_Air target
+*_Naval target
+
+*_[spaces]
+*_Ground
+*_Air
+
+*_[movement]
+*_Tracked
+*_Half Tracked
+*_Wheeled
+*_Leg
+*_Towed
+*_Air
+*_Deep Naval			
+*_Coastal
+*_All Terrain
+*_Amphibious
+*_Naval
+*_Mountain (Leg)
+*_Train
+*_Helicopter
+*_Custom
+
+*_[transports]
+*_Cannot be transported
+*_Naval
+*_Airmobile
+*_Airborne
+*_Train
+*_Helicopter
+
+[classes]
+Class none
+Infantry
+Tank
+Recon
+Anti-tank
+FlaK
+Fortification
+Ground Transport
+Rail Transport
+Artillery
+Air Defense
+Fighter
+Tactical Bomber
+Strategic Bomber
+Air Transport
+Helo Transport
+Submarine
+Destroyer
+Battleship
+Carrier
+Naval Transport
+Battle Cruiser
+Cruiser
+Light Cruiser
+
+[requisition]
+Switch Ground+Air / Naval units menu
+Select Air defense
+Select FlaK
+Select Fortification
+Select Anti Tank
+Select Artillery
+Select Infantry
+Select Recon
+Select Tanks
+Select Fighters
+Select Tactical Bombers
+Select Strategic Bombers
+Select Submarine
+Select Destroyer
+Select Battleship
+Select Carrier
+Select Battle Cruiser
+Select Cruiser
+Select Light Cruiser
+Name unit
+Reassign Unit
+Exit
+
+[terrain]
+CLEAR
+TOWN
+AIRFIELD
+FOREST
+RUBBLE
+HILL
+MOUNTAIN
+SAND
+SWAMP
+OCEAN
+RIVER
+FORTIFICATION
+PORT
+STREAM
+ESCARPMENT
+IMPASSABLE
+COUNTRYSIDE
+SNOW
+ROADS
+RAILS

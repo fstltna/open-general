@@ -1,0 +1,58 @@
+Halfaya Pass & Sollum Battle
+Bardia
+Sidi Azeiz
+Fort Capuzzo Garrison
+Sollum
+Sidi Omar
+Halfaya Pass
+Trigh Capuzzo
+Hafid Ridge
+5 Pz R/5 LD/[DAK]
+36 Pzjgr/5 LD/[DAK]
+33 Pzjgr/5 LD/[DAK]
+605 FlaK/5 LD/[DAK]
+606 FlaK/5 LD/[DAK]
+39 Pio/5 LD/[DAK]
+I/75 AR/5 LD/[DAK]
+2 MG/5 LD/[DAK]
+8 MG/5 LD/[DAK]
+11 Hussars/7 Arm/[XIII]
+4 RTR/4 Bde/7 Arm/[XIII]
+11 Hussars/7 Arm/[XIII]
+11 Hussars/7 Arm/[XIII]
+5 RTR/4 Bde/7 Arm/[XIII]
+7 RTR/4 Bde/7 Arm/[XIII]
+11 Bde/4 Ind D/[XXX]
+5 Bde/4 Ind D/[XXX]
+11 Bde/4 Ind D/[XXX]
+7 Bde/4 Ind D/[XXX]
+68 Med.AR/4 Ind D/[XXX]
+1 AR/4 Ind D/[XXX]
+25 AR/4 Ind D/[XXX]
+31 AR/4 Ind D/[XXX]
+22 Guards Bde.
+8 Pz R/15 Pz/[DAK]
+15 Schzt/15 Pz/[DAK]
+15 Schzt/15 Pz/[DAK]
+15 Mot/15 Pz/[DAK]
+33 Rec/15 Pz/[DAK]
+33 AR/15 Pz/[DAK]
+33 Pzjgr/15 Pz/[DAK]
+33 Pio/15 Pz/[DAK]
+33 Polizei/-/-/[DAK]
+33 Polizei/-/-/[DAK]
+[Luftwaffe]
+[Garrison]
+[DAF]
+2 RTR/7 Arm Bde
+3 Btn ''Coldstream Guards''
+[DAK]
+65 AT R/22 Guards Bde.
+31 AR/22 Guards Bde.
+8 AR/22 Guards Bde.
+Hill 206
+Fort Capuzzo
+5 SA
+5 SA
+DAF
+[XXX]

@@ -1,0 +1,15 @@
+SITUATION:
+
+Comandante, we got an radio transmition from our garrison at Siwa. They report that they are attacked by enemy forces! Comandante, your forces are the only italian forces in Egypt that are combat ready. Leave now, there is no time... Help our brothers!
+
+ORDERS: 
+
+Take all VHs in 12/15/19 turns for a BV/V/TV.
+
+NOTES:
+
+You can not buy units in this scenario.
+
+AI will have the first turn!
+
+The first unit that captures the airfield south of Siwa will raise a leader.

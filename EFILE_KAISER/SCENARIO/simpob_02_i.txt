@@ -1,0 +1,28 @@
+Harvest of sorrow: the end of the Komuch
+
+September 18th, 1918
+
+Trotsky coordinated the Soviet counterattack so well that, even before our evacuation of Kazan was complete, the Bolsheviks had taken Simbirsk, and Syzran and Samara were already in danger.
+
+Three Red Armies were participating in the offensive. The Fifth Army, commanded by the Latvian Slavens, which had followed us from Kazan, was in the north, ready to cut the railroad at Melekess and encircle us. Tukhachevsky's First Army was in the west, controlled Simbirsk, and was going to attack Syzran and Samara from the north. Finally, Chwiesin's Fourth army was in the south, on both shores of the Volga, and would attack Syzran and Samara coordinated with the First Army.
+
+We were so badly outnumbered that we knew that defeating the Bolsheviks was impossible. The only thing that we could do was to resist for a few weeks, avoiding to be trapped by the Soviet pincers, and giving the civilians enough time to be evacuated to Siberia, where we could continue the resistance.
+
+Meanwhile, the Komuch delegates were meeting in Ufa with representatives of other anti-Bolshevik governments, organisations and political parties. The most important one was the Provisional Siberian Government (PSG), created in Omsk at the end of June. Just like the Komuch, the majority of the PSG were members of the Socialist-Revolutionary Party, but thanks to the British influence, the Tsarists, the conservatives and the military officers still retained much power.
+
+The goal of the Ufa Conference was to unite the different anti-Bolshevik organisations of eastern Russia and approve a coordinated strategy to defeat the Soviet plague. If they came to an agreement, our efforts on the battlefield wouldn't be in vain.
+
+Victory conditions:
+- You must evacuate 7 civilian units through the EH at (41,23). All of them are MSUs.
+
+- If, during the BV and the V turns, the Soviets manage to control the VHs of Simbirsk (8,6) and Syzran (8,26) at the same time, you will lose.
+
+Special note: 
+- The railroads will be very important for evacuating the civilians. Be careful, and try not to blow them with artillery fire.
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+Battle of Molino del Rey
+September 8, 1847
+
+* Intro text *
+
+Deploy Hexes: 18
+
+ORDER: Take all VHs and keep your MSU alive.
+
+scenario designer: Csaba (lvjtn)

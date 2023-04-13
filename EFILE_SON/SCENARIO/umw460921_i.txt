@@ -1,0 +1,11 @@
+Battle of Monterrey
+September 21, 1846
+
+Zack Taylor’s worst day in a long career. Through orders either vague or absent, the American forces ended up attacking strong positions in the suburbs and streets of Monterrey, and suffered heavy casualties.
+
+Deploy Hexes: 12
+
+ORDER: Take all VHs and keep your MSU alive.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

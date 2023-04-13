@@ -1,0 +1,12 @@
+SITUATION:
+
+Well, our forces have stormed ashore on England's beaches only to meet ferocious resistance.  Now you have to drive on London. With the British capital in our hands, we will cut off their industrial centers in the north and west and the British will be forced to surrender. Abwehr reports a large American expeditionary force northeast of London! Prepare for enemy counterattacks. Surely the enemy will try to drive us back into the sea.
+Good luck, Herr Feldmarschall. 
+
+ORDERS:
+
+Take all VHs in 16/20/26 turns for a BV/V/TV.
+
+NOTES:
+
+6 air and 6 naval transports are available.

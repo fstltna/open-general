@@ -1,0 +1,104 @@
+Operation Kutuzov
+Kursk-Orel Railway
+Brusavets River
+Sevana River
+Oka River
+Marloarkhangelsk
+Ponyri-Pervyje
+Ponyri
+Aleksandrovka
+Olkhovatka
+Teploye
+Gnilets
+Bobrik
+Tagino
+Voronets
+I/III/2nd Pz. Div.
+I/XXI/20th Pz. Div.
+I/XVIII/18th Pz. Div.
+DVII/292
+X/9th Pz. Div.
+XXXV/4th Pz. Div.
+DVIII/292
+CCXCII/292
+XI/9th Pz. Div.
+XII/4th Pz. Div.
+XXXIII/4th Pz. Div.
+505th Pz. Abt.
+XXXIII/9th Pz. Div.
+XIV/78th Sturm Div.
+CLXVII/86
+XVIII/6
+XXXVII/6
+LVIII/6
+CCXV/78th Sturm Div.
+CLXXXIV/86
+CLXXXVI/86
+LII/18th Pz. Div.
+CI/18th Pz. Div.
+XCVIII/18th Pz. Div.
+XVIII/18th Pz. Div.
+II/III/2nd Pz. Div.
+CCCIV/2nd Pz. Div.
+II/2nd Pz. Div.
+II/XXI/20th Pz. Div
+LIX/20th Pz. Div.
+CXII/20th Pz. Div.
+Hill 272
+Hill 274
+Hill 253
+295th FlaK Abt.
+XCII/20th Pz. Div.
+292nd JagdPz. Abt.
+XX/10th Pzgren. Div.
+XLI/10th Pzgren. Div.
+X/10th Pzgren. Div.
+10th JagdPz. Abt.
+Tangino Airfield
+178th Pioniere Abt.
+CCXVI/86
+178th Jgdpz. Abt.
+244th Sturm. Abt.
+I/JG51
+I/StG1
+III/StG2
+III/JG52
+III/KG1
+II/KG3
+50th Tank Brig.
+729/16/2nd Tank
+CIX/74th Rifle Div.
+LXXVIII/74th Rifle Div.
+CXLII/74th Rifle Div.
+LXXXI/74th Rifle Div.
+CCCLX/74th Rifle Div.
+MXIX/307th Rifle Div.
+MXXIII/307th Rifle Div.
+MXXI/307th Rifle Div.
+109th Tank Brig.
+107th Tank Brig.
+11th Guards Tank Brig.
+16th Air Army
+CCLXII/184th Rifle Div.
+CCXCIV/184th Rifle Div.
+XVII/184th Rifle Div.
+MCDXLI/70th Guards
+LXVIII/70th Guards
+51st Tank Brig.
+103rd Tank Brig.
+164th Tank Brig.
+27th Guards Tank Reg.
+CCCVII/307th Rifle Div.
+XLVII/15th Mech. Div.
+CCCXXI/15th Mech. Div.
+XXV/6th Guards
+II/75th Guards
+CXCV/78th Sturm Div.
+Forward Airbase
+Staging Area
+HILL
+FOREST
+Destroyed Airfield
+ROUGH
+CLEAR
+RUBBLE

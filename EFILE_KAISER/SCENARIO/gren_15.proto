@@ -1,0 +1,16 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  34  '  Assault Infantry  [INF  British Empire]  Cost: 384
+ 281  '  3" QF 20cwt/Peerless 4t  [ AD  British Empire]  Cost: 588
+ 312  '  Mark IV/F  [ TK  British Empire]  Cost: 408
+1176  '  4.5" QF How MkII  [ATY  British Empire]  Cost: 576
+1189  '  Seabrook MkII  [ AT  British Empire]  Cost: 444
+1217  '  RAF S.E.5  [FTR  British Empire]  Cost: 660
+1226  '  Nieuport 23  [FTR  British Empire]  Cost: 624
+2883  '  6" Newton Medium Mrt  [ATY  British Empire]  Cost: 396
+3599  '  Nieuport 10  [FTR  British Empire]  Cost: 504
+3600  '  Nieuport 11 Bebe  [FTR  British Empire]  Cost: 516

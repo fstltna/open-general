@@ -1,0 +1,2037 @@
+Error!VERSION: v.03/11 Clu Efile 03/11
+Jalkavaki '39 (wi) [A]
+Jalkavaki '39 (su) [A]
+Pioneeri (wi) [AEZ]
+Pioneeri (su) [AEZ]
+Siltapioneeri (wi) [BZ]
+Siltapioneeri (su) [BZ]
+Jaakari '39 (su) [AM]
+Jaakari '39 (wi) [AM]
+Jaakari '44 (su) [AM]
+Jaakari '44 (wi) [AM]
+Bunkkerin miehisto [CS AA]
+Ratsuvaki '39 (su)
+Varuskunta (wi)
+Polkupyorajoukot (su) [A]
+Tiedustelijat (wi) [AR]
+20 pst kiv/39 (su) [AA]
+20 pst kiv/39-44 (su) [AA]
+PTDR-41 pst kiv capt.
+Krenatoori (wi) [A]
+Maxim kk (wi) [S AA]
+Kevyt kk Madsen (su) [AS AA]
+Tarkka-ampuja (su) [AR]
+Tarkka-ampuja (wi) [AR]
+Valkoinen Kaarti (wi) [AC]
+Valkoinen Kaarti (su) [AC]
+Tiedustelusasto (wi) [AEZMR]
+Vapaaehtoinen [A]
+HeimoP [M]
+Sissi (wi) [M]
+40mm Bofors Jalkavaki [D]
+Suojeluskunta Civil Guards 
+Rajajaakari (wi)
+SK-pojat Civil Guards Boys 
+Siviili
+T-34/76A 'Sotka' capt.
+T-34/85 'Sotka' capt.
+T-26S capt. (wi)
+BT-7 capt.
+Pz IVJ
+Vickers 6t (su)
+OT-130 capt. (su) [E]
+KV-1 capt. (wi)
+Renault FT17
+T-28 capt.
+Ba-10
+Ba-20
+Tied. (moott.) (wi) [A]
+Tied. (ratsuvaki) (wi)
+Esikunta (su) [AC]
+25 PstK/34 [AD]
+25 PstK/34 (rats.)
+37 PstK/36 Bofors [AD]
+37 PstK/40 [AD]
+50 PstK/38 [D]
+75 PstK/40 [D]
+StuG IIIG 'Sturmi' [S]
+20 ItK/35 [FAD]
+40 ItK/35-39 Bofors [FAD]
+76 ItK/27-29 Bofors [F]
+Landsverk Anti II AA [F]
+88 ItK/37 liikk. [F]
+45 PstK/32-38 capt. [AD]
+Taisteluosasto (CG)
+Merimiina
+Bunkkeri
+Bunkkeri
+Linnake
+Linnake
+Ponttoonisilta [B]
+Tehdas
+Vartiotorni [S AA]
+Nordenfelt 57mm [S]
+Tykistobunkkeri [S]
+Konekivaaribunkkeri [S]
+Komentobunkkeri (su) [C]
+Enkell Bunkkeri [S]
+6" Rannikkopatteri [S]
+12" Rannikkopatteri [S]
+Jalkavakimiinoite
+Panssarimiinoite
+Panssarieste
+Jalkavakieste
+Tank Trap
+Puueste
+Lentokentta
+Sisu
+Vankkurit
+Karryt
+Kenttakeittio [C]
+T-20 Komsomolets
+Kuormahevonen
+Ratsuvaki '39 (su)
+Pyora (su) [A]
+Pyora [AM]
+Sukset '39 [AM]
+75 K/02 [D]
+105 H/37
+105 H/33
+150 H/40 [noS]
+210 H/17 [noS E]
+81 Krh/26-39 [ADH]
+BT-42 [noS E]
+Panssarijuna [R AA S]
+152/45 CRaut [noS]
+122 H/38
+76 H/02 [D]
+76 K/36
+20 ItK/35 [AD]
+40 ItK/35-39 [AD]
+76 ItK/27-29 Bofors
+Landsverk Anti II AA 
+88 ItK/37 liikk.
+ISU-152 capt. [noS]
+Ski [AM]
+Fokker D.XXI (su)
+I-153 capt.
+Brewster Mod. 239
+Gloster Gladiator IIA
+G.50
+MS.406C1
+Morko Morane
+Hawker Hurricane Mk I
+Curtiss Hawk 75A-6
+Myrsky II
+Bf-109G-2
+Bf-109G-6
+Bf-109G-6/R-6
+Bristol Bulldog IVA [R]
+Blackburn Ripon IIF [R]
+Bristol Blenheim Mk I
+Lysander Mk I [R]
+Bristol Blenheim Mk IV
+Avia B.71/SB-2
+Do-17Z-2
+Ju-88A-4
+Fokker C.X [R]
+Ju-F13
+DC-2
+KV-1 capt. (su)
+Vetehinen-luokka
+Tursas-luokka [H]
+Riilahti-luokka [S]
+Kuljetusalus
+Vainamoinen-luokka [S H]
+Pjechota [A]
+Sapjoryj [AEZ]
+Ingenernyje Voiska [BZ]
+Kawaljerija
+Gwardejskaja Kawaljerija
+Gwardejskaja Pjechota [A]
+Morskaja Pjechota
+Paraschjutist [P]
+Pulemyot Maxima MG [AS AA]
+PTDR-41
+Garnison
+Raswedczik [AR]
+Gornyj Strelki [AM]
+Krepostnaja Pjechota [CS]
+Schtab [AC]
+Tachanka MG Kawaljerija [S AA]
+Proboczaja Milizja
+Red Banner Militia [C]
+Nowobranjez
+Pogranicznaja ochrona
+NKWD [A]
+Partisanyj [M]
+Metkije strelki [AR]
+Politruk [AC]
+Statskij
+T-26A
+T-26B
+T-26S
+OT-130 [E]
+BT-5
+BT-7
+FlaK-Artillerie Test [SF]
+T-40
+T-60A
+T-70A
+T-34/76A
+T-34/76B
+T-28 
+T-35
+T-34/76
+T-34/85
+KV-1A
+KV-1B
+KV-1C
+KV-2
+KV-85
+IS-1
+IS-2
+IS-3
+Churchill
+M4A3 Sherman
+M3A1 Lee II
+Matilda II
+Valentine Mk III
+BA-10
+BA-64
+FAI
+Raswedczik [A]
+Motoziklist [A]
+Raswedczik Kawaljerija
+Ba-20
+M3 GMC
+45mm M1932 [AD]
+45mm M1938 [AD]
+45mm M1942 [AD]
+57mm/Zis-2 [D]
+76.2mm M1936 [D]
+76.2mm M1939 [D]
+76.2mm M1942/Zis-3 [SD]
+100mm M1944 
+SU-85
+SU-100
+76.2mm M38 [F]
+85 mm M39/KS-12 [F]
+85 mm M44/KS-18 [F]
+25mm [FAD]
+GAZ/37mm [F]
+Zis-30 [F]
+Morskaja Mina
+Zastava
+Krepost
+Semlje Zastava
+Leso Zastava
+Simo Zastava
+Storogevaya bashnya [S AA]
+152mm Bunkjer [S]
+122mm Bunkjer [S]
+210mm Arudijnaja baschnya [S]
+Nabludatelny punkt
+Fugasny zaryad
+Protovotankovaya mina
+Provolochnoe zagragdenie
+Protivotankovoe zagragdenie
+Pontonny Most
+Fabrika
+Lyotnoe pole
+Telega
+Tjazholaja Telega
+Pochodnaja kuchnja [C]
+Zis-6
+GMC 6x6
+Studebaker
+M3A1
+Zis-5
+BT-7 [B]
+Kawaljerija
+Tachanka
+T-20 Komsomolets
+Wjucznyj Kon
+GAZ 67B [P]
+50-PM 38-41 [PDH]
+82-PM 36-43 [PDH]
+120-HM 38-43 [ADH]
+107-PBHM 38 [AMDH]
+76mm 02-30
+76mm 36
+76mm 39
+76mm 42/Zis-3
+152mm ML-20 [noS]
+152mm M-10 [noS]
+152mm D1-43 [noS]
+122mm A-19 
+203mm M-31/B-4 [no S]
+BM-8-36 [noS E]
+BM-8-48 [noS E]
+BM-8-24 [noS E]
+BM-13-16 [noS E]
+M-31 RAMA [noS E]
+BM-31-12 [noS E]
+SU-76
+Bronjepojesd [R AA S]
+SU-152  [noS]
+ISU-152  [noS]
+SU-122 [noS]
+ISU-122 [noS]
+GAZ 25mm
+25mm [AD]
+GAZ 37mm
+Zis-30
+37mm [AD]
+37mm [FAD]
+76.2mm M38
+85 mm M39/KS-12
+85 mm M44/KS-18
+I-15bis
+I-153
+I-16 Type 10
+I-16 type 29
+LaGG-1/I-22
+LaGG-3
+LaGG-3 [ground attack]
+La-5
+La-5FN
+La-7
+MiG-1
+MiG-3
+Yak-1
+Yak-3
+Yak-7B
+Yak-9U
+Hurricane IIA
+P-39 Airacobra
+Spitfire IA
+SB-2
+U-2/Po-2 [R]
+Neman R-10 [R]
+DB-3/Il-4
+Su-2
+Il-2
+Il-2M3
+Pe-2
+Pe-21/2M
+Pe-2R
+Tu-2S
+A-20A-B Boston
+B-25C/D Mitchell
+MBR-2/Berjew Be-2
+PS-40/41
+Li-2/DC-3/C-47
+TB-3
+Dekabristkowo klassa
+Storoshekowo klassa [S H]
+G-5 Kanonjorka [S H]
+Maratskowo klassa [S]
+Sowjetskosojuskowo klassa [S]
+Wyjsadnaja lodka
+LST Sea Transport
+Kirowskowo klassa [S]
+Krasnokrimskowo klassa [S H] 
+Leningradskowo klassa [S AA]
+Infanteri [A]
+Spejare (motor) [A]
+Spejare (kav.)
+Volvo half track
+12cm Grk m/41 [AH]
+40mm Bofors [AD]
+40mm Bofors [FAD]
+B 3/Ju-86K
+J 8B/Gloster Gladiator 
+B 4/Hawker Hart [R]
+Sjotransport
+Lastbil m/42
+Infanterie [A]
+Stab [AC]
+Kavallerie '39
+Sturmpioniere '39 [AEZ]
+Brueckenpioniere [BZ]
+Jaeger [AM]
+Gebirgsjaeger [AM]
+Fallschirmjaeger [P]
+Rad-Infanterie [A]
+Kradschuetzen [A]
+Garnison
+Marine Infanterie
+Waffen-SS Stab [AC]
+Waffen-SS Rad-Infanterie [AC]
+Waffen-SS Kradschuetzen [AC]
+Waffen-SS Kavallerie '39 [C]
+Waffen-SS Gebirgsjaeger [AMC]
+Waffen-SS '39  [AC]
+Waffen-SS '42 [AC]
+Waffen-SS '44 [AC]
+Waffen-SS Sturmpioniere [AEZ]
+Waffen-SS Brueckenpioniere [BZ]
+Waffen-SS MG 34 [AS AA]
+MG 42 [S AA]
+MG 34 [AS AA] 
+MG 42 Nest [S]
+Scharfschuetzen [AR]
+Festungsinfanterie [CS AA]
+Pz 35(t)
+Pz 38(t)A
+Pz IB
+Pz IIA
+Pz IIF
+Pz IIIE (su)
+Pz IIIN (su)
+Pz IVD (su)
+Pz IVJ (su)
+PSW 222
+PSW 232
+PSW 233
+Krad-Aufkl. [A]
+SdKfz 2 [P]
+Melder [A]
+Meldereiter
+3.7cm PaK 35/36 [AD]
+5cm PaK 38 [AD]
+7.5cm PaK 40 [D]
+PzJg I
+StuG IIIA (su) [SE]
+StuG IIIE (su) [SE]
+StuG IIIF-8 (su) [S]
+StuG IIIG (su) [S]
+8,8cm FlaK 37 mob. [F]
+2cm Flakvierling 38 [FD]
+2cm FlaK 38 [FAD]
+8,8cm FlaK41 mob. [F]
+SdKfz 6/2 [F]
+SdKfz 7/1 [F]
+Waffen-SS 2,8cm sPzB41 (Kav.)
+3,7cm FlaK 36 [FAD]
+3,7cm FlaK 43 [FAD]
+Seemine
+Stuetzpunkt
+Festung
+Wachturm [S AA]
+7.5cm PaK Bunker [S]
+10.5cm Bunker [S]
+17cm Bunker [S]
+28cm Bunker [S]
+MG42 Bunker [S]
+Feuerleitbunker
+Inf Mine
+AT Mine
+Inf. Barriere
+AT Barriere
+Pontonbruecke
+Fabrik
+Feldflugplatz
+Opel Blitz 3t
+Skoda H 6ST6-T
+SdKfz 251/1
+SdKfz 250/1
+SdKfz 7 (8t)
+Pferdetransport
+Schw. Pferdetransport
+Feldkueche [C]
+Packpferd
+Kavallerie '39
+Fahrrad [A]
+7,5cm leIG 18 [AD]
+10,5cm K 18
+10,5cm leFH 18
+15cm sFH 18 [noS]
+17cm K 18 [noS]
+15 NbWf 41 [noS E]
+30 NbWf 42 [noS E]
+Panzerzug [R AA S]
+8cm Grw 34 [ADH]
+Waffen-SS 12cm Grw 42 [ADH]
+12cm Grw 42 [ADH]
+2cm FlaK 38 [AD]
+2cm Flakvierling 38 [D]
+3,7cm FlaK 36 [AD]
+3,7cm FlaK 43 [AD]
+SdKfz 6/2
+SdKfz 7/1
+8,8cm FlaK 37 mob.
+8,8cm FlaK 41 mob.
+Bf-110C-4
+Bf-410A-1/U2
+Bf-109E-3
+Bf-109G-2
+Bf-109G-10
+FW-190A-3
+FW-190D-9
+Vickers 6t (wi)
+Bf-110F-2
+He-111B-2
+Do-217E-2
+Ju-87D-1
+Ju-87G-2
+Ju-88A-4
+FW-190F-8
+FW-189A-1 [R]
+FW-200C-3 Condor [R]
+He-115
+Ju-52
+Me-323 Gigant
+DFS 230 Lastensegler
+Type VII C
+Froschmann [E]
+S-Boot [H]
+Typ 34 Maass [S H]
+R-Boot [S]
+Bismarck Class [S]
+Transportschiffe
+Scharnhorst Class [S]
+Deutschland Class [S]
+Hipper Class [S]
+Nuernberg Class [S AA H] 
+Field Hospital [C]
+Vartiotorni (obs.)
+VW Kuebel [A]
+Gnewnijkowo klassa [S AA H]
+Opytnijkowo klassa [S AA H]
+T-26S capt. (su)
+Srednjajakowo klassa
+schw. Kradschuetzen [A]
+Fugas [S]
+T-37A
+T-27
+T-37A capt.
+Maxim Mg 4M [AD]
+7,62 ItKk/31 [AD]
+TM-3-12 [noS E]
+T-26E (wi)
+75 PstK/97-38 [D]
+7,62 ItKk/31-40 [AD]
+20 ItK/30 [AD]
+20 ItK/30 [FAD]
+20 ItK/38 [AD]
+20 ItK/38 [FAD]
+120 Krh/38-40 capt. [ADH]
+203 H/17 [noS E]
+152 H/38 capt. [noS]
+76 ItK/31-40 capt.
+88 Itk/39/43 capt.
+76 ItK/31-40 capt. [F]
+88 ItK/39-43 capt. [F]
+Maxim Mg M/09-31
+7.62 ItK/09-31 liikk.
+47 PstK/35-39 Boehler [AD]
+20 PstK/40 Madsen [FAD]
+20 PstK/40 Madsen [AD]
+105 K/29
+75 K/17 [D]
+105 K/34
+152 H/37 capt. [noS]
+114 H/18
+155 H/17 L [noS]
+FW-190G-3
+IL-2M3/37
+He-111H-16
+Bf-109B-2
+FW-190A-6
+FW-190A-8
+Bf-109G-6/R6
+Bf-109K-6
+Ar-196A-3 [RY]
+Hs-126B-1 [R]
+Do-24T-1 [R]
+Fi-156 [R]
+Ju-88P-2
+Ju-188E-1
+(TJ) Bf-410A-2/U-4
+He-177A-5 Greif [L]
+Grenadiere [A]
+PSW 234/1
+PSW 234/2
+PSW 234/3
+PSW 234/4
+PSW 263
+Volksgrenadiere
+Brandenburger (su) [EZMP]
+Trading vessel
+Trading vessel
+Tanker
+Troopship
+Hospital ship
+Redoutable Class
+MTB [H]
+Minesweeper [S]
+Tribal Class [S AA H]
+Flower Class [S H]
+County Class [S]
+Leander Class [S AA]
+King George V Class [S]
+QE / R Class [S]
+Renown Class [S]
+Hood Class [S]
+Nelson Class [S]
+Illustrious Class [Y]
+Essex Class [Y]
+Yorktown Class [Y]
+Implacable Class [Y]
+Independence Class [Y]
+Argus Class [Y]
+Auxiliary carrier [Y]
+T-26E (su)
+OT-34 [E]
+Pz IIIG (su)
+Pz IIIH (su)
+Pz IIIJ2 (su)
+Pz IIIL (su)
+Pz IVF2 (su)
+Pz IVG (su)
+Pz IVH (su)
+8,8cm FlaK 37 stat. [F]
+8,8cm FlaK 41 stat. [F]
+8,8cm FlaK 37 stat.
+8,8cm FlaK 41 stat.
+88 ItK/37 kiint. [F]
+88 ItK/37 kiint.
+Drifting Mines
+10,5cm GebH 40 [M]
+7,5cm GebG 36 [MAD]
+SIG 38(t) H 'Bison' (su)
+Hummel (su) [noS]
+Wespe (su)
+Maultier [noS E]
+Lorraine (su) [noS]
+SIG I B [E]
+SdKfz 251 Wurfrahmen [noS E]
+8.8cm PaK 43/41
+Ferdinand (su)
+Elefant (su)
+Hetzer (su)
+Jagdpanther (su)
+JgdPz IV/48 (su)
+JgdPz IV/70 (su)
+Jagdtiger (su)
+Nashorn (su)
+Marder IIK (su)
+Marder IIIH (su)
+StuG IV (su) [S]
+PzJg Bren 731(e.) [R]
+15cm sIG 33 [E]
+21cm M 18 [noS]
+21cm K 39 [noS]
+FJ 7,5cm LG 40 [PDH]
+Ski [AM]
+T-6
+Voroshilovets
+Panther A (su)
+Panther D
+Panther G (su)
+Tiger IE (su)
+Tiger II (su)
+LW Feld [A]
+StuH 42F (su) [S]
+StuH 42G (su) [S]
+Brummbaer (su) [noS E]
+Sturmtiger [noS E]
+10,5cm K42
+3.7cm PaK 36 w. Stielgranate 41 [AD]
+Tiger IE (wi)
+SIG 38(t) H 'Bison' (wi)
+Wespe (wi)
+Hummel (wi) [noS]
+schw. Wurfgeraet 41 [noS E]
+5,7cm PaK 208(r) [D]
+7,62cm PaK 36(r) [D]
+4,7cm PaK 36(t) [AD]
+4.2cm lePaK 41 [AD]
+Feldjaeger [AR]
+4,7cm Pak 181(f) [AD]
+M/40-41 (wi) [E]
+M/40-41 (su) [E]
+FmW 34-41 [E]
+ROKS-2 [E]
+Pz IVC (su)
+Marder I (su)
+Pz 35R 731(f)
+Pz 39H 735(f)
+Pz 35S 739(f)
+Pz T-34 747(r)
+Jalkavaki '44 (wi) [A]
+Jalkavaki '44 (su) [A]
+Waffen-SS FmW 34-41 [E]
+Pjechota '43 [A]
+Pjechota '45 [A]
+Gwardejskaja Pjechota '43 [A]
+Gwardejskaja Pjechota '45 [A]
+Pz KW-1B 755(r)
+OT-130 capt. (wi) [E]
+Marder II 7,62cm PaK 36(r) (su)
+Marder III 7,62cm PaK 36(r) (su)
+Marder IIIM (su)
+Ostwind (su)
+FlaKPz 38(t) (su)
+T-34 2cm Vierling (su)
+SdKfz 10/5
+Wirbelwind (su)
+Grille 10 (8,8cm Flak 37)
+SdKfz 251/17
+SdKfz 8 (8.8cm FlaK 18 SFL)
+5cm FlaK 41
+Ostwind (su) [F]
+FlaKPz 38(t) (su) [F]
+T-34 2cm Vierling (su) [F]
+SdKfz 10/5 [F]
+Wirbelwind (su) [F]
+SdKfz 8 (8,8cm FlaK 18 SFL) [F]
+7.62 ItK/09-31 liikk. [F]
+7,62/8,8cm FlaK M38(r)
+8,5/8,8cm FlaK M39(r)
+7,62/8,8cm FlaK M38(r) [F]
+8,5/8,8cm FlaK M39(r) [F]
+SdKfz 251/17 [F]
+SdKfz 251/21
+SdKfz 251/21 [F]
+Moebelwagen (su)
+Moebelwagen (su) [F]
+10,5cm FlaK 39 stat.
+12,8cm FlaK 40 stat.
+9cm FlaK 309/1(i)
+9cm FlaK 309/1(i) mob.
+9cm FlaK 309/1(i) mob. [F]
+4cm FlaK 28 [AD]
+4cm FlaK 28 [FAD]
+7,5cm FlaK 264/3(i)
+7,5cm FlaK 264/3(i) [F]
+Pororeki [M]
+57mm Nordenfelt [S]
+RAD/OT [BZ]
+StuIG 33 [noS E]
+Spaeher [AR]
+Ju-88P-1
+Kugelblitz
+Coelian
+Kugelblitz [F]
+Coelian [F]
+Do-335
+He-162A-1 
+Me-262A-1A 
+Me-262A-1B
+Go-229A-0
+FW Ta-152-H1
+La-9
+Me-262A-2A
+Hs-129B-2
+Hs-129B-3
+Ju-87B-1
+Ar-234B-2
+Mistel 1
+Mistel 2
+Do 17Z-1
+Il-10
+Typ XXIII
+Polizei
+Zivilisten
+Jagare [AM]
+Kavalleri
+Pionjarer [AEZ]
+Broingenjorer [BZ]
+Hemvarn
+Kavalleri
+Hast
+Tung hast
+37mm m/38 [AD]
+Faltkok [C]
+7,5cm m/37
+20mm m/40 [AD]
+8mm Dbl m/36 [AD]
+20mm m/40 [FAD]
+10,5cm Haub m/40
+10,5cm Kan m/34
+15cm Haub m/39 [noS]
+15,2cm Kan m/37 [noS]
+Seydlitz [C]
+Floating Mines
+5cm-Maschinengrw. M19
+Krenatoori (su) [A]
+Varuskunta (su)
+FJ Sturmpioniere [PEZ]
+FJ MG 34 [PS AA]
+FJ 12cm Grw 42 [PDH]
+FJ 2,8cm sPzB41 [PD]
+FJ 10,5cm LG 42 [PDH]
+Pz IIIE (wi)
+Pz IIIG (wi)
+Pz IIIH (wi)
+Pz IIIJ2 (wi)
+Pz IIIL (wi)
+Pz IIIN (wi)
+StuG IIIA (wi) [ES]
+StuG IIIE (wi) [ES]
+StuG IIIF-8 (wi) [S]
+StuG IIIG (wi) [S]
+Brandenburger (wi) [EZMP]
+Gebirgspioniere [AEZM]
+Waffen-SS Gebirgspioniere [AEZM]
+Tiger II (wi)
+Jagdtiger (wi)
+Fokker D.XXI (wi)
+Ferdinand (wi)
+Elefant (wi)
+Hetzer (wi)
+Jagdpanther (wi)
+JgdPz IV/48 (wi)
+JgdPz IV/70 (wi)
+Nashorn (wi)
+Brummbaer (wi) [noS E]
+StuH 42F (wi) [S]
+StuH 42G (wi) [S]
+Panther A (wi)
+Panther G (wi)
+Pz IVC (wi)
+Pz IVD (wi)
+Pz IVF2 (wi)
+Pz IVG (wi)
+Pz IVH (wi)
+Pz IVJ (wi)
+Ratsuvaki '39 (wi)
+Polkupyorajoukot (wi) [A]
+Rajajaakari (su)
+Tied. (moott.) (su) [A]
+StuG IV (wi) [S]
+Hitlerjugend
+Marder I (wi)
+Marder II 7,62cm PaK 36(r) (wi)
+Marder IIK (wi)
+Marder III 7,62cm PaK 36(r) (wi)
+Marder IIIH (wi)
+Marder IIIM (wi)
+17cm K45 [noS]
+7,62 ItKk/31 [FAD]
+7,62 ItKk/31-40 [FAD]
+Ostwind (wi)
+FlaKPz 38(t) (wi)
+T-34 2cm Vierling (wi)
+Moebelwagen (wi)
+Wirbelwind (wi)
+Ostwind (wi) [F]
+FlaKPz 38(t) (wi) [F]
+T-34 2cm Vierling (wi) [F]
+Moebelwagen (wi) [F]
+Wirbelwind (wi) [F]
+Maxim kk (su) [S AA]
+Tied. (ratsuvaki) (su)
+3,7cm PaK 35/36 (Kav.)
+Tiedustelijat (su) [AR]
+28cm K5 Eisenbahng. [noS E]
+80 cm 'Dora' Eisenbahng. [noS E]
+60cm 'Karl' [noS E]
+Azul [A]
+StuG IIIG (su) [S]
+StuG IIIG (wi) [S]
+Transporte Naval
+Ju-52
+Opel Blitz 3t
+Carro
+Fusiliere [A]
+LW Feld '44 [A]
+LW Feld Fusiliere [A]
+LW Feld Pioniere [AEZ]
+LW Feld MG 34 [AS AA]
+LW Feld MG 42 [AS AA]
+30,5cm Moerser(t) [noS E]
+Waffen-SS Fusiliere [AC]
+12,7mm [AD]
+12,7mm [FAD]
+Maxim Mg 4x [FAD]
+Maxim Mg M/09-31 [F]
+M15
+M15 [F]
+M16
+M16 [F]
+8mm Dbl m/36 [FAD]
+Kazaki
+Gornyi Sapjoryj [AEZM]
+M4A1/76W
+76.2mm PP-27 [SAD] 
+57mm M1 [AD]
+76.2mm F-22
+Universal Carrier
+Pe-3bis
+SU-76M [S]
+122mm M-30
+76.2mm F-22 
+100mm BS-3
+76.2mm PP-27 [AD]
+280mm BR-5 [noS]
+RSO
+Krupp L2H43 [A]
+SdKfz 10
+T-26V com. [C]
+T-34/76F com. [C]
+Pz IIA Befehl [C]
+Pz IIIJ Befehl [C]
+Pz IVH Befehl [C]
+Panther D Befehl [C]
+DOT [S]
+Ratsuvaki '44 (su)
+Ratsuvaki '44 (wi)
+(NJ) Ju-88G-1 [R]
+Kavallerie '44
+Kavallerie '44
+Ratsuvaki '44 (su)
+Sukset '44 [AM]
+Kawaljerija '43
+Kawaljerija 43
+Kawaljerija '45
+Kawaljerija 45
+Gwardejskaja Kawaljerija '43
+Gwardejskaja Kawaljerija '45
+Infanterie verschanzt
+Pjechota entr.
+Jalkavaki kaiv. (wi)
+Jalkavaki kaiv. (su)
+Pack-ice
+Captive balloon
+Recon balloon
+Infanteri '43 [A]
+Jagare '43 [AM]
+Kavalleri '43
+Pansarinfanteri [A]
+Cykel [A]
+Cykelinfanteri
+Cykelinfanteri '43
+Kavalleri 43
+Cykel 43 [A]
+Spejare (Cykel) [A]
+Kulspruta [AS AA]
+Bunkerinfanteri [CS]
+Garnison
+Scouts [AR]
+Sniper [AR]
+Civilist
+Stab [AC]
+Infanteri entr.
+Tied. (pyora) (wi) [A]
+Tied. (pyora) (su) [A]
+Rad-Aufkl. [A]
+Waffen-SS Rad-Aufkl. [A]
+Bicycle [A]
+lt Mortar [ADH]
+Packe hast
+10,5cm m/42 stat.
+57mm m/43 [D]
+Lastbil m/39
+Delfin class
+U1
+Wrangel Class [S H]
+Goteborg Class [S H]
+Arholma Class [S]
+T4 [H]
+7,5cm Kan m/02-33
+10,5cm Haub m/10
+Strv m/37
+Strv m/39
+Strv m/40
+Strv m/41
+Strv m/42
+Pbil m/31
+Pbil m/40
+J 9/Seversky P-35A
+J 11/C.R.42
+J 20/Re-2000
+J 21/Saab
+J 22A/FFVS
+J 26/P-51D
+TP 5/Ju-52
+B 5/Northrop A-17
+B 16/Ca.313
+B 17/Saab
+B 18/Saab
+S 6/Bristol Bulldog IVA [R]
+T 2/He-115
+Anti II L-62
+Anti II L-62 [F]
+Pvkv m/43
+Sav m/43 [noS E]
+Aran Class [S H]
+Fylgia Class [S]
+Sverige Class [S H]
+Gotland Class [AA HY]
+Tre Kronor Class [S AA]
+S 9/Hawker Osprey [RY]
+Gato Class
+Minesweeper [S]
+Fletcher Class [S AA H]
+Buckley Class [S H]
+New York Class [S]
+Iowa Class [S]
+North Carolina Class [S]
+Casablanca Class [Y]
+Brooklyn Class [S H] 
+Atlanta Class [S AA]
+Baltimore Class [S]
+S-2 Class
+S Class
+T Class
+USMC
+USMC Engineer [EZ]
+Paratrooper [P]
+Para Engineer [PEZ]
+Ranger [MP]
+Machine Gun [S AA]
+Sniper [AR]
+Scouts [AR]
+HQ [AC]
+Flamethrower [E]
+Bridging [BZ]
+GMC 2,5t
+M3A1
+Jeep Willis [P]
+DUKW Marine
+DUKW
+LVT
+Mack 7,5t
+Dodge T9
+Motorcycle [P]
+M3A1 Stuart III
+M3A3 Stuart V
+M5A1
+M4A1
+M4A3
+M4A3E8/76W HVSS
+M3A1 com. [C]
+M8 Greyhound
+Motorecon [A]
+M3 GMC
+Jeep (P)
+37mm M3A1 [PD]
+3'' M5 [D]
+M10 [R]
+M3 GMC [R]
+37mm M1A2 [AD]
+12,7mm [PD]
+90mm M1/2
+40mm M1 [AD]
+M15
+M16
+37mm M1A2 [FAD]
+12,7mm [FAD]
+90mm M1/2 [F]
+40mm M1 [FAD]
+M15 [F]
+M16 [F]
+81 mm M1 [ADH]
+75mm M8 [PD]
+105mm How. M2
+T19 HMC
+155mm How. M1 [noS]
+M4A1 Calliope [noS E]
+C-47
+LST Sea Transport
+Naval Landing Craft
+F-4U-1 Corsair [Y]
+F-4F-4 Wildcat [Y]
+F-6F-5 Hellcat [Y]
+SBD Dauntless [Y]
+TBF Avenger [Y]
+SB2C Helldiver [Y]
+PBY Catalina [Y]
+Grasshopper [R]
+Gloster Gladiator IIA [Y]
+Sea Hurricane Mk IIC [Y]
+Seafire Mk IB [Y]
+Seafire Mk IIC [Y]
+Fairey Fulmar Mk II [Y]
+Swordfish Mk I [RY]
+Fairey Albacore [RY]
+Fairey Firefly Mk I [Y]
+Fairey Barracuda Mk I [Y]
+Guard Tower [S AA]
+Fortress
+Guard Tower [S AA]
+Observation Point
+Minefield (Inf)
+Minefield (Tk)
+Inf Barrier
+Tank Barrier
+Bridge
+Dirtfield
+MG Bunker [S]
+Seamine
+Field Kitchen [C]
+Sjomina
+Captain America [CREZMP]
+Bunker
+Fastning
+Kp Bunker [S]
+Pontonbro [B]
+Fabrik
+Infanteri mina
+Pansar mina
+Pansar barriar
+Infanteri barriar
+Faltflygplats
+Sibirskaja Pjechota [A]
+M34
+8'' How. M1 [noS]
+8'' Gun M1 [noS]
+M35
+Panzerschreck (wi) [A]
+Panzerschreck [A]
+Bazooka [A]
+M33
+Hospital [C]
+Building
+Fort. Building
+Church
+Villa
+Linnoite
+Verschanzung
+Entrenchment
+Ukrepleniye
+Entrenchment
+Bridge
+Refinery
+Industry
+Radar
+FlaK-Zug (8,8) [RF]
+FlaK-Zug (8,8) [R]
+Luftfaust [AH]
+Waffen-SS Panzerschreck [A]
+3.7cm PaK 35/36 (stat.) [S]
+MG 08/15 stat. [S AA] 
+Panzerturm
+Panzerturm (w. FN-Geraet) [E]
+Panzerschreck (su) [A]
+Panss. Jakaari (wi) [A]
+Panss. Jakaari (su) [A]
+Maus
+Panther F
+Luchs
+24cm K3 [noS E]
+Iceberg
+15cm sFH 37(t) [noS]
+7,62cm FK 296(r)
+12,2cm sFH 396(r)
+15,2cm KH 433/I(r) [noS]
+12,8cm PaK 44
+8cm PAW 600 [D]
+Ba-349 'Natter'
+Me-163
+Ju-88D-1
+7,5cm leGebIG 18 [MAD]
+7,62cm IKH 290(r) [AD]
+4,5cm PaK 184(r) [AD]
+7,5cm IG 37 [AD]
+7,5cm IG 42 [AD]
+StuG M40(i) 75/18 [SE]
+Pe-2FT
+He-111H-6
+Pe-2 capt.
+PzGrenadiere [A]
+Volkssturm
+Tiedustelusasto (su) [AEZMR]
+Bunkerinfantry [CS]
+Infantry entr.
+Graf Zeppelin Class [Y]
+Bf-109T-1 [Y]
+Ju-87C [Y]
+FJ Stab [PC]
+LW Feld Stab [AC]
+Pantherturm
+LaGG-3 capt.
+He-115
+USMC Bridging [BZ]
+FW-190T-1 [Y]
+Waffen-SS MG 42 [S AA]
+Gebirgsjaeger '44 [AM]
+FJ 8cm Grw 34 [PDH]
+Waffen-SS 8cm Grw 34 [ADH]
+LW Feld 8cm Grw 34 [ADH]
+(NJ) Bf-110F-4 [R]
+(NJ) Bf-110FG-4 [R]
+Do-217K-2
+Fallschirmjaeger '43 [P]
+Gebirgsjaeger Stab [AMC]
+Gebirgsjaeger MG 34 [MAS AA] 
+Gebirgsjaeger MG 42 [MS AA]
+Gebirgsjaeger FmW 34-41 [ME]
+Waffen-SS Krad-Aufkl.[A]
+Waffen-SS Melder [A]
+Waffen-SS Meldereiter
+SdKfz 251/20
+SdKfz 250/9
+SdKfz 250/1-I
+SdKfz 250/8 (7,5cm KwK37/51) [R]
+SdKfz 250/10 (3,7cm) [R]
+SdKfz 250/7a (8cm GrW 34)
+PSW 231 6-Rad
+SdKfz 251/9 (7,5cm KwK37/51) [R]
+SdKfz 251/10 (3,7cm) [R]
+SdKfz 251/2 (8cm GrW 34)
+SdKfz 251/22 (7,5cm PaK40 L/46) [R]
+SdKfz 251/16 [ER]
+Pz IIIG (tauch)
+Pz IVD (tauch)
+Pz II (F) [E]
+Pz III (F) [E]
+KV-8S [E]
+FlaKpanzer I
+FlaKpanzer I [F]
+Bruckenleger IV [B]
+Opel Maultier
+Flammpanzer 38(t) [E]
+Pz I (F) [E]
+Aufkl.Pz II
+Aufkl.Pz 38(t)
+Maultier [M]
+Maultier 2cm FlaK 38
+Maultier 2cm FlaK 38 [F]
+Sapjoryj '43 [AEZ]
+Sapjoryj '45 [AEZ]
+Lorraine (wi) [noS]
+Panther G (ambush)
+Gebirgs 12cm Grw 42 [MADH]
+Scharfschuetzen IR [AR]
+Panzerjager '39 [A]
+Panzerjager '42 [A]
+Opel Blitz 3t '43
+Pz 38(t)F
+Goliath [E]
+Gebirgs 8cm Grw 34 [MADH]
+LW Feld 12cm Grw 42 [ADH]
+hvy fort. Building
+Supply [C]
+Barbed Wire (large)
+Barbed Wire (small)
+Schlepper UE(f) Wurfrahmen [noS E]
+Rad-Grenadiere [A]
+Fahrrad '44 [A]
+Waffen-SS Rad-Grenadiere [AC]
+Pz IA
+Pz IVF (su)
+Pz IVF (wi)
+Tiger IE (su)
+Bf-109D-1
+Bf-109F-3
+Shelter
+StuG M40(i) 105/25
+StuG M43(i) 75/46
+Pz P-26/40 737(i)
+PSW 204(f)
+PSW 203(i)
+10,5cm K 332(f) stat.
+15,5cm K 418(f) stat. [noS]
+Bf-109G-8
+Me-109G-8
+Me-109G-6
+Typ 36A Narvik [S H]
+Typ 39 Elbing T22 [S H]
+Waffen-SS Kavallerie '44 [C]
+Waffen-SS Kavallerie '42 [C]
+Waffen-SS Pzjager '39 [A]
+Waffen-SS Pzjager '42 [A]
+Kavallerie '42
+Kavallerie '42
+Kriegsschule
+15cm  K 18 stat. [noS]
+15cm K 39 stat. [noS]
+SdKfz 10/PaK 36 [R]
+10cm leFH 14/19(t)
+10cm leFH 14/19(t) stat.
+10,5cm K 333(f) stat.
+75 ItK/37 SK
+75 ItK/97-14 Puteaux kiint.
+75 ItK/37 SK [F]
+75 ItK/97-14 Puteaux kiint. [F]
+RSO 7,5 PaK 40
+T-23
+K-7
+(TJ) FW-190A-4/R-6 [R]
+(NJ) Do-217N-2/R-2 [R]
+50 Krh/38-40 capt. [ADH]
+82 Krh/37-41 capt. [ADH]
+37 PstK/40 w. Stielgranate 41 [AD]
+RSO
+150 Rkh/41 [noS E]
+5cm Grw 36 [ADH]
+Gebirgs 5cm Grw 36 [MADH]
+LW Feld 5cm Grw 36 [ADH]
+FJ 5cm Grw 36 [PDH]
+28/32 NbWf 41 [noS E]
+21 NbWf 42 [noS E]
+P1101
+Waffen-SS 5cm Grw 36 [ADH]
+Carro grande
+Opel Blitz 3t 43
+Bicicletas [A]
+Mulas [M]
+Dirtfield
+Dirtfield
+Outpost
+Fortress
+Observation Point
+Minefield (Inf)
+Minefield (Tk)
+Inf Barrier
+Tank Barrier
+Bridge
+MG Bunker [S]
+Entrenchment
+Azul Bicicletas
+Azul Zapadores [AEZ]
+Azul Pontoneros [BZ]
+Azul Stab [AC]
+Azul Ski [A]
+Azul MG 34 [AS AA] 
+Ski [AM]
+37mm M.36 [AD]
+50mm M.38 [AD]
+75mm M.40 [D]
+37mm M.36 w. Stielgranate 41 [AD]
+7,92mm  [AD]
+Azul entr.
+Bunkerinfanteria [CS]
+Azul Melder [A]
+Azul Meldereiter
+Azul Rad-Aufkl. [A]
+7,92mm [FAD]
+105mm M.18
+150mm M.18 [noS]
+81mm Moerser [ADH]
+120mm Moerser 42 [ADH]
+20mm M.32 [AD]
+20mm M.32 [FAD]
+37mm M.34 [AD]
+37mm M.34 [FAD]
+Chevrolet AA
+Chevrolet AA [F]
+Polizei-Schuetzen [A]
+Polizei-Grenadiere [A]
+Panzerdraisine Panhard
+Command Bunker [C]
+Scharfschuetzen [AR]
+Bf-109F-4
+Bf-109G-2
+FW-190A-3
+Citroen 23
+Pack
+Buessing
+Tractor
+T 166 [A]
+Jagdkommando [AM]
+Panzerzug (PIV)
+SdKfz 7 (8t) '43
+RSO '43
+SdKfz 8
+SdKfz 8 '43
+180/57 NRaut [noS]
+305/52 ORaut [noS E]
+Sturmpioniere '43 [AEZ]
+Sturmpioniere '44 [AEZ]
+8,8cm RWrf.43 [D]
+TM-1-180 [noS]
+84 K/18 [D]
+8,38cm FK 271(e) [D]
+24cm Moerser H 39 [noS E]
+Fokker C.V [R]
+Fokker F.VIII
+Fokker F.VII
+Fi-156 [R]
+U-2/Po-2 [R]
+Strongpoint
+Fortress
+Minefield (Inf)
+Minefield (Tk)
+Inf Barrier
+AT Barrier
+Bridge
+Entrenchment
+TD-14
+155 H/15 [noS]
+152 H/09-30 [noS]
+Pavesi
+Ford 95/40
+76 K/02 [D]
+76 K/02-30-40 [D]
+120 K/78-31
+122 K/31
+105 K/13
+152mm M-09-30 [noS]
+107mm M-10-30
+122mm M-10-30
+105 H/33-40
+10,5cm leFH 18/40
+105 H/41
+120 H/13
+122 H/09/10-30
+122 H/09/10-40
+150 H/06 [noS]
+150 H/15 [noS]
+76 RK/27-39 [AD]
+76 LK/13 [AD]
+155 H/17 [noS]
+12,2cm leFH 388 (r)
+15,5cm sFH 415 (f) [noS]
+15,5cm sFH 414 (f) [noS]
+VW Kuebel [A]
+15,5cm K 418(f) [noS]
+15,5cm K 416 (f) [noS]
+15,5cm K 425 (f) [noS]
+6inch H 412 (e)
+57mm/Zis-2 [D]
+15,2cm sFH 433(r) [noS]
+15,2cm sFH 445(r) [noS]
+Pz KW-1B 753(r)
+National Guard
+Train
+T-34/85
+KG ID
+KG ID
+KG Waffen-SS ID [C]
+KG Waffen-SS ID [C]
+KG PD
+KG PD
+KG Waffen-SS PD
+KG Waffen-SS PD
+V1 Rampe stat. (noS E]
+V2 mob. [noS E]
+PT [H]
+Commencement Bay [Y]
+Tench Class
+Mahan class [S H]
+Mahan class '44 [S H]
+Pe-8 [L]
+B-17E/F [L]
+B-17G [L]
+YB-40
+B-24D [L]
+B-24J [L]
+B-29 [L]
+HQ [AC]
+Atelaj
+Atelaj greu
+SdKfz 250/1
+Biciclete [A]
+Cavalerie
+Magari [M]
+Cai (Pack)
+Ju-52
+Transport
+IAR-80
+IAR-80A
+IAR-80B
+IAR-80C
+P-24E
+He-112B
+Hawker Hurricane Mk I
+Bf-109E-3
+Bf-109G-2
+IAR-37 [R]
+IAR-81
+IAR-81C
+P-37B
+MB-210
+Po-633B
+SM-79B
+Ju-87D-5
+Ju-88A-4
+Bristol Blenheim Mk I
+Hs-129B-2
+Avanpost
+Fortareata
+Turn de Garda [S AA]
+Punct de Observare
+Camp de Mine antipersonal
+Camp de Mine anticar
+Bariera antipersonal
+Bariera antitanc
+Ponton
+Camp Mocirlos
+Buncar cu Mitraliera [S]
+Transee
+Strongpoint
+Praga RN
+Praga T6
+Famo F3
+Skoda 6STP6L
+Horch H901
+UE Senileta
+T-20 FRC
+Tatra T-93
+Camile
+SdKfz 7 (8t)
+Infanterie '40 [A]
+Infanterie '43 [A]
+Cavalerie
+Pionieri [AEZ]
+Pionieri de Munte [AEM]
+Vanatori de Munte [AM]
+Vanatori de Munte '43 [AM]
+Graniceri
+Partisanyj [M]
+Puscasi Marini
+Parasutisti [P]
+Jandarmi
+Pontonieri [BZ]
+Garda [A]
+Garda '43 [A]
+Graniceri '43
+Vanatori [AM]
+Vanatori  '43 [AM]
+ZB 53/37 MG [AS AA]
+MG 34 [AS AA] 
+Lunetisti [AR]
+Cercetasi [AR]
+Aruncator de Flacari [E]
+Infanterie din Buncar [CS]
+Infanterie consolidata
+Motociclisti [A]
+Cavalerie '42
+Cavalerie '43
+Cavalerie '42
+Cavalerie '43
+Praga RN Cav.
+Infanterie pe Biciclete [A]
+Infanterie pe Biciclete '43 [A]
+Biciclete '43 [A]
+Garnizoana
+R-1
+R-2
+R-35
+T-38
+T-3N
+T-4F
+T-4G
+T-4H
+Renault FT17
+VdC R-35
+Carden Loyd Mk VI
+Vickers 6t
+M3A1 Stuart III capt.
+M3A3 Stuart V capt.
+T-34/76A
+T-34/85
+BA-64
+Ba-20
+Biciclete Cercetasi [A]
+Cercetas Calare
+Motociclisti Cercetasi [A]
+PSW 222
+SdKfz 250/1-I
+M3A1 Lee II
+M3A5 Lee VI
+M3A1 Stuart III
+M3A3 Stuart V
+BT-7
+T-26S
+T-60A
+T-37A
+M3A1 Lee II
+Valentine Mk III
+BA-10
+OA vz.27
+OA vz.30
+AB-41
+Mina
+Bucatarie de campanie [C]
+25mm M37 [AD]
+47mm M35 Breda [AD]
+47mm M35 Boehler [AD]
+47mm M36 Schneider [AD]
+37mm M36 Bofors [AD]
+45mm M32 [AD]
+50mm M38 [AD]
+75mm M40 [D]
+75mm M97-38 [D]
+75mm DT-UDR 26 M43 [D]
+TA [S]
+TACAM R-2
+T-60A
+Maresal
+Vanatori de Care [A]
+50mm M37 [ADH]
+81mm M27-39 [ADH]
+120mm M42 [ADH]
+75mm M97 [D]
+75mm M28 [AD]
+76mm M02-36
+76mm M36
+76mm M39
+76mm M42
+105mm M13
+105mm M36
+105mm M98/09
+105mm M16
+105mm M18-40
+100mm M14-34
+120mm M78
+122mm M10-30
+150mm M14 [noS]
+150mm M34 [noS]
+152mm M10-30 [noS]
+15,5cm K 416 L [noS]
+75mm M15-39 [MAD]
+75mm M06-09 [MAD]
+76,2mm M09 [MD]
+100mm M16 [M]
+105mm M39 [M]
+155mm L-M17 [noS]
+7,92mm M17 [AD]
+7,92mm M17 [FAD]
+13,2mm M31 [AD]
+13,2mm M31 [FAD]
+25mm M39 [AD]
+25mm M39 [FAD]
+20mm M38 [AD]
+20mm M38 [FAD]
+37mm M36 [AD]
+37mm M36 [FAD]
+40mm M36 [AD]
+40mm M36 [FAD]
+75mm M97-17 stat.
+75mm M97-17 stat. [F]
+75mm M36-39
+75mm M36-39 [F]
+76,5mm M25
+76,5mm M25 [F]
+88mm M36 mob.
+88mm M36 stat.
+88mm M36 mob. [F]
+88mm M36 stat. [F]
+[NJ] Bf-110C/F [R]
+P-11F
+Ju-88D-1
+He-111H-6
+He-111H-3
+He-111H-3
+P-23B
+DC-2
+DFS 230 Lastensegler
+Delfinul
+CB
+Ferdinand [S H]
+Vijela [H]
+Capitan Dumitrescu [S H]
+Sborul TB [S H]
+Minesweeper [S]
+Gebirgs-Brueckenpioniere [MBZ]
+FJ FmW 34-41 [PE]
+FJ MG 42 [PS AA]
+LW Feld FmW 34-41 [AE]
+LW Feld Krad-Aufkl. [A]
+Forest fire [E]
+Goliath [E]
+Komentobunkkeri (wi) [C]
+Outpost
+Fortress
+Observation Point
+Outpost
+Fortress
+Observation Point
+Outpost
+Fortress
+Observation Point
+Gebirgs-Pzjager '39 [AM]
+Gebirgs-Pzjager '42 [AM]
+SdKfz 251/1 '43
+PSW 232 '43
+Renault FT17
+Opel Maultier Einheitskoffer [RC]
+SO FW-190G-3
+White 6t
+Cavalry
+Infantry
+Infantry '42
+Horse
+Heavy Horse
+Infantry '43
+Infantry '44
+Engineer [EZ]
+Engineer '44 [EZ]
+USMC '44
+USMC HQ [AC]
+Mountain [M]
+Mountain '44 [M]
+Mountain Engineer [EZM]
+Cavalry
+M3A1 Cav.
+Amd. Cavalry
+M20
+M24
+57mm M1 [P]
+T48 GMC [R]
+M18 [R]
+M36 [R]
+M7
+M8
+M12 [noS]
+M43 [noS]
+T30 HMC
+4.2inch Mortar M30 [AD]
+75mm Gun M1897A4 [AD]
+75mm How M1A1 [AD]
+75mm RCL M20 [PD]
+105mm How M3 [P]
+155mm How M1918A3 [noS]
+155mm Gun M1918M1 [noS]
+155mm Gun M1A1 [noS]
+240mm How M1 [noS]
+M13
+M19
+M13 [F]
+M19 [F]
+Brewster Mod. 239
+P-35 Seversky
+P-36 Hawk
+Dodge T223
+Chevrolet 1.5t
+Studebaker
+Dodge 3t
+Dodge T214
+P-38D Lightning
+P-38F Lightning
+P-38J Lightning
+P-38L Lightning
+P-39D Airacobra
+P-39Q Airacobra
+P-40C Warhawk
+P-40E Warhawk
+P-40N Warhawk
+P-47B Thunderbolt
+P-47D Thunderbolt
+P-47N Thunderbolt
+P-51B Mustang
+P-51D Mustang
+P-51H Mustang
+P-63 Kingcobra
+P-80A Shooting Star
+A-26B Invader
+A-17 Nomad
+A-20A-B Havoc
+A-20G Havoc
+(NF) P-70A [R]
+A-20G Boston
+A-36 Apache
+MG 34 stat. [AS AA] 
+MG 42 stat. [S AA]
+B-10 Martin
+B-18 Bolo
+B-25C/D Mitchell
+B-25G Mitchell
+B-25H Mitchell
+B-25J Mitchell
+B-26G Marauder
+P-63 Kingcobra
+Airspeed Horsa Glider
+C-54
+WACO CG-4A
+Renault FT17
+M26 Pershing
+M29 Superpershing
+M2A1
+M2A4
+M4A1/76W
+M4A3/76W
+M4A3/75W
+M4A3E2 Jumbo
+M4A3/105
+M4A3E8/105W HVSS
+M4A3 com. [C]
+M4A3R3 Flame [E]
+M1A1
+Su-57 [R]
+T-34/85
+Zis-6
+M3A1
+Zis-5
+GAZ 67B [P]
+Voroshilovets
+Kawaleria 43
+Kawaleria 45
+Li-2/DC-3/C-47
+Naval TPT
+Piechota '43 [A]
+Piechota '45 [A]
+Kawaljerija '43
+Kawaljerija '45
+Saperzy Szturmowi '43 [AEZ]
+Saperzy Szturmowi '45 [AEZ]
+Zwiad Motocyklowy [A]
+Saperzy [BZ]
+Sztab [AC]
+Wagon
+hvy Wagon
+SMG [A]
+Fizylierzy [A]
+Brygady Zaporowe [A]
+KBW [A]
+T-34/76D
+IS-1
+IS-2
+KV-1C
+M4A3 Sherman
+M4A1/76W
+Valentine Mk III
+T-60A
+T-70A
+BA-64
+PTDR-41
+SU-76M [S]
+SU-85
+76.2mm M1942/Zis-3 [SD]
+45mm wz. 42 [AD]
+SU-57 [R]
+SU-100
+57mm/Zis-2 [D]
+37mm [AD]
+85 mm M39/KS-12
+85 mm M44/KS-18
+M16
+12,7mm [AD]
+37mm [FAD]
+85 mm M39/KS-12 [F]
+85 mm M44/KS-18 [F]
+M16 [F]
+12,7mm [FAD]
+82-PM 36-43 [PDH]
+120-HM 38-43 [ADH]
+76mm 42/Zis-3
+152mm ML-20 [noS]
+122mm A-19 
+BM-13-16 [noS E]
+SU-76
+SU-152  [noS]
+ISU-152  [noS]
+SU-122 [noS]
+ISU-122 [noS]
+122mm M-30
+76.2mm PP-27 [AD]
+Yak-1
+Yak-3
+Yak-9M
+Yak-9U
+U-2/Po-2 [R]
+Il-2M3
+Pe-2
+Pe-2FT
+Maxim MG [AS AA]
+Osttruppen
+Pjechota '43 entr.
+Pjechota '45 entr.
+Gwardejskaja Pjechota entr.
+Gwardejskaja Pjechota '43 entr.
+Gwardejskaja Pjechota '45 entr.
+Poborowi
+Garnizon
+Zwiadowcy [AR]
+Piechota '43 entr.
+Piechota '45 entr.
+Strzelcy Wyborowi [AR]
+Zwiad Konny
+Zwiad Rowerowy [A]
+SdKfz 10 '43
+VW Kuebel '43 [A]
+Panther im.
+Grenadiere verschanzt
+Waffen-SS Stab im. [C]
+Marine Infanterie '45
+35M
+R-35
+Toldi I
+Toldi II
+Toldi IIa
+Toldi III
+Turan I
+Turan II
+Turan III
+44M
+Pz IB
+Pz 38(t)G
+Pz IIIM (su)
+Pz IIIM (wi)
+Pz IIIM
+Pz IIIN
+Pz IVF
+Pz IVF2
+Panther A
+Tiger IE (su)
+Csaba
+AB-41
+Felderito Huszar
+Kerekparos [A]
+Ju-52
+Tenger Szalitas
+PSW 231 6-Rad
+38M Ford
+Opel Blitz 3t
+Oszverek [M]
+Nehez szeker
+SdKfz 11
+SdKfz 251/1 '43
+KV-50
+Super Raba
+38M Botond
+Szeker
+Raba Afi
+38M G-5
+Huszar
+Huszar '44
+Krupp L2H43 [A]
+Steyer 1500A [A]
+Kerekparos [A]
+Honved [A]
+Honved '44 [A]
+Rohamutasz [AEZ]
+Hegyivadasz [AM]
+Ejtoernyos [P]
+Hadihidoszlop [BZ]
+HQ [AC]
+Honved entr.
+Honved '44 entr.
+Huszar
+Huszar '44
+Schwarzlose MG [AS AA]
+Mesterlovesz [AR]
+Felderito [AR]
+Langszoro [E]
+Erod-gyalogsag [CS]
+Vedmu
+Erod
+Ortorony [S AA]
+Megfigyelo Pont
+Aknamezo (Inf)
+Aknamezo (Tk)
+Inf Barrier
+Tankcsapda
+Pontonhid
+Dirtfield
+MG Bunker [S]
+Fedezek
+37mm 36M [AD]
+47mm 36M [AD]
+40mm 40M [AD]
+50mm 38M [AD]
+75mm 97-38M [D]
+75mm 40M [D]
+StuG IIIG [S]
+Hetzer
+Zrinyi I
+Zrinyi II [S]
+Tabori Konyha [C]
+Tengeri akna
+105mm 37M
+75mm 15M [MAD]
+150mm 14M [E]
+81mm 36-39M [ADH]
+75mm 05-08M [AD]
+76,5mm 18M [AD]
+100mm 14M
+150mm 31M [noS]
+105mm 31M
+210mm 40M [noS]
+150mm 43M [noS E]
+120mm 42M [ADH]
+Pancelvonat [R AA S]
+80mm 29-38M
+88mm 37M
+76,5mm 05-08M
+40mm 36M [AD]
+Nimrod
+8mm 31M [AD]
+80mm 29-38M [F]
+88mm 37M[F]
+76,5mm 05-08M [F]
+40mm 36M [FAD]
+Nimrod [F]
+8mm 31M [FAD]
+C.R.32
+C.R.42
+Heja II
+Bf-109F-4
+Bf-109G-6
+Bf-109G-10
+Bf-109G-14
+Re-2000
+[NJ] Bf-110C/F [R]
+Ju-87B-1/2
+Ju-87D-3
+Ju-86K
+Ju-88A-4
+Ca.135
+Fi-156 [R]
+FW-189A-1 [R]
+FW-58
+FW-58
+FW-190F-8
+WM-21 [R]
+Hatavardasz [A]
+Hatavardasz '44 [A]
+Szekely [M]
+Distruti
+Destroyed
+Destroyed
+Zerstoert
+Detruit
+Podbitye
+Factory
+Hangar
+Wreck
+Submarine Net
+4.2inch Mortar M30 [PD]
+Zis-42
+GAZ 25mm [F]
+Zis-42/37mm
+Zis-42/37mm [F]
+Buy Sub
+Buy Destroyer
+Buy Carrier [Y]
+Buy Cruiser
+Buy Sub
+Buy Destroyer
+Buy Cruiser
+Buy Carrier [Y]
+Buy Sub
+Buy Destroyer
+Buy Cruiser
+Buy Sub
+Buy Destroyer
+Buy Cruiser
+Buy Destroyer
+Buy Sub
+Buy Sub
+Buy Destroyer
+Buy Cruiser
+Buy Sub
+Buy Destroyer
+Buy Carrier [Y]
+Buy Cruiser
+Hegyivadasz '44 [AM]
+Csendor
+Partizan [M]
+Nyilaskeresztes
+Gepkocsizo lovesz [A]
+Gepkocsizo lovesz '44 [A]
+Polgarorseg
+Pancelelharito [A]
+50mm 39M [ADH]
+120mm 43M [ADH]
+MG 34 [AS AA] 
+Test [At]
+Raswedczik im. [AR]
+Waffen-SS FJ [CP]
+8,8cm FlaK 37 mob. TEST [S]
+I-16 Type 10 capt.
+Kevyt kk Madsen (wi) [AS AA]
+Lahti kk (wi) [AS AA]
+Lahti kk (su) [AS AA]
+Sissi (su) [M]
+Esikunta (wi) [AC]
+20 pst kiv/39 (wi) [AA]
+20 pst kiv/39-44 (wi) [AA]
+Gebirgs-Krad-Aufkl. [A]
+Shipwreck
+Transport ship
+Kriegsschule
+Ratsuvaki '39 (wi)
+Ratsuvaki '44 (wi)
+Pyora (wi) [A]
+SdKfz 250/1 '43
+AWS-8Q/-9M Awesome
+AWS-8Q/-9M Awesome
+

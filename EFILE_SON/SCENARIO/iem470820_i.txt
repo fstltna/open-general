@@ -1,0 +1,10 @@
+Batalla de Churubusco
+August 20, 1847
+
+The Yankees are closer and closer to Mexico City. All our attempts to halt them have failed. The Churubusco River is the last natural obstacle, hold the south bank and the bridge!
+
+Deploy Hexes: 18
+
+ORDER: Hold at least 3 VHs and keep your MSU alive.
+
+scenario designer: Csaba (lvjtn)

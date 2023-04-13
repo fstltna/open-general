@@ -1,0 +1,58 @@
+Antique General Intro - playmefirst
+
+Ave Legat! Welcome to Antique-General!
+
+* What's new - what has changed*
+
+In principle Antique-General works in the same way as in the other parts of Open General and Panzer General.
+Only a few things have been changed to adapt the game to the Ancient conditions.  
+-All targets are "soft", EXCEPT buildings, walls, palisades and so on, which are "hard".
+-Of course there is no air force, but we established the new "Spy Class",
+that has some characteristics of aircrafts, but can´t pass over Rivers and have to stop there like all other units. You can choose them with the "eye" button (like the aircraft button in PG) 
+The Spy Class has three types of units:
+Spys -      can be used against other Spy Class units, but primarily
+            intended for reconnaissance.
+Saboteurs - against hard targets.
+Assassins - against soft and spy-class units.
+The Spy units are rearmed in a spy-cave. (just the ancient counterpart to an airport)
+
+Short overview of the "normal" unit classes:
+
+-Entrechments like Castels, wooden and stone towers, etc, some are also effective against spys.
+
+-Spearmen (like Triarii), which are heavy, slow infantry, intended rather more for defence. They give Combat Support too and support fire.
+
+-Infantry like the Signifers, Principes and Hastati are regular infantry, some can attack spys.
+
+-Archers and catapults, etc, give support fire like modern guns.
+
+-Reconnaissance units, some are effective against spys.
+
+-Cavalry, War Elephants, Chariots, etc. can "roll over" their enemies like modern tanks.
+
+-Boats from the float to the armed fishing boat.
+-Ships everything that is bigger than a boat like Galleys, etc.
+
+Sapper can build spy caves, bridges and castles, what certainly costs 
+prestige and "ammunition". They also can creat "Lilia fields", the ancient equivalent of minefields. A "Lilia" is a camouflaged hole in the ground with a sharpened pile at its bottom.
+
+Experienced Sappers in addition are able to build a bridge immediately after entering a river Hex.
+
+Please consider, the better units are only available within an Campaign. There also will be the opportunity of getting prototypes... 
+
+You will see, a Legion has everything it needed to operate complete  independent - a genius level of organization, that was not seen for centuries and not reached until modern times... 
+
+A classic strategie would be to march on slowly with your heavy Infantery backed by archers. Secure your flanks by cavalry and Lilia fields .... fight enemy spies with your spies and scouts ...
+(Don´t worry about your losses, in the third round reinforcements are expected to gain ...)
+
+
+Well, Legat, are you ready for a short exercise fight against the Antique-General-Development-Crew .... to try out all functions  ....?
+... After you won, you're ready for the Caesar campaign .... :-))))
+
+and now .....: We are located in 58 BC. ......
+........................... have fun with Antique-General!
+
+M. Kessler & S. de Mont Tonnerre, MMXII.
+Thanks a lot for Translations to Uli :-)
+
+

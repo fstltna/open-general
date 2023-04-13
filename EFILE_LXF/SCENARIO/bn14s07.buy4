@@ -1,0 +1,23 @@
+'---
+'Config purchase file for scenario: BN14S07.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 12 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+7683  '  7.7cm FK16  [ATY  Warlord China]  Cost: 204
+7684  '  Combat Command  [INF  Warlord China]  Cost: 108
+7687  '  Type 11 80mm Mortar  [ATY  Warlord China]  Cost: 96
+7688  '  Armoured Truck  [RCN  Warlord China]  Cost: 96
+7691  '  Cavalry  [INF  Warlord China]  Cost: 120
+7695  '  MG Infantry  [ AT  Warlord China]  Cost: 108
+7697  '  Engineers  [INF  Warlord China]  Cost: 312
+7698  '  75mm m97  [ATY  Warlord China]  Cost: 120
+7699  '  Recon Cavalry  [RCN  Warlord China]  Cost: 108
+7700  '  70mm 70/15  [ATY  Warlord China]  Cost: 132
+7701  '  Type 13 75mm  [ATY  Warlord China]  Cost: 108
+7703  '  A.300/4  [ TB  Warlord China]  Cost: 192

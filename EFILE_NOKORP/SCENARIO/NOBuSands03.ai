@@ -1,0 +1,13 @@
+'---
+'Config AI file for scenario: NOBuSands03.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=5 items  ' Replacement for default list
+ 377  '  Matilda II  [ TK  United Kingdom]  Cost: 528
+ 381  '  Light Tank Mk VI  [ TK  United Kingdom]  Cost: 168
+ 551  '  Light Tank Mk VI  [RCN  United Kingdom]  Cost: 168
+ 650  '  A9 (Cruiser Mk I)  [ TK  United Kingdom]  Cost: 264
+1705  '  Rolls Royce AC Mk.I  [RCN  United Kingdom]  Cost: 156

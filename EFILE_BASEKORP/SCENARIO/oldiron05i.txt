@@ -1,0 +1,12 @@
+05. The Faid and Maknassy passes - January 30th, 1943
+
+German and Italian forces are following up their attack on the Barrage de l'Oued Kebir, the Karachoum Gap and the Kairouan Pass (previous scenario) with an attack on the more Southernly Faid pass. 
+
+Use Combat Commands A, C and D to hold Faid Pass, push back the Italians in the Sened area and take the Maknassy Pass. After recent heavy French losses against German armor, an agreement has been reached with the French to re-equip their forces and to move them under joint command. From this point on, French troops will take orders from you.
+
+ORDERS
+Take all victory hexes in 7 turns for BV, 9 turns for V, 12 turns for TV.
+
+NOTES: 
+- Only 9 core units can be deployed in this scenario.
+- Units will not be automatically reinforced to strength 10 at the end of the scenario and you will not be able to acquire new units.

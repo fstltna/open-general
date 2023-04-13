@@ -1,0 +1,9 @@
+<?xml-stylesheet type='text/xsl' href='http://opengeneral.sourceforge.net/efile.xsl'?>
+<efile>
+	<title>NOKorp E-File for Open General</title>
+	<description>E-File optimized for technically accurate WWII what-if scenarios able to go beyond 1945 (if you keep winning). It also has a fully developped naval part.</description>
+	<version>Version 1.0 - Summer 2019 - "Marine Expeditionary Force" Edition</version>
+	<author>None</author>
+	<url>http://www.panzercentral.com/forum/viewtopic.php?f=195&t=52445</url>
+	<license>Creative Commons (CC SA-NC) license, Share-alike, Non-commercial. Credits go to the "Basekorps" and "LFX" E-Files.</license>
+</efile>

@@ -1,0 +1,60 @@
+'---
+'Config AI file for scenario: OAKSB_S_ptt.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=60 
+$buy_newair=40 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3   
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2   
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=42 items  ' Replacement for default list
+ 320  '  20mm  [FlaK  United Kingdom]  Cost: 72
+ 321  '  40mm I  [ AD  United Kingdom]  Cost: 180
+ 322  '  40mm Portee  [ AD  United Kingdom]  Cost: 504
+ 324  '  2pdr  [ AT  United Kingdom]  Cost: 84
+ 328  '  25pdr  [ATY  United Kingdom]  Cost: 192
+ 336  '  Infantry  [INF  Australia]  Cost: 96
+ 339  '  40 Commandos  [INF  United Kingdom]  Cost: 1464
+ 340  '  40 Bridging  [INF  United Kingdom]  Cost: 192
+ 354  '  Dingo  [RCN  United Kingdom]  Cost: 216
+1689  '  3inch  [ATY  United Kingdom]  Cost: 84
+1728  '  Nomad I  [ TB  United Kingdom]  Cost: 624
+1910  '  4.5inch  [ATY  United Kingdom]  Cost: 504
+1931  '  Scout Carrier  [RCN  United Kingdom]  Cost: 204
+2272  '  20mm  [FlaK  Australia]  Cost: 60
+2273  '  40mm I  [ AD  Australia]  Cost: 168
+2274  '  3.7inch  [ AD  Australia]  Cost: 384
+2275  '  2pdr  [ AT  Australia]  Cost: 84
+2279  '  MMG  [ AT  Australia]  Cost: 96
+2283  '  25pdr  [ATY  Australia]  Cost: 192
+2285  '  3inch  [ATY  Australia]  Cost: 84
+2287  '  25pdr Baby  [ATY  Australia]  Cost: 192
+2289  '  Engineer  [INF  Australia]  Cost: 396
+2290  '  Bridging  [INF  Australia]  Cost: 192
+2291  '  Commando  [INF  Australia]  Cost: 1620
+2292  '  Guerilla  [INF  Australia]  Cost: 144
+2293  '  CMF  [INF  Australia]  Cost: 96
+2294  '  Paratrooper  [INF  Australia]  Cost: 348
+2296  '  Marmon-Herrington III  [RCN  Australia]  Cost: 240
+2298  '  Coastwatchers  [INF  Australia]  Cost: 96
+2299  '  Carrier  [RCN  Australia]  Cost: 192
+2300  '  Lt VI  [ TK  Australia]  Cost: 180
+2316  '  Hurricane IA tropical  [FTR  Australia]  Cost: 792
+2320  '  Wirraway  [ TB  Australia]  Cost: 612
+2321  '  Hudson I  [ TB  Australia]  Cost: 708
+2322  '  Battle I  [ TB  Australia]  Cost: 672
+2344  '  3.7inch  [FlaK  Australia]  Cost: 168
+4148  '  Lysander IIIA  [ TB  Australia]  Cost: 648
+4156  '  Audax I  [ TB  Australia]  Cost: 384
+4179  '  Spitfire IA  [FTR  Australia]  Cost: 900
+5112  '  Hurricane IA tropical  [FTR  United Kingdom]  Cost: 792
+5114  '  Hurricane IIB tropical  [FTR  United Kingdom]  Cost: 852
+5683  '  44 Parachute HQ  [INF  United Kingdom]  Cost: 288

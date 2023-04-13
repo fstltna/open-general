@@ -1,0 +1,10 @@
+Battle of Torgau
+November 3, 1760
+
+In August, the Austrians missed an opportunity to destroy the main Prussian army in Silesia. In late October, Field Marshal Daun slipped out of Silesia and moved west to Saxony where Feldzeugmeister Lacy joined him with his corps. The Austrian Court ordered him to stand and fight the Prussians, Daun selected a position on the Süptitzer Heights just west of Torgau. Frederick II could not allow the Austrians to sit down on the Saxony resources of food, money and recruits, in a position on the Elbe which left the south flank of Brandenburg open. Therefore the King looked for a decisive battle. Frederick II determined to send General Hans Joachim von Zieten to hold Daun’s attention from the south, while his main effort circled around the western end of the Austrian line to attack from the north.
+
+Deploy Hexes: 21
+
+ORDER: Take all VHs, and keep your MSU alive.
+
+scenario designer: Csaba (lvjtn)

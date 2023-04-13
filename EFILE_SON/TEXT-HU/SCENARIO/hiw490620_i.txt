@@ -1,0 +1,12 @@
+Pered
+1849. VI. 20.
+
+Tábornok polgártárs! Négy napja az Asbóth tábornok vezette II. hadtest kudarcot vallott a zsigárdi hídfõnél Wohlgemuth IV. hadtestével szemben, most a III. hadtesttel kiegészülve Ön móresre taníthat ja Haynaut. Az ellen utolsó erejét gyûjtötte össze, de vigyázzon! Mint hírlik az oroszok cárja hadaival sietett a bécsi zsarnok segítségére.
+
+A Honvédelmi Bizottmány egy tüzérségi egységet helyez a parancsnoksága alá.
+
+Elhelyezhetõ egység: 24
+
+KÜLDETÉS: Legalább 3 gyõzelmi pontot tarts meg!
+
+JAVASLAT: A császáriak jelentõs erõsítést kapnak a csata folyamán.

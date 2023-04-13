@@ -1,0 +1,12 @@
+Battle of Zorndorf
+August 25, 1758
+
+The Russian invasion of East Prussia had begun in January 1758. By January 22, the Russians, led by William Fermor, occupied Königsberg. They then seized Elbing and Thorn. In June they crossed the Vistula, in August the Warta and advanced into Brandenburg. the Russians were poised to join the Austrians operating in Silesia. The Prussian king understood that the joining of his enemies would spell the fall of Berlin and, deciding to forestall their plans, moved to the Russian rear. On August 24, Frederick II detected the presence of the Russian main army south of the Mietzel River.
+
+Deploy Hexes: 19
+
+ORDER: Take all VHs and keep your MSU alive.
+
+NOTE: Expect some friendly reinforcements. General Seydlitz will arrive from the west, the king from the east.
+
+scenario designer: Csaba (lvjtn)

@@ -1,0 +1,134 @@
+Duderhof Hills
+Gulf of Finland
+Neva River
+Leningrad
+Izhora River
+Luga River
+Oranienbaum
+Peterhof
+Kovashi River
+Pola River
+Strel'na
+Shelon' River
+Red'ya River
+Perekhoda River
+Tosna River
+Psizha River
+Krasnoe Selo
+Volpino
+Pushkin
+Ivanovskoe
+Kiren
+Krasnyi Bor
+Pavlovsk
+Snezha River
+Krasnovardeysk
+Vyritza
+Tosno
+Sabsk
+Kholnya River
+Bol. Sabsk
+Luga
+Zapolye
+1/1Pz
+1/58
+2/58
+3/58
+36M
+96
+36M
+LVI
+XLI
+XLI
+2/1Pz
+1Pz
+SSPol
+4/1Pz
+70/36M
+87/36M
+XLI
+LVI
+1/296
+2/296
+58
+SSPol
+36M
+1Pz
+LVI
+1JG/L1
+2JG/L1
+1StG/L1
+2StG/L1
+1KG/L1
+3/296
+118/36M
+XLI
+SSPol
+4/1Pz
+5/1Pz
+1Pz
+XLI
+SSPol
+SSPol
+1Pz
+SSPol
+1/11
+2/11
+3/11
+1/191
+2/191
+3/191
+11
+3GDNO
+[8A]
+[55A]
+[55A]
+[8A]
+[55A]
+[8A]
+[55A]
+3GDNO
+3GDNO
+3GDNO
+4GDNO
+4GDNO
+4GDNO
+191
+125
+[8A]
+21NKVD
+21NKVD
+21NKVD
+21NKVD
+[55A]
+4GDNO
+[55A]
+[55A]
+84TR
+86TR
+1TD
+87TR
+1TD
+1TD
+[8A]
+27CvD
+27CvD
+1TD
+1/44
+2/44
+8Ft
+86Ft
+2MD
+21NB
+21NB
+2NB
+[55A]
+[8A]
+106E/55A
+1/125
+2/125
+3/125
+4GDNO
+[55A]
+87Ft
+14B

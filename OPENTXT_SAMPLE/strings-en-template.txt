@@ -1,0 +1,916 @@
+* Warning !!
+* Do not removed neither insert lines (unless specifically told).
+* This file is provided as a template to allow game ui
+* to be translated to a different language
+*
+* Edit every line trying to keep same length as much as possible
+* Save changes as "Strings-XX.txt" replacing "XX" sufix with your language
+* ISO 639-1 code (http://en.wikipedia.org/wiki/ISO_639-1)
+* Be sure your file is in your main OPENGUI folder
+*
+* To see your progress, start OpenGen and pick your new code in language combo
+* To return to default English UI, pick "Default English text" in the combo
+* Language file is loaded at start and evertime a game is loaded, so to see
+* your last changes, either load a different game or restart OpenGen.
+*-------------------------------------------------------------------
+*
+* These sections can be redefined at efile level
+* by using STRINGS_EFILE.txt in efile folder
+* but you cannot remove from this file
+*
+* [terrain] ... can be redefined
+Clear
+City
+Airfield
+Forest
+Bocage
+Hill
+Mountain
+Sand
+Swamp
+Ocean
+River
+Fortification
+Port
+Stream
+Escarpment
+Impassable River
+Rough
+Custom
+Roads
+Rails
+
+* [sides] ... can be redefined
+Axis
+Allied
+
+* [classes] (units) ... can be redefined
+None
+Infantry
+Tank  
+Recon
+Anti-tank
+FlaK
+Fortification
+Ground Transport
+Rail Transport
+Artillery
+Air Defense
+Fighter
+Tactical Bomber
+Level Bomber
+Air Transport
+Helo Transport
+Submarine
+Destroyer
+Battleship
+Carrier
+Naval Transport
+Battle Cruiser
+Cruiser
+Light Cruiser
+
+* [targets] ... can be redefined
+Soft
+Hard
+Air
+Naval
+
+* [spaces] ... can be redefined
+Ground
+Air
+
+* [movement] ... can be redefined
+Tracked
+Half Tracked
+Wheeled 
+Leg 
+Towed
+Air
+Deep Naval
+Coastal
+All Terrain
+Amphibious
+Naval
+Mountain (Leg)
+Train
+Helicopter
+
+* [transports] ... can be redefined
+Cannot be transported
+Naval
+Airmobile
+Airborne
+Train
+Helicopter
+
+* [results] ... can be redefined
+Brilliant Victory
+Victory
+Tactical Victory
+Loss
+
+*----------------------------------------------- 
+*
+*** From here texts cannot be redefined
+*** only translated
+*
+*-----------------------------------------------
+
+* Weather
+Fair
+Overcast
+Rain
+Snow
+
+* Ground condition
+Dry
+Frozen
+Mud
+
+* Months
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+* Combat messages
+Destroyed %d  Suppressed %d
+Overrun attack!
+Attacking
+Assaulting
+Barrage fire
+Rugged defense
+Surprise contact
+Out of the sun!
+Surprised!
+Interceptors!
+Air Defense
+Support Fire
+Close Support Fire
+Attack broken off
+Attack broken by fire support!
+Submarine Evades
+Submarine dives
+Fleeing Port
+Scuttling
+Surrender
+Retreating from battlefield
+
+* game messages
+Reinforcements have arrived
+Do you want air transport?
+Successfully saved
+WAS NOT SAVED-ERROR
+Are you sure you wish to remove this unit?
+Incorrect password
+Congratulations on your Victory
+
+* Menu Main
+Select Equipment
+Play Scenario
+Play Campaign
+Multiplayer scenario
+Play by e-mail
+Review best careers
+Start game editor (Suite)
+Load a saved game
+Settings
+Replay game from xlog file (commands logged to file)
+Play intro video
+Show version
+Exit the game
+
+* Menu Game
+Next unit
+Cancel move
+Requisition
+Deploy
+Headquarters
+Air mode
+Strategic / Normal map
+Replay e-mail opponent's turn
+Chat
+Additional options
+Full screen
+End turn
+Game functions
+Settings
+
+* Menu Additional options
+Status report
+Scenario intro
+List of Hotkeys
+Show Terrain labels and data
+Show grid
+Music On-Off
+Sound effects On-Off
+Show combat results on map also
+Show spotted hexes on map
+Hide unit strength & combat estimates
+Show range of fire for selected unit
+Video and other options
+Done, close this menu and return to game
+
+* Menu Requisition (can be overwriten by efile Units.txt)
+Switch Ground+Air / Naval units menu
+Select Air defense
+Select FlaK
+Select Fortification
+Select Anti Tank
+Select Artillery
+Select Infantry
+Select Recon
+Select Tanks
+Select Fighters
+Select Tactical Bombers
+Select Level Bombers
+Select Submarine
+Select Destroyer
+Select Battleship
+Select Carrier
+Select Battle Cruiser
+Select Cruiser
+Select Light Cruiser
+Name unit
+Reassign Unit
+Exit
+
+* Menu dossier
+After Action Report
+Exit
+
+* Menu Headquarters
+Dossier
+Inspect Unit
+Go to Unit
+Requisition Unit
+Refit/Overstrength Unit
+Upgrade Unit
+Reassign Unit
+Game Functions
+Core units cost and cap values
+Exit
+
+* Menu Units
+Mount - Dismount
+Embark - Disembark
+Supply
+Replacements
+Rename unit
+Exit
+
+* Menu Deploy
+Requisition Unit
+Air mode
+Strategic / Normal map
+Show grid
+Exit
+
+* Browse list
+Top
+Page up
+Line up
+Line down
+Page down
+Bottom
+
+* Dialog Tips
+Leader
+Transport
+Country
+Experience
+Experience level
+Fuel
+Ammo
+Strength
+Range
+Initiative
+Spot
+Mov.Method
+Hard Attack
+Soft Attack
+Air Attack
+Naval Attack
+Ground defense
+Air defense
+Close defense
+Range defense
+Class
+Cost
+Field Headquarters
+New equipment available
+Requisition
+Upgrade
+Inspect Unit
+Casualties Inflicted
+Casualties Taken
+HIGH scores
+LAST scores
+Switch to see LAST scores
+Switch to see HIGH scores
+View Strategic Map with Deploy Hexes and without units
+Available prestige: %d
+Cannot Refit/Overstrengt
+Refit/Overstrength Unit * Cost=%d
+Cannot Refit/Overstrength Unit Cost=%d > %d
+Switch Main / Supporting country
+No data available
+Exit
+
+*----------------------------------------------------------------
+* Windows type dialogs : Warning keep lenght as much as possible
+*----------------------------------------------------------------
+* LOAD_SCN
+Player 1
+Player 2
+EFile folder
+Show ALL scenarios (also set as hidden)
+Sort by filenames
+Player 3
+Player 4
+Filter files
+PG2 mode
+ 
+* LOAD_SAVES
+Player 1
+Player 2
+EFile folder
+Include PG2 single scenario SAV
+Include PG2 campaign CSV
+Load Game
+Include single scenario XSAV
+Include campaign XCSV
+Filter
+Sort by Date
+
+* HOTKEYS
+OpenGen Hotkeys
+Strategic map view
+Scroll  Map
+Center on selected unit
+Show combat losses on map
+Toggles terrain labels
+Exit (menu, dialog or game)
+Hotkeys
+Toggle Air/Gnd mode
+Reload last
+show turn summary
+Move list of units (Deploy HQ,...)
+Help for special attributes
+Set Win mode
+Show scenario intro
+Toggle spotted marks
+Toggle unit strength and losses
+Toggle mode: Move / Barrage fire
+End turn
+Change unit's facing
+Deploy
+Field HQ
+Next unit 
+Replacements
+Dossier
+..nothing yet 
+Mount/Dismount
+Show turn combats log
+Previous unit
+Quit game
+View Unit
+Cancel movement
+Show Debug report
+Pop-up error on screen
+Toggle range of fire outline
+Toggle pattern for shadowed hexes
+Toggle box to  highlight selected item
+Fuel markers On/Off
+Load save game
+Show last combat log
+Save current game
+Supply unit (if possible)
+Cycle units when stacked
+Auto-save
+Requisition
+Embarcar/desembarcar
+Toggle sounds
+Toggle music
+Toggle  strength boxes
+Omit unit from cycling
+Report Error
+Reload Mapfile
+Toggle VH/SH data on map
+Toggle Fog of War in map
+Abandon unit's transport
+Show path to move
+Switch music 1/2
+Toggle Unit stats panel
+
+* PEBM SPECIAL CODES
+PEBM codes (@)
+Can use Air transport
+Airborne
+Mountain (leg) movemente method
+Bridge
+Engineer
+Recon Skill (phased movement)
+Disembark if attacked (jump out transport)
+Artillery without support fire
+Support fire
+ground attack for AD and Flaks
+Combat Support
+Flak - can Air Attack
+Carrier, Supply Air Units
+capture hexes
+Aircraft carrier deploy
+Air Liftable ground transport
+Sapper
+Mechanized
+Means, there are more attributes, without letter identifier, so need to hover mouse to check them
+can barrage (bombard)
+Marine
+
+* SCN_INTRO
+Scenario title
+Show campaign  intro
+
+* LOAD_CAM
+Player 1
+EFile folder
+# scenarios
+Check maps (no DL)
+Check && DL missing
+Check && DL automatic
+AI
+Sort by filenames
+
+* SCN_END
+Campaign title\nScenario title
+Finished !!! -  
+Brillant victory
+Main country name turn xx
+Date
+You killed all enemy units
+Score
+
+* NAME_UNIT
+Unit name
+
+* SELECT EFILES
+Files on folder
+EFile folders
+Create new EFile folder: (type relative path)
+
+* MEDIA SETTINGS
+MEDIA SETTINGS
+Play Music
+Play Sounds
+Play Videos
+Default Music1:
+MAX
+Volume
+Intro : 
+Music Intro: 
+Volume
+MAX
+Misc Sounds (Click...)
+MAX
+Volume
+Bad weather sound
+MAX
+Volume
+Use MCI instead of DirectShow
+Playing now:
+Nothing playing now ...
+Default Music2:
+
+* PICK_SAVEGAME
+Player 1
+Player 2
+Existing files               Folder:
+Add New
+folder
+Type
+Save current :
+Title
+Include PG2 savegames
+
+* INFO
+Title
+Progress
+
+* BROWSER
+Drive:
+Current directory:
+File type:
+Title
+File name:
+Current dir
+
+* AAR SETTINGS
+Include Unit's name
+Include Country
+Include BaseStr
+Include Killed 
+Forum codes
+Include strength (Cur / Base)
+Excel CSV
+Include Averages
+Compare SaveGame
+Include Scn played
+Include Unit number
+Player units summary
+After Action Report options
+Include PEBM codes
+Use Army After Battle (use base strength)
+Include game score
+
+* LOAD_EML
+New game
+Load game
+Play by e-mail
+Efile Folder
+efolder
+Game file
+efolder
+
+* SCREEN SETTINGS
+Scroll Speed (pixel displacement)
+Refresh rate (timer speed) ms
+Frames / hexpos when moving air units
+Extra delay on each movement frame for Full Modes, ms 
+Frames / hexpos when moving ground units
+Screen Settings
+Delay for unit rotation. Set 0 for no rotation
+Delay for fire and explosions animations
+
+* BUGREPORT
+Do not attach any file
+Include last AUTOSAVE
+Include file:
+Summary (up to 60 chars)
+Details 
+Created by: (your name)
+Add item to SourceForge Track System (either bug or request)
+Attach file:
+Can review current staus and replies, entering SourceForge Track System at:\nhttps://sourceforge.net/tracker/?group_id=355449
+
+* GAME SETTINGS
+Allow to BLOW
+Allow to REPAIR
+Game settings
+... Applies to bridges, ports, airfields && cities 
+Allow to BUILD
+Allow barrage fire
+BB,CV && BC can fire as FlaKs
+True range 0 (cannot fire to surrounding hexes)
+True spotting 0 (cannot spot surrounding hexes)
+Allow using all full size hexes on map (row, col  0)
+Mountains,Cities && Forest blocks direct LOF even if range>2
+Friend Units ALSO block LOF (except if light special)
+Extended LOS rules (Forest,... blocks LOS, limited Air LOS ) 
+Air units extend ZOC (same as ground units ) 
+Air units  can be fired when entering AD range
+Select AI
+Roads Extended (checked when entering hex, not when leaving it)
+Allow roads on any terrain (even ocean)
+Reinforces arrives when player is active (either same as PG2- at turn start)
+Core units added by design do not count against the CAP (default as purchased)
+Use scenario settings
+Use registry settings
+Disable AI
+
+* MAIN SETTINGS
+Video Mode:
+Double click on any list item to use it
+Last used files
+Current Video Mode
+Loaded File
+Map Image:
+EFile loaded
+Game Folder
+EFile Folder
+DatFile loaded
+Media Settings
+Scenario Settings
+A.A.R.Settings
+Width x Height x bpp
+Screen settings
+Font
+Store Settings on disk
+PG2 mode:  ON
+Try to download maps as JPG first (either as  PNG) 
+User Interface Settings
+
+* USER SETTINGS
+Show explosion on target (ranged fire)
+Disable logs commands to disk (so won't replay later)
+User Interface Settings
+Double click switch to strategic view
+Always show terrain type on top banner
+Load weather animations on system memory
+Show weather animations
+Disable text logs (AI turn, debug)
+PG2 mode:  ON
+Show explosion instead of surrender
+Show tips.
+Hide unit strength and combat forecast
+Show combat results close to units also
+Hide fuel markers for planes
+Show terrain labels and roads
+Show range of fire outline
+Hide VH/SH data on map
+Show hex grid
+Info available on Map
+Show Fog or War pattern in map
+Select UI Language
+
+* GAME_OPTIONS
+New game
+Load Game
+Save game
+Exit the game
+Double click on any item to load a recent file
+Current File
+EFile
+
+* PASSW
+Enter password
+
+* MISC FORMATTED TEXT
+Weather is %s
+Player %d * %s
+Side:%d (%s) * %s  %s
+Current Prestige : ?
+Current Prestige : %6d
+Prestige Modifier: %6d
+Hold %d VH
+Last turn
+%d turns
+Units to Exit: %d  (turn: %d, %d, %d for BV,V,TV)
+Units to Exit:  %d
+Prevent %d AI units from Exiting (turn: %d, %d, %d for BV,V,TV)
+Prevent %d AI units from Exiting
+Avoid %d player units to Exit (turn: %d, %d, %d for BV,V,TV)
+Avoid %d player units to Exit
+Marked Units to survive: %d  (turn: %d, %d, %d for BY,V,TV)
+Marked Units to survive: %d
+Marked Units to destroy %d (turn: %d, %d, %d for BY,V,TV)
+Marked Units to destroy %d
+AI version: %s  %s
+Pg2 Mode
+OG Mode
+Win
+Full
+Full: %4d x %4d x %2d  %s
+Win %4d x %4d x %2d  %s
+Player1: %s
+Player2: %s
+%d scenarios
+P1: %s - %s
+P2: %s - %s
+P3: %s - %s
+P4: %s - %s
+Scen: %s * Turn:%d
+Cam: %s\r\nScen: %s * Turn:%d 
+Scenario Score : (No score)
+Scenario Score : %d
+
+* -------------------------------------
+* Pop Messages
+* not so critical about lenght of text
+* -------------------------------------
+Scenario [%s]\nnot found ...
+Do you want to save current scenario first ?
+Do you want Air transport ?\nBe aware you cannot un-deploy later!
+Will loose transport, continue ? ...
+Warning, you are firing to a friend hex\nAre you sure to continue ?\n
+\n Are you sure you want to abort AI turn ? \n
+Unit is building, will abort work in progress ?
+Unit:%d   %s  -  %s\nAre you sure to abandon transport: %s   Movement: %d ?
+\nConfirm you want to re-asign unit (remove it) ?\n
+Do you really want to reassign this unit ..\n\n%s %s \n
+Please confirm to create these folders ...\n%s\n%s\n%s
+Do you want to delete file ...\n%s\n
+Still checking campaign files ... \nDo you want to abort now ? \n
+\nAre you sure you want to reload the map ? \n
+Unit has no fuel, so cannot move transports!\nDo you want to move losing the transports ?\n
+Do you really want to launch the Suite ? 
+Do you really want to exit ? ...
+
+Will test Dice(1,20) %d times\n
+Efile has %d units\nOnly first %d units will be loaded\n
+%s not found ...\nNo equipment names available\n
+Cam file [%s]\nnot found ...
+Efile folder changed to\n\n%s
+XLOG replay aborted by user ...
+End of XLOG replay ...
+Cannot open %s\n... aborting test\n
+%s\nsaved succesfully
+Error saving:\n%s
+ Scenario [%s] \n not found ... 
+Error...\ncannot play without the map, as map size is unknown\nAborting ...\n
+Saved file [%s]\nnot found ...
+It is not a PG2 csv file, maybe is it MS-Excel ?
+It is not an OpenGen saved file !
+Cannot create file\n%s \n
+Warning ...\n %d units found with wrong position on map\n Has been moved to pos(1,1)
+No Mapfile is defined ...\nor maybe some error happened when loading the scenario\nNo background map picture will be shown...
+Missing Mapfile %s ...\nand I have not found on the NET either ...\n
+Could not open Mapfile: %d\nNo background map picture will be shown...
+Map succesfully reloaded\n
+Mine succesfully removed ...\n
+Failed to remove mine!\n1 suppressed for the rest of turn\n
+End of Replay...
+Game loaded ok
+Trying to save as xEml file ...\n%s \n
+No valid file name for xEml file ...\n
+Not a pbem file [%s]\n
+Too big map size ...
+%d units have been removed from map
+AI paused, press F5 to resume or ESC to abort ...
+Ai paused, click to resume ...
+Cannot open campaign file: %s\ncouldn't check it..
+Aborted by user ... \n
+Campaign: %s\nChecked %d scenarios\nNo critical files are missing
+Unit:%d %s entering hex with wrong position (%d,%d)\nPlease keep current AUTOSAVE* ..\nBefore ending turn to allow analizing\n
+Cannot abandom transport while mounted!
+Player %d, cannot purchase more units\nAlready has %d units\n
+Cannot purchase a unit with strength 0\nPlease review Default Strength Settings
+Bad weather data pointer accesing NextWeather()\n
+Bad weather period on NextWeather()\n
+%s already exist ...
+\nThese folders have been created:\n%s\n%s\n%s
+%s is not a valid Game folder ...
+Error...\n
+Max number of names reached\ncannot add new names
+Use latest Suite to clean OpenGen options on every scenario
+Wrong password entered\nTry again ...
+Waiting too long\n... press any to abort program\n
+Seed saved succesfully
+Could not create\n%s
+Seed loaded succesfully
+Could not open\n%s
+Cannot reinforce unit...
+Cannot resupply unit...
+\nSuite must be placed on main game folder\n
+Defender Evades!
+ %s \n is not a valid game folder as no dat file was found! \n You will be prompted to select a valid game folder \n
+Error !\nStill no valid game folder, you won't be able to play\n
+Could not write to file\n%s\nSettings saved in registry...\n
+ Checking to download map %d\n Please wait...
+Save file [%s]\nnot found ...
+Not enough video memory to run the game\nClick to exit...\n
+Aborting campaign checking\nPlease wait...
+
+* Lines added after first template version
+No file loaded
+No image
+Select music file
+Select intro file
+Select intro video
+OpenIntro  (in main SOUND folder)
+? raise help for @ codes. Use PgUp/PgDown to scroll the list
+Upgrade disabled for this scenario
+AAR (after action report)
+Army cost: %d  * Current prestige: %d  * %s
+Folder
+New equipment available since last scenario started
+New equipment available this month
+
+* more added
+Reviewing map, press ESC key to cancel and return to normal view
+Weather is: %s (%d turns to change)
+Turn: %d / %d
+Army
+Army Cost is
+Avail: %d
+Ground condition: %s
+ <Press D to drop>
+ <Press A to AirEmbark>
+ <Press N to NavalEmbark>
+ <Blown>
+  Build: %s -%d
+Click to show transport details
+Ctrl+T to abandon
+None
+You have been awarded a prototype unit
+Chance for leader %d%%
+VH to hold
+%d units to escape
+Turn
+BombSize
+Using movement
+Not found
+Name unit
+Checking campaign
+Scenario #%d [%s.scn]
+Scenario text file [%s.txt]
+Scenario #%d [%s]\n[mapfile: %s.map]
+Scenario #%d [%s]\n[map picture #%d]
+critical error found
+trying to download
+even on the web
+downloaded from web
+Press ESC to abort ...
+
+cannot open scenario #%d [%s] to check map picture\n
+Scenario #%d [%s] has no mapfile defined\n
+Cannot open scenario #%d [%s] to check map picture\n
+Scenario #%d [%s] has no mapfile defined\n
+Found %d missing files on campaign %s\n
+%d files has been downloaded\n
+There are %d Missing files yet
+All missing files have been downloaded from the web
+AP:%d  Fort:%d  Port:%d  Bridge:%d pp
+Click to show Dossier
+
+* Special attributes
+Abilities
+No Abilities
+Airborne
+Airmobile
+Mountain movement
+Bridge
+Engineer
+Recon Skill
+NO dismount when attacked
+Dismount if attacked
+NO support fire
+Support fire
+ground attack for AD and Flaks
+Combat Support
+Can Air Attack
+Dirt Airfield - deploy and supply Air Units
+Capture hexes
+Can deploy on carriers
+Airmobile transport
+Sapper can build and repair
+Can drop mines
+Can clear mines
+Mechanized, can move and attack
+Marine, can move after disembark from sea
+No surrenders because suppresion
+Dismount after movement
+Cannot use dirt airfields
+Can bomb within full range of fire
+Unit cut enemy's LOS
+Unit doesn't cut LOF
+Unit doesn't exert ZOC
+Unit can evade like submarines
+Can bombard/barrage
+Can blow
+Cannot get a leader
+Lasting suppression toggle
+All weather combat
+Can Overrun
+Cannot Overrun
+No run out ammo penalty
+Cannot intercept air units
+Can use rail transport
+Can use helo transport
+	
+* Leaders
+Tenacious Defense : +4 to Defense
+Aggressive Maneuver : +1 Movement
+Elite Recon Veteran : +2 Spotting
+Tank Killer : No initiative penalty for movement into combat
+Marksman : +1 Range of fire
+Mechanized Veteran : Can move and fire
+Skilled Interceptor : Multiple interceptions
+Skilled Assault : Inmune to Out Of The Sun and AA interception
+Aggressive Attack : +2 to Attack
+Determined Defense : +2 to Defense
+Battlefield Intelligence : Cannot be surprised, +1 inititiative
+First Strike : Fire first if initiative is won
+Resilience : Fewer casualties and cannot be overrun
+Influence : Half cost to upgrade or get replacements
+Fire Discipline : Uses ammunition at half rate
+Liberator : Can capture flags and gets double prestige for capturing
+Mountain Training : Moves through Forest, Hill, Rough and Mountain as clear
+All Weather Combat : Immune to weather conditions
+Camouflage Expert: only spotted by adjacent hexes when in forest, city, bocage, sand or mountain, and fires at first enemy entering ZoC
+Combat Support : Lend exp. bars to adjacent friendly units
+Infiltration Tactics : Ignores entrenchment and First Strike if initiative is won by margin >1
+Aggressive Maneuver : +1 Movement
+Skilled Reconnaissance : +2 Spotting
+Reconnaissance Movement : Phased movement
+Skilled Ground Attack : Bonus when attacking ground units
+Street Fighter : Ignores entrenchments in Cities
+Overwhelming Attack : Higher probability to inflict casualties, first suppression become kill
+Superior Maneuver : Ignores zones of control
+Extended Front : Gives support fire to adjacent friend units
+Ferocious Defense : No unit can ignore this unit's entrenchments, ignores suppression
+Overwatch : First unit that moves within range is surprised
+Devastating Fire : Unit can fire twice per turn
+Bridging : Treats rivers as rough and acts as bridge
+Shock Tactics : Inflicts suppression lasting the entire turn
+Flak Support : Support Fire and Multiple intercept
+
+

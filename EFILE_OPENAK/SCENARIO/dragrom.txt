@@ -1,0 +1,16 @@
+ROMANIAN CAMPAIGN 1941-1945   v1.0   for Open General.
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+      Romania joined the German led invasion of the Soviet Union on June 22, 1941. Nearly 800,000 Romanian troops fought on the Eastern front. Areas that were annexed by the Soviets were reincorporated into Romania. By 1943, the tide began to turn and the Soviets pushed further west closer to Romania. Foreseeing the fall of Nazi Germany, Romania switched sides during King Michael's Coup on 23 August 1944. Romanian troops then fought alongside the Soviet Army until the end of war, reaching as far as Czechoslovakia and Austria. 
+
+Campaign info 
+¯¯¯¯¯¯¯¯¯¯¯¯
+17 scenarios
+
+Player 100 %  / AI 100 % for a medium difficulty gameplay experience.
+Player 150%-200% / AI 100 % for an easy and very easy difficulty gameplay experience.
+
+-There is no prestige given after-scenario, all being gained during scenario.  
+- In defensive scenarios the player is awarded 100 pp per turn.
+-The auto-refit at HQ is disabled throughout the campaign .
+This means that the player must carefully manage the prestige, the core upgrades and the size of the core. A bigger core or a higher quality core are more difficult to maintain .
+-The cap is disabled throughout the campaign.

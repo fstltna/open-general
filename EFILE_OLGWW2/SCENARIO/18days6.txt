@@ -1,0 +1,120 @@
+Antwerp
+Brasschaat
+Kieldrecht
+Schoten
+Ranst
+Beveren Waas
+Antwerp [PORT]
+Antwerp
+Highway
+Zwijndrecht
+Antwerp [R.R. Station]
+Beveren
+Mortsel
+Schelle
+Edegem
+IX Gp AA / 2 DTCA / V CA
+Gn ChF / V CA
+Cie Gn / V CA
+32 Li / 13 DI / V CA
+21 RA / 13 DI / V CA
+33 Li / 13 DI / V CA
+34 Li / 13 DI / V CA
+14 Bn Gn / 13 DI / V CA
+Esc Cy / 12 DI / IV CA
+13 Cie ac / 13 DI / V CA
+13 RA / IV CA
+256 Art.-Reg. / 256 ID / XXVI AK / AOK 18
+256 Aufkl.-Abt. / 256 ID / XXVI AK / AOK 18
+456 IR / 256 ID / XXVI AK / AOK 18
+476 IR / 256 ID / XXVI AK / AOK 18
+481 IR / 256 ID / XXVI AK / AOK 18
+256 Pion.-Abt. / 256 ID / XXVI AK / AOK 18
+256  Pzjäg.-Abt. / 256 ID / XXVI AK / AOK 18
+Gen.Kdo. Gen. Albert Wodrig / XXVI AK / AOK 18
+309 IR / 208 ID / XVI AK / AOK 18
+208 Aufkl.-Abt. / 208 ID / XXVI AK / AOK 18
+208 AR / 208 ID / XXVI AK / 18 Armee
+337 IR / 208 ID / XXVI AK / AOK 18
+338 IR / 208 ID / XXVI AK / AOK 18
+208 Pion.-Btl. / 208 ID / XXVI AK / AOK 18
+208 Pzjäg.-Abt. / 208 ID / XXVI AK / AOK 18
+2 Li / 12 DI / IV CA
+ 22 Li / 12 DI / IV CA
+23 Li / 12 DI / IV CA
+7 RA / 12 DI / IV CA
+2 Bn Gn / 12 DI / IV CA
+12 Esc Cy / 12 DI / IV CA
+Cie AC / 12 DI / IV CA
+Esc Cy / 12 DI / IV CA
+4 L / 1 DC / CC
+Eon AB/CC / CC
+2 Cy / 2 DC / CC 
+2 L / 1 DC / CC
+2/19 RAM / - / CC 
+Bn Pon 
+4 RAA / Artillerie Armée
+Défense du Bas-Escaut
+605 Flak.-Abt. / XXVI AK / AOK 18
+52 Pion.-Btl. / XXVI AK / AOK 18
+629 Art .-Abt. / XXVI AK / AOK 18
+577 Bru.-Btl. / XXVI AK / AOK 18
+QG Gen. Vanden Bergen / V CA
+7 Ch / 17 DI / V CA
+17 Bn Gn / 17 DI / V CA
+8 Ch / 17 DI / V CA
+31 Li / 15 DI / IV CA
+42 Li / 15 DI / IV CA
+43 Li / 15 DI / IV CA
+16 Bn Gn / 15 DI / IV CA
+25 RA / 17 DI / V CA
+9 Ch / 17 DI / V CA
+Cie AC / 17 DI / V CA
+Gp Cy / 15 DI / IV CA
+Cie AC / 13 DI / V CA
+7 RA / 12 DI / IV CA
+23 RA / 15 DI / IV CA
+QG Gen. Bogaerts / IV CA
+22 Bn Gn / IV CA
+A4 / 3 Flotille
+A5 / 3 flotille
+Police de la Rade III / 3eme Flotille
+A6 / 3 Flotille
+208 Art.-Reg. / 208 ID / XXVI AK / AOK 18
+216 Aufkl.-Abt. / 216 ID / IX AK / AOK 18
+156 Aufkl.-Abt. / 56 ID / IX AK / AOK 6
+150 Aufkl.-Abt. / 50 ID / IX AK / AOK 6
+225 Aufkl.-Abt. / 225 ID / XXVI AK / AOK 18
+Bridge Hoboken
+333 IR / 225 ID / XXVI AK / AOK 18
+376 IR / 225 ID / XXVI AK / AOK 18
+377 IR / 225 ID / XXVI AK / AOK 18
+225 Art.-Reg. / 225 ID / XXVI AK / AOK 18
+225 Pzjäg.-Abt. / 225 ID / XXVI AK / AOK 18
+216 Pzjäg.-Abt. / 216 ID / IX AK / AOK 18
+150 Pzjäg.-Abt. / 50 ID / IX AK / AOK 6
+156 Pzjäg.-Abt. / 56 ID /  IX AK / AOK 6
+216 Art.-Reg. / 216 ID / IX AK / AOK 18
+156 Art.-Reg. / 56 ID / IX AK / AOK 6
+150 Art.-Reg. / 50 ID / IX AK / AOK 6
+225 Pion.-Btl. / 225 ID / XXVI AK / AOK 18
+348 IR / 216 ID / IX AK / AOK 18
+396 IR / 216 ID / IX AK / AOK 18
+398 IR / 216 ID / IX AK / AOK 18
+216 Pion.-Btl. / 216 ID / IX AK / AOK 18
+171 IR / 56 ID / IX AK / AOK 6
+192 IR / 216 ID / IX AK / AOK 6
+234 IR / 216 ID / IX AK / AOK 6
+121 IR / 50 ID / IX AK / AOK 6
+122 IR / 50 ID / IX AK / AOK 6
+123 IR / 50 ID / IX AK / AOK 6
+150 Pion.-Btl. / 50 ID / IX AK / AOK 6
+156 Pion.-Btl. / 56 ID / IX AK / AOK 6
+Gen.Kdo. Gen. Hermann Geyer / IX AK / AOK 6
+150 Pion.-Btl. / 50 ID / IX AK / AOK 6
+MG-Btl. 6 / IX AK / AOK 6
+II/ Art.-Reg. 67 / IX AK / AOK 6
+405 Bru.-Btl. / IX AK / AOK 6
+MG-Btl. 15 / XXVI AK / AOK 18
+Cie AC / 15 DI / IV CA
+Dêpot de l'Armée

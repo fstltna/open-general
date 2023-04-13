@@ -1,0 +1,10 @@
+Battle of Burkersdorf
+July 21, 1762
+
+After the death of Tsar Elizabeth, her nephew Peter III came to the throne. Peter promptly withdrew his army from the war, abandoned Russian-occupied East Prussia, and signed a treaty of peace with Frederick. Peter’s reign was short-lived, however, as his wife Catherine the Great seized the throne. She was ready to resume the war against Prussia. Seeing the necessity of quick action, Frederick decided to defeat the Austrian Army, commanded by Feldmarshall Daun, operating in Lower Silezia.
+
+Deploy Hexes: 22
+
+ORDER: Take all VHs, and keep your MSU alive.
+
+scenario designer: Csaba (lvjtn)

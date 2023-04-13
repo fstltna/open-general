@@ -1,0 +1,21 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  87  '  Marder IIIH  [ AT  Germany]  Cost: 348
+ 104  '  StuH 42  [ATY  Germany]  Cost: 720
+ 145  '  Pz IIIL  [ TK  Germany]  Cost: 360
+ 147  '  Pz IIIN  [ TK  Germany]  Cost: 384
+ 170  '  Fw-190F-3/R1  [ TB  Germany]  Cost: 864
+ 608  '  SS Panzergrenadiere  [INF  Germany]  Cost: 312
+ 798  '  12 GrW42  [ATY  Germany]  Cost: 264
+1228  '  SdKfz 251/16  [ TK  Germany]  Cost: 192
+1230  '  FJ 8 GrW42k  [ATY  Germany]  Cost: 324
+1271  '  Me-109G-6  [FTR  Germany]  Cost: 720
+1929  '  Marder I  [ AT  Germany]  Cost: 324
+2807  '  8cm PAW 600  [ AT  Germany]  Cost: 252
+2934  '  He177A3  [ TB  Germany]  Cost: 840
+5084  '  Fw-190A-4/U4  [FTR  Germany]  Cost: 816
+1273  '  He-219A-2  [FTR  Germany]  Cost: 1104

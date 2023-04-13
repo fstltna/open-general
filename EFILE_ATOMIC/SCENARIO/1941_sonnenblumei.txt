@@ -1,0 +1,16 @@
+1941 Operation Sonnenblume
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Herr General, you just arrived in Libya, North Africa, and will take command over the 5th Light Division in order to stabilize the front, stop the enemy and support our Italian allies. Codename: Operation Sonnenblume (sunflower). Hurry up, start your engines!
+
+Scenario Version: January 2021
+Player Countries: Germany, Italy
+AI Version: 3.0
+Player Turn Prestige 20pp/turn
+Turns: 22
+Scenario Designer: randowe
+
+ORDERS:
+¯¯¯¯¯¯¯¯
+Proceed eastwards along the coastal road Via Balbia and capture and hold 5/4/3 VHs after 22 turns for a Brilliant Victory/Victory/Tactical Victory.
+
+Your hospital tent heals 5 and your medical truck heals 3 strength points/turn. (Units have to stand still in a turn to heal strength points.)

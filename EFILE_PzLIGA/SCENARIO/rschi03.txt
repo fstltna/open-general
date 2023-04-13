@@ -1,0 +1,130 @@
+1939 Battle for Nanchang
+Nanchang
+Xinjian
+Wanli
+Jiaoqiao
+Lehua
+Changbu
+Wangchenggang
+Huangxi
+Shengmijie
+Xishan
+Chengtan
+Qingyunpu
+Liatang
+Fushan
+Luojiaji
+Yelou
+LAKE
+Gan River
+Gan River (Only passable with boats)
+Gan River (Bridge)
+11 R/9 Bde/6 Div./[11A]
+41 R/9 Bde/6 Div./[11A]
+21 R/21 Bde/6 Div./[11A]
+42 R/21 Bde/6 Div./[11A]
+5 Cav.R/6 Div./[11A]
+5 Eng./6 Div./[11A]
+5 AR/6 Div./[11A]
+101 R/101 Bde./101 Div./[11A]
+149 R/101 Bde./101 Div./[11A]
+103 R/102 Bde./101 Div./[11A]
+157 R/102 Bde./101 Div./[11A]
+101 Cav.R./101 Div./[11A]
+101 AR./101 Div./[11A]
+[11A]
+11 Eng/101 Div./[11A]
+[11 Army HQ]
+113 R/111 Bde./106 Div./[11A]
+113 R/111 Bde./106 Div./[11A]
+147 R/111 Bde./106 Div./[11A]
+125 R/136 Bde./106 Div./[11A]
+145 Cav.R/136 Bde./106 Div./[11A]
+106 AR/106 Div./[11A]
+106 Eng./106 Div./[11A]
+[11A]
+7 Tk. R./-/[11A]
+5 Tk. Btn../-/[11A]
+13 FHAR/-/[11A]
+14 FHAR/-/[11A]
+10 FHAR/-/[11A]
+101 FAR/-/[11A]
+15 Ind. FHAR/-/[11A]
+5 SNLF
+1 Gunboat
+2 Gunboat
+3 Gunboat
+12 Air Unit
+12 Datai
+77 Sentai
+75 Sentai
+45 Sentai
+17 Dokuritsu Hiko Chutai
+12 Datai
+118 Div./[79 Corps]
+118 Div./[79 Corps]
+118 Div./[79 Corps]
+76 Div./[79 Corps]
+76 Div./[79 Corps]
+98 Div./[79 Corps]
+98 Div./[79 Corps]
+[9 War Area]
+[9 War Area]
+[9 War Area]
+[9 War Area]
+Rice Crops
+105 Div./[49 Corps]
+105 Div./[49 Corps]
+9 Res. Div./[49 Corps]
+9 Res. Div./[49 Corps]
+19 Div./[70 Corps]
+19 Div./[70 Corps]
+19 Div./[70 Corps]
+107 Div./[70 Corps]
+107 Div./[70 Corps]
+[Peace Preservation Force]
+51 Div./[74 Corps]
+139 Div./[32 Corps]
+141 Div./[32 Corps]
+141 Div./[32 Corps]
+141 Div./[32 Corps]
+142 Div./[32 Corps]
+142 Div./[32 Corps]
+142 Div./[32 Corps]
+[Poyang Lake Garrison]
+[9 War Area]
+139 Div./[32 Corps]
+141 Div./[32 Corps]
+141 Div./[32 Corps]
+141 Div./[32 Corps]
+142 Div./[32 Corps]
+142 Div./[32 Corps]
+51 Div./[74 Corps]
+52 Div./[74 Corps]
+52 Div./[74 Corps]
+52 Div./[74 Corps]
+60 Div./[74 Corps]
+60 Div./[74 Corps]
+3 Div./[8 Corps]
+3 Div./[8 Corps]
+3 Div./[8 Corps]
+197 Div./[8 Corps]
+197 Div./[8 Corps]
+197 Div./[8 Corps]
+15 Div./[73 Corps]
+15 Div./[73 Corps]
+15 Div./[73 Corps]
+[79 Corps]
+[74 Corps]
+[32 Corps]
+[9 War Area]
+[9 War Area]
+[9 War Area]
+77 Div./[73 Corps]
+77 Div./[73 Corps]
+[Nanchang]
+[8 Corps]
+[73 Corps]
+[9 War Area HQ]
+[9 War Area]
+[9 War Area]

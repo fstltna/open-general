@@ -1,0 +1,14 @@
+Asedio de Veracruz
+March 24, 1847
+
+The Yankees, commanded by General Scott, landed south of Veracruz in March 9. They have completed a siege line around the city by now. Veracruz is the largest fortress and port on Gulf of Mexico. If it falls, the Yankees can march inland to Mexico City. General, relieve the besieged city!
+
+Deploy Hexes: 16
+
+ORDER: Hold at least 3 VHs and keep your MSU alive.
+
+NOTE:
+- AI moves first.
+- Citadel at (18,12) heals (+1 SP) adjacent friendly units when no enemy is close to it.
+
+scenario designer: Csaba (lvjtn)

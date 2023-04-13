@@ -1,0 +1,24 @@
+Marzo de 1937
+
+General, nos encontramos ante un momento clave en esta guerra. Las órdenes de Roma son claras: Madrid debe caer y debe ser gracias a nuestro esfuerzo.  Deberá ser capaz de presionar y cumplir sus objetivos para poder trasladar nuestra presión a Madrid rodeando al enemigo.
+
+Buena suerte General
+
+Efile: GCE
+Mapa: Guadalajara
+Diseño Mapa: Guille
+Diseño escenario: Guille
+Duración máxima de escenario: 20 turnos
+
+
+March 1937
+
+General, we are in a key moment in this war. Rome's orders are clear: Madrid should fall and it must be by to our troops. You must attack and reach your objectives to encircle Madrid.
+
+Good luck General
+
+Efile: GCE
+Map: Guadalajara
+Map design: Guille
+Scenario design: Guille
+Maximum scenario lenght: 20 turns

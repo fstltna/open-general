@@ -1,0 +1,19 @@
+Neuve-Chapelle
+
+Mar 10th, 1915
+
+Since the failure of Von Schlieffen's Plan we've been forced to adopt a defensive strategy in France. The Entente forces have numerical superiority and they are well aware of that. Now they'll try once and again to break our lines with all the means at their disposal, and after that they'll send all their reserves into the gap, hoping to cut our supply lines and encircle our units.
+Our intelligence system has warned us that one of those attacks is going to take place very soon here, at Neuve-Chapelle. Four British divisions, including some of their colonial forces, are ready to storm your positions. You've repelled similar attacks in Elsass last year, so we count on you to stop the British. Good luck!
+
+Victory conditions:
+- After 10 turns you must hold 7 VHs for a BV, 4 VHs for a V or 2 VH for a TacV.
+
+
+
+
+
+
+
+
+
+

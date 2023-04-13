@@ -1,0 +1,11 @@
+Kharkov - March 1943
+
+On December 30th a Fuehrer order directed Totenkopf, Leibstandarte and Das Reich - the SS Panzer Corps - to return to Russia to strengthen Army Group South. Our trains were given absolute priority over all other railway traffic. As soon as they arrived on the front, our troops were used to try and stop the Bolsjevik advance. Thanks to our commander Hausser our troops could retreat out of Kharkov - against Fuehrer orders - and avoid certain destruction. This decision saved our SS Panzer Corps as a unit and allowed us to open the counterattack in N/E direction towards Kharkov.
+STAVKA is apparantly under the impression their troops are still advancing and has marched 3rd Tank Army - a mighty force of 3 Inf divisions, 3 Tank brigades and a Guard Cav Corps in a gap which had openend between our division and the Leibstandarte. Your task is to trap these formations and capture Kharkov. 
+
+PLAYER ORDERS
+- Strength lost on core units will be automatically replaced at HQ at the start of the next scenario.
+- New units can be acquired at HQ at the start of the next scenario.
+- Capture all VH.
+
+The Kharkov scenario and the map on which it is played are created by Hannes Gruber. Slight modifications were made: deployment hexes, supply hexes and prestige management.

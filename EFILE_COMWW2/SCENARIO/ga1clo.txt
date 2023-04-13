@@ -1,0 +1,55 @@
+Closing the Gap
+Falaise
+Trun
+Chambois
+Argentan
+Pontigny
+Pierrefitte
+Putanges
+Village
+Orne River
+STREAM
+Dives River
+Falaise Airfield
+Chambois Airfield
+HQ
+Temp Airfield
+Railroad
+Pz. Reg./12th SS
+FlaK Abt./1st SS
+III/10th SS
+JgdPz. Abt./10th SS
+II/1st SS
+II/10th SS
+I/1st SS
+JgdPz. Abt./12th SS
+XXVI/12th SS
+FlaK Abt./12th SS
+43rd Div.
+Pz. Reg./10th SS
+116th Pz. Div.
+CCCXVII/80
+II/2
+I/1
+XI/43
+1st Div.
+2nd Div.
+DCCXII/90
+FlaK Abt./10th SS
+CCCLVII/90
+9th Airforce
+245th Squadron
+175th Squadron
+LVIII/5
+7th Armee
+JG-3
+LXXXI/15
+Pz. Reg/2nd SS
+JgdPz. Abt./2nd SS
+II/2nd SS
+I/2nd SS
+FlaK Abt./2nd SS
+ROUGH
+FOREST
+CLEAR
+RUBBLE

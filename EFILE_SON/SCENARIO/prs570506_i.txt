@@ -1,0 +1,13 @@
+Battle of Prague
+May 6, 1757
+
+After Frederick II had forced the surrender of Saxony in the 1756 campaign, he spent the winter devising new plans for another bold stroke against Austria. In early spring the Prussian army marched in four columns over the mountain passes separating Saxony and Silesia from Bohemia. The four corps would unite at the Bohemian capital of Prague.
+
+Rejecting a frontal attack as impractical, the Alte Fritz took his army on a long march to attack the flank of the Austrian positions. Seeing the intent of the Prussian move, the Austrian Field Marshal Maximilian von Browne rushed to secure his open eastern flank with a large force of cavalry and an infantry force. 
+
+Deploy Hexes: 12
+
+ORDER: Take all VHs and keep your MSU alive.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

@@ -1,0 +1,60 @@
+'---
+'Config purchase file for scenario: NOBuSands03.xscn
+'* List of items to purchase all active players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=52 items  ' Replacement for default list
+  65  '  20mm Flakvierling 38 L/65  [FlaK  Germany]  Cost: 204
+  66  '  37mm Pak36 (Airborne)  [ AT  Germany]  Cost: 96
+  74  '  SdKfz 6/2   (37mm Flak36)  [ AD  Germany]  Cost: 252
+  75  '  SdKfz 10/4  (20mm Flak30)  [FlaK  Germany]  Cost: 264
+  89  '  Panzerjäger I  [ AT  Germany]  Cost: 228
+  92  '  105mm leFH18  [ATY  Germany]  Cost: 240
+  95  '  75mm leFK18  [ATY  Germany]  Cost: 192
+  96  '  L2H43 Protze / 20mm Flak38  [FlaK  Germany]  Cost: 276
+  98  '  150mm NbWf41  [ATY  Germany]  Cost: 336
+ 101  '  Sturmpanzer I Bison  150mm  [ATY  Germany]  Cost: 552
+ 103  '  StuG IIIB  [ AT  Germany]  Cost: 312
+ 114  '  Fallschirmjäger 40  [INF  Germany]  Cost: 360
+ 117  '  Psw 222  [RCN  Germany]  Cost: 192
+ 118  '  Psw 231/8  [RCN  Germany]  Cost: 288
+ 141  '  Pz IIF  [ TK  Germany]  Cost: 348
+ 143  '  Pz IIIG  [ TK  Germany]  Cost: 432
+ 146  '  Pz IIIH  [ TK  Germany]  Cost: 444
+ 169  '  Bf 110 D-2  [ TB  Germany]  Cost: 696
+ 174  '  Ju 87 D-1  [ TB  Germany]  Cost: 600
+ 584  '  88mm Flak37  [ AD  Germany]  Cost: 444
+ 617  '  Pz IVE  [ TK  Germany]  Cost: 612
+ 693  '  75mm leIG18 (Airborne)  [ATY  Germany]  Cost: 180
+ 722  '  Jäger 40  [INF  Germany]  Cost: 360
+ 744  '  75mm LG40  [ATY  Germany]  Cost: 240
+1136  '  80mm GrW 34 Mortar  [ATY  Germany]  Cost: 96
+1229  '  SdKfz 10 with 37mm Pak36  [ AT  Germany]  Cost: 240
+1230  '  FJ Kz 80mm GrW 42 Mortar  [ATY  Germany]  Cost: 120
+1233  '  100mm Mortar  [ATY  Germany]  Cost: 204
+1237  '  105mm sK18  [ATY  Germany]  Cost: 276
+1238  '  100mm Mortar (Mountain)  [ATY  Germany]  Cost: 228
+1239  '  150mm K39  [ATY  Germany]  Cost: 816
+1260  '  Pz IID  [ TK  Germany]  Cost: 336
+2728  '  Flakpanzer I  (20mm)  [FlaK  Germany]  Cost: 216
+2729  '  37mm Flak 36 Truck  [ AD  Germany]  Cost: 300
+2797  '  20mm Flak38  [FlaK  Germany]  Cost: 156
+2928  '  Panzergrenadiere 40  [INF  Germany]  Cost: 132
+3015  '  SdKfz 251/2 (Granatwerfer)  [ATY  Germany]  Cost: 216
+3410  '  Building Crew  [INF  Germany]  Cost: 288
+3421  '  Kradschützen 40  [RCN  Germany]  Cost: 252
+3460  '  Panzerpioniere 40  [INF  Germany]  Cost: 372
+3485  '  Späher (Scouts)  [RCN  Germany]  Cost: 96
+4543  '  Fi 156 C-3  [RCN  Germany]  Cost: 228
+5053  '  Bf 109 E-4/Trop  [FTR  Germany]  Cost: 660
+5289  '  75mm leGebIG 18  [ATY  Germany]  Cost: 192
+5415  '  37mm Pak Protze  [ AT  Germany]  Cost: 144
+6084  '  SdKfz 9 with 88mm Flak36  [ AD  Germany]  Cost: 684
+6085  '  SdKfz 9 with 88mm Flak36  [FlaK  Germany]  Cost: 684
+6087  '  88mm Flak36  [FlaK  Germany]  Cost: 432
+6152  '  Opel Blitz / 20mm Flakvierling  [FlaK  Germany]  Cost: 264
+6208  '  Einheits-PKW / Twin MG  [TPT  Germany]  Cost: 132
+7930  '  SdKfz 9 with 88mm Flak36  [ AT  Germany]  Cost: 684
+7942  '  88mm Flak36  [ AT  Germany]  Cost: 456

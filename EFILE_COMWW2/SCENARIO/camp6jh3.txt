@@ -1,0 +1,31 @@
+Blitz 2012
+Blitz 2012 
+
+Version: 1.0
+Equipment: Open Composite v0.9.9z9 
+Number of Scenarios: 37
+Player Country: Germany
+Campaign Designer: Jan Hedstrom (aka PzManiac)
+
+The Campaign...
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+You take command from the civil war in Spain, to the "lightning" victories of early World War II - and beyond! 
+This campaign will test your abilities as a leader in both Blitzkrieg scenarios and defensive scenarios.
+If you are skillful, you will fight in Afrika, Russia, and even England!
+
+This campaign is a further development of MillerBlitz+ and Blitz 2008 which both of them were modernized versions of H. Craig Miller's Blitzkrieg!. This version has been modernized even further and contains major changes to the scenario set-up. There are some new scenarios and in consequence some of the old ones have disappeared.
+
+Important message! 
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Please also note that this campaign is an Open General ONLY campaign, meaning that you can't use the old PG2 executable.
+
+Credits
+¯¯¯¯¯¯
+To H. Craig Miller, Dennis Felling, Jorge Gabitto, Guille and Traveler who have all contributed with their scenario ideas to this campaign. Credits also to the playtesters 1T, Daerandir and Gixian. Thanks guys!
+
+Advice to players
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Veteran players should play this campaign at 50-75, experienced players at 75-100, newbies at 150-200.
+
+
+Jan Hedstrom, 10/2012

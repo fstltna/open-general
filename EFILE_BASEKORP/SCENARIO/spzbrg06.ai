@@ -1,0 +1,220 @@
+'---
+'Config AI file for scenario: SpzBrg06.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=212 items  ' Replacement for default list
+  30  '  105mm C mle35  [ATY  France]  Cost: 264
+  31  '  155mm L mle17F  [ATY  France]  Cost: 1032
+  32  '  75mm C mle97  [ATY  France]  Cost: 144
+  37  '  Chasseurs a Pied  [INF  France]  Cost: 96
+  38  '  Sapeurs 40  [INF  France]  Cost: 336
+  48  '  Char B1bis  [ TK  France]  Cost: 540
+  49  '  H39  [ TK  France]  Cost: 324
+  53  '  R35  [ TK  France]  Cost: 276
+  54  '  R40  [ TK  France]  Cost: 324
+  55  '  S35  [ TK  France]  Cost: 444
+  56  '  AGR2  [TPT  France]  Cost: 48
+  58  '  MCG  [TPT  France]  Cost: 204
+  59  '  Wagon  [TPT  France]  Cost: 24
+  60  '  D.520C.1  [FTR  France]  Cost: 504
+  61  '  MS.406C.1  [FTR  France]  Cost: 480
+  62  '  Po.633  [ TB  France]  Cost: 468
+  63  '  Transport  [ATP  France]  Cost: 348
+ 328  '  25 pdr  [ATY  United Kingdom]  Cost: 276
+ 338  '  Engineers 40  [INF  United Kingdom]  Cost: 408
+ 340  '  Bridging 36  [INF  United Kingdom]  Cost: 192
+ 347  '  Royal Marines 39  [INF  United Kingdom]  Cost: 144
+ 369  '  Cruiser IV  [ TK  United Kingdom]  Cost: 300
+ 377  '  Matilda II  [ TK  United Kingdom]  Cost: 528
+ 382  '  QL  [TPT  United Kingdom]  Cost: 72
+ 383  '  Bren Carrier  [TPT  United Kingdom]  Cost: 216
+ 385  '  Hurricane IA  [FTR  United Kingdom]  Cost: 468
+ 387  '  Spitfire IA  [FTR  United Kingdom]  Cost: 588
+ 398  '  C-47  [ATP  United Kingdom]  Cost: 348
+ 582  '  H35  [ TK  France]  Cost: 276
+ 585  '  120mm M11  [ATY  Netherlands]  Cost: 204
+ 590  '  155mm C mle17  [ATY  France]  Cost: 756
+ 591  '  Char D1B  [ TK  France]  Cost: 336
+ 592  '  Char D2  [ TK  France]  Cost: 384
+ 595  '  Hawk 75A  [FTR  France]  Cost: 492
+ 613  '  Sapeurs  [INF  Belgium]  Cost: 336
+ 614  '  Skua  [ TB  United Kingdom]  Cost: 396
+ 627  '  18pdr  [ATY  United Kingdom]  Cost: 144
+ 629  '  4.5inch  [ATY  United Kingdom]  Cost: 192
+ 630  '  155mm mle17  [ATY  Belgium]  Cost: 756
+ 650  '  Cruiser I  [ TK  United Kingdom]  Cost: 264
+ 651  '  Cruiser II  [ TK  United Kingdom]  Cost: 276
+ 652  '  Cruiser III  [ TK  United Kingdom]  Cost: 288
+ 691  '  T-13B3  [ AT  Belgium]  Cost: 168
+ 700  '  Matilda I  [ TK  United Kingdom]  Cost: 408
+ 702  '  Blenheim I  [ TB  United Kingdom]  Cost: 540
+ 718  '  AMC 34  [ TK  France]  Cost: 324
+ 736  '  Tirailleurs 35  [INF  France]  Cost: 132
+ 752  '  Pontonniers 35  [INF  France]  Cost: 192
+ 824  '  75mm mle04  [ATY  Belgium]  Cost: 144
+ 825  '  105mm mle13  [ATY  Belgium]  Cost: 240
+ 830  '  ACG-1  [ TK  Belgium]  Cost: 336
+ 831  '  G.I  [FTR  Netherlands]  Cost: 576
+ 834  '  Wagon  [TPT  Belgium]  Cost: 24
+ 835  '  FN  [TPT  Belgium]  Cost: 96
+ 836  '  Transport  [ATP  Belgium]  Cost: 360
+ 840  '  75mm M03  [ATY  Netherlands]  Cost: 144
+ 843  '  D.XXI  [FTR  Netherlands]  Cost: 420
+ 844  '  T.V  [ TB  Netherlands]  Cost: 552
+ 845  '  Wagon  [TPT  Netherlands]  Cost: 24
+ 846  '  Vrachtwagen  [TPT  Netherlands]  Cost: 84
+ 849  '  Transport  [ATP  Netherlands]  Cost: 324
+ 875  '  Gladiator IIA  [FTR  Belgium]  Cost: 348
+ 888  '  Genie  [INF  Netherlands]  Cost: 336
+ 903  '  Mariniers  [INF  Netherlands]  Cost: 204
+ 914  '  Battle I  [ TB  United Kingdom]  Cost: 384
+ 930  '  75mm C mle97/35 AC  [ AT  France]  Cost: 96
+ 934  '  Gladiator IIA  [FTR  United Kingdom]  Cost: 360
+ 937  '  CR.42  [FTR  Belgium]  Cost: 396
+ 939  '  Chasseurs Ardennais  [INF  Belgium]  Cost: 132
+ 943  '  Fox VI  [ TB  Belgium]  Cost: 312
+ 949  '  Bre 693  [ TB  France]  Cost: 600
+ 957  '  Po.25  [ TB  France]  Cost: 360
+ 964  '  150mm M13  [ATY  Netherlands]  Cost: 468
+ 993  '  Swordfish I  [ TB  United Kingdom]  Cost: 300
+1018  '  76.2mm de 76  [ AT  Belgium]  Cost: 96
+1019  '  T-13B1  [ AT  Belgium]  Cost: 156
+1020  '  75mm mle34  [ATY  Belgium]  Cost: 312
+1021  '  120mm mle31  [ATY  Belgium]  Cost: 504
+1022  '  150mm mle13  [ATY  Belgium]  Cost: 516
+1023  '  155mm mle17  [ATY  Belgium]  Cost: 840
+1024  '  152mm mle17  [ATY  Belgium]  Cost: 504
+1025  '  220mm mle17  [ATY  Belgium]  Cost: 1620
+1029  '  Chasseurs  [INF  Belgium]  Cost: 132
+1034  '  Hurricane IA  [FTR  Belgium]  Cost: 468
+1035  '  R-31  [ TB  Belgium]  Cost: 312
+1036  '  Battle I  [ TB  Belgium]  Cost: 384
+1037  '  VCL B  [TPT  Belgium]  Cost: 192
+1168  '  47mm 15TCC Portee  [ AT  France]  Cost: 132
+1171  '  65mm M mle06  [ATY  France]  Cost: 252
+1172  '  75mm M mle28  [ATY  France]  Cost: 276
+1173  '  105mm C mle13  [ATY  France]  Cost: 276
+1174  '  105mm M mle28  [ATY  France]  Cost: 384
+1175  '  105mm L mle36  [ATY  France]  Cost: 468
+1176  '  220mm L mle17  [ATY  France]  Cost: 1836
+1183  '  Chasseurs Alpins  [INF  France]  Cost: 276
+1185  '  Dragons Portes  [INF  France]  Cost: 144
+1193  '  FCM 36  [ TK  France]  Cost: 288
+1199  '  D.510  [FTR  France]  Cost: 420
+1200  '  VG.33  [FTR  France]  Cost: 516
+1202  '  MB.152  [FTR  France]  Cost: 552
+1203  '  MB.155  [FTR  France]  Cost: 648
+1204  '  Po.631  [ TB  France]  Cost: 660
+1205  '  Late 298  [ TB  France]  Cost: 372
+1207  '  Ma.167F  [ TB  France]  Cost: 648
+1208  '  MB.210  [ TB  France]  Cost: 528
+1209  '  Leo 451  [ TB  France]  Cost: 636
+1210  '  Amiot 143  [ TB  France]  Cost: 468
+1211  '  DB-7B-3  [ TB  France]  Cost: 840
+1212  '  Amiot 354  [ TB  France]  Cost: 624
+1213  '  LN 401  [ TB  France]  Cost: 408
+1214  '  MB.174  [ TB  France]  Cost: 552
+1428  '  57mm M99  [ AT  Netherlands]  Cost: 96
+1429  '  81mm mortar  [ATY  Netherlands]  Cost: 180
+1430  '  105mm M27  [ATY  Netherlands]  Cost: 492
+1431  '  120mm M78  [ATY  Netherlands]  Cost: 192
+1432  '  152mm M17  [ATY  Netherlands]  Cost: 456
+1434  '  Jagers  [INF  Netherlands]  Cost: 84
+1436  '  Grenadiers  [INF  Netherlands]  Cost: 132
+1441  '  FK 51  [FTR  Netherlands]  Cost: 288
+1442  '  D.XVII  [FTR  Netherlands]  Cost: 312
+1443  '  C.V  [ TB  Netherlands]  Cost: 324
+1444  '  C.X  [ TB  Netherlands]  Cost: 336
+1445  '  T.VIII-W  [ TB  Netherlands]  Cost: 324
+1446  '  A8A-3N  [ TB  Netherlands]  Cost: 480
+1689  '  3inch mortar  [ATY  United Kingdom]  Cost: 180
+1691  '  3.7inch AB  [ATY  United Kingdom]  Cost: 384
+1693  '  6inch  [ATY  United Kingdom]  Cost: 456
+1696  '  9.2inch  [ATY  United Kingdom]  Cost: 1200
+1707  '  Matilda IIICS  [ TK  United Kingdom]  Cost: 528
+1720  '  Defiant  [FTR  United Kingdom]  Cost: 396
+1721  '  Albacore  [ TB  United Kingdom]  Cost: 312
+1722  '  Beaufort  [ TB  United Kingdom]  Cost: 540
+1724  '  Blenheim IV  [ TB  United Kingdom]  Cost: 612
+1726  '  Hudson  [ TB  United Kingdom]  Cost: 504
+1728  '  Nomad  [ TB  United Kingdom]  Cost: 504
+1733  '  Wagon  [TPT  United Kingdom]  Cost: 12
+1960  '  Infanterie de l'Air 39  [INF  France]  Cost: 216
+1966  '  Bridging  [INF  Belgium]  Cost: 168
+1976  '  Bridging  [INF  Netherlands]  Cost: 216
+2033  '  75mm M34  [ATY  Netherlands]  Cost: 312
+2035  '  25 pdr  [ATY  Netherlands]  Cost: 264
+2045  '  CTLS  [ TK  Netherlands]  Cost: 252
+2047  '  Mules  [TPT  Netherlands]  Cost: 12
+2048  '  Utility B  [TPT  Netherlands]  Cost: 216
+2050  '  CW.21  [FTR  Netherlands]  Cost: 468
+2051  '  B 339D  [FTR  Netherlands]  Cost: 480
+2057  '  B 10  [ TB  Netherlands]  Cost: 516
+2060  '  Do 24K  [ TB  Netherlands]  Cost: 360
+2255  '  Catalina  [ TB  United Kingdom]  Cost: 420
+2436  '  47mm mle89  [ AT  Belgium]  Cost: 84
+2439  '  70mm mle06  [ATY  Belgium]  Cost: 252
+2450  '  R-38  [FTR  Belgium]  Cost: 540
+2560  '  Entrenched  [INF  United Kingdom]  Cost: 180
+2592  '  Scots Infantry 39  [INF  United Kingdom]  Cost: 96
+2602  '  Hurricane II  [FTR  United Kingdom]  Cost: 504
+2605  '  Lysander I  [ TB  United Kingdom]  Cost: 336
+2609  '  Whitley  [ TB  United Kingdom]  Cost: 648
+2613  '  Horse  [TPT  United Kingdom]  Cost: 12
+2614  '  C8  [TPT  United Kingdom]  Cost: 84
+2615  '  Carrier  [TPT  United Kingdom]  Cost: 168
+2616  '  MW 15cwt  [TPT  United Kingdom]  Cost: 60
+2618  '  Pioneer  [TPT  United Kingdom]  Cost: 84
+2836  '  UE  [TPT  France]  Cost: 216
+2837  '  Horse  [TPT  France]  Cost: 12
+2838  '  Limber  [TPT  France]  Cost: 36
+2845  '  P107  [TPT  France]  Cost: 180
+2847  '  S20TL  [TPT  France]  Cost: 60
+2849  '  S35  [TPT  France]  Cost: 60
+2850  '  FTARH  [TPT  France]  Cost: 60
+2851  '  38L  [TPT  France]  Cost: 240
+2852  '  Mules  [TPT  France]  Cost: 12
+2855  '  P19  [TPT  France]  Cost: 108
+2864  '  Bicycles  [TPT  France]  Cost: 12
+2865  '  60pdr  [ATY  United Kingdom]  Cost: 708
+2942  '  Horsa II  [ATP  United Kingdom]  Cost: 180
+2943  '  Hamilcar  [ATP  United Kingdom]  Cost: 180
+3069  '  Horse  [TPT  Belgium]  Cost: 12
+3070  '  Utility B  [TPT  Belgium]  Cost: 84
+3071  '  91Y  [TPT  Belgium]  Cost: 180
+3072  '  GMC 1.5t  [TPT  Belgium]  Cost: 60
+3073  '  Limber  [TPT  Belgium]  Cost: 36
+3074  '  P-14  [TPT  Belgium]  Cost: 108
+3075  '  FN-63  [TPT  Belgium]  Cost: 72
+3076  '  Bicycles  [TPT  Belgium]  Cost: 12
+3099  '  Limber  [TPT  Netherlands]  Cost: 36
+3100  '  T-18  [TPT  Netherlands]  Cost: 72
+3101  '  Bicycles  [TPT  Netherlands]  Cost: 12
+3181  '  AMC 35  [ TK  France]  Cost: 372
+3182  '  H39 (SA18)  [ TK  France]  Cost: 408
+3240  '  Utility B  [TPT  Netherlands]  Cost: 84
+3241  '  TBS30  [TPT  Netherlands]  Cost: 84
+3242  '  Tractor  [TPT  Netherlands]  Cost: 84
+3243  '  TBS45  [TPT  Netherlands]  Cost: 84
+3244  '  Maple Leaf  [TPT  Netherlands]  Cost: 84
+3248  '  75mm M03/26  [ATY  Netherlands]  Cost: 180
+3276  '  Lichte Infanterie  [INF  Netherlands]  Cost: 84
+3353  '  Walrus  [ TB  United Kingdom]  Cost: 360
+3371  '  75mm C mle16  [ATY  Belgium]  Cost: 180
+3372  '  105mm C mle16  [ATY  Belgium]  Cost: 180
+3853  '  Motor Infantry 40  [INF  United Kingdom]  Cost: 144
+3870  '  3.7inch  [ATY  United Kingdom]  Cost: 408
+3944  '  Spahis Motorisee 37  [INF  France]  Cost: 84
+3946  '  Tirailleurs Montagnards 37  [INF  France]  Cost: 276
+3948  '  Dragons Blindees 40  [INF  France]  Cost: 420
+4075  '  Swordfish I  [ TB  United Kingdom]  Cost: 324
+5251  '  84mm M81  [ATY  Netherlands]  Cost: 84
+5393  '  Hawk 75A-3  [FTR  France]  Cost: 780
+5683  '  Parachute HQ  [INF  United Kingdom]  Cost: 288
+5810  '  Train  [RTP  Belgium]  Cost: 120
+5815  '  Train  [RTP  France]  Cost: 120
+5822  '  Train  [RTP  Netherlands]  Cost: 120
+5831  '  Train  [RTP  United Kingdom]  Cost: 120

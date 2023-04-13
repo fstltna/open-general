@@ -1,0 +1,437 @@
+Dunkerque
+Aa Canal
+POLDER
+Yser River
+Bray Dunes
+Furnes
+Aq River
+Mardick
+Dunkirk
+Gravelines
+Bourbourgville
+Bergues
+Soex
+Noordschote
+St. Pierre Brouck
+Rexpoede
+Wormhoudt
+Ledrinhem
+Watten
+Arneke
+Poperinghe
+Ieper
+Cassel
+St. Momelin
+St. Omer
+Caestre
+Blaringhem
+Lys Canal
+Armentieres
+Lys River
+Merville
+Aire
+St. Venant
+Estaires
+Lestrem
+Robecq
+Hinges
+Bethune
+La Bassee
+4 ChA / 2 DChA / VII CA
+35 Li / 14 DI / Groupement Gen. Krahe
+38 Li / 14 DI / Groupement Gen. Krahe
+13 Bn Gn / 14 DI / Groupement Gen. Krahe
+Gr Cy / 16 DI / Groupement Gen. Krahe
+5 ChA / 2 DChA / VII CA
+EM Roi Leopold III
+6 ChA / 2 DChA / VII CA
+12 A / 2 DChA / VII CA
+2/19 Bn Gn / 2 DChA / VII CA
+Cie ac / 1 DChA / VI CA
+cie T-15 / 1 DChA / VII CA
+cie ac / 2 DChA / VII CA
+1 L / 2 DC / CC
+30 IR / 18 ID / X AK / AOK 6
+12 IR / 31 ID / IV AK / AOK 6
+5 ID
+55 ID
+11 IR / 14 ID / X AK / AOK 6
+53 IR / 14 ID / X AK / AOK 6
+241e RI /  60e DI / 7eme Armee
+270e RI / 60e DI / 7eme Armee
+271e RI / 60e DI / 7eme Armee
+50e RAD / 60e DI / 7eme Armée
+68e GRDI / 60e DI / 7e Armée
+60e Bon sapeurs / 60e DI / 7eme Armée
+272e DBI / - / Secteur Fortifié de Flandres
+310e RI / - / Groupe de Secteurs Nord
+225e RI / 68e DI / XVIe CA / Forces Maritimes du Nord (ex 7 Armée)
+224e RI / 68e DI / XVIe CA / Forces Maritimes du Nord (ex 7 Armée)
+341e RI / 68e DI / XVIe CA / Forces Maritimes du Nord (ex 7 Armée)
+89e RAD / 68e DI / XVIe CA / Forces Maritimes du Nord (ex 7 Armée)
+289e RALD / 68e DI / XVIe CA / Forces Maritimes du Nord (ex 7 Armée)
+27e GRDI / 21e DI / XVIe CA / Forces Maritimes du Nord (ex 7 Armée)
+Schütz.-Rgt 1 / Schütz.-Brig. 1 / 1 Pz.Div. / XIX AK. / AOK 12
+8e Cuir / 2e DLM / CC / 1ère Armée / Groupe d'Armées 1
+13e RD/ 3e BLM / 2 DLM/ CC / 1ère Armée / Groupe d'Armées 1
+25e RD/ 3e BLM / 2 DLM / CC / 1ère Armée / Groupe d'Armées 1
+1er RDP/ 4e BLM / 2e DLM / CC / 1ère Armée / Groupe d'Armées 1
+71e RATTT/ 2e DLM / CC / 1ère Armée / Groupe d'Armées 1
+38e Bon sapeurs / 2e DLM / CC / 1ère Armée / Groupe d'Armées 1
+12e EDAC / 2e DLM / CC / 1ère Armée / Groupe d'Armées 1
+122e RI / 32e DI / 3e CA / 1ère Armée / Gropu d'Armées 1
+143e RI / 32e DI / 3e CA / 1ère Armée / Gropu d'Armées 1
+8e RZ / 12e DIM / 3e CA / 1ère Armée / Gropu d'Armées 1
+150e RI / 12e DIM / 3e CA / 1ère Armée / Gropu d'Armées 1
+25e RAD / 12e DIM / 3e CA / 1ère Armée / Gropu d'Armées 1
+225e RALD / 12e DIM / 3e CA / 1ère Armée / Gropu d'Armées 1
+3e GRDI / 12e DIM / 3e CA / 1ère Armée / Gropu d'Armées 1
+IR (mot.) LSSAH /- / XIV (mot.) AK / AOK 4
+IR (mot.) GD /- / XIV (mot.) AK / AOK 4
+110  Schützen-Regiment / 11 Schütz.-Brig. / XIV (mot.) AK / AOK 4
+111 Schützen-Regiment / 11 Schütz.-Brig. / XIV (mot.) AK / AOK 4
+MG Abt 13 / 11 Schütz.-Brig. / XIV (mot.) AK / AOK 4
+18e GRCA / - / XVIe CA / Forces Maritimes du Nord (ex 7 Armée)
+Rests 48e/65e RI / 21e DI / XVIe CA / Forces Maritimes du Nord (ex 7 Armée)
+115e RALH / - / XVIe CA / Forces Maritimes du Nord (ex 7e Armée)
+Bourrasque / 6e Div. Torpilleurs
+111 Sqn / 11 Group / Fighter Command
+IV/310e RI / - / Groupe de Secteurs Nord
+EM Gen. Fagalde / 16e CA / Forces Maritimes du Nord
+4th/7th RTR / 1st Army Tank Brigade / BEF
+144th Br / 48th (South Midland) Div / I Corps/ BEF
+145th Br / 48th (South Midland) Div / I Corps / BEF
+53rd ATR RA / 48th (South Midland) Div / I Corps / BEF
+18th/24th/68th Field Regiments RA / 48th (Soth Midland) Div / I Corps / BEF
+A-5 / Corps de Marine
+H-75 / Corps de Marine
+139th Br / 46th (North Midland) Div / III Corps / BEF
+132nd Br / 44th (Home Counties) Div / III Corps / BEF
+132th Br / 44th (Home Counties) Div / BEF
+131th Br / 44th (Home Counties) Div / III Corps / BEF
+RE / 48th (South Midland) Div / III Corps / BEF
+HQ Gen. Wason / III Corps / BEF
+57th ATR RA / 44th (Home Counties) Div / III Corps / BEF
+57th/58th/65th Field Regiments RA / 44th (Home Counties) Div / III Corps / BEF
+37e Bon sapeurs / 1e DLM / ex 7e Armée / Groupe d'Armées 1
+4e RC / 1e BLM / 1e DLM / ex 7e Armée / Groupe d'Armées 1
+6e RC / 1e DLM / ex 7e Armée / Groupe d'Armées 1
+18e RD / 1e BLM / 1e DLM / ex 7e Armée / Groupe d'Armées 1
+4e RDP / 2e BLM / 1e DLM / ex 7e Armée / Groupe d'Armées 1
+74e RATTT/ 1e DLM/ ex 7e Armée / Groupe d'Armées 1
+11e EDAC / 1e DLM / ex 7e Armée / Groupe d'Armées 1
+125th Br / 42nd (East Lancashire)  Div / III Corps / BEF
+126th Br / 42nd (East Lancashire)  Div / III Corps / BEF
+127th Br / 42nd (East Lancashire)  Div / III Corps / BEF
+52nd/53rd Field Regiments RA / 42nd (East Lancashire) Div / III Corps / BEF
+56th ATR RA / 42nd (East Lancashire)  Div / III Corps / BEF
+EM Picard / CC / 1ère Armée / Groupe d'Armées 1
+III./JG 26 / Jagdfliegerführer 2 / Luftflotte 2
+I./StG 1 / VIII Fliegerkorps / Luftflotte 3
+III./StG 2 / VIII Fliegerkorps / Luftflotte 3
+I./StG 77 / VIII Fliegerkorps / Luftflotte 3
+I./JG 27 / VIII Fliegerkorps / Luftflotte 3
+III./JG 2 / VIII Fliegerkorps / Luftflotte 3
+AR 617
+AR 782 / - / XIV (Mot.) AK / AOK 4
+RE / 44th (Home Counties) Div / III Corps / BEF
+RE / 42nd (East Lancashire) Div / I Corps / BEF
+143th Br / (from 48th Div) 5th Div / II Corps / BEF
+13th Br / 5th Div / II Corps / BEF
+9th/91st/92nd Field Regiments RA / 5th Div / II Corps / BEF
+52nd ATR RA / 5th Div / II Corps / BEF
+17th Br / 5th Div / II Corps / BEF
+Loo Canal
+256 Aufkl.-Abt / 256 ID / XXVI AK / AOK 18
+58th LAAR RA / - / - / BEF
+4th AAR RA / 2nd AA Br/ - / BEF
+I./KG 77 / I Fliegerkorps / Luftflotte 2
+II./JG 51 / Jagdfliegerführer 2 / Luftflotte 2
+I/JG 54 / Jagdfliegerführer 3 / Luftflotte 2
+EM Gen. de la Laurencie / 3e CA / 1ère Armée / Groupe d'armées 1
+19 IR / 7 ID / XI AK / AOK 6
+Panzer-Regiment 25 / 7 Pz.Div. / XV (Mot.) AK / 4 AOK
+Panzer-Regiment 11 / 6 Pz.Div. / XLI AK / AOK 4
+I/KG 30 / IV Fliegerkorps / Luftflotte 2 
+456 IR / 256 ID / XXVI AK / AOK 18
+476 IR / 256 ID / XXVI AK / AOK 18
+256 Pion.-Abt / 256 ID / XXVI AK / AOK 18
+481 IR / 256 ID / XXVI AK / AOK 18
+256 AR / 256 ID / XXVI AK / AOK 18
+256 PzJäg.-Abt / 256 ID / XXVI AK / AOK 18
+Generalstab Gen. Wodrig / XXVI AK / AOK 18
+309 IR / 208 ID / XXVI AK / AOK 18
+337 IR / 208 ID / XXVI AK / AOK 18
+338 IR / 208 ID / XXVI AK / AOK 18
+208 Pion.-Abt / 208 ID / XXVI AK / AOK 18
+208 Aufkl.-Abt / 208 ID / XXVI AK / AOK 18
+208 PzJäg.-Abt / 208 ID / XXVI AK / AOK 18
+208 A9 IR / 208 ID / XXVI AK / AOK 18
+36 Li / 14 DI / Groupement Gen. Krahe 
+3 ChA / 1 DChA / VI CA
+10th Br / 4th Div / II Corps / BEF
+11th Br / 4th Div / II Corps / BEF
+12th Br / 4th Div / II Corps/ BEF
+22nd/30th/77th Field Regiments RA / 4th Div / II Corps / BEF
+14th ATR RA / 4th Div / II Corps / BEF
+7th Br / 3rd Div / II Corps / BEF
+20th ATR RA / 3rd Div / II Corps / BEF
+8th Br / 3rd Div / II Corps / BEF
+9th Br / 3rd Div / II Corps / BEF
+7th/33rd/76th Field Regiments RA / 3rd Div / II Corps / BEF
+150th Br / 50th (Northumbrian) Div / II Corps / BEF
+151th Br / 50th (Northumbrian) Div / II Corps / BEF
+65th ATR RA / 50th (Northumbrian) Div / II Corps/ BEF
+72nd/74th/92nd Field Regiments RA / 50th (Northumbrian) Div / II Corps / BEF
+133th Br / 44th (Home Counties) Div / III Corps / BEF
+Forest de Nieppe
+Panzer-Regiment 10 / Pz.-Brig. 8 / 8 Pz.Div. / XLI AK / AOK 4
+5th Br (+remanents 4th/6th Br) / 2nd Div / I Corps / BEF
+ Schützen-Regiment 8 / Schütz.-Brig. 8 / 8 Pz.Div. / XLI AK / AOK 4
+ Kradschützen Bataillon 8 / Schütz.-Brig. 8 / 8 Pz.Div. / XLI AK / AOK 4
+Artillerie-Regiment 103 / 4 Pz.Div. / XVI (Mot.) AK / AOK 4
+Aufkl.-Abt. 7 / 4 Pz.Div. / XVI (Mot.) AK / AOK 4
+Pio.-Bat. 79 / 4 Pz.Div. / XVI (Mot.) AK / AOK 4
+Pzjäg.-Abt. 49 / 4 Pz.Div. / XVI (Mot.) AK / AOK 4
+ Schützen-Regiment 4 / Sch.-Brig. 4 / 6 Pz.Div. / XLI AK
+6 Pz.Div
+5th Regiment RHA / - / III Corps / BEF
+Pion.-Bat. 1 / 1 Pz.Div. / XIX AK / AOK 12
+GS Gen. Wietersheim / XIV (mot.) AK / AOK 4
+Aufkl.-Abt. 9 / - / 9 Pz.Div. / XIV (mot.) AK / AOK 4
+SR 10 / Schütz.-Brig. 9 / 9 Pz.Div. / XIV (mot.) AK / AOK 4
+SR 11 / Schütz.-Brig. 9 / 9 Pz.Div. / XIV (mot.) AK / AOK 4
+Kradschütze-Bataillon 59 / Schütz.-Brig. 9 / 9 Pz.Div. / XIV (mot.) AK / AOK 4
+Pz.-Pio.Bat. 86 / 9 Pz.Div. / XVI (mot.) AK / AOK 4
+Pzjäg.-Abt. 50 / 9 Pz.Div. / XVI (mot.) AK / AOK 4
+Artillerie-Regiment 102 / 9 Pz.Div. / XIV (mot.) AK / AOK 4
+Panzer-Regiment 33 / 9 Pz.Div. / XIV (mot.) AK / AOK 4
+IR (mot.) 76 / 20 (mot.) ID / XIV (mot.) AK / AOK 4
+Panzer-Abteilung 67 / Pz.-Brig. 8 / 8 Pz.Div. / XLI AK / AOK 4
+I/KG 1 / I Fliegerkorps / Luftflotte 2
+II/LG 1 / IV Fliegerkorps / Luftflotte 2
+264 Sqn / 11 Group / Fighter Command
+NAS 825 / Attached Fleet Air Arm
+56 Sqn / 11 Group / Fighter Command
+156 Aufkl.-Abt. / 56 ID / IX AK / AOK 18
+171 IR / 56 ID / IX AK / AOK 18
+192 IR / 56 ID / IX AK / AOK 18
+234 IR / 56 ID / IX AK / AOK 18
+216 Pio.-Bat. / 56 ID / IX AK / AOK 18
+156 PzJäg.-Abt. / 56 ID / IX AK / AOK 18
+156 AR / 56 ID / IX AK / AOK 18
+138th Br / 46th (North Midland) Div / III Corps / BEF
+Basse Colme Canal
+Basse Come Canal
+1st Gds Br / 1st Div / I Corps / BEF
+HQ Gen. Barker / I Corps / BEF
+137th Br / 46th (North Midland) Div / III Corps / BEF
+HMS Vivacious (V/W class)
+Group 51
+2. Schnellbootsflotilla
+U.62 / 1.Unterseebootsflotilla
+2nd Br / 1st Div / I Corps / BEF
+3rd Br / 1st Div / I Corps / BEF
+2nd/19th/67th Field Regiments RA / 1st Div / I Corps / BEF
+21st ATR RA / 1st Div / I Corps / BEF
+14 Aufkl.-Abt / 14 ID / X AK / AOK 6
+101 IR / 14 ID / X AK / AOK 6
+14 Pion.-Bat. / 14 ID / X AK / AOK 6
+74 AR / 14 ID / X AK / AOK 6
+14 PzJäg.-Abt. / 14 ID / X AK / AOK 6
+61 IR / 7 ID / XI AK / AOK 6
+62 IR / 7 ID / XI AK / AOK 6
+7 Aufkl.-Abt. / 7 ID / XI AK / AOK 6
+7 Pion.-Bat. / 7 ID / XI AK / AOK 6
+7 AR / 7 ID / XI AK / AOK 6
+7 PzJäg.-Abt. / 7 ID / XI AK / AOK 6
+785 AR / - / XXVI AK / AOK 18
+Panzer-Abteilung 66 / 7 Pz.Div. / XV (Mot.) AK / 4 AOK
+Schützen-Regiment 6 / Schütz.-Brig. 7 / 7 Pz.Div./ XV (Mot.) AK / 4 AOK
+Schützen-Regiment 7 / Schütz.-Brig. 7 / 7 Pz.Div./ XV (Mot.) AK / 4 AOK
+Artillerie-Regiment 78 / 7 Pz.Div. / XV (Mot.) AK / 4 AOK
+37 Aufkl.-Abt./ 7 Pz.Div. / XV (Mot.) AK / 4 AOK
+42 Pzjäg.-Abt / 7 Pz.Div. / XV (Mot.) AK / 4 AOK
+58 Pio.-Bat. / 7 Pz.Div. / XV (Mot.) AK / 4 AOK
+ Kradschützen Bataillon 7 / Schütz.-Brig. 7 / 7 Pz.Div. / XV (Mot.) AK / 4 AOK
+137e RI / 21e DI / XVIe CA / Forces Maritimes du Nord (ex 7 Armée)
+35e RAD / 21e DI / XVIe CA / Forces Maritimes du Nord (ex 7 Armée)
+235e RAD / 21e DI / XVIe CA / Forces Maritimes du Nord (ex 7 Armée)
+59e GRDI / 68e DI / XVIe CA / Forces Maritimes du Nord (ex 7 Armée)
+Pionier-Abteilung 37 / IR (mot.) GD /- / XVI (mot.) AK / AOK 4
+Sturmgeschütz-Batterie 640 / IR (mot.) GD / XIV (mot.) AK / AOK 4
+43 Pio.-Bat. / IR (mot.) GD /- / XIV (mot.) AK / AOK 4
+60th/88th AFR RA / II Corps / BEF
+II./ZG 26 / Jagdfliegerführer 3 / Luftflotte 3
+I./KG 4 / IV Fliegerkorps / Luftflotte 2
+III/KG 54 / IV Fliegerkorps / Luftflotte 2
+II./KG 2 / II Fliegerkorps / Luftflotte 3
+III./KG 3 / II Fliegerkorps / Luftflotte 3
+51 IR / 18 ID / X AK / AOK 6
+54 IR / 18 ID / X AK / AOK 6
+18 Aufkl.-Abt. / 18 ID / X AK / AOK 6
+18 PzJäg.-Abt. / 18 ID / X AK / AOK 6
+18 AR / 18 ID / X AK / AOK 6
+Pzjäg.-Abt. 41 / 6 Pz.Div. / XLI AK / AOK 4
+Artillerie-Regiment 76 / 6 Pz.Div. / XLI AK / AOK 4
+57 Pio.-Bat. / 6 Pz.Div. / XLI AK / AOK 4
+Kradschützen-Bataillon 6 / Schütz.-Brig. 6 / 6 Pz.Div. / XLI AK / AOK 4
+Schützen-Regiment 4 / Schütz.-Brig. 6 / 6 Pz.Div. / XLI AK / AOK 4
+IR (mot.) 90 / 20 (mot.) ID / XIV (mot.) AK / AOK 4
+Panzer-Abteilung 65 / 6 Pz.Div. / XLI AK / AOK 4
+Aufkl.-Abt. 57 / 6 Pz.Div. / XLI AK / AOK 4
+20 (mot.) AR / 20 (mot.) ID / XIV (mot.) AK / AOK 4
+AR (mot.) I./58 / 20 (mot.) ID / XIV (mot.) AK / AOK 4
+Pzjäg.-Abt 20 / 20 (mot.) ID / XIV (mot.) AK / AOK 4
+Pio.-Bat. 20 / 20 (mot.) ID / XIV (mot.) AK / AOK 4
+Aufkl.-Abt. 20 / 20 (mot.) ID / XIV (mot.) AK / AOK 4
+SS-Artillerie-Standarte / IR (mot.) LSSAH /- / XIV (mot.) AK / AOK 4
+Panzer-Regiment 3 / Pz.-Brig 2 / 2 Pz.Div. / XIX AK / AOK 12
+Panzer-Regiment 35 / Pz.-Brig. 8 / 4 Pz.Div. / XVI (Mot.) AK / 4 AOK
+HQ Gen. Brooke / II Corps / BEF
+12e RC / 3e DLM / CC / 1ère Armée / Groupe d'Armées 1
+1er Cuir / 5e BLM / 3e DLM / CC / 1ère Armée / Groupe d'Armées 1
+2e Cuir / 5e BLM / 3e DLM / CC / 1ère Armée / Groupe d'Armées 1
+11e RDP / 6e BLM / 3e DLM / CC / 1ère Armée / Groupe d'Armées 1
+76e RATTT / 3e DLM / CC / 1ère Armée / Groupe d'Armées 1
+13e EDAC / 3e DLM / CC / 1ère Armée / Groupe d'Armées 1
+39e Bon sapeurs / 3e DLM / CC / 1ère Armée / Groupe d'Armées 1
+12th Royal Lancers / - / BEF
+1er RI / 1er DIM / 3e CA / 1ère Armée / Groupe d'Armées 1
+43e RI / 1er DIM / 3e CA / 1ère Armée / Groupe d'Armées 1
+110e RI / 1er DIM / 3e CA / 1ère Armée / Groupe d'Armées 1
+7e GRDI / 1er DIM / 3e CA / 1ère Armée / Groupe d'Armées 1
+14e EDAC / 1er DIM / 3e CA / 1ère Armée / Groupe d'Armées 1
+15e RAD / 1er DIM / 3e CA / 1ère Armée / Groupe d'Armées 1
+215e RALD / 1er DIM / 3e CA / 1ère Armée / Groupe d'Armées 1
+1er Bon Sapeurs / 1er DIM / 3e CA / 1ère Armée / Groupe d'Armées 1
+III./JG 26 / Jagdfliegerführer 2 / Luftflotte 2
+17 IR / 31 ID / IV AK / AOK 6
+82 IR / 31 ID / IV AK / AOK 6
+176 IR / 61 ID / IV AK / AOK 6
+31 Pion.-Bat. / 31 ID / IV AK / AOK 6
+31 Aufkl.-Abt. / 31 ID / IV AK / AOK 6
+31 AR / 31 ID / IV AK / AOK 6
+31 PzJäg.-Abt. / 31 ID / IV AK / AOK 6
+617 AR / - / IX AK / AOK 18
+Generalstab Gen. Geyer / IX AK / AOK 18
+Pion.-Bat. 18 / 18 ID / X AK / AOK 6
+348 IR / 216 ID / IX AK / AOK 18 
+396 IR / 216 ID / IX AK / AOK 18 
+398 IR / 216 ID / IX AK / AOK 18 
+216 Aufkl.-Abt. / 216 ID / IX AK / AOK 18
+216 Pion.-Bat. / 216 ID / IX AK / AOK 18
+216 AR / 216 ID / IX AK / AOK 18 
+216 PzJäg.-Abt. / 216 ID / IX AK / AOK 18
+151 IR / 61 ID / IV AK / AOK 6
+162 IR / 61 ID / IV AK / AOK 6
+161 Aufkl.-Abt. / 61 ID / IV AK / AOK 6
+161 AR / 61 ID / IV AK / AOK 6
+161 Pion.-Bat. / 61 ID / IV AK / AOK 6
+161 PzJäg.-Abt. / 61 ID / IV AK / AOK 6
+454 IR / 254 ID / X AK / AOK 18
+474 IR / 254 ID / X AK / AOK 18
+484 IR / 254 ID / X AK / AOK 18
+254 Aufkl.-Abt. / 254 ID / X AK / AOK 18
+254 PzJäg.-Abt / 254 ID / X AK / AOK 18
+254 AR/ 254 ID / X AK / AOK 18
+254 Pio.-Bat. / 254 ID / X AK / AOK 18
+Generalstab Gen. Hansen / X AK / AOK 18
+102 AR / X AK / AOK 18
+1er E / Ier G / Ier Ae
+ Kradschützen-Bataillon 1 / Schütz.-Brig. 1 / 1 Pz.Div. / XIX AK / AOK 12
+7e GRDI / 1e DIM / 3e CA / 1ère Armée / Gropu d'Armées 1
+92e GRDI / 2e DINA
+402e RADCA / XVIe CA / Forces Maritimes du Nord (ex 7 Armée)
+Petit-Fort-Philippe
+21/110e RI / - / XVIe CA / Forces Maritimes du Nord
+21/129e RI / - / XVIe CA / Forces Maritimes du Nord
+SS Standarte Der Führer IR / SS-Verfügungs-Division (mot.) / XLI AK / AOK 4
+SS Standarte Germania IR / SS-Verfügungs-Division (mot.) / XLI AK / AOK 4
+SS Standarte Deutschland IR / SS-Verfügungs-Division (mot.) / XLI AK / AOK 4
+HMS Comfort
+Aufkl.-Abt. SS-V / SS-Verfügungs-Division (mot.)
+SS-Pzjäg.Abt SS-V / SS-Verfügungs-Division (mot.) / XLI AK / AOK 4
+SS Standarte Artillerie-Regiment SS-V/ SS-Verfügungs-Division (mot.) / XLI AK / AOK 4
+/ XLI AK / AOK 4
+SS-Pio.-Bat. SS-V / SS-Verfügungs-Division (mot.) / XLI AK / AOK 4
+41 Sqn / 11 Group / Fighter Command
+601 Sqn / 11 Group / Fighter Command
+21 Sqn / 2 Group / Bomber Command
+SS AA.Abt SS-V / SS-Verfügungs-Division (mot.) / XLI AK / AOK 4
+4th/7th Royal Dragoon Guards / 2nd Div / I Corps / BEF
+1st Lothian’s and Border Yeomanry / (attached) 48th (South Midland) Div / III Corps / BEF
+13th/18th Royal Hussars / 1st Div / I Corps / BEF
+4th Northumberland / - / BEF
+5th Royal Inniskilling Dragoon Guards / (attached) 4th Div / II Corps / BEF
+15th/19th The King’s Royal Hussars / (attached) 3rd Div / II Corps / BEF
+69th Br / 23rd (Northumbrian) Div / - / BEF
+137th Br. / 46th (North Midland and West Riding) Div / III Corps / ???
+139th Br. / 46th (North Midland and West Riding) Div / III Corps / ???
+Cyclone / 6e Div. Torpilleurs
+Panzer-Regiment 36 / Pz.-Brig. 8 / 4 Pz.Div. / XVI (Mot.) AK / 4 AOK
+ Schützen-Regiment 33 / Schütz.-Brig. 4 / 4 Pz.Div. / XVI (Mot.) AK / AOK 4
+Kradschützen Bataillon 34 / Schütz.-Brig. 4 / 4 Pz.Div. / XVI (Mot.) AK / AOK 4
+Schützen-Regiment 33 / Schütz.-Brig. 4 / 4 Pz.Div. / XVI (Mot.) AK / AOK 4
+59 Aufkl.-Abt./ 8 Pz.Div. / XLI AK / AOK 4
+Artillerie-Regiment 80 / 8 Pz.Div. / XLI AK / AOK 4
+43 Pzjäg.Abt / 8 Pz.Div. / XLI AK / AOK 4
+59 Pio.-Bat. / 8 Pz.Div. / XLI AK / AOK 4
+Panzer-Regiment 35 / Pz.-Brig. 8 / 4 Pz.Div. / XVI (Mot.) AK / 4 AOK
+Schützen-Regiment 12 / Schütz.-Brig. 4 / 4 Pz.Div. / XVI (Mot.) AK / AOK 4
+609 Sqn / 11 Group / Fighter Command
+74 Sqn / 11 Group / Fighter Command
+IR (mot.) 15 / 29 (mot.) ID / XLI AK / AOK 4
+IR (mot.) 71 / 29 (mot.) ID / XLI AK / AOK 4
+AR (mot.) 29 / 29 (mot.) ID / XLI AK / AOK 4
+Pio.-Bat. 29 / 29 (mot.) ID / XLI AK / AOK 4
+Pzjäg.-Abt. 29 / 29 (mot.) ID / XLI AK / AOK 4
+Aufkl.-Abt. 29 / 29 (mot.) ID / XLI AK / AOK 4
+GS Gen Guderain / XIX AK / AOK 12
+GS Gen. Reinhardt / XLI (mot.) AK / AOK 4
+GS Gen. Hoth / XV (mot.) AK / AOK 4
+GS Gen. Hoepner / XVI (Mot.) AK / AOk 4
+Pzjäg.-Abt 37/ 1 Pz.Div. / XIX AK / AOK 12
+NAS 826 / Attached Fleet Air Arm
+1. Schnellbootsflotilla
+51st LAAR RA / - / - / BEF
+213 Sqn / 11 Group / Fighter Command
+U.60 / 1.Unterseebootsflotilla
+HMS Keith / 19th Destroyer Flotilla
+II./KG 76 / II Fliegerkorps / Luftflotte 3
+I./JG 20 / VIII Fliegerkorps / Luftflotte 3
+Gr Cy / 13 DI / Groupement Gen. Krahe
+2 ChCh / 2 DC / CC
+2 C Cy / 2 DC / CC
+11e E / VIe G / 1er Ae
+107 Sqn / 2 Group / Bomber Command
+Kradschützen-Bataillon 2 / Schütz.-Brig. 2 / 2 Pz.Div. / XIX AK / AOK 12
+Schütz.-Rgt 2 / Schütz.-Brig. 2 / 2 Pz.Div. / XIX AK. / AOK 12
+Panzer-Regiment 4 / Pz.-Brig. 2 / 2 Pz.Div. / XIX AK / AOK 12
+Artillerie-Regiment 74 / 2 Pz.Div. / XIX AK / AOK 12
+Aufkl.-Abt. 5 / 2 Pz.Div. / XIX AK / AOK 12
+Pio.-Bat. 38 / 2 Pz.Div. / XIX AK / AOK 12
+Pzjäg.-Abt. 38 / 2 Pz.Div. / XIX AK / AOK 12
+II./241 / Koluft 18 / X AK / AOK 18
+I./49 / Koluft 18 / XXVI AK / AOK 18
+I./213 / Koluft 16 / IX AK / AOK 18
+94 / Koluft 18 / XIV (mot.) AK / AOK 4
+15 A / - / III CA
+Bon Pontonniers d'Armée
+23 Bon Gn / - / III CA
+4 L / 2 DC / CC
+1 ChA / 1 DChA / VI CA
+2 ChA / 1 DChA / VI CA
+1/19 Bn Gn / 1 DChA / VI CA
+1 ChCh / 2 DC / CC
+4 C Cy / 2 DC / CC
+Cie ac / 2 DC / CC
+18 A / 2 DC / CC
+26 Bn Gn / 2 DC / CC
+406e RADCA / XVIe CA / Forces Maritimes du Nord
+EM Gen. Krahe / Groupement Krahe
+RE / 3rd Div / II Corps / BEF
+RE / 4th Div / II Corps / BEF
+RE / 1st Div / I Corps / BEF
+116 Bon sapeurs / - / XVIe CA / Forces Maritimes du Nord (ex 7 Armée)
+4th The Royal Northumberland Fusiliers / 50th (Northumbrian) Div / II Corps/ BEF

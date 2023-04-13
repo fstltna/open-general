@@ -1,0 +1,515 @@
+* lines starting with # are read as a front name
+* lines starting with @ are read as a faction name
+* ------------------------------------------------------------------
+
+0 All Nations
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+1 Republica Veneta
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+2 Deutscher Bund
+#Österreich
+#Ungarn
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+3 Rossiyskaya Imperiya
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+4 Habsburgerreich
+#Ungarn
+#Banat
+#Siebenbürgen
+#Österreich
+#Italien
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+5 Magyar Királyság
+#Magyarország
+#Bánát
+#Erdély
+#Ausztria
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+6 Regno di Sardegna
+#Italia
+#Ungheria
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+7 Królestwo Polskie
+#Polska
+#Korpus Ekspedycyjny
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+8 Osmanli Devleti
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+9 United Kingdom
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+10 Königreich Preußen
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+11 Royaume de France
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+12 République Française
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+13 Empire Français
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+14 Konungariket Sverige
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+15 Reino de España
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+16 Markgrafschaft Baden
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+17 Kurfürstentum Bayern
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+18 Rheinbund
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+19 Herzogtum Württemberg
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+20 Kurfürstentum Sachsen
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+21 Kurfürstentum Hannover
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+22 Republic of Texas
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+23 República Mexicana
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+24 USA
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+25 Kongeriget Danmark
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+26 Landgrafschaft Hessen-Kassel
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+27 Reino de Portugal
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+28 Koninkrijk der Nederlanden
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+29 Natives
+#America
+#Middle East
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+30 Regno di Sicilia
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+31 Granducato di Toscana
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase
+
+32 Ellinikí Dimokratía
+@ Militia
+@ Infantry
+@ Mountainer
+@ Sapper
+@ Light Cavalry
+@ Heavy Cavalry
+@ Artillery
+@ Siege Gun
+@ GTP/RTP
+@ Navy
+@ Fortification
+@ HQ
+@ Can’t Purchase

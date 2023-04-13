@@ -1,0 +1,12 @@
+Battle of Reichenbach
+August 16, 1762
+
+After defeating the Austrians at Burkersdorf, Frederick II instantly proceeded upon Schweidnitz. The Austrians had improved the fortifications of Schweidnitz to prevent its capture by storm; thus forcing the Prussians to undertake a formal siege, which began on August 8. The Prussians deployed a covering force in continuous positions all around the fortress to prevent the intervention of any Austrian relief force. To break the encirclement of the fortress, Feldmarshal Daun ordered the Austrian troops to attack the Prussian entrenched positions near Reichenbach.
+
+Deploy Hexes: 22
+
+ORDER: Hold at least 4 VHs, and keep your MSU alive.
+
+NOTE: AI moves first.
+
+scenario designer: Csaba (lvjtn)

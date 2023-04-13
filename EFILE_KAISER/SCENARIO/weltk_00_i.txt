@@ -1,0 +1,18 @@
+Mülhausen
+
+Aug 7th, 1914
+
+Good morning, General. Just as you expected, the French have mobilized their troops in a matter of hours, and they are ready to invade Elsass and Lothringen. Since most of our divisions are in Belgium executing the Schlieffen Plan, that means that our enemies have numerical superiority in this region. It's essential that you hold Mülhausen long enough, slowing the French advance and forcing them to send reinforcements to Elsass, weakening their defences in the west.
+
+Victory conditions:
+- After 9 turns you must hold 4 VHs for a BV, 3 VHs for a V or 1 VH for a TacV.
+
+
+
+
+
+
+
+
+
+

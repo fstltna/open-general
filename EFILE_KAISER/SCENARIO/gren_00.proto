@@ -1,0 +1,18 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+1864  '  Sapper 82   [INF  British Empire]  Cost: 264
+2692  '  BL 12pdr 7cwt  [ATY  British Empire]  Cost: 288
+3336  '  Royal Marine 82  [INF  British Empire]  Cost: 132
+3337  '  Dism. Cavalry 82  [INF  British Empire]  Cost: 132
+3349  '  Infantry 82  [INF  British Empire]  Cost: 96
+3350  '  Guards 82  [INF  British Empire]  Cost: 204
+3351  '  Scottish 82  [INF  British Empire]  Cost: 96
+3397  '  Lancers 82  [RCN  British Empire]  Cost: 276
+3398  '  Hussars 82  [RCN  British Empire]  Cost: 264
+3400  '  Cavalry Scout 82  [RCN  British Empire]  Cost: 120
+3412  '  Rifles 82  [INF  British Empire]  Cost: 144
+3671  '  Bridging 82  [INF  British Empire]  Cost: 228

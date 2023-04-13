@@ -1,0 +1,82 @@
+Beda Fomm - Benghazi
+8 Pz R/15 Pz/[DAK]
+15 Bde/15 Pz/[DAK]
+8 Pz R/15 Pz/[DAK]
+15 Bde/15 Pz/[DAK]
+15 Mot/15 Pz/[DAK]
+33 Rec/15 Pz/[DAK]
+33 AR/15 Pz/[DAK]
+33 Pzjgr/15 Pz/[DAK]
+33 Pio/15 Pz/[DAK]
+5 Pz R/5 LD/[DAK]
+33 Pzjgr/5 LD/[DAK]
+36 Pzjgr/5 LD/[DAK]
+75 AR/5 LD/[DAK]
+605/5 LD/[DAK]
+606/5 LD/[DAK]
+39 Pio/5 LD/[DAK]
+32 R/132 Ariete/[XX]
+132 R/132 Ariete/[XX]
+8 R/132 Ariete/[XX]
+19 R/27 Brescia/[X]
+20 R/27 Brescia/[X]
+26 AR/27 Brescia/[X]
+Gulf of Sirte
+Abfar
+Benghazi harbour
+Samalusi
+Mechilli
+Benghazi
+Banina
+Jardis
+Kharruba
+Quaminis
+Suluq
+Bir Tengedir
+Al Mogrun
+Msus
+Gen Gania
+Beda Fomm
+Antelat
+Saunnu
+Ajdabia airport
+[2 Luftflotte]
+[2 Luftflotte]
+[Luftwaffe]
+25 Bde/9 AD/[XIII]
+25 Bde/9 Aust./[XIII]
+26 Bde/9 Aust./[XIII]
+27 Bde/9 Aust./[XIII]
+2/7 R/9 Aust./[XIII]
+2/8 R/9 Aust./[XIII]
+2/12 R/9 Aust./[XIII]
+2/3 AT/9 Aust./[XIII]
+2/3 MG/9 Aust./[XIII]
+2/4 Pio/9 Aust./[XIII]
+9/9 Aust./[XIII]
+E/2 Arm Div/[XIII]
+9 Btn/2 Arm Div/[XIII]
+RHA/2 Arm Div/[XIII]
+1 RHA/2 Arm Div/[XIII]
+E/2 Arm Div/[XIII]
+E/2 Arm Div/[XIII]
+3 KOH/3 Bde/2 Arm Div/[XIII]
+5 RTR/3 Bde/2 Arm Div/[XIII]
+6 RTR/3 Bde/2 Arm Div/[XIII]
+11 Hussars/-/[XIII]
+1 Btn KRRC/-/[XIII]
+2 Btn/Rifle Bde./-/[XIII]
+4 SA Arm. Car Rgt./-/[XIII]
+3 RHA/-/[XIII]
+Mechilli Garrison
+[2 Luftflotte]
+DAF
+DAF
+[XIII]
+15 R/55 Savona/[DAK]
+16 R/55 Savona/[DAK]
+12 R/55 Savona/[DAK]
+2 MG Btn/5 LD/[DAK]
+8 MG Btn/5 LD/[DAK]
+Axis Supply Point
+HQ/[DAK]

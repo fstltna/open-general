@@ -1,0 +1,45 @@
+'---
+'Config AI file for scenario: xbk13.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=37 items  ' Replacement for default list
+ 489  '  Katyusha 82mm  [ATY  Russia]  Cost: 420
+ 505  '  BA-10  [RCN  Russia]  Cost: 312
+ 515  '  KV-1/39  [ TK  Russia]  Cost: 708
+ 516  '  KV-1/40  [ TK  Russia]  Cost: 792
+ 518  '  KV-2  [ AT  Russia]  Cost: 768
+ 521  '  T-34/40  [ TK  Russia]  Cost: 552
+ 522  '  T-34/41  [ TK  Russia]  Cost: 600
+ 528  '  Gaz-3  [TPT  Russia]  Cost: 72
+ 529  '  Wagon  [TPT  Russia]  Cost: 12
+ 530  '  YaK-1  [FTR  Russia]  Cost: 564
+ 535  '  LaGG-3  [FTR  Russia]  Cost: 564
+ 537  '  MiG-3  [FTR  Russia]  Cost: 564
+ 542  '  IL-2  [ TB  Russia]  Cost: 636
+ 544  '  Li-2  [ATP  Russia]  Cost: 348
+ 979  '  Pe-2  [ TB  Russia]  Cost: 720
+1833  '  KV-8  [ AT  Russia]  Cost: 552
+1850  '  Pe-3  [FTR  Russia]  Cost: 576
+1853  '  Ar-2  [ TB  Russia]  Cost: 636
+1856  '  Su-2  [ TB  Russia]  Cost: 432
+1859  '  Kom-1  [TPT  Russia]  Cost: 96
+2579  '  Horse  [TPT  Russia]  Cost: 12
+2580  '  Gaz-1  [TPT  Russia]  Cost: 108
+2581  '  Gaz-2  [TPT  Russia]  Cost: 60
+2582  '  Kom-2  [TPT  Russia]  Cost: 144
+2584  '  Kom-3  [TPT  Russia]  Cost: 156
+2585  '  Limber  [TPT  Russia]  Cost: 12
+2586  '  Kom-4  [TPT  Russia]  Cost: 168
+2587  '  Mules  [TPT  Russia]  Cost: 12
+2951  '  A-7  [ATP  Russia]  Cost: 252
+2952  '  TB-3  [ATP  Russia]  Cost: 348
+2966  '  BA-6  [RCN  Russia]  Cost: 300
+3067  '  BA-27M  [RCN  Russia]  Cost: 240
+5828  '  Train  [RTP  Russia]  Cost: 120
+7867  '  Yag-4  [TPT  Russia]  Cost: 84
+7981  '  SU-203  [ATY  Russia]  Cost: 1800
+7984  '  Yag 76.2mm  [ATY  Russia]  Cost: 420
+7990  '  Road Transporter  [TPT  Russia]  Cost: 120

@@ -1,0 +1,28 @@
+War at the Marne: Château-Thierry
+
+July 15th, 1918
+
+I knew it. Ludendorff, that old fox, is making one last effort to cross the Marne. This time it's just a few miles east of Château-Thierry. He's trying a pincer movement around Reims.
+
+The good news is that the Germans have pushed themselves to the limit. If you resist this last attack, they'll have to stop once and for all. Then we'll be free to start our own counteroffensive, and they'll have nothing left to defend themselves.
+
+
+Victory conditions:
+- After 8 turns you must hold 4 VHs for a BV, 3 VHs for a V and 2 VHs for a TV.
+- In this scenario the option "skip first player turn" is activated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+5233  '  2 Flak38  [FlaK  SS]  Cost: 60
+5237  '  8,8 Flak36  [FlaK  SS]  Cost: 228
+5266  '  PzJag I  [ AT  SS]  Cost: 168
+5267  '  Sturmgeschutz B  [ AT  SS]  Cost: 288
+5298  '  15 sFH18  [ATY  SS]  Cost: 504

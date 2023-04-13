@@ -1,0 +1,724 @@
+VERSION: Antique General Efile 3.4. "Britannia"
+Hastati
+Signifer
+Kundschafter
+Eisberg
+Rentier-transport
+Holz-Wachturm
+Pyramiden
+Dreier-Gespann
+Dreier-Gespann
+Dreier-Gespann
+Dreier-Gespann
+Dreier-Gespann
+Elephant
+Plänkler
+Hundeschlitten
+Kameltransport
+Infanterie
+Kavallerie
+Kavallerie
+lcht.numid.Kavallerie
+Pferdetransport
+Holzhaus Siedlung
+Holzfestung
+Hütten
+geschützte Hütten
+Schlachtturm
+Tipi-Siedlung
+Festung
+Haus
+Festung
+Wagenstellung
+Pferdetransport
+kleines Zweier-Gespann
+Stein-Festungstor
+Stein-Festungsmauer
+Stein-Festungsmauer
+Stein-Festungsmauer
+Stein-Festungsmauer
+Stein-Wachturm
+Holz-Wachturm
+Holz-Wachturm
+Infanterie
+Einer-Gespann
+Brücke
+Einer-Gespann
+Einer-Gespann
+Einer-Gespann
+kleines Zweier-Gespann
+kleines Zweier-Gespann
+kleines Zweier-Gespann
+kleines Zweier-Gespann
+Zweier-Gespann
+Zweier-Gespann
+Zweier-Gespann
+Zweier-Gespann
+leichter Pferdewagen
+leichter Pferdewagen
+leichter Pferdewagen
+leichter Pferdewagen
+Völkerwanderung
+Wagenstellung
+Infanterie
+leichter Pferdewagen
+Einer-Gespann
+Zweier-Gespann
+Festung
+Stein-Festungstor
+Stein-Festungsmauer
+Stein-Festungsmauer
+Stein-Festungsmauer
+Stein-Festungsmauer
+Stein-Festungsmauer
+Stein-Festungsmauer
+Holz-Festungsmauer
+Holz-Festungsmauer
+Holz-Festungsmauer
+Holz-Festungsmauer
+Holz-Festungsmauer
+Holz-Festungsmauer
+Holz-Festungsmauer
+Holz-Festungsmauer
+Holz-Festungsmauer
+Träger
+Principes
+Stammeswache
+Stammeswache
+Kundschafter
+bewaffneter Kundschafter
+Stammeswache
+bewaffneter Kundschafter
+Stammeskrieger
+Stammeskrieger
+junge Krieger
+lcht.Auxiliares
+Kundschafter
+Kundschafter
+Holzturm
+Holzturm
+Steinturm
+Steinturm
+Burgus
+bewaffneter Kundschafter
+bewaffneter Kundschafter
+Saboteur
+Saboteur
+Saboteur
+Saboteur
+Saboteur Trupp
+Saboteur
+Saboteur
+Saboteur
+Siedlung
+Attentäter
+Spion
+Spion
+Spion
+Triarii
+Elite Attentäter
+Stammeskrieger
+Völkerwanderung
+Völkerwanderung
+Völkerwanderung
+Völkerwanderung
+Völkerwanderung
+Stammeswache
+Stammeskrieger
+Kundschafter
+bewaffneter Kundschafter
+junge Krieger
+Attentäter
+Attentäter
+SPQR - Senatus PopulusQue Romanus
+Elite Stammeskrieger
+Pioniere
+junge Krieger
+Bogenschützen
+Veteran Bogenschützen
+schwere Kavallerie
+General
+leichte Kavallerie
+Bogenschützen
+Bogenschützen mit gestärktem Bogen
+Attentäter
+Pferdetransport
+Pionier-Brücke
+Castell
+Spionversteck
+Castell
+Pionier-Brücke
+l. Pferdewagen
+Attentäter mit Giftklinge
+Spion
+bal. Schleuderer
+Attentäter
+bal. Schleuderer
+bewaffenter Kundschafter
+Bogenschützen
+Burgus
+Elite Attentäter
+General
+Hastati
+Holzturm
+Castell
+Pferdetransport
+Kundschafter
+lcht.numid. Kavallerie 
+l. Pferdewagen
+lcht.Auxiliares
+leichte Kavallerie
+Pionier-Brücke
+Pioniere
+Principes
+Saboteur
+Saboteur
+schwere Kavallerie
+Signifer
+Spion
+Steinturm
+Triarii
+Veteran Bogenschützen
+Praet. Bogenschützen
+Praet. Bogenschützen
+Bogenschützen mit Hastati
+Bogenschützen mit Hastati
+Kavallerie-Kundschafter
+Kavallerie-Kundschafter
+Bogenschützen
+Bogenschützen mit gestärktem Bogen
+Bogenschützen mit Giftpfeilen
+Bogenschützen mit gestärktem Bogen und Giftpeilen
+Bogenschützen
+Bogenschützen mit gestärktem Bogen
+Bogenschützen mit Giftpfeilen
+Bogenschützen mit gestärktem Bogen und Giftpeilen
+Veteran Bogenschützen mit  Giftpeilen
+Bogenschützen mit Giftpfeilen
+Bogenschützen mit gestärkem Bogen und Giftpeilen
+Elite Attentäter
+Elite Attentäter
+Elite Attentäter mit Giftklinge
+Kavallerie
+Kavallerie Kundschafter
+Elite Kavallerie
+fahrende Balliste
+desertierte germanische Legionäre
+Elite Attentäter mit Giftklinge
+Veteran Pioniere
+Veteran Pioniere
+Veteran Bogenschützen mit Giftpfeilen
+fahrende Balliste
+Veteran Stammeswache
+Veteran Stammeswache
+Veteran Stammeswache
+Adels-Stammeswache
+Speerwerfer
+Speerwerfer
+leichte Kavallerie
+Axtmänner
+praet. Triarii
+praet. Triarii
+Velites
+Velites
+Holzturm
+Scorpion
+Scorpion
+Spionversteck
+Spionversteck
+Spionversteck
+Spionversteck
+Wagenstellung
+Wagenstellung
+Kavallerie
+Doppelkaempfer
+Häuptling
+Scorpion mit Hastati
+praet.Scorpion
+Scorpion mit Hastati
+praet.Scorpion
+Ind. Infanterie 2
+Ind. Infanterie 3
+Ind. Infanterie 4
+Ind. Infanterie 5
+Ind. Infanterie 6
+bewaffnete Knechte
+bewaffnete Knechte
+Benefitiari
+Benefitiari
+Romani
+Romani
+schw. Balliste
+schw. Katapult
+Tricontera
+Transportschiff
+Tricontera
+Transportschiff
+Transportschiff
+Transportschiff
+Schlachtschiff
+Schlachtschiff
+Vigiles
+Vigiles
+Manipularii
+Manipularii
+Praetoriani
+Praetoriani
+Pferdetransport
+Pferdetransport
+bew.Kav.Eskorte
+bew.Kav.Eskorte
+bew.Kav.Eskorte
+bew.Kav.Eskorte
+Gespann
+Gespann
+schw. Balliste
+schw. Katapult
+schw. Katapult
+schw. Gespann
+schw. Gespann
+Kundschafter
+Saboteur
+Spion
+Pioniere
+Bogenschützen
+König
+leichte Kavallerie
+Hilfsbrücke
+l. Gespann
+Holzturm
+Spion-Versteck
+Tricontera
+Attentäter
+Steinturm
+bew. Kundschafter
+schw. Balliste
+Gespann
+schw. Gespann
+Scorpion
+Kavallerie Transport
+Transportschiff
+junge Tusci
+Veteran Tusci
+schw. Katapult
+bewaffnete Knechte
+Stammeswache
+lcht.numid.Kavallerie
+Krieger
+Schleuderer
+Schleuderer
+Schleuderer
+Schleuderer
+Schleuderer
+Schleuderer
+Gebirgstransport
+Gebirgstransport
+Gebirgstransport
+mittl. Katapult
+mittl. Katapult
+mittl. Katapult
+Gladiatores
+Spion
+Saboteur
+Attentäter
+Scorpion
+Späher
+bew. Späher
+Kavalerie Trnsprt
+l. Gespann
+Gespann
+schw. Gespann
+Bogenschützen
+erfahrene Sklaven-Wache
+bewaffnete Sklaven
+Spion
+Saboteur
+Attentäter
+Scorpion
+Späher
+bew. Späher
+Kavalerie Trnsprt
+l. Gespann
+Gespann
+schw. Gespann
+Bogenschützen
+Wache
+Piraten
+Transportschiff
+Transportschiff
+Tricontera
+nördl. Kampfschiff
+Spion Versteck
+Spion Versteck
+Holzturm
+Holzturm
+bewaffnete Sklaven
+mittl. Auxiliares
+mittl. Auxiliares
+Sklaven-Wache
+leichte Kavallerie
+erfahrene bewaffnete Sklaven
+Sklaven-Wache
+Streitwagen
+Circus
+Speer-Falle
+Langschiff blau
+Langschiff grau
+Langschiff grün
+Langschiff braun
+Langschiff gelb
+Langschiff schwarz
+Pentecontera
+Pentecontera
+Pentecontera
+Pentecontera
+Ochsenkarren
+Ochsenkarren
+Ochsenkarren
+Ochsenkarren
+Ochsenkarren
+Ochsenkarren
+Ochsenkarren
+Kavalerie Trnsprt
+Ramme
+Ramme
+Ramme
+Ramme
+Ramme
+Trireme
+Trireme
+Trireme
+Trireme
+Liburne
+Liburne
+Liburne
+Liburne
+Heptera
+Heptera
+Heptera
+Heptera
+leichte Liburne
+leichte Liburne
+leichte Liburne
+leichte Liburne
+Stammeswache
+Krieger
+Späher
+Holzturm
+Steinturm
+bew. Späher
+Saboteur
+Saboteure
+Völkerwanderung
+Adelskrieger
+Junge Krieger
+Bogenschützen
+Bogenschützen & verst.Bogen
+Attentäter
+Attentäter m. vergft.Klinge
+Spion
+Bogenschützen m. Giftpfeilen
+Bogenschützen m.Gft.pf. & vst.Bg.
+Kavallerie
+Kavallerie Späher
+Adels Kavallerie
+Veteran Stammeswache
+Adels-Stammeswache
+Plänkler
+leichte Kavallerie
+Spion-Versteck
+Wagenstellung
+bewaffnete Knechte
+Transportschiff
+Schlachtschiff
+Kavallerie-Transport
+bew. Kavallerie-Eskorte
+Streitwagen
+Ochsenkarren
+lcht. Auxiliares m.röm.Offizier
+lcht. Auxiliares m.röm.Offizier
+Stammeswache
+Späher
+bewaffneter Späher
+junge Krieger
+Saboteur
+Saboteure
+Spion
+Krieger
+Völkerwanderung
+Attentäter
+Bogenschützen
+Bogenschützen & verst.Bogen
+Bogenschützen m. Giftpfeilen
+Bogenschützen m.Gft.pf. & vst.Bg.
+Veteran Attentäter
+desertierte germanische Legionäre
+Veteran Stammeswache
+Adels-Stammeswache
+Plänkler
+Axtmänner
+Holzturm
+Spion-Versteck
+Wagenstellung
+Kavallerie
+Doppelkämpfer
+Häuptling
+bewaffnete Knechte
+Transportschiff
+Schlachtschiff
+Kavallerie Transport
+bew. Kavallerie-Eskorte
+Ochsenkarren
+Langschiff
+Langschiff
+Pallisade N (i)
+Pallisade NO
+Pallisade O
+Pallisade SO
+Pallisade S (a)
+Pallisade SW
+Pallisade W
+Pallisade NW
+Pallisade N (a)
+Pallisade S (i)
+Pallisade NO-S
+Pallisade SO-N
+Pallisade N-S (r)
+Pallisade N-S (l)
+Pallisade SW-N
+Pallisade NW-S
+Pallisade N (i) + Turm
+Pallisade NO + Turm
+Pallisade O + Turm
+Pallisade SO + Turm
+Pallisade S + Turm
+Pallisade SW + Turm
+Pallisade W + Turm
+Pallisade NW + Turm
+Steinmauer W-O
+Steinmauer N-S
+Steinmauer NW-SO
+Steinmauer NO-SW
+Steinmauer NO-S
+Steinmauer NW-S
+Steinmauer SW-N
+Steinmauer SO-N
+Steinmauer S
+Steinmauer N
+Steinmauer W
+Steinmauer O
+Steinmauer r u
+Steinmauer l u
+Steinmauer r o
+Steinmauer l o
+Steinmauer N-S + Turm
+Steinmauer W-O + Turm + Tor
+Steinmauer W-O + Turm
+Elefant
+Krieger
+Saboteur
+Spion
+Attentäter
+Belagerungsturm
+Belagerungsturm
+Belagerungsturm
+Belagerungsturm
+Belagerungsturm
+Langboot
+Langboot
+Tricontera
+nördl. Schlachtschiff
+Pentecontera
+Trirema
+Heptera
+Liburne
+leichte Liburne
+phönizische Kriegsgalleere
+phönizische Kriegsgalleere
+phönizische Kriegsgalleere
+Tricontera
+Pentecontera
+Trirema
+Heptera
+Liburne
+leichte Liburne
+Stammeswache
+Krieger
+Späher
+Holzturm
+Steinturm
+Bew. Späher
+Saboteur
+Saboteure
+Adels Krieger
+junge Krieger
+Bogenschützen
+Bogenschützen&verb.Bögen
+Bogenschützen&verg.Pfeile
+Bogenschützen&verb.Bg.&verg.Pf.
+Attentäter
+Attentäter m.vgft.Klinge
+Spion
+Kavallerie
+Kavallerie Späher
+Adels Kavallerie
+leichte Kavallerie
+Veteran Stammeswache
+Adels Stammeswache
+Plänkler
+Spion Versteck
+Wagenburg
+Transportschiff
+Kav. Transport
+Bew. Kav. Transport
+Streitwagen
+Ochsenkarren
+Schlachtschiff
+Zauberer
+Attentäter
+Kavallerie
+General
+leichte Infanterie
+Kavallerie Späher
+Bew. Kav. Transport
+Bogenschützen
+Bogenschützen&verg.Pfeile
+Bogenschützen&verb.Bögen
+Bogenschützen&verb.Bg.&verg.Pf.
+Kav. Transport
+Spion
+Saboteur
+Infanterie
+Späher
+..None
+Plänkler
+leichte Kavallerie
+Zauberer
+Adels Stammeswache
+Veteran Stammeswache
+Bew. Späher
+Holzturm
+Steinturm
+Spion-Versteck
+Wagenburg
+Transportschiff
+Streitwagen
+Ochsenkarren
+Kampfschiff
+Axtkämpfer
+frühe Krieger
+frühe Stammeswache
+Späher
+Spion
+Attentäter
+Saboteur
+Saboteure
+Attentäter m.vgft.Klinge
+Bogenschützen
+Bogenschützen&verg.Pfeile
+Bogenschützen&verb.Bögen
+Bogenschützen&verb.Bg.&verg.Pf.
+Kav. Transport
+Bew. Kav. Transport
+frühe Kavallerie
+junge Krieger
+Krieger
+Adelskrieger
+Adels Stammeswache
+Kavallerie
+Bew. Späher
+Kavallerie Späher
+Plänkler
+Adelskavallerie
+Zauberer
+Holzturm
+Steinturm
+Spion-Versteck
+Wagenburg
+Transportschiff
+Streitwagen
+Ochsenkarren
+Kampfschiff
+Stammeswache
+Späher
+Bew. Späher
+junge Krieger
+Saboteur
+Saboteure
+Spion
+Krieger
+Attentäter
+Bogenschützen
+Bogenschützen&verb.Bögen
+Bogenschützen&verg.Pfeile
+Bogenschützen&verb.Bg.&verg.Pf.
+Veteran Attentäter
+Veteran Stammeswache
+Adels Stammeswache
+Plänkler
+Axtmänner
+Holzturm
+Spion-Versteck
+Wagenburg
+Kavallerie
+Häuptling
+Bew. Knechte
+Transportschiff
+Kampfschiff
+Kav. Transport
+Bew. Kav. Transport
+Ochsenkarren
+Langschiff
+Foederati
+Limitanei
+lcht. Auxiliares
+mttl. Auxiliares
+Ferentarii
+Signifer
+Pioniere
+Benefitiari
+Ramme
+Belagerungsturm
+Comitatenses Infanterie
+Comitatenses Kavallerie
+Scolae Palatinae
+General
+Späher
+Bew. Späher
+Kavallerie Späher
+Triarii
+Steinturm
+Burgus
+Castell
+Holzturm
+Spion-Versteck
+Kav. Transport
+l. Pferdewagen
+Bew. Kav. Transport
+Gespann
+schw. Gespann
+Gebirgstransport
+Ochsenkarren
+Bogenschützen
+Veteran Bogenschützen
+Veteran Bogenschützen&verg.Pf.
+Karrenballiste
+Scorpion
+schwere Balliste
+schweres Katapult
+mittleres Katapult
+Saboteur
+Saboteure
+Attentäter
+Spion
+Veteran Attentäter
+Veteran Attentäter&verg.Klinge
+leichte Liburne
+Tricontera
+Pentecontera
+Trirema
+Liburna
+Heptera
+Transportschiff
+Veteran Wache
+Veteran Piraten

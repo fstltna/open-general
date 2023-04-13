@@ -1,0 +1,73 @@
+1944 Imphal [PL 3.2]
+Kanglatongbi
+Sengmai
+Sangshak
+Fluss Manipur
+Imphal
+Fluss Thoubal
+Litan
+Oinam
+Yairipok
+Tairenpokpi
+Wangjing
+Bishenpur
+Palel
+Torbung
+Sibong
+Shuganu
+214 R/33 ID/15 Armee
+215 R/33 ID/15 Armee
+33 R/33 ID/15 Armee
+11 B/33 ID/15 Armee
+2 TkR/33 ID/15 Armee
+33 R/33 ID/15 Armee
+26 R/33 ID/15 Armee
+51 Bn/33 ID/15 Armee
+at Bn/33 ID/15 Armee
+213 R/33 ID/15 Armee
+51 R/15 ID/15 Armee
+60 R/15 ID/15 Armee
+67 R/15 ID/15 Armee
+15 Bn/15 ID/15 Armee
+15 G/15 ID/15 Armee
+21 R/15 ID/15 Armee
+58 R/31 ID/15 Armee
+124 R/31 ID/15 Armee
+138 R/31 ID/15 Armee
+1 Bn/31 ID/15 Armee
+Aty R/31 ID/15 Armee
+HQ/15. Armee
+Aty G/15 Armee
+AA G/15 Armee
+48 Br/17 Indische ID/IV Korps
+63 Br/17 Indische ID/IV Korps
+99 Br/17 Indische ID/IV Korps
+2 R/17 Indische ID/IV Korps
+29 R/17 Indische ID/IV Korps
+1 R/17 Indische ID/IV Korps
+1 AA R/17 Indische ID/IV Korps
+32 Br/20 Indische ID/IV Korps
+80 Br/20 Indische ID/IV Korps
+100 Br/20 Indische ID/IV Korps
+HQ/IV Korps
+9 Bn/20 Indische ID/IV Korps
+114 R/20 Indische ID/IV Korps
+23 R/20 Indische ID/IV Korps
+422 Bn/20 Indische ID/IV Korps
+E Bn/15 Armee
+Indische 50 FschJgrbrigade
+1 Br/23 Indische ID/IV Korps
+37 Br/23 Indische ID/IV Korps
+49 Br/23 Indische ID/IV Korps
+69 Bn/23 Indische ID/IV Korps
+3 R/23 Indische ID/IV Korps
+38 AA R/23 Indische ID/IV Korps
+2 At R/23 Indische ID/IV Korps
+Yamamoto-Streitmacht
+152.Geschwader RAF 
+9 Br/5 Indische ID/IV Korps
+123 Br/5 Indische ID/IV Korps
+28 R/5 Indische ID/IV Korps
+24 R/5 Indische ID/IV Korps
+e Bn/5 Indische ID/IV Korps
+3.Karabiner/IV Korps

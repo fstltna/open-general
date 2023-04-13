@@ -1,0 +1,142 @@
+Malaya - Singapore
+Patani
+Kota Bharu
+Gong Kedah
+Kuala Trengganu
+Kuala Dungiun
+Singapore
+Johore Bahru
+Kuang
+Yong Peng
+Batufahat
+Bakri
+Malacca
+Port Dickson
+Port Swettenham
+Kuala Lumpur
+Kerandah
+Kampong Slim
+Kuala Lipis
+Tralok
+Ongkai
+Bidor
+Kangar
+Alor Star
+Gurun
+Butterworth
+Dumai
+[III Corps HQ]
+[BRIDGE]
+Rainforest
+Dense Jungle
+Imperial Guard Div./[25A]
+Imperial Guard Div./[25A]
+Imperial Guard Div./[25A]
+Imperial Guard Div./[25A]
+Imperial Guard Div./[25A]
+[25A]
+1 R/3 Bde./[25A]
+2 R/3 Bde./[25A]
+6 R/3 Bde./[25A]
+14 R/3 Bde./[25A]
+Imperial Guard Div./[25A]
+5 Air Div./[25A]
+5 Air Div./[25A]
+3 Air Div./[25A]
+3 Air Div./[25A]
+3 Air Div./[25A]
+22 Air Flotilla
+22 Air Flotilla
+Georgetown
+Georgetown [PORT]
+Mersing
+Jemaluang
+[Malaya HQ]
+IJN Chokai
+IJN Sagiri
+IJN Mogami
+IJN Kumano
+IJN Suzuya
+IJN Mikuma
+1/8/6 Bde./11 Div./[III]
+1/14/15 Bde./11 Div./[III]
+137 RA/-/11 Div./[III]
+11 Ind.Div./[III]
+11 Ind.Div./[III]
+12 Ind.Bde./-/[III]
+3 Eng/28 Bde./11 Div./[III]
+Kroh
+Jungle
+8 Bde./9 Ind.Div./[III]
+5/11/22 Bde./9 Div./[III]
+5 Field AR/9 Div./[III]
+2/18/22 Bde./8 Div./[III]
+2/26/27 Bde./8 Div./[III]
+2/10/RA Bde./8 Div./[III]
+81 Aust.Div./[III]
+81 Aust.Div./[III]
+18 Div./[25A]
+18 Div./[25A]
+18 Div./[25A]
+18 Div./[25A]
+18 Div./[25A]
+5 Div./[25A]
+5 Div./[25A]
+5 Div./[25A]
+5 Div./[25A]
+5 Div./[25A]
+5 Div./[25A]
+3 Field AR/-/[25A]
+[25 Army]
+[Garrison]
+Dumai [PORT]
+Johore Strait
+HMS Prince of Wales
+HMS Repulse
+HMAS
+HMAS
+HMAS
+HMAS
+2/10/8 Bde./9 Div./[III]
+1/13/8 Bde./9 Div./[III]
+3/17/8 Bde./9 Div./[III]
+2/12/8 Bde./9 Div./[III]
+2/18/22 Bde./9 Div./[III]
+19 Eng/-/9 Div./[III]
+22 Eng/-/9 Div./[III]
+88 Field AR/-/9 Div./[III]
+2/2/28 Bde./11 Div./[III]
+2/9/28 Bde./11 Div./[III]
+28 Bde./-/[III]
+[Penang Fortress]
+[Penang Fortress]
+RAAF
+RAAF
+RAAF
+RAAF
+RAAF
+2/19/22 Bde./8 Div./[III]
+2/20/22 Bde./8 Div./[III]
+2/29/27 Bde./8 Div./[III]
+2/30/27 Bde./8 Div./[III]
+2/13/RA Bde./8 Div./[III]
+2/15/RA Bde./8 Div./[III]
+4/-/RA Bde./8 Div./[III]
+2/1/28 Bde./11 Div./[III]
+22/6 Bde./11 Div./[III]
+2/9/6 Bde./11 Div./[III]
+80 RA/-/11 Div./[III]
+1/15 Bde./11 Div./[III]
+2/9/15 Bde./11 Div./[III]
+155 RA/-/11 Div./[III]
+2/10/-/8 Div./[III]
+2/12/-/8 Div./[III]
+5/12/12 Bde./-/[III]
+4/19/12 Bde./-/[III]
+2/12 Bde./-/[III]
+122 RA/12 Bde./-/[III]
+18 Field AR/-/[25A]
+21 Field AR/-/[25A]
+Imperial Guard Div./[25A]
+[III]
+[25 Army HQ]

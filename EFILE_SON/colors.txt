@@ -1,0 +1,23 @@
+* default background for main window
+64, 42, 28
+
+* default background for dialogs
+64, 42, 28
+
+* white text
+248, 248, 248
+
+* gold/yellow text
+246, 230, 108
+
+* win dialogs transparency
+255
+
+* red color when low ammo/fuel or strength
+168, 0, 0
+
+* alpha value for hex-blend.png
+120
+
+* alpha value for 5th (plane highlighter) row of hex-blend.png
+130

@@ -1,0 +1,19 @@
+SITUATION:
+
+Well, following your success at Sedan, your brave men must now capture the port of Dunkirk on the Channel. Allied forces in Belgium will be trapped if we can secure this harbor. With the British Army as prisoners, we can dictate peace on our terms. Of course, the English are aware of this possibility and will fight furiously to protect their lines of retreat. Good luck to you.
+
+ORDERS: 
+
+Take all VHs in 10/13/16 turns for a BV/V/TV.
+
+NOTES:
+
+One air-transport is available.
+
+The first unit that captures Dunkirk will raise a leader!
+
+
+
+
+
+

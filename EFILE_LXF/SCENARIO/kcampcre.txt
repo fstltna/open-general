@@ -1,0 +1,77 @@
+Crete
+Hill 107
+Tavronitis
+Tavronitis river bed 
+Maleme Airport
+Maleme
+Korakies
+Platanias
+Docks
+Chania
+Pithari
+Modion
+Galatas
+Pirgos
+Kanea Airport
+Kiparissos
+Skines
+Suda
+Megala Horafia
+Metohi
+Alikianos
+Koufos
+Fournes
+1/21/5/2nd NZ Div.
+2/21/5/2nd NZ Div.
+1/22/5/2nd NZ Div.
+2/22/5/2nd NZ Div.
+1/23/5/2nd NZ Div.
+2/23/5/2nd NZ Div.
+1/5/2nd NZ Div.
+Mtr/5/2nd NZ Div.
+Cav. Attachment/2nd NZ Div.
+28/5/2nd NZ Div.
+27/5/2nd NZ Div.
+151/-/2nd NZ Div.
+3rd The King's Own Hussars
+"S" Group/MNBDO
+HMS York
+16th Composite Battalion
+17th Composite Battalion
+1 Welsh/MNBDO
+9KRRC/MNBDO
+11RM/MNBDO
+6th Infantry Battalion
+8th Infantry Battalion
+2nd Infantry Battalion
+Bicycle Company
+Katadromeis/MNBDO
+I&II/7Sturm/7th Flieger Div.
+III&IV/7Sturm/7th Flieger Div.
+I/3FJ/7th Flieger Div.
+II/3FJ/7th Flieger Div.
+III/3FJ/7th Flieger Div.
+Legionario
+Corsaro
+Luigi Tarigo 
+Attilio Regolo
+RHS Vasilefs Georgios
+I/100/5th Gebirgs Div.
+II&III/100/5th Gebirgs Div.
+I&II/85/5th Gebirgs Div.
+III/85/5th Gebirgs Div.
+2/95/-/5th Gebirgs Div.
+III/95/5th Gebirgs Div.
+Greek Airforce Remnants
+"M" Group/MNBDO
+18/4/2nd NZ Div.
+19/4/2nd NZ Div.
+III/StG2
+I/StG3
+II/JG77
+III/JG77
+Port Embarking Hex: PORT
+OCEAN
+Supplyhex
+Sirio
+Sagittario

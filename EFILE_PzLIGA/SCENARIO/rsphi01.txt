@@ -1,0 +1,67 @@
+Lingayen Landings
+Aringay
+Santo Tomas
+Rosario
+San Jacinto
+San Fabian
+sual
+San Barbara
+Dagupan
+Lingayen
+Tayug
+San Carlos
+Rosales
+Bayambuy
+Aguilar
+Carmen
+1 R/47 ID/14 Army
+2 R/47 ID/14 Army
+48 R/47 ID/14 Army
+1 Taiwan/48 ID/14 Army
+2 Taiwan/48 ID/14 Army
+48 Bn/48 ID/14 Army
+48 Rnc/48 ID/14 Army
+48 AA/48 ID/14 Army
+1 R/1 ID/14 Army
+49 R/1 ID/14 Army
+57 R/1 ID/14 Army
+1 Rnc/1 ID/14 Army
+9 Aty Bn/14 Army
+1 Aty R/14 Army
+4 Tk R/14 Army
+7 Tk R/14 Army
+Hq/14 Army
+28 Bn/14 Army
+Naroti
+Asakaze
+Harukaze
+Matzukaze
+Fumizuki
+Nagatsuki
+Naka
+Arashi
+Nowaki
+Maikaze
+Minegumo
+11 R/11 ID(PA)/USAFFE
+12 R/11 ID(PA)/USAFFE
+13 R/11 ID(PA)/USAFFE
+e Bn/11 ID(PA)/USAFFE
+Aty Bn/11 ID(PA)/USAFFE
+71 R/71 ID(PA)/USAFFE
+72 R/71 ID(PA)/USAFFE
+73 R/71 ID(PA)/USAFFE
+e Bn/71 ID(PA)/USAFFE
+Aty R/71 ID(PA)/USAFFE
+91 R/91 ID(PA)/USAFFE
+92 R/91 ID(PA)/USAFFE
+93 R/91 ID(PA)/USAFFE
+e Bn/91 ID(PA)/USAFFE
+Aty R/91 ID(PA)/USAFFE
+26 PS/USAFFE
+HQ/USAFFE
+86th FAR Btn. (PS)/USAFFA
+192d Tank Bn/USAFFA
+Far East Air Force
+5 Air Group
+59th CA

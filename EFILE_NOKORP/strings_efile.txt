@@ -1,0 +1,175 @@
+** This file is only intended for those designers wanting to
+** customize some texts.
+**
+* Each section must be identified by a header section
+* enclosed by square brackets, i.e: [sides]
+* watch out header section spelling!
+* You can omit one or more sections if you don't need different
+* (insert an asterisk at start of line including section header)
+* but any section you include, must include all items
+* ------------------------------------------------------------------
+*
+* Warning:
+* If you include a [sides] section here, it will overwrite sides denominations 
+* defined in Nations.txt for this Efile
+*
+[sides]
+Axis
+Allied
+
+* ------------------------------------------------------------------
+* All sections are commented out for this template
+* uncomment only those sections you need to redefine
+*
+
+[results] 
+Brilliant Victory
+Victory
+Tactical Victory
+Loss
+
+[targets]
+Soft target
+Hard target
+Air target
+Naval target
+
+[spaces]
+Ground
+Air
+
+[movement]
+Tracked
+Half Tracked
+Wheeled
+Leg
+Towed
+Air
+Deep Naval
+Coastal
+4wd
+Amphibious
+Naval
+Ranger
+Train
+Helicopter
+[movement2]
+Road Train
+[movement3]
+Amphibious2
+
+
+[transports]
+Cannot be transported
+Naval
+Airmobile
+Airborne
+Train
+Helicopter
+
+[classes]
+None
+Infantry
+Tank  
+Recon
+Anti-Tank
+Flak
+Fortification
+Ground Transport
+Rail Transport
+Artillery
+Air-Defence
+Fighter
+Dive Bomber
+Level Bomber
+Air Transport
+Helo Transport
+Submarine
+Destroyer
+Capital Ship
+Carrier
+Naval Transport
+Spare Empty
+Installations
+Special Units
+
+[requisition]
+Switch Ground+Air / Naval units menu
+Select Anti-Aircraft
+Select Support Weapons
+Select Fortification
+Select Anti-Tank
+Select Artillery
+Select Infantry
+Select Recon
+Select Tanks
+Select Fighters
+Select Dive Bombers
+Select Level Bombers
+Select Submarine
+Select Destroyer
+Select Capital Ship
+Select Carrier
+Select Spare Empty
+Select Installation
+Select Special Units
+Name unit
+Reassign Unit
+Exit
+
+[terrain]
+Clear
+Town
+Airfield
+Forest
+Bocage
+Hill
+Mountain
+Sand
+Swamp
+Ocean
+River
+Fortification
+Port
+Stream
+Escarpment
+Major River
+Rough
+Rubble
+Roads
+Rails
+
+*[unitdata]
+*Leader
+*Transport
+*Country
+*Experience
+*Experience level
+*Fuel
+*Ammo
+*Strength
+*Range
+*Initiative
+*Spot
+*Mov.Method
+*Hard Attack
+*Soft Attack
+*Air Attack
+*Naval Attack
+*Ground defense
+*Air defense
+*Close defense
+*Range defense
+*Class
+*Cost
+
+*This will be loaded only by Suite
+*[latitude]		
+*Africa
+*S-Europe (USA)
+*N-Europe
+*E-Europe
+*S-Asia
+*Pacific
+*C-Europe (Continental)
+*W-Europe (Atlantic)

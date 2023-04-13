@@ -1,0 +1,14 @@
+1920 Siege of Perekop
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Comrade General, we are now in the position to attack the Isthmus of Perekop and northern Crimea, where Wrangel's White Army has entrenched themselves. Prepare for long and hard fighting! You will also command Makhno's Black Army in this operation.
+
+Scenario Version: January 2021
+Player Countries: Red Russia, Black Army
+AI Version: 3.0
+Player Turn Prestige 20pp/turn
+Turns: 16 BV; 20 V; 26 TV
+Scenario Designer: randowe
+
+ORDERS:
+¯¯¯¯¯¯¯¯
+Break through the enemy defensive lines and attack the Isthmus of Perekop as well as northern Crimea and capture all VHs in 16/20/26 turns for a Brilliant Victory/Victory/Tactical Victory.

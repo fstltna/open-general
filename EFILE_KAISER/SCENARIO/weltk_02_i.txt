@@ -1,0 +1,22 @@
+Hartmannsweilerkopf
+
+Jan 19th, 1915
+
+Who could have thought that Von Schlieffen's Plan would fail? It seems that the war will be much longer than we had expected.
+Although the main battles are taking place in the west, you know that the situation in Elsass isn't exactly calm. Right now the front is stabilized on the Vogesen mountains, but the French have occupied the strategic peak called Hartmannsweilerkopf. There they have an excellent advanced position for observating our movements on the plains of Elsass, or for launching a new offensive against Mülhausen. Your mission will be driving the French out of the mountains as fast as you can.
+
+Victory conditions:
+- Take all the VHs.
+
+Special note:
+- The unit that takes Hartmannsweilerkopf will obtain a leader.
+
+
+
+
+
+
+
+
+
+

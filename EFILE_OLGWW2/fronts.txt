@@ -1,0 +1,102 @@
+* ------------------------------------------------------------------ 
+* . To define Fronts for any country: 
+* . Lines starting with a single number defines country for next fronts/factions 
+* . can include country name after a space or tab, but won't be read 
+* . lines starting with # are read as a front name 
+* . lines starting with @ are read as a faction name 
+* . and belong to the last country read 
+* ------------------------------------------------------------------ 
+10 USA
+* fronts:
+#Pacific
+#Europe
+#Africa
+
+* factions:
+@USMC
+@US Army
+@US Navy
+@USAAF
+
+8 Germany
+* fronts:
+#Africa
+#Europe
+
+* factions:
+@Auxiliar
+@Wehrmacht
+@Deutsches Afrika Korps
+@Waffen SS
+@Luftwaffe
+@Kriegsmarine
+
+27 Japan
+* fronts:
+#Manchuria
+#Pacific
+
+* factions:
+@Imperial Navy
+@Imperial Army
+
+26 Republican Spain
+* fronts:
+#North Front
+
+* factions:
+@Ejercito Popular
+@CNT/FAI
+@Columna Durruti
+@Euzko Gudaroztea
+@Ejercito pre-1936
+@Milicias
+
+20 USSR
+* fronts:
+#Europe
+#Pacific
+
+* factions:
+@NKVD
+@Red Army
+@Air Force
+@Navy
+
+13 Italy
+* fronts:
+#Africa
+#Europe
+#Spain
+
+* factions:
+@Navy
+@Army
+
+
+23 United Kingdom
+* fronts:
+#Africa
+#Europe
+#Asia
+
+* factions:
+@Army
+@RAF
+@Royal Navy
+
+25 National Spain
+* fronts:
+#Eastern Front
+
+* factions:
+@Division Azul
+
+58 Spanish Revolutionaries
+
+* factions:
+@Socialists
+@Communists
+@Anarchists
+
+

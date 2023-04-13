@@ -1,0 +1,2982 @@
+* ------------------------------------------------------------------ 
+* . To define Fronts for any country: 
+* . Lines starting with a single number defines country for next fronts/factions 
+* . can include country name after a space or tab, but won't be read 
+* . lines starting with # are read as a front name 
+* . lines starting with @ are read as a faction name 
+* . and belong to the last country read 
+* ------------------------------------------------------------------ 
+
+1 Socialist Cuba 
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+2 D.R. of Vietnam
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+3 Syrian Arab Republic
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+4 Kampuchea
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+5 Russia
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+6 Israel 
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+7 France
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+8 Angola
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+9 Rebels/Misc.
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+@Blackwater Worldwide
+@UNLA - Uganda
+@FRELIMO - Mozambique
+@PMOI - Iran
+@Somalia Aidid Forces
+@Iraqi Rebels
+@Hungarian Rebels
+@Czech Rebels
+@Rebels
+
+10 USA
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+11 United Nations
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+12 South Korea 
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+13 NATO
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+14 Republic of Vietnam
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+15 Jordan
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+16 Iraq
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+17 Iran
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+18 Argentina
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+19 P.R. of China
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+20 USSR
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+21 India
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+22 North Korea
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+23 United Kingdom
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+24 Egypt
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+25 Germany F.R.
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+26 Germany D.R.
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+27 Warsaw Pact
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+28 Republic of China
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+29 South Africa
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+30 Pakistan
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+31 Saudi Arabia
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+32 Spain
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+33 Poland
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+34 Portugal
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+35 Lebanon
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+36 Kuwait
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+37 Communist Afghanistan
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+38 Taliban 
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+39 Afghanistan
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+40 PLO
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+41 Italy
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+42 Turkey
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+43 Belgium
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+44 Netherlands
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+45 Norway
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+46 Greece
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+47 Canada
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+48 Australia
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+49 New Zealand
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+50 Czechoslovakia
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+51 Romania
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+52 Bulgaria
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+53 Yugoslavia
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+54 Croatia
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+55 Serbian & Montenegro
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+56 Kosovo
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+57 Slovenia
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+58 Bosnia & Herzegovina
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+59 Japan
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+60 Mongolia
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+61 Thailand
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+62 Singapore
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+63 Indonesia
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+64 Sweden
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+65 Finland
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+66 Switzerland
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+67 Morocco
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+68 Algeria
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+69 Libya
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+70 Panama
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+71 Rhodesia
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+72 Hungary
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+73 Austria
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+74 Kazakhstan
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+75 Malaysia
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+76 Denmark
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+77 Chechnya
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+78 Georgia
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+79 Viet Cong
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+80 Zimbabwe
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+81 SWAPO
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+82 UNITA
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+83 Viet Minh
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+84 Afghan Mujahideen
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+85 Cambodia
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+86 Philippines
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+87 Bangladesh
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+88 Kurdish Factions
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+89 Grenada
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+90 Communist Laos
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+91 Albania
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+92 Laos
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+93 S.R. of Vietnam
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+94 26th of July Movement
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+95 Kingdom of Egypt
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+96 Syrian Republic
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+97 Kingdom of Iraq
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+98 Kingdom of Yemen
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+99 Arab Liberation Army
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+100 Cyprus
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+101 Cuba
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+102 Northern Alliance
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+103 Chad
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+104 Biafra
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+105 Nigeria
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+106 Katanga
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+107 Congo
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+108 Uganda
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+109 Tanzania
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+110 Abkhasia
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+111 Zaire
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+112 Montoneros
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+113 Rebel Libya
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+
+114 South Ossetia
+* fronts:
+#USA
+#EU
+#URSS
+#CHINA
+#ISRAEL
+#INDIPENDENT
+
+* factions:
+@Army
+@Air Force
+@Navy
+@Missile Artillery
+@IFV
+@Fighter
+@Attack Plane
+@Bomber
+@Helicopter
+@Aircraft Carrier
+@Cruiser
+@Destroyer
+@Frigate
+@corvette
+@submarine
+

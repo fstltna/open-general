@@ -1,0 +1,11 @@
+Siege of Béxar
+December 5-11, 1835. 
+
+Just as the Texian army prepared to withdraw into winter quarters, Colonel Milam rallied 300 men to attack General Cós troops in San Antonio de Bréxar. The attack started on 5th December, then stalled when Milam was killed. It was renewed two days later forcing the Mexicans to withdraw into the Alamo Mission. On December 11th, General Cós capitulated and withdrew back to Mexico. 
+
+Deploy Hexes: 7
+
+ORDER: Take all VHs and keep your MSU alive.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

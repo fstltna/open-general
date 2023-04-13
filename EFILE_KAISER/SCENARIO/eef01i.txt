@@ -1,0 +1,12 @@
+Defence of the Suez Canal, 3rd February 1915
+
+A few days ago, a division-strong enemy force crossing the Sinai desert has been spotted by a French hydroplane. Obviously, the Turks are planning a major assault on the Suez Canal.
+At the moment, the Canal is only defended by some battalions of the Indian Army. You are ordered to build a capable defence force from the British and ANZAC troops that are undergoing training in the Nile Delta.
+ 
+Ships of the Royal Navy will support your troops with all their firepower, so you should be able to thwart the Turkish plans to cross the Canal and defend our outposts on the eastern shore. We cannot allow the Turks to threaten our most important supply line. So cross the Canal with your troops as soon as possible and clear the whole area.
+
+NOTE: 
+You can only cross the Suez Canal from the ports of Ismailia (hex 18,23) and Serapeum (hex 20,30).
+
+PURCHASING HINTS:
+Taking into account the difficult desert terrain of this and the following scenarios, you are strongly recommended to rely very much on mounted units (cavalry, horse artillery, and mounted infantry).

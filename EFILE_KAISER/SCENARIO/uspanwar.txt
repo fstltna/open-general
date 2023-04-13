@@ -1,0 +1,27 @@
+1898 THE SUNSET OF THE SPANISH EMPIRE
+
+Version: 1.0
+Equipment File: Kaiser General
+Number of Scenarios: 14
+Player Country: Spain
+Campaign Designer: Paqueo
+Playtesters: Urica
+
+The Spanish-American War - Episode I
+
+The phrase "el imperio en el que nunca se pone el sol" ("the empire on which the sun never sets") it was used mainly in the 16th - 18th centuries to describe the Spanish Empire. The Empire, which included many territories in Europe, the Americas, Africa, Asia and Oceania, was so extensive that there was always at least one part of their territory in daylight.
+
+By the end of the 19th century most of Spanish former possessions had been lost, mainly when its territories in the Americas got their independence. However, in 1898 Spain still had important possessions in the Caribbean (Cuba and Puerto Rico) and the Pacific (the Philippines, Guam and many other Pacific islands), the former considered as part of Spain itself with the status of provinces.
+
+Revolts against Spanish rule had occurred for some years in Cuba and more recently in the Philippines. In the late 1890s, the United States were increasingly critical to the Spanish administration of Cuba. However, neither President Cleveland nor McKinley was in favour of a military intervention. It was not until the sinking of the American battleship Maine in Havana harbour in February 1898 (probably due to a spontaneous combustion of coal in the bunker, next to magazine) that public opinion, agitated by the yellow press of William Randolph Hearst and Joseph Pulitzer blaming Spain, some politicians and certain businessmen pushed President McKinley into a war.
+
+Compromise was sought by Spain, but the United States sent an ultimatum demanding Spanish withdrawal from Cuba. Spain declared war on April 23. On April 25, Congress declared that a state of war between the U.S. and Spain had existed since April 21, the day the blockade of Cuba had begun.
+
+Although the main justification for American intervention was the situation in Cuba, the war extended to all Spanish possessions in both the Caribbean and the Pacific. In fact the first main battle was at Manila Bay where, on May 1, the U.S. Navy's Asiatic Squadron defeated the Spanish squadron in the Philippines.
+
+The campaign presents the war in both the Caribbean and Pacific theatres. Due to the short duration of the war (three months and a half) and the long distances between the war theatres, the campaign is divided in two paths corresponding to the Caribbean and Pacific theatres. Before choosing path, some common scenarios present the situation of the Spanish possessions in the 1890s. Although most scenarios are land scenarios, there are also some naval combats.
+
+WARNING 1: there is no autorefit of core units
+
+WARNING 2: only one path (the Pacific theatre) is available in this version of the campaign 
+

@@ -1,0 +1,127 @@
+* Read carefully before editing!
+* Each line can be any length, but only first 96 chars will be read
+* Empty lines and those starting with * will be skipped.
+* Can replace any text but do no change the sequence of lines
+*-------------------------------------------------------------------
+* Sides
+Axis
+Allied
+
+* Nations
+All Countries
+Slovakia
+Belgium
+Bulgaria
+Czechoslovakia
+Denmark
+Finland
+France
+Germany
+Greece
+USA
+Hungary
+Turkey
+Italy
+Netherlands
+Norway
+Poland
+Portugal
+Romania
+Croatia
+USSR
+Sweden
+Yugoslavia
+United Kingdom
+Kingdom of Yugoslavia
+Nationalist Spain
+Republican Spain
+Australia
+Canada
+Ethiopian Empire
+New Zealand
+South Africa
+British India
+Free French Forces
+Cuba
+Japan
+Euzko Gudarostea
+Estonia
+Viet Minh
+Brazil
+Austria
+Don Republic
+Peoples Republic China
+South Korea
+North Korea
+Red Finland
+White Finland
+Republic China
+White Russia
+Communists
+Kingdom of Egypt
+Chinese Warlords
+Manchukuo
+Mongolia
+Thailand
+Philippines
+Communist China
+Red Russia
+Latvia
+Lithuania
+Baltische Landeswehr
+Kuban People's Republic
+Rif Republic
+26th of July Movement
+Imperial State of Iran
+Kingdom of Iraq
+Kingdom of Spain
+Ireland
+Switzerland
+Chetniks
+Mexico
+Argentina
+Serbia
+Azad Hind
+Kingdom of Afghanistan
+Arab Countries
+Bolivia
+Paraguay
+Detachement von Randow
+Freikorps
+German Empire
+State of Vietnam
+Albania
+Syrian Republic
+Israel
+Indonesia
+West Germany
+East Germany
+Jordan
+Lebanon
+Ukrainian People's Republic
+Italian Social Republic
+Italian Co-belligerent Army
+Chile
+Saudi Arabia
+Ottoman Empire
+Luxembourg
+International Brigades
+Irregular Forces
+Division Azul
+Senussi Order
+Ukrainian Insurgent Army
+India
+Pakistan
+Axis Russia
+British Ceylon
+Kingdom of Yemen
+National Government
+Peru
+Ecuador
+Black Army
+Tibet
+State of Burma
+Algerian Nationalists
+Free City of Danzig
+Germany
+Kaiju

@@ -1,0 +1,11 @@
+'---
+'Config AI file for scenario: NOBuSands10.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=3 items  ' Replacement for default list
+ 551  '  Light Tank Mk VI  [RCN  United Kingdom]  Cost: 168
+ 650  '  A9 (Cruiser Mk I)  [ TK  United Kingdom]  Cost: 264
+ 652  '  A13 (Cruiser Mk III)  [ TK  United Kingdom]  Cost: 288

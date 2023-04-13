@@ -1,0 +1,43 @@
+* Read carefully before editing!
+* Each line can be any length, but only first 96 chars will be read
+* Empty lines and those starting with * will be skipped.
+* Can replace any text but do no change the sequence of lines
+* To increase number of countries just add new lines
+*-------------------------------------------------------------------
+* Sides
+Axis
+Allied
+
+* Nations
+All Countries
+Waffen SS
+Belgium
+Bulgaria
+India
+China
+Finland
+France
+Germany
+Greece
+U.S. Army
+Hungary
+Thailand
+Italy
+Netherlands
+Norway
+Poland
+U.S. Marines
+Romania
+Croatia
+USSR
+Japan
+Communist Yugoslavia
+United Kingdom
+Yugoslavia
+Nationalist Spain 
+Republican Spain
+Australia
+Canada
+Slovakia
+New Zealand
+Manchukuo

@@ -1,0 +1,39 @@
+Kovel
+Radechiv
+Radechiv Airfield
+Bug River
+Turija River
+Lokaci
+Smochid River
+Torcyn
+Village
+Horochiv
+Kruchynci
+Kruchynci Airfield
+SNOW/SAND
+CDXI/28
+XLVII/28
+XXXII/28
+CCCXLI/28
+CCXCVI/28
+I/1G
+III/1G
+IV/1G
+XVI/2TA
+VII/1GT
+II/SWF
+LVI/4
+III/131
+II/131
+II/5SS
+III/5SS
+V/L4
+Hangar
+Forward Base
+Railroad
+Abandoned Airfield
+Leon
+SNOW/SAND
+FOREST
+CLEAR
+RUBBLE

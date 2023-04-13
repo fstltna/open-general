@@ -1,0 +1,56 @@
+* Read carefully before editing!
+* Each line can be any lenght, but only first 96 chars will be read
+* Emply lines and those starting with * will be skipped.
+*-------------------------------------------------------------------
+* This is a sample Nations file
+* . 2 lines should be defined for Sides (Axis,Allied or whatever you need)
+* . Up to 255 lines can be defined for countries (AllCountries plus country #1 to #254)
+* . AllCountries should be the first entry
+* . at leaset Country#1 and Country#2 should be defined (one country for each side)
+* . Any additional country to #254 will be ignored
+* 
+*-------------------------------------------------------------------
+* This file should be adapted for any efile by replacing generic
+* CountryName# entries with actual Country denominations
+* Put the adapted file into related efile folder.
+*-------------------------------------------------------------------
+* Sides ... 
+* Warning: sides could be overwriten by EFILE_STRINGS.txt if found
+* and [sides] section is defined
+*
+Axis
+Allied
+
+* Nations
+All Countries
+CountryName#01
+CountryName#02
+CountryName#03
+CountryName#04
+CountryName#05
+CountryName#06
+CountryName#07
+CountryName#08
+CountryName#09
+CountryName#10
+CountryName#11
+CountryName#12
+CountryName#13
+CountryName#14
+CountryName#15
+CountryName#16
+CountryName#17
+CountryName#18
+CountryName#19
+CountryName#20
+CountryName#21
+CountryName#22
+CountryName#23
+CountryName#23
+CountryName#25
+CountryName#26
+CountryName#27
+CountryName#28
+CountryName#29
+CountryName#30
+CountryName#31

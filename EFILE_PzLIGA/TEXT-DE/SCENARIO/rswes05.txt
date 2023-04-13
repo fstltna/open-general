@@ -1,0 +1,61 @@
+1944 Kampf vor Guam [PL 3.2]
+Dschungel
+Berg Barrigada
+Berg Santa Rosa
+Berg Lamiam
+Sumay
+Piti
+Agana
+Agana [HAFEN]
+Agat
+Agat [HAFEN]
+Yigo
+Korallenriff
+Strand
+Meriza
+3 R/3 USMC
+4 R/3 USMC
+12 R/3 USMC
+1 Btn./3 USMC
+305 R/77 Div./[XXIV]
+306 R/77 Div./[XXIV]
+307 R/77 Div./[XXIV]
+308 R/77 Div./[XXIV]
+MG/77 Div./[XXIV]
+304/77 Div./[XXIV]
+305/77 Div./[XXIV]
+306/77 Div./[XXIV]
+302 Btn./77 Div./[XXIV]
+10.GemischtesRgt.(Ind.)
+38 R/29 Div.
+48 MB/29 Div.
+2 Btn./18 R/29 Div.
+18 R/29 Div.
+54 Keibitai
+29 Div.
+[Guam]
+[Guam]
+[Guam]
+[Guam]
+29 Div.
+29 Div.
+29 Div.
+29 Div.
+29 Div.
+USS Elden
+USS Bancroft
+USS Indianapolis
+USS Birminghan
+USS Montpelier
+USS Louisville
+USS New Orleans
+USS Colorado
+US Marine
+US Marine
+US Marine
+[1.Luftflotte]
+[1.Luftflotte]
+[1.Luftflotte]
+[USAAF]
+[Schlacht beenden]
+[Schlacht beenden, NUR in TS-Runden waehlen!]

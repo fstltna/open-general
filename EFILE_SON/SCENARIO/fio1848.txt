@@ -1,0 +1,33 @@
+For The Indivisible Österreich 1848-49
+
+General, as you know, the French rebellion has infected the German states and uprisings have occurred throughout our Empire also. Czechs, Hungarians, Italians are revolting and even our beloved Vienna is defaced by the riots of the scum. Emperor Ferdinand is not hmm... a strong character, and Chancellor Metternich had to resign. The situation is serious. The established order has collapsed. The Court has to simulate negotiations with the rebels, but you must start to regather and rearm your army and restore law and order.
+
+-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-
+Version: 1.1 (Jan-30-2014)
+Longest path: 18 scenarios (linear)
+Creator: Csaba (lvjtn)
+License: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Suggested prestige %: 150 (novice), 100 (default), 50 (expert)
+AI prestige should always be 100%
+-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-
+
+NOTES:
+- The HQ Inf represents your headquarter. You must keep this unit alive during the whole campaign!
+- There is a 1 SP “trap” unit in each scenario to prevent a sudden victory by killing all enemy units. Please don’t kill it if you discover its position.
+- Use the gathered PP on reinforcing your units (don’t keep it, if you are near the cap), at the end of the scenarios they won’t be refit automatically.
+
+APPLIED RULES:
+- no protos at all
+- no friendly supply hexes, deployment is limited
+- advanced spotting rules (extended LOS)
+- reinforcements arrive when player is active, but have only 50% movement points
+- direct LOF is blocked by bad terrains
+- ports don’t behave as SH
+- green (GR) and elite (ER) replacements are enabled:
+ * GR costs = 100%
+ * GR takes 50% experience of the refitted unit
+ * ER costs = 133%
+ * leader will be removed if unit loses all its bars due to replacements
+- ground conditions are changed by weather (except some winter scenarios)
+- sapper unit can build fort, bridge, railway station
+- units lose 10% when upgrading

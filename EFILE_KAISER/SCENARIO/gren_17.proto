@@ -1,0 +1,14 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 144  '  Sopwith Dolphin 5F.1   [FTR  British Empire]  Cost: 744
+ 314  '  Mark V/F  [ TK  British Empire]  Cost: 504
+ 317  '  Mark B  [ TK  British Empire]  Cost: 384
+ 659  '  Austin Mk IV  [RCN  British Empire]  Cost: 480
+1224  '  Airco DH.2 Late  [FTR  British Empire]  Cost: 564
+1227  '  Avro 504K  [FTR  British Empire]  Cost: 540
+2882  '  3" Stokes Mrt 18  [ATY  British Empire]  Cost: 432
+3598  '  Beardmore S.B.3D  [FTR  British Empire]  Cost: 756

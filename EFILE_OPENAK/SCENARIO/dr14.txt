@@ -1,0 +1,11 @@
+Operation Typhoon - Borodino October1941
+
+The SS-Division "Reich" and parts of the 10th Panzer Division were approaching the Borodino battlefield 100 km west of Moscow. Between them and the Russian Capital stood the reinforced 32nd Siberian Rifle Division, just arrived by train to man the partly completed Mozhaisk Defense Line. After five days of brutal fighting, the SS finally got through, but fresh units filled in behind the survivors.
+
+PLAYER ORDERS
+- Strength lost on core units will not be automatically replaced at HQ at the start of the next scenario.
+- New units cannot be acquired at HQ at the start of the next scenario.
+- Capture all VH.
+
+CREDITS
+The Borodino scenario and the map on which it is played are created by Hannes Gruber. Slight modifications were made: deployment hexes, a Russian armored train was added, the Russian air units were renamed, some owned hexes flags removed and some units were changed to make maximum use of the new e-file.

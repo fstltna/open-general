@@ -1,0 +1,209 @@
+'---
+'Config AI file for scenario: jh1rtd.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=201 items  ' Replacement for default list
+  27  '  25mm mle34  [ AT  France]  Cost: 72
+  30  '  105mm C mle35  [ATY  France]  Cost: 264
+  31  '  155mm L mle17F  [ATY  France]  Cost: 1032
+  32  '  75mm C mle97  [ATY  France]  Cost: 144
+  34  '  Bunker  [FRT  France]  Cost: 144
+  35  '  Fort  [FRT  France]  Cost: 168
+  37  '  Chasseurs a Pied  [INF  France]  Cost: 96
+  38  '  40 Sapeurs  [INF  France]  Cost: 336
+  42  '  AMD 178  [RCN  France]  Cost: 228
+  43  '  Dunkerque BB  [sBS  France]  Cost: 1404
+  45  '  Suffren CA  [sBS  France]  Cost: 792
+  46  '  La Galissonniere LC  [sBS  France]  Cost: 540
+  47  '  Le Fantasque DD  [sDD  France]  Cost: 324
+  48  '  Char B1bis  [ TK  France]  Cost: 540
+  49  '  H39  [ TK  France]  Cost: 324
+  53  '  R35  [ TK  France]  Cost: 276
+  54  '  R40  [ TK  France]  Cost: 300
+  55  '  S35  [ TK  France]  Cost: 444
+  56  '  AGR2  [TPT  France]  Cost: 48
+  58  '  MCG  [TPT  France]  Cost: 204
+  59  '  Wagon  [TPT  France]  Cost: 24
+  60  '  D.520C.1  [FTR  France]  Cost: 504
+  61  '  MS.406C.1  [FTR  France]  Cost: 480
+  62  '  Po.633  [ TB  France]  Cost: 468
+  63  '  Transport  [ATP  France]  Cost: 348
+ 100  '  3.7inch  [ AD  United Kingdom]  Cost: 396
+ 320  '  20mm  [FlaK  United Kingdom]  Cost: 60
+ 321  '  40mm I  [ AD  United Kingdom]  Cost: 144
+ 324  '  2pdr  [ AT  United Kingdom]  Cost: 84
+ 328  '  25 pdr  [ATY  United Kingdom]  Cost: 276
+ 338  '  40 Engineer  [INF  United Kingdom]  Cost: 408
+ 340  '  36 Bridging  [INF  United Kingdom]  Cost: 192
+ 347  '  39 Royal Marine  [INF  United Kingdom]  Cost: 144
+ 354  '  Scout  [RCN  United Kingdom]  Cost: 216
+ 356  '  Repulse BC  [sBS  United Kingdom]  Cost: 1320
+ 358  '  County CA  [sBS  United Kingdom]  Cost: 804
+ 359  '  Leander CL  [sBS  United Kingdom]  Cost: 504
+ 360  '  Illustrious CV  [sCV  United Kingdom]  Cost: 864
+ 361  '  Tribal DD  [sDD  United Kingdom]  Cost: 288
+ 369  '  Cruiser IV  [ TK  United Kingdom]  Cost: 300
+ 377  '  Matilda II  [ TK  United Kingdom]  Cost: 528
+ 382  '  QL  [TPT  United Kingdom]  Cost: 72
+ 383  '  Bren Carrier  [TPT  United Kingdom]  Cost: 216
+ 385  '  Hurricane IA  [FTR  United Kingdom]  Cost: 468
+ 387  '  Spitfire IA  [FTR  United Kingdom]  Cost: 588
+ 398  '  C-47  [ATP  United Kingdom]  Cost: 348
+ 545  '  Transport  [NTP  France]  Cost: 60
+ 548  '  Transport  [NTP  United Kingdom]  Cost: 60
+ 581  '  25mm mle38  [FlaK  France]  Cost: 72
+ 582  '  H35  [ TK  France]  Cost: 276
+ 586  '  75mm mle32  [ AD  France]  Cost: 324
+ 587  '  47mm mle37  [ AT  France]  Cost: 84
+ 590  '  155mm C mle17  [ATY  France]  Cost: 756
+ 591  '  Char D1B  [ TK  France]  Cost: 312
+ 592  '  Char D2  [ TK  France]  Cost: 384
+ 595  '  Hawk 75A  [FTR  France]  Cost: 492
+ 614  '  Skua  [ TB  United Kingdom]  Cost: 396
+ 627  '  18pdr  [ATY  United Kingdom]  Cost: 144
+ 629  '  4.5inch  [ATY  United Kingdom]  Cost: 192
+ 644  '  Zouaves  [INF  France]  Cost: 84
+ 650  '  Cruiser I  [ TK  United Kingdom]  Cost: 264
+ 651  '  Cruiser II  [ TK  United Kingdom]  Cost: 276
+ 652  '  Cruiser III  [ TK  United Kingdom]  Cost: 288
+ 700  '  Matilda I  [ TK  United Kingdom]  Cost: 408
+ 702  '  Blenheim I  [ TB  United Kingdom]  Cost: 540
+ 718  '  AMC 35  [ TK  France]  Cost: 336
+ 724  '  Legionnaire  [INF  France]  Cost: 144
+ 736  '  Tirailleurs  [INF  France]  Cost: 132
+ 752  '  35 Pontonniers  [INF  France]  Cost: 192
+ 848  '  Motocyclistes  [INF  France]  Cost: 228
+ 914  '  Battle I  [ TB  United Kingdom]  Cost: 384
+ 921  '  AMC P16  [RCN  France]  Cost: 240
+ 930  '  75mm C mle97/35 AC  [ AT  France]  Cost: 96
+ 934  '  Gladiator IIA  [FTR  United Kingdom]  Cost: 360
+ 949  '  Bre 693  [ TB  France]  Cost: 600
+ 957  '  Po.25  [ TB  France]  Cost: 360
+ 993  '  Swordfish I  [ TB  United Kingdom]  Cost: 300
+1165  '  20mm mle39  [FlaK  France]  Cost: 60
+1166  '  75mm mle13/34 Portee  [ AD  France]  Cost: 324
+1168  '  47mm 15TCC Portee  [ AT  France]  Cost: 132
+1171  '  65mm M mle06  [ATY  France]  Cost: 252
+1172  '  75mm M mle28  [ATY  France]  Cost: 276
+1173  '  105mm C mle13  [ATY  France]  Cost: 276
+1174  '  105mm M mle28  [ATY  France]  Cost: 384
+1175  '  105mm L mle36  [ATY  France]  Cost: 468
+1176  '  220mm L mle17  [ATY  France]  Cost: 1836
+1182  '  MG  [FlaK  France]  Cost: 96
+1183  '  Chasseurs Alpins  [INF  France]  Cost: 276
+1185  '  Dragons Portes  [INF  France]  Cost: 144
+1189  '  AMD 50AM  [RCN  France]  Cost: 192
+1190  '  AMD 80AM  [RCN  France]  Cost: 240
+1191  '  AMR 35  [RCN  France]  Cost: 192
+1193  '  FCM 36  [ TK  France]  Cost: 288
+1199  '  D.510  [FTR  France]  Cost: 420
+1200  '  VG.33  [FTR  France]  Cost: 516
+1202  '  MB.152  [FTR  France]  Cost: 552
+1203  '  MB.155  [FTR  France]  Cost: 648
+1204  '  Po.631  [ TB  France]  Cost: 660
+1205  '  Late 298  [ TB  France]  Cost: 372
+1207  '  Ma.167F  [ TB  France]  Cost: 648
+1208  '  MB.210  [ TB  France]  Cost: 528
+1209  '  Leo 451  [ TB  France]  Cost: 636
+1210  '  Amiot 143  [ TB  France]  Cost: 468
+1211  '  DB-7B-3  [ TB  France]  Cost: 840
+1212  '  Amiot 354  [ TB  France]  Cost: 624
+1213  '  LN 401  [ TB  France]  Cost: 408
+1214  '  MB.174  [ TB  France]  Cost: 552
+1215  '  F.222  [ LB  France]  Cost: 504
+1216  '  Jaguar DD  [sDD  France]  Cost: 264
+1217  '  Duguay-Trouin LC  [sBS  France]  Cost: 444
+1218  '  Emile Berten LC  [sBS  France]  Cost: 396
+1219  '  Algerie CA  [sBS  France]  Cost: 840
+1220  '  Bearn CV  [sCV  France]  Cost: 576
+1221  '  Redoubtable SS  [SUB  France]  Cost: 240
+1684  '  3inch  [ AD  United Kingdom]  Cost: 264
+1689  '  3inch mortar  [ATY  United Kingdom]  Cost: 180
+1691  '  3.7inch AB  [ATY  United Kingdom]  Cost: 384
+1693  '  6inch  [ATY  United Kingdom]  Cost: 456
+1696  '  9.2inch  [ATY  United Kingdom]  Cost: 1200
+1700  '  MG  [FlaK  United Kingdom]  Cost: 108
+1701  '  Marmon-Herrington II  [RCN  United Kingdom]  Cost: 204
+1705  '  Rolls Royce I  [RCN  United Kingdom]  Cost: 156
+1707  '  Matilda IIICS  [ TK  United Kingdom]  Cost: 528
+1720  '  Defiant  [FTR  United Kingdom]  Cost: 396
+1721  '  Albacore  [ TB  United Kingdom]  Cost: 312
+1722  '  Beaufort  [ TB  United Kingdom]  Cost: 540
+1724  '  Blenheim IV  [ TB  United Kingdom]  Cost: 612
+1726  '  Hudson  [ TB  United Kingdom]  Cost: 504
+1728  '  Nomad  [ TB  United Kingdom]  Cost: 504
+1733  '  Wagon  [TPT  United Kingdom]  Cost: 12
+1735  '  Lightning CL  [sBS  United Kingdom]  Cost: 336
+1736  '  Fiji CL  [sBS  United Kingdom]  Cost: 528
+1737  '  Manchester CL  [sBS  United Kingdom]  Cost: 540
+1738  '  Dido CL  [sBS  United Kingdom]  Cost: 504
+1739  '  Exeter CA  [sBS  United Kingdom]  Cost: 792
+1740  '  Hood BC  [sBS  United Kingdom]  Cost: 1368
+1741  '  Royal Sovereign BB  [sBS  United Kingdom]  Cost: 1356
+1742  '  Queen Elizabeth BB  [sBS  United Kingdom]  Cost: 1404
+1743  '  Furious CV  [sCV  United Kingdom]  Cost: 684
+1744  '  Hermes CV  [sCV  United Kingdom]  Cost: 480
+1745  '  S SS  [SUB  United Kingdom]  Cost: 228
+1931  '  Carrier Recon  [RCN  United Kingdom]  Cost: 204
+1959  '  37mm mle16  [ AT  France]  Cost: 72
+1960  '  Infanterie de l'Air  [INF  France]  Cost: 216
+2255  '  Catalina  [ TB  United Kingdom]  Cost: 420
+2560  '  Entrenched  [INF  United Kingdom]  Cost: 180
+2592  '  39 Scots Infantry  [INF  United Kingdom]  Cost: 96
+2602  '  Hurricane II  [FTR  United Kingdom]  Cost: 504
+2605  '  Lysander I  [ TB  United Kingdom]  Cost: 336
+2609  '  .Whitley  [ TB  United Kingdom]  Cost: 648
+2612  '  A DD  [sDD  United Kingdom]  Cost: 264
+2613  '  Horse  [TPT  United Kingdom]  Cost: 12
+2614  '  C8  [TPT  United Kingdom]  Cost: 84
+2615  '  Carrier  [TPT  United Kingdom]  Cost: 168
+2616  '  MW 15cwt  [TPT  United Kingdom]  Cost: 60
+2618  '  Pioneer  [TPT  United Kingdom]  Cost: 84
+2828  '  CMD 178  [RCN  France]  Cost: 288
+2836  '  UE  [TPT  France]  Cost: 216
+2837  '  Horse  [TPT  France]  Cost: 12
+2838  '  Limber  [TPT  France]  Cost: 36
+2845  '  P107  [TPT  France]  Cost: 180
+2847  '  S20TL  [TPT  France]  Cost: 60
+2849  '  S35  [TPT  France]  Cost: 60
+2850  '  FTARH  [TPT  France]  Cost: 60
+2851  '  38L  [TPT  France]  Cost: 240
+2852  '  Mules  [TPT  France]  Cost: 12
+2855  '  P19  [TPT  France]  Cost: 108
+2860  '  Recoinnasance  [RCN  France]  Cost: 120
+2864  '  Bicycles  [TPT  France]  Cost: 12
+2865  '  60pdr  [ATY  United Kingdom]  Cost: 708
+2902  '  Wellington  [ LB  United Kingdom]  Cost: 588
+2942  '  Horsa II  [ATP  United Kingdom]  Cost: 180
+2943  '  Hamilcar  [ATP  United Kingdom]  Cost: 180
+3132  '  MTB-1 MTB  [sDD  United Kingdom]  Cost: 168
+3133  '  Halcyon AM  [sDD  United Kingdom]  Cost: 180
+3134  '  H 28 SS  [SUB  United Kingdom]  Cost: 216
+3135  '  Triton SS  [SUB  United Kingdom]  Cost: 240
+3161  '  VTB 3 MTB  [sDD  France]  Cost: 168
+3162  '  Elan AM  [sDD  France]  Cost: 180
+3163  '  La Melpomene TB  [sDD  France]  Cost: 132
+3164  '  Sirene SS  [SUB  France]  Cost: 228
+3181  '  H39 (SA18)  [ TK  France]  Cost: 420
+3182  '  H39 (SA18)  [ TK  France]  Cost: 420
+3185  '  Bretagne BB  [sBS  France]  Cost: 1368
+3353  '  Walrus  [ TB  United Kingdom]  Cost: 360
+3853  '  40 Motor Infantry  [INF  United Kingdom]  Cost: 144
+3870  '  3.7inch  [ATY  United Kingdom]  Cost: 408
+3910  '  40 Motorcycle  [RCN  United Kingdom]  Cost: 288
+3944  '  37 Spahis Motorisee  [INF  France]  Cost: 84
+3946  '  37 Tirailleurs Montagnards  [INF  France]  Cost: 276
+3948  '  40 Dragons Blindees  [INF  France]  Cost: 420
+3949  '  37 GRDChA  [RCN  France]  Cost: 240
+4075  '  Swordfish I  [ TB  United Kingdom]  Cost: 324
+4076  '  Sunderland I  [ LB  United Kingdom]  Cost: 600
+5213  '  Berliet  [RCN  France]  Cost: 192
+5393  '  Hawk 75A-3  [FTR  France]  Cost: 780
+5504  '  13.2mm mle30  [FlaK  France]  Cost: 60
+5582  '  Jaguar DD  [sDD  France]  Cost: 228
+5686  '  2pdr  [ AT  United Kingdom]  Cost: 84
+5815  '  Train  [RTP  France]  Cost: 120
+5831  '  Train  [RTP  United Kingdom]  Cost: 120

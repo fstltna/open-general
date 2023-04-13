@@ -1,0 +1,40 @@
+1942 Fluss Sittang [PL 3.2]
+Fluss Sittang
+Waw
+Sittang
+Sittang-Kanal
+Payagyi
+Faehrstelle
+Flugplatz Payagyi
+Sittang-Bruecke
+Bungalow-Huegel
+Thanatpin
+Golf von Martaban
+Brownongyi
+Swamp
+Mokpalin
+Kamase
+Pegu
+Flugplatz Mokpalin
+214 R/33 ID/15 Armee
+215 R/33 ID/15 Armee
+33 R/33 ID/15 Armee
+11 B/33 ID/15 Armee
+2 TkR/33 ID/15 Armee
+33 R/33 ID/15 Armee
+112 R/55 ID/15 Armee
+143 R/55 ID/15 Armee
+55 R/55 ID/15 Armee
+55 R/55 ID/15 Armee
+55 R/55 ID/15 Armee
+Katastrophe
+eB/15 Armee
+1 B/7/16 Br/17 Indische Div
+4 B/16 Br/17 Indische Div
+46 Br/17 Indische Div
+28 R/17 Indische Div
+24 B/17 Indische Div
+FF2/17 Indische Div
+5 B/16 Br/17 Indische Div
+48 Br/17 Indische Div
+2 Burma Br/17 Indische Div

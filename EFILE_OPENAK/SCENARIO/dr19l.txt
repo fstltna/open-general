@@ -1,0 +1,5 @@
+Kharkov - March 1943 L
+
+The threat of our armies in Southern Russia being encircled has been countered although you did not recapture Kharkov as intended. We destroyed or severely damadged 4 Soviet Armies and regained most of the territory lost in January. Prepare your troops for a Summer offensive near Kursk.
+
+The Kharkov scenario and the map on which it is played are created by Hannes Gruber. Slight modifications were made: deployment hexes, supply hexes and prestige management.

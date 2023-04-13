@@ -1,0 +1,5 @@
+Choice Scenario
+
+04/15/1945
+
+Using the HQ unit on the map (No need to deploy any units), take either the hex in front of Seelow for the path north of Berlin, the hex north of Frankfurt for the path south of Berlin or the hex in front of Wriezen to fight the Polish Peoples Army LWP (not included at the moment).

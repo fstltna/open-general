@@ -1,0 +1,54 @@
+'---
+'Config AI file for scenario: SpzBrg17.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=46 items  ' Replacement for default list
+  32  '  75mm C mle97  [ATY  France]  Cost: 144
+  56  '  AGR2  [TPT  France]  Cost: 48
+  59  '  Wagon  [TPT  France]  Cost: 24
+ 320  '  20mm  [FlaK  United Kingdom]  Cost: 60
+ 321  '  40mm I  [ AD  United Kingdom]  Cost: 144
+ 325  '  6pdr I  [ AT  United Kingdom]  Cost: 120
+ 382  '  QL  [TPT  United Kingdom]  Cost: 72
+ 405  '  57mm M1  [ AT  USA]  Cost: 120
+ 449  '  GMC 3t  [TPT  USA]  Cost: 96
+ 898  '  40mm M1  [ AD  USA]  Cost: 144
+1167  '  40mm mle36  [ AD  France]  Cost: 144
+1169  '  6pdr I  [ AT  France]  Cost: 120
+1700  '  MG  [FlaK  United Kingdom]  Cost: 108
+2614  '  C8  [TPT  United Kingdom]  Cost: 84
+2615  '  Carrier  [TPT  United Kingdom]  Cost: 168
+2616  '  MW 15cwt  [TPT  United Kingdom]  Cost: 60
+2617  '  Matador  [TPT  United Kingdom]  Cost: 96
+2618  '  Pioneer  [TPT  United Kingdom]  Cost: 84
+2619  '  CX22  [TPT  United Kingdom]  Cost: 96
+2795  '  50cal M51 AB  [FlaK  USA]  Cost: 120
+2837  '  Horse  [TPT  France]  Cost: 12
+2838  '  Limber  [TPT  France]  Cost: 36
+2848  '  M2TZ  [TPT  France]  Cost: 36
+2849  '  S35  [TPT  France]  Cost: 60
+2852  '  Mules  [TPT  France]  Cost: 12
+2908  '  57mm M1 AB  [ AT  USA]  Cost: 132
+2909  '  37mm M3A1 AB  [ AT  USA]  Cost: 120
+2911  '  Dodge 2t  [TPT  USA]  Cost: 60
+2912  '  Jeep  [TPT  USA]  Cost: 144
+2913  '  Dodge 8t  [TPT  USA]  Cost: 96
+2915  '  GMC 7t  [TPT  USA]  Cost: 120
+2923  '  Bren AB  [FlaK  United Kingdom]  Cost: 120
+2925  '  Jeep  [TPT  United Kingdom]  Cost: 144
+2931  '  GMC 1t  [TPT  USA]  Cost: 84
+2932  '  Dodge 4t  [TPT  USA]  Cost: 72
+2933  '  Dodge 6t  [TPT  USA]  Cost: 84
+2934  '  M5  [TPT  USA]  Cost: 168
+3277  '  20mm AB  [FlaK  United Kingdom]  Cost: 60
+3299  '  6pdr I AB  [ AT  United Kingdom]  Cost: 120
+3359  '  GMC 5t  [TPT  USA]  Cost: 108
+3511  '  41 MMG  [FlaK  United Kingdom]  Cost: 132
+3512  '  43 MMG  [FlaK  United Kingdom]  Cost: 156
+5586  '  81mm Maquis  [ATY  France]  Cost: 84
+5815  '  Train  [RTP  France]  Cost: 120
+5818  '  Train  [RTP  USA]  Cost: 120
+5831  '  Train  [RTP  United Kingdom]  Cost: 120

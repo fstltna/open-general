@@ -1,0 +1,17 @@
+Situation:
+Operation Cobra is in a good progress. You are now a few miles away from Avranches. The defending German troops are weaked from the previous bombardent. The Panzer-Lehr-Division is the only division in this area with some strong tanks. 
+Oh wait, the Germans have launched a counterattack. They will try to cut us off. Although the VII US Corps is trying to stop the attack we are not sure if it will be able to parry the attack. You should let some strong tank troops in your starting area.
+
+Orders:
+- Take Avranche and the Hinterland
+- Defend your starting position. Do not let the Germans cut you off
+
+Note:
+- There is a experience trigger under a lonely MG Bunker in the west
+- One strong anti-tank gun is attached to your army
+
+Historical Note:
+Operation Lüttich was stopped near Mortain. The Germans did not arrive their goals. The attack of the Panzer Division was only made to make this scenario damandant.
+
+A hint:
+The German tanks are really good. Maybe it is time to upgrade your Sherman DD.

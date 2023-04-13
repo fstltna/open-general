@@ -1,0 +1,796 @@
+Anomalous Operations V2.1
+Infantry
+Sappers
+Paratrooper
+USMC Infantry
+USMC Paratrooper
+Ranger
+Para. Sappers
+National Guard
+General Staff
+Military Police
+AT Infantry
+USMC General Staff
+USMC Engineer
+Bridge Layer
+M4A4 Sherman
+M4A3(76)W HVSS
+M4A3E2 Sherman Jumbo
+M4A3(76)W Sherman
+LVT(A)4
+M26 Pershing
+M47 Patton
+M46 Patton
+M103
+M3A1 Stuart
+M3 Scout Car
+M8
+M24 Chaffee
+M20
+Jeep
+M41 Bulldog
+.50 M2HB
+.30 M1919
+57mm
+M18 Hellcat
+M36 Jackson
+90mm M2
+Jeep RCL
+57mm RCL
+Ontos M50A1
+106mm RCL
+Mk19 GL B
+Entrenchment
+MG
+Observation Post
+Bunker
+Jeep Willys
+LVT
+Mules
+M40
+M4
+Dodge 3T
+Dodge T214
+M3A1
+GMC 6x6
+Mack
+H-19 Chickasaw
+M75
+CH-21 Shawnee
+UH-34 Choctaw
+155mm M12
+105mm M7 Priest
+155mm M40
+155mm M59
+75mm M8
+75mm M116
+155mm M114
+203mm M115
+81mm Mortar Para
+203mm M43
+105mm M3
+105mm M101
+81mm Mortar
+120mm Mortar
+75mm T30 HMC
+155mm M44
+MGR-1 Honest John
+MGM-29 Sergeant
+105mm M52
+160mm Mortar
+76.2mm M5
+90mm M1A1
+120mm M1
+M16
+M19 Duster
+M42 Duster
+40mm Bofors
+M48 Chaparral
+F-82 Twin Mustang
+F-51H Mustang
+F-80A
+F4U-4 Corsair
+F7F Tigercat
+F-84A Thunderjet
+F2H Banshee
+F9F Panther
+F-86 Sabre
+FH-1 Phantom
+F-100A Super Sabre
+F-86 Sabre Dog
+F-102 Delta Dagger
+F-101 Voodoo
+F-104 Starfighter
+B-26 Marauder
+B-25J
+F-3A
+SB2C Helldiver
+B-26 Invader
+Spotter
+A-1N Skyraider
+H-13 Sioux
+AU-1 Corsair
+H-19 Chickasaw
+SH-34 Choctaw
+RB-57 Canberra
+B-57 Canberra
+RF-100 Super Sabre
+F-100D Super Sabre
+A-4 Skyhawk
+RF-101 Voodoo
+F-105 Thunderchief
+B-29 Superfortress
+C-47
+Tench Class
+Mackerel Class
+Barracuda Class
+Tang Class
+Skipjack Class
+Farragut Class
+Fletcher Class
+Benson Class
+Dealey Class
+Mitscher Class
+Allen Sumner Class
+Forrest Sherman Class
+Gearing Class
+Charles F. Adams Class
+South Dakota Class
+Iowa Class
+Commencement Bay Class
+Yorktown Class
+Essex Class
+LCVP
+LCM
+Baltimore Class
+Northampton Class
+Alaska Class
+Boston Class
+Cleveland Class
+Special Detachment
+Polizei
+Infanterie
+Jäger
+Panzergrenadiere
+Grenadiere
+Feldkommando
+Fallschirmjäger
+Gebirgsjäger
+Pionere
+Bridge Layer
+Himmler I
+Himmler II
+Psw 234/1
+Psw 234/4
+Leopard
+Speer Hs.30
+7.62mm MG-1
+12.7mm M2HB
+Kübelwagen RCL
+Beobachtungsbunker
+Bunker
+KHD Jupiter
+Opel Blitz
+MB-Unimog
+VW Type 82
+Speer Hs.30
+Teuton I
+Teuton II
+81mm Granatwerfer
+120mm Granatwerfer
+105mm OTO-Melara
+120mm PzMrs SdKfz
+15 sFH18 II
+SdKfz 165 Hummel
+105mm Ausf. H
+155mm Ausf. M
+203mm K44
+3.7 FlaK
+SdKfz 251/21
+FlakPz Iv Kugelblitz
+Ta 183
+Me-P.1101
+Fw-500 Kugelblitz
+Spotter
+Adler I
+Adler II
+Hs-132
+Noratlas
+Zerstörer 1936A Class
+LCVP
+LCM
+Sapernii
+Strelkoviy
+Parashutisti
+Spetsnaz
+Gvardeytsi
+Morskaya Pehota
+Gornostrelky
+Generalnyi Shtab
+MVD 
+MVD Strelkoviy
+Vnutrenniye Voyska
+Pogranichniki
+AT Strelkoviy
+KGB Strelkoviy
+Morskaya G.Shtab
+T-55A
+T-54
+T-34/85
+IS-3
+T-10
+PT-76
+T-54A
+T-54B
+IS-2
+T-44
+Bridge Layer
+T-34/43
+White SC
+BA-64
+BRDM-1
+BTR-40
+BTR-40B
+100mm BS-3
+SU-100
+SU-85
+Hovercraft Class B
+SU-122
+12.7mm DShK
+ASU-57
+SU-76
+107mm B11 RCL
+82mm B10 RCL
+7.62mm SGM
+76.2mm ZiS-3
+100mm T-12
+GAZ RCL
+TO-54/55
+57mm ZiS-2
+85mm D-48
+85mm D-44
+TO-54
+Observation Post
+D.O.T.
+BTR-152
+ZiL-151/57
+GAZ 64
+KRAZ
+AT-S
+GAZ 51
+GAZ 69
+Mi-4
+BTR-50
+BAV 485
+M3A1
+76.2mm ZiS-3
+122mm M-30
+152mm D-1
+76mm SU-76
+160mm Minomet
+203mm BR-4
+132mm BM-13
+140mm BM-14
+R-11 Zemlya/Scud-A
+152mm BR-2
+210mm BR-17
+130mm M-46
+152mm D-20
+82mm Minomet
+120mm Minomet
+85mm D-44
+180mm S-23
+140mm RPU-14
+S-75 Dvina
+BTR-152A
+85mm ZP-39
+ZSU-57-2
+14.5mm ZPU-2
+14.5mm ZPU-4
+14.5mm ZPU-1
+BTR-40A
+S-75 Desna
+S-25 Berkut
+57mm S-60
+76.2mm ZP-38
+37mm ZP-39
+ZSU M-16
+MiG-15
+MiG-17
+MiG-19
+La-9
+Yak-9
+La-11
+MiG-9
+Il-10
+Il-28
+Mi-1
+Mi-4M
+Mi-4PL
+Su-7B
+Tu-2
+Tu-16
+Tu-95
+Tu-22M
+AN-12
+Whiskey Class
+Quebec Class
+November Class
+Leningrad Class
+Skoiry Class
+Kotlin Class
+Neustrashimy Class
+Riga Class
+Komar Class
+Gnevny Class
+Gangut Class
+Sovietsky Soyuz Class
+Novorossiisk Class
+T-4
+LCVP
+Chapayev Class
+Sverdlov Class
+Scout Ant
+Fire Ant
+Warrior Ant
+Infantry (L)
+M26 Pershing (L)
+M103 (L)
+M8 (L)
+Jeep (L)
+Jeep RCL (L)
+M3A1 (L)
+155mm M44 (L)
+M16 (L)
+Rocketeer (L)
+Infanterie (L)
+Rocketeer (L)
+Himmler I (L)
+Psw 234/1 (L)
+Beobachtungsbunker (L)
+Bunker (L)
+155mm Ausf. M (L)
+FlakPz Iv Kugelblitz (L)
+Fw-500 Kugelblitz (L)
+Himmler II (L)
+Escape Rocket
+Barbed Wire
+Roadblock
+AT Mines
+Lunar Fortress
+Barbed Wire
+Lunar Lander
+Assault Mech
+Time Machine
+Laser Turret
+Decimator Mines
+Heavy Bomber
+Drone Bomber
+SU-85
+Drone Fighter
+Hovercraft Class D
+Hovercraft Class A
+Hovercraft Class C
+Hovercraft Class C/AA
+Hovercraft Class E
+Drone Tank
+Infantry
+Zouaves
+Militia
+Marines
+Rifles
+Mountain Infantry
+Dism. Cavalry
+Bridging
+Sharpshooters
+Field Command
+Engineers
+CS Regulars
+Home Guards
+Band
+Stonewall Bde.
+Aux. Infantry
+Texas Bde.
+Hampton's Legion
+Cavalry
+Heavy Cavalry
+Cavalry Scout
+Light Cavalry
+Irregulars
+Mounted Rifles
+Wagon Barricade
+Carriage
+Pack Transport
+Wagon
+Light Wagon
+Hvy Wagon
+Cavalry Mount
+6pdr Field Gun M1841
+4.62" 12pdr Napoleon M1857
+3" 10pdr Parrott Rifle M1861
+4.62" 12pdr Howitzer M1841 
+3" Ordnance Rifle M1861
+3.67" 20pdr Parrott Rifle M1861
+4.2" 30pdr Parrott Rifle
+3" 12pdr Horse
+5.82" Coehorn Mrt M1841
+10" Siege Mrt M1841
+8" Siege Mrt M1841
+10" Columbiad
+15" Columbiad
+13" Mortar M1841
+Naval Transport
+CSS Merrimack
+Confederate Cottonclad
+Infantry
+AT Infantry
+Scavengers
+HQ Infantry
+Raiders
+Sniper
+Heckenschütze
+M551 Sheridan
+M4A3(76)W HVSS
+Nuclear Tank
+Technical
+Technical RCL
+.50 M2HB
+M8
+MG
+Observation Post
+Gun Turret
+81mm Mortar
+120mm Mortar
+160mm Mortar
+Civilian Car/Mortar
+240mm BM-24
+105mm M7 Priest
+Car
+Truck
+Van
+FIM-43 Redeye
+HMMWV AD
+ATV
+ATV
+Mobile Radar
+MIM-23A Hawk
+ATA Drone
+AH-1 Cobra
+90 Ranger
+90 Infantry
+90 Sappers
+90 Para. Sappers
+90 USMC Infantry
+90 Special Forces
+90 USN Seals
+90 Paratrooper
+90 General Staff
+90 Military Police
+90 AT Infantry
+90 USMC General Staff
+90 USMC AT Infantry
+90 USMC Sappers
+M68
+XM551
+M60A2 Patton
+M60A3 Patton
+M1 Abrams
+M1A1 Abrams
+M1A2 Abrams
+T-60
+T-90
+T114
+LAV-300
+LAV-25 
+M3 Bradley
+HMMWV
+M93 Fox
+TOW
+M113 TOW
+.308 M60 80
+.50 M2HB 80
+84mm RCL
+M3 Bradley TOW
+HMMWV TOW
+7.62mm M240
+M35
+T-60
+CH-47 Chinook
+CH-53 Sea Stallion
+M577
+LVPT-7
+UH-1N Iroquois
+HEMTT
+LAV 25 
+M1008 CUCV
+M2 Bradley
+M113A3
+HMMWV
+UH-60 Black Hawk
+175mm T235
+203mm T236
+105mm XM108
+155mm XM109
+105mm XM102
+155mm M198
+105mm M119
+227mm MLRS
+FASCAM
+155mm M109A1
+XM163 Vulcan
+FIM-92 Stinger
+MIM-23B Hawk
+MIM-104 Patriot
+HMMWV AD
+F-14 Tomcat
+F-15 Eagle
+F-16 Falcon
+F/A-18 Hornet
+YA2F-1
+A-12
+HSS-2 
+Model 369
+Model 209
+F-111 Aardvark
+EF-111 Raven
+OH-58 Kiowa
+EA-6B Prowler
+F-4G Wild Weasel V
+F-15E Strike Eagle
+A-10 Thunderbolt II
+F-117 Nighthawk
+AH-6J Bird
+SH-60 Sea Hawk
+AH-64A Apache
+MH-60L Black Hawk
+AV-8B Harrier II Plus
+B-52 Stratofortress
+C-130
+CH-47 Chinook
+Sturgeon Class
+Los Angeles Class
+Leahy Class
+Spruance Class
+Oliver Hazard Perry Class
+Arleigh Burke Class
+Kitty Hawk Class
+Enterprise Class
+Nimitz Class
+Ticonderoga Class
+California Class
+Barbed Wire
+USMC AT Infantry
+USMC Para. Engineer
+Spetsialnyi Otryad
+Ob'yekt 140
+Ob'yekt 434
+BRDM-2
+9K11 Malyutka
+BDRM-2 Malutka
+73mm SPG9 RCL
+BTR-60
+V-6
+BRDM-2UM
+Ob'yekt 65
+Ob'yekt 764
+V-8
+122mm 9K51
+R-17 Elbrus/Scud-B
+240mm BM-24
+R-17E Elbrus/Scud-C
+9K52 Luna-M
+122mm D-30
+23mm ZU-14
+S-125 Neva
+2K11 Krug
+S-200 Dubna
+9K32 Strela-2
+9K31 Strela-1
+Ye-4
+V-8T
+V-17
+V-2
+Tu-22
+Civilians
+Hohei
+Jenerarusatuffu
+Kempei-tei
+Sento Kouhei
+AT Hohei
+Type 5B Chi-Ri
+Type 2B Ke-To
+Type 93 Sumida
+6.5mm Type 96 MG
+6.5mm Type 3 HMG 
+Jeep RCL
+Kurogane
+Type 98 So-Da
+Type 91 105mm H
+Type 38 Ho-Ro
+Type 52 105mm
+Type 96 25mm
+Ta-Se I
+NJ9Y Kikka
+Yamato Class
+Katori Class
+Oyodo Class
+Yubari Class
+Matsu Class
+Zerstörer 1945 Class
+Graf Zeppelin Class
+Bismarck Class
+Königsberg Class
+Type XXI Class
+Sniper
+Radar Post
+Queen Ant
+Roadblock
+VX Rocket
+Piechota
+Paratrooper
+AT Piechota
+Infantry
+Militia
+105mm M101
+M4A4 Sherman
+Rebels
+81mm Mortar
+120mm Mortar
+Airfield
+8" Coastal Battery
+Rebels
+Infantry
+Sappers
+General Staff
+AT Infantry
+M4A3(76)W Sherman
+M4A4 Sherman
+T-34/85
+M3A1 Stuart
+M8
+Jeep
+BTR-40
+.50 M2HB
+.30 M1919
+57mm
+Dodge 3T
+Jeep Willys
+M3A1
+75mm M116
+81mm Mortar
+40mm Bofors
+20mm
+T-33
+F-51D Mustang
+H-13 Sioux
+B-26 Invader
+T-6 Texan
+Sea Fury 
+Lenin Class
+Tech Factory
+Makeshift Airstrip
+Slave Ant
+XLM54
+Ob'yekt 279
+Supply Dump
+"Puma" Hovercraft
+"Venus" Assault Tank
+"Sentry" Hovercraft
+Iowa Class (Anchored)
+I-400 Class
+M6A1 Seiran (N)
+M6A1 Seiran (G)
+M6A1 Seiran (R)
+I-13 Class
+Panama Canal Lock
+12" Coastal Battery
+14" Coastal Battery
+Short-Range Radar
+Infantry Class A
+Infantry Class B
+Infantry Class C
+Hovercraft Class C/TPT
+Heavy Transport
+Heavy Transport
+Militia
+Infantry
+AT Infantry
+HQ Infantry
+Sappers
+Burning Rangers
+Guerilla
+M551A1 Sheridan
+T-62
+M60A1 Patton
+Inferno
+Civilian Car/MG
+Scorpion
+M3 Bradley
+HMMWV
+7.62mm MG
+MILAN
+100mm BS-3
+M3 Bradley TOW
+HMMWV TOW
+Saboteur
+Observation Post
+Civilian Truck
+M2 Bradley
+HMMWV
+UH-60 Blackhawk
+81mm Mortar
+120mm Mortar
+160mm Mortar
+Civilian Car/Mortar
+155mm How M1
+M108
+M109
+HMMWV AD
+FIM-92 Stinger
+MIM-23B Hawk
+F-4 Phantom
+F-16 Falcon
+Fodder Drone
+Gazelle
+UH-60 Blackhawk
+AH-6J Bird
+C-130
+(NOT USED) UH-60 Blackhawk
+Spruance Class
+LCVP
+LCM
+California Class
+Military Police
+AT Infantry
+Infantry
+HQ Infantry
+Paratrooper
+Shadow Squad
+Construction Vehicle
+M1A1 Abrams
+M1A2 Abrams
+Behemoth
+V150
+M93 Fox
+84mm RCL
+Mk19 GL B
+Observation Post
+Bunker
+ICBM
+M113A3
+CH-47 Chinook
+M35
+M985E1
+Peacebringer
+M115 8 inch
+M198
+MLRS
+FASCAM
+MIM-23B Hawk
+MIM-104 Patriot
+M163 Vulcan
+F-15E Eagle
+F/A-18 Hornet
+F-111
+A-10
+AH-64A Apache
+Silver Bullet
+(NOT USED) CH-47 Chinook
+C-130
+Arleigh Burke Class
+Kitty Hawk Class
+LCVP
+LCM
+Ticonderoga Class
+Infantry
+AT Infantry
+HQ Infantry
+Guerilla
+Sappers
+Embers
+T-62A
+T-64A
+T-80
+BRDM-1
+BRDM-2
+BTR-70

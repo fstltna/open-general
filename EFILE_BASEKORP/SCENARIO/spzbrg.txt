@@ -1,0 +1,15 @@
+13.  Spezial Sturmbrigade "Bistroff" 
+
+Version:  Apr-2019
+Number of Scenarios: 25
+Player Country: Germany
+Equipment file: Basekorp 
+Campaign Designer: Steve Brown
+Modified by Brian Gosley aka Puma
+
+This campaign follows the fate of a fictional combined-arms Wehrmacht unit and its commander Otto Bistroff. Starting as a Spanish volunteer leading the armoured column, both his rank and the size of his unit progressively rises up until the Zitadelle operation, where his brigade was decimated and most of the men killed, wounded or captured.
+
+You have been provided the best equipment and men from the German army but the SS have provided you with uniforms for your march across Europe.
+
+
+ 

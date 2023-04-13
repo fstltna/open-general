@@ -1,0 +1,8 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 146  '  Pz IIIH  [ TK  Germany]  Cost: 444
+ 617  '  Pz IVE  [ TK  Germany]  Cost: 612

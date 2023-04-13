@@ -1,0 +1,31 @@
+1925-47 NATIONAL REVOLUTIONARY ARMY
+Chinese Campaign
+
+This is a historical campaign about the National Revolutionary Army (NRA) as the military arm of the Kuomintang (KMT, or the Chinese Nationalist Party) from 1925 until 1947 in the Republic of China. The NRA became the regular army of the Republic of China during the KMT's period of party rule beginning in 1928. After 1947 the NRA was renamed in Republic of China Armed Forces.
+The campaign features 22 battles of today mainly unknown wars (list below) fought in China during a period of non-stop violence. 
+
+Second Eastern Expedition, 1925
+Northern Expedition, 1926-28
+Sino-Soviet War, 1929
+Central Plains War, 1929-30
+Sino-Tibetan War, 1930-32
+Shanghai incident, 1932
+Chinese Civil War (first phase, 1927-37)
+Suiyuan Campaign, 1936-37
+Second Sino-Japanese War, 1937-45
+Chinese Civil War (second phase, 1945-49)
+
+The campaign uses the "elite/green replacements" feature. Units which had suffered losses in battle, have experience points to pay if you use green replacement, depending on the amount of the losses. Your core units are not automatically refreshed after a scenario, so avoid wasteful or unnecessary attacks. Furthermore, you can add so-called attachments to your units that increase their effectiveness, but cost some prestige.
+
+Enjoy!
+
+Björn aka Golothin
+
+Comments, compliments, suggestions or whatever can be sent to: golothin@netscape.net
+
+Campaign Designer: Golothin
+Number of Scenarios: 22
+LXF Version: v1.0
+Last Playtest: 11/2020
+
+

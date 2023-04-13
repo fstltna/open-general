@@ -1,0 +1,8 @@
+Kurmark Distinguished
+
+02/02/1945
+
+Since 'Kurmark' was encircled and the enemy pressure was growing stronger every minute, Colonel Langkeit ordered a breakthrough towards the west. The attack started at 15.30 hours in the forest of Reppen. 
+
+7 deploy hexes. New units have strength 8 and experience 50. 
+Note: You have to evacuate seven (7) units thru the Retreat Hex (02,06)! You must only hold Dammvorstadt (01,05).

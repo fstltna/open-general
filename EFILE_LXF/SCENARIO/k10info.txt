@@ -1,0 +1,10 @@
+10. CORSICA (12 November 1942)
+
+TO: Admiral
+SUBJECT: Operation Kamelie
+
+---The British and Americans have invaded Vichy French North Africa. Because of the likely collapse of the French forces, it is even possible that they will join the Allies, the German and Italian armed forces will occupy strategic French positions, including the French mainland, Tunisia and the vital island of Corsica, close to the Italian mainland.
+
+The occupation of Corsica will be performed by your Marine Corps. Some Italian units will support you. It is not certain how the Vichy French forces on Corsica will react but the garrison has some veteran units. Expect the worse. However, no enemy ships should be around as they lie mostly in Toulon and North African ports!---
+
+NOTE: You will not be able to deploy naval units in this scenario. You can deploy ground units but you will have manually to embark them on the "Port Embarking Hexes" near your supplyhex.

@@ -1,0 +1,13 @@
+Battle of Breslau
+November 22, 1757
+
+Fredrick II is still active in Saxony, and Silesia is only lightly defended. Two superior Austrian armies have invaded this province. The Prussian economy and war efforts can’t afford losing Silesa. You must hold its capitol, Breslau at all costs!
+
+Deploy Hexes: 17
+
+ORDER: Hold at least 5 VHs and keep your MSU alive.
+
+NOTE: The Citadel in Breslau resupplies all adjacent friendly units.
+
+scenario designers: Duke Falcon, Michael Nowak
+converted and optimized to OpenGen: Csaba (lvjtn)

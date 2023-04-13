@@ -1,0 +1,915 @@
+* Este fichero tiene los textos en español de forma
+* que el interfaz del juego esté en español
+* No borres ni insertes lineas !!!
+*-------------------------------------------------------------------
+* La selección de idioma se hace desde la ventana de
+* Configuración de usuario y ademas del interfaz, se cargarán
+* los textos de introducción en español cuando estén disponibles
+* para un efile y campaña o escenario en particular
+* Este fichero no cambia el contenido de los ficheros
+* Nations.txt, Terrain.txt or Units.txt
+* pero ignora el User.txt salvo los textos para los resultados
+* ------------------------------------------------------------------
+*
+*
+*
+*
+* These sections can be redefined at efile level
+* by using STRINGS_EFILE.txt in efile folder
+* but you cannot remove from this file
+*
+* [terrain] ... can be redefined
+Llano
+Ciudad
+Aeródromo
+Bosque
+Matorrales
+Colina
+Montaña
+Arena
+Pantanoso
+Oceano
+Río
+Fortificación
+Puerto
+Arroyo
+Escarpado
+Río Impasable
+Abrupto
+Terreno no usado
+Caminos
+Via férrea
+
+* SIDES
+Eje
+Aliados
+
+* UNITS CLASS
+Ninguna
+Infantería
+Tanque
+Reconocimiento
+Antitanque
+FlaK
+Fortificación
+Transporte Terrestre
+Transporte Ferroviario
+Artillería
+Defensa Aérea
+Caza
+Bombardero Táctico
+Bombartero Estratégico
+Transporte Aéreo
+Transporte Helicóptero
+Submarino
+Destructor
+Acorazado
+Portaaviones
+Transporte Naval
+Crucero Pesado
+Crucero
+Crucero Ligero
+
+* TARGETS
+No blindado
+Blindado
+Aéreo
+Naval
+
+* Spaces
+Terrestre
+Aéreo
+
+* MOVEMENT
+Orugas
+Semiorugas
+Ruedas
+A pie
+Remolcado
+Aéreo
+Alta mar
+Costero
+Todo terreno
+Anfibio
+Naval
+Montaña (Pie)
+Tren
+Helicoptero
+
+* TRANSPORTS
+No puede ser transportado
+Naval
+Aéromovil
+Paracaidista
+Train
+Helicopter
+
+* Result types 
+Victoria Brillante
+Victoria
+Victoria Táctica
+Derrota!
+
+*----------------------------------------------- 
+*
+*** desde aqui los textos no se pueden 
+*** redefinir, solo traducir
+*
+*-----------------------------------------------
+
+* Weather
+Bueno
+Nublado
+Lluvia
+Nieve
+
+* Ground condition
+Seco
+Helado
+Embarrado
+
+* Months
+Enero
+Febrero
+Marzo
+Abril
+Mayo
+Junio
+Julio
+Agosto
+Septiembre
+Octubre
+Noviembre
+Diciembre
+
+* Combat messages
+Destruido %d  Suprimido %d
+¡Ataque arrollador!
+Atacando
+Asaltando
+Fuego de barrera
+Defensa feroz
+Contacto sorpresa
+¡Desde el sol!
+¡Sorprendido!
+Cazas!
+Defensa aérea
+Fuego de apoyo lejano
+Fuego de apoyo cercano
+Ataque roto
+Ataque roto por fuego de apoyo
+Submarino evadido
+Submarino se sumerge
+Huída de puerto
+Hundido
+Rendición
+Retirada del campo de batalla
+
+* game messages
+Han llegado refuerzos
+¿Quieres transporte aéreo?
+Grabado
+Error al grabar
+¿Seguro que quieres eliminar la unidad?
+Contraseña incorrecta
+Felicidades por la victoria
+
+* Menu Main
+Selecciona equipamiento
+Carga escenario
+Carga campaña
+Escenario "Multijugador"
+Juego por E-mail (PBEM)
+Revisa mejores partidas
+Inicia editor (Suite)
+Carga partida
+Configuración
+Reproduce archivo xlog (comandos grabados en archivo)
+Reproduce video de introducción
+Muestra versión
+Sale del juego
+
+* Menu Game
+Siguiente unidad
+Cancela movimiento
+Compra
+Despliegue
+Cuartel general
+Modo aire
+Mapa estratégico/normal
+Repite turno de oponente PBEM
+Chat
+Opciones adicionales
+Pantalla completa
+Fin del turno
+Funciones de juego
+Preferencias
+
+* Menu Additional options
+Informe de estado
+Introducción del escenario
+Teclas rapidas
+Muestra etiquetas y datos de terreno
+Muestra rejilla
+Musica Sí/No
+Efectos de sonido Sí/No
+Muestra resultado combate en mapa
+Muestra hexágonos detectados
+Oculta fuerza unidades y previsión bajas
+Muestra alcance unidad seleccionada
+Opciones de video y otras
+Hecho, cierra este menú y vuelve al juego
+
+* Menu Requisition
+Cambia Terrestre+Aéreas/Navales
+Selecciona Defensa Aérea
+Selecciona FlaK
+Selecciona Fortificaciónes
+Selecciona Antitanques
+Selecciona Artillerías
+Selecciona Infanterías
+Selecciona Reconocimiento
+Selecciona Tanques
+Selecciona Cazas
+Selecciona Bombarderos Tácticos
+Selecciona Bombarderos Estratégicos
+Selecciona Submarinos
+Selecciona Destructores
+Selecciona Acorazados
+Selecciona Portaaviones
+Selecciona Cruceros Pesados
+Selecciona Cruceros
+Selecciona Cruceros Ligeros
+Nombra unidad
+Desbanda unidad
+Salir
+
+* Menu dossier
+Informe de acción
+Salir
+
+* Menu Headquarters
+Dosier
+Inspecciona unidad
+Va a unidad
+Compra unidad
+Repara/Refuerza unidad
+Actualiza unidad
+Desbanda unidad
+Funciones de Juego
+Coste unidades Core y valores CAP
+Sale
+
+* Menu Units
+Monta - Desmonta
+Embarca - Desembarca
+Aprovisiona
+Reemplazos
+Renombra unidad
+Sale
+
+* Menu Deploy
+Compra unidad
+Modo aire
+Mapa estratégico/normal
+Muestra rejilla
+Sale
+
+* Browse list
+Inicio
+Retrocede página
+Retrocede fila
+Avanza fila
+Avanza página
+Final
+
+* Dialog Tips
+Líder
+Transporte
+País
+Experiencia
+Nivel de experiencia
+Combustible
+Munición
+Fuerza
+Alcance
+Iniciativa
+Detección
+Tipo de movimiento
+Ataque blindado
+Ataque no blindado
+Ataque aéreo
+Ataque naval
+Defensa terrestre
+Defensa aérea
+Defensa cercana
+Defensa a distancia
+Clase
+Coste
+Cuartel general
+Nuevo equipo disponible
+Compra
+Actualiza
+Inspecciona unidad
+Bajas causadas
+Bajas recibidas
+MÁXIMAS puntuaciones
+ÚLTIMAS puntuaciones
+Cambia a mostrar ÚLTIMAS puntuaciones
+Cambia a mostrar MÁXIMAS puntuaciones
+Ver mapa estrategico con despliegue sin unidades
+Prestigio disponible: %d
+No puede Reparar/Reforzar
+Repara/Refuerza unidad * Coste=%d
+No puede Reparar/Reforzar unidad, Coste=%d > %d
+Cambia a otro pais
+No hay datos disponibles
+Sale
+
+*----------------------------------------------------------------
+* Windows type dialogs : Warning keep lenght as much as possible
+*----------------------------------------------------------------
+* LOAD_SCN
+Jugador 1
+Jugador 2
+Carpeta equip.
+Muestra todos (inc. ocultos)
+Ordena por nombre
+Jugador 3
+Jugador 4
+Filtra archivos
+Modo PG2
+ 
+* LOAD_SAVES
+Jugador 1
+Jugador 2
+Carpeta equip.
+Incluye archivos SAV de PG2
+Incluye archivos CSV de PG2
+Carga partida
+Incluye archivos XSAV
+Incluye archivos XCSV
+Filtra archivos
+Ordena por fecha
+ 
+* HOTKEYS
+Teclas rápidas
+Mapa estratégico
+Desplaza mapa
+Centra unidad seleccionada
+Muestra bajas en mapa
+Cambia etiquetas terreno
+Sale (menú, dialogo o juego)
+Teclas rápidas
+Alterna modo Aéreo/Terrestre
+Recarga último
+Muestra resumen turno
+Mueve lista de unidades
+Ayuda atributos unidad
+Establece modo Win
+Muestra introducción escenario
+Alterna marcas de detección
+Alterna fuerza de unidades y bajas
+Alterna modo Mov. / Fuego Barrera
+Acaba turno
+Cambia encaramiento unidad
+Despliegue
+Cuartel General
+Siguiente unidad
+Reemplazos
+Dosier
+...nada aún
+Monta/Desmonta
+Informe combates turno
+Anterior unidad
+Sale del juego
+Muestra unidad
+Cancela movimiento
+Muestra informe Debug
+Pantalla de error
+Alcance de ataque Sí/No
+Alterna textura para hexágonos sombreados
+Alterna color indicador de selección
+Marcadores de combustible
+Carga partida
+Informe de último combate
+Graba partida
+Abastece unidad (si posible)
+Alterna entre unidades apiladas
+Auto-guardado
+Compra
+Embarca/desembarca
+Sonido Sí/No
+Música Sí/No
+Número fuerza Sí/No
+Omite unidad de rotación
+Informa de error
+Recarga Mapa
+Datos de VH/SH en mapa Sí/No
+Niebla de guerra Sí/No
+Abandona transporte
+Muostra ruta movimiento
+Alterna música 1/2
+Panel de valores unidad Sí/No
+
+* PEBM SPECIAL CODES
+Códigos PBEM (@)
+Puede usar transporte aéreo
+Aerotransportado
+Movimiento montaña
+Puente
+Ingeniero
+Habilidad Recon (movimiento en fases)
+Desembarca si es atacado
+Artillería sin fuego de apoyo
+Fuego de apoyo
+Ataque terrestre para AD y Flaks
+Apoyo al combate
+Flak - puede atacar unidades aéreas
+Suministra unidades aéreas
+Captura hexágonos
+Despliegue de portaaviones
+Transporte aerotransportable
+Zapador
+Mecanizado
+Atributos sin código, mueve el ratón sobre ellos para ver
+Fuego de barrera (bombardeo)
+Marine
+
+* SCN_INTRO
+Nombre escenario
+Muestra intro campaña
+
+* LOAD_CAM
+Jugador 1
+Carpeta Equip.
+# escenarios
+Comprueba mapas sin descargar
+Comprueba y descarga faltantes
+Comprueba y descaga automática
+AI
+Ordena por nombre
+
+* SCN_END
+Título campaña\nTítulo escenario
+Finalizado !!! -  
+Victoria Brillante
+País principal name turn xx
+Fecha
+Has destruido todos los enemigos
+Puntuación
+ 
+* NAME_UNIT
+Nombre unidad
+
+* SELECT EFILES
+Archivos en carpeta
+Carpetas de equip.
+Crea nueva carpeta de equip.: (teclea ruta relativa)
+
+* MEDIA SETTINGS
+OPCIONES MULTIMEDIA
+Reproduce música
+Reproduce sonidos
+Reproduce videos
+Música 1:
+MAX
+Volumen
+Intro : 
+Música Intro: 
+Volumen
+MAX
+Sonidos Varios (Clic...)
+MAX
+Volumen
+Sonido mal tiempo
+MAX
+Volumen
+Usa MCI en lugar de DirectShow
+Reproduciendo ahora:
+No reproduciendo ahora...
+Musica 2:
+
+* PICK_SAVEGAME
+Jugador 1
+Jugador 2
+Archivos existentes               Carpeta:
+Añade nuevo
+Carpeta
+Tipo
+Guarda actual:
+Título
+Incluye partidas PG2
+
+* INFO
+Título
+Progreso
+
+* BROWSER
+Disco:
+Carpeta actual:
+Tipo archivo:
+Título
+Nombre archivo:
+Carpeta actual
+
+* AAR SETTINGS
+Incluye nombre unidad
+Incluye país
+Incluye fuerza
+Incluye eliminados 
+Codigos Foro
+Incluye fuerza (Actual / Base)
+CSV Excel
+Incluye medias
+Comparar SaveGames
+Incluye escenarios jugados
+Incluye número de unidad
+Resumen unidades jugador
+Opciones del informe
+Incluye códigos PBEM
+Usa fuerza base
+Incluye puntuación
+
+* LOAD_EML
+Nueva partida
+Carga partida
+PBEM
+Carpeta de Equip.
+Equipamiento
+Archivo juego
+Carpeta
+
+* SCREEN SETTINGS
+Velocidad desplazamiento
+Velocidad refresco (ms)
+Fotogramas / hexpos al mover aviones
+Retraso extra en cada fotograma movimiento en modo completo, ms 
+Fotogramas / hexpos al mover unidades tierra
+Configuración pantalla
+Retraso para rotación. 0 para no rotación
+Retraso para animaciones disparos y explosiones
+
+* BUGREPORT
+No incluir archivos
+Incluye último AUTOSAVE
+Incluye archivo:
+Resumen (hasta 60 car.)
+Detalles
+Creado por: (tu nombre)
+Añade tema al seguimiento de SourceForge (error o petición)
+Adjunta archivo:
+Puedes comprobar el estado y respuesta en Sourceforge en:\nhttps://sourceforge.net/tracker/?group_id=355449
+
+* GAME SETTINGS
+Permite DESTRUIR
+Permite REPARAR
+Opciones de juego
+... Se aplica a puentes, puertos, aeropuertos && ciudades 
+Permite CONSTRUIR
+Permite fuego de barrera
+BB,CV && BC pueden disparar como FlaKs
+Alcance 0 verdadero (no dispara a hexágonos adyacentes)
+Detección 0 verdadera (no detecta hexágonos adyacentes)
+Permite usar todos los hexágonos completos del mapa (fila, columna 0)
+Montañas, ciudades && bosques bloquean LDF directa, incluso a alcance>2
+Unidades propias SI bloquean LDF (excepto atributo Light)
+Reglas de LDV extendidas (Bosque,... bloquea LDV, LDV aérea limitada) 
+Unidades aéreas con ZdC (como unidades terrestres) 
+Unidades aéreas pueden ser atacadas al entrar en alcance AD
+Selecciona AI
+Carreteras extendidas (al entrar en el hexágono, no al salir)
+Carreteras en cualquier terreno (incluso océano)
+Refuerzos llegan cuando el jugador está activo (si no al principio del turno, como PG2)
+Unidades Core añadidas en diseño no cuentan para CAP (por defecto como compradas)
+Usa opciones del escenario
+Usa opciones del registro
+Deshabilita AI
+
+* MAIN SETTINGS
+Modo video:
+Doble clic en un modo para cambiar
+Últimos archivos
+Modo video actual
+Archivo cargado
+Imagen del mapa:
+Equip. cargado
+Carpeta de juego
+Carpeta de equip.
+DatFile cargado
+Opciones multimedia
+Opciones escenario
+Opciones informe
+Ancho x Alto x bpp
+Opciones pantalla
+Fuente
+Guarda opciones en disco
+Modo PG2: SI
+Descarga mapas como JPG (si no, como PNG) 
+Opciones interface
+
+* USER SETTINGS
+Muestra explosión en blanco (fuego lejano)
+Desactiva informes de comandos en disco (no se podrá repetir)
+Opciones interface
+Doble clic cambia a vista estratégica
+Siempre muestra tipo de terreno en la parte superior
+Carga animaciones clima en memoria sistema
+Muestra animaciones de clima
+Desactiva informes de texto (turno AI, debug)
+Modo PG2: SI
+Muestra explosión en lugar de rendición
+Muestra consejos.
+Oculta fuerza unidades y previsión de bajas
+Muestra resultados combate cerca de unidades
+Oculta marcadores fuel de aviones
+Muestra etiquetas terreno y carreteras
+Muestra alcance ataque
+Oculta datos de VH/SH en mapa
+Muestra rejilla
+Info en mapa
+Muestra niebla de guerra en mapa
+Selecciona idioma del interface
+
+* GAME_OPTIONS
+Nueva partida
+Carga partida
+Guarda partida
+Sale del juego
+Doble clic en cualquier archivo para cargar
+Archivo actual
+Equipamiento
+
+* PASSW
+Teclea contraseña
+
+* MISC FORMATTED TEXT
+El tiempo es %s
+Jugador %d * %s
+Bando:%d (%s) * %s  %s
+Prestigio actual : ?
+Prestigio actual : %6d
+Modificador prestigio: %6d
+Mantén %d VH
+Último turno
+%d turnos
+Unidades a evacuar: %d  (turno: %d, %d, %d para BV,V,TV)
+Unidades a evacuar:  %d
+Evitar %d unidades de la AI de salir (turno: %d, %d, %d para BV,V,TV)
+Evitar %d unidades de la AI de salir
+Evitar %d unidades del jugador de salir (turno: %d, %d, %d para BV,V,TV)
+Evitar %d unidades del jugador de salir
+Unidades marcadas sobrevivir: %d  (turno: %d, %d, %d para BY,V,TV)
+Unidades marcadas sobrevivir: %d
+Unidades marcadas destruir %d (turno: %d, %d, %d para BY,V,TV)
+Unidades marcadas destruir %d
+Versión AI: %s  %s
+Modo PG2
+Modo OG
+Win
+Completo
+Completo: %4d x %4d x %2d  %s
+Win %4d x %4d x %2d  %s
+Jugador1: %s
+Jugador2: %s
+%d escenarios
+P1: %s - %s
+P2: %s - %s
+P3: %s - %s
+P4: %s - %s
+Escen: %s * Turno:%d
+Cam: %s\r\nScen: %s * Turn:%d 
+Puntuación escenario: (No punt.)
+Puntuación escenario: %d
+
+* -------------------------------------
+* Pop Messages
+* not so critical about lenght of text
+* -------------------------------------
+Escenario [%s]\nno encontrado...
+Quieres guardar antes el escenario actual?
+Quieres transporte aéreo?\n¡Luego no podras volver atrás!
+Perderá el transporte ¿Continuar? ...
+Vas a disparar a un hexágono propio\nEstás seguro?\n
+\n Seguro que quieres cancelar el turno de la AI? \n
+Unidad construyendo, se cancelará el trabajo
+Unidad:%d   %s  -  %s\nSeguro que quierers abandonar el transporte: %s   Movimiento: %d ?
+\nConfirma que quieres desbandar la unidad (eliminarla) ?\n
+¿Seguro que quieres desbandar la unidad?...\n\n%s %s \n
+Confirma que quieres crear estas carpetas...\n%s\n%s\n%s
+¿Quieres borrar el archivo? ...\n%s\n
+Comprobando archivos de campaña... \n¿Quieres cancelar? \n
+\n¿Seguro que quieres recargar el mapa? \n
+¡La unidad está sin combustible y no puede mover los transportes!\n¿Quieres mover y perder los transportes?\n
+¿Quieres abrir la Suite? 
+¿Seguro que quieres salir? ...
+
+Comprobando dados(1,20) %d veces\n
+Efile tiene %d unidades\nSolo las primeras %d unidades se cargarán\n
+%s no encontrado...\nNo estarán disponibles los nombres de equipo\n
+Archivo Cam [%s]\nno encontrado...
+Carpeta de equip. cambiada a\n\n%s
+Repetición XLOG cancelada por usuario...
+Fin de repetición XLOG...
+No puedo abrir %s\n... Cancelando test\n
+%s\ngrabado correctamente
+Error grabando:\n%s
+ Escenario [%s] \n no encontrado... 
+Error...\nno se puede jugar sin mapa, ya que el tamaño es desconocido\nCancelando...\n
+Archivo guardado [%s]\nno encontrado...
+No es un archivo CSV de PG2, ¿quizá es de Excel?
+¡No es un archivo de OpenGen!
+No puedo crear el archivo\n%s \n
+Cuidado...\n %d unidades con posición incorrecta en el mapa\n Movidas a(1,1)
+No hay Mapfile definido...\no se ha producido algún error al cargar el escenario\nNo se mostrará imagen de mapa...
+Mapfile no encontrado%s ...\ny tampoco en la red...\n
+No puedo abrir el Mapfile: %d\nNo se mostrará imagen del mapa...
+Mapa recargado con éxito\n
+Minas removidas con éxito...\n
+¡Fallo al quitar las minas!\n1 suprimido el resto del turno\n
+Fin de la repetición...
+Partida cargada correctamente
+Intentando guardar como archivo xEml...\n%s \n
+No es un nombre válido para el archivo xEml...\n
+No es un archivo PBEM [%s]\n
+Mapa demasiado grande...
+%d unidades se han eliminado del mapa
+AI en pausa, pulsa F5 para continuar o ESC para cancelar...
+AI en pausa, clic para continuar...
+No puedo abrir el archivo de campaña: %s\nno se pudo comprobar...
+Cancelado por el usuario... \n
+Campaña: %s\nComprobados %d escenarios\nNo faltan archivos críticos
+Unidad:%d %s entra en un hexágono con posición incorrecta (%d,%d)\nGuarda el actual AUTOSAVE* ..\nantes de finalizar turno para poder analizar\n
+No puede abandonar el transporte mientras está montado!
+Jugador %d, no puede comprar más unidades\nYa tiene %d unidades\n
+No se pueden comprar unidades con fuerza 0\nRevisa la configuración de fuerza por defecto
+Puntero de datos de mal tiempo accediendo NextWeather()\n
+Período de mal tiempo en NextWeather()\n
+%s ya existe...
+\nSe crearán estas carpetas:\n%s\n%s\n%s
+%s no es una carpeta de juego válida...
+Error...\n
+Max. número de nombres alcanzado\nno se pueden añadir nombres nuevos
+Usa la última Suite para limpiar las opciones de OpenGen en todos los escenarios
+Contraseña incorrecta\nPrueba otra vez...
+Espera demasiado larga\n... pulsa una tecla para cancelar\n
+Semilla guardada con éxito
+No se pudo crear\n%s
+Semilla cargada con éxito
+No se puede abrir\n%s
+No se puede reforzar unidad...
+No se puede abastecer unidad...
+\nLa Suite debe estar en la carpeta principal del juego\n
+¡El defensor se evade!
+ %s \n no es una carpeta válida, ya que no tiene un archivo DAT \n Se te pedirá una carpeta válida para el juego \n
+¡Error!\nAún no hay carpeta de juego válida, no podrás jugar\n
+No se pudo guardar en la carpeta\n%s\nLas opciones se guardarán en el registro...\n
+Probando a descargar el mapa %d\n Por favor, espera...
+Partida guardada [%s]\nno encontrada...
+Insuficiente memoria de video para el juego\nClic para salir...\n
+Cancelando comprobación de campaña\nPor favor, espera...
+
+* Lineas añadidas
+Ningun archivo cargado
+Ninguna imagen
+Selecciona archivo música
+Selecciona archivo intro
+Selecciona introducción video
+OpenIntro (en carpeta SOUND)
+Pulsa ? para ver codigos de atributos especiales. Usa AvPag/RePag para mover la lista
+Deshabilitado actualizar unidades en este escenario
+AAR - Informe tras la acción
+Coste del ejercito: %d  * Prestigio actual: %d  * %s
+Carpeta
+Nuevo equipo disponible desde escenario anterior
+Nuevo equipo disponible este mes
+
+* more added
+Mostrando mapa, pulsa ESC para volver
+El tiempo es: %s (estimado: %d turnos)
+Turno: %d / %d
+Ejército
+Coste del ejército
+Disponible: %d
+Terreno está: %s
+ <Pulsa D para desembarcar>
+ <Pulsa A para subir avión>
+ <Pulsa N para subir barco>
+ <Volado>
+  Construyendo: %s -%d
+Pulsa para ver transportes
+Ctrl+T para abandonarlo
+Ninguno
+Has sido recompensado con un prototipo
+Probabilidad de líder %d%%
+VH a mantener
+%d unidades a retirar
+Turno
+BombSize
+Usando movimento
+No encontrado
+Nombre unidad
+Comprobando campaña
+Escenario #%d [%s.scn]
+Escenario texto [%s.txt]
+Escenario #%d [%s]\n[mapfile: %s.map]
+Escenario #%d [%s]\n[mapa nº: #%d]
+Error crítico
+intentando descargar
+tampoco en la red
+descargado de la red
+Pulsa ESC para abortar ...
+
+escenario #%d [%s] no se pudo abrir para comprobar el mapa\n
+escenario #%d [%s] no tiene mapfile definido\n
+No se puede abrir escenario #%d [%s] para comprobar el nº de mapa\n
+Escenario #%d [%s] no tiene mapfile definido\n
+Encontrados %d archivos que faltan en la campaña %s\n
+%d archivos se han descargado\n
+Hay %d archivos faltantes aun
+Todos los archivos descargados de la red
+Aerodromo:%d  Fuerte:%d  Puerto:%d  Ponton:%d pp
+Pulsa para ver el Dossier
+
+* Special attributes
+Habilidades
+Sin habilidades especiales
+Paracaidista
+Aerotransportado
+Movimiento de montaña
+Pontonero
+Ingeniero
+Habilidad Recon
+NO desmonta al ser atacado
+Desmonta si es atacado
+NO da fuego de apoyo
+Da fuego de apoyo
+Ataque terrestre para AD y FlaKs
+Apoyo al combate
+Puede atacar unidades aéreas
+Aeródromo improvisado - despliega y abastece unidades aéreas
+Captura hexágonos
+Puede desplegar en portaaviones
+Transporte aerotransportable
+Zapador, puede reconstruir/reparar
+Puede poner minas
+Puede quitar minas
+Mecanizado, puede mover y atacar
+Marine, puede mover tras desembarco naval
+No se rinde por supresión
+Desmonta tras mover
+No puede usar aeródromos improvisados
+Puede bombardear dentro del alcance
+Obstruye la Linea de Vision enemiga (LOS)
+No obstruye la Linea de Fuego Directo (LOF)
+No tiene Zona de Control
+Puede evadir como los submarinos
+Puede hacer fuego de barrera
+Puede hacer voladuras
+No lider
+Supresión duradera
+All weather combat
+Can Overrun
+Cannot Overrun
+No run out ammo penalty
+Cannot intercept air units
+Can use rail transport
+Can use helo transport
+
+* Lideres
+Defensa Tenaz: +4 a Defensa
+Maniobra Agresiva: +1 Movimiento
+Veterano en Reconocimiento: +2 Detección
+Destructor de Tanques: Sin penalización de Iniciativa por moverse y atacar
+Tirador Escogido: +1 Alcance
+Veterano Mecanizado: Puede moverse y disparar
+Interceptor Hábil: Intercepciones múltiples
+Experto en Asalto: Inmune a "Desde el Sol" e intercepción AA
+Ataque Agresivo: +2 a Ataque
+Defensa Resuelta: +2 a Defensa
+Inteligencia de Batalla: No puede ser sorprendido, +1 a Iniciativa
+Primer Ataque: Dispara primero si gana la Iniciativa
+Resistencia: Menos bajas y no puede ser arrollado
+Influencia: La mitad del coste para actualizarse o reponer bajas
+Disciplina de Fuego: Usa munición a mitad de ritmo
+Liberador: Puede capturar banderas y consigue el doble de prestigio por ello
+Entrenamiento de Montaña: Mueve por bosque, colina, abrupto y montaña como por llano
+Combate Todo Tiempo: Inmune a condiciones meteorológicas
+Experto en Camuflaje: Solo es detectado por unidades adyacentes en bosque, ciudad, bocaje, arena o montaña, y dispara al primer enemigo que entre en su ZDC
+Apoyo de Combate: Añade sus barras de experiencia a unidades adyacentes
+Tacticas de Infiltración: Ignora atrincheramientos y Primer Ataque si gana la iniciativa por un margen >1
+Maniobra Agresiva: +1 Movimiento
+Reconocimiento Hábil: +2 Detección
+Movimiento de Reconocimiento: Movimiento en fases
+Ataque Terrestre Hábil: Bonos al atacar unidades terrestres
+Luchador Callejero: Ignora atrincheramientos en ciudad
+Ataque Abrumador: Probabilidad más alta de causar bajas, la primera supresión se convierte en baja
+Maniobra Superior: Ignora zonas de control
+Frente Extendido: Da fuego de apoyo a unidades adyacentes
+Defensa Feroz: Ninguna unidad puede ignorar el atrincheramiento de esta, inmune a supresión
+Vigilancia : La primera unidad que entre en alcance es sorprendida
+Fuego Devastador: La unidad puede disparar dos veces por turno
+Pontonero: Trata los ríos como abrupto y actúa como puente
+Tácticas de Choque: Inflinge supresión que dura todo el turno
+Apoyo Flak: Fuego de apoyo e intercepciones múltiples
+

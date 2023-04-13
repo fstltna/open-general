@@ -1,0 +1,27 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  90  '  Sturmgeschutz 40F  [ AT  Deutschland]  Cost: 456
+ 144  '  Pz IIIJ  [ TK  Deutschland]  Cost: 420
+ 145  '  Pz IIIL  [ TK  Deutschland]  Cost: 432
+ 147  '  Pz IIIN  [ TK  Deutschland]  Cost: 432
+ 149  '  Pz IVF2  [ TK  Deutschland]  Cost: 804
+ 150  '  Pz IVG  [ TK  Deutschland]  Cost: 840
+ 597  '  7,5 Pak97/38  [ AT  Deutschland]  Cost: 120
+ 598  '  Marder II (7,5)  [ AT  Deutschland]  Cost: 348
+1226  '  7,62 Pak36(r)  [ AT  Deutschland]  Cost: 252
+1229  '  Marder II (7,62)  [ AT  Deutschland]  Cost: 348
+1240  '  28/32 NbWf41  [ATY  Deutschland]  Cost: 612
+1283  '  Hs 129B-1  [ TB  Deutschland]  Cost: 1008
+1929  '  Marder I  [ AT  Deutschland]  Cost: 312
+1930  '  Marder III  [ AT  Deutschland]  Cost: 360
+3377  '  Bf 109F-4/B  [ TB  Deutschland]  Cost: 1056
+4333  '  Ju 86R-2  [ TB  Deutschland]  Cost: 768
+4544  '  Fw 189A-2  [ TB  Deutschland]  Cost: 720
+4561  '  Bf 109G-4  [FTR  Deutschland]  Cost: 1044
+4569  '  Ju 88C-6  [ TB  Deutschland]  Cost: 948
+5068  '  He 177A-1  [ LB  Deutschland]  Cost: 1152
+5076  '  Me 210A-1  [FTR  Deutschland]  Cost: 1200

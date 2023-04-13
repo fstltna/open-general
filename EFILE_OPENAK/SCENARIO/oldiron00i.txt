@@ -1,0 +1,31 @@
+00. Operation Torch - Landing at Oran - November 8th, 1942
+
+The Central Task Force will land at 4 locations in and around Oran:
+
+1. Beach X at Mersa Bou Zedjar - 25 mi West of Oran.
+Regimental size task force GREEN consisting of elements of Combat Command B (CCB) of your Old Ironsides. You control these forces.
+
+2. Beach Y at Les Andalouses - 10 mi West of Oran.
+Brigade size Combat team 26, organized around Infantry Regiment 26 of the 1st US Infantry Division. The AI (computer) controls these forces.
+
+3. Reservist Force at Oran.
+Third battalion of the 6th US Armored Regiment / 1st US Armored Division. You control these forces. Most people agree that this battalion's mission to capture Oran harbour intact was suicidal. It is up to you to keep these guys alive.
+
+4. Force Z at Arzew - 20mi East of Oran.
+A division size force consisting of:
+- The 1st US Rangers Bn - AI controlled.
+- Brigade size Combat team 16, organized around Infantry Regiment 16 of the 1st US Infantry Division. The AI (computer) controls these forces.
+- Brigade size Combat team 18, organized around Infantry Regiment 16 of the 1st US Infantry Division. The AI (computer) controls these forces.
+- Brigade size task force RED consisting of most elements of CCB of your Old Ironsides. You control these forces.
+
+So you control CCB operating on both flanks + the suicide attack on Oran harbour. The AI controls the troops of 1st Infantry Division and the supporting air and naval assets. 
+
+Your mission is to capture Oran, it's harbour, la Senia Naval airfield and Tafaraoui Air Force airfield. The French are expected to resist the landings.
+
+Expect no reinforcements except for the 2/509 Parachute Infantry Bn that is flown in from the UK in turn 2. The French Oran Division is in charge of the defense of the area.
+
+ORDERS
+Take all victory hexes in 6 turns for BV, 9 turns for V, 12 turns for TV. A Loss ends the campaign.
+
+NOTES: 
+- Units will not be automatically reinforced to strength 10 at the end of the scenario.

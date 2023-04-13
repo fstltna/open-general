@@ -1,0 +1,47 @@
+Damascus
+Village
+Town
+Damascus
+Qatana
+Judaydah
+TA
+59
+60
+8/13C
+9/13C
+14/13C
+13C
+8/2FF
+10/2FF
+43/2FF
+2FF
+2FF
+2FF
+2FF
+2FF
+44/3SA
+45/3SA
+3SA
+3SA
+RAF
+56/5C
+77/5C
+78/5C
+5C
+9/16C
+10/16C
+8/16C
+16C
+3SA
+16C
+SA
+SA
+1/AL
+2/AL
+3/AL
+66/7
+L7
+33/3C FF
+34/3C FF
+3C FF
+35/3C FF

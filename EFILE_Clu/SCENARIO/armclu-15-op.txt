@@ -1,0 +1,11 @@
+The Battle For The Seelow Heights
+
+04/16/1945
+
+In the early hours of April 16, 1945, the battle of Seelow Heights began with a massive bombardment by thousands of artillery pieces and Katyushas. At 0330, well before dawn, the 1st Belorussian Front attacked across the Oderbruch. 
+The initial assault by the 1st Belorussian Front was a disaster. Colonel General Heinrici and General Busse anticipated the attack and withdrew their defenders from the first line of trenches just before the Soviet artillery could obliterate them. The Soviets attacked by the light by 143 searchlights which were intended to be used to blind the defenders. However, the searchlight illumination was diffused by the morning mist and made the attacking Soviet infantry easy targets as they were silhouetted for the Germans to see. The swampy ground proved to be a great obstacle and the well dug in Germans made Soviet casualties enormous.
+Zhukov threw in his tank reserves, which in his plan were to be held back to exploit the expected breakthrough. This caused huge chaos and casualties rose again...
+
+This a reversed and modified version of my PBEM-scenario.
+You have to hold Seelow (12,12 and 13,12), Jahnsfeld (02,15), Neutrebbin (02,01) and Neuhardenberg (03,07) for a BV, three (3) of them for a V and two (2) of them for a TV.
+You can purchase units with strength 10 but no experience.

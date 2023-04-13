@@ -1,0 +1,15 @@
+Pursuit to Tobruk
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Herr General: The General Staff has decided that you should lead the attack against the British in North Africa.  Their will to fight has by no means been broken.  If we can push the English out of North Africa, we will gain access to the Suez Canal and the oil-rich Middle East.
+
+Victory Conditions:
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Take all VHs.
+
+Note to players
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+Since the following scenario takes place only a couple of days after this scenario, the following options are disabled at HQ after this scenario - autosupply, autorefit. upgrade, purchase . Thus all purchases/upgrades for both Tobruk scenarios has to be made at HQ in THIS scenario
+
+Scenario Credits:
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Standard SSI original scenario with a few modifications by Jan Hedstrom

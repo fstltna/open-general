@@ -1,0 +1,55 @@
+Taman Bridgehead : Evacuation
+Sea of Azov
+Kurortne
+Lake
+Kerch Straight
+Zaporozhskaya Gulf
+Baherove
+Kerch
+Zaporozhskaya
+Kerch Port
+Tamans'ka Gulf
+Gornostayevka
+Arshintsevo
+Temryuk
+Taman Port
+Starotltarovskaya
+Black Sea
+Marivka
+Zavitne
+Yakovenkovo
+Gostagayevskaya
+Anapa Port
+Anapa
+/370 ID/[49]/17 Armee
+/50 ID/[49]/17 Armee
+/[49]/17 Armee
+/79 ID/[44]/17 Armee
+/98 ID/[44]/17 Armee
+/97 JD/[44]/17 Armee
+/[44]/17 Armee
+/73 ID/[5]/17 Armee
+/9 ID/[5]/17 Armee
+/13 PzD/17 Armee
+/6 CD/17 Armee
+/3 MD/17 Armee
+/9 CD/17 Armee
+/101 JD/17 Armee
+/125 ID/17 Armee
+/1 MD/17 Armee
+/4 MD(r)/17 Armee
+/4 MD/17 Armee
+255 Bde/18 Army
+83 Bde/18 Army
+81 Bde/18 Army
+290 NKVD Bde/18 Army
+107 Bde/18 Army
+8 Gds Bde/18 Army
+/176 RD/18 Army
+/318 RD/18 Army
+/89 RD/18 Army
+/5 Gds Tk Bde
+/63 Tk Bde
+/55 GD
+/5 LFD
+/[5]17 Armee

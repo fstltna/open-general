@@ -1,0 +1,13 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 515  '  KV-1A  [ TK  Soviet Union]  Cost: 612
+ 520  '  T-26 M39  [ TK  Soviet Union]  Cost: 372
+1496  '  ZIS-42 37mm ZP 39  [FlaK  Soviet Union]  Cost: 372
+1552  '  Pe-8  [ LB  Soviet Union]  Cost: 1164
+1555  '  Su-2  [ TB  Soviet Union]  Cost: 552
+1561  '  T-28E  [ TK  Soviet Union]  Cost: 456
+1562  '  T-28M  [ TK  Soviet Union]  Cost: 480

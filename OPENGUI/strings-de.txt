@@ -1,0 +1,916 @@
+* Warning !!
+* Do not removed neither insert lines (unless specifically told).
+* This file is provided as a template to allow game ui
+* to be translated to a different language
+*
+* Edit every line trying to keep same length as much as possible
+* Save changes as "Strings-XX.txt" replacing "XX" sufix with your language
+* ISO 639-1 code (http://en.wikipedia.org/wiki/ISO_639-1)
+* Be sure your file is in your main OPENGUI folder
+*
+* To see your progress, start OpenGen and pick your new code in language combo
+* To return to default English UI, pick "Default English text" in the combo
+* Language file is loaded at start and evertime a game is loaded, so to see
+* your last changes, either load a different game or restart OpenGen.
+*-------------------------------------------------------------------
+*
+* These sections can be redefined at efile level
+* by using STRINGS_EFILE.txt in efile folder
+* but you cannot remove from this file
+*
+* [terrain] ... can be redefined
+Offenes Gelände
+Stadt
+Flughafen
+Wald
+Dickicht
+Hügel
+Berg
+Sand
+Sumpf
+Ozean
+Fluss
+Befestigung
+Hafen
+Strom
+Böschnung
+Unpassierbarer Fluss
+Raues Gelände
+Custom (wird nicht genutzt zur Zeit)
+Straße
+Schienen
+
+* [sides] ... can be redefined
+Achse
+Allierte
+
+* [classes] (units) ... can be redefined
+keine Klasse
+Infanterie
+Panzer
+Aufklärer
+Panzerabwehr
+FlaK
+Befestigung
+Boden-Transport
+Zug-Transport
+Artillerie
+Luftabwehr
+Jagdflugzeug
+Taktischer Bomber
+Horizontal Bomber
+Luft-Transport
+Helicopter-Transport
+U-Boot
+Zerstörer
+Schlachtschiff
+Flugzeugträger
+See-Transport
+Schlachtkreuzer
+Kreuzer
+Leichter Kreuzer
+	
+* [targets] ... can be redefined
+Weich-Bodenangriffswert
+Hart-Bodenangriffswert
+Luft-Angriffswert
+See-Angriffswert
+
+* [spaces] ... can be redefined
+Boden
+Luft			
+
+* [movement] ... can be redefined
+per Ketten
+auf Halbketten
+mit Rädern,
+zu Fuss
+Stehend
+in der Luft
+in Tiefer See			
+an der Küste
+in alle Terrain
+Amphibisch
+See
+im Gebirge (zu Fuss)
+auf Schienen
+Helicopter
+
+* [transports] ... can be redefined
+keine Transportmöglichkeit
+Seetransport
+Luft
+Fallschirm
+Zug
+Helicopter
+
+* [results] ... can be redefined
+Glorreicher Sieg 
+Sieg
+Taktischer Sieg
+Niederlage
+	
+*----------------------------------------------- 
+*
+*** From here texts cannot be redefined
+*** only translated
+*
+*-----------------------------------------------
+
+* Weather
+Klar
+Bewölkt
+Regen
+Schnee
+
+* Ground condition
+Trocken
+Gefroren
+Schlammig
+
+* Months
+Januar
+Februar
+März
+April
+Mai
+Juni
+Juli
+August
+September
+Oktober
+November
+Dezember
+
+* Combat messages
+zerstört %d  unterdrückt %d
+Sturmangriff
+Angriff
+Angriff
+Sperrfeuer
+Verbissene Verteidigung
+Überraschungskontakt
+Angriff aus der Sonne!
+Hinterhalt!
+Abfangjäger!
+Luftabwehr
+Artillerieunterstützung
+Nahes Unterstützungsfeuer
+Angriff abgebrochen
+Angriff abgebrochen wegen Unterstützungsfeuer!
+U-Boot entkommt
+U-Boot taucht 
+Aus dem Hafen fliehen
+Feuer unterdrückt
+Kapitulation
+Rückzug vom Schlachtfeld
+
+* game messages
+Verstärkungen sind angekommen.
+Wollen Sie Lufttransport?
+erfolgreich gespeichert
+SPEICHERN UNMÖGLICH. FEHLER.
+Wollen Sie diese Einheit wirklich entlassen?
+Falsches Passwort
+Herzlichen Glückwunsch zu Ihrem Sieg!
+
+* Menu Main
+E-File Ordner auswählen
+Ein Scenario spielen
+Eine Kampagne spielen
+Vielspielerscenarien
+per E-Mail spielen
+Überblick über die besten Karrieren
+Szenarioeditor
+gespeichertes Spiel laden		
+Video/Scroll-Einstellungen
+Load commands logged to file (xlog file)		
+Spielintro zeigen
+credits zeigen			
+Spiel beenden
+
+* Menu Game
+Nächste Einheit
+Rückzug
+Kaufmodus
+Aufstellen
+Hauptquartier
+Luftmodus
+Strategische / Normale Karte"
+Zug des Gegners wiederholen
+Chat
+Zusätzliche Optionen
+Vollbild
+Zug beenden
+Spielfunktionen
+Video/Scroll Einstellungen
+
+* Menu Additional options
+Statusbericht
+Scenario-intro
+Hot-Key Liste zeigen
+Gelände zeigen
+Hexagonseiten ein-/ausschalten
+Musik ein/aus
+Soundeffekte ein/aus
+Zeige auch Kampfergebnisse auf der Karte
+Zeige die sichtbaren Hexe an
+Einheitsstaerken und Kampfeinschätzung ein-/ausschalten
+Feuerreichweite der ausgewählten Einheit
+Video und andere Optionen
+Menü beenden und zum Spiel zurückkehren
+
+* Menu Requisition
+Luft- und Bodenansicht / See-Einheiten
+Luftabwehr wählen
+Luftabwehr wählen
+Befestigung wählen
+Panzerabwehr wählen
+Artillerie wählen
+Infantrie wählen
+Aufklärer wählen
+Panzer wählen
+Jagdflugzeuge wählen
+Taktische Bomber wählen
+Horizontal Bomber wählen
+U-Boot wählen
+Zerstörer wählen
+Schlachtschiff wählen
+Flugzeugträger wählen
+Schlachtkreuzer wählen
+Kreuzer wählen
+leichten Kreuzer wählen
+Einheitsname
+Einheit auflösen
+Beenden
+
+* Menu dossier
+After Action Report
+Beenden
+
+* Menu Headquarters
+Dossier
+Einheit inspizieren
+Einheit auswählen
+Kaufmenü
+Überstärke
+Einheit aufrüsten
+Einheit verkaufen
+Spielfunktion
+Armee aufbauen
+Beenden
+
+* Menu Units
+Auf / Absetzen
+an Bord gehen/von Bord gehen
+Nachschub
+Ersatz schicken
+Einheit umbenennen
+Beenden
+
+* Menu Deploy
+gekaufte Einheit
+Luftmodus
+Strategische / normale Karte
+Hexumrandung sehen
+Beenden
+
+* Browse list
+nach oben
+vorherige Seite
+Zeile nach oben
+Zeile nach unten
+nächste Seite
+nach unten
+
+* Dialog Tips
+Leader
+Transport						
+Land
+Erfahrung
+Erfahrungslevel
+Treibstoff
+Munition
+Einheitsstärke
+Reichweite
+Initiative
+Sichtweite
+Bewegungsart
+Angriff auf harte Ziele
+Angriff auf Weiche Ziele
+Luftangriff
+Seeangriff
+Bodenverteidigung
+Luftverteidigung
+nahe Verteidigung
+Fern-Verteidigung
+Klasse
+Kosten
+Feld Hauptquartier
+Neue Einheiten verfügbar
+Kaufmodus
+Upgrade-modus
+Einheitsansicht
+Verluste verursacht
+Verluste erlitten
+HIGH scores
+LAST scores
+Wechseln zum letzen Punktestand
+Wechseln zum höchster Punktestand
+Strategische Karten mit Nachschubhexen und ohne Einheiten
+Verfügbares Prestige: %d
+kein Ersatz/Überstärken möglich
+Ersatz/Überstärken Einheit * Kosten=%d
+kein Ersatz/Überstärken Einheit Kosten=%d > %d
+Länderwechsel
+keine Daten vorhanden
+Beenden
+
+*----------------------------------------------------------------
+* Windows type dialogs : Warning keep lenght as much as possible
+*----------------------------------------------------------------
+* LOAD_SCN
+Spieler 1
+Spieler 2
+EFile Ordner
+Zeige alle Scenarien (auch die versteckten)
+nach Dateinamen sortieren
+Spieler 3
+Spieler 4
+Filterdatei
+PG3D Mod
+ 
+* LOAD_SAVES
+Spieler 1
+Spieler 2
+EFile Ordner
+Erfasse als PG3D Szenario SAV
+Erfasse als PG3D Kampagne CSV
+Spiel laden
+Erfasse Einzelszenario XSAV
+Erfasse Kampagne XCSV
+Filter
+nach Datum sortieren
+	 
+* HOTKEYS
+OpenGen Hotkeys
+Ansicht Stategische Karte
+Scroll  Karte
+zentrieren auf angewählter Einheit
+Zeige Kampfverluste in der Karte
+Geländeeigenschaften anzeigen
+Beenden (Menu, Dialog der Spiel)
+Hotkeys
+Luft/Bodenmodus
+letzten Zug ansehen
+Zeige Zugzusammenfassung
+Bewege die Einheitsliste (Deploy HQ,...)
+Hilfe für Spezialfähigkeiten
+In den Windowsmodus
+Zeige Scenariointro
+Ein/Aus sichtbare Felder
+Ein/Aus Einheitstärke + Verluste
+Ein/Aus Modus: Bewegung / Sperrfeuer
+Zug beenden
+geänderte Einheit 
+Depliegue
+Feld-Hauptquartier
+nächste Einheit 
+Ersatz
+Dossier
+..nicht jetzt
+Aufsetzen/Absetzen
+Zeige Zug log
+Vorherige Einheit
+Beende das Spiel
+Zeige Einheit
+Bewegung rückgängig
+Zeige Debug report
+Pop-up Fehler im Bildschirm
+Ein/Aus Reichweitenlinie
+Ein/Aus Sichtbare Hexe
+Ein/Aus box to highlight selected item
+Spritstand An/Aus
+Lade gespeichertes Spiel
+zeigen den letzten Kampfreport
+speichere den aktuellen Spielstand
+Einheit nachladen (wenn möglich)
+Radeinheit when stacked
+Auto-guardar
+Kaufmenu
+Begeben Sie sich / von Bord
+Soundauswahl
+Musikauswahl
+Stärkenfelder Auswahl
+Enthält Rateinheit
+Report Fehler
+Neuladen der Kartendatei
+Ein/Aus VH/SH Daten auf der Karte
+Ein/Aus "Fog of War" Effektes auf der Karte
+Abandon unit's transport
+Zeige Bewegungspfad 
+Wechsle die Musik 1/2
+Ein/Aus Einheitsstatistik 
+
+* PEBM SPECIAL CODES
+PEBM codes (@)
+Lufttransportierbar
+Fallschirmjäger
+Gebirgsjäger (leg) Bewegungsmethode
+Brückenbau
+Ingenieur
+Ausklärungswert (phased movement)
+Auspacken bei Angriff (jump out transport)
+Artillerie ohne Unterstützungsfeuer
+Unterstützungsfeuer
+Bodenangriff für Luftabwehr und Flaks
+Kampfunterstützung
+Flak - Kann Flieger angreifen
+Flugzeugträger, Nachschub für Flieger
+Hexeroberung
+Flieger Flugzeugträger Nachschub
+Air Liftable ground transport
+Pionier 
+Mechanische Einheit
+meinen Sie weitere Attribute ohne Buchstaben-Kennung zu haben, so müssen Maus bewegen um sie zu überprüfen.
+kann Sperrfeuer (bombard)
+Marine
+
+* SCN_INTRO
+Szenariotitel
+Zeige Kampagnenintro
+
+* LOAD_CAM
+Spieler 1
+EFile Ordner
+# Szenarien
+Überprüfung Karte (no DL)
+Überprüfung && DL fehlgeschlagen
+Überprüfung && DL automatisch
+KI
+Nach Dateinamen sortieren
+
+* SCN_END
+Kampagnentitel\Szenarientitel
+Ende !!! -  
+Glorreicher Sieg
+Zuganzahl xx
+Datum
+Du hast alle Gegner vernichtet
+Punkte
+	 
+* NAME_UNIT
+Einheitsnahme
+	 
+* SELECT EFILES
+Files im Ordner
+EFile Ordner
+Erstelle neuen File Ordner: (type relative path)
+
+* MEDIA SETTINGS
+MEDIA Menü
+Spiele Musik
+Spiele Sounds
+Spiele Videos
+Default Music1:
+MAX
+Lautstärke
+Intro : 
+Musik Intro: 
+Lautstärke
+MAX
+Misc Sounds (Click...)
+MAX
+Lautstärke
+Schlechtwetter-Sound
+MAX
+Lautstärke
+Verwende MCI anstelle von DirectShow
+läuft gerade:
+nichts läuft gerade ...
+Default Music2:
+
+* PICK_SAVEGAME
+Spieler 1
+Spieler 2
+vorhandene Datei               Ordner:
+Neu anlegen
+Ordner
+Typ
+aktuelles speichern :
+Titel
+Erfasse PG3D gespeichertes Spiel
+
+* INFO
+Titel
+Fortschritt
+
+* BROWSER
+Laufwerk:
+Aktuelles Verzeichnis:
+Dateityp:
+Titel
+Dateiname:
+Current dir
+
+* AAR SETTINGS
+Erfasse Einheitsname
+Erfasse Land
+Erfasse Basisstärke
+Erfasse Anzahl der vernichteten Einheiten
+Forum codes
+Erfasse Stärke (Aktuell /Basis)
+Excel CSV
+Erfasse Averages
+vergleiche gespeicherten Spielstand
+Erfasse gespielte Szenarien
+Erfasse Einheitsnummer
+Erfasse Einheitszusammenfassung
+After Action Report Optionen
+Erfasse PBEM code
+nutze die Armee nach dem Kampf (nutze die Basisstärke)
+Erfasse Spielpunkte
+
+* LOAD_EML
+Neues Spiel
+Spiel laden
+Spiel per E-Mail
+Efile Ordner
+efolder
+Spieldatei
+efolder
+
+* SCREEN SETTINGS
+Scroll Geschwindigkeit (pixel displacement)
+Bildwiederholfrequenz (timer speed) ms
+Frames / hexpos beim Bewegen von Lufteinheiten
+Zusätzliche Verzögerung auf jede Bewegung für Full Frame 
+Frames / hexpos beim Bewegen von Bodeneinheiten
+Bildschirmeinstellung
+Verzögerung für Einheit Rotation. Stellen Sie 0 für keine Rotation
+Verzögerung für Feuer und Explosions-Animationen
+
+* BUGREPORT
+Hänge keine Datei an
+Erfasse letzten AUTOSAVE
+Erfasse Datei:
+Zusammenfasstung(up to 60 chars)
+Details 
+Erstellt von: (your name)
+Erstelle Werkzeug in den SourceForge-Track System (entweder bug oder Anfrage)
+angehängte Datei:
+Kann aktuelle Staus und Antworten zu überprüfen, Eingabe von SourceForge Track System at:\nhttps://sourceforge.net/tracker/?group_id=355449
+
+* GAME SETTINGS
+Zerstören erlauben
+Reparieren erlauben
+Spieleinstellungen
+... gilt für Brücken, Häfen, Flugplätze && Städte 
+Bauen erlauben
+Sperrfeuer erlauben 
+Schlachtschiffe und Kreuzer können Lufteinheiten angreifen
+Wahre Reichweite 0 (kann nicht auf umliegende Verhexungen zu feuern)
+Wahre Sichtweite 0 (kann keine benachbartes Hex ausspähen)
+Vollbild erlauben (row, col  0)
+Berge, Städte && Wald blockieren direkte LOF selbst wenn Bereich >2
+befreundete Einheiten blockieren auch LOF (außer wenn besondere Licht)
+Erweiterte LOS Regeln (Wald, ... blöckiert LOS, Lufteinheit limitiert LOS)
+Lufteinheit verlängert ZOC (wie Bodeneinheiten)
+Lufteinheiten werden beschossen, wenn sie in die Reichweite einer Luftabwehr gerät
+KI auswählen
+Straßeneigenschaft (wird beim betreten aktivert, nicht beim verlassen)
+Erlauben Straßen auf jedem Terrain (auch Meer)
+Verstärkung triff ein, wenn der Spieler aktiv ist bzw. dran ist
+Core-Einheiten können vom Designer zurückgesetzt werden und zählen nicht (Standard im gekauften Zustand)
+Verwende Szenarioeinstellung
+Verwende Registereinstellung
+Deaktivierte KI
+
+* MAIN SETTINGS
+Video Mode:
+Doppelklicken auf einen beliebigen Listeneintrag und diesen zu benutzen
+letzte verwendete Datei
+aktueller Video Mode
+geladene Datei
+Karten Image:
+EFile geladen
+Spiel Ordner
+EFile Ordner
+DatFile geladen
+Medien Einstellung
+Szenarien Einstellung
+A.A.R.Settings
+Breite x Höhe x bpp
+Bildschirmeinstellung
+Schriftart
+Shop-Einstellung auf der Festplatte
+PG3D mode:  ON
+versuche erst die Karte im jpg-Format herunterzuladen (danach in png-Format) 
+Benutzer-Interface-Einstellung
+
+* USER SETTINGS
+Zeige die Eplosionen auf dem Kurs
+Deaktivieren Log-Befehle auf der Festplatte (so wird er später nicht wiederholen)
+Benutzer-Interface-Einstellung
+Doppelklick um zur strategischen Karte zu wechseln
+Die Geländeart immer anzeigen
+Wetteranimation im Systemspeicher laden
+Zeige die Wetteranimationen
+Deaktivieren von Text-logs (KI Zug, debug)
+PG3D mode:  ON
+Zeige Explosion statt Aufgabe
+Zeige Tipps
+Verstecke Einheitsstärke und Kampfprognose
+Zeige auch Kampfergebnisse in der nähe liegender Einheit
+Verstecke die Treibstoffwarnung bei Fliegern
+Zeige Gelände- und Straßeneigenschaften
+Zeige Feuerreichweite
+Verstecke VH/SH Information auf der Karte
+Zeige Hexgitter
+Info auf der Karte
+Zeige "Fog or War" Effekt auf der Karte
+Wähle die Sprache aus
+
+* GAME_OPTIONS
+Neues Spiel
+Spiel laden
+Spiel speichern
+Spiel beenden
+Klicken Sie doppelt auf ein beliebige Daten, um eine aktuelle Datei zu laden
+aktuelle Datei
+EFile
+
+* PASSW
+Passwort eingeben
+
+* MISC FORMATTED TEXT
+Wetter ist %s
+Spieler %d * %s
+Seite:%d (%s) * %s  %s
+aktuelles Presstige : ?
+aktuelles Prestige : %6d
+Prestige Einstellung: %6d
+Halte %d VH
+letzter Zug
+%d Züge
+Einheiten zur Flucht: %d  (turn: %d, %d, %d for GS,S,TS)
+Einheiten zur Flucht: %d
+Verhindere Flucht von %d KI Einheiten (Zug: %d, %d, %d for BV,V,TV)
+Verhindere Flucht von %d KI Einheiten
+vermeide Flucht von %d Einheiten (Zug: %d, %d, %d for GS,S,TS)
+vermeide Flucht von %d Einheiten
+Ausgewählte Einheiten müssen überleben: %d  (Zug: %d, %d, %d for GS,S,TS)
+Ausgewählte Einheiten müssen überleben:%d
+Ausgewählte Einheiten zerstören %d (Zug: %d, %d, %d for GS,S,TS)
+Ausgewählte Einheiten zerstören %d
+AI version: %s  %s
+Pg3D Mode
+OG Mode
+Win
+Vollbild
+Vollbild: %4d x %4d x %2d  %s
+Win %4d x %4d x %2d  %s
+Spieler 1: %s
+Spieler 2: %s
+%d scenarios
+S1: %s - %s
+S2: %s - %s
+S3: %s - %s
+S4: %s - %s
+Szen: %s * Zug:%d
+Kam: %s\r\nSzen: %s * Zug:%d 
+Scenario Punkte: (keine score)
+Scenario Score : %d
+
+* -------------------------------------
+* Pop Messages
+* not so critical about lenght of text
+* -------------------------------------
+Szenario [%s]\n nicht gefunden ...
+Wollen Sie das aktuelle Szenario erst speichern?
+Wollen Sie Lufttransport?\nSeien Sie sich bewusst, Sie kann dies später nicht mehr nachholen
+Wollen sie den Transport verlieren? wenn ja ann fortsetzen ...
+Warnung, du greift ein befreundetes hex an\nWillst du dies wirklich tun?\n
+\n Bist du sicher den Zug zu beenden? \n
+Einheit baut, willst du den Prozess wirklich abbrechen?
+Einheit:%d   %s  -  %s\nWillst du wirklich den Transport aufgeben %s   Bewegung: %d ?
+\nBestätigen Sie die Neuzuordnung der Einheit?\n
+Willst du wirklich die Einheit neu zuordnen ..\n\n%s %s \n
+Bitte bestätigen Sie die Erstellung in dem Ordner ...\n%s\n%s\n%s
+Wollen Sie die Datei löschen ...\n%s\n
+Überprüfung der Kampagnen Datein ... \nWillst du jetzt abbrechen? \n
+\nWillst du wirklich die Karte neu laden? \n
+Einheit hat keinen Treibstoff,du kannst sie nicht bewegen!\nWillst du wirklich den Transport verlieren?\n
+Willst du wirklich in den Suite wechseln? 
+Willst du wirklich beenden? ...
+
+Dice wird getestet(1,20) %d Zeit\n
+Efile hat %d Einheite\nNur erste %d Einheit wird geladen\n
+%s nicht befunden ...\nKein Equipment Name verfügbar\n
+Kam-Datei [%s]\nnicht gefunden ...
+Efile Ordnen wechsteln zu\n\n%s
+XLOG replay durch Benutzer abgebrochen ...
+Ende des XLOG replay ...
+Nicht öffnenbar %s\n... abgebrochener Test\n
+%s\nerfolgreich gespeichert
+Fehler beim Speichern:\n%s
+ SZenario [%s] \n nicht befunden ... 
+Fehler ...\nSpiel ohne Karte nicht möglich, Karte unbekannt\nAbbruch ...\n
+gespeicherte Datei [%s]\nnicht gefunden ...
+Es ist keine PG 3D csv-Datei, vielit ist es eine MS-Excel-Datei?
+Es ist keine OpenGen Speicherdatei!
+Date kann nicht erstellt werden\n%s \n
+Warnung ...\n %d Einheit mit falscher Position auf der Karte\n Hat sich auf Position (1,1) verschoben
+Keine Kartendatei ist definiert ...\noder fehler beim laden des Szenarios\nKeine Hintergrund-Karten-Bild wird angezeigt...
+fehlende Kartendatei %s ...\nund es wurde auch keine vergleichbare gefunden ...\n
+Kartendatei konnte nicht geöffnet werden: %d\nkeine Hintergrund-Karte wird angezeigt...
+Karte erfolgreich neue geladen\n
+Mine erfolgreich geborten ...\n
+Minenbergung fehlgeschlagen!\neine Unterdrückung für den Rest des Zuges\n
+Ende des Replay...
+Spiel geladen ok
+Versuch zu Speichern als as xEml Datei ...\n%s \n
+Kein gülitger Dateiname für xEml Datei ...\n
+Keine E-Mail Datei [%s]\n
+zu große Karte ...
+%d Einheit wurde auf der Karte neue zugeordnet
+KI anhalten, drücke F5 um fortzusetzten oder ESV um abzubrechen ...
+KI anhalten, drücke um fortzusetzten ...
+das Offnene der Kampagnen Datei ist fehlgeschlagen: %s\nkonnte nicht geprüft werden..
+vom Benutzer abgebrochen ... \n
+Kampagne: %s\nüberprüft %d Szenarien\nKeine kritischen Datein fehlen
+Einheit:%d %s auf der falschen Position aufgestellt (%d,%d)\nBitte Beachten Sie die aktuelle AUTOSave-Datei* ..\nVor dem Beenden des Zuges alles überprüfen\n
+Absitzen nach der Bewegung nicht möglich!
+Spieler %d, können keine Einheiten mehr kaufen\nverfügen bereit über %d Einheiten\n
+Es können keine Einheiten mit der Stärke von 0\n gekauft werden. Bitte korrigere die Einstellung im Suite
+Schlechtwetteranzeige - Nächstes Wetter()\n
+Schlechtwetterperionde - Nächstes Wetter()\n
+%s bereits vorhanden ...
+\nDer Ordner wurde erstellt:\n%s\n%s\n%s
+%s ist kein gültiger Spielordner ...
+Fehler...\n
+Maximalanzahl von Namen erreiche\nkeine neuen Namen möglich
+Verwenden Sie aktuelle Suite zu OpenGen Optionen auf jedes Szenario
+Falsches Passwort verwendet\nVersuche es erneut ...
+Zu lange gewartet\n... Drücke eine Taste zum Programmabbruch\n
+Seed erfolgreich gespeichert
+kann nicht erstellt werden\n%s
+Seed erfolgreich geladen
+Kann nich geöffnet werden\n%s
+Keine Nachschub möglich...
+Keine Neuaufstellung möglich...
+\nSuite musst im Hauptordner des Spiels abgelegt werden\n
+Rückzug des Verteidigers!
+ %s \n Es ist wurde keine gültige dat-Datei im Spiel Ordner gefunden! \n Bitte wähle einen gültigen Spiel-Ordner \n
+Fehler !\nImmer noch kein gültiger Spiel-Ordner. So wirst du nicht in der Lage sein zu spielen\n
+Die Datei konnte nicht geschrieben werden\n%s\nEinstellungen wurden in der registry gespeichert...\n
+ Es wird überprüft die Karte herunterzuladen %d\n Bitte warte...
+gespeicherte Datei [%s]\nnicht gefunden ...
+Nicht genügend Videospeicher, um das Spiel zu starten\nKlicken zum Beenden...\n
+Abbruch - Überprüfe die Kampagne\nBitte Warten...
+
+* Lines added after first template version
+Keine Datei geladen
+Kein Bild
+Wähle Musikdatei aus
+Wähle Introdatei aus
+Wähle Introvideodatei aus
+OpenIntro  (im Haupt SOUND Ordner)
+? erhöhen sie die Hilfe für @ codes. Nutze PgUp/PgDown zum Scrollen in der Liste
+Für dieses Szenario sidn Upgrade deaktiviert
+AAR (after action report)
+Armeekosten: %d  * aktuelles Prestige: %d  * %s
+Ordner
+Neues Equipment seit dem letzten gestarten Szenario verfügbar
+Neues Equipment in diesem Monat verfügbar
+
+* mehr aufstellbar
+Karte wird überprüft, drücke ESC um abzubrechen und zur normalen Ansicht zurückzukehren
+Wetter ist: %s (%d Züge bis zur Änderung)
+Zug: %d / %d
+Armee
+Armee kostet
+Nutzen: %d
+Bodenbeschaffenheit: %s
+ <drücke D um abzusetzen>
+ <drücke A um abzuspringen>
+ <drücke N um anzulanden>
+ <gesprengt>
+  bauen: %s -%d
+Klicke um Transportinfos zu sehen
+Ctrl+T um aufzugeben
+keine
+Du hast einen Prototyp erhalten
+Chance für einen Experten %d%%
+Sieghex ist zu halten
+%d Einheiten zum Ausgang
+Zug
+Bombengröße
+Bewegen
+nicht gefunden
+Einheitsname
+überprüfe Kampagne
+Szenario #%d [%s.scn]
+Szenario text file [%s.txt]
+Szenario #%d [%s]\n[mapfile: %s.map]
+Szenario #%d [%s]\n[map picture #%d]
+kritischer Fehler gefunden
+wird herruntergeladen
+auch im Internet
+aus dem Internet geladen
+drücke ESC um abzubrechen ...
+
+das Szeanrio kann nicht geöffnet werden #%d [%s] überprüfe die Karte\n
+Szenario #%d [%s] hat keine Kartendatei definiert\n
+das Szeanrio kann nicht geöffnet werden #%d [%s] überprüfe die Karte\n
+Szenario #%d [%s] hat keine Kartendatei definiert\n
+Gefunden %d fehlende Datei der Kampagne%s\n
+%d Datei wurde heruntergeladen\n
+Es gibt noch %d fehlende Datein
+Alle fehlenden Dateien wurden aus dem Internet heruntergeladen 
+AP:%d  Festung:%d  Hafen:%d  Brücke:%d pp
+klicke um das Dossier anzusehen
+
+* Special attributes
+Fähigkeiten
+Keine Fähigkeiten
+Fallschirmspringer
+mit Flieger transportierbar
+Gebirgsjägerfähigkeit
+Brückenleger
+Ingenieur
+Aufklärereigenschaft
+keine Bewegung nach dem Angriff
+Kann nach dem Angriff wegfliegen
+Kein Unterstützungsfeuer
+Unterstützungsfeuer
+Bodenangriffsfähigkeit für Luftabwehren
+Kampfunterstützung
+kann Flieger angreifen
+Flughafen - aufstellen und Nachschub für Flieger
+kann Hexe erobern
+Kann auf einem Flugzeugtrager nachschub holen
+Lufttransport
+Pionier kann sprengen, reparieren, bauen und minen legen und bergen!
+kann bauen und reparieren
+kann Minen räumen
+Mechanisch, kann bewegen und dann angreifen
+Marine, kann an Land gehen und sich gleich bewegen
+kein Kapitulieren bei Unterdrückung
+auspackbar nach dem Bewegen
+kann keine Feld-Flughafen nutzen
+Kann innerhalb der vollen Feuerreichweite bombardieren
+Einheit kann feindliche LOS beschneiden
+Einheit kann keine LOF beschneiden
+Einheit kann ZOC nicht ausüben
+Einheit kann ausweichen wie U-Boote
+Kann Sperrfeuer dauerhaft unterdrücken
+Langfristige Unterdrückung
+Kann keinen Leader bekommen
+Kann anhaltende Unterdrückung ausüben
+Allwetterfähigkeit
+Kann überrennen
+Kann nicht überrennen
+Keine Bewegung nach dem Feuern möglich
+Kann keinen Flieger abfangen
+Kann per Zug transportiert werden
+Kann per Helikopter transportiert werden
+
+* Leaders
+Hartnäckige Verteidigung - Verteidigung Bodenangriff +4
+Aggressive Vorgehensweise  - Bewegungsradius +1
+Ausgezeichnete Fähigkeiten - Sichtweite +2
+Vernichtet Panzer - Panzerabwehr schiesst nach Bewegung ohne Wirkungsverlust
+Scharfschütze - Artilleriereichweite +1
+Erfahrene mech. Artillerie - Kann fahren & dann feuern
+Hochentwickelter Abfangjäger - Mehrere Abfangaktionen pro Zug
+Ausgeklügelter Angriff - Bomber kann nicht überrascht werden
+Aggressiver Angriff - Angriff auf harte und weiche Ziele +2
+Eiserne Verteidigung - Verteidigung Boden- und Luftangriff +2
+Einsatz auf dem Schlachtfeld - Kann nicht überrascht werden
+Erstschlag - Einheit feuert zuerst, wenn sie Initiative gewinnt
+Unverwüstlichkeit - Kann nur sehr schwer zerstört werden
+Einfluss - Halber Preis für Aufrüstung, Ersatz und überstärke
+Munitionsbeschränkung - Benutzt Munition mit halber Rate
+Befreier - Doppeltes Prestige bei Einnahme einer Stadt
+Gebirgstraining - Bewegungsrate im Gebirge und Wald wie Flachlandrate
+Allwettertauglich - Nicht betroffen von Wetterbedingungen
+Tarnung in Waldgebieten - Nur angrenzende Feinde sehen diese Einheit
+Kampfunterstützung - Bonus für benachbarte Einheiten (erfahrungsabhängig)
+Pionier - Kann Brücken baün und ignoriert Verschanzung des Feindes 
+Aggressives Manöver - Bewegungsradius +1
+Hochentwickelte Fähigkeiten - Sichtradius +1
+Aufklärung - Beliebige Bewegungsphasen in einem Zug
+Erweiterter Luft/Bodenangriff - Bonus bei Angriff auf Bodeneinheiten
+Strassenkämpfer - Ignoriert Verschanzung in Städten
+Verheerender Angriff - Unterdrückung wird anteilig in Verluste umgerechnet
+Ausgezeichnetes Manöver - Kann Kontrollzonen durchfahren
+Erweiterte Front - Unterstützungsfeuer für befreundete Einheiten
+Heftige Verteidigung - Eigene Verschanzung gilt immer (auch gg. Pionier)
+Kontrolle - Greift Feindeinheit in Reichweite automatisch an
+Anhaltendes Feuer - Einheit kann 2x schiessen
+Brücke bauen - Flüsse werden als rauhes Terrain gewertet
+Anhaltende Unterdrückung - Unterdrückung gilt für den ganzen Zug
+Flak Unterstützung : Unterstützungsfeuer und mehrfache Unterstützung
+
+

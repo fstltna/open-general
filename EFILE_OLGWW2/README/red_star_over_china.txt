@@ -1,0 +1,102 @@
+*** Red Star Over China Open General Version ***
+By Santiago Fuertes - LG 2007 - 2011 - http://gilestiel.nerim.net/lg/
+
+*** BACKGROUND.
+
+It's time of blood and revolution. After the chaotic first years of the 19th century, the chinese people would rise agaisnt their oppressors: the landlors and warlords of China. Sun Yat Sen is died, and his succesor, Chiang Kai Shek, is just looking to increase his own power and destroy the Communist Chinese Party (ChCP), the only true rival for the Kuomingtan (KMT) in China. But, the enemies from abroad are also looking the chinese problems, and they are ready to attack the sacred chinese soil.
+
+The asian situation is not easy today, and the Chairman Mao needs men like you. Are you ready to become a ChCP commander and deal with the KMT, the japanese invasion of China and the capitalist powers?, or maybe your ambition will take you to bigger objectives?...
+
+*** SCENARIOS.
+
+Nanchang Uprising
+Autumn Harvest Uprising
+Jiangxi Soviet
+Long March - Luding Bridge
+Pingxingguan Pass
+100 Regiments Offensive
+Central Plains Breakout
+Linjiang Campaign
+Summer Offensive 1947
+Winter Offensive 1947
+Pyongyang Liberation [Korean War]
+Chosin Reservoir [Korean War]
+Hungnam Pocket [Korean War]
+UN Counterattack [Korean War]
+Spring Offensive [Korean War]
+Pusan Revisited [Korean War]
+Taiwan Strait - Nuclear Crisis
+Sino - Soviet Incident
+Great Leap Forward
+
+*** REQUERIMENTS.
+
+* Open General program. This campaign is NOT compatible with Panzer General 2.
+
+* MAPS: NANCHANG, CHANGSHA, JIANGXI, LUDING, DATONG, SHANZI, WUHAN, JILIN, MUKDEN, PYONGYANG, CHOSIN WINTER, HUNGNAM, SEOUL2, SEOUL NORTH, PUSAN2, TAIWAN, ZHEN BAO, BEIJING.
+
+Get all the maps from:
+
+http://pg2mapfinder.gilestiel.eu/
+
+Following this link you will have all the maps in the same screen:
+
+http://pg2mapfinder.gilestiel.eu/index.php?search=570,894,912,569,568,572,898,574,573,436,566,901,571,545,575,902,907,440,756
+
+* EFILE: Open LG WW2 1.1 or higher (included). Check for updates the Open LG WW2 section at The Latin Generals website. http://gilestiel.nerim.net/lg/
+
+* BACKGROUND SOUNDS:
+
+Check the proper campaign box at the Latin Generals LG WW2/Campaigns section. The sounds will need to be unziped into the main OG SOUND folder, usually OG\SOUND.
+
+*** SETUP.
+
+1º - Update your PG2. Follow the instructions there:
+
+http://gilestiel.nerim.net/lg/tuto_eng.htm  (In English).
+
+http://gilestiel.nerim.net/lg/tuto_es.htm  (In Spanish).
+
+2º Unzip the campaign.zip file into the SCENARIO folder, usually c:\OG\EFILE_OLGWW2\SCENARIO.
+
+3º Unzip the mapfiles.zip file into the same folder of the 2º step.
+
+4º Unzip the OLGWW2_1.1.zip file into the main Open LG Cold War efile folder, usually c:\OG\EFILE_OLGWW2. Check from time to time for new updates.
+
+5º Unzip the special background sounds (available at The Latin Generals site) into the main SOUND folder, usually, c:\OG\SOUND.
+
+4º Play.
+
+*Comments about the order of battle of the scenarios
+
+This campaign is designed for use a regiment detail level. The order of battle of each unit uses the next scheme:
+
+Regiment (or Battalion)/Division/Army or Corps
+
+I have tried to get all the correct order of battles by date and place. I think I have done a good work, using a lot of sources (not only Internet, but also a lot of books), but maybe I have also done some mistakes. If you think you can help me making corrections on the order of battles, I would like to receive your comments.
+
+*** SPECIAL THANKS.
+
+Juan Carlos Preciado: Author of a big number of icons used on this campaign. Without his chinese and korean icon collections the campaign won't be the same.
+
+Pablo Schlegel: The scenarios ''Pyongyang Liberation'' and ''Hungnam Pocket'' are based his scenarios included on the US Korean Campaign. Both maps, Hungnam and Pyongyang are made by him.
+
+1 Terminator: The English text files of this campaign are completely improved and revised by him, also he has done some playtest also.
+
+Patrick Steinmann: Main playtester of this campaign. His help has allowed me to release the campaign within too many time after finish the works on creating scenarios.
+
+Laahustaja: He has done also some playtest of this campaign.
+
+To all of the people listed above, many thanks for his great help! :).
+
+*******Finally:
+
+These files are FREE; we made it only for fun. I hope you take fun too playing it .
+Please, I would like if you email me, I'll know about if you enjoy the campaign, or if not. The Latin Generals logo is property of The Latin Generals webmasters, and nobody is allowed to use it.
+The author is not responsible from any bad use or damaged caused by these files.
+We haven't any political interest with this campaign; which is only made for historical and fun purposes for Panzer General 2.
+Come to Latin Generals for get the last updates of this campaign and many more for Panzer General 2!
+
+I would like to receive your comments by mail or by posting at our bilingual forum, you can do it in Spanish or English.
+
+Email: fuertesbermudez@yahoo.es

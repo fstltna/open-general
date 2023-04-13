@@ -1,0 +1,118 @@
+1942 Bataan [PL 3.2]
+Terakan
+Subic-Bucht N.B.
+Oranie
+Moron
+Bagak [HAFEN]
+Bilanga
+Orion [HAFEN]
+Corregidor
+21.Inf.Gruppe/[14.Armee]
+21.Inf.Gruppe/[14.Armee]
+21.Inf.Gruppe/[14.Armee]
+91 ID/[I]
+91 ID/[I]
+91 ID/[I]
+1 ID/[I]
+1 ID/[I]
+1 ID/[I]
+1 ID/[I]
+1 ID/[I]
+11 ID/[I]
+11 ID/[I]
+11 ID/[I]
+2 ID/[I]
+41 ID/[II]
+41 ID/[II]
+41 ID/[II]
+21 ID/[II]
+21 ID/[II]
+21 ID/[II]
+51 ID/[II]
+51 ID/[II]
+51 ID/[II]
+[Malinta- Tunnel]
+2 ID/[I]
+31 ID/[II]
+31 ID/[II]
+31 ID/[II]
+21.Inf.Gruppe/[14.Armee]
+4 ID/[14.Armee]
+4 ID/[14.Armee]
+4 ID/[14.Armee]
+4 ID/[14.Armee]
+4 ID/[14.Armee]
+4 ID/[14.Armee]
+65 Bde./[14.Armee]
+65 Bde./[14.Armee]
+65 Bde./[14.Armee]
+65 Bde./[14.Armee]
+[14.Armee]
+[14.Armee]
+[14.Armee]
+[14.Armee]
+[14.Armee]
+[14.Armee]
+[14.Armee]
+16 ID/[14.Armee]
+16 ID/[14.Armee]
+16 ID/[14.Armee]
+16 ID/[14.Armee]
+16 ID/[14.Armee]
+[I]
+[II]
+[I]
+[Corregidor Garnison]
+[Corregidor Garnison]
+[Corregidor Garnison]
+41 ID/[II]
+2 ID/[I]
+2 ID/[I]
+1 ID/[I]
+[USAEF]
+[USAEF]
+[14.Armee]
+[14.Armee]
+[14.Armee]
+[14.Armee]
+[14.Armee]
+[USAEF]
+11 ID/[I]
+21 ID/[II]
+[14.Armee]
+Fluss Culo
+Olongapo : HAFEN
+Fluss Pampanga
+Fluss Orani
+Fluss Batalan
+Fluss Balantay
+Mt Natib : BERG
+Mabatang
+Mt Silanganan : BERG
+Fluss Pilar
+Fluss Bagac
+Pilar
+Mauban
+Bagac
+Orion
+Fluss Gogo
+Mt Bataan : BERG
+Fluss Gogo : STROM
+Mt Limay : BERG
+Limay
+Lamao
+Cabcaben
+Mariveles
+Mariveles : HAFEN
+Insel Corregidor : RAUH
+Insel Corregidor : HUEGEL
+Insel Corregidor
+Insel Caballo : HUEGEL
+Berg Samat
+Kimura-Abteilung/[14.Armee]
+Kimura-Abteilung/[14.Armee]
+Kimura-Abteilung/[14.Armee]
+Kimura Detachment/[14.Armee]
+[USAEF-HQ]
+[HQ II.Korps]
+[HQ I.Korps]

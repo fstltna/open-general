@@ -1,0 +1,52 @@
+'---
+'Config AI file for scenario: bk01_HQ.xcsv
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=0 
+$buy_newair=50 
+$buy_pick_method=1 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3  
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2  
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=34 items  ' Replacement for default list
+ 261  '  37mm wz.36  [ AT  Poland]  Cost: 72
+ 262  '  105mm A wz.13  [ATY  Poland]  Cost: 240
+ 264  '  75mm A wz.97  [ATY  Poland]  Cost: 144
+ 267  '  Kawaleria 35  [INF  Poland]  Cost: 156
+ 268  '  Pionierzy 35  [INF  Poland]  Cost: 348
+ 273  '  7TP  [ TK  Poland]  Cost: 288
+ 276  '  R35  [ TK  Poland]  Cost: 276
+ 280  '  P.11c  [FTR  Poland]  Cost: 396
+ 281  '  P.23c  [ TB  Poland]  Cost: 456
+ 306  '  P.7a  [FTR  Poland]  Cost: 384
+ 577  '  Wz.34-I  [RCN  Poland]  Cost: 192
+ 663  '  P.37c  [ TB  Poland]  Cost: 612
+ 706  '  TK3  [RCN  Poland]  Cost: 120
+ 725  '  155mm H wz.17  [ATY  Poland]  Cost: 756
+ 727  '  Wz.29  [RCN  Poland]  Cost: 228
+1201  '  C.714  [FTR  Poland]  Cost: 432
+1466  '  7.62mm wz.30  [FlaK  Poland]  Cost: 36
+1472  '  65mm AG wz.06  [ATY  Poland]  Cost: 252
+1473  '  75mm A wz.02/26  [ATY  Poland]  Cost: 180
+1474  '  100mm H wz.14/19  [ATY  Poland]  Cost: 192
+1475  '  120mm H wz.09/31  [ATY  Poland]  Cost: 228
+1476  '  220mm M wz.32  [ATY  Poland]  Cost: 1440
+1480  '  Piechota Gorska 35  [INF  Poland]  Cost: 252
+1481  '  33 MG  [FlaK  Poland]  Cost: 108
+1482  '  KOP 35  [INF  Poland]  Cost: 84
+1490  '  Wz.28  [RCN  Poland]  Cost: 180
+1491  '  Wz.34-II  [RCN  Poland]  Cost: 216
+1496  '  TKS FK wz.38  [ AT  Poland]  Cost: 120
+1734  '  P.50  [FTR  Poland]  Cost: 468
+2520  '  105mm A wz.29  [ATY  Poland]  Cost: 240
+2524  '  VAE  [ TK  Poland]  Cost: 192
+2544  '  RWD-14  [ TB  Poland]  Cost: 300
+3369  '  75mm A Ppanc wz.02/26  [ AT  Poland]  Cost: 96
+3518  '  P.11c (2 km)  [FTR  Poland]  Cost: 408

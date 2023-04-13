@@ -1,0 +1,9 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 319  '  TBD-1  [ TB  USA]  Cost: 408
+2436  '  SBC-3  [ TB  USA]  Cost: 420
+7273  '  Salmon SS  [SUB  USA]  Cost: 180

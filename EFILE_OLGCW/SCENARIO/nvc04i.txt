@@ -1,0 +1,11 @@
+Military Region IV Crisis
+
+January, 1966
+
+The vacations are over, commander. Our spies in Saigon have sent us information about an imminent enemy offensive of considerable size. It will be against our positions near Cu-Chi. Deploy your units quickly and take defensive positions to allow a retreat towards safer positions to the west in War Zone C.  It won't be easy, since we need to save the local VC units. American air strikes have destroyed the connections between our tunnels and War Zone C.  Saving the VC units will allow our troops to return to this area in the future. So, don't lose any VC Local units or the operation will be a failure. We need these comrades to maintain the support of south and its knowledge of the area.
+
+Victory Conditions:
+
+- Retreat 8 units to ''War Zone C''.
+
+- Retreat the local Viet Cong units and avoid them be destroyed.

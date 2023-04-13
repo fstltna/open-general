@@ -1,0 +1,97 @@
+Asian Clash
+Song Quang Tri River
+Hill 950
+Hill 881N
+Hill 861A
+Hill 881S
+Hill 558
+KS Combat Base/Airstrip
+Old French Fort [FORT]
+Lang Vay
+Tan Hop
+Khe Sanh
+Hill 689
+Hill 471
+Tan Lien
+Lang Vei
+18C R/325C Div./[MR5]
+95C R/325C Div./[MR5]
+8 Btn./29 R/324 Div./[MR5]
+101D R/325C Div./[MR5]
+16 AR/559 AtyGrp./[MR5]
+325C Div./[MR5]
+HQ/325C Div./[MR5]
+325C Div./[MR5]
+9 R/304 Div./[MR5]
+57 R/304 Div./[MR5]
+66 R/304 Div./[MR5]
+HQ/304 Div./[MR5]
+203 Arm R./-/[MR5]
+324 Div./[MR5]
+325C Div./[MR5]
+7 EngR/-/[MR5]
+304 Div./[MR5]
+304 Div./[MR5]
+Ind.Eng./-/[MR5]
+L/3 Btn/26 R/3 USMC/[III]
+1 Btn/26 R/3 USMC/[III]
+I/3 Btn/26 R/3 USMC/[III]
+K/3 Btn/26 R/3 USMC/[III]
+E/2 Btn/26 R/3 USMC/[III]
+2 Btn/26 R/3 USMC/[III]
+A/1/2 Btn/26 R/3 USMC/[III]
+37 ARVN RBtn./-/[I]
+1 Btn/9 R/2 USMC/[III]
+1 Btn./-/-/[III]
+Bru CIDGs
+SVRF
+SVRF
+SVRF
+Khe Sanh Combat Base
+Khe Sanh Combat Base
+HQ/3 USMC/[III]
+Air Support 3/MACG/[III]
+(-) B/3 TBtn./2 USMC/[III]
+(-) 3 TBtn./2 USMC/[III]
+USAF
+USAF
+1 R/Capital MDiv./[ROKA]
+CR/Capital MDiv./[ROKA]
+26 R/Capital MDiv./[ROKA]
+EBtn./Capital MDiv./[ROKA]
+ACmp/Capital MDiv./[ROKA]
+HQ/Capital MDiv./[ROKA]
+10 FABtn/Capital MDiv./[ROKA]
+60 FABtn/Capital MDiv./[ROKA]
+61 FABtn/Capital MDiv./[ROKA]
+628 FABtn/Capital MDiv./[ROKA]
+ASec./Capital MDiv./[IICTZ]
+CIDG/-/[II]
+29 R/9 Div./[ROKA]
+28 R/9 Div./[ROKA]
+30 R/9 Div./[ROKA]
+EBtn./9 Div./[ROKA]
+HQ/9 Div./[ROKA]
+28 R/9 Div./[ROKA]
+30 FABtn/9 Div./[ROKA]
+51 FABtn/9 Div./[ROKA]
+52 FABtn/9 Div./[ROKA]
+966 FABtn/9 Div./[ROKA]
+95 R/5 PAVN Div./[II]
+18 R/5 PAVN Div./[II]
+HQ/5 PAVN Div./[II]
+AtyGrp/5 PAVN Div./[II]
+MG/5 PAVN Div./[II]
+85 VC R/-/-/
+85 VC R/-/-/
+[Chi Tanh]
+CIDG/-/[II]
+85 VC R/-/-/
+85 VC R/-/-/
+85 VC R/-/-/
+Tuy Hoa
+Chí Thanh
+Song Ba River
+Advanced Supply Base
+Retreat Point
+Underground Tunnel (Escape)

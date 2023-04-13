@@ -1,0 +1,9 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 606  '  FT-17  [ TK  White Russia]  Cost: 396
+ 626  '  Mark A Whippet  [ TK  White Russia]  Cost: 384
+1310  '  FT-17/37  [ TK  White Russia]  Cost: 396

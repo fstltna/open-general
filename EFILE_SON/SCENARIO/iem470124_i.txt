@@ -1,0 +1,14 @@
+Batalla de la Cañada
+January 24, 1847
+
+* Intro text *
+
+Deploy Hexes: 13
+
+ORDER: Hold your original VH, retreat 9 units to the Escape Hex and keep your MSU alive.
+
+NOTES:
+- AI moves first.
+- Some Pueblo natives will join you later, but they act independently.
+
+scenario designer: Csaba (lvjtn)

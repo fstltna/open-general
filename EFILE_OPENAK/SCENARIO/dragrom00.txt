@@ -1,0 +1,28 @@
+Bridgehead over Prut river
+Prut River
+Cotu Morii
+Leuseni
+Carpineni
+Husi
+/[III]
+25 R/15 ID/[III]
+10 R/15 ID/[III]
+35 R/15 ID/[III]
+25 AR/15 ID/[III]
+23 AR/15 ID/[III]
+2 R/11 ID/[III]
+19 R/11 ID/[III]
+21 AR/11 ID/[III]
+26 R/11 ID/[III]
+/95 RD/[XXXV]
+GAL
+Iurceni
+Nisporeni
+Costuleni
+Jijia
+Jijia/Prut
+Lapusna
+Gorban
+Averesti
+Stanilesti
+/1 GrD/[III]

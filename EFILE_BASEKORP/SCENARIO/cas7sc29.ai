@@ -1,0 +1,82 @@
+'---
+'Config AI file for scenario: CAS7SC29.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=74 items  ' Replacement for default list
+ 100  '  3.7inch  [ AD  United Kingdom]  Cost: 396
+ 321  '  40mm I  [ AD  United Kingdom]  Cost: 144
+ 325  '  6pdr I  [ AT  United Kingdom]  Cost: 120
+ 328  '  25 pdr  [ATY  United Kingdom]  Cost: 276
+ 330  '  5.5inch  [ATY  United Kingdom]  Cost: 816
+ 331  '  7.2inch I  [ATY  United Kingdom]  Cost: 1188
+ 338  '  40 Engineer  [INF  United Kingdom]  Cost: 408
+ 341  '  39 Ghurka  [INF  United Kingdom]  Cost: 324
+ 345  '  40 Paratrooper  [INF  United Kingdom]  Cost: 348
+ 347  '  39 Royal Marine  [INF  United Kingdom]  Cost: 144
+ 360  '  Illustrious CV  [sCV  United Kingdom]  Cost: 864
+ 361  '  Tribal DD  [sDD  United Kingdom]  Cost: 288
+ 382  '  QL  [TPT  United Kingdom]  Cost: 72
+ 383  '  Bren Carrier  [TPT  United Kingdom]  Cost: 216
+ 388  '  Spitfire IXB  [FTR  United Kingdom]  Cost: 852
+ 389  '  Spitfire VC  [FTR  United Kingdom]  Cost: 732
+ 398  '  C-47  [ATP  United Kingdom]  Cost: 348
+ 449  '  GMC 3t  [TPT  USA]  Cost: 96
+ 450  '  M3A2  [TPT  USA]  Cost: 240
+ 472  '  C-47  [ATP  USA]  Cost: 348
+ 548  '  Transport  [NTP  United Kingdom]  Cost: 60
+ 549  '  Transport  [NTP  USA]  Cost: 60
+ 660  '  Spitfire IIA  [FTR  United Kingdom]  Cost: 684
+1693  '  6inch  [ATY  United Kingdom]  Cost: 456
+1696  '  9.2inch  [ATY  United Kingdom]  Cost: 1200
+1700  '  MG  [FlaK  United Kingdom]  Cost: 108
+1717  '  Fulmar  [FTR  United Kingdom]  Cost: 456
+1718  '  Martlet I  [FTR  United Kingdom]  Cost: 768
+1743  '  Furious CV  [sCV  United Kingdom]  Cost: 684
+1744  '  Hermes CV  [sCV  United Kingdom]  Cost: 480
+1745  '  S SS  [SUB  United Kingdom]  Cost: 228
+1927  '  Kittyhawk IA  [FTR  United Kingdom]  Cost: 684
+1928  '  Tomahawk IIB  [FTR  United Kingdom]  Cost: 648
+1958  '  4.5inch  [ AD  United Kingdom]  Cost: 780
+2560  '  Entrenched  [INF  United Kingdom]  Cost: 180
+2612  '  A DD  [sDD  United Kingdom]  Cost: 264
+2614  '  C8  [TPT  United Kingdom]  Cost: 84
+2615  '  Carrier  [TPT  United Kingdom]  Cost: 168
+2616  '  MW 15cwt  [TPT  United Kingdom]  Cost: 60
+2617  '  Matador  [TPT  United Kingdom]  Cost: 96
+2618  '  Pioneer  [TPT  United Kingdom]  Cost: 84
+2911  '  Dodge 2t  [TPT  USA]  Cost: 60
+2912  '  Jeep  [TPT  USA]  Cost: 144
+2913  '  Dodge 8t  [TPT  USA]  Cost: 96
+2914  '  M3A1  [TPT  USA]  Cost: 180
+2915  '  GMC 7t  [TPT  USA]  Cost: 120
+2917  '  M35  [TPT  USA]  Cost: 252
+2925  '  Jeep  [TPT  United Kingdom]  Cost: 144
+2931  '  GMC 1t  [TPT  USA]  Cost: 84
+2932  '  Dodge 4t  [TPT  USA]  Cost: 72
+2933  '  Dodge 6t  [TPT  USA]  Cost: 84
+2934  '  M5  [TPT  USA]  Cost: 168
+2942  '  Horsa II  [ATP  United Kingdom]  Cost: 180
+2943  '  Hamilcar  [ATP  United Kingdom]  Cost: 180
+2946  '  CG-4A Hadrian  [ATP  USA]  Cost: 180
+2947  '  C-54 Skymaster  [ATP  USA]  Cost: 180
+3132  '  MTB-1 MTB  [sDD  United Kingdom]  Cost: 168
+3133  '  Halcyon AM  [sDD  United Kingdom]  Cost: 180
+3134  '  H 28 SS  [SUB  United Kingdom]  Cost: 216
+3135  '  Triton SS  [SUB  United Kingdom]  Cost: 240
+3324  '  Seafire I  [FTR  United Kingdom]  Cost: 876
+3359  '  GMC 5t  [TPT  USA]  Cost: 108
+3511  '  41 MMG  [FlaK  United Kingdom]  Cost: 132
+3861  '  41 Light Infantry  [INF  United Kingdom]  Cost: 324
+3865  '  41 Engineers  [INF  United Kingdom]  Cost: 432
+3868  '  41 Commandos  [INF  United Kingdom]  Cost: 828
+3869  '  41 Royal Marines  [INF  United Kingdom]  Cost: 84
+3870  '  3.7inch  [ATY  United Kingdom]  Cost: 408
+3875  '  41 Ghurkas  [INF  United Kingdom]  Cost: 348
+3881  '  42 Parachute Infantry  [INF  United Kingdom]  Cost: 360
+5807  '  Carrier Churchill 3inch  [ AT  United Kingdom]  Cost: 648
+5818  '  Train  [RTP  USA]  Cost: 120
+5831  '  Train  [RTP  United Kingdom]  Cost: 120
+7991  '  25 Pdr at-aty  [ATY  United Kingdom]  Cost: 276

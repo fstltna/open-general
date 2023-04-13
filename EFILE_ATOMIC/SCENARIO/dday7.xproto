@@ -1,0 +1,33 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 462  '  P-51H Mustang  [FTR  USA]  Cost: 960
+ 463  '  P-80 Shooting Star  [FTR  USA]  Cost: 1284
+ 470  '  A-26B Invader  [ TB  USA]  Cost: 1116
+ 662  '  90mm M2  [ AT  USA]  Cost: 312
+ 668  '  M43 203mm  [ATY  USA]  Cost: 1800
+1749  '  M36B2  [ AT  USA]  Cost: 792
+1753  '  M20 AB 75mm RCL   [ATY  USA]  Cost: 228
+1759  '  M40 155mm  [ATY  USA]  Cost: 1476
+4619  '  F7F-2N Tigercat  [FTR  USA]  Cost: 1500
+4627  '  F4U-4C Corsair  [FTR  USA]  Cost: 1104
+4645  '  P-59B Airacomet  [FTR  USA]  Cost: 1092
+4658  '  PB4Y-2B Privateer w/ ASM-N-2 Bat  [ LB  USA]  Cost: 1020
+4660  '  B-29A Superfortress  [ LB  USA]  Cost: 1500
+5242  '  120mm M1  [ AD  USA]  Cost: 804
+5409  '  M4A3 Zippo  [ TK  USA]  Cost: 588
+5442  '  M19  [ AD  USA]  Cost: 612
+5865  '  M20 75mm RCL  [ AT  USA]  Cost: 252
+6062  '  M18 57mm RCL  [ AT  USA]  Cost: 192
+6387  '  M26 Pershing  [ TK  USA]  Cost: 1524
+6388  '  T26E4 Super Pershing  [ TK  USA]  Cost: 1692
+7996  '  M41 155mm  [ATY  USA]  Cost: 1392
+7997  '  T92  240mm  [ATY  USA]  Cost: 2100
+8175  '  Armored Infantry 45  [INF  USA]  Cost: 900
+8285  '  F7F-3 Tigercat  [FTR  USA]  Cost: 1416
+8287  '  P-38M Lightning  [FTR  USA]  Cost: 1080
+8379  '  PBM-5 Mariner  [ TB  USA]  Cost: 660
+8426  '  T66 Rocket Launcher  [ATY  USA]  Cost: 336

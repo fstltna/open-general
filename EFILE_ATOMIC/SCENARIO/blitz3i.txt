@@ -1,0 +1,14 @@
+SITUATION:
+
+Herr General, we have a very important mission for you and your men. We need to capture the city of Narvik, the ice-free port in the very north of Norway. Narvik is connected to the Swedish iron ore mines around Kiruna via rail. Iron ore which is vital for our industry. Now your orders are to seize Narvik and secure the surrounding area. 
+
+ORDERS: 
+
+Take all VHs in 11/14/18 turns for a BV/V/TV.
+
+NOTES:
+
+Two air-transports and two naval transports available.
+
+You can deploy only 13 ground units in this scenario.
+

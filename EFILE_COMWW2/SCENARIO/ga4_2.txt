@@ -1,0 +1,93 @@
+Yelnya
+Desna River
+Uzha River
+Ussiya River
+Ustrom River
+Dniepr River
+Yelnya
+Khanino
+Barsuki
+Kostyuki
+Kostyuki  Airfield
+Glinka
+Leonidovo
+Karatayevo
+Barsuki  Airfield
+Village
+Uvarovo
+Parubanik
+Srednyi Pochinok
+Ryabinki
+Seleshnya
+Klematina
+Yaroslavl
+Pozhogino
+Kondraty
+Chamovo
+Aleksino
+Stragina
+Bolshaya Nezhoda
+Destroyed Airfield
+Railroad
+Yakovlevichi
+Sadki
+Solovenki
+Denisovo
+Kholmy
+Konshchino
+Gorbovo
+Kazanka
+Glinka Airfield
+XXXII/19th Rifle Div.
+CDVII/108th Rifle Div.
+XCV/48th Tank Div.
+143rd Tank Brig.
+CDLXXX/152nd Rifle Div.
+CCCLXV/119th Rifle Div.
+CLXIII/24
+23rd BAP
+L/24
+XI/137
+IV/263
+VIII/292
+226th JagdPz. Abt.
+II/41
+516th Pioniere Reg.
+CIX/292
+I/7
+I/23
+IV/258
+IV/268
+635th Pioniere Abt.
+II/43
+VII/162
+IV/256
+III/24th Korps
+IV/24th Korps
+DCCCXLI/263
+DXXIX/23
+VI/55
+VI/46
+III/818
+Denisovo Airfield
+50th Kavaleria Div.
+45th Kavaleria Div.
+53rd Kavaleria Div.
+CIII/107th Rifle Div.
+CCCXCVII/106th Rifle Div.
+DLXXXVI/107th Rifle Div.
+DCCCLXXX/303rd Rifle Div.
+DLXXIII/106th Rifle Div.
+CCCIV/149th Rifle Div.
+DCC/152nd Rifle Div.
+CDXLIV/108th Rifle Div.
+XLIX/152nd Rifle Div.
+CDLXXI/108th Rifle Div.
+CDI/120th Rifle Div.
+CDLXXIX/149th Rifle Div.
+CCCLXIV/149th Rifle Div.
+FOREST
+CLEAR
+ROUGH
+SWAMP
+STREAM

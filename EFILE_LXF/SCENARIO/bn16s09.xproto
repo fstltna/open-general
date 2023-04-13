@@ -1,0 +1,9 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 319  '  TBD-1  [ TB  USA]  Cost: 408
+1188  '  F3F-2  [FTR  USA]  Cost: 468
+2436  '  SBC-3  [ TB  USA]  Cost: 420

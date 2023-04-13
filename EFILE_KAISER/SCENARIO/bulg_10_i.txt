@@ -1,0 +1,12 @@
+Choice - The Great War
+
+October 14th, 1915
+
+Today, after months of negotiations with representatives from both sides of the conflict, Bulgaria has declared war on Serbia, siding with Germany and the Austro-Hungarian Empire in the Great War that started in Europe last year.
+Of course, not everybody in Bulgaria will understand this decision. After all, we have become allies of the Ottoman Empire, and enemies of Russia, our traditional friend. But, didn't Serbia ally with the Turks in 1913, during the Interallied War? And where was Russia then, when we desperately needed her? No, this alliance with Germany will give Bulgaria what she deserves...the absolute hegemony on the Balkans!
+Now you must decide where you wish to fight. If you join our 1st Army, you'll take part on the invasion of Serbia. You'll have to conquer the Morava Valley and Kosovo. After that, you'll be sent to the border with Romania, just in case they decide to attack us from the rear.
+If you join our 2nd Army, you'll take part on the liberation of Vardar Macedonia. We know that British and French troops are ready to help the Serbian Army in Macedonia, so you should be careful.
+
+Choice conditions:
+- If you choose to fight in Serbia click on the Serbian flag.
+- If you choose to fight in Macedonia click on the French flag.

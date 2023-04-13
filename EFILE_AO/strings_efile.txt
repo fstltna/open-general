@@ -1,0 +1,57 @@
+* Read carefully before editing!
+* Each line can be any lenght, but only first 96 chars will be read
+* Emply lines and those starting with * will be skipped.
+* Can replace any text but do no change the sequence of lines
+*-------------------------------------------------------------------
+
+* (units) ... can be redefined
+[classes]
+None
+Infantry
+Tank  
+Recon
+Anti-tank
+Helicopter
+Fortification
+Ground Transport
+Rail Transport
+Artillery
+Air Defense
+Fighter
+Tactical Bomber
+Strategic Bomber
+Air Transport
+Helo Transport
+Submarine
+Destroyer
+Battleship
+Carrier
+Naval Transport
+Battle Cruiser
+Cruiser
+Light Cruiser
+
+ 
+[requisition]
+Switch Ground+Air / Naval units menu
+Select Air Defense
+Select Helicopter
+Select Fortification
+Select Anti Tank
+Select Artillery
+Select Infantry
+Select Recon
+Select Tank
+Select Fighter
+Select Tactical Bomber
+Select Strategic Bomber
+Select Submarine
+Select Destroyer
+Select Battleship
+Select Carrier
+Select Battle Cruiser
+Select Cruiser
+Select Light Cruiser
+Name Unit
+Reassign Unit
+Exit

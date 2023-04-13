@@ -1,0 +1,14 @@
+Temesvár
+August 9, 1849
+
+Citoyen General! Though Görgei has arrived at Arad finally, the 1st Austrian Armee Korps had occupied Makó and made the unification of Hungarian army impossible. We have only one last chance: beating the imperials so hard, that they would sign a peace treaty with acceptable conditions. Our slogan is: “Glory or death!”. No matter of coast of victory! If you fail here, everything will be lost!
+
+Deploy Hexes: 19
+
+ORDER: Hold at least 1 VHs.
+
+NOTES:
+- If you have more than 19 units, sell the excess and spend the gained PP on reinforcing your units.
+- Please consider that at the end of this scenario the units won’t be resupplied automatically and you will not be able to buy new units or upgrade your core after this scenario.
+
+scenario designer: Csaba (lvjtn)

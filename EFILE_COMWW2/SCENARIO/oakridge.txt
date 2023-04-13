@@ -1,0 +1,78 @@
+Oak Ridge
+Clinch River
+Clinton
+Mascot
+Holston River
+Coalfield
+Oliver Springs
+Oak Ridge
+Knoxville
+Broad River
+Research Facility
+Factory
+Farragut
+Newell Station
+Lenoir City
+Kingston
+Alcoa
+Loudon
+Maryville
+Philadelphia
+Townsend
+L1
+85/10
+86/10
+87/10
+10
+10
+16/1
+18/1
+26/1
+1
+1
+1/1
+745/1
+634/1
+635/1
+103/1
+1
+32/3
+33/3
+36/3
+54/3
+83/3
+643/3
+703/3
+112/56C
+124/56C
+1/1P
+USAAF
+USAAF
+USAAF
+USAAF
+USAAF
+USAAF
+NG
+NG
+NG
+NG
+NG
+NG
+NG
+NG
+NG
+NG
+NG
+TNG
+TNG
+TNG
+501/82
+505/82
+325/82
+ROUGH
+MOUNTAIN
+FOREST
+Philadelphia Airfield
+Staging Area
+112/3
+138/3

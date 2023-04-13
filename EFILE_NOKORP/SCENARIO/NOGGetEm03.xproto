@@ -1,0 +1,9 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 144  '  Pz IIIJ  [ TK  Germany]  Cost: 456
+1232  '  StuG IIIE  [ AT  Germany]  Cost: 336
+3376  '  SdKfz 6/3  (76.2mm FK36(r))  [ AT  Germany]  Cost: 276

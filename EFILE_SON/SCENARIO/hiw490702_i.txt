@@ -1,0 +1,14 @@
+Komárom-Ács
+Jule 2, 1849
+
+Citoyen General! Only the 2nd and 7th Corps have arrived at Komárom, where 8th Corps has defended the fortress. Unfortunately, the troops could cross River Danube at the bridge only. The 1st and 3rd Corps rested in Csallóköz and are securing our northern flank. Haynau ordered the 1st, 3rd and 4st Austrian Armee Korps with the help of Panyutin’s division to surround Komárom and cut off the road toward Pest. However you are outnumbered, you should keep this road open!
+
+Deploy Hexes: 24
+
+ORDER: Hold at least 4 VHs.
+
+NOTES:
+- Please consider that at the end of this scenario the units won’t be resupplied automatically.
+- The Hungarian fort and fortress units in VHs can resupply the adjacent units and they also give some turn prestige.
+
+scenario designer: Csaba (lvjtn)

@@ -1,0 +1,246 @@
+Escaut
+EM Gen. Van den Bergen / V CA
+7 Ch / 17 DI / V CA
+8 Ch / 17 DI / V CA
+9 Ch / 17 DI / V CA
+Esc Cy / 6 DI / V CA
+9 Li / 6 DI / V CA
+1 C / 6 DI / V CA
+1 Gr / 6 DI / V CA
+EM Gen. Michem / II CA
+32 Li / 13 DI / II CA Terdonk
+33 Li / 13 DI / II CA
+34 Li / 13 DI / II CA
+14 Li / 11 DI / II CA
+20 Li / 11 DI / II CA
+29 Li / 11 DI / II CA
+EM Gen. Neve de Roden / I CA
+Gp Cy  / 16 DI / I CA
+Gp Cy / 18 DI / I CA
+Gp Cy  / 17 DI / I CA
+Gp Cy / 13 DI / I CA - pont Mariakerkebrug
+39 Li / 18 DI / I CA
+3 C / 18 DI / I CA
+3 Gr / 18 DI / I CA
+37 Li / 16 DI / I CA
+41 Li / 16 DI / I CA
+44 Li / 16 DI / I CA
+3 Li / 1 DI / I CA
+4 Li / 1 DI / I CA
+24 Li / 1 DI / I CA
+Esc Cy / 1 DI / I CA
+5 Li / 2 DI / VI CA
+6 Li / 2 DI / VI CA
+28 Li / 2 DI / VI CA
+7 Li / 4 DI / VI CA
+15 Li / 4 DI / VI CA
+11 Li / 4 DI / VI CA
+1 Ch / 5 DI / VI CA
+2 Ch / 5 DI / VI CA
+4 Ch / 5 DI / VI CA
+1 ChA / 1 DChA / VI CA
+2 ChA / 1 DChA / VI CA
+3 ChA / 1 DChA / VI CA
+Esc Cy / 2 DI / VI CA
+Esc Cy / 4 DI / VI CA
+Esc Cy / 5 DI / VI CA
+8 Li / 9 DI / VII CA
+16 Li / 9 DI / VII CA
+17 Li / 9 DI / VII CA
+3 Ch / 10 DI / VII CA
+5 Ch / 10 DI / VII CA
+6 Ch / 10 DI / VII CA
+4 ChA / 2 DChA / VI CA
+5 ChA / 2 DChA / VI CA
+6 ChA / 2 DChA / VI CA
+13 Li / 8 DI / VII CA
+19 Li / 8 DI / VII CA
+21 Li / 8 DI / VII CA
+1 Li / 3 DI / VII CA
+12 Li / 3 DI / VII CA
+25 Li / 3 DI / VII CA
+Esc Cy / 9 DI / VII CA
+Esc Cy / 10 DI / VII CA
+EM Gen. Verstraete / VI CA
+EM Gen. Deffontaine / VII CA
+309 IR / 208 ID / XXVI AK / AOK 18
+9/V/1Aé
+11/VI/1Aé
+1/I/1Aé
+338 IR / 208 ID / XXVI AK / AOK 18
+456 IR / 256 ID / XXVI AK / AOK 18
+Gen. Wodrig / XXVI AK / AOK 18
+IR 234 / 56 ID / XI AK / AOK 18
+IR 171 / 56 ID / XI AK / AOK 18
+2 RA / 2 DI / VI CA
+IR 192 / 56 ID / XI AK / AOK 18
+IR 6 / 30 ID / XI AK / AOK 6
+IR 46 / 30 ID / XI AK / AOK 6
+10 RA / 10 DI / VII CA
+IR 26 / 30 ID / XI AK / AOK 6
+Leie (Lys)
+Escaut (Schelde)
+Aalst (Alost)
+Melle
+Waregem
+Zulte
+Esc Cy / 8 DI / VII CA
+Esc Cy / 12 DI / IV CA
+Gp Cy / 15 DI / IV CA
+Aalter
+Kanaal Gent-Brugge-Ostende (Canal d'Ostende)
+Canal de la Lys
+2 CCy / 1 DC / CC
+EM Gen. Neve de Roden / CC
+337 IR / 208 ID / XXVI AK / AOK 18
+208 Pion.-Btl. / 208 ID / XXVI AK / AOK 18
+208 Aufkl.-Abt. / 208 ID / XXVI AK / AOK 18
+208 Pzjäg.-Abt. / 208 ID / XXVI AK / AOK 18
+208 Art.-Reg. / 208 ID / XXVI AK / AOK 18
+Pzjäg.-Abt. 30 / 208 ID / XI AK / AOK 6
+Aufkl.-Abt. 30 / 30 ID / XI AK / AOK 6
+Art.-Reg. 30 / 30 ID / XI AK / AOK 6
+Pion.-Btl. 30 / 30 ID / XI AK / AOK 6
+Dender (Dendre) 
+Art.-Reg. 156 / 56 ID / XI AK / AOK 18
+Pzjäg.-Abt. 156 / 56 ID / XI AK / AOK 18
+Aufkl.-Abt. 156 / 56 ID / XI AK / AOK 18
+Pion.-Btl. 156 / 56 ID / XI AK / AOK 18
+Gen. von Kortzfleisch / XI AK / AOK 6
+St. Niklaas (Saint Nicolas)
+Dendermonde (Termonde)
+Wichelen
+Berlare
+Erpe
+Impe
+Zele
+Lokeren
+Durme
+Moerbeke
+Stekene
+Wachtebeke
+De Klinge
+Hust
+Belsele
+Lochristi
+Merelbeke
+Kwatrecht (Quatrecht)
+Kanaal Gent-Terneuzen (Canal Gand-Terneuzen)
+Gent (Gand)
+Canal Leopold Kanaal
+Ringvaart
+Eeklo (Eecloo)
+Deinze
+Tielt
+Vinkt
+Ruiselede
+Kanaal Roeselare-Leie
+Kruishoutem
+Zingem (Syngem)
+Eke
+Astene
+Petegem
+Hansbeke
+St-Lievens Houtem
+Zwalm
+Gijzenzele
+Wetteren
+Hame
+Moervaart
+Maldegem
+Knesselare
+Zelzate (Selzaete)
+Axelse Kreek
+Terneuzen
+Zamslag
+255
+IR 455 / 255 ID / XI AK / AOK 6
+IR 465 / 255 ID / XI AK / AOK 6
+IR 475 / 255 ID / XI AK / AOK 6
+Aufkl.-Abt. 255 / 255 ID / XI AK / AOK 6
+Pion.-Btl. 255 / 255 ID / XI AK / AOK 6
+Pzjäg.-Abt. 255 / 255 ID / XI AK / AOK 6
+Art.-Reg. 255 / 255 ID / XI AK / AOK 6
+Breskens
+Kaprijke (Caprijcke)
+7 Bn Gn / 6 DI / V CA
+17 Bn Gn / 17 DI / V CA
+Mendonk
+Langebrugge
+Waarschoot
+Eksaarde
+Destelbergen
+Beervelde
+Desteldonk
+Sas van Gent
+Axel
+25 RA / 17 DI / V CA
+21 RA / 13 DI / II CA
+13 Bn Gn / 13 DI / II CA
+6 RA / 6 DI / V CA
+Cie ac / 6 DI / V CA
+9 Bn ca / V CA
+8 Bn Gn / 11 DI / II CA
+Cie ac / 11 DI / II CA
+9 RA / 11 DI / II CA
+26 RA / 18 DI / I CA
+3 Bn ca / II CA
+15 Bn Gn / 18 DI / I CA
+24 RA / 16 DI / I CA
+12 Bn Gn / 16 DI / I CA
+Cie T-13 / 1 DI / I CA
+1 RA / 1 DI / I CA
+1 Bn Gn / 1 DI / I CA
+14 RA / I CA
+4 RAA
+Cie T-13 / 2 DI / VI CA
+Cie ac / 5 DI / VI CA
+2 Bn Gn / 2 DI / VI CA
+8 RA / 4 DI / VI CA
+4 Bn Gn / 4 DI / VI CA
+Cie T-13 / 4 DI / VI CA
+5 Bn Gn / 5 DI / VI CA
+10 Bn ca / VI CA
+16 RA / II CA
+4 Bn ca / I CA
+4 RA / 9 DI / VII CA
+Cie ac / 10 DI / VII CA
+Cie T-13 / 9 DI / VII CA
+Cie ac / 1 DChA / VI CA
+10 Bn Gn / 10 DI / VII CA
+9 Bn Gn / 9 DI / VII CA
+Ursel
+3 RAA
+Bn Gn / 1 DChA / VI CA
+I-III/20 RA / 1 DChA / VI CA
+8 Bn ca / VII CA
+Depot Armée belge
+256 Aufkl.-Abt. / 256 ID / XXVI AK / AOK 18
+476 IR / 256 ID / XXVI AK / AOK 18
+481 IR / 256 ID / XXVI AK / AOK 18
+256 Art.-Reg. / 256 ID / XXVI AK / AOK 18
+256 Pzjäg.-Abt. / 256 ID / XXVI AK / AOK 18
+256 Pion.-Btl. / 256 ID / XXVI AK / AOK 18
+MG-Btl. 9 / XXVI AK / AOK 18
+629 Art.-Abt. / XXVI AK / AOK 18
+I./ Flak-Reg. 605 / XXVI AK / AOK 18
+IV Fliegerkorps
+Oudenaarde (Audenarde)
+Pzjäg.-Abt. 560 / XI AK / AOK 6
+Nebwef.-Abt. 3 / XI AK / AOK 6
+I. / Flak-Reg. 14 / XI AK / AOK 6
+II. / Art.-Reg. 46. / XI AK / AOK 6
+Pion.-Btl. 260 / XI AK / AOK 6
+216
+19
+14
+Landegem
+Beernem
+Sluiskil
+Ijzendijke
+Braakman
+Hoeck
+Aardenburg
+Sluis
+St-Laureins
+Oostburg

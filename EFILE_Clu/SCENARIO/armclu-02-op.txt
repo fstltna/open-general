@@ -1,0 +1,9 @@
+Brigade Langkeit
+
+31/01/1945
+
+Beginning the night of January 30th, the Brigade Langkeit enlisted the veterans and recruits of the Pz.Gren.Ers.Brigade Grossdeutschland and arrived at their starting position for an attack eastwards. The attack was delayed by inadequate fire power and a strong enemy force. 
+Due to Fuehrerbefehl, the brigade was named Panzergrenadier-Division 'Kurmark' on February 1st and prepared for an attack via Koritten-Spiegelberg and further east.
+
+New units have strength 8 and experience 50. To win the scenario, you MUST keep the aux HQ unit (Stab/V. SS-Geb.Korps) alive and capture all Soviet VHs without losing Kemnath (10,05). Any other outcome will result in a loss (which will send you also to the next scenario). A loss is no shame here since in reality 'Kurmark' was never able to fullfill all given tasks.
+No proto.

@@ -1,0 +1,13 @@
+Battle of San Jacinto
+April 21, 1836
+
+After the fall of Alamo and Fannin’s defeat at Coleto Creek, General Sam Houston realized his army was the last hope for an independent Texas.
+
+Concerned that his ill-trained force would be good for only one battle, and aware that his men could easily be outflanked by Urrea’s forces, Houston continued to avoid engagement, and his army had retreated across the Colorado River toward Harrisburg. They had arrived on April 18, not long after the Mexican army’s departure. Realizing that Santa Anna had only a small force and was not far away, Houston decided to attack the Mexicans on the bank of Buffalo Bayou. It was the decisive battle of the Texas Revolution. The Texian Army engaged and defeated General Antonio López de Santa Anna’s Mexican army in a fight that lasted just 18 minutes.
+
+Deploy Hexes: 14
+
+ORDER: Take all VHs and keep your MSU alive.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

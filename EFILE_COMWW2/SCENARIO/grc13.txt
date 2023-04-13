@@ -1,0 +1,230 @@
+Istra
+Troizkoje
+Istra River
+Senezskoje Lake
+Volgusha River 
+Moskva-Volga-Canal
+Solnechnogorsk
+Kamenka
+Volgusha River
+Kljaz'ma River
+Iksha
+Ignatovo
+Pogorelovo
+Udino
+Iksha Reservoir
+Shekino
+Istra Reservoir
+Krivzovo
+Peshki
+Roshdestveno
+Belyj Rast
+Nudol' River
+Tschernaja
+Lake
+Pjatniza
+Oserezkoje
+Povarovo
+Radomlja
+Ljalovo
+Yakovlevo
+Lopotovo
+Sokolovo
+Matushkino
+Krasnaja Poljana
+Gorki
+Katjushki
+Lobnja
+Buzarovo
+Krjukovo
+Pekino
+Kljaz'ma Reservoir
+Jadromino
+Aleksino
+Istra
+Shodnja
+Malaja Istra River
+Brehovo
+Dolgoprudnyj
+Kostrovo
+Vysokovo
+Terechovo
+Mansurovo
+Snegiri
+Davydovskoje
+Dedovsk
+Angelovo
+Khimki
+Village
+Nakhabino
+Krasnogorsk
+River
+D/2SS/DR
+DF/2SS/DR
+467/267/[VII. AK]
+487/267/[VII. AK]
+7/10Pz/[XXXX. PzK]
+69/10Pz/[XXXX. PzK]
+119/11Pz/[XXXXVI. PzK]
+13/5Pz/[XXXXVI. PzK]
+116/5Pz/[XXXXVI. PzK]
+195/78
+2/2Pz/[V. AK]
+304/2Pz/[V. AK]
+74/2Pz/[V. AK]
+38/-/2Pz/[V. AK]
+240/106/[V. AK]
+1/1Pz/[XXXXI. PzK]
+2/VIII
+51/VIII
+52/VIII
+52/[V. AK]
+89/-/5Pz/[XXXXVI. PzK]
+178/78/[IX. AK]
+187/87/[IX. AK]
+173/87/[IX. AK]
+187/87/[IX. AK]
+252/252/[IX. AK]
+7/252/[IX. AK]
+472/252/[IX. AK]
+35/35/[V. AK]
+109/35/[V. AK]
+107/106/[V. AK]
+239/106/[V. AK]
+241/106/[V. AK]
+23/23/[V. AK]
+68/23/[V. AK]
+9/23/[V. AK]
+14/78/[IX. AK]
+111/35/[V. AK]
+215/78/[IX. AK]
+185/87/[IX. AK]
+461/252/[IX. AK]
+54/[XXXX. PzK]
+203/[IX. AK]
+5/-/2Pz/[V. AK]
+62/-/[V. AK]
+34/35/[V. AK]
+3/2Pz/[V. AK]
+37/-/1Pz/[XXXXI. PzK]
+15/11Pz/[XXXXVI. PzK]
+2SS/DR
+7/[XXXX. PzK]
+637/XXXXPz
+1/XXXXVIPz
+1/XXXX
+1/IX
+3/VIII
+2SS/DR
+61/11Pz
+31/5Pz
+90/10Pz
+52/VIII
+1/XXXXPz
+1/IX
+2SS/DR
+111/11Pz
+110/11Pz
+14/5Pz
+1/IX
+86/10Pz
+1/XXXX
+2SS/DR
+11/1Pz
+73/1Pz
+1/1Pz
+113/1Pz
+3JG/VIII
+785/144/[5]
+449/144/[5]
+97/18/[16]
+208/18/[16]
+316/18/[16]
+27/8G/[16]
+1199/354/[16]
+1203/354/[16]
+1201/354/[16]
+14/7G/[16]
+20/7G/[16]
+26/7G/[16]
+25/7G/[16]
+49/[16]
+36/[16]
+457/129/[5]
+37/[16]
+418/133/[Group Zaharov]
+521/133/[Group Zaharov]
+366/126/[Group Zaharov]
+550/126/[Group Zaharov]
+1108/331/[20]
+1104/331/[20]
+1106/331/[20]
+896/331/[20]
+1158/352/[20]
+1160/352/[20]
+145/[Group Remizov]
+46th Air Division
+46th Air Division
+47th Air Division
+47th Air Division
+539/108/[5]
+1162/352/[20]
+43/[5]
+49/50/[5]
+407/108/[5]
+444/108/[5]
+18/9G/[16]
+22/9G/[16]
+28/9G/[16]
+31/9G/[16]
+19/8G/[16]
+23/8G/[16]
+30/8G/[16]
+13/17/[Group Zaharov]
+91/17/[Group Zaharov]
+2/[Group Remizov]
+43/50/[Group Dovator]
+47/50/[Group Dovator]
+12/53/[Group Dovator]
+74/53/[Group Dovator]
+39/[Group Remizov]
+3/18/[16]
+22/20/[Group Dovator]
+124/20/[Group Dovator]
+1G/[Group Katukov]
+921/354/[16]
+138/[16]
+914/352/[20]
+308/144/[5]
+400/133/[Group Zaharov]
+1/[Group Remizov]
+31/[Group Zaharov]
+134/-/[20]
+575/108/[108]
+47th Air Division
+1/[16]
+1/[5]
+1/[20]
+289/[16]
+2/[20]
+1/[5]
+296/[16]
+24/[Group Remizov]
+49/[16]
+32/[Group Zaharov]
+1310/[5]
+601/82/[5]
+17/[16]
+146/[16]
+282/[Group Remizov]
+28/[20]
+135/[20]
+2/[Remizov]
+47/[1S]
+Cadets/[Group Zaha.]
+20/[5]
+1/[Group Zaharov]
+1/[Group Remizov]
+49/[16]
+Arkhangelskoye
+Lukino

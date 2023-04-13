@@ -1,0 +1,143 @@
+Yeremenko's Stab
+Gomel
+Rogachev
+Starodub
+Novgorod Severski
+River Desna
+River Dniepr
+River Sozh
+River Pripet
+Pripet Marshes
+Chernigov
+Posudichi
+Zhadovo
+Churovichi
+Girova
+Ivankova
+Pirki
+Guta
+Expect a counter-attack
+Upgrades and Overstrengthening
+I/82/75th Rifle(XXVIII)
+I/235/75th Rifle(XXVIII)
+I/166/49th Rifle(XXVIII)
+I/84/6th Rifle(XXVIII)
+I/15/49th Rifle(XXVIII)
+II/212/49th Rifle(XXVIII)
+I/44/42nd Rifle(XXVIII)
+II/455/42nd Rifle(XXVIII)
+I/28/75th Rifle(XXVIII)
+I/65/32nd Cav
+II/65/32nd Cav
+I/86/32nd Cav
+II/86/32nd Cav
+I/153/32nd Cav
+I/121/32nd Cav
+I/12/219th Mech(XXV)
+II/12/219th Mech(XXV)
+I/99/50th Tk(XXV)
+II/99/50th Tk(XXV)
+I/100/50th Tk(XXV)
+II/100/50th Tk(XXV)
+I/110/55th Tk(XXV)
+II/110/55th Tk(XXV)
+I/660/219th Mech(XXV)
+II/660/219th Mech(XXV)
+III/660/219th Mech(XXV)
+II/125/6th Rifle(XXVIII)
+II/61/45th Rifle(XV)
+I/253/45th Rifle(XV)
+I/104/62nd Rifle(XV)
+II/4th Abn Brig(II ALC]
+I/123/62nd Rifle(XV)
+II/473/154th Rifle(LXVI)
+I/2nd Abn Brig(II ALC]
+I/10/45th Rifle(XV)
+II/820/117th Rifle(LXVI)
+II/3rd Abn Brig(II ALC]
+I/237/61st Rifle(LXVI)
+I/580/154th Rifle(LXVI)
+I/53rd Ind Tk Batt
+II/53rd Ind Tk Batt
+I/55th Ind Tk Batt
+II/55th Ind Tk Batt
+I/65th Ind Tk Batt
+II/65th Ind Tk Batt
+II/111/55th Tk(XXV)
+I/2/50th Rifle
+II/2/50th Rifle
+I/49/50th Rifle
+II/49/50th Rifle
+I/359/50th Rifle
+II/359/50th Rifle
+I/89/50th Rifle
+I/257/50th Rifle
+I/55/17th Rifle(XXI)
+II/271/17th Rifle(XXI)
+II/55/17th Rifle(XXI)
+II/278/17th Rifle(XXI)
+I/271/17th Rifle(XXI)
+I/7/24th Rifle(XXI)
+II/168/24th Rifle(XXI)
+I/168/24th Rifle(XXI)
+I/274/24th Rifle(XXI)
+II/274/24th Rifle(XXI)
+I/20/37th Rifle(XXI)
+II/91/37th Rifle(XXI)
+I/247/37th Rifle(XXI)
+I/245/37th Rifle(XXI)
+II/358/37th Rifle(XXI)
+I/222/49th Rifle(XXVIII)
+I/52/24th Rifle(XXI)
+I/71/17th Rifle(XXI)
+I/54/75th Rifle(XXVIII)
+I/99/61st Rifle(LXVI)
+94IAP/1ShAD
+95IAP/1ShAD
+67IAP/1ShAD
+55IAP/1ShAD
+32IAP/1ShAD
+22BAD/1ShAD
+26BAD/1ShAD
+85BAD/1ShAD
+77BAD/1ShAD
+78BAD/1ShAD
+124BAD/1ShAD
+145BAD/1ShAD
+IV/JG 51(II) LF2
+II/StG 77(II) LF2
+II/JG 51(II) LF2
+III/JG 51(II) LF2
+II/107/34th Inf(XXXV)
+I/80/34th Inf(XXXV)
+II/253/34th Inf(XXXV)
+I/110/112th Inf(XXXV)
+I/256/112th Inf(XXXV)
+II/258/112th Inf(XXXV)
+I/431/131st Inf(XXXXIII)
+II/432/131st Inf(XXXXIII)
+I/439/134th Inf(XIII)
+I/445/134th Inf(XIII)
+II/510/293rd Inf(XXXXIII)
+I/511/293rd Inf(XXXXIII)
+II/512/293rd Inf(XXXXIII)
+I/120/112th Inf(XXXV)
+II/120/112th Inf(XXXV)
+I/86/112th Inf(XXXV)
+II/86/112th Inf(XXXV)
+III/86/112th Inf(XXXV)
+I/134/134th Inf(XIII)
+II/66/61st Rifle(LXVI)
+I/221/61st Rifle(LXVI)
+I/437/154th Rifle(LXVI)
+I/275/117th Rifle(LXVI)
+I/473/154th Rifle(LXVI)
+II/510/154th Rifle(LXVI)
+II/307/61st Rifle(LXVI)
+Novgorod Severski Defences
+Chernigov Defences
+II/143/154th Rifle(LXVI)
+III/131/61st Rifle(LXVI)
+LXVI Headquarters
+I/507/292nd Inf(IX)
+I/508/292nd Inf(IX)

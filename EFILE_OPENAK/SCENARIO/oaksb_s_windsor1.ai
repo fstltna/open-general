@@ -1,0 +1,176 @@
+'---
+'Config AI file for scenario: OAKSB_S_windsor1.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=60 
+$buy_newair=40 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3   
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2   
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=158 items  ' Replacement for default list
+ 100  '  3.7inch  [ AD  United Kingdom]  Cost: 564
+ 263  '  87,6mm H wz.40  [ATY  Polska]  Cost: 192
+ 320  '  20mm  [FlaK  United Kingdom]  Cost: 72
+ 321  '  40mm I  [ AD  United Kingdom]  Cost: 180
+ 324  '  2pdr  [ AT  United Kingdom]  Cost: 84
+ 325  '  6pdr II  [ AT  United Kingdom]  Cost: 120
+ 328  '  25pdr  [ATY  United Kingdom]  Cost: 192
+ 330  '  5.5inch  [ATY  United Kingdom]  Cost: 528
+ 331  '  7.2inch I  [ATY  United Kingdom]  Cost: 684
+ 346  '  41 Infantry  [INF  United Kingdom]  Cost: 84
+ 348  '  AEC I  [RCN  United Kingdom]  Cost: 504
+ 352  '  Humber II  [RCN  United Kingdom]  Cost: 288
+ 353  '  Humber IV  [RCN  United Kingdom]  Cost: 468
+ 364  '  Churchill III  [ TK  United Kingdom]  Cost: 744
+ 365  '  Churchill II CS  [ AT  United Kingdom]  Cost: 672
+ 372  '  Crusader III  [ TK  United Kingdom]  Cost: 420
+ 374  '  Stuart I  [ TK  United Kingdom]  Cost: 372
+ 375  '  Sherman III  [ TK  United Kingdom]  Cost: 564
+ 376  '  Stuart V  [ TK  United Kingdom]  Cost: 432
+ 379  '  Valentine III  [ TK  United Kingdom]  Cost: 504
+ 388  '  Spitfire IX  [FTR  United Kingdom]  Cost: 1116
+ 389  '  Spitfire VB  [FTR  United Kingdom]  Cost: 1092
+ 390  '  Spitfire XII  [FTR  United Kingdom]  Cost: 1116
+ 393  '  Hurricane IIC  [ TB  United Kingdom]  Cost: 1068
+ 394  '  Hurricane IVD  [ TB  United Kingdom]  Cost: 1080
+ 397  '  Typhoon IB  [ TB  United Kingdom]  Cost: 1296
+ 400  '  90mm M1A1  [ AD  USA]  Cost: 552
+ 401  '  M15A1  [ AD  USA]  Cost: 540
+ 405  '  57mm M1  [ AT  USA]  Cost: 120
+ 406  '  M10  [ AT  USA]  Cost: 480
+ 408  '  M3 GMC  [ AT  USA]  Cost: 252
+ 410  '  105mm How M2  [ATY  USA]  Cost: 240
+ 411  '  155mm How M1  [ATY  USA]  Cost: 528
+ 412  '  75mm How M8 AB  [ATY  USA]  Cost: 312
+ 414  '  M12  [ATY  USA]  Cost: 1200
+ 416  '  M7  [ATY  USA]  Cost: 660
+ 417  '  M8  [ AT  USA]  Cost: 216
+ 418  '  T19 HMC  [ AT  USA]  Cost: 288
+ 421  '  42 Combat Engineer  [INF  USA]  Cost: 348
+ 422  '  42 Bridging  [INF  USA]  Cost: 192
+ 426  '  42 Ranger  [INF  USA]  Cost: 336
+ 430  '  M8  [RCN  USA]  Cost: 480
+ 431  '  M3A1  [RCN  USA]  Cost: 192
+ 439  '  M3A1  [ TK  USA]  Cost: 372
+ 443  '  M4A1  [ TK  USA]  Cost: 552
+ 445  '  M4A3  [ TK  USA]  Cost: 564
+ 457  '  P-47C-5  [FTR  USA]  Cost: 1224
+ 469  '  B-26B  [ TB  USA]  Cost: 1140
+ 631  '  Daimler I CS  [RCN  United Kingdom]  Cost: 408
+ 635  '  Centaur I  [ TK  United Kingdom]  Cost: 516
+ 638  '  Churchill II  [ TK  United Kingdom]  Cost: 660
+ 658  '  Valentine VIII  [ TK  United Kingdom]  Cost: 600
+ 670  '  T30 HMC  [ AT  USA]  Cost: 228
+ 671  '  M3  [ TK  USA]  Cost: 528
+ 720  '  Tetrarch  [ TK  United Kingdom]  Cost: 504
+ 726  '  40mm wz.36  [ AD  Polska]  Cost: 180
+ 731  '  M13  [FlaK  USA]  Cost: 192
+ 898  '  40mm M1  [ AD  USA]  Cost: 180
+ 993  '  Swordfish III  [ TB  United Kingdom]  Cost: 552
+1470  '  57mm wz.41  [ AT  Polska]  Cost: 120
+1471  '  Wolverine  [ AT  Polska]  Cost: 480
+1487  '  41 Pionierzy  [INF  Polska]  Cost: 396
+1494  '  Stuart I  [ TK  Polska]  Cost: 372
+1498  '  Spitfire IX  [FTR  Polska]  Cost: 1116
+1689  '  3inch  [ATY  United Kingdom]  Cost: 84
+1691  '  3.7inch AB  [ATY  United Kingdom]  Cost: 384
+1706  '  Valentine I  [ TK  United Kingdom]  Cost: 480
+1707  '  Matilda III CS  [ AT  United Kingdom]  Cost: 660
+1708  '  Covenanter III  [ TK  United Kingdom]  Cost: 336
+1709  '  Crusader II CS  [ AT  United Kingdom]  Cost: 288
+1711  '  Churchill AVRE  [ TK  United Kingdom]  Cost: 780
+1716  '  Sherman V  [ TK  United Kingdom]  Cost: 624
+1721  '  Albacore  [ TB  United Kingdom]  Cost: 612
+1722  '  Beaufort I  [ TB  United Kingdom]  Cost: 684
+1725  '  Barracuda III  [ TB  United Kingdom]  Cost: 732
+1726  '  Hudson I  [ TB  United Kingdom]  Cost: 708
+1727  '  Mosquito B.IV  [ TB  United Kingdom]  Cost: 924
+1729  '  Whirlwind IA  [ TB  United Kingdom]  Cost: 1092
+1746  '  .50 M51  [FlaK  USA]  Cost: 48
+1750  '  81mm Mortar M1  [ATY  USA]  Cost: 84
+1757  '  155mm Gun M1A1  [ATY  USA]  Cost: 1380
+1760  '  240mm How M1  [ATY  USA]  Cost: 1824
+1763  '  M3A3  [ TK  USA]  Cost: 576
+1764  '  M5  [ TK  USA]  Cost: 432
+1765  '  M4  [ TK  USA]  Cost: 564
+1768  '  M4A4  [ TK  USA]  Cost: 624
+1903  '  Spitfire VC  [ TB  Polska]  Cost: 1188
+1921  '  Valentine VIII  [ TK  Polska]  Cost: 600
+1923  '  Valentine III  [ TK  Polska]  Cost: 504
+1926  '  Carrier  [RCN  Polska]  Cost: 252
+1931  '  Scout Carrier  [RCN  United Kingdom]  Cost: 204
+1958  '  4.5inch  [ AD  United Kingdom]  Cost: 1080
+1994  '  43 Parachute Engineers  [INF  United Kingdom]  Cost: 1068
+1999  '  94mm wz.38  [ AD  Polska]  Cost: 564
+2871  '  42 Infantry  [INF  USA]  Cost: 84
+2909  '  37mm M3 AB  [ AT  USA]  Cost: 228
+3171  '  Carrier, 3inch  [ATY  United Kingdom]  Cost: 252
+3177  '  Carrier, MMG  [ AT  United Kingdom]  Cost: 156
+3230  '  20mm wz.30  [FlaK  Polska]  Cost: 72
+3277  '  20mm AB  [FlaK  United Kingdom]  Cost: 168
+3279  '  20mm wz.30 SP  [FlaK  Polska]  Cost: 168
+3280  '  57mm wz.41 SP  [ AT  Polska]  Cost: 288
+3281  '  75mm wz.38 SP  [ATY  Polska]  Cost: 312
+3299  '  6pdr AB  [ AT  United Kingdom]  Cost: 276
+3324  '  Seafire IB  [FTR  United Kingdom]  Cost: 1116
+3399  '  Priest  [ATY  United Kingdom]  Cost: 684
+3404  '  40 Ckm Pechota  [ AT  Polska]  Cost: 120
+3511  '  41 MMG  [ AT  United Kingdom]  Cost: 132
+3547  '  41 Piechota  [INF  Polska]  Cost: 84
+3551  '  41 Saperzy  [INF  Polska]  Cost: 216
+3554  '  42 SP Piechota  [INF  Polska]  Cost: 360
+3855  '  40 Constabulary  [INF  United Kingdom]  Cost: 60
+3861  '  41 Light Infantry  [INF  United Kingdom]  Cost: 324
+3864  '  41 Motor Infantry  [INF  United Kingdom]  Cost: 168
+3865  '  41 Engineers  [INF  United Kingdom]  Cost: 432
+3866  '  41 Bridging  [INF  United Kingdom]  Cost: 216
+3867  '  41 Scots Infantry  [INF  United Kingdom]  Cost: 168
+3868  '  41 Commandos  [INF  United Kingdom]  Cost: 1656
+3870  '  3.7inch  [ATY  United Kingdom]  Cost: 408
+3879  '  41 Home Guard  [INF  United Kingdom]  Cost: 60
+3881  '  42 Parachute Infantry  [INF  United Kingdom]  Cost: 360
+3908  '  41 Ckm Pechota  [ AT  Polska]  Cost: 132
+3922  '  42 Armored Infantry  [INF  USA]  Cost: 156
+3925  '  42 Airborne Engineers  [INF  USA]  Cost: 804
+3927  '  42 Parachute Infantry  [INF  USA]  Cost: 324
+3928  '  42 MP  [INF  USA]  Cost: 60
+3942  '  42 Komandosi  [INF  Polska]  Cost: 1656
+4001  '  Hampden TB.I  [ TB  United Kingdom]  Cost: 768
+4008  '  Boston III  [ TB  United Kingdom]  Cost: 936
+4030  '  Spitfire IXC  [ TB  Polska]  Cost: 1236
+4031  '  Spitfire IXC  [ TB  United Kingdom]  Cost: 1236
+4034  '  Mustang I  [ TB  Polska]  Cost: 1056
+4036  '  Lysander IIIA  [ TB  Polska]  Cost: 648
+4037  '  Lysander IIIA  [ TB  United Kingdom]  Cost: 648
+4044  '  Auster AOP  [ TB  United Kingdom]  Cost: 300
+4052  '  Hurricane IIB  [ TB  United Kingdom]  Cost: 936
+4059  '  Spitfire VC  [ TB  United Kingdom]  Cost: 1188
+4061  '  Spitfire VII  [FTR  United Kingdom]  Cost: 1260
+4090  '  Spitfire VB  [FTR  Polska]  Cost: 1092
+4596  '  A-35A  [ TB  USA]  Cost: 972
+4637  '  P-38G  [FTR  USA]  Cost: 1176
+4661  '  L-3  [ TB  USA]  Cost: 276
+4662  '  L-5  [ TB  USA]  Cost: 300
+4669  '  Spitfire VB  [FTR  USA]  Cost: 1092
+4670  '  Spitfire IX  [FTR  USA]  Cost: 1116
+5086  '  L-4A  [ TB  USA]  Cost: 276
+5107  '  Ventura IIA  [ TB  United Kingdom]  Cost: 936
+5120  '  Mustang IA  [ TB  United Kingdom]  Cost: 1176
+5127  '  Beaufighter VIC  [ TB  United Kingdom]  Cost: 1152
+5130  '  Spitfire PR.IV  [ TB  United Kingdom]  Cost: 780
+5562  '  Kingfisher  [ TB  United Kingdom]  Cost: 552
+5563  '  Seamew  [ TB  United Kingdom]  Cost: 588
+5570  '  20mm Portee  [FlaK  United Kingdom]  Cost: 216
+5626  '  M4A2  [ TK  USA]  Cost: 564
+5683  '  44 Parachute HQ  [INF  United Kingdom]  Cost: 288
+5691  '  Daimler II  [RCN  United Kingdom]  Cost: 468
+5807  '  Carrier Churchill 3inch  [ AT  United Kingdom]  Cost: 852
+5808  '  3inch  [ AT  United Kingdom]  Cost: 216

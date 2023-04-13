@@ -1,0 +1,118 @@
+Bataan; The annihilation Pursuit
+Terakan
+Subic Bay N.B.
+Oranie
+Moron
+Bagak [PORT]
+Bilanga
+Orion [PORT]
+Corregidor
+21 Inf. Group/[14 Army]
+21 Inf. Group/[14 Army]
+21 Inf. Group/[14 Army]
+91 ID/[I]
+91 ID/[I]
+91 ID/[I]
+1 ID/[I]
+1 ID/[I]
+1 ID/[I]
+1 ID/[I]
+1 ID/[I]
+11 ID/[I]
+11 ID/[I]
+11 ID/[I]
+2 ID/[I]
+41 ID/[II]
+41 ID/[II]
+41 ID/[II]
+21 ID/[II]
+21 ID/[II]
+21 ID/[II]
+51 ID/[II]
+51 ID/[II]
+51 ID/[II]
+[Malinta Tunel]
+2 ID/[I]
+31 ID/[II]
+31 ID/[II]
+31 ID/[II]
+21 Inf. Group/[14 Army]
+4 ID/[14 Army]
+4 ID/[14 Army]
+4 ID/[14 Army]
+4 ID/[14 Army]
+4 ID/[14 Army]
+4 ID/[14 Army]
+65 Bde./[14 Army]
+65 Bde./[14 Army]
+65 Bde./[14 Army]
+65 Bde./[14 Army]
+[14 Army]
+[14 Army]
+[14 Army]
+[14 Army]
+[14 Army]
+[14 Army]
+[14 Army]
+16 ID/[14 Army]
+16 ID/[14 Army]
+16 ID/[14 Army]
+16 ID/[14 Army]
+16 ID/[14 Army]
+[I]
+[II]
+[I]
+[Corregidor Garrison]
+[Corregidor Garrison]
+[Corregidor Garrison]
+41 ID/[II]
+2 ID/[I]
+2 ID/[I]
+1 ID/[I]
+[USAEF]
+[USAEF]
+[14 Army]
+[14 Army]
+[14 Army]
+[14 Army]
+[14 Army]
+[USAEF]
+11 ID/[I]
+21 ID/[II]
+[14 Army]
+Culo River
+Olongapo : PORT
+Pampanga River
+Orani River
+Batalan River
+Balantay River
+Mt Natib : MOUNTAIN
+Mabatang
+Mt Silanganan : MOUNTAIN
+Pilar River
+Bagac River
+Pilar
+Mauban
+Bagac
+Orion
+Gogo River
+Mt Bataan : MOUNTAIN
+Gogo River : STREAM
+Mt Limay : MOUNTAIN
+Limay
+Lamao
+Cabcaben
+Mariveles
+Mariveles : PORT
+Corregidor Island : ROUGH
+Corregidor Island : HILL
+Corregidor Island
+Caballo Island : HILL
+Mount Samat
+Kimura Detachment/[14 Army]
+Kimura Detachment/[14 Army]
+Kimura Detachment/[14 Army]
+Kimura Detachment/[14 Army]
+[USAEF HQ]
+[II Corps HQ]
+[I Corps HQ]

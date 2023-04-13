@@ -1,0 +1,13 @@
+Lang Son
+
+Feb 9th, 1885
+
+The Lang Son campaign started on February 3rd. A total of twelve French battalions left their camps at Chu and marched against Thanh Moy and Dong Song. Our Chinese troops faced twice as many enemies as they had previously fought at Kep and Núi Bop, so initially nothing could be done in order to stop them. In just six days they had already taken positions at Deo Quao and Pho Bu, and it seemed that the loss of Lang Son was inevitable. 
+
+But my patron was a resolute man. He ordered our best troops to make a last stand at Cut and Pho Vy, blocking the two main roads that the French were using in their offensive on Lang Son, and to retake Deo Quao at all costs.
+
+Victory conditions:
+- Take all the VHs.
+
+Special note:
+- The units that take Pho Bu and the French camp will obtain +120 exp. each.

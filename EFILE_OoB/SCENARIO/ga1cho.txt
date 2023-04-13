@@ -1,0 +1,251 @@
+Normandy or Italy?
+Atlantic Ocean
+Norvegian Sea
+Arctic Ocean
+Barents Sea
+North-East Strait
+Murmansk (PORT)
+Trondheim
+Lake Inari 
+Tchechskaya Bay
+North Sea
+White Sea
+Belushye
+Baltic Sea
+Arkhangelsk
+Gulf of Botnia
+Lake Onega
+Feroe Islands (OCEAN)
+Helsinki
+Lake Ladoga
+Petrozavodsk
+Vologda
+Shettland Islands (OCEAN)
+Bergen (PORT)
+Oslo
+Lake Mälar
+Leningrad (PORT)
+Ozero Beloïe
+Scapa Flow (PORT)
+Lake Vänern
+Stockholm
+Gulf of Finland
+Neva
+Yaroslav
+Gorki
+Lake Vättern
+Gulf of Riga
+Tallinn
+Lake Peipus
+Volkhov
+Lake Ilmen
+Kalinin
+Rybinskoye Ozero
+Riga
+Velikije Luki
+Moscow
+Kuibishev
+Bug
+Daugava
+Berezina
+Vitebsk (AIRFIELD)
+Belfast (OCEAN)
+Glasgow
+Kiel (PORT)
+Vistula
+Koenigsberg
+Vilna
+Smolensk
+Liverpool
+Carlisle (AIRFIELD)
+Newcastle (AIRFIELD)
+Bremen
+Elbe
+Rostock
+Kolberg
+Danzig (PORT)
+Minsk
+Dublin
+Birmingham
+Manchester
+London
+Ijsselmeer
+Wilhelmshaven (PORT)
+Dortmund (FLUGHAFEN)
+Oder
+Poznan
+Warsaw
+Bialystok (AIRFIELD)
+Bryansk
+Orel
+Kursk
+Brighton (AIRFIELD)
+Harwich (OCEAN)
+Antwerp (PORT)
+The Hague (PORT)
+Rhine
+Essen
+Berlin
+Spree
+Lodz
+Brest-Litovsk
+Plymouth (PORT)
+Channel
+Portsmouth (OCEAN)
+Calais
+Brussels
+Bonn
+Leipzig
+Breslau
+Kiev
+Karkhov
+Don
+Volga
+Cherbourg (PORT)
+Dieppe
+Seine
+Sedan
+Frankfurt
+Danube
+Dresden (FLUGHAFEN)
+Carpaths
+Krakow
+Lvov
+Dniepr
+Donets
+Brest (PORT)
+Lorient (PORT)
+Loire
+Caen (AEROPORT)
+Paris
+Metz
+Stuttgart
+Berchtesgaden
+Vienna
+Dniepropetrovsk
+Stalino
+Rostov
+Stalingrad
+St Nazaire (PORT)
+Strasbourg
+Zurich (SUISSE)
+Constance Lake
+Alpes
+Budapest
+Cluj
+Cernauti
+Azov Sea
+Bay of Biscay
+La Rochelle (PORT)
+Vichy
+Lyon
+Lausane (SUISSE)
+Aosta
+Milano
+Zagreb
+Black Sea
+Simferopol
+Astrakhan
+Garonne
+Rhône
+Geneve (SUISSE)
+Turin (AEROPORTA)
+Genoa
+Venezia
+Adriatic Sea
+Trieste
+Ploesti
+Kishinev
+Odessa (PORT)
+Sevastopol
+Maikop
+La Coruna (PORT)
+Bilbao (OCEAN)
+Toulouse
+Marseille (PORT)
+Mediterranean Sea
+Spezia (PORT)
+Florence
+Sarajevo
+Belgrade
+Bucharest
+Constanta
+Mount Elbrouz
+Grozny (AIRFIELD)
+Vigo
+Santander
+Pirineos
+Livorno
+Ragusa
+Sofia
+Marica
+Tiflis
+Porto (PORTUGAL)
+Douro
+Zaragoza
+Barcelona
+Bonifacio (OCEAN)
+Rome
+Cassino
+Istanbul
+Batum
+Madrid
+Valencia
+Napoli (PORT)
+Tirana
+Salonika
+Egean Sea
+Marmara Sea
+Ankara
+Lisbon (PORTUGAL)
+Tage
+Palma (OCEAN)
+Cagliari (PORT)
+Tarento (PORT)
+Durazzo (OCEAN)
+Mytilene (OCEAN)
+Tabriz
+Sevilla
+Cordoba
+Cartagena (OCEAN)
+Palermo
+Straits of Messina
+Athens
+Cadiz
+Gibraltar (PORT)
+Granada
+Algiers
+Tunis (PORT)
+Andros (OCEAN)
+Konya
+Antioch
+Aleppo
+Mosul
+Tangiers (OCEAN)
+Constantine
+Malta (AIRFIELD)
+Rhodes (OCEAN)
+Oran
+Crete (AIRFIELD)
+Cyprus (AIRFIELD)
+Casablanca (PORT)
+Beirut
+Damas
+Munawir
+Marrakech
+Tripoli (PORT)
+Haifa (PORT)
+Bengasi
+Tobruk (PORT)
+Alexandria (PORT)
+Nile
+Jerusalem
+Amman
+Kaf
+Buerat
+Quattara Depression
+Cairo
+Suez
+Port Said (PORT)
+Normandy
+Italy

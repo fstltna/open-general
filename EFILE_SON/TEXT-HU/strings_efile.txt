@@ -1,0 +1,151 @@
+* Each section must be identified by a header section
+* enclosed by square brackets, i.e: [sides]
+* watch out header section spelling!
+* You can omit one or more sections if you don’t need different
+* (insert an asterisk at start of line including section header)
+* but any section you include, must include all items
+* ------------------------------------------------------------------
+* All sections are commented out for this template
+* uncomment only those sections you need to redefine
+
+[results]
+Elsöprõ gyõzelem
+Gyõzelem
+Taktikai gyõzelem
+Vereség
+
+[targets]
+Könnyû célpont
+Lovassági célpont
+Vízi célpont
+Erõdített célpont
+
+[spaces]
+Szárazföldi
+(NU)
+
+[movement]
+Nehézlovas
+(NU)
+Szekér
+Gyalog
+Vontatott
+(NU)
+(NU)
+Partmenti
+Lovas
+Partraszálló
+Vízi
+Hegyi
+Vasút
+(NU)
+
+[transports]
+Nem szállítható
+Vízi
+(NU)
+(NU)
+Vasúti
+(NU)
+
+[classes]
+Nincs
+Gyalogság
+Lovasság
+Könnyûlovasság
+(NU)
+(NU)
+Erõdítmény
+Csapatszállító
+Vasúti szállító
+Tüzérség
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)
+Csatahajó
+(NU)
+Tengeri szállító
+Fregatt
+(NU)
+Naszád
+
+[requisition]
+Váltás Szárazföldi / Vízi egységek között
+(NU)
+(NU)
+Erõdítmény választása
+(NU)
+Tüzérség választása
+Gyalogság választása
+Könnyûlovasság választása
+Lovasság választása
+(NU)
+(NU)
+(NU)
+(NU)
+(NU)
+(Csatahajó választása)
+(NU)
+(Fregatt választása)
+(NU)
+(Naszád választása)
+Egység átnevezése
+Egység föloszlatása
+Kilépés
+
+[terrain]
+MEZÕ
+VÁROS
+(REPÜLÕTÉR)
+ERDÕ
+BOZÓT
+DOMB
+HEGY
+HOMOK
+MOCSÁR
+TENGER
+FOLYÓ
+ERÕD
+KIKÖTÕ
+PATAK
+MEREDÉLY
+ÁTSZELHETETLEN
+RÖGÖS
+MURVA
+ÚT
+VASÚT
+[terrain2]
+LAGÚNA / TÓ
+
+[sides]
+Forradalmiak
+Császáriak
+
+[unitdata]
+Vezetõ
+Szállítás
+Ország
+Tapasztalat
+Tapasztalati szint
+Állókészség
+Lõszer
+Erõsség
+Lõtáv
+Kezdeményezés
+Földerítés
+Mozgás módja
+Lovasság támadása
+Könnyû támadás
+Vízi támadás
+Erõd támadása
+Földi védelem
+Vízi védelem
+Közeli védelem
+Védelem módosító
+Osztály
+Ár

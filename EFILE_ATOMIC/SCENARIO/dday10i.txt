@@ -1,0 +1,15 @@
+Situation:
+
+The germans have launched a huge counteroffensive in the Ardennes. Several Panzer Divisions are attacking our troops at the moment. Their best units are deployed in the north, while their weaker forces are attacking in the south. Reinforcements are on the way and will arrive the battlefield in a few days.
+
+Orders: 
+
+Stop the german offensive and hold / recapture
+
+13 VHs for BV
+4 VHs for a V
+3 VHs for a TV
+
+A hint:
+
+The germans have supllied their Panzer Divisions. Especially in the north you have to face several tank and tank-destroyers units. It seems that we are to weak to stop the germans with a offensive. Maybe you should await the germans behind the Ourthe river.

@@ -1,0 +1,40 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  89  '  PzJag I  [ AT  Deutschland]  Cost: 168
+ 101  '  15 sIG auf PzIB  [ATY  Deutschland]  Cost: 372
+ 108  '  40 SS Infanterie (mot)  [INF  Deutschland]  Cost: 228
+ 110  '  40 Pioniere  [INF  Deutschland]  Cost: 432
+ 143  '  Pz IIIG  [ TK  Deutschland]  Cost: 348
+ 148  '  Pz IVD  [ TK  Deutschland]  Cost: 396
+ 615  '  40 Aufklarungsinfanterie  [RCN  Deutschland]  Cost: 168
+ 728  '  Do 17Z-2  [ TB  Deutschland]  Cost: 864
+ 744  '  7,5 LG40  [ATY  Deutschland]  Cost: 312
+ 775  '  Fw 200C-3  [ LB  Deutschland]  Cost: 840
+1241  '  40 FJ MG  [ AT  Deutschland]  Cost: 228
+1248  '  40 SS Kavallerie  [INF  Deutschland]  Cost: 132
+2815  '  Panzerzug  [ATY  Deutschland]  Cost: 480
+2954  '  Bf 109T-1  [FTR  Deutschland]  Cost: 996
+2955  '  Fi 167A-0  [ TB  Deutschland]  Cost: 684
+2956  '  Ar 196A-3  [ TB  Deutschland]  Cost: 732
+3269  '  40 Grossdeutschland  [INF  Deutschland]  Cost: 228
+3295  '  Do 17Z-1  [ LB  Deutschland]  Cost: 660
+3414  '  40 Bruckenpioniere  [INF  Deutschland]  Cost: 192
+3420  '  40 Schutzen  [INF  Deutschland]  Cost: 228
+3421  '  40 Kradschutzen  [INF  Deutschland]  Cost: 264
+3442  '  40 Gebirgsjager  [INF  Deutschland]  Cost: 336
+3443  '  40 Gebirgspioniere  [INF  Deutschland]  Cost: 816
+3447  '  40 Kavallerie  [INF  Deutschland]  Cost: 156
+3453  '  40 Luftlande-infanterie  [INF  Deutschland]  Cost: 276
+3491  '  40 Aufklarungskavallerie  [RCN  Deutschland]  Cost: 156
+3495  '  40 MG Infanterie  [ AT  Deutschland]  Cost: 120
+4335  '  Ju 88A-1  [ TB  Deutschland]  Cost: 960
+4402  '  Ju 87R-2  [ TB  Deutschland]  Cost: 648
+4537  '  Bf 109E-7/B  [ TB  Deutschland]  Cost: 972
+4772  '  Do 215B-4  [ TB  Deutschland]  Cost: 696
+5053  '  Bf 109E-4/Trop  [FTR  Deutschland]  Cost: 936
+5061  '  Fw 200C-1  [ LB  Deutschland]  Cost: 792
+5065  '  He 100D-1  [FTR  Deutschland]  Cost: 948

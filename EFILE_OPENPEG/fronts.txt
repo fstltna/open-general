@@ -1,0 +1,914 @@
+* Read carefully before editing!
+* Each line can be any lenght, but only first 96 chars will be read
+* Emply lines and those starting with * will be skipped.
+*-------------------------------------------------------------------
+* Fronts & Factions
+* . Can define for a maximun of 254 workable countries
+* . plus AllCountries (number 0) and NoCountry (number 255)
+* . Can define Fronts/Factions for just a few countries
+* .
+* . To define Fronts for any country:
+* . Lines starting with a single number defines country for next fronts/factions
+* . can include country name after a space or tab, but won't be read
+* . lines starting with # are read as a front name
+* . lines starting with @ are read as a faction name
+* . and belong to the last country read
+* If more than 254 countries are found, only first 254 will be used.
+* If more than 32 fronts/factions are found only first 32 will be used.
+* ---------------------------------------------------
+
+1 United States
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+2 Russia
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+3 China
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+4 Iran
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+5 North Korea
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+6 South Korea
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+7 Saudi Arabia
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+8 Communist Afghanistan 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+9 United Kingdom 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+10 Thailand 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+11 Turkey 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+12 Iraq 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+13 Kuwait 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+14 Syria 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+15 Israel 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+16 Taiwan 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+17 India 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+18 Egypt 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+19 Pakistan 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+20 United Nations 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+21 Germany 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+22 Singapore 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+23 Japan 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+24 Ukraine 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+25 France 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+26 Vietnam 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+27 Indonesia 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+28 Mongolia 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+29 Australia 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+30 Kazakhstan 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+31 Malaysia 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+32 Soviet Union 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+32 Soviet Union 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+33 Islamic Afghanistan 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+34 Taliban 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+35 Afghani Rebels 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+36 Jordan 
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+37 Palestine
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+
+
+
+38 Argentina
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@Security Forces
+@Towed Units
+@Self Propelled
+@Armored
+@Airborne
+@Attack Helicopters
+@Interceptors
+@Tactical Support
+@Strategic Support
+@Command
+@Construction
+@Drones
+@None
+@Militia
+*

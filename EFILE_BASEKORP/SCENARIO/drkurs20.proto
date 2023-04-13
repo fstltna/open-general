@@ -1,0 +1,17 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 608  '  43 Pzgrenadiere (mot)  [INF  SS]  Cost: 300
+3833  '  43 Pzgrenadiere (gep)  [INF  SS]  Cost: 624
+5236  '  2 Flakvierling38  [FlaK  SS]  Cost: 108
+5238  '  FlakPz 38  [FlaK  SS]  Cost: 276
+5261  '  Marder I  [ AT  SS]  Cost: 312
+5270  '  Sturmgeschutz IV  [ AT  SS]  Cost: 516
+5271  '  lePzJag IV  [ AT  SS]  Cost: 492
+5330  '  leSPW (2)  [RCN  SS]  Cost: 360
+5332  '  leSPW (7,5)  [ AT  SS]  Cost: 312
+5335  '  sPzSpWg (2)  [RCN  SS]  Cost: 384
+5336  '  sPzSpWg (5)  [RCN  SS]  Cost: 492

@@ -1,0 +1,32 @@
+'---
+'Config purchase file for scenario: BN9S11.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 43 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+  77  '  5cm PaK38  [ AT  Germany]  Cost: 108
+  78  '  7.5cm PaK40  [ AT  Germany]  Cost: 180
+  92  '  10.5cm leFH18  [ATY  Germany]  Cost: 288
+  93  '  15cm sFH18  [ATY  Germany]  Cost: 492
+ 110  '  Engineers  [INF  Germany]  Cost: 492
+ 111  '  Grenadiers  [INF  Germany]  Cost: 144
+ 597  '  7.5cm PaK97/38  [ AT  Germany]  Cost: 120
+1363  '  sIG 33  [ AT  Germany]  Cost: 216
+1378  '  Construction  [INF  Germany]  Cost: 228
+2388  '  12cm GrW42  [ATY  Germany]  Cost: 216
+2393  '  10cm NbW35  [ATY  Germany]  Cost: 156
+2419  '  8cm GrW34  [ATY  Germany]  Cost: 108
+2442  '  Light Infantry  [INF  Germany]  Cost: 108
+3375  '  Combat Command  [INF  Germany]  Cost: 144
+4659  '  Recon Cavalry  [RCN  Germany]  Cost: 144
+4662  '  MG Infantry  [ AT  Germany]  Cost: 132
+4734  '  AT Infantry  [ AT  Germany]  Cost: 120
+5178  '  Recon Infantry  [RCN  Germany]  Cost: 120
+6619  '  15cm sFH37(t)  [ATY  Germany]  Cost: 744
+6714  '  15cm sFH13  [ATY  Germany]  Cost: 324
+6715  '  10.5cm leFH16  [ATY  Germany]  Cost: 180

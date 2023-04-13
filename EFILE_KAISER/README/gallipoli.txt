@@ -1,0 +1,53 @@
+"British Gallipoli Campaign" v.1.00
+==========================
+by Patrick Steinmann
+
+
+I. 	INTRODUCTION
+II.	THANKS
+III.	SOURCES
+IV.     CONTACT
+
+I. INTRODUCTION
+
+This campaign includes 11 playable scenarios and one "Campaign Path Choice" scenario. Both paths will end with the Cape Helles Evacuation after 8 scenarios. You may find some of the scenarios hard, but I can assure you that all can be won.
+Your core army comprises of two brigades of the British 29th Divison, which was respectfully called "The Immortal 29th", a regular army division. You will notice that there are no British first line troops available at the purchasing screen. Historically accurate as it is, Toliy's equipment file reflects the lack of regular units in the British Army after the costly battles of 1914/15. This and the small amount of prestige you will get in my campaign means that most of the time you can only buy Second Line (representing 'New Army' or Territorial battalions) or Commonwealth troops, which makes the loss of one of your 29th Division battalions even more regrettable. 
+
+When I started working on this campaign many months ago, I had the intention that it should be both historically accurate as well as entertaining for the player. You may judge yourself how close I came to this. For this purpose, I have added some short info on the historical outcome of the specific battle in the after scenario briefing.
+
+Now that all work is done, all that is left for me to do is wishing you good luck for my campaign and hoping that you will have as much fun playing it as I had creating it.
+
+II. THANKS
+- Jurgen "Wonderdoctor" Smet for playtesting some of the scenarios and giving me valuable feedback
+- Toliy for fulfilling all my unit wishes and adding quite a few new Turkish units to his great Baltic Efile
+- Juan Carlos Preciado for creating many wonderful wwi icons that you will see in the game
+
+III. SOURCES
+
+Books:
+Arthur Banks "A Military Atlas Of The First World War", Leo Cooper 1998
+Field Marshal Lord Carver "The Turkish Front 1914-1918", Pan Books 2004
+K.Fewster/V.Basarin/H.Hürmüz Basarin "Gallipoli: The Turkish Story", Allen & Unwin 2003
+John Keegan "The First World War", Vintage Books 2000
+Philip J. Haythornthwaite "Gallipoli 1915", Osprey Military Campaign Series 2000
+Tim Travers "Gallipoli 1915", Tempus Publishing 2004
+
+Web sources:
+http://www.awm.gov.au/histories/index.asp
+http://www.awm.gov.au/events/conference/gallipoli_symposium/celik.htm
+http://www.diggerhistory.info
+http://www.turkeyswar.com
+http://www.nzetc.org/tm/scholarly/tei-WaiNewZ-c15-1.html
+http://www.keepmilitarymuseum.org/gallipoli/index.php?
+http://www.gallipoli-association.org/
+
+IV. CONTACT
+I always appreciate feedback and comments and I am glad to help if you encounter any problems in installing or playing my campaign. So don't hesitate to contact me. :)
+
+Webpage: http://de.geocities/greatwargeneral (still under construction)
+E-mail: greatwargeneral@yahoo.de
+
+Have fun! :)
+
+Patrick Steinmann
+September 24th 2006

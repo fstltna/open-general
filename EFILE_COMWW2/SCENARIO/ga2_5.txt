@@ -1,0 +1,124 @@
+Operation Maus
+Sambek River
+Tuzlov River
+Bol'shoi Nesvetai River
+Malyi Nesvetai
+Grushevka River
+Sovetka
+Chistopolye
+Voloshino
+Aleksandrovka
+General'skoye
+Oktyabr'skiy
+Budennyi
+Nesvetai
+Kamennyi Brod
+Grushevskaya
+Novocherkassk
+Bol'shie Saly
+Aksai River
+Krivyanskaya
+Shchepkin
+Bol'shoi Mishkin
+Sultan-Saly
+Veselyi
+Krasnyi Krym
+Krym
+Bol'shoi Log
+Sinyavka
+Chaltyr'
+Ordzhonikidze
+Mertvyi Donets River
+Kalinin
+Rostov
+Severnyi
+Aksaiskaya
+Starocherkasskaya
+Don River
+Lagutnik
+Aleksandrovskaya
+Arpachin
+Krasnyi Gorod-Sad
+Sred. Kuter'ma River
+Nizhnegnilovskoi
+Kuter'ma River
+Bol. Kuter'ma River
+Ol'ginskaya
+Nizhnepodpol'nyi
+Rukav Kalancha River
+Rogozhkino
+Mokraya Kalancha River
+Koisug River
+Bataisk
+Azov
+Kuleshovka
+Kagal'nik River
+Khomutovskaya
+Krugloye
+Peshkovo
+Platono-Petrovka
+Novonikolayevka
+Veselyi Airfield
+Rostov Airfield
+Khoutomskova Airfield
+LXVIII/NB
+LXXXI/NB
+LXXVI/NB
+LXXV/31
+XXXV/30
+LXXI/30
+XVI/56
+XXXIX/4
+CI/4
+CCXX/4
+CIV/31
+CDIV/176
+DXCI/176
+DCXLVII/216
+DCLXV/216
+DCCXIV/395
+DCCXXIII/395
+CMLXXVIII/261
+CMLXXIV/261
+MCLXXV/347
+MCXXXIII/339
+MCXXXVII/339
+CCCLXXIV
+LIX/30
+XXXII/31
+MCXCV
+XIV
+VIII
+DCXCII/395
+IV/SWF
+CXXIII/TB
+VI/TB
+I/9
+XI/SFD
+XX/SFD
+XXI/SFD
+IV/13
+XXXVI/14
+CVIII/14
+LXVI/13
+CIII/14
+XCIII/13
+CLXX/73
+CXXIX/22
+XXXVI/9
+DXXV/298
+CDXX/125
+XIII/4
+XCI/4
+CCIV/22
+XL/14
+CXL/22
+Uncle Leon
+HQ
+Railroad
+Sea of Azov
+Abandoned Airfield
+ROUGH
+CLEAR
+FOREST
+Forward Base

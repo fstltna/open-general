@@ -1,0 +1,15 @@
+Buda
+May 4, 1849
+
+Citoyen General! What a glorious campaign! Your soldiers fought like ancient heroes and liberated most of our beloved country! Unfortunately at the end of the campaign our forces became tired and we are almost out of ammunition. We aren’t well-prepared to chase the imperials toward Vienna. The NDC decided you have to turn back and siege the encircled capital. Buda is the heart of the country and the nation. It would be a shame to let it stay in the hands of the enemy. By liberating the capital our supply lines will be shortened too.
+
+Deploy Hexes: 15
+
+ORDER: Take all VHs.
+
+NOTES:
+- No need to buy siege cannons, you will get some as reinforcement.
+- Don't sell you extra units, you can deploy them later.
+- If you don't like the defensive scenarios against a superior enemy, you can win the campaign with a Marginal Victory (TV) here.
+
+scenario designer: Csaba (lvjtn)

@@ -1,0 +1,116 @@
+Rostov 41
+Sambek River
+Tuzlov River
+Bol'shoi Nesvetai River
+Malyi Nesvetai
+Grushevka River
+Sovetka
+Chistopolye
+Voloshino
+Oktyabr'skiy
+General'skoye
+Budennyi
+Aleksandrovka
+Nesvetai
+Kamennyi Brod
+Grushevskaya
+Novocherkassk
+Bol'shie Saly
+Bol'shoi Mishkin
+Aksai River
+Krivyanskaya
+Shchepkin
+Mishkovka
+Veselyi
+Sultan-Saly
+Strovska
+Krasnyi Krym
+Krym
+Bol'shoi Log
+Sinyavka
+Chaltyr'
+Kalinin
+Severnyi
+Rostov
+Ordzhonikidze
+Aksaiskaya
+Starocherkasskaya
+Mertvyi Donets River
+Aleksandrovskaya
+Don River
+Lagutnik
+Krasnyi Gorod-Sad
+Arpachin
+Mertvyi Gorod-Sad
+Sred. Kuter'ma River
+Nizhnegnilovskoi
+Nizhnepodpol'nyi
+Kuter'ma River
+Bol. Kuter'ma River
+Rogozhkino
+Ol'ginskaya
+Mokraya Kalancha River
+Rukav Kalancha River
+Koisug
+Bataisk
+Koisug Most
+Azov
+Kuleshovka
+Kagal'nik Most
+Khoutomskova
+Kagal'nik River
+Khomutovskaya
+Krugloye
+Peshkovo
+Grosny Most
+Platono-Petrovka
+Novonikolayevka
+Kraskynova
+Petrokova
+Rostov Airfield
+Retreat to Mius River
+I/128
+II/128
+III/128
+III/31
+II/31
+I/31
+II/183
+III/183
+I/30Kv
+II/30Kv
+II/34Kv
+I/70Kv
+II/70Kv
+CXXIII/TB
+CXXV/TB
+III/37A
+LI/9A
+II/9A
+I/56A
+II/37A
+II/37A
+III/9A
+I/9A
+IV/37A
+I/183
+II/56A
+I/37A
+I/SWF
+II/SWF
+Felix Steiner
+Novonikolayevka Airfield
+Destroyed Airfield
+Arpachin Airfield
+II/1SS
+IV/1SS
+III/1SS
+LXVI/13
+XXXVI/13
+III/L4
+Railroad
+Sovetka
+Sea of Azov
+FOREST
+SNOW/SAND
+CLEAR

@@ -1,0 +1,7 @@
+The Fourth Battle of Kharkov - August 1943
+The Soviet 5th Guards tank army that got badly mauled at Prokhorovka when meeting your forces in mid July has been rebuilt. It has rushed through the gap between our 4th Pz Army and Group Kempf and is now threatening Kharkov. A Kampfgruppe of the 3rd Pz Division, the 198ID and some corps troops are defending the city. They urgently need your help to stop the flood of T34 tanks.
+
+PLAYER ORDERS
+- Strength lost on core units will be automatically replaced at HQ at the start of the next scenario.
+- New units can be acquired at HQ at the start of the next scenario.
+- Keep control of 5 out of the 6 victory hexes at the end of the scenario for brilliant victory, 2 for victory and 1 for tactical victory.

@@ -1,0 +1,7 @@
+The German Counteroffensive
+
+03/27/1945
+
+To open a road to the Kuestrin Fortress, General Karl Decker's XXXIXth Panzer Corps was given the 25th and 20th Panzergrenadier-Divisions, the 'Fuehrer' Grenadier-Division, the 'Muencheberg' Panzer-Division, the '1001 Nacht' Battle Group, and the 502nd schwere SS-Panzerabteilung. These units had the task of breaking through the Soviet defenses as far as the Oder dike. The attack began at 0400 hrs.
+
+New units have strength 8 and experience 75. Your core takes the positions of the 'Fuehrer' Grenadier-Division.

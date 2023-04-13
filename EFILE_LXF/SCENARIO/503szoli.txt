@@ -1,0 +1,17 @@
+09. Szolnok (Battle of Debrecen) 19-22 October 1944
+
+General Pliyev's Mechanized Group is close to capture Debrecen, the largest city of the Hungarian Plain. If the Soviets succeeded, the VIII. Armee retreating from North-Transylvania would be completely cut off. General Fretter-Pico is planning a bold counterattack, but the Red Army overwhelmingly outnumbers the available German troops in the area. Your job is launching a diversionary attack from the Szolnok-Törökszentmiklós bridgehead and attract the attention as much Soviet divisions as possible and bleeding them out.
+
+24. Panzer Division and 4. SS Pz.Grenadier Division are under your command, while the Hungarian 20th Infantry Division acts independently.
+
+TACTICAL ORDERS
+At the end of the 24 turn scenario, hold 6 VH for Brilliant Victory, 4 for Victory and 3 for Tactical Victory. Any lower number will result in Loss.
+
+
+NOTES: 
+- The enemy gets strong and permanent reinforcements after the first day (game
+ turn 6).
+- Units will not be automatically reinforced to strength 10 at the end of the scenario.
+
+SCENARIO DESIGNER
+Csaba - lvjtn

@@ -1,0 +1,2387 @@
+Altieri
+Ankerstjerne
+Bird
+Brabant
+Brown
+Daccache
+Felling
+Gabitto
+Neuhaeuser
+Gruber
+Gutalinn
+Guzman
+Hedstrom
+Heldrup
+Henry
+Hone
+Jensen
+Jurgen
+Kirby
+Luigi
+Nies
+Patterson
+Peterson
+Radoye
+Santiago
+Stoytschew
+Swiatkiewicz
+van Dasler
+Viceroy
+von Adler
+Usachev
+Bartos
+Blaha
+Bozik
+Catlos
+Cyprich
+Geric
+Gerthofer
+Golian
+Gruber
+Adlerek
+Hanovec
+Janousek
+Jurech
+Kovarik
+Kratky
+Kubela
+Kuna
+Lendvay
+Malar
+Matusek
+Novak
+Ocvirk
+Palaticky
+Pilfousek
+Pulanick
+Reznak
+Rychtrmoc
+Sidor
+Stauder
+Talsky
+Turanec
+Anielewicz
+Formanski
+Gorski
+Grabowsky
+Grzelonski
+Gucwa
+Haremza
+Jonowsky
+Jaskulski
+Kaniewski
+Kasprzyski
+Kruk
+Krukowski
+Pogorzelski
+Kucharska
+Masztalerz
+Mielczarek
+Modrzejewski
+Motowidlak
+Mozdzierz
+Mszanski
+Niemczyk
+Pajakiewicz
+Pawliszyn
+Piontek
+Krzyzewski
+Komorowski
+Okulicki
+Stachowiak
+Zebrowski
+Zurakowski
+Ankjær
+Beck
+Brun
+Bahnson
+Gerlach
+Suenson
+Lunding
+Müller
+Hedemann
+Stockfleth
+Sorensen
+Zahrtmann
+Marstrand
+Steinmann
+Lundbye
+Fink
+Wenck
+Raasløff
+Oxholm
+Polder
+de Meza
+Madsen
+von Lüttichau
+Kauffmann
+Hansen
+Haffner
+Flensburg
+Rye
+Schleppegrell
+von Krogh
+Wulff
+Anders
+Eckersberg
+Erichsen
+Fjeldstad
+Fleischer
+Gran
+Hatledal
+Hauge
+Helset
+Holm
+Hviden Haug
+Johanssen
+Laake
+Lambrechts
+Laurantzon
+Liljedal
+Ljungberg
+Mohr
+Motzfeldt
+Nielsen
+Ostbye
+Abraham
+Berling
+Reistad
+Ruge
+Steffens
+Storheil
+Sundlo
+Sverdrup
+von Hansteen
+Waage
+Appel
+Berlage
+Blaeu
+Cruyff
+Cuypers
+Dubois
+Fahrenheit
+Van den Broek
+Tellinghuisen
+Hooft
+Mondrian
+Van Rijn
+Spinoza
+Vondel
+Sweelinck
+Rosenvelt
+Koolhaas
+Rietveld
+Verhoeven
+Vermeer
+Meegeren
+Escher
+Van Doesberg
+Groote
+Huygens
+de Ruyter
+Tromp
+Van Andl
+Zijlstra
+Van Buren
+Van Eyck
+Baele
+Bottu
+Bogaert
+Museeuw
+Challons
+Dierckxens
+Bello
+Cordier
+Naaktgeboren
+de la Chevallerie
+Hetterschijt
+Cattiaux
+de Vette
+Gabignon
+Merckx
+Desbiolles
+Boonen
+Laperre
+Wouters
+Mapans
+Michels
+Dethier
+Lagrou
+van Hulse
+Pauli
+Grootaers
+Smet
+Sardeur
+Sardeur
+Vanderaerde
+Vandegeneugten
+Beauregard
+Polignac
+Albert
+Demozay-Morlaix
+Le Gloan
+Meslee
+Andre
+La Poype
+Littolff
+Dorance
+Guynemer
+Madon
+Boyau
+Coiffard
+Bourjade
+Bizot
+Pinsard
+Fonck
+Nungesser
+Guerin
+Heurtaux
+Deullin
+Chaput
+Sardier
+Daladier
+Artigau
+Hugues
+Montrion
+Lenoir
+Navarre
+Quette
+Moelders
+Von Adler
+Schellmann
+Daubach
+Oesau
+Hartmann
+Mueller
+Von Bonin
+Lippert
+Klink
+Stauffenberg
+Barkhorn
+Nowotny
+Rudorffer
+Rudel
+Krupinski
+Steinhoff
+Sturm
+Beiswenger
+Gollob
+Hochstetter
+Lemke
+Rademacher
+Hoffmann
+Schultz
+Lowe
+Hahn
+Ostermann
+Wittmann
+Woidich
+Zweigart
+von Auenfels
+von Augustin
+von Gablenz
+Clam-Gallas
+von Uchatius
+Von Festetics
+von Benedek
+von Kuhn
+von Krismanic
+von Bauer
+von Beck-Rzikowsky
+von Bianchi
+von Bibra
+von Breithaupt
+von Mitrowitz
+von Coudenhove
+von Degenfeld-Schonburg
+von Hauslab
+von Gieslingen
+von Gablenz
+von Grünne
+von Heß
+von Horst
+von Jovanovic
+von Koller
+von Königsegg-Aulendorf
+von Krieghammer
+von Prokesch-Osten
+von Ramberg
+von Rodich
+von Tegetthoff
+Adler
+Brown
+Dickens
+Jensen
+Millar
+Reese
+Damon
+Roberts
+McCarty
+Kapler
+Burks
+Wakefield
+Williams
+Jackson
+Lee
+Johnston
+Hood
+Bragg
+Longstreet
+Breckenridge
+Stuart
+Powell
+Saunders
+Schwartzkoff
+Eastwood
+Savage
+Basilone
+Carter
+Zimmer
+Kinchloe
+Kirby
+Andersson
+Bergkvist
+Bachstedt
+Olsson
+Karlsson
+Ingesson
+Stjernkvist
+Anteskog
+van der Lancken
+Ljungskog
+af Svinhufvud
+Hjelm
+Rappe
+Kjellgren
+Tamm
+von Wachenfeldt
+Thestrup
+Ehrensvard
+Malmberg
+Dyrssen
+Bengtson
+Stark
+Klang
+Hamilton
+von Adler
+Hakansson
+Nordenskiold
+Pettersson
+Tjarnberg
+Tottie
+Trulsson
+von Baden
+von Beust
+von Beyer
+von Biedenfeld
+Becker
+Bornhäuser
+von Degenfeld
+von Freydorf
+von Freystedt
+von Ravensburg
+von Leszczynski
+von Linggenfeld
+von Pezold
+von Pfnorr
+von Porbeck
+von Diersburg
+von Suckow
+von Wahlen-Jürgass
+von Chelius
+von Gemmingen
+von Üxküll-Gyllenband
+von Scheffel
+von Trützschler
+von und zu Bodman
+von Boeckh
+von Collenberg-Eberstadt
+von Dusch
+von Reitzenstein
+von Stabel
+von Tettenborn
+von Wessenberg
+Bianchi
+Bandini
+Francona
+Mirabelli
+Visconti
+Martinoli
+Ferrulli
+Gatti
+Luciano
+Capone
+Corleone
+Stallone
+Gianella
+Lucchini
+Luccino
+Benati
+Bonzano
+Graziano
+Fanali
+Gorrini
+Martino
+Giardina
+Mariotti
+Fornaci
+Veronese
+Genovese
+Seganti
+Giambi
+Sterzi
+Tugnoli
+Zemella
+Dakic
+Gvozdenovic
+Popovic
+Petrovic
+Martinovic
+Vukotic
+Mijuskovic
+Radovic
+Matanovic
+Plamenac
+Gvozdenovic
+Vucinic
+Gvozdenovic
+Tomanovic
+Vujovic
+Jovanovic
+Jankovic
+Martinovic
+Vesovic
+Gojnic
+Vukotic
+Kosovac
+Bulatovic
+Vlahovic
+Medojevic
+Radulovic
+Milosavljevic
+Samardzic
+Vucinic
+Vujanovic
+Vucinic
+Asztalossy
+Bajnoczy
+Bakay
+Beregffy
+Bisza
+Braun
+Csatay
+Decleva
+Domaniczky
+Ehrlich
+Farkas
+Felkl
+Gorondy
+Grassy
+Hennyey
+Heszlenyi
+Hollosy
+Horvath
+Ibranyi
+Jany
+Kalman
+Kudriczy
+Lakatos
+Laszlo
+Lengyel
+Makay
+Miklos
+Nagy
+Nemeth
+Szabo
+Vargyassy
+Bartos
+Blaha
+Bozik
+Catlos
+Cyprich
+Geric
+Gerthofer
+Golian
+Gruber
+Hanovec
+Janousek
+Jurech
+Kovarik
+Kratky
+Kubela
+Kuna
+Lendvay
+Malar
+Matusek
+Novak
+Ocvirk
+Palaticky
+Pilfousek
+Pulanick
+Reznak
+Rychtrmoc
+Sidor
+Stauder
+Talsky
+Turanec
+Turanec
+Atanasiu
+Avramescu
+Baldescu
+Barzotescu
+Cealik
+Ciuperca
+Constantinescu
+Dascalescu
+Dragalina
+Dumitrache
+Dumitrescu
+Georgescu
+Gherghe
+Ionescu
+Korne
+Lascar
+Macici
+Negulescu
+Nicolau
+Palageanu
+Codreanu
+Potopeanu
+Racovita
+Rozin
+Sanatescu
+Sima
+Sion
+Sova
+Steflea
+Stoenescu
+Trestioreanu
+Andjelkovic
+Bojovic
+Bozanovic
+Ciric
+Dimitrijevic
+Djordjevic
+Dokic
+Gavrilovic
+Jankovic
+Jurisic-Sturm
+Karadjordjevic
+Katanic
+Lukicevic
+Markovic
+Masalovic
+Milojevic
+Misic
+Novak
+Popovic
+Putnik
+Radenkovic
+Rasic
+Ristic
+Smiljanic
+Sreckovic
+Stepanovic
+Terzic
+Vasic
+Zecevic
+Zivanovic
+Zivkovic
+Balakov
+Borimirov
+Hristov
+Houbchev
+Mihajlov
+Luboslav
+Ivanov
+Popov
+Petrov
+Sirakov
+Borimirov
+Stoichkov
+Luboslav
+Ivanov
+Popov
+Petrov
+Sirakov
+Borimirov
+Stoichkov
+Luboslav
+Ivanov
+Popov
+Petrov
+Stoichkov
+Luboslav
+Ivanov
+Popov
+Petrov
+Sirakov
+Stoichkov
+Tcherchesov
+Antonyuk
+Berzarin
+Bogdanov
+Chibisov
+Chuikov
+Fedyuninskiy
+Galinin
+Grechko
+Gusev
+Katukov
+Koniev
+Korneyev
+Krylov
+Kuznetsov
+Lelyushenko
+Malinovskiy
+Moskalenko
+Popov
+Radziyevskiy
+Romanenko
+Rybalko
+Ryabishev
+Sinenko
+Sviridov
+Timoshenko
+Trofimenko
+Vatutin
+Vlasov
+Yeremenko
+Zakharov
+Zhukov
+Cenic
+Cetkovic
+Cerni
+Dapsevic
+Drapsin
+Drljevic
+Gace
+Gosnjac
+Jaksic
+Jovanovic
+Jevic
+Soldiavic
+Krunic
+Lekic
+Loncar
+Marinovic
+Milojevic
+Moraca
+Nad
+Njegomir
+Ogulinec
+Adleric
+Parmac
+Pejnovic
+Petricevic
+Popovic
+Protic
+Rukavina
+Segrt
+Tarabic
+Todorovic
+Antic
+Bozic
+Brasic
+Cukavac
+Dimitrijevic
+Adleric
+Glisic
+Hanel
+Hristic
+Isakovic
+Jankovic
+Jovanovic
+Jurisic
+Kostic
+Kukavicic
+Ljubicic
+Lukic
+Maric
+Mihajlovic
+Mirkovic
+Naumovic
+Nedic
+Petrovic
+Predic
+Radenkovic
+Ristic
+Rupnik
+Simovic
+Stefanovic
+Varjacic
+Zelenika
+Allen
+Beresford
+Booth
+Bromhead
+Browne
+Buller
+Chard
+Coghill
+Dalton
+Dickens
+Fowler
+Hitch
+Hook
+Jones
+Leet
+Lysons
+Melvill
+O'Toole
+Reynolds
+Wassall
+Williams
+Jelicoe
+Harris
+Robertson
+Schofield
+Towse
+Traynor
+Turner
+Ward
+Young
+Younger
+Angelopoulos
+Charisteas
+Dimitriadis
+Bakopoulos
+Metaxas
+Mitropoulos
+Floros
+Georgiou
+Tsartas
+Spiros 
+Michelakakis
+Metapoulos
+Panagiotopoulos
+Papandreou
+Pachis
+Tsintakis
+Metaxas
+Mitropoulos
+Zagorakis
+Takis
+Tsartas
+Tsintakis
+Metaxas
+Mitropoulos
+Vlahos
+Petridis
+Papadakis
+Papantoniou
+Takis
+Zagorakis
+Zakaridis
+Mehmet
+Biret
+Tarkan
+Mevlana
+Hikmet
+Kemal
+Pamuk
+Sinan
+Hoca
+Rumi
+Osman
+Ozkok
+Ornek
+Alparslan
+Bey
+Keykubat
+Mehmet
+Ibrahim
+Fesa
+Kenan
+Dogan
+Ariburun
+Tulgan
+Batur
+Alpkaya
+Goker
+Goksenin
+Cuha
+Kilic
+Corekci
+Ucaner
+Asensio
+Barbastro
+Crespo
+Burillo
+Calderon
+Casado
+Davila
+Diaz
+Tiante
+Valenzuela
+Martinez
+Gomez
+Cabrera
+Gutierrez
+Rodriguez
+Liberino
+Lister
+Guerrero
+Mangada
+Mendiola
+Menendez
+Modesto
+Noval
+Oliva
+Prado
+Ramirez
+Sabin
+Taguena
+Urreta
+Valverde
+Villalba
+Alonso
+Aranda
+Barreda
+Barrón
+Beigbeder
+Benjumea
+de Harcourt
+de Portago
+Davila
+El Mizzian
+Fanjul
+Fernández
+Franco
+García
+Goded
+Gómez
+Infantes
+López Pinto
+Millán Astray
+Mola Vidal
+Morato
+Moreno
+Moscardó
+Muñoz Grandes
+Núñez de Olaneta
+Orgaz
+Salas
+Sanjurjo
+Tella
+Valino
+Yagü
+Aloisio
+Anxo
+Abrunheiro
+Bartolmeu
+Batista
+Bento
+Caetano
+Casimiro
+Damiao
+Gonçalvo
+Enrique
+Horacio
+Jacinto
+Antunes
+Urgeiro
+Aloisio
+Anxo
+Bartolmeu
+Abrunheiro
+Batista
+Bento
+Caetano
+Casimiro
+Damiao
+Gonçalvo
+Enrique
+Horacio
+Jacinto
+Antunes
+Salazar
+Urgeiro
+Arajuuri
+Autti
+Blick
+Fagernas
+Hagglund
+Hanell
+Hannuksela
+Heiskanen
+Hersalo
+Jarvinen
+Kaariainen
+Laatikainen
+Lagus
+Lundquist
+Makinen
+Malmberg
+Mannerheim
+Martola
+Melander
+Ohquist
+Paalu
+Pajari
+Raappana
+Siilasvuo
+Snellman
+Talvela
+Tapola
+Tuompo
+Viljanen
+Wihma
+Winel
+Alwer
+Ermus
+Jaerver
+Kalm
+Keepna
+Kert
+Kiiker
+Kint
+Kouts
+Kuperjanov
+Laaneots
+Laidoner
+Larka
+Lippus
+Nugiseks
+Pajukivi
+Partz
+Podder
+Puskar
+Puusepp
+Rebane
+Reiman
+Riipalu
+Rosenberg
+Soodla
+Soots
+Tiitso
+Timusk
+Tonisson
+Tuuling
+Unt
+Abeltins
+Andersons
+Bojars
+Brige
+Bubinduss
+Buks
+Ceplitis
+Daukss
+Duze
+Ezerins
+Grinbergs
+Gundars
+Hasmanis
+Jakobsons
+Kalnins
+Kaplak
+Karklins
+Kasparsons
+Kire
+Kleperis
+Kurse
+Liepins
+Lulaks
+Skujins
+Upenieks
+Vaivods
+Veveris
+von Brandes
+von Meden
+von Weimar
+Zemgalnieks
+Adomajtis
+Alekna
+Baipsys
+Baranauskas
+Brazonis
+Brevozsky
+Bundonis
+Cernauskas
+Cirtautis
+Czesnauskas
+Dagys
+Dauginas
+Deguits
+Dekus
+Dembinsky
+Gabrys
+Gedgautas
+Gustaitis
+Ivanauskas
+Krupavieius
+Liorentas
+Mastaukas
+Mukalauskas
+Nauseda
+Valeitis
+Rastikis
+Skipitis
+Skirpa
+Szeszlaukis
+Tauvilasa
+Valdemaras
+Bittrich
+Dietrich
+Hausser
+Gille
+Grieme
+Harmel
+Lohmann
+Keppler
+Kumm
+Klingenberg
+Mohnke
+Müller
+Neumann
+Nowak
+Ostendorff
+Petersen
+Phleps
+Rech
+Richter
+Rott
+Schäfer
+Skorzeny
+Streckenbach
+Steiner
+Trabandt
+Veith
+Wisch
+Witt
+Wunsche
+Wittmann
+Ziegler
+Alekseev
+Denikin
+Drozdovsky
+Kappel
+Kolchak
+Kornilov
+Bermondt-Avalov
+Kaledin
+Krasnov
+Kutepov
+Lieven
+Markov
+Yudenich
+Bulak-Balachowicz
+Pokrovsky
+Semyonov
+Krotkov
+Diterikhs
+Baratov
+Dutov
+Shkuro
+Molchanov
+May-Mayevsky
+Mamontov
+Ilyin
+Naumenko
+Rodzyanko
+Skorodumov
+Ungern-Sternberg
+Verzhbitsky
+Wrangel
+Bonzano
+Benati
+Fanali
+Francona
+Mirabelli
+Martinoli
+Ferrulli
+Gatti
+Luciano
+Capone
+Corleone
+Stallone
+Gianella
+Lucchini
+Luccino
+Graziano
+Gorrini
+Bianchi
+Bandini
+Martino
+Giardina
+Mariotti
+Fornaci
+Veronese
+Genovese
+Seganti
+Giambi
+Sterzi
+Tugnoli
+Visconti
+Zemella
+Balthasar
+Brunner
+Busch
+Hackl
+Von Dickens
+Hrabak
+Herrmann
+Seeger
+Struening
+Holtz
+Seifurt
+Varitek
+Mienciewitz
+Bellhorn
+Oswald
+Geiger
+Luetje
+Steinmann
+Leber
+Schmidt
+Anheiser
+Coors
+Schilling
+Ehrenberger
+Foulke
+Timlin
+Embree
+Goltzsch
+Reinhard
+Trautloft
+Zoufahl
+Arnold
+Atkins
+Childers
+Crane
+Hogan
+Martin
+Jones
+Manson
+Whitman
+Fleming
+Jarrett
+James
+Milken
+Stewart
+Custer
+Gacy
+Shawcross
+Youkilis
+Wilcox
+Ryan
+Woods
+Buck
+Epstein
+Wilson
+Nelson
+Kenseth
+Earnhardt
+Johnson
+Gordon
+Watson
+Zachary
+Andre
+Albert
+Beauregard
+Bizot
+Chaput
+Deullin
+Demozay-Morlaix
+Le Gloan
+Meslee
+La Poype
+Littolff
+Dorance
+Guynemer
+Madon
+Boyau
+Coiffard
+Bourjade
+Fonck
+Nungesser
+Guerin
+Heurtaux
+Daladier
+Artigau
+Hugues
+Navarre
+Lenoir
+Montrion
+Pinsard
+Polignac
+Sardier
+Quette
+Algie
+Barker
+Barron
+Bishop
+Lyall
+McKean
+Brown
+Metcalf
+Milne
+Coppins
+Foote
+Gray
+Hoey
+Hornell
+Merrit
+Osborn
+Peters
+Smith
+Tilston
+Orr
+Gretzsky
+Topham
+Nealy
+Morrisette
+Lavigne
+Labatt
+Lafleur
+Howe
+Sifton
+Tait
+Young
+Axford
+Badcoe
+Beatham
+Birks
+Brown
+Bugden
+Cooke
+Cutler
+Dartnell
+Dunstan
+Edmondson
+Gaby
+Grieve
+Howse
+Ingram
+Jeffries
+Joynt
+Kenna
+Thorne
+Mackey
+Middleton
+Newland
+Peeler
+Rattey
+Sadlier
+Statton
+Symons
+Tombs
+Tubb
+Wheatley
+Wylly
+Armstrong
+Rogers
+Brackenbury
+Salmond
+Pilkington
+Anderson
+Baillie
+Bishop
+Cotter
+Dockery
+Dunn
+Gray
+Fuller
+Grigg
+Haines
+Hall
+Hawke
+Hodge
+Ingley
+Jones
+Keedwell
+Kempton
+King
+Maxton
+Morris
+Sayer
+Taylor
+Terry
+Wakelin
+Wilkie
+Young
+Akbar Khan
+Anup Singh
+Autar Singh
+Baj Singh
+Bhupendra Singh
+Chandra Singh
+Daljit Singh
+Gopal Gurunath Bewoor
+Ganga Singh
+Gulab Singh
+Gur Dittar Singh
+Harbakhsh Singh
+Kalwant Singh
+Krishna Rao
+Krishnaswamy Sundarji
+Kodandera Cariappa
+Kodandera Thimayya
+Mohinder Singh
+Narain Singh
+Narain Raina
+Om Malhotra
+Ram Singh
+Rajinder Singh
+Sam Manekshaw
+Satyawant Srinagesh
+Sher Khan
+Sher Jung Thapa
+Sher Singh
+Shri Ram Oberoi
+Ved Prakash Malik
+Vishwanath Sharma
+Botha
+Bester
+Beyers
+Borain
+Armstrong
+Brink
+Buchanan
+Collyer
+Cooper
+de Villiers
+de Waal
+Furstenburg
+Hartshorn
+Hayton
+Klopper
+Kriegler
+Mitchell
+Newton King
+Orenstein
+Palmer
+Pienaar
+Poole
+Ray
+Senescall
+Theron
+Thompson
+de Adleer
+van der Spuy
+van Ryneveld
+Venter
+Wakefield
+Abiye
+Adafrisau
+Aklilu
+Adleray
+Aman Andom
+Aregay
+Asfa Wossen
+Balcha
+Bedjironde
+Birru Wolde
+Desta Damtew
+Endelkatchew
+Gabremariam
+Gugsa
+Selassie
+Hapte Mariam
+Hapte Mikael
+Hapte Wold
+Hawariate
+Herouy
+Ichamilch
+Imru
+Kama Sega
+Kassa
+Lij Yasu
+Makonnen Demissie
+Mersa
+Mulugueta
+Nasibu
+Seyum
+Taezaz
+Al Sherhi
+Karzai
+Al-Enezi
+Al-Shehhi
+Fayez Ahmed
+Hamza Alghamdi
+Ahmed Alghamdi
+Mohamed Atta
+Bin Laden
+Abdulaziz Alomari
+Khalid Al-Midhar
+Majed Moqed
+Nawaq Alhamzi
+Hani Hanjour
+Ahmed Alhaznawi
+Ahmed Alnami
+Ziad Jarrahi
+Saeed Alghamdi
+Hekmatyar
+Abu Eisa al-Hindi
+Issa al-Britani
+Ghailani
+Babar Ahmad
+Abdelghani Mzoudi
+Bin al-Shibh
+Naeem Noor Khan
+Mounir Motassedeq
+Salem Alhamzi
+Waleed M Alshehri
+Wail Alshehri
+Zakariya Essabar
+Abbas
+Abou-Ali
+Bahman
+Bahram
+Borzoo
+Davood
+Ebi
+Faramarz
+Farid
+Giv
+Foroohar
+Heydar
+Abbas
+Jamshid
+Karim
+Zand
+Abbas
+Abou-Ali
+Bahman
+Bahram
+Borzoo
+Davood
+Ebi
+Faramarz
+Farid
+Giv
+Foroohar
+Heydar
+Jamshid
+Karim
+Zand
+Abdurrahman
+Ayub Khan
+Dost Mohammed
+Habibullah
+Afzal Khan
+Azim Khan
+Abdur Rahman Khan
+Amanullah Khan
+Mohammed Afzal
+Nadir Khan
+Habibullah Khan
+Nasrullah Khan
+Malik Umar Hayat Khan
+Ghulam Haider Khan
+Karim Khan
+Hyder Khan
+Akbar Khan
+Ayub Khan
+Nadir Khan
+Habibullah
+Sher Ali Khan
+Yakub Khan
+Mohammed Jan
+Mir Akhor
+Malik Khizar Hayat Tiwana
+Mohammad Afzal Khan
+Ghulam Muhammad Tarzi
+Jahandad Khan
+Sardar Rahim Dil Khan
+Sher Ali Khan
+Yakub Khan
+Bose 
+Bhonsle
+Bhagat
+Banerjee
+Chavan
+Chopra 
+Das
+Dutta
+Guizara Singh
+Godse 
+Qadir
+Khan
+Sharma
+Kadam
+Pawar
+Rao 
+Jayaraman
+Kiani
+Loganathan
+Mukopadhyay
+Sengupta
+Mehra 
+Kapur 
+Saxena 
+Savarkar
+Shahnawaz Khan
+Sahay 
+Thivy
+Isher Singh
+Venkatesan
+Yellapa
+Arr Thit Bala
+Aung Myittar
+Aung Zabu Min
+Aung Yadanar
+Htaik Tan
+Kaung
+Mann Shin
+Mandaing
+Moe Ah San
+Mya Win Kyi
+Mya Yadanar
+Nyein Chan Thu
+Padaethar
+San Pya
+San Yae
+Sein Tat Lu
+Shwe Soun Nyo
+Tharaphu
+Thein Toe Aung
+Win Win
+Zaw Moe
+Zizawa
+Shwe Sin Aye
+Shwe Zee Kwet
+Sein Pan
+Sein Baho
+Popa
+Ok Soe
+Moe Thauk Pan
+Meit Swe Sit
+Chan Myae
+Anand
+Benjawan
+Chaipatana
+Chalerm
+Chavalit
+Chutimant
+Diskul
+Kantawong
+Khadpo
+Klinpraneet
+Kulawanit
+Mahidol
+Nitaya
+Nut
+Parnthep
+Phya
+Pisit-na
+Pramoj
+Praves
+Pridi
+Putrie
+Samenem
+Silpa-archa
+Srichure
+Suchinda
+Supachai
+Sutabuhr
+Tantasatityanon
+Thanwareth
+Vanich
+Yao-Yun
+Anabuki
+Asano
+Fuchida
+Kanai
+Saito
+Hosono
+Furugori
+Hanada
+Kato
+Sumino
+Shibata
+Hasegawa
+Ohtsuka
+Iwahashi
+Kira
+Shiromoto
+Yoshiyama
+Ozaki
+Takeuchi
+Kimura
+Ohbusa
+Ishii
+Namai
+Shinohara
+Tarui
+Sasaki
+Sakai
+Shimada
+Umeno
+Yamaguchi
+Yonaga
+Chuichiro
+Einosuke
+Heisuke
+Hideo
+Hideyoshi
+Hikosuke
+Itagaki
+Juro
+Jutaro
+Kasiburo
+Katsumi
+Keisuke
+Koichi
+Korechika
+Kotouki
+Minoru
+Morikazu
+Shigeo
+Shigetaro
+Shinichi
+Shinpei
+Shojikiro
+Tadashi
+Terauchi
+Tomofumi
+Toshiji
+Tsutomi
+Yaezo
+Yoji
+Yonekuchi
+Yuzuru
+Bie Tingfang
+Chen Jitang
+Duan Qirui
+Duan Zhigui
+Jin Yunpeng
+Lu Yongxiang
+Zhang Jingyao
+Hu Jingyi
+Zhang Zongchang
+Han Fuqu
+Zhang Zuolin
+Zhang Xueliang
+Guo Songling
+Ma Qi
+Jing Yuexiu
+Lu Diping
+Li Zongren
+Ma Zhongyin
+Ma Hongkui
+Ma Bufang
+Han Fuqu
+Liu Wenhui
+Liu Xiang
+Wang Jialie
+Long Yun
+Sheng Shicai
+Chiang Kuang-Nai
+Tang Shengzhi
+Feng Yuxiang
+Yan Xishan
+Xu Shuzheng
+Ai
+Chen
+Chi-feng
+Ching
+Ching-chiang
+Chi-wei
+Chu-Kuo
+Chun
+Fen
+Han-chieh
+Hsien-chueh
+Hsien-ta
+Hung
+Ju-hsiung
+Kuan-ying
+Meng-Lin
+Mon-lin
+Pai-chuan
+Shao-chou
+Sheng-fa
+Shou-nien
+Shu-chia
+Tien
+Tsen-tung
+Tso-yi
+Tung-tsai
+Wen-ying
+Kim
+Ying-chin
+Yu-hsiang
+Yung-chang	
+Chi-feng
+Chi-wei
+Chen
+Ching
+Ching-chiang
+Chu-Kuo
+Chun
+Fen
+Han-chieh
+Hsien-ta
+Hsien-chueh
+Hung
+Ju-hsiung
+Li Yuanhong
+Long Jiguang
+Kuan-ying
+Meng-Lin
+Mon-lin
+Pai-chuan
+Shao-chou
+Shou-nien
+Sheng-fa
+Shu-chia
+Tien
+Yung-chang
+Tsen-tung
+Tso-yi
+Tung-tsai
+Ying-chin
+Wen-ying
+Yu-hsiang
+Chen Yi
+Duan Zhigui
+Jin Yunpeng
+Li Yuanhong
+Long Jiguang
+Zhang Xun
+Feng Guozhang
+Jiang Guiti
+Ni Sichong
+Liu Guanxiong
+Tang Xiangming
+Li Chun
+Zhu Rui
+Lu Rongting
+Tang Jiyao
+Yan Xishan
+Wang Zhanyuan
+Zhang Xiluan
+Zhang Mingqi
+Tian Wenlie
+Yang Zengxin
+Lu Jianzhang
+Meng Enyuan
+Qu Yinguang
+Cao Kun
+Qi Yaolin
+Yang Shande
+Yuan Shikai
+Zhu Qinglan
+Zhao Ti
+Zhu Jiabao
+Chiang Kai-shek
+Sun Yat-sen
+Wang Jingwei
+Bai Chongxi
+Chen Cheng
+Chen Jitang
+Cheng Chien
+Deng Xihou
+Du Yuming
+Zhang Fakui
+Fu Zuoyi
+Hu Hanmin
+Yeh Ch'u-ts'ang
+Liao Zhongkai
+He Yingqin
+Song Jiaoren
+Zhang Renjie
+Sun Li-jen
+He Yingqin
+Li Zongren
+Li-fu
+Wei-feng
+Chia-hua
+Tieh-cheng
+Feng Yuxiang
+Yan Xishan
+Ye Ting
+Xue Yue
+Zhang Xueliang
+Zhao Dengyu
+Zhang Zhizhong
+An
+Baozong
+Bihai
+Cai
+Cheng
+Chenghao
+Chongxuan
+Dazhong
+Dewu
+Xiaoping
+Gongming
+Guolong
+Guoxiong
+Feng Shui
+Hongren
+Jianmin
+Jiawen
+Kanghua
+Lifang
+Lizhen
+Mingsheng
+Qingde
+Qiulian
+Shihao
+Shuzhen
+Wan-Ying
+Byung-Hyun Kim
+Xianghe
+Xiaoping
+Yousheng
+Zedong
+Adangqan
+Al Altun
+Alan To
+Arghun Aqa
+Arlsag
+Baatar
+Baiju
+Baryudai
+Bataciqan
+Batu
+Bayan
+Ogedei
+Oghul
+Ozbeg
+Qabul Khan
+Qaci-un
+Qasar
+Qo-aycin
+Saibatar
+Sartaq
+Shidebala
+Shirchin
+Shiremun
+Sorqan
+Subodei
+Sukhbaatar
+Tamaca
+Temuge
+Temujin
+Tengri
+Tode Mongke
+Arroyo
+Aguinaldo
+Aquino
+Bonifacio
+Ramirez
+Martinez
+Cabrera
+Gutierrez
+Montalban
+Diaz
+Enriquez
+Flores
+Reyes
+Nepomuceno
+Marcos
+Estrada
+Garcia
+Ramos
+Rizal
+Roxas
+Jaena
+Macapagal
+Dominique
+Pilar
+Ortiz
+Encomienda
+Corazon
+Mendosa
+Salonga
+Quezon
+Quirino
+Alonso
+Barreda
+Barrón
+Beigbeder
+Benjumea
+García
+Menéndez
+de Portago
+Dávila
+Soares
+Fanjul
+Fernández
+Fuertes
+García
+Castro
+Gómez
+Infantes
+Pinto
+López
+Vidal
+Morato
+Moreno
+Preciado
+Berasategui
+Muñoz
+Nuñez
+Pérez
+Salas
+Sacristán
+Vallina
+Yañez
+An Se-Hong
+Bong-Choi
+Son Yong-Jo
+Chang Hyang-Soon
+Cho Chang-Sun
+Jang Joon-Ho
+Jeung Yong-Ik
+Jong Gab-Do
+Ri Yong-Ik
+Jo Dae-Du
+San Chulsoon
+Jeon Jung-Keun
+Ryom Han-Gyong
+Jeon Kyou-Chull
+Baik Jung-Oh
+Hwang Soon-Chun
+Cho In-Tak
+Paek Ho-Pyong
+Moon Gab-Do
+Moon Hae-Sup
+Byon Chang-Hee
+Gu Jung-Keun
+Ahn Bong-Choi
+Kang Hyong-Kim
+Kwang Jung-Mo
+Park Se-Hong
+Yu Se-Hong
+Son Yong-Jo
+Shin Bong-Choi
+Yu Seung-Lip
+Yu Jung-Mo
+An Young-Su
+Chang Ho-Pyong
+Chung Soon-Chun
+Desc Chang-Hee
+Ho Eui-Kon
+Ho Young-Su
+Choi Chulsoon
+Li In-Tak
+Kang Kyou-Chull
+Lee Chang-Hee
+Shin Kyou-Chull
+Yang Gyong-Si
+Son Byeoung-Keun
+Ri Jung-Oh
+Han Hae-Sup
+Kang Jae-Yup
+Si Chang-Sun
+Jo Soon-Chun
+Ri Dae-Du
+Bang Jung-Mo
+Gwang Ho-Jun
+Sung Jung-Oh
+Ryom Eui-Kon
+Park Jung-Keun
+Chol Ho-Jun
+Song Se-Hong
+Ri Eui-Tae
+Ryom Jeaki
+Seo Ho-Pyong
+Youn Eui-Kon
+Yoon Young-Su
+Agusalim
+Atmadja
+Budiaman
+Budiman
+Cahyadi
+Chandra
+Dharmawijaya
+Gunardi
+Gunawan
+Hadiman
+Hardja
+Hermawan
+Indradjaja
+Iskandar
+Jayadi
+Kartawijaya
+Kurnia
+Lesmana
+Makmur
+Muljana
+Oesman
+Pranata
+Rachman
+Salim
+Sanjaya
+Sudjarwadi
+Sutedja
+Tanuwidjaja
+Wibowo
+Widjaja
+Yuwono
+Alekseyev
+Artomonov
+Baluyev
+Baratov
+Bezobrazov
+Blagovestchensky
+Brusilov
+Danisov
+Davidov
+Dragomirov
+Duchonin
+Evert
+Gourko
+Ivanov
+Janushkevich
+Kerensky
+Kliouev
+Kornilov
+Krylenko
+Kuropatkin
+Pleshkov
+Rennenkampf
+Ruszky
+Samsonov
+Selivacev
+Selivanov
+Sirelius
+Tcherbacev
+Tsurikov
+Yudenich
+Zhilinsky
+Antonov
+Abramov
+Bogrov
+Chernov
+Grigoriev
+Mitrofanovich
+Boguslavsky
+Gubarev
+Antonov
+Kolesnik
+Kolesnikov
+Lebedev
+Frolov
+Matarykin
+Popov
+Mamontov
+Petrov
+Agranoff
+Kuznetsov
+Jitlovsky
+Savinkov
+Sozonov
+Gubarev
+Terentyev
+Tumarkin
+Filonenko
+Shatilov
+Savinkov
+Tokmakov
+Vyatkin
+Yelpatievsky
+Baburov
+Belash
+Doubinsky
+Makhno
+Shchus
+Khein
+Isaak
+Karetnik
+Nikiforov
+Pyatakov
+Schapiro
+Witkop
+Marchenko
+Gavrilenko
+Iltchenko
+Kurilenko
+Kalasnikov
+Mikhalev-Pavlenko
+Lepetchenko
+Popov
+Markov
+Kuzmenko
+Grigoriev
+Gorelik
+Radowitzky
+Kaplan
+Skoropadsky
+Vasilevsky
+Veretelnikov
+Yarchuk
+Zadov
+Baburov
+Belash
+Doubinsky
+Makhno
+Shchus
+Khein
+Isaak
+Karetnik
+Nikiforov
+Pyatakov
+Schapiro
+Witkop
+Marchenko
+Gavrilenko
+Iltchenko
+Kurilenko
+Kalasnikov
+Mikhalev-Pavlenko
+Lepetchenko
+Popov
+Markov
+Kuzmenko
+Grigoriev
+Gorelik
+Radowitzky
+Kaplan
+Skoropadsky
+Vasilevsky
+Veretelnikov
+Yarchuk
+Zadov
+Cosic
+Cvejic
+Filipovic
+Glisic
+Ignjatovic
+Jovic
+Komarcevic
+Kolarevic
+Komarcevic
+Lazarevic
+Lapcevic
+Markovic
+Mihailovica
+Milasinovic
+Milosevic
+Mitic
+Nedic
+Pavlovic
+Palosevic
+Petrovic
+Racic
+Radovic
+Radosavljevic
+Rakovic
+Ristovic
+Slovic
+Vasic
+Tufegdzic
+Vidic
+Vasic
+Zikic
+Cvejic
+Cosic
+Filipovic
+Glisic
+Kolarevic
+Ignjatovic
+Jovic
+Komarcevic
+Komarcevic
+Lazarevic
+Lapcevic
+Markovic
+Mihailovica
+Nedic
+Milasinovic
+Milosevic
+Mitic
+Pavlovic
+Palosevic
+Petrovic
+Vasic
+Racic
+Radovic
+Radosavljevic
+Rakovic
+Ristovic
+Zikic
+Slovic
+Tufegdzic
+Vidic
+Vasic
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Luxembourg
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Iceland
+Bell
+Boyle
+Cavan
+Coffey
+Murphy
+Kelly
+Crockwell
+O'Brien
+Byrne
+Ryan
+Carvey
+O'Connor
+O'Neill
+McKeen
+McLaren
+O'Reilly
+Fraser
+Galloway
+McBreen
+Banks
+McGeady
+McClean
+Keeton
+Durcan
+Garry
+Forbes
+McIntosh
+MacGenis
+O'Sullivan
+Quinn
+Walsh
+Aaron
+Brown
+Davis
+Jones
+Basilone
+Carter
+Millar
+Reese
+Damon
+Roberts
+McCarty
+Kapler
+Burks
+Williams
+Jackson
+Phillips
+Goldberg
+Powell
+Bragg
+Sherman
+Breckenridge
+Stuart
+Powell
+Saunders
+Meany
+Eastwood
+Kinchloe
+Kirby
+Savage
+Wakefield
+Zimmer
+Bittrich
+Dietrich
+Hausser
+Gille
+Grieme
+Harmel
+Lohmann
+Keppler
+Kumm
+Klingenberg
+Mohnke
+Müller
+Neumann
+Nowak
+Ostendorff
+Petersen
+Phleps
+Rech
+Richter
+Rott
+Schäfer
+Skorzeny
+Streckenbach
+Steiner
+Trabandt
+Veith
+Wisch
+Witt
+Wunsche
+Wittmann
+Ziegler
+Albrecht
+Botha
+Cronje
+De Wet
+Erasmus
+Kruger
+Brink
+Bowker
+Pretorius
+De la Rey
+Steyn
+Hertzog
+Smuts
+Joubert
+Weilbach
+Roos
+Malan
+Meyer
+Ferreira
+Kock
+Prinsloo
+Olivier
+Burger
+Potgieter
+Kolbe
+Wepener
+Kritzinger
+Maritz
+Spruyt
+Van Deventer
+Venter

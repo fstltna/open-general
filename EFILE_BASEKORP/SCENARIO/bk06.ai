@@ -1,0 +1,44 @@
+'---
+'Config AI file for scenario: bk06_HQ.xcsv
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=0 
+$buy_newair=40 
+$buy_pick_method=2 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3   
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2   
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=26 items  ' Replacement for default list
+ 613  '  Sapeurs  [INF  Belgium]  Cost: 336
+ 630  '  155mm mle17  [ATY  Belgium]  Cost: 756
+ 822  '  40mm mle36  [ AD  Belgium]  Cost: 144
+ 823  '  47mm mle31  [ AT  Belgium]  Cost: 84
+ 824  '  75mm mle04  [ATY  Belgium]  Cost: 144
+ 825  '  105mm mle13  [ATY  Belgium]  Cost: 240
+ 830  '  ACG-1  [ TK  Belgium]  Cost: 336
+ 875  '  Gladiator IIA  [FTR  Belgium]  Cost: 348
+ 937  '  CR.42  [FTR  Belgium]  Cost: 396
+ 939  '  Chasseurs Ardennais  [INF  Belgium]  Cost: 132
+1018  '  76.2mm de 76  [ AT  Belgium]  Cost: 96
+1020  '  75mm mle34  [ATY  Belgium]  Cost: 312
+1021  '  120mm mle31  [ATY  Belgium]  Cost: 504
+1022  '  150mm mle13  [ATY  Belgium]  Cost: 516
+1023  '  155mm mle17  [ATY  Belgium]  Cost: 840
+1024  '  152mm mle17  [ATY  Belgium]  Cost: 504
+1025  '  220mm mle17  [ATY  Belgium]  Cost: 1620
+1029  '  Chasseurs  [INF  Belgium]  Cost: 132
+1034  '  Hurricane IA  [FTR  Belgium]  Cost: 468
+1035  '  R-31  [ TB  Belgium]  Cost: 312
+1036  '  Battle I  [ TB  Belgium]  Cost: 384
+2450  '  R-38  [FTR  Belgium]  Cost: 540
+3068  '  MG  [FlaK  Belgium]  Cost: 108
+3320  '  Berliet  [RCN  Belgium]  Cost: 288
+3371  '  75mm C mle16  [ATY  Belgium]  Cost: 180
+3372  '  105mm C mle16  [ATY  Belgium]  Cost: 180

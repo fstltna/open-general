@@ -1,0 +1,7 @@
+Smolensk-Drive to Yelnya July1941
+Now that we crossed the Dnepr and broken the Russian lines, the 10th Pz Division will move on Yelnya while your troops are ordered to capture Roslavl. Yelnya will be the starting point for our final drive on Moscow and Roslavl controls the main roads in this area.
+
+PLAYER ORDERS:
+- Strength lost on core units will be automatically replaced at HQ at the start of the next scenario.
+- New units can be acquired at HQ at the start of the next scenario.
+- Capture all VH.

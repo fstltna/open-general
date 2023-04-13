@@ -1,0 +1,11 @@
+SIUTUATION:
+
+Ah, Herr General. Excuse me, Herr Feldmarschall. A bold stroke to invade England is necessary. We have waited with this mission for much to long now. We must force the Allies to the bargaining table so we may have the peace needed to develop the Fatherland to its full power and glory. You have been given command of the most eastern sector of the invasion around Dover and Folkestone while a Italian Army is about to land around Hastings.
+
+ORDERS:
+
+Make your way to the beaches of Kent, make landfall and capture all VHs in 20/24/30 turns for a BV/V/TV.
+
+NOTES:
+
+You'll receive a free core H-39-Class battleship prototype. It will be useful in this and the upcomming scenarios.

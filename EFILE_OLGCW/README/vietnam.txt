@@ -1,0 +1,64 @@
+*** North Vietnam & Vietcong Campaign ***
+By Santiago Fuertes - LG 2011 - http://gilestiel.nerim.net/lg/
+
+*** BACKGROUND.
+
+The struggle for the liberation of Vietnam from European control began with the French defeat at Dien Bien Phu. Now, the communist forces are ready to continue with the Ho Chi Minh doctrines and complete the unification of Vietnam under one flag. The obstacle is not only the corrupt government of Saigon, but the US Army too. The Viet-Cong and the North Vietnam's Army are ready to face the capitalist imperialists in their struggle for the liberation of Vietnam.
+
+*** SCENARIOS.
+
+1 - Raid at Binh Gia
+2 - Escape from Vung Tau
+3 - Attack on the Plei Me Camp
+4 - Ia Drang
+5 - Military Region IV Crisis
+6 - Asian Clash
+7 - Strike on Kontum
+8 - Attack on Khe San
+9 - Tet Offensive
+10 - Laos Counteroffensive
+11 - Battle of Kontum
+12 - Liberation of Saigon
+
+*** REQUERIMENTS.
+
+* Open General program. This campaign is NOT compatible with Panzer General 2.
+
+* MAPS: VUNGTAU, VUNGTAU NIGHT, PLEI ME, IA DRANG, KONTUM, CU CHI, KHE SANH, TUY HOA, LAMSON, HUE, SAIGON 2
+
+Get all the maps from:
+
+http://pg2mapfinder.gilestiel.eu/
+
+Following this link you will have all the maps in the same screen:
+
+http://pg2mapfinder.gilestiel.eu/index.php?search=774,680,773,766,998,772,647,775,768,767,797
+
+* EFILE: Open LG Cold War 0.85 or higher (included). Check for updates the Open LG Cold War section at The Latin Generals website. http://gilestiel.nerim.net/lg/
+
+*** SETUP.
+
+1º - Update your PG2. Follow the instructions there:
+
+http://gilestiel.nerim.net/lg/tuto_eng.htm  (In English).
+
+http://gilestiel.nerim.net/lg/tuto_es.htm  (In Spanish).
+
+2º Unzip the campaign.zip file into the SCENARIO folder, usually c:\OG\EFILE_OLGCW\SCENARIO.
+
+3º Unzip the mapfiles.zip file into the same folder of the 2º step.
+
+4º Unzip the OLGCW_0.85.zip file into the main Open LG Cold War efile folder, usually c:\OG\EFILE_OLGCW. Check from time to time for new updates.
+
+5º Unzip the special background sounds (available at The Latin Generals site) into the main SOUND folder, usually, c:\OG\SOUND.
+
+4º Play.
+
+*** SPECIAL THANKS.
+
+This campaign has been tested by some persons, to whom I want to thank their effort on the playtests. They have also helped me in improving the efile. This campaign couldn't be the same without the help of (sorted alphabetically):
+
+- 1-Terminator, for his tests and english text revision.
+- PSH, for his tests and advices.
+- afineandprivateplace, also for his tests and advices.
+- Juan Carlos Preciado, for his icons, and collaboration in creating the Open LG Cold War efile.

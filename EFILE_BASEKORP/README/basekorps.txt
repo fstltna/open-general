@@ -1,0 +1,68 @@
+July 2018
+
+BaseKorp - BK efile was designed to use all my ideas from BaseEfile but be mostly compatible with AK so that campaigns would be available to play.
+
+BaseKorps is compatible with AdlerKorps on a unit basis up to unit 5845 but stats and abilities will vary.
+I place emphasis on playability first, history second.
+Fronts/Factions are not used. I wanted an efile with variety and playability.
+AK has masses of units and relies on F/F to limit units. I detest duplication and wanted units with a variety of abilities to appeal to players.
+I aligned BK with AK so that players can have many campaigns to play without waiting for new ones to be designed.
+It also gives new life to old campaigns because they play very differently due to variations in unit’s specs and abilities in the efiles.
+
+I use fuel for large towed units to reflect their inability to move rapidly. They use there own fuel, not the transports. This means the same transport unit will burn fuel differently when towing “fuelled” units.
+ 
+Special mineclearers work very well on unit landmines and fortifications. The OG landmines are different to unit landmines.
+
+Installation class is used for some units that are usually in Fort class. These units are not easily destroyed and should be bypassed for fast advance.
+
+BK uses new movement types.
+	Heavy track is a new movement and replaces Naval.(not used)
+	Ranger replaces All Terrain Leg and is used for elite units eg: Paratroop
+	Mountain units have the "m" ability so they work the same as before.
+
+Towed Anti-Tank guns and open-topped SPAT units give support fire like artillery units. Closed SPAT units give single support fire.
+
+Engineer ability is used on some AT, ATY and TB units.
+All Infantry units can lay mines, clear mines and blow hexes.
+Combat engineers do not have the ability to "build and repair" airfields etc. This is done by bridging or specialist units.
+Spotting has been reduced for all units. Recon units have movement increased by 1.
+Towed AD units that are greater than 75mm have SA enabled but lower SA values.
+Atillery units have SA reduced by 20%. They all have ability to randomly blow roads, airfields etc when the attack. The "bombsize" factor is proportional to their SA.
+Dive Bombers and Level Bombers also have the random "blow" ability same as ATY units.
+
+The special units I have used are.
+
+Mineclearers - INF - does not receive return fire from unit landmines.
+
+Saboteurs - AD - can attack any unit and not receive return fire, but cannot capture hexes or have ground transport.
+
+Repair Crew - INF - has to be used to remove Sabotage units. Also good on installations.
+
+Sabotage - SUB - This unit can only be removed by units with bridge ability.
+
+Demolition Team - ATY - Can move and attack a unit without return fire.
+
+Installations - LC - these are static units like forts but are in the Light Cruiser class. They are harder to destroy. They have no attack values and are usually bypassed if possible.
+
+Spy - RCN - is a recon unit that can be parachuted behind the enemy.
+
+Tower - RCN - is a transportable recon unit with greater spotting range then other recons.
+
+Atom Bomb - TB - high attack values with recon move and 1 ammo.
+
+Gas Cloud - SUB - high attack values, low movement, low ammo. Kamikaze ability means it destroys itself if it attacks.
+
+Cloud Cover - SUB - no attack or movement. Cover from air attack.
+
+Kamikaze planes - no attack values but good for blowing bridges, towns, roads etc.
+Kamikaze planes - with attack values. Used for attacking ships, ground units etc.
+
+Rockets - same as kamikaze planes, some with attack values and some without.
+
+Explosives - SUB - used to blow up hexes.
+
+Behind the Line - SUB - a cheat unit to help players blow/build bridges etc.
+
+
+
+

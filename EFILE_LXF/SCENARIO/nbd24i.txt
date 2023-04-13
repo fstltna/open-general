@@ -1,0 +1,5 @@
+Commander, we have a simple little operation for you.  We need to capture an airbase from which to launch attacks on Japanese positions in Java.  We have chosen the island of Morotai. It is small but sits in a very strategic position. Best of all, it is only garrisoned by about 1000 Japanese.  This should be a walk in the park compared to your last few missions. 
+
+Your orders are to secure the island's main cities, the Airfields and the strange Japanese building. The Natives are also noted for their ferocity and cannibalism and it is probable that they will not be friendly. Apparently the Japanese have them under their control so take no chances with them. 
+
+IMPORTANT NOTE: You'll need a construction unit if you want to repair the southern airfield.

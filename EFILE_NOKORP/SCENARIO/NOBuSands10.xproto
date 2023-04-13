@@ -1,0 +1,11 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 149  '  Pz IVF2  [ TK  Germany]  Cost: 624
+ 150  '  Pz IVG  [ TK  Germany]  Cost: 636
+ 605  '  Panzerwerfer 42 - SdKfz 4/15   [ATY  Germany]  Cost: 576
+ 774  '  210mm K38  [ATY  Germany]  Cost: 2148
+6043  '  StuG IIIF  [ AT  Germany]  Cost: 336

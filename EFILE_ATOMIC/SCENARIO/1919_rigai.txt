@@ -1,0 +1,14 @@
+1919 Battle of Riga
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+World War I is over, but now we face a new enemy! Herr Major, you are ordered to take command of the Baltische Landeswehr (Baltic Territorial Army) and the Eiserne Division (Iron Division) and liberate the capital of Latvia, the city of Riga, and its vicinity from the Bolsheviks.
+
+Scenario Version: February 2020
+Player Countries: Baltische Landeswehr, Freikorps
+AI Version: 3.0
+Player Turn Prestige 20pp/turn
+Turns: 16 BV; 20 V; 24 TV
+Scenario Designer: randowe
+
+ORDERS:
+¯¯¯¯¯¯¯¯
+Attack Riga and its surrounding area and capture all VHs in 16/20/24 turns for a Brilliant Victory/Victory/Tactical Victory.

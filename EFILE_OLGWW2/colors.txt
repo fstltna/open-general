@@ -1,0 +1,18 @@
+
+
+* Read carefully before editing!
+* Each meaningful line must define R,G,B color components
+* Emply lines and those starting with * will be skipped.
+* Can replace any text but do no change the sequence of lines
+*-------------------------------------------------------------------
+* default background for main window
+0, 0, 0
+
+* default background for dialogs
+71, 71, 71
+
+* white text
+230, 230, 230
+
+* gold/yellow text      
+252, 229, 103 

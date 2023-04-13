@@ -1,0 +1,18 @@
+1914-19 WELTKRIEG 
+
+Version: 1.0
+Equipment File: Kaiser General
+Number of Scenarios: 24
+Player Country: German Empire
+Campaign Designer: Urica
+Playtesters: Patrick Steinmann, Spasteur de Mont Tonnerre, Pzmaniac
+
+German campaign during the First World War
+
+Your country has been too ambitious, or too imprudent, in this fateful summer of 1914. Nobody thinks that Germany will be able to win a long war fighting on two separate fronts at the same time. Defeat seems inevitable. And that's what will happen, if one unexpected factor doesn't enter the scene: you.
+Join the Deutsches Heer in its struggle against the Entente forces. Show your enemies that the German Empire has been underestimated, and that it has the will and the skill to become the main power in Europe...and the world. 
+
+
+
+
+

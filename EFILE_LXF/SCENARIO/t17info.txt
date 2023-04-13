@@ -1,0 +1,7 @@
+6 January, 1943
+
+Welcome on the Balkans, General. Ever since the occupation of Yugoslavia, former troops and locals continue the fight against the Axis. They are known as "partizans". The Croatians are on our side and have armed forces to defend their towns. The last months the Communist Partizan movement has grown a lot and possesses various mountain areas. The Royal Partizan movement fights on both sides... While the Germans are focussing on Russia, only secondary German troops are in the area. Italian and Croatian forces do not have the power to do their defensive tasks. We have to take counter-measurements by destroying the partizan bases in the mountains and killing as much partizans as possible! You will form the main force of this anti-partizan operation. Germany has send the 7th SS Division "Prinz Eugen" to assist you in your task. All Croatian and German forces will be under your command as well as incoming troops. Your task is to destroy all partizan bases in the mountains and hold or recapture important cities lost. Be aware of possible British Commando assaults on the island before the coast. There is additional sea transport in the port of Duvrovnik in the south east. 
+
+(NOTE 1: You need to capture all victoryhexes and hold, if lost recapture, your own victoryhexes).
+
+(NOTE 2: You can load your troops into sea transports in Duvrovnik in the south east. Move your unit into a PORT hex and right click on the unit. You can now select "embark").

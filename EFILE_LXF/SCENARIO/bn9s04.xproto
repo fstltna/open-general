@@ -1,0 +1,15 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 515  '  KV-1A  [ TK  Soviet Union]  Cost: 612
+ 518  '  KV-2 CS  [ AT  Soviet Union]  Cost: 672
+ 520  '  T-26 M39  [ TK  Soviet Union]  Cost: 372
+ 521  '  T-34/76A  [ TK  Soviet Union]  Cost: 636
+1527  '  MiG-1  [FTR  Soviet Union]  Cost: 792
+1552  '  Pe-8  [ LB  Soviet Union]  Cost: 1164
+1562  '  T-28M  [ TK  Soviet Union]  Cost: 480
+2847  '  T-34TU CC  [ TK  Soviet Union]  Cost: 732
+7620  '  Ar-2  [ TB  Soviet Union]  Cost: 720

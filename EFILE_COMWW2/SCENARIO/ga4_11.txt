@@ -1,0 +1,94 @@
+Praga
+Narew River
+Brodno
+Bug River
+Izabelin
+Marki
+Kobylka
+Grodesk
+Zielonka
+Targowek
+Village
+Rembelsczy
+Warszawa
+Zabki
+Rembertow
+Village
+Wisla River
+Village
+Wawer
+Celestynow
+Karczew
+Praga-Poludny
+Wesola
+Ponurzyca
+Lukoweic
+Regut
+Garwolin
+Goraszka
+Calowanie
+Praga-Polnoc
+STREAM
+Bialoleka
+Railroad
+Destroyed Airfield
+Ponurzyca Airfield
+Karczew Airfield
+LXX/73
+CLXX/73
+CLXXXVI/73
+CLXXIII/73
+173rd JgdPz. Abt.
+173rd Pioniere Batt.
+XXVII/19th Pz.
+I/1
+II/1
+7th Engineer Batt.
+I/2
+I/3
+3rd Howitzer Brig.
+4th Anti-tank Brig.
+1st Polish Tank Brig.
+20th Tank Brig.
+LXXIII/19th Pz.
+LXXIV/19th Pz.
+XIX/19th Pz.
+272nd FlaK Abt.
+19th Pioniere Batt.
+19th Aufklarungs Abt.
+MCCLXXXI/60
+CMLXIX/60
+696th Saperni Batt.
+XCIII/76
+CCVII/76
+100th AT Batt.
+DLX/175
+CDLXXXVII/143
+XXVII/27
+CDXCVIII/132
+16th Air Army
+13th Mot. Brig.
+47th Army
+HILL
+Stronghold
+13th Art. Reg.
+III/3rd Pz.
+V/3rd Pz.
+VI/3rd Pz.
+I/SG1
+IV/SG77
+III/JG 52
+DCV/132
+237th Eng. Batt.
+340th AA Batt.
+36th Tank Brig.
+65th Tank Brig.
+CLEAR
+279th FlaK Abt.
+IX/25th Pz.
+87th JgdPz. 
+CXLVI/25th Pz.
+CXLVII/25th Pz.
+XCI/25th Pz.
+ROUGH
+FOREST

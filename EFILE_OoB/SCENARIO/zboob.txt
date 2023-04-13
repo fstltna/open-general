@@ -1,0 +1,22 @@
+Blitzkrieg: Order of Battle
+
+BLITZKRIEG: ORDER OF BATTLE
+
+Version: OoB_v1.0
+Number of Scenarios: 7
+Player Country: WWII Germany
+Campaign Designer: HundredDays (JAC)
+
+
+German Campaign: Spain 1937 - Greece 1941
+   
+Climb the ranks of the German Heer in battles from the Spanish Civil War to the eve of Barbarossa....
+
+
+This campaign replays the pre-Barbarossa scenarios from the classic "Blitzkrieg" campaign using historical orders of battle and including some historical events (such as the sudden withdrawl of many of the German Panzer units from the Dunkirk perimeter).    
+
+It is designed as a "non-core campaign"*; please read the "Designer note" at the bottom of the first scenario briefing for an important note on gameplay.
+*Actually a core of a single unit.
+
+Thank you for playing; I hope you will enjoy this different take on the "Blitzkrieg" campaign.
+HD

@@ -1,0 +1,10 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+1274  '  E.555  [ TB  Germany]  Cost: 2736
+4466  '  Ta 183 Huckebein  [FTR  Germany]  Cost: 1536
+4467  '  Ho 229 A-1  [ TB  Germany]  Cost: 1800
+5933  '  E-50 Standardpanzer  [ TK  Germany]  Cost: 984

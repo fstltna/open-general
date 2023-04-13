@@ -1,0 +1,12 @@
+Tápióbicske
+1849. IV. 4.
+
+Tábornok úr! A fõhadszíntéren Klapka tervei alapján megkezdõdött a támadás. Jellašiæ utóvédje Tápióbicskénél zárja el az utat a fõváros felé törõ hadaink elöl. Sajnos az elõörs hadosztályt csapdába is csalták. Mutassa meg az igazi huszárvirtust és egy merész lovasroham élén mentse föl megingó hadaink és söpörje ki az ellent!
+
+Elhelyezhetõ egység: 22
+
+KÜLDETÉS: Foglald el az összes gyõzelmi pontot és tarts életben legalább 3 MSU egységet a hatból.
+
+JAVASLAT:
+- Az MI lép elsõnek.
+- Vedd számításba, hogy a csata végén az egységek készletei nem pótlódnak automatikusan és nem lesz lehetõséged fejleszteni a törzsegységeid a csata után.

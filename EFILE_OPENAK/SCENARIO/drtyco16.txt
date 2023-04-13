@@ -1,0 +1,388 @@
+Typhoon called off
+17TB [16]
+40RB [16]
+I/97/18RD [16]
+I/208/18RD [16]
+I/316/18RD [16]
+1199/354RD [16]
+1203/354RD [16]
+1201/354RD [16]
+I/25/7GRD [16]
+I/14/7GRD [16]
+I/20/7GRD [16]
+I/26/7GRD [16]
+49RB [16]
+146TB [16]
+37RB [16]
+35RB [20]
+28RB [20]
+I/896/331RD [20]
+I/1108/331RD [20]
+I/1104/331RD [20]
+I/1106/331RD [20]
+I/1158/352RD [20]
+I/1160/352RD [20]
+145TB [Group Remizov]
+Fortress Artillery
+I/1162/352RD [20]
+3IAP/6IAK
+12IAP/6IAK
+126IAP
+502ShAP
+173BAP
+I/31/9GRD [16]
+I/18/9GRD [16]
+I/22/9GRD [16]
+I/28/9GRD [16]
+I/3/18RD [16]
+1GTB [Group Katukov]
+921/354RD [16]
+I/914/352RD [20]
+36RB [5]
+64NRB [20]
+Moscow Defense
+Moscow Defense
+Moscow Defense
+Troizkoje
+Istra River
+Senezskoje Lake
+Senezskoje Lake
+Volgusha River 
+Moskva-Volga-Canal
+Istra River
+Istra River
+Solnechnogorsk
+Solnechnogorsk
+Senezskoje Lake
+Senezskoje Lake
+Kamenka
+Volgusha River
+Moskva-Volga-Canal
+Istra River
+Istra River
+Solnechnogorsk
+Kljaz'ma River
+Volgusha River
+Volgusha River
+Iksha
+Moskva-Volga-Canal
+Ignatovo
+Pogorelovo
+Istra River
+Kljaz'ma River
+Volgusha River
+Moskva-Volga-Canal
+Istra River
+Kljaz'ma River
+Udino
+Volgusha River
+Iksha Reservoir
+Moskva-Volga-Canal
+Shekino
+Istra Reservoir
+Krivzovo
+Istra River
+Peshki
+Kljaz'ma River
+Kljaz'ma River
+Roshdestveno
+Volgusha River
+Belyj Rast
+Iksha Reservoir
+Iksha Reservoir
+Nudol' River
+Nudol' River
+Nudol' River
+Nudol' River
+Istra Reservoir
+Istra Reservoir
+Istra Reservoir
+Istra Reservoir
+Istra Reservoir
+Istra River
+Istra River
+Kljaz'ma River
+Volgusha River
+Volgusha River
+Tschernaja
+Nudol' River
+Istra Reservoir
+Istra Reservoir
+Istra Reservoir
+Istra Reservoir
+Istra River
+Kljaz'ma River
+Lake
+Istra Reservoir
+Istra Reservoir
+Istra Reservoir
+Istra Reservoir
+Istra Reservoir
+Kljaz'ma River
+Kljaz'ma River
+Istra Reservoir
+Istra Reservoir
+Pjatniza
+Kljaz'ma River
+Kljaz'ma River
+Oserezkoje
+Istra Reservoir
+Istra Reservoir
+Povarovo
+Radomlja
+Kljaz'ma River
+Kljaz'ma River
+Ljalovo
+Istra Reservoir
+Lopotovo
+Istra Reservoir
+Kljaz'ma River
+Istra Reservoir
+Istra Reservoir
+Sokolovo
+Matushkino
+Kljaz'ma River
+Kljaz'ma River
+Kljaz'ma River
+Kljaz'ma River
+Krasnaja Poljana
+Gorki
+Istra Reservoir
+Kljaz'ma River
+Katjushki
+Lobnja
+Buzarovo
+Istra River
+Krjukovo
+Pekino
+Kljaz'ma River
+Istra River
+Istra River
+Kljaz'ma River
+Jadromino
+Istra River
+Aleksino
+Kljaz'ma River
+Kljaz'ma River
+Kljaz'ma River
+Kljaz'ma River
+Kljaz'ma River
+Kljaz'ma Reservoir
+Kljaz'ma Reservoir
+Istra River
+Istra
+Shodnja
+Shodnja
+Kljaz'ma River
+Kljaz'ma Reservoir
+Moskva-Volga-Canal
+Kljaz'ma Reservoir
+Malaja Istra River
+Istra River
+Istra
+Istra
+Brehovo
+Moskva-Volga-Canal
+Dolgoprudnyj
+Kostrovo
+Malaja Istra River
+Malaja Istra River
+Malaja Istra River
+Malaja Istra River
+Istra River
+Istra River
+Vysokovo
+Terechovo
+Moskva-Volga-Canal
+Mansurovo
+Malaja Istra River
+Malaja Istra River
+Istra River
+Istra River
+Snegiri
+Moskva-Volga-Canal
+Malaja Istra River
+Malaja Istra River
+Davydovskoje
+Istra River
+Istra River
+Istra River
+Dedovsk
+Snamenskoje
+Khimki
+Khimki
+Moskva-Volga-Canal
+Malaja Istra River
+Istra River
+Istra River
+Dedovsk
+Khimki
+Moskva-Volga-Canal
+Malaja Istra River
+Iglovo
+Lukino
+Pavlovskaja Sloboda
+Istra River
+Istra River
+Khimki Reservoir
+Istra River
+Nahabino
+Khimki Reservoir
+Khimki Reservoir
+Andrejevskoje
+Istra River
+Pavshino
+Moskva River
+Moskva River
+Moskva River
+Moskva-Volga-Canal
+Jershovo
+Masslovo
+Istra River
+Istra River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Istra River
+Il'inskoje
+Moskva River
+Moskva River
+Rublevo
+Moskva River
+Moskva River
+Moskva River
+Karinskoje
+Moskva River
+Jagunino
+Moskva River
+Zvenigorod
+Zvenigorod
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moscow
+Lokotnja
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Uspenskoje
+Moscow
+Moscow
+Moskva River
+Moskva River
+Moskva River
+Silovo
+Vvedenskoje
+Zukovka
+Kunzevo
+Moscow
+Moscow
+Moskva River
+Moscow
+Moskva River
+Moskva River
+Sarapovo
+Odinzovo
+Moskva River
+Odinzovo
+Odinzovo
+I/7/10Pz [XXXX]
+II/7/10Pz [XXXX]
+90/-/10Pz [XXXX]
+I/90/10Pz [XXXX]
+II/90/10Pz [XXXX]
+III/90/10Pz [XXXX]
+706/-/10Pz [XXXX]
+90/-/10Pz [XXXX]
+I/69/10Pz [XXXX]
+II/69/10Pz [XXXX]
+I/86/10Pz [XXXX]
+II/86/10Pz [XXXX]
+10/-/10Pz [XXXX]
+49/-/10Pz [XXXX]
+I/13/5Pz [XXXXVI]
+II/13/5Pz [XXXXVI]
+I/14/5Pz [XXXXVI]
+II/14/5Pz [XXXXVI]
+89/-/5Pz [XXXXVI]
+55/-/5Pz [XXXXVI]
+I/31/5Pz [XXXXVI]
+II/31/5Pz [XXXXVI]
+53/-/5Pz [XXXXVI]
+704/-/5Pz [XXXXVI]
+I/116/5Pz [XXXXVI]
+II/116/5Pz [XXXXVI]
+III/116/5Pz [XXXXVI]
+601/-/5Pz [XXXXVI]
+I/119/11Pz [XXXXVI]
+I/110/11Pz [XXXXVI]
+II/110/11Pz [XXXXVI]
+I/JG52 [VIII] LF2
+I/StG2 [VIII] LF2
+II/18/9GRD [16]
+III/18/9GRD [16]
+II/28/9GRD [16]
+III/28/9GRD [16]
+II/22/9GRD [16]
+III/22/9GRD [16]
+II/31/9GRD [16]
+III/31/9GRD [16]
+II/208/18RD [16]
+III/208/18RD [16]
+II/316/18RD [16]
+III/316/18RD [16]
+II/97/18RD [16]
+III/97/18RD [16]
+II/3/18RD [16]
+III/3/18RD [16]
+II/914/352RD [20]
+III/914/352RD [20]
+II/1158/352RD [20]
+III/1158/352RD [20]
+II/1160/352RD [20]
+III/1160/352RD [20]
+II/1162/352RD [20]
+III/1162/352RD [20]
+II/896/331RD [20]
+III/896/331RD [20]
+II/1108/331RD [20]
+III/1108/331RD [20]
+II/1104/331RD [20]
+III/1104/331RD [20]
+II/1106/331RD [20]
+III/1106/331RD [20]
+II/25/7GRD [16]
+III/25/7GRD [16]
+II/26/7GRD [16]
+III/26/7GRD [16]
+II/14/7GRD [16]
+III/14/7GRD [16]
+II/20/7GRD [16]
+III/20/7GRD [16]
+124/20CD [Dovator]
+103/20CD [Dovator]
+22/20CD [Dovator]
+[16]
+Partisan HQ
+[16]
+Take Roadblock Hex!!
+Impassable hex

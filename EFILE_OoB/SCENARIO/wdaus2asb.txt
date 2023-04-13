@@ -1,0 +1,8 @@
+Situation report: Axis forces have surrounded our position at Tobruk. It is critical to our North African campaign that Tobruk be held at all costs. 
+
+Operational orders: You are assigned to reinforce the troops holding Tobruk. You will use all your resources to hold the port. This will be no easy task; armored forces of both Italy and Germany have been reported massing in the area and an all-out assault is expected at any time.
+
+(Note from designer: This scenario is totally defensive. It cannot be won, you are expected to fight until the last turn.)
+
+
+[HD note: Victory conditions were changed to make use of OpenGeneral's "Typed VH" victory conditions, a loss is still likely however.]

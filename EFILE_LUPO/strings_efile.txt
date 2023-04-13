@@ -1,0 +1,73 @@
+* Read carefully before editing!
+* Each line can be any lenght, but only first 96 chars will be read
+* Emply lines and those starting with * will be skipped.
+* Can replace any text but do no change the sequence of lines
+*-------------------------------------------------------------------
+* [classes] (units) ... can be redefined
+[classes]
+None
+Infantry
+Tank  
+Recon
+Armored Vehicle
+Helicopter
+Ground Defence
+Ground Transport
+Rail Transport
+Artillery
+Air Defence
+Fighter
+Tactical Air Support
+Strategic Air Support - Missiles
+Air Transport
+Helo Transport
+Submarine
+Frigate
+Amphibious Ship - Naval Missiles
+Carrier
+Naval Transport
+Cruiser
+Destroyer
+Corvette
+
+[movement]
+Tracked
+Light Tracked
+Wheeled
+Leg
+Towed
+Air
+Deep Naval
+Coastal
+All Terrain
+Amphibious Wheeled
+Amphibious Tracked
+Leg (Light)
+Rail
+Helicopter
+Immobile
+Hovercraft
+ 
+[requisition]
+Switch Ground+Air / Naval units menu
+Select Air Defence
+Select Helicopter
+Select Ground Defence
+Select Armored Vehicle
+Select Artillery
+Select Infantry
+Select Recon
+Select Tank
+Select Fighter
+Select Tactical Air Support
+Select Strategic Air Support - Missiles
+Select Submarine
+Select Frigate
+Select Amphibious Ship - Naval Missiles
+Select Carrier
+Select Cruiser
+Select Destroyer
+Select Corvette
+Name Unit
+Reassign Unit
+Exit

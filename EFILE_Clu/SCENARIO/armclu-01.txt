@@ -1,0 +1,73 @@
+Festungsfront Oder-Warthe-Bogen
+PzW 811
+PzW 805
+PzW 761
+MG/PzW 761
+MGrW/PzW 761
+PzW 864
+PzW 867
+PzW 863
+PzW 866
+PzW 865
+MG/PzW 867
+MG/PzW 865
+MG/PzW 863
+PzAbw/PzW 866
+MGrW/PzW 864
+BI/PzW 867
+BI/PzW 866
+BI/PzW 864
+BI/PzW 865
+BI/PzW 863
+BI/PzW 761
+PzW 868 (ArtBeob.)
+Stab/Core
+Core Tk/9. Armee
+Move 1 hex N
+Gren.Ers.Rgt.533/433.ID
+Art.Ausbld.Abt.39+257/433.ID
+KG Scherer
+100 Gds Rfl Rgt/35 Gds RflD
+101 Gds Rfl Rgt/35 Gds RflD
+102 Gds Rfl Rgt/35 Gds RflD
+37 Gds AT Bn/35 Gds RflD
+65 Gds Aty Rgt/35 Gds RflD
+137 Gds Rfl Rgt/47 Gds RflD
+140 Gds Rfl Rgt/47 Gds RflD
+142 Gds Rfl Rgt/47 Gds RflD
+99 Gds Aty Rgt/47 Gds RflD
+55 Gds AT Bn/47 Gds RflD
+20 Gds Mech Rfl Bde/8 Gds Mech Corps
+68 Gds Tk Rgt/20 Gds Mech Bde
+1 Gds Tk Bde/8 Gds Mech Corps
+405 Gds Mrt Bn/8 Gds Mech Corps
+19 Gds Mech Rfl Bde/8 Gds Mech Corp
+174 Gds Rfl Rgt/57 Gds RflD
+172 Gds Rfl Rgt/57 Gds RflD
+170 Gds Rfl Rgt/57 Gds RflD
+PzW 811
+PzW 811
+PzW 811
+PzW 811
+PzW 811
+Werkstatt-Kpn/9. Armee
+Snow
+Warthe
+Schwerin/Warthe
+Obra
+Neu Schwerin
+Obramuehle
+Gollmitz
+Althoefchen
+Neuvorwerk
+Semmritz
+Poppe
+Blesen
+Oscht
+Falkenwalde
+Grunzig
+Weissensee
+Neudorf
+Kurzig
+Ober Goerzig
+Georgsdorf

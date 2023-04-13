@@ -1,0 +1,9 @@
+Operation Lila - November 1942
+
+After a hard winter in Russia, your division is rested and re-equipped. The division is re-designated as SS Panzer-Grenadier Division Das Reich. As a reaction to the Allied landings in North-Africa, Hitler ordered Operation Anton - the occupation of Vichy France to protect it against the Allies. The French were allowed to hold the port of Toulon, to defend it against an Allied invasion. Now Hitler has changed his mind and wants Operation Lila executed. We are to move into Toulon and capture the Vichy French fleet that Hitler has promised to Mussolini. You will have to move fast because the French are expected to scuttle their fleet, rather than hand it over to us. French GMR and SOL forces are thought to be more favorable to our cause than the rest of the Vichy French troops.
+
+PLAYER ORDERS
+- Strength lost on core units will be automatically replaced at HQ at the start of the next scenario.
+- New units can be acquired at HQ at the start of the next scenario.
+- You win by capturing all Victory Hexes. The enemy wins by sinking both fleet units.
+- Only two units can be deployed in this scenario.

@@ -1,0 +1,11 @@
+SITUATION:
+
+Herr General, after our recent success in Tunisia, we are now able to proceed eastwards along the coast and conquer the terrain we had lost. This time the enemy won't be able to stop us! Alexandria is the main objective in this operation. Leave now, start the engines!
+
+ORDERS: 
+
+Take all VHs in 14/18/22 turns for a BV/V/TV.
+
+NOTES:
+
+Four air-transports are available.

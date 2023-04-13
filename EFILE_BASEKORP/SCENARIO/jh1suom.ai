@@ -1,0 +1,64 @@
+'---
+'Config AI file for scenario: jh1suom.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=56 items  ' Replacement for default list
+ 476  '  45mm PTP-37  [ AT  Russia]  Cost: 84
+ 484  '  122mm M-30  [ATY  Russia]  Cost: 420
+ 485  '  152mm ML-20  [ATY  Russia]  Cost: 1092
+ 486  '  76.2mm M-33  [ATY  Russia]  Cost: 180
+ 499  '  38 Sapernii  [INF  Russia]  Cost: 192
+ 505  '  BA-10  [RCN  Russia]  Cost: 312
+ 520  '  T-26B  [ TK  Russia]  Cost: 276
+ 528  '  Gaz-3  [TPT  Russia]  Cost: 72
+ 529  '  Wagon  [TPT  Russia]  Cost: 12
+ 538  '  I-16-29  [FTR  Russia]  Cost: 504
+ 544  '  Li-2  [ATP  Russia]  Cost: 348
+ 576  '  203mm BR-4  [ATY  Russia]  Cost: 1452
+ 681  '  39 NKVD  [INF  Russia]  Cost: 96
+ 683  '  FAI  [RCN  Russia]  Cost: 192
+ 685  '  BT-7A  [ TK  Russia]  Cost: 336
+ 686  '  BT-7M  [ TK  Russia]  Cost: 336
+ 832  '  38 Cossacks  [INF  Russia]  Cost: 252
+ 920  '  38 Mountain  [INF  Russia]  Cost: 276
+ 985  '  SB 2  [ TB  Russia]  Cost: 564
+1801  '  4xMG  [FlaK  Russia]  Cost: 132
+1807  '  76.2mm PP-27  [ AT  Russia]  Cost: 108
+1816  '  122mm A-19  [ATY  Russia]  Cost: 696
+1817  '  152mm M-10  [ATY  Russia]  Cost: 420
+1819  '  152mm BR-2  [ATY  Russia]  Cost: 1428
+1829  '  MG 39  [FlaK  Russia]  Cost: 108
+1839  '  OT-134  [ AT  Russia]  Cost: 324
+1842  '  T-35  [ TK  Russia]  Cost: 480
+1843  '  T-37Ampib  [RCN  Russia]  Cost: 132
+1846  '  I-16-10  [FTR  Russia]  Cost: 456
+1854  '  TB-3  [ TB  Russia]  Cost: 564
+1857  '  DB-3T  [ TB  Russia]  Cost: 420
+1859  '  Kom-1  [TPT  Russia]  Cost: 96
+2579  '  Horse  [TPT  Russia]  Cost: 12
+2580  '  Gaz-1  [TPT  Russia]  Cost: 108
+2581  '  Gaz-2  [TPT  Russia]  Cost: 60
+2582  '  Kom-2  [TPT  Russia]  Cost: 144
+2584  '  Kom-3  [TPT  Russia]  Cost: 156
+2585  '  Limber  [TPT  Russia]  Cost: 12
+2586  '  Kom-4  [TPT  Russia]  Cost: 168
+2587  '  Mules  [TPT  Russia]  Cost: 12
+2589  '  R-10   [ TB  Russia]  Cost: 384
+2952  '  TB-3  [ATP  Russia]  Cost: 348
+2966  '  BA-6  [RCN  Russia]  Cost: 300
+3066  '  BA-20  [RCN  Russia]  Cost: 216
+3067  '  BA-27M  [RCN  Russia]  Cost: 240
+3170  '  38 Gornosaperny  [INF  Russia]  Cost: 372
+3406  '  38 Kavaleria  [INF  Russia]  Cost: 120
+3755  '  38 Saperno-Shturmovoi  [INF  Russia]  Cost: 312
+3758  '  38 Pogranichnik  [INF  Russia]  Cost: 84
+3759  '  38 Parashutisti  [INF  Russia]  Cost: 264
+3805  '  38 Konnaya Razvedka  [RCN  Russia]  Cost: 120
+5478  '  DI-6Sh  [ TB  Russia]  Cost: 588
+5828  '  Train  [RTP  Russia]  Cost: 120
+7867  '  Yag-4  [TPT  Russia]  Cost: 84
+7975  '  Battery  [ATY  Russia]  Cost: 900
+7990  '  Road Transporter  [TPT  Russia]  Cost: 120

@@ -1,0 +1,79 @@
+Baghdad
+H2 Airfield
+H1 Airfield
+Aksashat
+AL Qaim
+Haditah
+Ar Rutbah
+Ar Ramadi
+Al Habbaniyah
+Al Fallujah
+Saddam Intl 
+Saddam Intl
+Baghdad
+Salman Pak
+Karbala
+Karbala NE
+Al Kut
+Al Hillah
+Al Hayy
+Al Nukhayb
+Al Najaf
+Ad Diwaniyah
+As Samawah
+As Salman
+Al Basrah
+Euphrates River
+Buhayrah ath Tharthar
+Bahr of Milh
+8 PzR/15 Pz/[DAK]
+15 Schzt/15 Pz/[DAK]
+15 Schzt/15 Pz/[DAK]
+15 Mot/15 Pz/[DAK]
+33 Rec/15 Pz/[DAK]
+33 AR/15 Pz/[DAK]
+33 Pzjgr/15 Pz/[DAK]
+33 Pio/15 Pz/[DAK]
+5 PzR/21 Pz/[DAK]
+104 Schzt/21 Pz/[DAK]
+155 AR/21 Pz/[DAK]
+3 Rec/21 Pz/[DAK]
+200 Pio/21 Pz/[DAK]
+39 Pzjgr/21 Pz/[DAK]
+8 R/132 Ariete/[XX]
+132 AR/132 Ariete/[XX]
+32 R/132 Ariete/[XX]
+32 R/132 Ariete/[XX]
+32 R/132 Ariete/[XX]
+[DAK]
+132 Ariete
+DAF
+DAF
+DAF
+DAF
+DAF
+DAF
+1 B/Habforce/Arab Legion
+2 B/Habforce/Arab Legion
+3 B/Habforce/Arab Legion
+Arab Legion Mechanised Regiment
+60 R/Habforce/Arab Legion
+169 B/Habforce/Arab Legion
+1 R/4 Br/Habforce/Arab Legion
+2 R/4 Br/Habforce/Arab Legion
+3 R/4 Br/Habforce/Arab Legion
+Desert Patrol Force/Arab Legion
+Garrison/Arab Legion
+1 Br/10 Indian Div
+2 Br/10 Indian Div
+3 Br/10 Indian Div
+1 R/10 Indian Div
+2 R/10 Indian Div
+3 R/10 Indian Div
+aaB/10 Indian Div
+eB/10 Indian Div
+5 RTR/10 Indian Div
+r B/10 Indian Div
+atR/10 Indian Div
+Luft
+Reggia

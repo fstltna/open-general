@@ -1,0 +1,53 @@
+Port Said ,,Operation Rotterdam''
+186 R/185 Folgore/[X]
+187 R/185 Folgore/[X]
+Kroh/Raemcke Bde./[DAK]
+Huebner/Raemcke Bde./[DAK]
+Burkhardt/Raemcke Bde./[DAK]
+5 R/Raemcke Bde./[DAK]
+Raemcke Bde./[DAK]
+AR 185/185 Folgore/[X]
+33 R/133 Littorio/[XX]
+132 R/133 Littorio/[XX]
+12 R/133 Littorio/[XX]
+65 R/101Trieste/[XX]
+66 R/101Trieste/[XX]
+9 R/101Trieste/[XX]
+21 AR/101Trieste/[XX]
+[2 Luftflotte]
+5 SA
+5 SA
+11 Czech Btn
+I Polish Btn
+II Polish Btn
+III Polish Btn
+Carpathian AR
+Carpatian MG Btn
+Carpathian Lancers
+1 SSR Btn
+1 KDG R.
+B
+A
+D
+2/12 RAA
+2/7 RAA
+2/8 RAA
+6 AT R.
+[8 Army]
+[8 Army]
+[8 Army]
+DAF
+DAF
+Damietta
+Ezbet
+Port Said
+Suez Canal
+Canal port
+El Matariya
+Ushash
+Darakisah
+Hagar
+Kafral
+Isma
+El Qumic
+El Huseiniya

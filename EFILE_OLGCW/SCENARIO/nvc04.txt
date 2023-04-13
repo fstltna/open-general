@@ -1,0 +1,42 @@
+Military Region IV Crisis
+Trang Bang
+Ben Suo
+Cu Chi
+Ben Co
+Phu Cuong
+Ben Cat
+Rice Crops
+Rubber Crops
+Saigon River
+Tinh River
+Trang Bang River
+(+)1 Div./[IIFF]
+(+)1 Div./[IIFF]
+(+)1 Div./[IIFF]
+5 R/25 Div./[IIFF]
+22 R/25 Div./[IIFF]
+23 R/25 Div./[IIFF]
+2 Btn/34 R/25 Div./[IIFF]
+4 Cav./25 Div./[IIFF]
+65 Btn./25 Div./[IIFF]
+75 Rng/25 Div./[IIFF]
+AtyGrp./25 Div./[IIFF]
+AtyGrp./25 Div./[IIFF]
+AtyGrp./25 Div./[IIFF]
+AtyGrp./25 Div./[IIFF]
+AtyGrp./25 Div./[IIFF]
+HQ/25 Div./[IIFF]
+Airfield (Out of the map limits)
+173 AB Bde/-/[IIFF]
+196 Bde/-/[IIFF]
+[7AF]
+[7AF]
+25 Div./[IIFF]
+1 RAR Btn./173 AB Bde./-/[IIFF]
+RAA/173 AB Bde./-/[IIFF]
+161 FBattery/173 AB Bde./-/[IIFF]
+To War Zone C
+[MR IV Locals]
+[MR IV Locals]
+[MR IV Locals]
+[MR IV Locals]

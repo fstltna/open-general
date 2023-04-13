@@ -1,0 +1,10 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  97  '  Hummel 150mm  [ATY  Germany]  Cost: 948
+ 131  '  Panther A  [ TK  Germany]  Cost: 876
+ 991  '  Sturmpanzer 43 Stupa (Brummbär)  150mm  [ATY  Germany]  Cost: 600
+7968  '  Tiger Ic  [ TK  Germany]  Cost: 1200

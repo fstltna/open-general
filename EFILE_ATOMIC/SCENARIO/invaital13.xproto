@@ -1,0 +1,23 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 462  '  P-51H Mustang  [FTR  USA]  Cost: 960
+ 463  '  P-80 Shooting Star  [FTR  USA]  Cost: 1284
+1749  '  M36B2  [ AT  USA]  Cost: 792
+3937  '  Mountain 46  [INF  USA]  Cost: 300
+4513  '  F8F-1 Bearcat  [FTR  USA]  Cost: 864
+4618  '  F2G-1 Corsair  [FTR  USA]  Cost: 948
+4619  '  F7F-2N Tigercat  [FTR  USA]  Cost: 1500
+4627  '  F4U-4C Corsair  [FTR  USA]  Cost: 1104
+4660  '  B-29A Superfortress  [ LB  USA]  Cost: 1596
+6406  '  M45  [ TK  USA]  Cost: 1392
+7343  '  Grenadiers 46  [INF  USA]  Cost: 240
+7996  '  M41 155mm  [ATY  USA]  Cost: 1392
+7997  '  T92  240mm  [ATY  USA]  Cost: 2100
+8169  '  Seabees Combat Engineers 46  [INF  USA]  Cost: 384
+8285  '  F7F-3 Tigercat  [FTR  USA]  Cost: 1416
+8426  '  T66 Rocket Launcher  [ATY  USA]  Cost: 336
+8527  '  M37 105mm  [ATY  USA]  Cost: 696

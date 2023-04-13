@@ -1,0 +1,55 @@
+1944 Kampf vor Tinian [PL 3.2]
+Radarstellung
+Strand
+Stadt Tinian
+Hafen Tinian
+Korallenriff
+Dschungel
+Berg Lasso
+3.Btl./50 R
+50.Regiment
+50.Regiment
+50.Regiment
+50.Regiment
+50.Regiment
+56 NGF
+56 NGF
+56 NGF
+Tk.Plt./18 Regiment
+1.Btl./135 Regiment
+[1.Luftflotte]
+[1.Luftflotte]
+[1.Luftflotte]
+56 NGF
+56 NGF
+56 NGF
+[Tinian]
+USS Elden
+USS Bancroft
+USS Indianapolis
+USS Birminghan
+USS Montpelier
+USS Louisville
+USS New Orleans
+USS Colorado
+2 R/2 USMC/[III]
+6 R/2 USMC/[III]
+8 R/2 USMC/[III]
+10 AR/2 USMC/[III]
+2 USMC/[III]
+2 USMC/[III]
+23 R/4 USMC/[III]
+24 R/4 USMC/[III]
+25 R/4 USMC/[III]
+14 R/4 USMC/[III]
+4 USMC/[III]
+4 USMC/[III]
+4 USMC/[III]
+2 USMC/[III]
+4 USMC/[III]
+56 NGF
+56 NGF
+US-Marine
+US-Marine
+Verlassen [NUR in TS-Runden waehlen!]
+[Evakuierungsbefehl]

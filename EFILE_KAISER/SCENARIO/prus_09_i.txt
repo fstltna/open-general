@@ -1,0 +1,14 @@
+Sedan
+
+Sep 1st, 1870
+
+The French plan could have succeeded under other circumstances, but once again the Germans were much faster. As soon as they learnt of the march of the Army of Châlons, the Germans sent theirThird Army and their new Army of the Meuse against them. In the meantime, the Prussian First and Second Armies would remain at the siege of Metz and other secondary units, including most of the troops from Baden and Württemberg, would besiege Strasbourg.
+
+Eager of liberating Metz, the French had neglected their both flanks during their advance. The Germans took advantage of this almost immediately. Outmaneuvering the French, they forced a first engagement at Beaumont on 30 August. The Army of Châlons had to withdraw to Sedan to regroup and resupply, but the Germans followed them and encircled them. On September 1, the rescue operation that the French intended had turned into a trap.
+
+Victory conditions:
+- Take all the VHs.
+
+Special note:
+- You can buy equipment from Bavaria, Württemberg, Baden and Saxony in this scenario.
+

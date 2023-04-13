@@ -1,0 +1,12 @@
+Situation: 
+General, we are starting our Operation Market Garden. British and US Paratroopers are already jumped off their planes. Your army have to make the way into the north and clean the corridor from enemy units. Some units of the XXX. Corps will help you. In a few days General Sosabowski and his polish paratroopers will arrive Arnhem. Be aware that the Germans have air supoeriority!
+
+Orders:
+Hold 12 VHs for BV
+Hold 10 VHs for V
+Hold 9 VHs for TV
+
+A few hints:
+- It could be a good idea to use a few units of the XXX. Corps to conquer and secure the flank in the west.
+- Do not use your paratroopers for battling in Arnhem. Instead it could be a good idea to conquer the enemy airfield, so the German planes can not be resupplied any more.
+- We recommend buying a further flak / air defense for your army.

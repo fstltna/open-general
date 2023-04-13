@@ -1,0 +1,12 @@
+Szolnok
+January 22, 1849
+
+Please listen carefully, Colonel. Artúr Görgei’s brave maneuvers in the Highlands confused Windisch-Grätz. The Austrians divided their forces. Now there’s a good opportunity to surprise them. With a bold attack, you can retake Szolnok, you can even push back the enemy to the River Danube.
+
+Deploy Hexes: 18
+
+ORDER: Take all VHs.
+
+NOTE: You’ve got 2 railway transports.
+
+scenario designer: Csaba (lvjtn)

@@ -1,0 +1,88 @@
+Central Plains Breakout
+Beijing - Wuhan R.R.
+LAKE
+Nanyang
+Zumadian
+Runan
+Queshan
+Tanghe
+Xinyang
+Xiangfan
+Zaoyang
+Lu-Chia-Ho
+Mao-Tsu-Fan
+Anju
+Suizhou
+Yicheng
+Huayuan
+Anlu
+Zhongxian
+Shibanhe
+Xiaogan
+Wuhan
+41 KMT Div.
+44 KMT Div.
+44 KMT Div.
+44 KMT Div.
+Nanyang Security Rgt.
+KMT HQ
+Guagsgui
+41 KMT Div.
+41 KMT Div.
+41 KMT Div.
+47 KMT Div.
+47 KMT Div.
+47 KMT Div.
+47 KMT Div.
+48 KMT Div.
+48 KMT Div.
+48 KMT Div.
+48 KMT Div.
+72 KMT Div.
+72 KMT Div.
+72 KMT Div.
+72 KMT Div.
+66 KMT Div.
+66 KMT Div.
+66 KMT Div.
+66 KMT Div.
+3 KMT Div.
+3 KMT Div.
+3 KMT Div.
+3 KMT Div.
+75 KMT Div.
+75 KMT Div.
+75 KMT Div.
+75 KMT Div.
+11 KMT Div.
+11 KMT Div.
+11 KMT Div.
+11 KMT Div.
+15 KMT Div.
+15 KMT Div.
+15 KMT Div.
+15 KMT Div.
+[Army Reserves]
+[Army Reserves]
+13 Bde./Right Route Force
+45 R/Right Route Force
+Cadres Bde./Right Route Force
+39 Bde./Right Route Force
+15 Bde./Left Route Force
+1 Column/Left Route Force
+1 Column/Left Route Force
+1 Column/Left Route Force
+1 Column/Left Route Force
+1 Column/Left Route Force
+1 Column/Left Route Force
+1 Column/Left Route Force
+Rigth Route HQ
+Left Route HQ
+Eastern Route HQ
+1 Bde./Eastern Route Force
+Guerrilla/Eastern Route Force
+Right Route Force
+Right Route Force
+Eastern Route Force
+Security Force
+[EXIT]

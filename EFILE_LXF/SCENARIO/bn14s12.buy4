@@ -1,0 +1,20 @@
+'---
+'Config purchase file for scenario: BN14S12_t05.xcsv
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 9 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+ 298  '  Type 91  [FTR  Japan]  Cost: 324
+ 300  '  Ki-10-I  [FTR  Japan]  Cost: 456
+ 303  '  Ki-3  [ TB  Japan]  Cost: 300
+ 769  '  Type 88  [ TB  Japan]  Cost: 228
+4160  '  Combat Command  [INF  Mengjiang]  Cost: 144
+4161  '  Regular Cavalry  [INF  Mengjiang]  Cost: 156
+4162  '  Rifles  [INF  Mengjiang]  Cost: 120
+4198  '  Type 38 7.5cm FG  [ATY  Mengjiang]  Cost: 204
+7580  '  Ki-4  [ TB  Japan]  Cost: 276

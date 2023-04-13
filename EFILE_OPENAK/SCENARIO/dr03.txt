@@ -1,0 +1,9 @@
+French 7th Army drive North May1940
+
+The French 7th Army has crossed the Belgian-Dutch border. Their 1st Light Mechanized Division is rushing to Moerdijk. If they capture the Moerdijk bridge, your forces are trapped North of the rivers. Hurry your SS forces and the 9th Pz Division South to push the frogs back into Belgium.
+
+PLAYER ORDERS
+- Destroy all French ground units. Air and sea units do not have to be destroyed to win.
+- Do NOT allow the French to capture the Moerdijk bridge.
+- Strength lost on core units will not be automatically replaced at HQ at the start of the next scenario and no new units can be added to your core as your troops have to continue pushing South.
+- Units cannot be upgraded before the scenario.

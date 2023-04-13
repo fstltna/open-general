@@ -1,0 +1,90 @@
+1939-45 FORWARD, COMRADE!
+
+File                    Scenario                                           Date           BV   V  TV    L  Map
+
+ 0 Forward0.xscn        Battle at the Chalchin Gol                         Jul  2, 1939    1   1   1   Ls  739.jpg
+ 1 Forward1.xscn        Battle of Suomussalmi                              Dec  7, 1939    2   2   2   Ls  1.png
+ 2 Forward2.xscn        Pocket of Minsk                                    Jun 26, 1941    3   3   3    3  504.jpg
+ 3 Forward3.xscn        Defense of Kishinev                                Jul  2, 1941    4   4   4    4  20.png
+ 4 Forward4.xscn        Battle of Odessa                                   Aug 28, 1941    5   5   5   Ls  800.png
+ 5 Forward5.xscn        Pocket of Kiew                                     Sep 12, 1941    6   6   6    6  229.png
+ 6 Forward6.xscn        Pocket of Brjansk                                  Sep 30, 1941    7   7   7    7  686.png
+ 7 Forward7.xscn        Tula Counterattack                                 Nov 18, 1941    8  10   9    9  125.jpg
+ 8 Forward8.xscn        Closing the pocket                                 Feb 17, 1942  Win Win Win   10  505.png
+ 9 Forward9.xscn        Urban Warfare in Moskva                            Dec  5, 1941   10  10  10   Ls  67.jpg
+10 Forward10.xscn       Demyansk Pocket                                    Mar 20, 1942   11  11  11   Ls  1039.png
+11 Forward11.xscn       Defense of Voronezh                                Jun 28, 1942   12  12  12   12  952.png
+12 Forward12.xscn       Rzhew Meat Grinder                                 Jul 30, 1942   13  13  13   Ls  1449.png
+13 Forward13.xscn       Operation Uranus                                   Nov 19, 1942   14  14  14   Ls  275.png
+14 Forward14.xscn       Battle at the Myschkowa                            Dec 12, 1942   15  15  15   Ls  1481.png
+15 Forward15.xscn       Blowed by backhand                                 Feb 15, 1943   17  17  17   16  134.jpg
+16 Forward16.xscn       Prokhorowka Tank Battle                            Jul 12, 1943   17  17  17   Ls  0.png
+17 Forward17.xsch       3 Choices  Goto: #23, #38, #18,                                                    659.png
+18 Forward18.xscn       Free Leningrad                                     Jan 14, 1944   19  19  19   Ls  65.jpg
+19 Forward19.xscn       Battle of Viipuri                                  Jun 10, 1944   20  20  20   Ls  426.jpg
+20 Forward20.xscn       Attack on Riga                                     Sep 14, 1944   21  21  21   Ls  337.png
+21 Forward21.xscn       Courland Pocket                                    Feb 12, 1945   22  22  22   Ls  1468.png
+22 Forward22.xscn       Manchurian Operation                               Aug  9, 1945  Win Win Win   Ls  571.png
+23 Forward23.xscn       Smolensker Offensive                               Aug  7, 1943   24  24  24   Ls  135.jpg
+24 Forward24.xscn       Operation Bagration                                Jun 22, 1944   25  25  25   Ls  776.jpg
+25 Forward25.xscn       Battle of Silesia                                  Jan 17, 1945   26  26  26   Ls  700.jpg
+26 Forward26.xscn       Fortress Küstrin                                   Mar 26, 1945   27  33  28   Ls  1037.jpg
+27 Forward27.xscn       Battle of Berlin                                   Apr 16, 1945  Win Win Win   Ls  1475.png
+28 Forward28.xscn       Breakthrough at Dessau                             May 19, 1945   29  29  29   Ls  17.png
+29 Forward29.xscn       Battle of East Friesland                           Jun 23, 1945   30  30  30   Ls  398.png
+30 Forward30.xscn       Battle at the Ruhr                                 Jul 26, 1945   31  31  31   Ls  85.jpg
+31 Forward31.xscn       Battle in the Ardennes                             Aug 20, 1945   32  32  32   Ls  927.png
+32 Forward32.xscn       Charge on Antwerpen                                Oct 10, 1945  Win Win Win   Ls  512.png
+33 Forward33.xscn       Breakthrough at Dessau                             May 19, 1945   34  34  34   Ls  17.png
+34 Forward34.xscn       Battle of East Friesland                           Jun 23, 1945   35  35  35   Ls  398.png
+35 Forward35.xscn       Battle at the Ruhr                                 Jul 26, 1945   36  36  36   Ls  85.jpg
+36 Forward36.xscn       Ardennenoffensive                                  Aug 20, 1945   37  37  37   Ls  927.png
+37 Forward37.xscn       Sturm auf Antwerpen                                Oct 10, 1945  Win Win Win   Ls  512.png
+38 Forward38.xscn       Kuban-Bridgehead                                   Sep  3, 1943   39  39  39   Ls  1448.png
+39 Forward39.xscn       Zhitomir Counterattack                             Nov 13, 1943   40  40  40   Ls  234.jpg
+40 Forward40.xscn       Brody Cauldron                                     Jul 20, 1944   41  41  41   Ls  236.png
+41 Forward41.xscn       Battle of Romania                                  Aug 20, 1944   42  42  42   Ls  336.png
+42 Forward42.xscn       Take Szekesferhervar!                              Mar 16, 1945   43  43  43   Ls  495.jpg
+43 Forward43.xscn       Battle of Prague                                   May  6, 1945   22  22  22   Ls  9805.jpg
+
+Summary of maps needed:
+
+1468.png              used 1   times
+1449.png              used 1   times
+135.jpg               used 1   times
+426.jpg               used 1   times
+686.png               used 1   times
+776.jpg               used 1   times
+0.png                 used 1   times
+65.jpg                used 1   times
+1475.png              used 1   times
+134.jpg               used 1   times
+505.png               used 1   times
+17.png                used 2   times
+1039.png              used 1   times
+125.jpg               used 1   times
+800.png               used 1   times
+495.jpg               used 1   times
+336.png               used 1   times
+229.png               used 1   times
+236.png               used 1   times
+927.png               used 2   times
+85.jpg                used 2   times
+659.png               used 1   times
+275.png               used 1   times
+67.jpg                used 1   times
+1448.png              used 1   times
+571.png               used 1   times
+952.png               used 1   times
+1.png                 used 1   times
+512.png               used 2   times
+398.png               used 2   times
+739.jpg               used 1   times
+1037.jpg              used 1   times
+504.jpg               used 1   times
+234.jpg               used 1   times
+337.png               used 1   times
+9805.jpg              used 1   times
+700.jpg               used 1   times
+1481.png              used 1   times
+20.png                used 1   times

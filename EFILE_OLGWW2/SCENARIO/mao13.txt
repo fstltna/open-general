@@ -1,0 +1,129 @@
+Hungnam Pocket [Korean War]
+Songchon
+Sinhung
+Pukchong
+Oro
+Sinpo
+Hongwon
+Yowicong
+Tongjoson mam
+Hamhung
+Hungnam
+Hungnam Port
+Chongpyong
+Sinsang
+17 R/7 ID/X Army
+31 R/7 ID/X Army
+32 R/7 ID/X Army
+13 B/7 ID/X Army
+31 B/7 ID/X Army
+48 B/7 ID/X Army
+49 B/7 ID/X Army
+57 B/7 ID/X Army
+13 TkB/7 ID/X Army
+15 B/7 ID/X Army
+7 R/3 ID/X Army
+15 R/3 ID/X Army
+30 R/3 ID/X Army
+10 Bn/3 ID/X Army
+9 Bn/3 ID/X Army
+39 Bn/3 ID/X Army
+58 Bn/3 ID/X Army
+64 Bn/3 ID/X Army
+3 Bn/3 ID/X Army
+22 R/3 ID/1 ROK
+23 R/3 ID/1 ROK
+26 R/3 ID/1 ROK
+Art Bn/3 ID/1 ROK
+E Bn/3 ID/1 ROK
+HQ/1 ROK
+17 R/Capitol Div/1 ROK
+18 R/Capitol Div/1 ROK
+1 R/Capitol Div/1 ROK
+HQ/X Army
+1 R/1 ID/X Army
+5 R/1 ID/X Army
+Commando
+USS Iowa
+USS Essex
+USS Hornet
+USS Cabot
+USS Boxer
+USS Los Angeles
+USS Bergor
+USS Stormes
+USS Twining
+USS Radford
+35th Ftr-Bomb. Sqd.
+522nd Ftr-Escort Sqd.
+8th Tact. Rec. Sqd.
+37th Bomb. Sqd. 
+265 R/89 PLA Div./[20A]
+266 R/89 PLA Div./[20A]
+267 R/89 PLA Div./[20A]
+175 R/59 PLA Div./[20A]
+176 R/59 PLA Div./[20A]
+177 R/59 PLA Div./[20A]
+172 R/58 PLA Div./[20A]
+173 R/58 PLA Div./[20A]
+174 R/58 PLA Div./[20A]
+178 R/60 PLA Div./[20A]
+179 R/60 PLA Div./[20A]
+180 R/60 PLA Div./[20A]
+235 R/79 PLA Div./[27A]
+236 R/79 PLA Div./[27A]
+237 R/79 PLA Div./[27A]
+238 R/80 PLA Div./[27A]
+239 R/80 PLA Div./[27A]
+240 R/80 PLA Div./[27A]
+[27 PLA HQ]
+[20 PLA HQ]
+[20 PLA]
+[20 PLA]
+[27 PLA]
+[27 PLA]
+[27 PLA]
+58 PLA Div./[20A]
+59 PLA Div./[20A]
+60 PLA Div./[20A]
+[20 PLA]
+241 R/81 PLA Div./[20A]
+242 R/81 PLA Div./[20A]
+243 R/81 PLA Div./[20A]
+e B/81 PLA Div./[20A]
+Tk Bn/81 PLA Div./[20A]
+268 R/90 PLA Div./[20A]
+269 R/90 PLA Div./[20A]
+270 R/90 PLA Div./[20A]
+At Bn/90 PLA Div./[20A]
+370 R/124 PLA Div./[42A]
+371 R/124 PLA Div./[42A]
+372 R/124 PLA Div./[42A]
+373 R/125 PLA Div./[42A]
+374 R/125 PLA Div./[42A]
+375 R/125 PLA Div./[42A]
+376 R/126 PLA Div./[42A]
+377 R/126 PLA Div./[42A]
+378 R/126 PLA Div./[42A]
+Tk.Btn./-/[42A]
+4 R/2 KPA Div./[2A]
+16 R/2 KPA Div./[2A]
+17 R/2 KPA Div./[2A]
+Aty Bn/2 KPA Div./[2A]
+13 R/6 KPA Div./[2A]
+14 R/6 KPA Div./[2A]
+15 R/6 KPA Div./[2A]
+Eng.Btn./6 KPA Div./[2A]
+25 R/10 KPA Div./[2A]
+27 R/10 KPA Div./[2A]
+29 R/10 KPA Div./[2A]
+AR.Btn./10 KPA Div./[2A]
+AR.Btn./-/[2A]
+Tk.Btn./-/[2A]
+[2 Army HQ]
+Evacuation Point
+PLAA
+PLAA
+PLAA
+PLAA
+[X]

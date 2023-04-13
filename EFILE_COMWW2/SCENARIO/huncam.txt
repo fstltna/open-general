@@ -1,0 +1,41 @@
+Hungarian Royal Army 1939-45
+
+Our nation never accepted the Treaty of Trianon when we lost 2/3 of our territories and population. 3 million ethnic Hungarians live outside the borders. We claim all territories we lost in 1920 and hopefully we can regain a significant part of them with the support of our allied friend, Germany. When we will be strong enough, we can start a crusade against our arch enemy, the bolsheviks. 
+
+-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-÷-
+
+Version: 1.2 (Aug-7-2013)
+Longest path: 14 scenarios (linear)
+Requirements: Open General 0.90.28.4 (or later) and Efile Composite v1.02B (or later) 
+
+NOTES
+-÷-÷-
+
+This campaign is a complete rework of Matti's Hungarian campaign for Waffenkammer. It strongly uses new features of Open General like minefields, built airfields, railways, train transports, new victory conditions, etc. Several new scenarios have been added and some maps have been replaced where better ones were available.
+
+Most scenarios refer to a real battle, except the second one (Nagyszeben / Sibiu) which was kept for a better timeline. Although it is a semi-fictional scenario, there was a real chance of a Hungarian-Romanian war before the Second Vienna Award.
+
+Because the Hungarian equipment pool is poor, protos are disabled for the entire campaign. But it is still worth running for a BV/DV. Players will get free core units in some scenarios and their quality depends on the previous result. Getting a BV/DV is awarded, just in a different way than what we are used to.
+
+There is no friendly SH at all, so the players can deploy a limited core in every scenario. Don't worry, you can buy a bunch of cheap and crappy units, to be honest, you cannot buy anything else. This story is about a Hungarian army which wasn't famous for the best equipment.  
+
+All scenarios are playable as standalone.
+
+I hope you will find as much fun in playing as i did in designing.
+
+RULES:
+	- Blow / build / repair is allowed
+	- Air units can be fired when entering AD range
+	- Barrage fire is allowed
+	- True spotting zero
+	- Extended LOS (aka advanced spotting) rules
+	- Roads are allowed on any terrain
+	- Reinforcement is arrived when player is active
+	- Added core behaves as prototype
+	- Weather can change ground condition
+
+
+Any feedback is welcome
+
+Csaba Zsadányi-Nagy (aka lvjtn)
+lvjtn9 AT gmail DOT com

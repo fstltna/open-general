@@ -1,0 +1,35 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  65  '  2 Flakvierling38  [FlaK  Deutschland]  Cost: 108
+  77  '  5 Pak38  [ AT  Deutschland]  Cost: 108
+  98  '  15 NbWf41  [ATY  Deutschland]  Cost: 372
+ 103  '  Sturmgeschutz B  [ AT  Deutschland]  Cost: 288
+ 114  '  40 Fallschirmjager  [INF  Deutschland]  Cost: 288
+ 137  '  Pz 38(t)F  [ TK  Deutschland]  Cost: 336
+ 141  '  Pz IIF  [ TK  Deutschland]  Cost: 276
+ 146  '  Pz IIIH  [ TK  Deutschland]  Cost: 384
+ 174  '  Ju 87D-1  [ TB  Deutschland]  Cost: 840
+ 584  '  8,8 Flak37  [ AD  Deutschland]  Cost: 576
+ 722  '  40 Jager  [INF  Deutschland]  Cost: 156
+ 989  '  Ju 88A-4  [ TB  Deutschland]  Cost: 1044
+ 998  '  Fw 189A-1  [ TB  Deutschland]  Cost: 504
+1223  '  5 Flak41  [ AD  Deutschland]  Cost: 228
+1235  '  7,5 GebG36  [ATY  Deutschland]  Cost: 276
+1242  '  40 Luftlande-Sturm  [INF  Deutschland]  Cost: 804
+1249  '  41 SS Gebirgsjager  [INF  Deutschland]  Cost: 252
+1261  '  Pz II(F)  [ TK  Deutschland]  Cost: 312
+1267  '  Pz IIIG Tauchfahig  [ TK  Deutschland]  Cost: 492
+1268  '  Pz IVD Tauchfahig  [ TK  Deutschland]  Cost: 552
+1900  '  2,8 lePak41  [ AT  Deutschland]  Cost: 384
+3355  '  15,5cm K418(f)  [ATY  Deutschland]  Cost: 1056
+3434  '  41 MG-Schutzen  [INF  Deutschland]  Cost: 228
+3500  '  41 Gebirgs-aufklarung  [RCN  Deutschland]  Cost: 288
+3502  '  40 Fallschirm-aufklarer  [RCN  Deutschland]  Cost: 300
+4291  '  Do 17Z-10 Kauz II  [ TB  Deutschland]  Cost: 780
+4296  '  Ju 88D-2  [ TB  Deutschland]  Cost: 720
+4332  '  Ju 86P-1  [ LB  Deutschland]  Cost: 720
+4560  '  Bf 109F-2  [FTR  Deutschland]  Cost: 948

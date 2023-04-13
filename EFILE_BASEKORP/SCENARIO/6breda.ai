@@ -1,0 +1,63 @@
+'---
+'Config AI file for scenario: 6Breda.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=0 
+$buy_newair=30 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3  
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2  
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=45 items  ' Replacement for default list
+ 585  '  120mm M11  [ATY  Netherlands]  Cost: 204
+ 831  '  G.I  [FTR  Netherlands]  Cost: 576
+ 838  '  40mm M36  [ AD  Netherlands]  Cost: 144
+ 839  '  75mm M34  [ AD  Netherlands]  Cost: 324
+ 840  '  75mm M03  [ATY  Netherlands]  Cost: 144
+ 843  '  D.XXI  [FTR  Netherlands]  Cost: 420
+ 844  '  T.V  [ TB  Netherlands]  Cost: 552
+ 887  '  47mm M35  [ AT  Netherlands]  Cost: 84
+ 888  '  Genie  [INF  Netherlands]  Cost: 336
+ 903  '  Mariniers  [INF  Netherlands]  Cost: 204
+ 904  '  Huzaren  [RCN  Netherlands]  Cost: 132
+ 919  '  M38 Landsverk  [RCN  Netherlands]  Cost: 288
+ 964  '  150mm M13  [ATY  Netherlands]  Cost: 468
+1426  '  7.92mm M17  [FlaK  Netherlands]  Cost: 36
+1427  '  20mm M29  [FlaK  Netherlands]  Cost: 60
+1428  '  57mm M99  [ AT  Netherlands]  Cost: 96
+1429  '  81mm mortar  [ATY  Netherlands]  Cost: 180
+1430  '  105mm M27  [ATY  Netherlands]  Cost: 492
+1431  '  120mm M78  [ATY  Netherlands]  Cost: 192
+1432  '  152mm M17  [ATY  Netherlands]  Cost: 456
+1433  '  MG  [FlaK  Netherlands]  Cost: 96
+1434  '  Jagers  [INF  Netherlands]  Cost: 84
+1436  '  Grenadiers  [INF  Netherlands]  Cost: 132
+1438  '  M36 Landsverk  [RCN  Netherlands]  Cost: 252
+1439  '  M39 DAF  [RCN  Netherlands]  Cost: 300
+1441  '  FK 51  [FTR  Netherlands]  Cost: 288
+1442  '  D.XVII  [FTR  Netherlands]  Cost: 312
+1443  '  C.V  [ TB  Netherlands]  Cost: 324
+1444  '  C.X  [ TB  Netherlands]  Cost: 336
+1445  '  T.VIII-W  [ TB  Netherlands]  Cost: 324
+1446  '  A8A-3N  [ TB  Netherlands]  Cost: 480
+1911  '  Motorrijder  [INF  Netherlands]  Cost: 228
+2032  '  37mm M29  [ AT  Netherlands]  Cost: 72
+2033  '  75mm M34  [ATY  Netherlands]  Cost: 312
+2035  '  25 pdr  [ATY  Netherlands]  Cost: 264
+2041  '  White  [RCN  Netherlands]  Cost: 192
+2044  '  Overwalwagen  [RCN  Netherlands]  Cost: 192
+2045  '  CTLS  [ TK  Netherlands]  Cost: 252
+2050  '  CW.21  [FTR  Netherlands]  Cost: 468
+2051  '  B 339D  [FTR  Netherlands]  Cost: 480
+2057  '  B 10  [ TB  Netherlands]  Cost: 516
+2060  '  Do 24K  [ TB  Netherlands]  Cost: 360
+3248  '  75mm M03/26  [ATY  Netherlands]  Cost: 180
+3276  '  Lichte Infanterie  [INF  Netherlands]  Cost: 84
+5251  '  84mm M81  [ATY  Netherlands]  Cost: 84

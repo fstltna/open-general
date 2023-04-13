@@ -1,0 +1,13 @@
+ORDERS: 
+
+General, Sir, your next objective is to liberate the city of Caen and clear its vicinity from german units. You will field a powerful allied army, which is comming from our beachheads. Most of the germans are not at full strength but be aware that we received intelligence reports which mention strong enemy Panzer forces comming from the south and southwest. Be cautious!
+
+Last night paratroopers of the 6th British Airborne Division landed east of the Orne river. They have already linked up with the men and women of local Resistance groups.
+
+A few hints: 
+
+Caution! The Melville battery has powerful long range guns. 
+You may deploy your core paratroopers at sea.
+Your supply and repair unit provides ammo and is able to heal 3 strength points every turn. Both units have to stand still.
+The unit, which captures Caen West, will raise a leader.
+Resistance units may sabotage the enemy.

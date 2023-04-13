@@ -1,0 +1,21 @@
+Belmont
+
+Nov 23rd, 1899
+
+Lord Methuen's British First Division is marching north, to lift the siege of Kimberley. We have taken positions at the kopjes near Belmont station, where we hope to slow the advance of the Kakies. That will give us enough time to build better defences at the Modder River. Confront the invaders while our other commandoes retreat to our second line. We know that Methuen's troops are the only ones that the British have sent this area, so while they're busy fighting you our other units will be able to march unmolested.
+
+Victory conditions:
+-Take 8 units to the EH at (34,4).
+- At least 9 of your MSUs must actually survive.
+- Don't lose your VH.
+
+Special note:
+- A cavalry scout unit has been added to your core.
+
+
+
+
+
+
+
+

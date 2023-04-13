@@ -1,0 +1,229 @@
+Ardennes
+3 ChA / 1 DChA / Gpt K
+1 ChA / 1 DChA / Gpt K
+2 ChA / 1 DChA / Gpt K
+1/19 Bn Gn / 1 DChA / Gpt K
+7 ChA (CRI) / Gpt K
+Batterie Neufchateau / Gpt K
+Batterie Libramont / Gpt K
+QG Gen. Keyaerts / Gpt K
+2 ChCh / 1 DC / Gpt K
+Cie Mi AA / Gpt K
+Cie T-13 / 1 DChA / Gpt K
+2 L / 1 DC / Gpt K
+1 G / 1 DC / Gpt K
+IV/19 RACC / Gpt K
+7 Bie DTCA / Gpt K
+2 Eon blindé / 1 DChA / Gpt K
+Bn Moto ChA / Gpt K
+5 DLC
+3 CCy / 1 DC / Gpt K
+4 Bie DTCA / Gpt K
+Cie AB / 1 DChA / Gpt K
+Esc AB / 1 DC / Gpt K
+17 RACh / 1 DC / Gpt K
+25 Bn Gn / 1 DC / Gpt K
+Eon T-13 / 1 DC / Gpt K
+Esc Mi AA / 1 DC / Gpt K
+Art.-Rgt. 78 / 7 Pz.Div. / XV (mot.) AK / 4 AOK
+Aufkl.-Abt. 37 / 7 Pz.Div. / XV (mot.) AK / 4 AOK
+Pzjäg.-Abt. 42 / 7 Pz.Div. / XV (mot.) AK / 4 AOK
+Pion.-Btl. 58 / 7 Pz.Div. / XV (mot.) AK / 4 AOK
+Kradschützen-Btl. 7 / Schütz.-Brig. 7 / 7 Pz.Div. / XV (mot.) AK / 4 AOK
+Pion.-Btl. 43 / IR (mot.) GD / XIX (mot.) AK / Gr. Kleist
+Sturmgeschütz-Batterie 640 / IR (mot.) GD /  XIX PzK / Gr. Kleist
+Pz.-Abt. 66 / 7 Pz.Div. / XV (mot.) AK / 4 AOK
+Schütz.-Rgt 7 / Schütz.-Brig. 7 / 7 Pz.Div. / XV (mot.) AK / 4 AOK
+Schütz.-Rgt 6 / Schütz.-Brig. 7 / 7 Pz.Div. / XV (mot.) AK / 4 AOK
+Pz.-Rgt. 25 / 7 Pz.Div. / XV (mot.) AK / 4 AOK
+Pion.-Btl. 37 / 1 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+IR (mot.) GD / XIX (mot.) AK / Gr. Kleist
+Schütz.-Rgt 1 / Schütz.-Brig. 1 / 1 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Pion.-Bat. 1 / 1 Pz.Div. / XIX AK /
+Pzjäg.-Abt. 37 / 1 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Pzjäg.-Abt. 38 / 2 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Pz.-Rgt. 3 / Pz.-Brig 2 / 2 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Pz.-Rgt. 4 / Pz.-Brig 2 / 2 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Aufkl.-Abt. 4 / 1 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Pion.-Btl. 38 / 2 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Schütz.-Rgt 2 / Schütz.-Brig. 2 / 2 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Kradschützen-Btl. 2 / Schütz.-Brig. 2 / 2 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Art.-Rgt. 74 / 2 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+10/III / IR (mot.) GD / XIX (mot.) AK / Gr. Kleist
+11/III / IR (mot.) GD / XIX (mot.) AK / Gr. Kleist
+Gen.Kdo. Gen Guderain / XIX (mot.) AK / Gr. Kleist
+Aufkl.-Abt. 5 / 2 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Houffalize
+Ourthe
+Ortho
+Chabrenhez
+Gouvy
+Nives
+Witry
+Traimont
+Fauvillers
+Strainchamps
+Bondage
+Martelange
+Heinstert
+Habay-la-Neuve
+Léglise
+Arlon
+Tontelange
+Sûre
+Harzy
+Sibret
+La-Roche-en-Ardenne
+Champlon
+Amberloup
+Harsin
+Rochefort
+Neufchâteau
+Kradschützen-Btl. 1 / Schütz.-Brig. 1 / 1 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Pz.-Rgt. 1 / Pz.-Brig 1 / 1 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Pz.-Rgt. 2 / Pz.-Brig 1 / 1 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Art.-Rgt. 73 / 1 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+IR 67 / 23 ID / III AK / AOK 12 
+IR 68 / 23 ID / III AK / AOK 12 
+IR 9 / 23 ID / III AK / AOK 12 
+Pion.-Btl. 23 / 23 ID / III AK / AOK 12 
+Aufkl.-Abt. 23 / 23 ID / III AK / AOK 12 
+Pzjäg.-Abt. 23 / 23 ID / III AK / AOK 12 
+Art.-Rgt. 23 / 23 ID / III AK / AOK 12 
+Gen.Kdo. Gen. Haase / III AK / AOK 12 
+Pion.-Rgt. 541 / III AK / AOK 12 
+10 Pz.Div
+II/1er RIC / 3e DIC / XVIIIe CA / 2e Armée / GA 1
+18e Chasseurs / 3e BC / 2e DLC / 2e Armée / GA 1
+5e RAM / 15e BLM / 5e DLC / 2e Armée / GA 1
+2e RSA / 3e BS / 9e Armée / GA 1
+8e Chasseurs / 1ère BC / 2e Armée / GA 1
+5e Cuirassiers / 3e BC / 2e DLC / 2e Armée / GA 1
+3e RDP / 12e BLM / 2e DLC / 2e Armée / GA 1
+48e/1e Sapeurs / 2e DLC / 2e Armée / GA 1
+16e GRCA / XVIIIe CA / 2e Armée / GA 1
+Semois
+Bastogne
+Welin
+73e RATTT/ 2e DLC / 2e Armée / GA 1
+36e GRDI / 41e DI / XVIIIe CA / 2e Armée / GA 1
+64e GRDI / 55e DI / Xe CA / 2e Armée / GA 1
+III/12e RZ / 3e DINA / Xe CA / 2e Armée / GA 1
+2e RSM / 3e BS / 9e Armée / GA 1
+96 IR / 32 ID / II AK / AOK 4 
+Mabompré
+Marche-en-Fammene
+Bertogne
+Lomme
+Saint-Hubert
+Haversin
+2e RAM / 12e BLM / 2e DLC / 2e Armée / GA 1
+12e Chasseurs / 6e BC / 5e DLC / 2e Armée / GA 1
+11e Cuirassiers / 6e BC / 5e DLC / 2e Armée / GA 1
+78e RATTT/ 5e DLC / 2e Armée / GA 1
+15e RDP / 15e BLM / 5e DLC / 2e Armée / GA 1
+34e/1e Sapeurs / 5e DLC / 2e Armée / GA 1
+2e EDAC / 2e DLC / 2e Armée / GA 1
+10eBie/78e / 5e DLC / 2e Armée / Groupe d'Armées 1
+1er Hussars / 1ère BC / 2e Armée / GA 1
+715/409 Bie / 5e DLC / 2e Armée / GA 1
+1er Chasseurs / 2e BC / 1ere DLC / 9e Armée / GA 1
+19 Dragons / 2e BC / 1ere DLC / 9e Armée / GA 1
+1er RAM / 11e BLM / 1ere DLC / IXe Armée / GA 1
+5e RDP / 11e BLM / 1ere DLC / 9e Armée / GA 1
+75e RATTT/ 1ere DLC / 9e Armée / GA 1
+1er EDAC / 1ere DLC / 9e Armée / GA 1
+46e/1e Sapeurs / 1ere DLC / 9e Armée / GA 1
+711/409 Bie / 1ere DLC / 9e Armée / GA 1
+Cobru
+Bourcy
+Hargimont
+4 IR / 32 ID / II AK / AOK 4 
+Aufkl.-Abt. 32 / 32 ID / II AK / AOK 4 
+94 IR / 32 ID / II AK / AOK 4 
+Pion.-Btl. 32 / 32 ID / II AK / AOK 4 
+Pzjäg.-Abt. 32 / 32 ID / II AK / AOK 4 
+Art.-Rgt. 32 / 32 ID / II AK / AOK 4 
+Art.-Rgt. 68 (I.) / 32 ID / II AK / AOK 4 
+IR 8 / 3 ID / III AK / AOK 12 
+Aufkl.-Abt. 3 / 3 ID / III AK / AOK 12 
+IR 29 / 3 ID / III AK / AOK 12 
+Pzjäg.-Abt. 3 / 3 ID / III AK / AOK 12 
+Pion.-Btl. 3 / 3 ID / III AK / AOK 12 
+IR 50 / 3 ID / III AK / AOK 12 
+Art.-Rgt. 3 / 3 ID / III AK / AOK 12 
+Art.-Rgt. 39 (I.) / 3 ID / III AK / AOK 12 
+Art.-Rgt. 59 (I.) / 23 ID / III AK / AOK 12 
+L/5 / Koluft 12 / III AK / AOK 12 
+Art.-Rgt. 109 (II.) / III AK / AOK 12 
+Art.-Rgt. 253 (IV.) / III AK / AOK 12 
+IR 70 / 36 ID / VII AK / AOK 16 
+IR 31 / 24 ID / VI AK / 12 AOK 
+Casemate 61
+Casemate 63
+Casemate 65
+Casemate 64
+Casemate 62
+Casemate 72
+Casemate 73
+Casemate 76
+Casemate 60
+MG.-Abt. 11 / XIX (mot.) AK / Gr. Kleist
+Art.-Abt. 616 / XIX (mot.) AK / Gr. Kleist
+I./36 / Stoluft XXII / XIX (mot.) AK / Gr. Kleist/
+Pz.-Rgt. 7 / Pz.-Brig 4 / 10 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Pz.-Rgt. 8 / Pz.-Brig 4 / 10 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Schütz.-Rgt 69 / Schütz.-Brig. 10 / 10 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Schütz.-Rgt 86 / Schütz.-Brig. 10 / 10 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Art.-Rgt. 90 / 10 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Aufkl.-Abt. 90 / 10 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Pzjäg.-Abt. 90 / 10 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Pion.-Btl. 49 / 10 Pz.Div. / XIX (mot.) AK / Gr. Kleist
+Libin
+Libramont
+Vaux
+Lesse
+Les Deux Villes
+Straimont
+Bouillon
+La Chapelle
+Chassepierre
+Florenville
+I/JG27 / VIII.Fliegerkorps / 2 LF
+IR 87 / 36 ID / VII AK / AOK 16 
+IR 118 / 36 ID / VII AK / AOK 16 
+Pion.-Btl. 36 / 36 ID / VII AK / AOK 16 
+Aufkl.-Abt. 36 / 36 ID / VII AK / AOK 16 
+Pzjäg.-Abt. 36 / 36 ID / VII AK / AOK 16 
+Art.-Rgt. 72 (I.) / 36 ID / VII AK / AOK 16 
+Art.-Rgt. 36 / 36 ID / VII AK / AOK 16 
+Halli
+Casemate 71
+9e Esc. / Ve Gr. / 1er Aé
+Paliseul
+Bertrix
+Bièvre
+Jamoigne
+Vance
+Étalle
+Aufkl.-Abt. 8 / 5 Pz.Div. / XV (mot.) AK / 4 AOK
+Schütz.-Rgt 13 / Schütz.-Brig. 5 / 5 Pz.Div. / XV (mot.) AK / 4 AOK
+Pz.-Rgt. 15 / 8 Pz.-Brig. / 5 Pz.Div. / XV (mot.) AK / 4 AOK
+Pion.-Btl. 89 / 5 Pz.Div. / XV (mot.) AK / 4 AOK
+12e GRCA / Xe CA / 2e Armée / GA 1
+60e GRDI / 71e DI / Xe CA / 2e Armée / GA 1
+36e GRDI / 41e DI / 18e CA / 2e Armée / Groupe d'Armées 1
+73e GRDI / 3e DIC / XVIIIe CA / 2e Armée / GA 1
+I/295e RI / 55e DI / Xe CA / 2e Armée / GA 1
+IR 32 / 24 ID / VI AK / 12 AOK 
+IR 102 / 24 ID / VI AK / 12 AOK 
+Art.-Rgt. 24 / 24 ID / VI AK / 12 AOK 
+Art.-Rgt. 60(I.) / 24 ID / VI AK / 12 AOK 
+Pion.-Btl. 24 / 24 ID / VI AK / 12 AOK 
+4e BCC / GBC 503 / 2e Armée / GA 1
+Pzjäg.-Abt. 24 / 24 ID / VI AK / 12 AOK 
+Aufkl.-Abt. 24 / 24 ID / VI AK / 12 AOK 
+33 Bn Gn / Gpt K
+I/StG77 / VIII.Fliegerkorps / 2 LF
+1 G / 1 DC / CC
+2 ChCh / 1 DC / CC

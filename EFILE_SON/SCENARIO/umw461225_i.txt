@@ -1,0 +1,13 @@
+Battle of El Brazito
+December 25, 1846
+
+The Mexicans have marched from El Paso to attack Doniphan’s newly acquired encampment along the Rio Grande, at a place called the “Little Arm”, El Brazito. Do not let the Mexicans cut the road between Santa Fe and El Paso. 
+
+Deploy Hexes: 14
+
+ORDER: Hold at least 3 VHs and keep your MSU alive.
+
+NOTE: The Supply Base Camp resupplies all adjacent friendly units.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

@@ -1,0 +1,10 @@
+Komáromi kitörés (Breakout from Komárom)
+Jule 11, 1849
+
+Citoyen General! Here we are where we were a week before. Though you secured the southern defense lines of fortress Komárom, the breakout was only partially successful. Your task is the same now: open the road toward the capital. The 1st Corps is retreating from Csallóköz to Komárom -- as you ordered -- so expect them to arrive anytime. But beware! The Austrians got reinforcements too, they are stronger than they were a week before. Beating them would be a real challenge. If you failed to reopen the road toward Pest, the only available option is marching out of the fortress on the northern bank of River Danube.
+
+Deploy Hexes: 24
+
+ORDER: You don’t need to take the enemy’s VHs, an EH will appear in time to get safe MV.
+
+scenario designer: Csaba (lvjtn)

@@ -1,0 +1,25 @@
+$list=24 items  ' Replacement for default list
+  95  '  8mm Schwarzlose M07/12  [FlaK  Austro-Hungarian Empire]  Cost: 192
+ 200  '  Brückenpioniere 09  [INF  Austro-Hungarian Empire]  Cost: 228
+ 366  '  Pferdewagen  [TPT  Austro-Hungarian Empire]  Cost: 36
+ 400  '  Honvéd   [INF  Austro-Hungarian Empire]  Cost: 72
+ 420  '  Kaiserjäger 09  [INF  Austro-Hungarian Empire]  Cost: 288
+ 487  '  7,5cm Skoda GebG M15  [ATY  Austro-Hungarian Empire]  Cost: 384
+ 490  '  8cm Skoda (ber. Art.)  [ATY  Austro-Hungarian Empire]  Cost: 492
+ 660  '  Wagen  [TPT  Austro-Hungarian Empire]  Cost: 36
+ 950  '  8mm Schwarzlose M07/12  [ AD  Austro-Hungarian Empire]  Cost: 144
+1085  '  10cm Skoda (ber. Art.)  [ATY  Austro-Hungarian Empire]  Cost: 516
+1915  '  Sappeure 09  [INF  Austro-Hungarian Empire]  Cost: 264
+2156  '  sPferdewagen  [TPT  Austro-Hungarian Empire]  Cost: 24
+2209  '  Maultiere 09  [TPT  Austro-Hungarian Empire]  Cost: 60
+2215  '  Fahrräder  [TPT  Austro-Hungarian Empire]  Cost: 48
+2342  '  Kavallerie 09  [TPT  Austro-Hungarian Empire]  Cost: 84
+2846  '  7cm GebG M99  [ATY  Austro-Hungarian Empire]  Cost: 300
+2847  '  10cm GebH M99  [ATY  Austro-Hungarian Empire]  Cost: 348
+2879  '  22,5cm Minenwrf M15  [ATY  Austro-Hungarian Empire]  Cost: 384
+2881  '  9cm Minenwrf M14  [ATY  Austro-Hungarian Empire]  Cost: 144
+2892  '  Feldkommando 09  [INF  Austro-Hungarian Empire]  Cost: 252
+3470  '  lePferdewagen  [TPT  Austro-Hungarian Empire]  Cost: 36
+3493  '  Huszaren 15  [RCN  Austro-Hungarian Empire]  Cost: 264
+3495  '  Kavallerie Spaeher 15  [RCN  Austro-Hungarian Empire]  Cost: 120
+3508  '  Grenzjäger  [INF  Austro-Hungarian Empire]  Cost: 120

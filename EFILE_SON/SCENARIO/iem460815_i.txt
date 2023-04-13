@@ -1,0 +1,10 @@
+Batalla de Santa Fe
+August 15, 1846
+
+A semi-hypothetical scenario. Governor Manuel Armijo wanted to avoid the battle. What if you had been the commander of Santa Fe?
+
+Deploy Hexes: 13
+
+ORDER: Hold at least 3 VHs and keep your MSU alive.
+
+scenario designer: Csaba (lvjtn)

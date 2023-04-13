@@ -1,0 +1,7 @@
+* This is a sample Efile description file
+* Please don't change the number and order of the lines.
+<title>Insert the full title of your Efile here.
+<description>Give a short description of your Efile, e.g. the covered period, nations, conflicts. If your Efile is a fork of another Efile, give the credits here (e.g. "It's a fork of XYZ Efile").
+<version>Put the version number here, and don't forget to update it everytime you update your equipment file.
+<author>Give your name or nickname used on JP or both, as you prefer. If more people contribute, the authors can be separated by a comma.
+<license>Give the term of usage, share, copy, edit and credit of the Efile (campaigns should have their own licenses). You can apply existing templates like Creative Commons licenses.

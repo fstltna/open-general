@@ -1,0 +1,83 @@
+* Read carefully before editing!
+* Each line can be any length, but only first 96 chars will be read
+* Empty lines and those starting with * will be skipped.
+* Can replace any text but do no change the sequence of lines
+*-------------------------------------------------------------------
+* Sides
+Side 1
+Side 2
+
+* Nations
+All Countries
+Slovakia
+Belgium
+Bulgaria
+Vichy France
+Czechoslovakia
+Finland
+France
+Germany
+Greece
+USA
+Hungary
+South Korea
+Italy
+Netherlands
+Norway
+Poland
+South Africa
+Romania
+P.R. of China
+USSR
+India
+North Korea
+United Kingdom
+Kingdom of Yugoslavia
+National Spain
+Republican Spain
+Japan
+Nationalist China
+Australia
+New Zealand
+Canada
+Persia
+Portugal
+Thailand
+Ethiopia
+Warlord China
+Manchukuo
+Mongolia
+Iraq
+Bolivia
+Paraguay
+Colombia
+Peru
+Free France
+RSI
+Mengjiang
+Communist Poland
+Communist Yugoslavia
+Communist China
+Fengtian clique
+Albania
+Ecuador
+Mandate for Palestine
+Indonesia
+Tibet
+Philippines
+Croatia
+Spanish Revolutionaries
+Denmark
+Switzerland
+Turkey
+Free India
+Austria
+Brazil
+Mexico
+Kingdom of Egypt
+Nanjing China
+Ireland
+Communist Bulgaria
+Chetniks
+Serbia
+Communist Greece

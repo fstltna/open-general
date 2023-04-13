@@ -1,0 +1,10 @@
+Csorna
+1849. VI. 13.
+
+Tábornok polgártárs! A bitorló Habsburg-dinasztia, melyet letaszítottunk a magyar trónról megtalálta a magához illõ fõvezért: Haynaut, a bresciai hiénát. Az öntelt császáriak elõvigyázatlanul nyomultak be országunkba. Küldjön egy lovashadosztályt a Rábáig portyázó Wyss tábornok megzavarására.
+
+Elhelyezhetõ egység: 14
+
+KÜLDETÉS: Foglald el az összes gyõzelmi pontot vagy semmisístd meg az osztrák parancsnoki egységet, amely Wyss tábornokot jelképezi.
+
+JAVASLAT: Ne add el a fölöslegesnek tûnõ egységeket, késõbb még telepítheted õket.

@@ -1,0 +1,12 @@
+Summer 2019
+
+NOKorp is a WWII E-file with 3 specificities: It attempts to be technically and historically accurate (How does a StuG IV compare to a JgdPz IV?), it allows campaigns to go beyond 1945 (if you keep winning you should be able to), and it has a full grown naval part permitting complex naval scenarios.
+
+Originally it was just meant to be an extension of the "BaseKorps" E-File, but it has grown way beyond that: I added over 500 new units and changed the stats of the existing ones. NOKorp is not a BaseKorps clone, although it still retains some of BaseKorps' spirit and ideas.
+
+Speaking of which I'd like to thank the "BaseKorps" E-File for the general inspiration and lots of good ideas, and the LFX E-File for general inspiration. I'm standing on the shoulders of giants.
+
+Copyright notice: (Creative Commons (CC SA-NC) license, Share-alike, Non-commercial). Crediting it in derivative products is welcome but not required.
+
+I hope you'll enjoy it.
+

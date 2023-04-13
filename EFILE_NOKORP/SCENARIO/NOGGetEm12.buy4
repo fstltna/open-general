@@ -1,0 +1,13 @@
+'---
+'Config purchase file for scenario: NOGGetEm12.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 131 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+6159  '  "Dangerous Tank"  [ TK  Ordrac]  Cost: 552
+6161  '  "Very Dangerous Tank"  [ TK  Ordrac]  Cost: 600

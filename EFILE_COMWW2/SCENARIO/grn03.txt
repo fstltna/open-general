@@ -1,0 +1,88 @@
+Vyborg
+Polenaja River
+Saimenski Channel
+Vuoksa Lake
+Gubanopskoje
+Heinjoki River
+Juustila
+Kupasaari
+Gradujevskoje
+Lavola
+LAKE
+Gulf of Finland
+Viipuri
+Heinjoki
+Tserkasooka River
+Kamdran Lake
+Nisalachti
+Ayrapaan Lake
+Velikoje River
+Vilajoki
+Vysock
+Ostravjonka River
+Ylasommee
+Muolaan Lake
+Popovo
+Garobovka River
+Koolema Lake
+SEFA
+[20]
+20
+3
+1/4
+19/18
+25/4
+46/4
+6/18
+48/18
+SEFA
+1/SEFA
+1/1Pz
+2/1Pz
+1/1Pz
+1/1Pz
+1/1Pz
+2/1Pz
+1/1Pz
+1/1Pz
+1JG/5LF
+1StG/5LF
+1Ft/FAF
+1TB/FAF
+1/AGN
+3/1Pz
+200E
+1/115
+2/115
+1/142
+1/115
+27/23A
+1/142
+1/101
+2/142
+1/43
+2/43
+1/70
+2/70
+1/123
+1/23A
+1/23A
+1/70
+1/123
+241/23A
+1/21TD
+2/21TD
+1/24TD
+2/24TD
+3/21TD
+3/24TD
+1/21TD
+1/24TD
+1/21TD
+1/24TD
+153E
+1/573
+1/43
+15Ft
+19Ft
+41TB

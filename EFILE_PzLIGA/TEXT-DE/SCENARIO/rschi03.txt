@@ -1,0 +1,130 @@
+1939 Kampf vor Nanchang [PL 3.2]
+Nanchang
+Xinjian
+Wanli
+Jiaoqiao
+Lehua
+Changbu
+Wangchenggang
+Huangxi
+Shengmijie
+Xishan
+Chengtan
+Qingyunpu
+Liatang
+Fushan
+Luojiaji
+Yelou
+SEE
+Fluss Gan
+Fluss Gan (Nur mit Booten passierbar)
+Fluss Gan (Bruecke)
+11 R/9 Bde/6 Div./[11A]
+41 R/9 Bde/6 Div./[11A]
+21 R/21 Bde/6 Div./[11A]
+42 R/21 Bde/6 Div./[11A]
+5 Kav.R/6 Div./[11A]
+5 Ing./6 Div./[11A]
+5 AR/6 Div./[11A]
+101 R/101 Bde./101 Div./[11A]
+149 R/101 Bde./101 Div./[11A]
+103 R/102 Bde./101 Div./[11A]
+157 R/102 Bde./101 Div./[11A]
+101 Kav.R./101 Div./[11A]
+101 AR./101 Div./[11A]
+[11A]
+11.Pio/101 Div./[11A]
+[HQ der 11.Armee]
+113 R/111 Bde./106 Div./[11A]
+113 R/111 Bde./106 Div./[11A]
+147 R/111 Bde./106 Div./[11A]
+125 R/136 Bde./106 Div./[11A]
+145 Kav.R/136 Bde./106 Div./[11A]
+106 AR/106 Div./[11A]
+106 Ing./106 Div./[11A]
+[11A]
+7 Tk. R./-/[11A]
+5 Tk. Btn../-/[11A]
+13 FHAR/-/[11A]
+14 FHAR/-/[11A]
+10 FHAR/-/[11A]
+101 FAR/-/[11A]
+15 Ind. FHAR/-/[11A]
+5 SNLF
+1. Kanonenboot
+2. Kanonenboot
+3. Kanonenboot
+12. Lufteinheit
+12 Datai
+77 Sentai
+75 Sentai
+45 Sentai
+17 Dokuritsu Hiko Chutai
+12 Datai
+118 Div./[79 Korps]
+118 Div./[79 Korps]
+118 Div./[79 Korps]
+76 Div./[79 Korps]
+76 Div./[79 Korps]
+98 Div./[79 Korps]
+98 Div./[79 Korps]
+[9 Kriegsgebiet]
+[9 Kriegsgebiet]
+[9 Kriegsgebiet]
+[9 Kriegsgebiet]
+Reisfelder
+105 Div./[49 Korps]
+105 Div./[49 Korps]
+9 Res. Div./[49 Korps]
+9 Res. Div./[49 Korps]
+19 Div./[70 Korps]
+19 Div./[70 Korps]
+19 Div./[70 Korps]
+107 Div./[70 Korps]
+107 Div./[70 Korps]
+[Friedenerhaltungstruppe]
+51 Div./[74 Korps]
+139 Div./[32 Korps]
+141 Div./[32 Korps]
+141 Div./[32 Korps]
+141 Div./[32 Korps]
+142 Div./[32 Korps]
+142 Div./[32 Korps]
+142 Div./[32 Korps]
+[Poyang-See Garnison]
+[9 Kriegsgebiet]
+139 Div./[32 Korps]
+141 Div./[32 Korps]
+141 Div./[32 Korps]
+141 Div./[32 Korps]
+142 Div./[32 Korps]
+142 Div./[32 Korps]
+51 Div./[74 Korps]
+52 Div./[74 Korps]
+52 Div./[74 Korps]
+52 Div./[74 Korps]
+60 Div./[74 Korps]
+60 Div./[74 Korps]
+3 Div./[8 Korps]
+3 Div./[8 Korps]
+3 Div./[8 Korps]
+197 Div./[8 Korps]
+197 Div./[8 Korps]
+197 Div./[8 Korps]
+15 Div./[73 Korps]
+15 Div./[73 Korps]
+15 Div./[73 Korps]
+[79 Korps]
+[74 Korps]
+[32 Korps]
+[9 Kriegsgebiet]
+[9 Kriegsgebiet]
+[9 Kriegsgebiet]
+77 Div./[73 Korps]
+77 Div./[73 Korps]
+[Nanchang]
+[8 Korps]
+[73 Korps]
+[9 Kriegsgebiet HQ]
+[9 Kriegsgebiet]
+[9 Kriegsgebiet]

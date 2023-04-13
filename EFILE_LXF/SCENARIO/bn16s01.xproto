@@ -1,0 +1,8 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+1210  '  Mahan DD  [sDD  USA]  Cost: 588
+1227  '  PBY  [ TB  USA]  Cost: 504

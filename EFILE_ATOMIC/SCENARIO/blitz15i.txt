@@ -1,0 +1,11 @@
+SITUATION:
+
+Herr General, our goal is to seize Stalingrad as a base which will allow us to turn either north towards Moscow or south towards the Caucasian oil fields. With Stalingrad in our hands we will be able to massively cut down enemy supplies via rail and river. You have been chosen to lead our initial drive towards Stalingrad.
+
+ORDERS: 
+
+Take all VHs in 14/18/22 turns for a BV/V/TV.
+
+NOTES:
+
+Two air-transports are available.

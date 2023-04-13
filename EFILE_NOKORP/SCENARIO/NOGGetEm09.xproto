@@ -1,0 +1,12 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  83  '  Jagdpanther  [ AT  Germany]  Cost: 792
+  86  '  Jagdtiger  [ AT  Germany]  Cost: 1200
+ 133  '  Panther G  [ TK  Germany]  Cost: 888
+ 154  '  Tiger II  [ TK  Germany]  Cost: 1992
+3479  '  Kampfgruppe  44  [INF  Germany]  Cost: 516
+6082  '  Flakpanzer IV Grille 10  (88mm)  [FlaK  Germany]  Cost: 840

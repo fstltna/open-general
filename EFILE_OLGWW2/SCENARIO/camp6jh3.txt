@@ -1,0 +1,26 @@
+Blitz 2008
+
+
+Version: 3.2
+Equipment: LG e-file (7.57 or later)
+Number of Scenarios/Longest Path: 48/36
+Player Country: Germany
+Original campaign designer: H.Craig Miller
+Campaign Converter-designer: Jan Hedstrom (aka PzManiac)
+Campaign Playtesters: Nils Vogelgesang (aka Reloadmaster), Doug Hone, and all the guys that played CCLX
+
+Please read the readme first for installation instructions
+
+The Campaign...
+You take command from the civil war in Spain, to the "lightning" victories of early World War II - and beyond! 
+This campaign will test your abilities as a leader in both Blitzkrieg scenarios and defensive scenarios.
+If you are skillful, you will fight in Afrika, Russia, and even England!
+
+Important message! 
+This campaign features two extensively modified versions of Craig Miller's original campaigns "Blitzkrieg!" and "Greater Europe". At the choice scenario following Dunkirk you can choose which campaign to play.  If you choose to do the "Greater Europe" campaign path please be aware that you will need a moderate air force (3-4 fighters) in order to win the scenario Invasion!.
+
+Advice to players
+Veteran players should play this campaign at 25-50, experienced players at 75, newbies at 100-150.
+
+
+Jan Hedstrom, 12/2010

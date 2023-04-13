@@ -1,0 +1,149 @@
+The Ring of Steel
+River Sula Tributary
+Gaivoron
+River Sula
+Romny
+Nedrigaylov
+Ivanitsa
+Ichnya
+Girevy Iskovtsy
+Lokhvitsa
+Pyriatyn
+Bezsaly
+River Psel
+Rashevka
+Chernukhi
+Lubny
+River Psel Tributary
+Velikaya Bagachka
+Berezniaky
+Khorol
+Upgrades and Overstrengthening
+All enemy units must be destroyed
+I/2/3rd Pz[XXIV]
+II/2/3rd Pz[XXIV]
+I/12/4th Pz[XXIV]
+II/12/4th Pz[XXIV]
+II/9/9th Pz[XIV]
+I/9/9th Pz[XIV]
+II/33/9th Pz[XIV]
+I/33/9th Pz[XIV]
+I/60/16th Mot Inf(XIV)
+II/156/16th Mot Inf(XIV)
+I/35/25th Mot Inf(XIV)
+I/25/25th Mot Inf(XIV)
+I/16/16th Mot Inf(XIV)
+I/146/16th Mot Inf(XIV)
+I/102/9th Pz[XIV]
+I/2/16th Pz(XLVIII)
+I/4/13th Pz(III)
+II/4/13th Pz(III)
+I/36/14th Pz(III)
+II/36/14th Pz(III)
+I/92/60th Mot Inf(III)
+II/120/60th Mot Inf(III)
+I/305/198th Inf(III)
+I/235/198th Inf(III)
+III/235/198th Inf(III)
+I/JG 51(II)LF2
+I/JG 3(V)LF4
+II/JG 3(V)LF4
+I/441/116th Rifle(VII)
+II/548/116th Rifle(VII)
+I/656/116th Rifle(VII)
+III/255/116th Rifle(VII)
+III/250/116th Rifle(VII)
+I/178/116th Rifle(VII)
+I/491/159th Rifle(VI)
+II/491/159th Rifle(VI)
+I/558/159th Rifle(VI)
+II/631/159th Rifle(VI)
+I/863/196th Rifle(VII)
+II/863/196th Rifle(VII)
+I/884/196th Rifle(VII)
+I/893/196th Rifle(VII)
+II/893/196th Rifle(VII)
+II/739/196th Rifle(VII)
+III/739/196th Rifle(VII)
+II/255/116th Rifle(VII)
+I/19/10th Tk(XV)
+II/19/10th Tk(XV)
+I/20/10th Tk(XV)
+II/20/10th Tk(XV)
+III/20/10th Tk(XV)
+I/13/7th Tk(XV)
+II/13/7th Tk(XV)
+III/13/7th Tk(XV)
+I/14/7th Tk(XV)
+II/14/7th Tk(XV)
+III/19/10th Tk(XV)
+II/884/196th Rifle(VII)
+I/581/151st Rifle(LXVII)
+II/581/151st Rifle(LXVII)
+I/626/151st Rifle(LXVII)
+II/683/151st Rifle(LXVII)
+I/410/102nd Rifle(LXVII)
+II/410/102nd Rifle(LXVII)
+I/467/102nd Rifle(LXVII)
+II/467/102nd Rifle(LXVII)
+I/519/102nd Rifle(LXVII)
+I/498/132nd Rifle(LXVII)
+II/498/132nd Rifle(LXVII)
+I/605/132nd Rifle(LXVII)
+II/712/132nd Rifle(LXVII)
+I/582/102nd Rifle(LXVII)
+II/582/102nd Rifle(LXVII)
+I/154/102nd Rifle(LXVII)
+I/378/173rd Rifle(VIII)
+II/490/173rd Rifle(VIII)
+I/567/173rd Rifle(VIII)
+III/220/173rd Rifle(VIII)
+III/179/173rd Rifle(VIII)
+II/190/132nd Rifle(LXVII)
+II/6th Abn Brig(III ALC]
+I/5th Abn Brig(III ALC](REM)
+II/212th Abn Brig(III ALC]
+II/2nd Abn Brig(II ALC](REM)
+I/3rd Abn Brig(II ALC](REM)
+I/11/5th Cav(II)
+II/96/5th Cav(II)
+II/11/5th Cav(II)
+I/131/5th Cav(II)
+II/160/5th Cav(II)
+I/5/9th Cav(II)
+II/5/9th Cav(II)
+I/72/9th Cav(II)
+II/108/9th Cav(II)
+I/136/9th Cav(II)
+I/1/99th Rifle(VIII)
+III/186/99th Rifle(VIII)
+I/197/99th Rifle(VIII)
+II/197/99th Rifle(VIII)
+I/206/99th Rifle(VIII)
+II/71/99th Rifle(VIII)
+I/14/173rd Moun(VIII)
+II/14/173rd Moun(VIII)
+I/133/173rd Moun(VIII)
+II/133/173rd Moun(VIII)
+III/9/173rd Moun(VIII)
+I/10/45th Rifle(XV)
+II/61/45th Rifle(XV)
+I/253/45th Rifle(XV)
+II/253/45th Rifle(XV)
+I/104/62nd Rifle(XV)
+II/104/62nd Rifle(XV)
+I/123/62nd Rifle(XV)
+I/306/62nd Rifle(XV)
+I/16/87th Rifle(XXVII)
+II/16/87th Rifle(XXVII)
+I/96/87th Rifle(XXVII)
+I/283/87th Rifle(XXVII)
+I/406/124th Rifle(XXVII)
+II/406/124th Rifle(XXVII)
+I/622/124th Rifle(XXVII)
+II/622/124th Rifle(XXVII)
+I/781/124th Rifle(XXVII)
+I/12/7th Mech(VIII)
+II/27/7th Mech(VIII)
+I/300/7th Mech(VIII)
+A little help if needed

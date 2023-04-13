@@ -1,0 +1,98 @@
+* Read carefully before editing!
+* Each line can be any lenght, but only first 96 chars will be read
+* Emply lines and those starting with * will be skipped.
+* Can replace any text but do no change the sequence of lines
+*-------------------------------------------------------------------
+* Sides
+Central Powers
+Entente
+Neutral 
+
+* Nations
+Ottoman Empire
+Latvia
+Austro-Hungarian Empire
+Estonia
+Ukraine
+Finland
+France
+German Empire
+Czechoslovak Legion
+United States
+Belgium
+Lithuania
+Arab Rebels
+Boer States
+Rebels/Revolutionaries
+Poland
+Portugal
+Romania
+Bulgaria
+Red Russia
+Qing China
+Confederate States
+British Empire
+Japanese Empire
+Russian Empire
+Spain
+Italy
+Serbia
+Greece
+Indigenous
+Rif
+Kingdom of Morocco
+Prussia
+Austrian Empire
+French Empire
+Republic of China
+German Freikorps
+Union States
+Chile
+Peru
+Bolivia
+Mexico
+Denmark
+Carlist Spain
+Indian Nations
+Afganistan
+Sudan
+Egypt
+Mexican Rebels 
+Cuban Rebels 
+Philippine Rebels  
+Anarchist Ukraine
+Ireland
+White Russia
+Warlord China
+Montenegro
+Bavaria
+Saxony
+Württemberg
+Baden
+Hannover
+Piedmont-Sardinia
+Empire of China
+Garibaldines
+Nationalist China
+Red China
+Abyssinia
+Armenia
+Azerbaijan
+Georgia
+Turkey
+Chinese Revolutionaries
+Red Hungary
+Red Germany
+Russian Green Armies
+Mexican Empire
+Czechoslovakia
+Cossack Hosts
+Red Finland
+Papal States
+Central Lithuania 
+Kingdom of The Two Sicilies
+Republic of San Marco
+German Revolutionaries
+Kingdom of Hungary
+Empire of Vietnam
+Sultanate of Zanzibar

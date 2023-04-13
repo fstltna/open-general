@@ -1,0 +1,11 @@
+North Burma
+
+Jan, 1945
+
+General, we are in a complex situation. The Allies have launched a powerful offensive against our positions at Mandalay, which is our main base in this sector. Your mission is to hold the line at any cost!
+
+[Special Victory Conditions] The High Command will considere 8 VHs as a Brilliant Victory, 6 as a single Victory, and 5 as a Tactical Victory.
+
+Autor: Santiago Fuertes (Rising Sun-Kampaign)
+
+Konversion in PL-Version: M. Kessler

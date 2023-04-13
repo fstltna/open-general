@@ -1,0 +1,50 @@
+Tunis
+Bizerte
+Bizerte : PORT
+Cap Serrat : ROUGH
+Lake Bizerte
+Sedjenine
+Sedjenana : RIVER
+Lake Ichkeul
+Ferryville
+Lake Ghar el Melh : OCEAN
+Cap Farina : CLEAR
+Wadi Tine : RIVER
+Medjerda : RIVER
+Mateur
+Djefna
+Protville
+Chouigui-Tebourba
+Djedeida
+Sidi Nsir
+Tunis
+Tunis : PORT
+Beja
+Kebir : RIVER
+Medjez el Bab
+St Cyprien
+Massicault
+Siliana : RIVER
+St.Marie du Zit
+Pont du Fahs
+Teboursouk
+Bou Arada
+FM Rommel
+RAF
+RAF
+RAF
+RAF
+RAF
+Littorio
+Luigi Savoia Duca degli Abruzzi
+Bartolomeo Colleoni
+Lanciere
+Genierie
+HMS Repulse
+HMS Duke of York
+HMS Victorious
+HMS Fiji
+HMS Cornwall
+HMS Arrow
+USS Honolulu
+USS Phoenix

@@ -1,0 +1,110 @@
+'---
+'Config purchase file for scenario: jh1viip.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 126 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+ 473  '  GAZ/25  [FlaK  Russia]  Cost: 192
+ 474  '  37mm ZP-39  [ AD  Russia]  Cost: 144
+ 475  '  76.2mm ZP-38  [ AD  Russia]  Cost: 288
+ 477  '  76.2mm F-22  [ AT  Russia]  Cost: 132
+ 482  '  SU-76M  [ AT  Russia]  Cost: 408
+ 484  '  122mm M-30  [ATY  Russia]  Cost: 420
+ 485  '  152mm ML-20  [ATY  Russia]  Cost: 1092
+ 489  '  Katyusha 82mm  [ATY  Russia]  Cost: 420
+ 496  '  Kavaleria 41  [INF  Russia]  Cost: 144
+ 497  '  Engineer 41  [INF  Russia]  Cost: 396
+ 501  '  Guards 42  [INF  Russia]  Cost: 228
+ 503  '  Parashutisti 41  [INF  Russia]  Cost: 300
+ 505  '  BA-10  [RCN  Russia]  Cost: 312
+ 506  '  BA-64  [RCN  Russia]  Cost: 276
+ 507  '  Krasnij Krim CL  [sBS  Russia]  Cost: 768
+ 508  '  Marat BB  [sBS  Russia]  Cost: 1476
+ 509  '  Kirov CA  [sBS  Russia]  Cost: 1260
+ 510  '  Storozhevoi DD  [sDD  Russia]  Cost: 276
+ 516  '  KV-1/40  [ TK  Russia]  Cost: 792
+ 517  '  KV-1/42  [ TK  Russia]  Cost: 840
+ 518  '  KV-2  [ AT  Russia]  Cost: 768
+ 521  '  T-34/40  [ TK  Russia]  Cost: 552
+ 522  '  T-34/41  [ TK  Russia]  Cost: 600
+ 526  '  T-60  [ TK  Russia]  Cost: 204
+ 527  '  T-70  [ TK  Russia]  Cost: 312
+ 530  '  YaK-1  [FTR  Russia]  Cost: 564
+ 535  '  LaGG-3  [FTR  Russia]  Cost: 564
+ 537  '  MiG-3  [FTR  Russia]  Cost: 564
+ 540  '  P-39Q Airacobra  [ TB  Russia]  Cost: 780
+ 542  '  IL-2  [ TB  Russia]  Cost: 636
+ 576  '  203mm BR-4  [ATY  Russia]  Cost: 1452
+ 639  '  120mm Mortar  [ATY  Russia]  Cost: 312
+ 678  '  85mm ZP-39  [ AD  Russia]  Cost: 504
+ 680  '  Katyusha 132mm  [ATY  Russia]  Cost: 600
+ 686  '  BT-7M  [ TK  Russia]  Cost: 336
+ 696  '  57mm ZiS-2  [ AT  Russia]  Cost: 132
+ 698  '  YaK-7B  [FTR  Russia]  Cost: 684
+ 847  '  Motociklisti 40  [INF  Russia]  Cost: 264
+ 876  '  Partisani 41  [INF  Russia]  Cost: 120
+ 905  '  76.2mm ZiS-3  [ AT  Russia]  Cost: 180
+ 979  '  Pe-2  [ TB  Russia]  Cost: 720
+ 995  '  Pe-2R  [ TB  Russia]  Cost: 408
+1158  '  85mm AA  [ AD  Russia]  Cost: 504
+1777  '  Pe-8  [ LB  Russia]  Cost: 720
+1801  '  4xMG  [FlaK  Russia]  Cost: 132
+1802  '  GAZ/MG  [FlaK  Russia]  Cost: 228
+1806  '  ZiS-30  [ AT  Russia]  Cost: 312
+1812  '  76.2mm M-41  [ATY  Russia]  Cost: 180
+1816  '  122mm A-19  [ATY  Russia]  Cost: 696
+1817  '  152mm M-10  [ATY  Russia]  Cost: 420
+1819  '  152mm BR-2  [ATY  Russia]  Cost: 1428
+1820  '  210mm BR-17  [ATY  Russia]  Cost: 2100
+1821  '  305mm BR18  [ATY  Russia]  Cost: 1644
+1822  '  T-60 BM-8-24  [ATY  Russia]  Cost: 492
+1824  '  107mm Mortar  [ATY  Russia]  Cost: 288
+1827  '  Siberian  [INF  Russia]  Cost: 204
+1828  '  SMG Infantry 42  [INF  Russia]  Cost: 168
+1830  '  Spetsnaz 42  [INF  Russia]  Cost: 540
+1833  '  KV-8  [ AT  Russia]  Cost: 552
+1847  '  P-39D Airacobra  [FTR  Russia]  Cost: 720
+1850  '  Pe-3  [FTR  Russia]  Cost: 576
+1856  '  Su-2  [ TB  Russia]  Cost: 432
+1857  '  DB-3T  [ TB  Russia]  Cost: 420
+1860  '  Leningrad DD  [sDD  Russia]  Cost: 324
+1861  '  Novik DD  [sDD  Russia]  Cost: 264
+1862  '  Sts SS  [SUB  Russia]  Cost: 432
+1863  '  S SS  [SUB  Russia]  Cost: 456
+1864  '  C SS  [SUB  Russia]  Cost: 480
+2556  '  Entrenched  [INF  Russia]  Cost: 168
+2948  '  12.7mm AB  [FlaK  Russia]  Cost: 120
+2966  '  BA-6  [RCN  Russia]  Cost: 300
+3019  '  G-5 MTB  [sDD  Russia]  Cost: 168
+3020  '  Katyusha  [ATY  Russia]  Cost: 600
+3022  '  Fugas AM  [sDD  Russia]  Cost: 180
+3023  '  Shtorm TB  [sDD  Russia]  Cost: 132
+3024  '  Mineclearer  [INF  Russia]  Cost: 324
+3067  '  BA-27M  [RCN  Russia]  Cost: 240
+3227  '  YaG-10/76mm  [ AD  Russia]  Cost: 636
+3334  '  BM-13-16  [ATY  Russia]  Cost: 708
+3761  '  NKVD 41  [INF  Russia]  Cost: 156
+3765  '  Cossacks 41  [INF  Russia]  Cost: 264
+3766  '  Bridging 41  [INF  Russia]  Cost: 204
+3768  '  Mountain 41  [INF  Russia]  Cost: 288
+3769  '  Mountain Engineer 41  [INF  Russia]  Cost: 384
+3771  '  Marine Infantry 42  [INF  Russia]  Cost: 120
+3808  '  41 Mototsikletnaya Razvedka  [RCN  Russia]  Cost: 252
+3810  '  42 HQ  [RCN  Russia]  Cost: 300
+3828  '  Repair Crew  [INF  Russia]  Cost: 192
+4481  '  La-5  [FTR  Russia]  Cost: 684
+4742  '  KhTZ-16  [ AT  Russia]  Cost: 216
+5315  '  SU-76  [ATY  Russia]  Cost: 552
+7851  '  KV-5  [ AT  Russia]  Cost: 900
+7973  '  152mm AT  [ AT  Russia]  Cost: 384
+7974  '  76.2mm AT/ATY  [ATY  Russia]  Cost: 180
+7975  '  Battery  [ATY  Russia]  Cost: 900
+7981  '  SU-203  [ATY  Russia]  Cost: 1800
+7982  '  SU-76 AT/ATY  [ATY  Russia]  Cost: 552
+7984  '  Yag 76.2mm  [ATY  Russia]  Cost: 420
+7988  '  Shocktroops SU-37  [INF  Russia]  Cost: 516

@@ -1,0 +1,21 @@
+The Campaign of the 18 Days
+(10-28 may 1940)
+v.1.0
+
+In 1936 Belgium started its policy of "Armed Independence", a policy supported by the majority of the Belgian people. As a consequence of the inability of France and Britain to react when Germany re-occupied the Rhine-land and the French refusal to extend the Maginot Line at the Belgian-French border (thus inviting the Germans to attack France through Belgium), Belgium put an end to the mutual defence pacts and decided to rely on its own armed forces to guarantee its independence. As a result at the outbreak of war Belgium had the best prepared army in its history, having spent 25% of the annual national budget on the military.
+
+In 1939, France and Britain unilaterally guaranteed Belgium independence. Although there was no official coordination of military plans secret contacts were held. France and Britain would march into Belgium and take positions on the Dyle River (plan D) in case of a German attack. Therefore the Belgians had made this river their main defence line although it meant giving up half of their country.
+
+When on the 10th of January 1940 German military plans were captured after a German plane crashed, Belgian King Leopold III was prepared to accept allied troops in his country on some conditions (Belgian participation in the peace negotiations, guarantee of Belgium's integrity and of his colonies, and financial support to rebuild Belgium after the war). However, these conditions were unacceptable for Britain and France and their troops did not enter into Belgium until the German attack. 
+
+On the day of the Geman invasion, 10th May, King Leopold III said "Belges! pour la second fois en un quart de siècle, la Belgique, loyale et neutre, est attaqué par l'Empire allemande, [...] La lutte sera dure. Les sacrifices et les privations seront considérables, mais nul ne peut douter du succès final" ("Belgians! for the second time in a quarter century, Belgium, fair and neutral, is attacked by the German Empire [...] The fight will be tough. The sacrifices and hardships will be considerable, but no one can doubt the ultimate success".
+
+Indeed, the King was right but the victory had to wait five years... 
+
+The campaign represents operation "Fall Gelb" from the Belgian perspective. It reproduces some of the battles held during the 18 days the Belgian army fought against the Germans.
+
+Paqueo, April 2013 
+
+Efile: OLGWW2 v.2.0 or higher
+
+Number of scenarios: 10 (including an alternative one)

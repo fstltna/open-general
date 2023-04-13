@@ -1,0 +1,168 @@
+1943 Changteh [PL 3.2]
+Fluss Yangtse
+See Tung Ting
+Fluss Li
+See Chang Hu
+Changteh
+Tao Yuang
+Han Shon
+Lin Li
+Li
+Shih Men
+Tsu Li
+Yuan Chiang
+Yue Chang
+Miluo
+Chiang Ching
+Nan Chiang
+Ou Chih Kou
+Chiang Ling
+Sung Tzu
+Chiang Jiang
+Ching Li ou
+Chih Chiang
+Kung An
+Yi Tu
+Chih Hsi Ho
+Jen Ho Ping
+Nieh Chia Ho
+1 R/92 Div/99 Korps/9 Kriegsgebiet
+2 R/92 Div/99 Korps/9 Kriegsgebiet
+3 R/92 Div/99 Korps/9 Kriegsgebiet
+1 R/92 Div/99 Korps/9 Kriegsgebiet
+2 R/92 Div/99 Korps/9 Kriegsgebiet
+3 R/92 Div/99 Korps/9 Kriegsgebiet
+1 R/54 Div/99 Korps/9 Kriegsgebiet
+2 R/54 Div/99 Korps/9 Kriegsgebiet
+1 R//99 Korps/9 Kriegsgebiet
+1 R/3 Div/10 Korps/9 Kriegsgebiet
+2 R/3 Div/10 Korps/9 Kriegsgebiet
+3 R/3 Div/10 Korps/9 Kriegsgebiet
+1 R/190 Div/10 Korps/9 Kriegsgebiet
+2 R/190 Div/10 Korps/9 Kriegsgebiet
+3 R/190 Div/10 Korps/9 Kriegsgebiet
+Aty R/10 Korps/9 Kriegsgebiet
+1 R/10 Div/58 Korps/9 Kriegsgebiet
+2 R/10 Div/58 Korps/9 Kriegsgebiet
+3 R/10 Div/58 Korps/9 Kriegsgebiet
+1 R/11 Div/58 Korps/9 Kriegsgebiet
+2 R/11 Div/58 Korps/9 Kriegsgebiet
+3 R/11 Div/58 Korps/9 Kriegsgebiet
+Aty R/58 Korps/9 Kriegsgebiet
+1 R/13 Div/72 Korps/9 Kriegsgebiet
+2 R/13 Div/72 Korps/9 Kriegsgebiet
+3 R/13 Div/72 Korps/9 Kriegsgebiet
+1 R/15 Div/72 Korps/9 Kriegsgebiet
+2 R/15 Div/72 Korps/9 Kriegsgebiet
+3 R/15 Div/72 Korps/9 Kriegsgebiet
+Aty R/72 Korps/9 Kriegsgebiet
+HQ/9 Kriegsgebiet
+1 R/51 Div/74 Korps/Wang Armee
+2 R/51 Div/74 Korps/Wang Armee
+3 R/51 Div/74 Korps/Wang Armee
+1 R/57 Div/74 Korps/Wang Armee
+2 R/57 Div/74 Korps/Wang Armee
+3 R/57 Div/74 Korps/Wang Armee
+1 R/19 Div/100 Korps/Wang Armee
+2 R/19 Div/100 Korps/Wang Armee
+3 R/19 Div/100 Korps/Wang Armee
+1 R/63 Div/100 Korps/Wang Armee
+2 R/63 Div/100 Korps/Wang Armee
+3 R/63 Div/100 Korps/Wang Armee
+Aty R/100 Korps/Wang Armee
+Aty R/74 Korps/Wang Armee
+1 R/105 Div/44 Korps/29 Armee
+2 R/105 Div/44 Korps/29 Armee
+3 R/105 Div/44 Korps/29 Armee
+1 R/161 Div/44 Korps/29 Armee
+2 R/161 Div/44 Korps/29 Armee
+3 R/161 Div/44 Korps/29 Armee
+Aty R/44 Korps/29 Armee
+1 R/15 Div/73 Korps/29 Armee
+2 R/15 Div/73 Korps/29 Armee
+3 R/15 Div/73 Korps/29 Armee
+1 R/77 Div/73 Korps/29 Armee
+2 R/77 Div/73 Korps/29 Armee
+3 R/77 Div/73 Korps/29 Armee
+Aty R/73 Korps/29 Armee
+HQ/29 Armee
+1 R/98 Div/79 Korps/10 Armee
+2 R/98 Div/79 Korps/10 Armee
+3 R/98 Div/79 Korps/10 Armee
+1 R/194 Div/79 Korps/10 Armee
+2 R/194 Div/79 Korps/10 Armee
+3 R/194 Div/79 Korps/10 Armee
+Aty R/79 Korps/10 Armee
+1 R/185 Div/66 Korps/10 Armee
+2 R/185 Div/66 Korps/10 Armee
+3 R/185 Div/66 Korps/10 Armee
+1 R/199 Div/66 Korps/10 Armee
+2 R/199 Div/66 Korps/10 Armee
+3 R/199 Div/66 Korps/10 Armee
+Aty R/66 Korps/10 Armee
+HQ/10 Armee
+1 R/118 Div/18 Korps
+2 R/118 Div/18 Korps
+3 R/118 Div/18 Korps
+1 R/18 Div/18 Korps
+2 R/18 Div/18 Korps
+3 R/18 Div/18 Korps
+HQ/18 Korps
+Aty R/18 Korps
+At R/10 Armee
+AA R/10 Armee
+AA R/29 Armee
+231 R/39 Div/11 Armee
+232 R/39 Div/11 Armee
+233 R/39 Div/11 Armee
+39 Bn/39 Div/11 Armee
+39 Aty R R/39 Div/11 Armee
+39 Rc R/39 Div/11 Armee
+210 R/32 Div/11 Armee
+211 R/32 Div/11 Armee
+212 R/32 Div/11 Armee
+32 eBn/32 Div/11 Armee
+32 Aty R/32 Div/11 Armee
+32 Rc R/32 Div/11 Armee
+216 R/34 Div/11 Armee
+217 R/34 Div/11 Armee
+218 R/34 Div/11 Armee
+e Bn/34 Div/11 Armee
+34 Aty R/34 Div/11 Armee
+34 Rc R/34 Div/11 Armee
+65 R/13 Div/11 Armee
+104 R/13 Div/11 Armee
+116 R/13 Div/11 Armee
+e Bn/13 Div/11 Armee
+17 R/13 Div/11 Armee
+HQ/13 Div/11 Armee
+HQ/39 Div/11 Armee
+19 Aty R/13 Div/11 Armee
+6 R/3 Div/11 Armee
+68 R/3 Div/11 Armee
+18 R/3 Div/11 Armee
+34 R/3 Div/11 Armee
+e Bn/3 Div/11 Armee
+3 R/3 Div/11 Armee
+3 Aty R/3 Div/11 Armee
+87 Bn/17 Br/11 Armee
+88 Bn/17 Br/11 Armee
+89 Bn/17 Br/11 Armee
+90 Bn/17 Br/11 Armee
+91 Bn/17 Br/11 Armee
+Art Bn/17 Br/11 Armee
+234 R/40 Div/11 Armee
+235 R/40 Div/11 Armee
+236 R/40 Div/11 Armee
+e Bn/40 Div/11 Armee
+e R/40 Div/11 Armee
+40 R/40 Div/11 Armee
+40 Aty R/40 Div/11 Armee
+HQ/40 Div/11 Armee
+57 Br/68 Div/11 Armee
+58 Br/68 Div/11 Armee
+109 R/116 Div/11 Armee
+120 R/116 Div/11 Armee
+133 R/116 Div/11 Armee
+116 eR/116 Div/11 Armee
+122 Aty R/116 Div/11 Armee

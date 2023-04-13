@@ -1,0 +1,8 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 119  '  sPzSpWg (7,5)  [RCN  Deutschland]  Cost: 408
+ 172  '  Hs 129B-2/R2  [ TB  Deutschland]  Cost: 1128

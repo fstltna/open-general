@@ -1,0 +1,48 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+   5  '  Garde-Infanterie 16  [INF  German Empire]  Cost: 204
+   6  '  Bayern 16  [INF  German Empire]  Cost: 96
+   8  '  Kradschützen  [INF  German Empire]  Cost: 252
+   9  '  Infanterie 16  [INF  German Empire]  Cost: 96
+  13  '  Gebirgsjäger 16  [INF  German Empire]  Cost: 288
+ 111  '  Fokker E.I  [FTR  German Empire]  Cost: 444
+ 113  '  LVG C.II  [ TB  German Empire]  Cost: 732
+ 276  '  7,58cm lMW n/A  [ATY  German Empire]  Cost: 372
+ 288  '  Daimler PzWgn 16  [RCN  German Empire]  Cost: 360
+ 483  '  7,92mm MG 08 16  [FlaK  German Empire]  Cost: 204
+ 620  '  Motorrad Aufklärer  [RCN  German Empire]  Cost: 252
+ 653  '  Fokker E.III  [FTR  German Empire]  Cost: 492
+ 729  '  Flammenwerfer  [INF  German Empire]  Cost: 396
+1018  '  7,7cm IG L/20   [ AT  German Empire]  Cost: 216
+1046  '  Albatros C.III Early  [ TB  German Empire]  Cost: 720
+1051  '  Fokker E.II  [FTR  German Empire]  Cost: 456
+1061  '  Albatros C.I  [ TB  German Empire]  Cost: 696
+1852  '  Reserve-Infanterie 16  [INF  German Empire]  Cost: 72
+1887  '  Landwehr 16  [INF  German Empire]  Cost: 60
+1961  '  Kavallerie 16  [ TK  German Empire]  Cost: 324
+2004  '  Jäger 16  [INF  German Empire]  Cost: 144
+2006  '  Pioniere 16  [INF  German Empire]  Cost: 264
+2083  '  7,7cm FK 16  [ATY  German Empire]  Cost: 384
+2332  '  7,7cm Geb K 15  [ATY  German Empire]  Cost: 384
+2343  '  3,7cm SturmbegleitK   [ AT  German Empire]  Cost: 84
+2348  '  Ulanen 16  [RCN  German Empire]  Cost: 276
+2874  '  17cm mMW n/A    [ATY  German Empire]  Cost: 216
+2875  '  25cm sMW n/A   [ATY  German Empire]  Cost: 360
+2913  '  Grenadiere 16  [INF  German Empire]  Cost: 180
+3392  '  Kavallerie Schützen 16  [INF  German Empire]  Cost: 132
+3405  '  Kavallerie Späher 16  [RCN  German Empire]  Cost: 120
+3524  '  Albatros B.III  [ TB  German Empire]  Cost: 444
+3545  '  Pfalz E.I  [FTR  German Empire]  Cost: 468
+3554  '  Gotha G.I  [ LB  German Empire]  Cost: 804
+3561  '  Ago C.I  [ TB  German Empire]  Cost: 636
+3562  '  Ago C.II  [ TB  German Empire]  Cost: 732
+3567  '  Aviatik C.I  [ TB  German Empire]  Cost: 552
+3568  '  Aviatik C.Ia  [ TB  German Empire]  Cost: 576
+3569  '  Aviatik C.II  [ TB  German Empire]  Cost: 588
+3583  '  Rumpler C.I  [ TB  German Empire]  Cost: 768
+4178  '  Seebataillone 16  [INF  German Empire]  Cost: 108
+3550  '  AEG G.II  [ LB  German Empire]  Cost: 816

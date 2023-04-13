@@ -1,0 +1,16 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 524  '  T-34/76C  [ TK  Soviet Union]  Cost: 732
+ 527  '  T-70  [RCN  Soviet Union]  Cost: 480
+ 531  '  Yak-7B M-105PF  [FTR  Soviet Union]  Cost: 780
+ 532  '  La-5  [FTR  Soviet Union]  Cost: 768
+ 543  '  Il-2m3  [ TB  Soviet Union]  Cost: 624
+ 685  '  Churchill III  [ TK  Soviet Union]  Cost: 612
+1510  '  SU-57  [ AT  Soviet Union]  Cost: 396
+1540  '  BA-64  [RCN  Soviet Union]  Cost: 216
+1556  '  Yak-7B M-105PF  [ TB  Soviet Union]  Cost: 780
+6951  '  LaGG-3 1942  [FTR  Soviet Union]  Cost: 720

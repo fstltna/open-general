@@ -1,0 +1,69 @@
+'---
+'Config AI file for scenario: OAKSB_S_lilleham.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=60 
+$buy_newair=40 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3   
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2   
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=51 items  ' Replacement for default list
+  27  '  25mm mle34  [ AT  France]  Cost: 72
+  32  '  75mm C mle97  [ATY  France]  Cost: 132
+ 183  '  12cm m/32  [ATY  Norge]  Cost: 240
+ 254  '  75mm m/01 Pv  [ AT  Norge]  Cost: 84
+ 255  '  7,5cm m/01  [ATY  Norge]  Cost: 132
+ 257  '  Gladiator IIA  [FTR  Norge]  Cost: 588
+ 258  '  Vernepliktige  [INF  Norge]  Cost: 60
+ 320  '  20mm  [FlaK  United Kingdom]  Cost: 72
+ 321  '  40mm I  [ AD  United Kingdom]  Cost: 180
+ 328  '  25pdr  [ATY  United Kingdom]  Cost: 192
+ 338  '  40 Engineers  [INF  United Kingdom]  Cost: 396
+ 340  '  40 Bridging  [INF  United Kingdom]  Cost: 192
+ 385  '  Hurricane I  [FTR  United Kingdom]  Cost: 756
+ 578  '  Hjulryttere  [RCN  Norge]  Cost: 132
+ 614  '  Skua  [ TB  United Kingdom]  Cost: 672
+ 616  '  Ingenjorer  [INF  Norge]  Cost: 300
+ 707  '  75mm m/32  [ AD  Norge]  Cost: 372
+ 724  '  37 Legionnaire  [INF  France]  Cost: 204
+ 871  '  Dragoner  [INF  Norge]  Cost: 132
+1164  '  8mm mle14  [FlaK  France]  Cost: 36
+1183  '  37 Chasseurs Alpins  [INF  France]  Cost: 312
+1454  '  8cm m/35  [ATY  Norge]  Cost: 84
+1455  '  7,5cm m/11-24  [ATY  Norge]  Cost: 276
+1456  '  MG  [ AT  Norge]  Cost: 84
+1457  '  Skyttelag  [INF  Norge]  Cost: 36
+1462  '  C.VD  [ TB  Norge]  Cost: 468
+1472  '  65mm AG wz.06  [ATY  Polska]  Cost: 252
+1484  '  39 Piechota Gorska  [INF  Polska]  Cost: 264
+1518  '  10,5cm m/04  [ATY  Norge]  Cost: 228
+1689  '  3inch  [ATY  United Kingdom]  Cost: 84
+1722  '  Beaufort I  [ TB  United Kingdom]  Cost: 684
+1724  '  Blenheim IV  [ TB  United Kingdom]  Cost: 816
+1726  '  Hudson I  [ TB  United Kingdom]  Cost: 708
+1977  '  Broingeniorer  [INF  Norge]  Cost: 216
+2469  '  12cm m/09  [ATY  Norge]  Cost: 204
+2471  '  Grensejeger  [INF  Norge]  Cost: 276
+2472  '  Garden  [INF  Norge]  Cost: 132
+2482  '  M.F.11 Hover  [ TB  Norge]  Cost: 396
+2519  '  25mm wz.34  [ AT  Polska]  Cost: 72
+2592  '  40 Scots Infantry  [INF  United Kingdom]  Cost: 144
+2595  '  40 Infantry  [INF  United Kingdom]  Cost: 72
+3296  '  Ca.310  [ TB  Norge]  Cost: 636
+3319  '  7,92mm m/29  [FlaK  Norge]  Cost: 36
+3542  '  39 Krakusi Gorska  [RCN  Polska]  Cost: 240
+4075  '  Swordfish I  [ TB  United Kingdom]  Cost: 552
+4079  '  Roc  [FTR  United Kingdom]  Cost: 552
+4106  '  Sea Gladiator  [FTR  United Kingdom]  Cost: 624
+4930  '  Gladiator I  [FTR  Norge]  Cost: 564
+5504  '  13,2mm mle30  [FlaK  France]  Cost: 48
+5683  '  44 Parachute HQ  [INF  United Kingdom]  Cost: 288
+5686  '  2pdr  [ AT  United Kingdom]  Cost: 84

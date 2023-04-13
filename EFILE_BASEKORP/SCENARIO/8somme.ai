@@ -1,0 +1,67 @@
+'---
+'Config AI file for scenario: 8Somme.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=0 
+$buy_newair=30 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3   
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2   
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=49 items  ' Replacement for default list
+  27  '  25mm mle34  [ AT  France]  Cost: 72
+  37  '  Chasseurs a Pied  [INF  France]  Cost: 96
+  38  '  Sapeurs 40  [INF  France]  Cost: 336
+  48  '  Char B1bis  [ TK  France]  Cost: 540
+  49  '  H39  [ TK  France]  Cost: 324
+  53  '  R35  [ TK  France]  Cost: 276
+  54  '  R40  [ TK  France]  Cost: 324
+  55  '  S35  [ TK  France]  Cost: 444
+  62  '  Po.633  [ TB  France]  Cost: 468
+ 581  '  25mm mle38  [FlaK  France]  Cost: 72
+ 582  '  H35  [ TK  France]  Cost: 276
+ 587  '  47mm mle37  [ AT  France]  Cost: 84
+ 591  '  Char D1B  [ TK  France]  Cost: 336
+ 592  '  Char D2  [ TK  France]  Cost: 384
+ 644  '  Zouaves  [INF  France]  Cost: 84
+ 718  '  AMC 34  [ TK  France]  Cost: 324
+ 724  '  Legionnaire  [INF  France]  Cost: 144
+ 736  '  Tirailleurs 35  [INF  France]  Cost: 132
+ 848  '  Motocyclistes  [INF  France]  Cost: 228
+ 930  '  75mm C mle97/35 AC  [ AT  France]  Cost: 96
+ 949  '  Bre.693  [ TB  France]  Cost: 600
+ 957  '  Po.25  [ TB  France]  Cost: 360
+1165  '  20mm mle39  [FlaK  France]  Cost: 60
+1168  '  47mm 15TCC Portee  [ AT  France]  Cost: 132
+1182  '  MG  [FlaK  France]  Cost: 96
+1183  '  Chasseurs Alpins  [INF  France]  Cost: 276
+1185  '  Dragons Portes  [INF  France]  Cost: 144
+1193  '  FCM 36  [ TK  France]  Cost: 288
+1204  '  Po.631  [ TB  France]  Cost: 660
+1205  '  Late 298  [ TB  France]  Cost: 372
+1207  '  Ma.167F  [ TB  France]  Cost: 648
+1208  '  MB.210  [ TB  France]  Cost: 528
+1209  '  Leo 451  [ TB  France]  Cost: 636
+1210  '  Amiot 143  [ TB  France]  Cost: 468
+1211  '  DB-7B-3  [ TB  France]  Cost: 840
+1212  '  Amiot 354  [ TB  France]  Cost: 624
+1213  '  LN 401  [ TB  France]  Cost: 408
+1214  '  MB.174  [ TB  France]  Cost: 552
+1959  '  37mm mle16  [ AT  France]  Cost: 72
+1960  '  Infanterie de l'Air 39  [INF  France]  Cost: 216
+2353  '  47mm 47/32  [ AT  France]  Cost: 72
+3181  '  AMC 35  [ TK  France]  Cost: 372
+3182  '  H39 (SA18)  [ TK  France]  Cost: 408
+3944  '  Spahis Motorisee 37  [INF  France]  Cost: 84
+3946  '  Tirailleurs Montagnards 37  [INF  France]  Cost: 276
+3948  '  Dragons Blindees 40  [INF  France]  Cost: 420
+5050  '  Lat.298D  [ TB  France]  Cost: 648
+5504  '  13.2mm mle30  [FlaK  France]  Cost: 60
+5601  '  PL.101  [ TB  France]  Cost: 432

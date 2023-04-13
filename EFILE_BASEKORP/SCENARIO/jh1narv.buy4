@@ -1,0 +1,42 @@
+'---
+'Config purchase file for scenario: jh1narv.xscn
+
+'* These $Vars will apply to any AI player *
+
+$buy_ver=2
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=70 
+$buy_newair=50 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3  
+$buy_defensive= 
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 65 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+ 183  '  120mm m/32  [ATY  Norway]  Cost: 240
+ 254  '  75mm m/01 Pv  [ AT  Norway]  Cost: 96
+ 255  '  75mm m/01  [ATY  Norway]  Cost: 144
+ 257  '  Gladiator IIA  [FTR  Norway]  Cost: 348
+ 578  '  Bicycle Recon  [RCN  Norway]  Cost: 132
+ 616  '  35 Engineer  [INF  Norway]  Cost: 288
+1454  '  81mm mortar  [ATY  Norway]  Cost: 168
+1455  '  75mm m/11-24  [ATY  Norway]  Cost: 276
+1456  '  MG  [FlaK  Norway]  Cost: 96
+1462  '  C.VE  [ TB  Norway]  Cost: 288
+1518  '  105mm m/04  [ATY  Norway]  Cost: 228
+1977  '  Bridging  [INF  Norway]  Cost: 216
+2469  '  120mm m/09  [ATY  Norway]  Cost: 204
+2471  '  Grensejeger  [INF  Norway]  Cost: 216
+2472  '  Garden  [INF  Norway]  Cost: 108
+2482  '  MF-11  [ TB  Norway]  Cost: 324
+2483  '  He 115  [ TB  Norway]  Cost: 360
+3319  '  7.92mm m/29  [FlaK  Norway]  Cost: 36

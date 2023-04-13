@@ -1,0 +1,7 @@
+Unternehmen Bumerang
+
+03/25/1945
+
+After the loss of the connection to the Kuestrin Fortress, the OKH and OKW, insisted by Hitler's megalomania, ordered an attack to be launched from the Frankfurt Fortress's bridgehead on the east bank of the Oder. The attack would direct northwest to Kuestrin, which it was hoped, would shatter the forces of the Soviet 69th Army and 8th Guards Army in this sector. This plan was known as Unternehmen Bumerang (Operation Boomerang). It depended on getting five (!) divisions across the single bridge at Frankfurt without being observed.
+
+New units have strength 8 and experience 75. You have to widen the bridgehead for the other divisions.

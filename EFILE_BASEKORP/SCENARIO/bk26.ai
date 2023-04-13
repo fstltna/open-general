@@ -1,0 +1,117 @@
+'---
+'Config AI file for scenario: bk26.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=109 items  ' Replacement for default list
+ 399  '  3inch M5  [ AD  USA]  Cost: 276
+ 401  '  M15A1  [ AD  USA]  Cost: 492
+ 402  '  M16  [FlaK  USA]  Cost: 348
+ 405  '  57mm M1  [ AT  USA]  Cost: 120
+ 406  '  M10  [ AT  USA]  Cost: 648
+ 407  '  M18  [ AT  USA]  Cost: 612
+ 408  '  M3 GMC  [ AT  USA]  Cost: 192
+ 410  '  105mm How M2  [ATY  USA]  Cost: 240
+ 411  '  155mm How M1  [ATY  USA]  Cost: 1056
+ 412  '  75mm How M8 AB  [ATY  USA]  Cost: 312
+ 414  '  M12  [ATY  USA]  Cost: 972
+ 416  '  M7  [ATY  USA]  Cost: 660
+ 417  '  M8  [ATY  USA]  Cost: 480
+ 418  '  T19 HMC  [ATY  USA]  Cost: 648
+ 421  '  42 Engineer  [INF  USA]  Cost: 432
+ 425  '  42 Paratrooper  [INF  USA]  Cost: 348
+ 426  '  42 Ranger  [INF  USA]  Cost: 672
+ 428  '  M20  [RCN  USA]  Cost: 252
+ 430  '  M8  [RCN  USA]  Cost: 288
+ 431  '  M3A1  [RCN  USA]  Cost: 192
+ 432  '  New Orleans CA  [sBS  USA]  Cost: 900
+ 433  '  Iowa BB  [sBS  USA]  Cost: 1896
+ 434  '  Brooklyn CL  [sBS  USA]  Cost: 648
+ 435  '  Essex CV  [sCV  USA]  Cost: 816
+ 436  '  Yorktown CV  [sCV  USA]  Cost: 780
+ 437  '  Fletcher DD  [sDD  USA]  Cost: 324
+ 440  '  M5A1  [RCN  USA]  Cost: 336
+ 443  '  M4A1  [ TK  USA]  Cost: 552
+ 445  '  M4A3  [ TK  USA]  Cost: 564
+ 449  '  GMC 3t  [TPT  USA]  Cost: 96
+ 450  '  M3A2  [TPT  USA]  Cost: 240
+ 452  '  F4U-1 Corsair  [FTR  USA]  Cost: 924
+ 453  '  P-38F Lightning  [FTR  USA]  Cost: 900
+ 454  '  P-38J Lightning  [FTR  USA]  Cost: 936
+ 456  '  P-40E Warhawk  [FTR  USA]  Cost: 708
+ 457  '  P-47C Thunderbolt  [FTR  USA]  Cost: 948
+ 458  '  P-47D Thunderbolt  [FTR  USA]  Cost: 972
+ 460  '  P-51B Mustang  [FTR  USA]  Cost: 876
+ 464  '  A-20B Havoc  [ TB  USA]  Cost: 840
+ 466  '  B-25D Mitchell  [ TB  USA]  Cost: 744
+ 467  '  B-25H Mitchell  [ TB  USA]  Cost: 1056
+ 469  '  B-26B Marauder  [ TB  USA]  Cost: 828
+ 471  '  A-36 Apache  [FTR  USA]  Cost: 804
+ 472  '  C-47  [ATP  USA]  Cost: 348
+ 549  '  Transport  [NTP  USA]  Cost: 60
+ 670  '  T30 HMC  [ATY  USA]  Cost: 528
+ 731  '  M13  [FlaK  USA]  Cost: 228
+ 898  '  40mm M1  [ AD  USA]  Cost: 144
+1752  '  75mm How M1A1  [ATY  USA]  Cost: 240
+1755  '  105mm How M3 AB  [ATY  USA]  Cost: 360
+1757  '  155mm Gun M1A1  [ATY  USA]  Cost: 1380
+1760  '  240mm How M1  [ATY  USA]  Cost: 1584
+1762  '  42 Mountain  [INF  USA]  Cost: 276
+1765  '  M4  [ TK  USA]  Cost: 516
+1768  '  M4A4  [ TK  USA]  Cost: 564
+1778  '  P-40N Warhawk  [FTR  USA]  Cost: 780
+1779  '  A-20G Havoc  [ TB  USA]  Cost: 936
+1784  '  B-17G Fortress  [ LB  USA]  Cost: 876
+1785  '  B-24D Liberator  [ LB  USA]  Cost: 876
+1789  '  Mohan DD  [sDD  USA]  Cost: 264
+1790  '  Cleveland CL  [sBS  USA]  Cost: 624
+1791  '  Atlanta CL  [sBS  USA]  Cost: 528
+1792  '  Omaha CL  [sBS  USA]  Cost: 480
+1793  '  Portland CA  [sBS  USA]  Cost: 852
+1794  '  Penascola CA  [sBS  USA]  Cost: 816
+1796  '  Washington BB  [sBS  USA]  Cost: 1788
+1797  '  Maryland BB  [sBS  USA]  Cost: 1488
+1798  '  Nevada BB  [sBS  USA]  Cost: 1380
+1799  '  Commencement Bay CV  [sCV  USA]  Cost: 240
+1995  '  43 Para Engineers  [INF  USA]  Cost: 612
+2795  '  50cal M51 AB  [FlaK  USA]  Cost: 120
+2867  '  T48 GMC  [ AT  USA]  Cost: 192
+2871  '  43 Infantry  [INF  USA]  Cost: 60
+2885  '  B-17B Fortress  [ LB  USA]  Cost: 876
+2911  '  Dodge 2t  [TPT  USA]  Cost: 60
+2912  '  Jeep  [TPT  USA]  Cost: 144
+2913  '  Dodge 8t  [TPT  USA]  Cost: 96
+2914  '  M3A1  [TPT  USA]  Cost: 180
+2915  '  GMC 7t  [TPT  USA]  Cost: 120
+2917  '  M35  [TPT  USA]  Cost: 252
+2931  '  GMC 1t  [TPT  USA]  Cost: 84
+2932  '  Dodge 4t  [TPT  USA]  Cost: 72
+2933  '  Dodge 6t  [TPT  USA]  Cost: 84
+2934  '  M5  [TPT  USA]  Cost: 168
+2946  '  CG-4A Hadrian  [ATP  USA]  Cost: 180
+2947  '  C-54 Skymaster  [ATP  USA]  Cost: 180
+3126  '  PT-20 MTB  [sDD  USA]  Cost: 216
+3127  '  Raven AM  [sDD  USA]  Cost: 180
+3173  '  M4A1  [ATY  USA]  Cost: 300
+3359  '  GMC 5t  [TPT  USA]  Cost: 108
+3931  '  43 Naval Construction  [INF  USA]  Cost: 96
+3932  '  43 Combat Engineers  [INF  USA]  Cost: 456
+3933  '  43 Bridging  [INF  USA]  Cost: 216
+3935  '  43 Glider Infantry  [INF  USA]  Cost: 300
+3937  '  43 Ranger  [INF  USA]  Cost: 780
+3938  '  43 Armored Infantry  [INF  USA]  Cost: 636
+4593  '  B-17F  [ LB  USA]  Cost: 756
+4594  '  B-24J  [ LB  USA]  Cost: 744
+4607  '  B-25C  [ TB  USA]  Cost: 696
+4608  '  B-25G  [ TB  USA]  Cost: 1008
+4637  '  P-38G  [FTR  USA]  Cost: 864
+4641  '  P-40B  [FTR  USA]  Cost: 636
+4642  '  P-40N-15  [ TB  USA]  Cost: 792
+4643  '  P-40F-5  [FTR  USA]  Cost: 720
+4649  '  P-70A  [ TB  USA]  Cost: 936
+5531  '  B-17D  [ LB  USA]  Cost: 984
+5626  '  M4A2  [ TK  USA]  Cost: 552
+5818  '  Train  [RTP  USA]  Cost: 120
+7992  '  240mm M1918  [ATY  USA]  Cost: 1476

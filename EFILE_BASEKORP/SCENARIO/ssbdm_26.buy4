@@ -1,0 +1,381 @@
+'---
+'Config purchase file for scenario: SSBDM_26.xscn
+
+'* These $Vars will apply to any AI player *
+
+$buy_ver=2
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=70 
+$buy_newair=50 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=18,11,12,13,17,16   
+$buy_defensive= 
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 357 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+  64  '  20mm  AA  [FlaK  Germany]  Cost: 60
+  65  '  20mm Flak Quad  [FlaK  Germany]  Cost: 120
+  66  '  37mm Pak35/36  [ AT  Germany]  Cost: 72
+  67  '  37mm Flak36  [ AD  Germany]  Cost: 144
+  68  '  Mobelwagen  [ AD  Germany]  Cost: 456
+  71  '  FlakPz 38  [FlaK  Germany]  Cost: 300
+  73  '  SdKfz 7/1  [FlaK  Germany]  Cost: 396
+  74  '  SdKfz 6/2  [ AD  Germany]  Cost: 420
+  75  '  SdKfz 10/4  [FlaK  Germany]  Cost: 252
+  77  '  50mm Pak38  [ AT  Germany]  Cost: 120
+  78  '  75mm Pak40  [ AT  Germany]  Cost: 168
+  79  '  88mm Pak18  [FlaK  Germany]  Cost: 300
+  80  '  88mm Pak43  [ AT  Germany]  Cost: 360
+  81  '  Elefant  [ AT  Germany]  Cost: 1200
+  87  '  Marder III  [ AT  Germany]  Cost: 348
+  88  '  Nashorn  [ AT  Germany]  Cost: 708
+  89  '  PzJag I  [ AT  Germany]  Cost: 228
+  91  '  StuG IIIG  [ AT  Germany]  Cost: 504
+  92  '  105mm leFH18  [ATY  Germany]  Cost: 252
+  94  '  170mm K18  [ATY  Germany]  Cost: 1896
+  97  '  Hummel  [ATY  Germany]  Cost: 864
+  98  '  150mm NbWf41  [ATY  Germany]  Cost: 420
+  99  '  Wurfrahmen  [ATY  Germany]  Cost: 672
+ 103  '  StuG IIIB  [ AT  Germany]  Cost: 312
+ 104  '  StuH 42F  [ AT  Germany]  Cost: 504
+ 105  '  Wespe  [ATY  Germany]  Cost: 672
+ 117  '  Psw 222  [RCN  Germany]  Cost: 240
+ 118  '  Psw 231/8  [RCN  Germany]  Cost: 264
+ 119  '  Psw 233  [RCN  Germany]  Cost: 384
+ 121  '  Puma  [RCN  Germany]  Cost: 432
+ 131  '  Panther A  [ TK  Germany]  Cost: 1500
+ 132  '  Panther D  [ TK  Germany]  Cost: 1500
+ 141  '  Pz IIF  [ TK  Germany]  Cost: 348
+ 145  '  Pz IIIL  [ TK  Germany]  Cost: 468
+ 147  '  Pz IIIN  [ TK  Germany]  Cost: 468
+ 151  '  Pz IVH  [ TK  Germany]  Cost: 684
+ 152  '  Pz IVJ  [ TK  Germany]  Cost: 684
+ 155  '  SdKfz 250/1  [RCN  Germany]  Cost: 228
+ 156  '  SdKfz 251  [TPT  Germany]  Cost: 252
+ 157  '  Blitz 3t  [TPT  Germany]  Cost: 84
+ 158  '  Wagon  [TPT  Germany]  Cost: 12
+ 170  '  Fw 190F-1  [ TB  Germany]  Cost: 804
+ 171  '  Fw 190G-1  [ TB  Germany]  Cost: 936
+ 172  '  Hs 129B-2  [ TB  Germany]  Cost: 768
+ 175  '  Ju 87G  [ TB  Germany]  Cost: 672
+ 584  '  88mm Flak37  [ AD  Germany]  Cost: 528
+ 598  '  Marder II  [ AT  Germany]  Cost: 324
+ 602  '  210mm M18  [ATY  Germany]  Cost: 1224
+ 603  '  210mm NbWf42  [ATY  Germany]  Cost: 456
+ 604  '  300mm NbWf42  [ATY  Germany]  Cost: 588
+ 605  '  SdKfz 4/15   [ATY  Germany]  Cost: 636
+ 606  '  Pzgrenadiere 43  [INF  Germany]  Cost: 420
+ 607  '  Infanterie 42  [INF  Germany]  Cost: 84
+ 608  '  SS Pzgrenadiere 43  [INF  SS]  Cost: 468
+ 619  '  Bf 110G-2  [ TB  Germany]  Cost: 768
+ 693  '  75mm leIG18 Pak  [ AT  Germany]  Cost: 108
+ 704  '  Bison II  [ATY  Germany]  Cost: 588
+ 709  '  Fallschirm 43  [INF  Germany]  Cost: 288
+ 711  '  Grenadiere 42  [INF  Germany]  Cost: 180
+ 729  '  SdKfz 250/10  [RCN  Germany]  Cost: 288
+ 730  '  SdKfz 250/3  [RCN  Germany]  Cost: 252
+ 774  '  210mm K38  [ATY  Germany]  Cost: 2196
+ 798  '  120mm Mortar  [ATY  Germany]  Cost: 288
+ 946  '  Me 410A  [FTR  Germany]  Cost: 972
+ 989  '  Ju 88A-4  [ TB  Germany]  Cost: 792
+ 991  '  Brummbar  [ AT  Germany]  Cost: 600
+ 998  '  Fw 189  [ TB  Germany]  Cost: 396
+1136  '  81mm Mortar  [ATY  Germany]  Cost: 180
+1222  '  37mm Flak43 Twin  [ AD  Germany]  Cost: 300
+1228  '  SdKfz 251/16  [ AT  Germany]  Cost: 288
+1230  '  FJ 8cm Mortar  [ATY  Germany]  Cost: 240
+1231  '  Marder IIIM  [ AT  Germany]  Cost: 360
+1232  '  StuG IIIE  [ AT  Germany]  Cost: 372
+1233  '  100mm Mortar  [ATY  Germany]  Cost: 228
+1235  '  75mm GebG36  [ATY  Germany]  Cost: 228
+1238  '  150mm sIG33  [ AT  Germany]  Cost: 240
+1239  '  150mm K39  [ATY  Germany]  Cost: 1224
+1240  '  280mm NbWf41  [ATY  Germany]  Cost: 456
+1251  '  Fusiliere 43  [RCN  Germany]  Cost: 216
+1255  '  SdKfz 251/9  [RCN  Germany]  Cost: 384
+1257  '  AufPz 38  [RCN  Germany]  Cost: 336
+1258  '  Lynx  [RCN  Germany]  Cost: 432
+1261  '  Pz II Flame  [ AT  Germany]  Cost: 312
+1262  '  Pz III Flame  [ AT  Germany]  Cost: 372
+1270  '  Fw 190A-8  [FTR  Germany]  Cost: 1008
+1272  '  Bf 109G-8  [FTR  Germany]  Cost: 768
+1273  '  He 219  [FTR  Germany]  Cost: 972
+1276  '  Me 410B  [ TB  Germany]  Cost: 792
+1282  '  Hs 129B-3  [ TB  Germany]  Cost: 804
+1284  '  Do 217K  [ TB  Germany]  Cost: 768
+1556  '  105mm LG42  [ATY  Germany]  Cost: 288
+1557  '  StuIG 33  [ATY  Germany]  Cost: 636
+1899  '  128mm Flak40  [ AD  Germany]  Cost: 612
+1944  '  150mm sFH37  [ATY  Germany]  Cost: 732
+1955  '  128mm Pak44  [ AT  Germany]  Cost: 396
+2398  '  Horse  [TPT  Germany]  Cost: 12
+2399  '  Limber  [TPT  Germany]  Cost: 12
+2400  '  H830B  [TPT  Germany]  Cost: 84
+2401  '  SdKfz 11  [TPT  Germany]  Cost: 168
+2402  '  Blitz 7t  [TPT  Germany]  Cost: 84
+2403  '  SdKfz 7  [TPT  Germany]  Cost: 168
+2404  '  SdKfz 8  [TPT  Germany]  Cost: 168
+2405  '  Bicycles  [TPT  Germany]  Cost: 12
+2406  '  Blitz 1t  [TPT  Germany]  Cost: 84
+2407  '  Blitz 5t  [TPT  Germany]  Cost: 84
+2408  '  Sturmtiger  [ AT  Germany]  Cost: 1200
+2409  '  105mm leFH18/43  [ATY  Germany]  Cost: 420
+2517  '  Mules  [TPT  Germany]  Cost: 12
+2559  '  Entrenched  [INF  Germany]  Cost: 168
+2728  '  20mm Flakpanzer  [FlaK  Germany]  Cost: 252
+2729  '  37mm Flak36 LKW  [ AD  Germany]  Cost: 300
+2730  '  SdKfz 10  [TPT  Germany]  Cost: 168
+2797  '  20mm Flak30  [FlaK  Germany]  Cost: 60
+2820  '  Sdkfz 2  [TPT  Germany]  Cost: 168
+2956  '  Ar 196  [ TB  Germany]  Cost: 396
+2957  '  BV 155A-1  [FTR  Germany]  Cost: 816
+2958  '  Ju 87E  [ TB  Germany]  Cost: 672
+2968  '  Mineclearer  [INF  Germany]  Cost: 372
+3010  '  Goliath  [ATY  Germany]  Cost: 24
+3013  '  SdKfz 251/19  [ AT  Germany]  Cost: 360
+3172  '  SdKfz 251/9   [ATY  Germany]  Cost: 396
+3294  '  Do 217E Special  [ TB  Germany]  Cost: 792
+3355  '  150mm L40  [ATY  Germany]  Cost: 864
+3396  '  Lorraine  [ATY  Germany]  Cost: 672
+3410  '  Repair Crew  [INF  Germany]  Cost: 216
+3415  '  Bruckenpioniere 43  [INF  Germany]  Cost: 120
+3424  '  Grossdeutschland 42  [INF  Germany]  Cost: 192
+3426  '  Jager 43  [INF  Germany]  Cost: 120
+3435  '  Kavallerie 41  [INF  Germany]  Cost: 216
+3440  '  Gebirgsjager 43  [INF  Germany]  Cost: 192
+3445  '  Gebirgspioniere 43  [INF  Germany]  Cost: 420
+3450  '  Kommando 43  [INF  Germany]  Cost: 612
+3454  '  Stormtroops 43  [INF  Germany]  Cost: 852
+3456  '  Luftlande-Sturm 43  [INF  Germany]  Cost: 588
+3467  '  Command HQ  [INF  Germany]  Cost: 228
+3471  '  Demolition  [ATY  Germany]  Cost: 252
+3478  '  Stormtroops 42  [INF  Germany]  Cost: 660
+3480  '  Sturmpioniere 43  [INF  Germany]  Cost: 444
+3481  '  Sturmpioniere 42  [INF  Germany]  Cost: 420
+3489  '  HQ 42  [RCN  Germany]  Cost: 540
+3496  '  MG 42  [FlaK  Germany]  Cost: 156
+3497  '  FJ 43 MG  [FlaK  Germany]  Cost: 156
+3501  '  Gebirgs-aufklarung 43  [RCN  Germany]  Cost: 360
+3503  '  Fallschirm-aufklarer 43  [RCN  Germany]  Cost: 372
+3505  '  Truck  [TPT  Germany]  Cost: 0
+3655  '  SS Stormtroops 41  [INF  SS]  Cost: 468
+3658  '  105mm GebH40  [ATY  Germany]  Cost: 336
+3830  '  SS Infanterie 41  [INF  SS]  Cost: 156
+3831  '  SS Grenadiere 43  [INF  SS]  Cost: 72
+3832  '  SS Gebirgsjager 42  [INF  SS]  Cost: 192
+3833  '  SS Stormtroops 43  [INF  SS]  Cost: 504
+3834  '  SS Kavallerie 42  [INF  SS]  Cost: 156
+3836  '  SS Pzgrenadiere 42  [INF  SS]  Cost: 384
+4333  '  Ju 86R-2  [ TB  Germany]  Cost: 552
+4336  '  Ju 88G-1  [ TB  Germany]  Cost: 900
+4337  '  Ju 88P-1  [ TB  Germany]  Cost: 900
+4418  '  Do 17P minelayer  [ TB  Germany]  Cost: 408
+4421  '  Fw 58B-1  [ TB  Germany]  Cost: 300
+4463  '  Ta 154A-1  [ TB  Germany]  Cost: 936
+4545  '  Fw 190A-4  [FTR  Germany]  Cost: 912
+4546  '  Fw 190A-6  [FTR  Germany]  Cost: 972
+4554  '  Ju 188E-1  [ TB  Germany]  Cost: 900
+4555  '  Ju 188A-2  [ TB  Germany]  Cost: 900
+4558  '  Ju 87D-5  [ TB  Germany]  Cost: 672
+5217  '  100mm GebH16  [ATY  SS]  Cost: 240
+5221  '  40 Kradaufklarer  [RCN  SS]  Cost: 168
+5223  '  41 Aufklarungsinfanterie  [RCN  SS]  Cost: 168
+5224  '  42 Gebirgs-aufklarung  [RCN  SS]  Cost: 288
+5225  '  42 Aufklarungskavallerie  [RCN  SS]  Cost: 156
+5226  '  43 Aufklarer  [RCN  SS]  Cost: 216
+5227  '  43 Gebirgs-aufklarung  [RCN  SS]  Cost: 360
+5228  '  43 Aufklarungskavallerie  [RCN  SS]  Cost: 156
+5230  '  ADGZ  [RCN  SS]  Cost: 240
+5231  '  SdKfz 10/4  [FlaK  SS]  Cost: 252
+5233  '  20mm Flak38  [FlaK  SS]  Cost: 60
+5234  '  20mm Flak38 LKW  [FlaK  SS]  Cost: 192
+5235  '  SdKfz 7/1  [FlaK  SS]  Cost: 396
+5236  '  20mm Flakvierling38  [FlaK  SS]  Cost: 120
+5237  '  88mm Flak36  [ AT  SS]  Cost: 300
+5238  '  FlakPz 38  [FlaK  SS]  Cost: 300
+5241  '  37mm Flak Sfl  [ AD  SS]  Cost: 420
+5242  '  37mm Flak36  [ AD  SS]  Cost: 144
+5243  '  37mm Flak36 LKW  [ AD  SS]  Cost: 300
+5245  '  88mm Flak37  [ AD  SS]  Cost: 528
+5248  '  Mobelwagen  [ AD  SS]  Cost: 456
+5250  '  SdKfz 4/15   [ATY  SS]  Cost: 672
+5255  '  75mm leIG18 Pak  [ AT  SS]  Cost: 72
+5257  '  75mm Pak40  [ AT  SS]  Cost: 168
+5258  '  88mm Pak43  [ AT  SS]  Cost: 360
+5259  '  Marder 38T H  [ AT  SS]  Cost: 348
+5260  '  Nashorn  [ AT  SS]  Cost: 708
+5261  '  Marder I  [ AT  SS]  Cost: 312
+5262  '  Marder III  [ AT  SS]  Cost: 348
+5263  '  Marder II  [ AT  SS]  Cost: 324
+5264  '  Marder II (7,62)  [ AT  SS]  Cost: 336
+5269  '  StuG IIIG  [ AT  SS]  Cost: 504
+5275  '  StuH 42F  [ AT  SS]  Cost: 504
+5277  '  SdKfz 251/16  [ AT  SS]  Cost: 288
+5279  '  75mm GebG36  [ATY  SS]  Cost: 240
+5281  '  75mm GebK15  [ATY  SS]  Cost: 204
+5282  '  75mm leIG18  [ATY  SS]  Cost: 96
+5283  '  100mm leFH14/19  [ATY  SS]  Cost: 216
+5284  '  100mm leFH30(t)  [ATY  SS]  Cost: 324
+5285  '  105mm GebH40  [ATY  SS]  Cost: 384
+5286  '  105mm K18  [ATY  SS]  Cost: 420
+5287  '  105mm leGebH322(f)  [ATY  SS]  Cost: 276
+5288  '  80mm FK30(t)  [ATY  SS]  Cost: 240
+5289  '  75mm leGebIG18  [ATY  Germany]  Cost: 156
+5290  '  75mm leGebIG18  [ATY  SS]  Cost: 156
+5291  '  75mm LG40  [ATY  SS]  Cost: 312
+5292  '  76mm FK296(r)  [ATY  SS]  Cost: 240
+5294  '  105mm leFH18  [ATY  SS]  Cost: 252
+5295  '  120mm GrW42  [ATY  SS]  Cost: 288
+5296  '  122mm K390(r)  [ATY  SS]  Cost: 576
+5297  '  150mm NbWf41  [ATY  SS]  Cost: 408
+5298  '  150mm sFH18  [ATY  SS]  Cost: 612
+5299  '  150mm sIG33  [ AT  SS]  Cost: 240
+5300  '  155mm sFH414(f)  [ATY  SS]  Cost: 744
+5301  '  170mm K18  [ATY  SS]  Cost: 1440
+5302  '  210mm M18  [ATY  SS]  Cost: 1440
+5303  '  210mm NbWf42  [ATY  SS]  Cost: 456
+5304  '  GW 38 f sIG33/1  [ATY  SS]  Cost: 444
+5305  '  GW 38M f sIG33/2  [ATY  SS]  Cost: 396
+5306  '  Hummel  [ATY  SS]  Cost: 864
+5307  '  Wespe  [ATY  SS]  Cost: 672
+5308  '  Wurfrahmen  [ATY  SS]  Cost: 672
+5314  '  150mm sFH37(t)  [ATY  SS]  Cost: 732
+5316  '  SS Bruckenpioniere 40  [INF  SS]  Cost: 120
+5318  '  SS Gebirgsjager 43  [INF  SS]  Cost: 204
+5319  '  SS Fallschirmjager 42  [INF  SS]  Cost: 192
+5320  '  SS Jagdverbande 43  [INF  SS]  Cost: 564
+5321  '  SS Pioniere 43  [INF  SS]  Cost: 492
+5322  '  SS Pzpioniere 43  [INF  SS]  Cost: 552
+5323  '  SS Bruckenpioniere 43  [INF  SS]  Cost: 144
+5324  '  SS Gebirgspioniere 41  [INF  SS]  Cost: 312
+5325  '  SS Gebirgspioniere 43  [INF  SS]  Cost: 348
+5326  '  41 Gebirgs-aufklarung  [RCN  SS]  Cost: 288
+5328  '  Psw 222  [RCN  SS]  Cost: 240
+5329  '  SdKfz 250/1  [RCN  SS]  Cost: 228
+5330  '  SdKfz 250/3  [RCN  SS]  Cost: 276
+5331  '  SdKfz 250/10  [RCN  SS]  Cost: 252
+5332  '  Sdkfz 8/88mm  [ AT  SS]  Cost: 708
+5333  '  Psw 231/8  [RCN  SS]  Cost: 264
+5334  '  Psw 233  [RCN  SS]  Cost: 384
+5336  '  Puma  [RCN  SS]  Cost: 432
+5339  '  PzSpWg 204(f)  [RCN  SS]  Cost: 312
+5340  '  PzSpWg 203(i)  [RCN  SS]  Cost: 408
+5341  '  Blitz 5t  [TPT  SS]  Cost: 60
+5342  '  Blitz 3t  [TPT  SS]  Cost: 96
+5343  '  H830B  [TPT  SS]  Cost: 108
+5344  '  Horse  [TPT  SS]  Cost: 12
+5345  '  Wagon  [TPT  SS]  Cost: 12
+5346  '  Zgkw 1t  [TPT  SS]  Cost: 120
+5347  '  Zgkw 3t  [TPT  SS]  Cost: 144
+5348  '  Mules  [TPT  SS]  Cost: 24
+5349  '  Zgkw 8t  [TPT  SS]  Cost: 168
+5350  '  Blitz 1t  [TPT  SS]  Cost: 60
+5351  '  Radfahrer  [TPT  SS]  Cost: 48
+5352  '  RSO  [TPT  SS]  Cost: 132
+5353  '  Limber  [TPT  SS]  Cost: 12
+5354  '  SdKfz 251  [TPT  SS]  Cost: 252
+5355  '  Zgkw 12t  [TPT  SS]  Cost: 192
+5364  '  Fi 156C-3  [ TB  SS]  Cost: 324
+5370  '  Pz IIIL  [ TK  SS]  Cost: 468
+5373  '  Pz IVH  [ TK  SS]  Cost: 684
+5375  '  Tiger Ib  [ TK  SS]  Cost: 1500
+5376  '  Panther D  [ TK  SS]  Cost: 1368
+5377  '  Panther A  [ TK  SS]  Cost: 1500
+5385  '  Pz 739  [ TK  SS]  Cost: 384
+5387  '  Pz 738  [ TK  SS]  Cost: 444
+5388  '  Pz 740  [ TK  SS]  Cost: 504
+5415  '  37mm Pak Protze  [ AT  Germany]  Cost: 132
+5711  '  2-shiki Suisen 11-gata  [FTR  Japanese Navy]  Cost: 588
+5712  '  Mitsubishi A6M2 Zero  [FTR  Japanese Navy]  Cost: 648
+5713  '  Mitsubishi A6M4 Zero  [FTR  Japanese Navy]  Cost: 696
+5714  '  Mitsubishi A6M3 Zero  [FTR  Japanese Navy]  Cost: 684
+5715  '  Ki-43 Oscar  [FTR  Japanese Navy]  Cost: 696
+5725  '  97-shiki 3-go Kanko  [ TB  Japanese Navy]  Cost: 684
+5726  '  Tenzan Kanko 11-gata  [ TB  Japanese Navy]  Cost: 780
+5736  '  99-shiki Kanbaku 11-gata  [ TB  Japanese Navy]  Cost: 660
+5737  '  99-shiki Kanbaku 22-gata  [ TB  Japanese Navy]  Cost: 720
+5739  '  Suisei Kanbaku 11-gata  [ TB  Japanese Navy]  Cost: 852
+5745  '  0-shiki Suitei 11-gata  [ TB  Japanese Navy]  Cost: 648
+5752  '  Zuiun Suitei 11-gata  [ TB  Japanese Navy]  Cost: 864
+5753  '  0-shiki 2-go Suikan  [ TB  Japanese Navy]  Cost: 648
+5758  '  96-shiki Rikuko 23-gata  [ TB  Japanese Navy]  Cost: 792
+5760  '  1-shiki Rikuko 11-gata  [ TB  Japanese Navy]  Cost: 792
+5761  '  1-shiki Rikuko 13-gata  [ TB  Japanese Navy]  Cost: 876
+5767  '  Opel  [TPT  Germany]  Cost: 168
+5798  '  J2M Jack  [FTR  Japanese Navy]  Cost: 708
+5800  '  Kyofu Suisen 11-gata  [FTR  Japanese Navy]  Cost: 636
+7850  '  Road Transporter  [TPT  SS]  Cost: 84
+7855  '  PzBeWg I  [ TK  Germany]  Cost: 216
+7914  '  105mm Flak42  [ AD  Germany]  Cost: 576
+7916  '  50mm FlaK41 Truck  [ AD  Germany]  Cost: 456
+7918  '  88mm Pak38  [ AD  Germany]  Cost: 528
+7919  '  88mm Pak39  [ AD  SS]  Cost: 528
+7922  '  Demolition Crew  [ AD  Germany]  Cost: 516
+7923  '  Saboteurs  [ AD  Germany]  Cost: 528
+7924  '  210mm AT howitzer  [ AT  Germany]  Cost: 432
+7925  '  88mm Pak36  [ AT  Germany]  Cost: 300
+7933  '  Sturer Emil  [ AT  Germany]  Cost: 900
+7936  '  A4-B  [ TB  Germany]  Cost: 12
+7938  '  240mm H39  [ATY  Germany]  Cost: 1752
+7939  '  240mm K3  [ATY  Germany]  Cost: 2496
+7940  '  280mm H12  [ATY  Germany]  Cost: 732
+7941  '  355mm HM1  [ATY  Germany]  Cost: 2100
+7942  '  88mm AT/ATY  [ATY  Germany]  Cost: 612
+7943  '  Cricket  [ATY  Germany]  Cost: 588
+7947  '  Karl 540mm  [ATY  Germany]  Cost: 2100
+7949  '  PzJg 128mm  [ATY  Germany]  Cost: 1224
+7950  '  RSO 75mm aty  [ATY  Germany]  Cost: 672
+7952  '  SdKfz 251/2  [ATY  Germany]  Cost: 336
+7954  '  Thor 600mm  [ATY  Germany]  Cost: 2100
+7955  '  Battery  [ATY  Germany]  Cost: 900
+7958  '  88mm SdKfz 9  [ AD  Germany]  Cost: 912
+7964  '  Spy  [RCN  Germany]  Cost: 156
+7966  '  Fritz-X  [ TB  Germany]  Cost: 1392
+7968  '  Tiger Ic  [ TK  Germany]  Cost: 1500
+7971  '  Road Transporter  [TPT  Germany]  Cost: 84
+
+#1    '  Item/s for Player2 follow...
+ 432  '  New Orleans CA  [sBS  USA]  Cost: 1356
+ 433  '  Iowa BB  [sBS  USA]  Cost: 1896
+ 434  '  Brooklyn CL  [sBS  USA]  Cost: 864
+ 435  '  Essex CV  [sCV  USA]  Cost: 1200
+ 436  '  Yorktown CV  [sCV  USA]  Cost: 1092
+ 437  '  Fletcher DD  [sDD  USA]  Cost: 324
+ 452  '  F4U-1 Corsair  [FTR  USA]  Cost: 924
+ 453  '  P-38F Lightning  [FTR  USA]  Cost: 936
+ 454  '  P-38J Lightning  [FTR  USA]  Cost: 936
+ 470  '  SBD Dauntless  [ TB  USA]  Cost: 576
+ 996  '  F4F-4 Wildcat  [FTR  USA]  Cost: 768
+1773  '  F6F-5 Hellcat  [FTR  USA]  Cost: 864
+1778  '  P-40N Warhawk  [FTR  USA]  Cost: 780
+1781  '  TBF Avenger  [ TB  USA]  Cost: 552
+1782  '  PBY Catalina  [ TB  USA]  Cost: 420
+1783  '  PV-1 Ventura  [ TB  USA]  Cost: 660
+1784  '  B-17G Fortress  [ LB  USA]  Cost: 876
+1785  '  B-24D Liberator  [ LB  USA]  Cost: 876
+1789  '  Mohan DD  [sDD  USA]  Cost: 264
+1790  '  Cleveland CL  [sBS  USA]  Cost: 852
+1791  '  Atlanta CL  [sBS  USA]  Cost: 804
+1792  '  Omaha CL  [sBS  USA]  Cost: 744
+1793  '  Portland CA  [sBS  USA]  Cost: 1308
+1794  '  Penascola CA  [sBS  USA]  Cost: 1272
+1796  '  Washington BB  [sBS  USA]  Cost: 1788
+1797  '  Maryland BB  [sBS  USA]  Cost: 1656
+1798  '  Nevada BB  [sBS  USA]  Cost: 1572
+1799  '  Commencement Bay CV  [sCV  USA]  Cost: 624
+1800  '  Gato SS  [SUB  USA]  Cost: 492
+2880  '  SB2C Helldiver  [ TB  USA]  Cost: 576
+2885  '  B-17B Fortress  [ LB  USA]  Cost: 876
+3126  '  PT-20 MTB  [sDD  USA]  Cost: 216
+3127  '  Raven AM  [sDD  USA]  Cost: 180
+3128  '  Sargo SS  [SUB  USA]  Cost: 456
+3129  '  S-1 SS  [SUB  USA]  Cost: 432
+4649  '  P-70  [ TB  USA]  Cost: 936
+5556  '  SO3C-1  [ TB  USA]  Cost: 588

@@ -1,0 +1,13 @@
+For King and Empire
+British campaign 1940-45
+
+Version: 3.0B
+Player Country : United Kingdom
+Equipment File: BaseKorp
+Number of Scenarios: 20
+Campaign Designer: Technique
+Modified by Brian Gosley aka Puma
+
+This is a British campaign covering the period of the war from 1940-45.  Beginning in East Africa you will face off against Italy and her colonial allies, before moving onto North Africa to face the Afrika Korps.  Following the successful operations in Africa the campaign then moves into the European theatre, starting with the struggle up through Italy, before shifting to the invasion and liberation of France.  In the final stages you will move through Belgium and Holland until you finally reach the Rhine and cross into Nazi Germany.
+
+This campaign is dedicated to my (now deceased) Grandfather who was a sergeant in the British Army.

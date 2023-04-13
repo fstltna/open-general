@@ -1,0 +1,13 @@
+SITUATION:
+
+Herr General, the situation is critical. 2 days after we captured Rostov the Bolsheviks launched a massive counterattack on Rostov from southern, eastern and northeastern directions. Your orders are to hold your positions, no matter what! Only in the most critical situation you are free to withdrew your troops to better positions in the west. Taganrog and positions on the western shore of the Mius river will be our last stand. Leave now, there is no time!
+
+ORDERS: 
+
+Hold 9/5/2 VHs after 13 turns for a BV/V/TV.
+
+AI will have the first turn!
+
+NOTES:
+
+4 rail transports are available.

@@ -1,0 +1,14 @@
+1954 Battle of Dien Bien Phu
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+General, you are ordered to launch the final assault on the french stronghold Dien Bien Phu. The french army is trapped in the valley and short of equipment, but still consits of some of their best Forreign Legion units and they even field some tanks, but that won't be enough to stop us!
+
+Scenario Version: February 2020
+Player Country: Viet Minh
+AI Version: 3.0
+Player Turn Prestige 25pp/turn
+Turns: 12 BV; 16 V; 20 TV
+Scenario Designer: randowe
+
+ORDERS:
+¯¯¯¯¯¯¯¯
+Close in on the french strongholds and capture all VHs in 12/16/20 turns for a Brilliant Victory/Victory/Tactical Victory.

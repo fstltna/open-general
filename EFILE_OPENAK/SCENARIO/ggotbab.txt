@@ -1,0 +1,239 @@
+Operation Typhoon-Breakthrough at Bryansk
+I/395/2nd Guards(Ermakov)
+II/535/2nd Guards(Ermakov)
+I/875/2nd Guards(Ermakov)
+I/443/160th Rifle(Ermakov)
+II/537/160th Rifle(Ermakov)
+I/636/160th Rifle(Ermakov)
+I/78/55th Cav(Ermakov)
+I/84/55th Cav(Ermakov)
+II/87/55th Cav(Ermakov)
+I/81/52nd Cav(XIII)
+II/105/52nd Cav(XIII)
+I/117/52nd Cav(XIII)
+I/17/21st Guards Cav(Ermakov)
+II/67/21st Guards Cav(Ermakov)
+I/112/21st Guards Cav(Ermakov)
+I/383/121st Rifle(XIII)
+I/574/121st Rifle(XIII)
+II/705/121st Rifle(XIII)
+I/487/143rd Rifle(XIII)
+II/635/143rd Rifle(XIII)
+II/800/143rd Rifle(XIII)
+I/498/132nd Rifle(XIII)
+II/605/132nd Rifle(XIII)
+I/712/132nd Rifle(XIII)
+I/436/155th Rifle(XIII)
+II/659/155th Rifle(XIII)
+II/786/155th Rifle(XIII)
+II/84/6th Rifle(XIII)
+II/125/6th Rifle(XIII)
+I/333/6th Rifle(XIII)
+II/496/148th Rifle(III)
+I/507/148th Rifle(III)
+I/654/148th Rifle(III)
+II/409/137th Rifle(III)
+I/624/137th Rifle(III)
+II/771/137th Rifle(III)
+II/1028/260th Rifle(L)
+I/855/278th Rifle(III)
+II/122/4th Cav(III)
+II/437/154th Rifle(HQ)
+I/473/154th Rifle(HQ)
+II/510/154th Rifle(HQ)
+II/1030/260th Rifle(L)
+I/1022/269th Rifle(III)
+I/1021/307th Rifle(XIII)
+II/1019/307th Rifle(XIII)
+I/1023/307th Rifle(XIII)
+Bryansk
+Bryansk Lgovskiy
+Bezhitsa
+Karachev
+Vygonici
+Suponevo
+Orel
+Naryshkino
+Dubovaya Roshcha
+Bogoroditskoye
+Khotynets
+Znamenskoye
+Tereben'
+Novgorod-Seversky
+Starodub
+Unecha
+Mglin
+Norino
+Akulifchi
+Jampol
+Shostka
+Krolevec
+Mena
+Navlya
+Ramasukha
+Sevsk
+Trubchevsk
+Valujec
+Lyshchichi
+Ryukhovo
+Klimovo
+Voronok
+Grinevo
+Komarichu
+Lokot
+Seredina-Buda
+Suzemka
+Dmitriev-Lgovsky
+Fatezh
+Lgovo
+Kursk
+Znamenka
+Bol'soje Zirovo
+Maroisa
+Sudzha
+Hluchiv
+Khomutovka
+Fateyevka
+Novoyamskoye
+Sinezerki
+Shcheglovka
+Shablykino
+Linec
+Soskovo
+Chausy
+River Desna
+River Desna Tributary
+River Oka
+River Sosna
+Pogar
+II/856/283rd Rifle(Ermakov)
+I/858/283rd Rifle(Ermakov)
+I/860/283rd Rifle(Ermakov)
+I/886/298th Rifle(XIII)
+II/888/298th Rifle(XIII)
+I/892/298th Rifle(XIII)
+II/872/282nd Rifle(III)
+II/874/282nd Rifle(III)
+I/877/282nd Rifle(III)
+II/1018/269th Rifle(III)
+II/1020/269th Rifle(III)
+II/866/287th Rifle(III)
+I/868/287th Rifle(III)
+I/870/287th Rifle(III)
+II/1031/280th Rifle(III)
+II/1033/280th Rifle(III)
+II/1035/280th Rifle(III)
+I/118/4th Cav(III)
+I/120/4th Cav(III)
+I/1026/260th Rifle(L)
+II/878/290th Rifle(L)
+II/882/290th Rifle(L)
+I/885/290th Rifle(L)
+I/470/194th Rifle(Res)
+I/616/194th Rifle(Res)
+I/954/194th Rifle(Res)
+I/1/1st Cavalry Division
+II/1/1st Cavalry Division
+I/2/1st Cavalry Division
+II/2/1st Cavalry Division
+I/21/1st Cavalry Division
+II/21/1st Cavalry Division
+I/22/1st Cavalry Division
+II/22/1st Cavalry Division
+I/315/167th Inf(LIII)
+II/331/167th Inf(LIII)
+I/339/167th Inf(LIII)
+I/171/56th Inf(LIII)
+I/192/56th Inf(LIII)
+II/234/56th Inf(LIII)
+II/20/10th Mot Inf(XXIV)
+I/20/10th Mot Inf(XXIV)
+II/41/10th Mot Inf(XXIV)
+I/41/10th Mot Inf(XXIV)
+I/15/29th Mot Inf(XLVII)
+II/15/29th Mot Inf(XLVII)
+I/71/29th Mot Inf(XLVII)
+II/71/29th Mot Inf(XLVII)
+I/35/25th Mot Inf(XLVIII)
+II/35/25th Mot Inf(XLVIII)
+I/119/25th Mot Inf(XLVIII)
+II/119/25th Mot Inf(XLVIII)
+I/462/262nd Inf(XXXV)
+II/482/262nd Inf(XXXV)
+I/486/262nd Inf(XXXV)
+I/510/293rd Inf(XXXV)
+II/511/293rd Inf(XXXV)
+I/512/293rd Inf(XXXV)
+I/40/17th Pz(XLVII)
+I/98/18th Pz(XLVII)
+III/79/4th Pz(XXIV)
+II/39/3rd Pz(XXIV)
+III/86/9th Pz(XLVIII)
+I/39/17th Pz(XLVII)
+II/39/17th Pz(XLVII)
+I/18/18th Pz(XLVII)
+II/18/18th Pz(XLVII)
+I/35/4th Pz(XXIV)
+II/36/4th Pz(XXIV)
+I/6/3rd Pz(XXIV)
+II/6/3rd Pz(XXIV)
+I/33/9th Pz(XLVIII)
+II/33/9th Pz(XLVIII)
+I/40/167th Inf(LIII)
+III/156/56th Inf(LIII)
+II/29/29th Mot Inf(XLVII)
+II/10/10th Mot Inf(XXIV)
+I/25/25th Mot Inf(XLVIII)
+I/293/293rd Inf(XXXV)
+I/238/167th Inf(LIII)
+III/29/29th Mot Inf(XLVII)
+III/10/10th Mot Inf(XXIV)
+III/7/4th Pz(XXIV)
+II/156/56th Inf(LIII)
+I/11/104th Flak(I)
+II/11/104th Flak(I)
+I/22/101st Flak(I)
+I/12/101st Flak(I)
+I/JG 51(II)LF2
+IV/JG 51(II)LF2
+II/KG 53(II)LF2
+II/KG 3(II)LF2
+I/StG 77(II)LF2
+76IAP/1ShAD
+99IAP/1ShAD
+133IAP/1ShAD
+156IAP/1ShAD
+II/299/194th Rifle(Res)
+II/827/290th Rifle(L)
+I/836/269th Rifle(III)
+I/497/137th Rifle(III)
+II/204/6th Rifle(XIII)
+III/425/132nd Rifle(XIII)
+II/490/143rd Rifle(XIII)
+II/503/121st Rifle(XIII)
+III/848/283rd Rifle(Ermakov)
+I/556/160th Rifle(Ermakov)
+II/459/160th Rifle(Ermakov)
+I/340/132nd Rifle(XIII)
+I/557/269th Rifle(III)
+II/580/154th Rifle(HQ)
+I/113th Ind Tk Batt(Ermakov)
+II/113th Ind Tk Batt(Ermakov)
+III/113th Ind Tk Batt(Ermakov)
+I/121/121st Tk Brigade
+II/121/121st Tk Brigade
+I/150/150th Tk Brigade
+II/150/150th Tk Brigade
+I/216/108th Tk(L)
+I/217/108th Tk(L)
+II/141/141st Tk Brigade
+I/141/141st Tk Brigade
+II/42/42nd Tk Brigade
+I/42/42nd Tk Brigade
+II/40/167th Inf(LIII)
+II/315/167th Inf(LIII)
+I/331/167th Inf(LIII)
+III/167/167th Inf(LIII)
+III/293/293rd Inf(XXXV)
+Artillery
+Smash front with core and fan out

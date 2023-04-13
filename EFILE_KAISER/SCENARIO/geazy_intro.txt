@@ -1,0 +1,16 @@
+1914-18 EASY SAFARI 
+
+Version: 1.1
+Equipment File: Kaiser General
+Number of Scenarios: 18
+Player Country: German Empire
+Campaign Designer: Guille, Urica, Aries No Mu
+Playtesters: Blitzstoper, 1-Terminator, Paqueo, Patrick Steinmann, afineandprivateplace, Juankar
+
+An easier "Heia Safari" campaign
+
+When WWI started nobody expected that the German colonial army in Africa could resist the enemy for a long time. Isolated and numerically inferior, the German soldiers and the native troops in the service of the Kaiser (the "askari") who were in Togo, Cameroon, South West Africa or German East Africa were supposedly no match for the colonial armies of powers such as the British Empire, Franced or Belgium.
+However, the campaign in German East Africa (a colony which comprised most of present day Tanzania, Rwanda and Burundi) was very different from what was expected. The German commander, Col. Paul Von Lettow-Vorbeck proved to be one of the most skilled officers of the WWI, and maybe of the 20th century. Displaying a great mobility, an excellent knowledge of the terrain and an exceptional gift for guerrilla warfare, Von Lettow led his "Feldkompanien" for more than four years, forcing the Entente powers to send 250,000 soldiers in search of less than 20,000 German troops.
+Von Lettow never suffered a decisive defeat, an didn't surrender until november 1918, when he learnt of the armistice that had been signed at Compiègne.
+This campaign recreates the main battles that took place in German East Africa during WWI.
+

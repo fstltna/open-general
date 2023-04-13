@@ -1,0 +1,17 @@
+The fall of Cavite
+(28 May 1898)
+v.1.0
+The sunset of the Spanish Empire - The Spanish American War 1898
+
+General,
+
+After the battle of Manila Bay with the Americans, the situation is now becoming complicated with the Filipino insurgents. Emilio Aguinaldo, the leader of the Filipino rebels, has broken the pact of Biak na Bato and used the money we paid him in exchange of peace to buy arms. He has arrived to the Philippines from Hong Kong and, with the support of the U.S., he is raising a newly armed Philippine Revolutionary Army in the province of Cavite.
+
+The governor of that province, General Peña, is trying to control the situation and prevent the distribution of arms (we have been informed that a new dispatch will take place in Alapan, a suburb of Imus). However, in view of the circumstances, he has been asked to abandon cavite, concentrate his troops and retreat to Manila.
+
+Teniente coronel Soro has been ordered to help Pena with a column of 500 infantrymen. You have to reinforce Soro's column.
+
+Victory conditions: to retreat 5 MSU units by turn 14 for a BV, by turn 16 for a V and by turn 18 for a TV.
+
+Paqueo
+December 2013

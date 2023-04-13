@@ -1,0 +1,17 @@
+'---
+'Config purchase file for scenario: NOMarinExp03.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 6 items by the Suite
+
+#1    '  Item/s for Player2 follow...
+3512  '  MG 43  [FlaK  United Kingdom]  Cost: 132
+ 714  '  Infantry 44  [INF  United Kingdom]  Cost: 156
+2689  '  Indian 44  [INF  United Kingdom]  Cost: 84
+
+#2    '  Item/s for Player3 follow...
+ 711  '  Grenadiere 42  [INF  Germany]  Cost: 132
+3496  '  MG 42  [FlaK  Germany]  Cost: 120
+3464  '  Feldersatz (late)  [INF  Germany]  Cost: 48

@@ -1,0 +1,63 @@
+Vienna
+I/SS-Der Fuehrer
+III/SS-Der Fuehrer
+II/SS-Der Fuehrer
+Vienna Garrison
+II/Arty/SS-VT
+Luftflotte 2
+FlaK/-/SS-VT
+II/JG5
+III/JG5
+II/KG21
+I/StG5
+II/StG5
+I/JG2
+53rd Landwehr Division
+I/15/29th (mot) Inf. Div.
+II/15/29th (mot) Inf. Div.
+III/15/29th (mot) Inf. Div.
+29/-/29th (mot) Inf. Div.
+II/29/29th (mot) Inf. Div.
+AT/-/3rd Fast Division
+AD/-/3rd Fast Division
+I/2/3rd Fast Division
+2/-/3rd Fast Division
+II/2/3rd Fast Division
+III/2/3rd Fast Division
+4th Air Regiment
+I/11C/3rd Fast Division
+II/11C/3rd Fast Division
+III/11C/3rd Fast Division
+I/10C/3rd Fast Division
+II/10C/3rd Fast Division
+III/10C/3rd Fast Division
+I/7/40th BD
+II/7/40th BD
+III/7/40th BD
+12th Bridging Battalion
+III/26/40th BD
+I/25/40th BD
+II/25/40th BD
+III/25/40th BD
+I/56/10th Inf. Div.
+III/56/10th Inf. Div.
+I/40/40th BD
+II/40/40th BD
+I/57/10th Inf. Div.
+II/57/10th Inf. Div.
+III/57/10th Inf. Div.
+I/81/21st Inf. Div.
+II/81/21st Inf. Div.
+III/81/21st Inf. Div.
+I/5G/21st Inf. Div.
+II/5G/21st Inf. Div.
+III/5G/21st Inf. Div.
+I/5th Indpt. Cavalry Rgt.
+II/5th Indpt. Cavalry Rgt.
+40/-/40th BD
+DF's Chansorally
+Wien
+Donau/Danube River
+I/71/29th (mot) Inf. Div.
+II/71/29th (mot) Inf. Div.
+Village

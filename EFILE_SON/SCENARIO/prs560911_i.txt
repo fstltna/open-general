@@ -1,0 +1,12 @@
+Siege of Pirna
+September 11, 1756
+
+Following the occupation of the capital Dresden by Frederick the Great on 9 September the Saxon army had withdrawn south and taken up position at the fortress of Pirna under Frederick von Rutowski. The Saxons hoped to receive relief from the Austrian army which was across the border in neighbouring Bohemia under Marshal Browne.
+
+Following the Battle of Lobositz the Austrians withdrew, and tried to approach Pirna by a different route but they failed to make contact with the defenders. Despite a Saxon attempt to escape by crossing the River Elbe, it soon became apparent that their position was hopeless. On 14 October Rutowski concluded a capitulation with Frederick.
+
+ORDER: Take all VHs, prevent escaping the Saxon HQ cavalry unit and keep your MSU alive.
+
+NOTE: The Supply Base Camp and Citadel units resupply all adjacent friendly units.
+
+scenario designer: Csaba (lvjtn)

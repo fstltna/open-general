@@ -1,0 +1,214 @@
+Fa11-Haegglunds Mottis
+I/RflRgt 367/168 RflD
+II/RflRgt 367/168 RflD
+III/RflRgt 367/168 RflD
+Aty Rgt 453/168 RflD
+Hw Rgt 392/168 RflD
+AT Bn 220/168 RflD
+Tk Bn 456/168 RflD
+Tk Bn 378/168 RflD
+I/RflRgt 462/168 RflD
+II/RflRgt 462/168 RflD
+III/RflRgt 462/168 RflD
+I/RflRgt 402/168 RflD
+II/RflRgt 402/168 RflD
+III/RflRgt 402/168 RflD
+chem Tk Bn 201/18 RflD
+I/RflRgt 205/18 RflD
+II/RflRgt 205/18 RflD
+III/RflRgt 205/18 RflD
+Tk Bn 381/18 RflD
+Hw Rgt 12/18 RflD
+I/RflRgt 316/18 RflD
+II/RflRgt 316/18 RflD
+III/RflRgt 316/18 RflD
+AT Rgt/LVI. Corps
+Aty Rgt 3/18 RflD
+I/RflRgt 97/18 RflD
+II/RflRgt 97/18 RflD
+III/RflRgt 97/18 RflD
+AT Bn 64/18 RflD
+KTR 13/13 Div
+Kev Os 13/13 Div
+JR 37/13 Div
+JR 38/13 Div
+JR 39/13 Div
+ErP 9
+ErP 8
+KTR 12/12 Div
+JR 34/12 Div
+JR 35/12 Div
+JR 36/12 Div
+Kev Os 12/12 Div
+Eng Bn 215/168 RflD
+Eng Bn/18 RflD
+lt Det/168 RflD
+lt Det/18 RflD
+Mrt Bn/168 RflD
+Mrt Bn/18 RflD
+Mg Bn/18 RflD
+Mg Bn/168 RflD
+Tk Bn 76/34 TkD
+Tk Bn 82/34 TkD
+Tk Bn 83/34 TkD
+II/39 SBAP
+I/21 DBAP
+III/39 SBAP
+Syskyjaervi
+Syskyjaervi
+Varpajaervi
+Varpajaervi
+Varpajaervi
+Varpajaervi
+Uuksunjoki
+Syskyjaervi
+Syskyjaervi
+Syskyjaervi
+Syskyjaervi
+Syskyjaervi
+Syskyjaervi
+Varpajaervi
+Varpajaervi
+Varpajaervi
+Uuksunjoki
+Syskaenjoki
+Syskyjaervi
+Syskyjaervi
+Syskyjaervi
+Syskyjaervi
+Syskyjaervi
+Syskyjaervi
+Varpajaervi
+Uuksunjoki
+Uuksunjoki
+Syskaenjoki
+Syskyjaervi town
+Syskyjaervi town
+Syskyjaervi
+Haahka
+Haahka
+Uuksunjoki
+Syskaenjoki
+Syskyjaervi town
+Syskyjaervi town
+Uuksunjoki
+Lake
+Uuksunjoki
+Uuksunjoki
+Uuksunjoki
+Uuksunjoki
+Uuksunjoki
+Uuksunjoki
+Uuksunjoki
+Pyhaejaervi
+Kotajaervi
+Kotajaervi
+Lake
+Uuksunjoki
+Pyhaejaervi
+Pyhaejaervi
+Pyhaejaervi
+Kotajaervi
+Uuksunjoki
+Pyhaejaervi
+Pyhaejaervi
+Pyhaejaervi
+Kotajaervi
+Kotajaervi
+Kotajaervi
+Uuksunjoki
+Pyhaejaervi
+Pyhaejaervi
+Pyhaejaervi
+Kotajaervi
+Kotajaervi
+Uuksunjoki
+Pyhaejaervi
+Pyhaejaervi
+Pyhaejaervi
+Kotajaervi
+Uuksunjoki
+Vuortonajoki
+Pyhaejaervi
+Pyhaejoki
+Uuksunjoki
+Vuortonajoki
+Vuortonajoki
+Vuortonajaervi
+Vuortonajoki
+Pyhaejoki
+Saaksjaervi
+Saaksjaervi
+Uuksunjoki
+Vuortonajoki
+Vuortonajoki
+Vuortonajaervi
+Vuortonajaervi
+Vuortonajaervi
+Vuortonajoki
+Alalavaj
+Saarij
+Saaksjaervi
+Rajal
+Uuksunjoki
+Vuortonajoki
+Vuortonajoki
+Vuortonajoki
+Vuortonajaervi
+Vuortonajoki
+Vuortonajoki
+Alalavaj
+Saarij
+Saaksjaervi
+Saaksjaervi
+Saaksjaervi
+Uomaa
+Uuksunjoki
+Vuortonajaervi
+Vuortonajoki
+Vuortonajoki
+Alalavaj
+Saaksjaervi
+Uomaa
+Uomaa
+Uomaa
+Uomaa
+Uuksunjoki
+Lemetti
+Uomaslamp
+Uomaa
+Uuksunjoki
+Uuksunjoki
+Lemetti
+Lemetti
+Ylae Lavajaervi
+Uomaslamp
+Uomaslamp
+Uuksunjoki
+Uuksunjoki
+Mustaoja
+Ylae Lavajaervi
+Uuksunjoki
+Uuksunjoki
+Raemeenoja
+Mustaoja
+Uuksunjoki
+Uuksunjoki
+Raemeenoja
+Mustaoja
+Uuksunjoki
+Uuksunjoki
+Uuksunjoki
+Lake
+Raemeenoja
+Mustaoja
+Uuksunjoki
+Uuksunjoki
+Raemeenoja
+Raemeenoja
+Mustaoja
+Uuksunjoki
+Uuksunjoki
+Nietjaervi
+Mustaoja
+Louhij

@@ -1,0 +1,24 @@
+November 1942
+
+
+Version: 3.1
+Equipment: LatinGeneral's efile (playtested using version 7.57)
+Number of Scenarios/Longest Path: 15/15
+Player Country: Germany
+Campaign Designer: Maarten Folkerts
+Campaign Converter: Jan Hedstrom (aka PzManiac)
+
+Please read the readme first for installation instructions, particularly if you are unfamiliar with user-made campaigns. 
+
+The Campaign...
+November 1942 was a turning point in the war. The Germans made some grave strategic errors. In this campaign OKW decides to send three divisions originally meant to be send to Paulus to send instead to bolster part of the Romanian front line north of Stalingrad.
+
+Campaign History
+Version 3.0 This is a conversion of Maarten's original campaign that used the BP efile.
+Version 3.1 This campaign version is an updated version of Maarten's original campaign where the late war scenarios have been redesigned and move to other maps.
+Thanks to Maarten for letting me convert his campaign..
+
+Advice to players
+Veteran players should play this campaign at 50, experienced players at 75-100, newbies at 125-150.
+
+Jan Hedstrom, 12/2010

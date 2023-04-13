@@ -1,0 +1,9 @@
+Cambrai - deutschen Gegenangriff - November 30, 1917
+
+After initial success, the British offensive at Cambrai has stalled. We are ready for a counterattack. The primary goal is to surround and destroy multiple British divisions. The secondary goal is to take command of the lost positions of the Siegfriedstellung.
+
+Take command of Gruppe Arras, attacking from the North-West. Gruppe Caudry will attack in the center and - the largely off-map - Gruppe Busigny from the South-West.
+
+Player orders:
+- Destroy 50 British Must-Survive units to win.
+- Capture the three British flagged hexes in the South for extra rewards. 

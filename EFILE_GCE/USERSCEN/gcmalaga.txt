@@ -1,0 +1,21 @@
+General, los ojos del Duce y de toda Italia están puestos en usted, debemos demostrar a Europa entera como se conduce una guerra moderna. Debe usted ejecutar  una ofensiva relámpago contra Málaga, que servirá de base a Italia para sus operaciones futuras en todas direcciones.
+
+Buena suerte General.
+
+Efile: GCE
+Mapa: Malaga
+Diseño Mapa: Guille
+Diseño escenario: Guille
+Duración máxima de escenario: 14 Turnos
+
+
+General, the eyes of the Duce and of all of Italy are upon you; we must show all of Europe how to conduct a modern war. You must start a lightning attack against Malaga, so it will be our center for future operations.
+
+Good luck, General.
+
+Efile: GCE
+Map: Malaga
+Map design: Guille
+Scenario design: Guille
+Maximum scenario lenght: 14 Turns
+

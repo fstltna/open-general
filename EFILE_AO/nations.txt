@@ -1,0 +1,42 @@
+* Read carefully before editing!
+* Each line can be any lenght, but only first 96 chars will be read
+* Emply lines and those starting with * will be skipped.
+* Can replace any text but do no change the sequence of lines
+*-------------------------------------------------------------------
+* Sides
+Faction B
+Faction A
+
+* Nations
+All Nations
+United States
+Soviet Union
+Giant Ants
+Nazi Germany
+Pegasus
+Confederate States
+Cult of the New Dawn
+Unknown Force
+Japanese Empire
+Poland
+German-American Union
+Socialist States
+Ashes
+Arm
+Phoenix Guard
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???

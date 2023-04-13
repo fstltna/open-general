@@ -1,0 +1,12 @@
+Alsen
+
+Jun 29th, 1864
+
+In May, a peace conference started in London. Considering that the Danish Army had nearlly collapsed, the German allies offered Denmark quite generous conditions, which guaranteed that Northern Schleswig would remain under Danish control. However, the Danes didn't accept those terms, and in June the negotiations failed.
+
+On June 26 the ceasefire ended, and Prussia decided to occupy the island of Alsen, crossing the Alsensund by surprise. After the battle at Düppel the Danish forces had retreated to Alsen, and they had built a network of trenches and gun emplacements along the northern coast of the island. Nevertheless, those fortifications were much weaker than the ones at Missunde or Düppel, so the Prussians believed that they could overcome them without too many problems.
+
+The main difficulty for the Prussians would be the Danish ironclad Rolf Krake. She was at the Augustenborg Fjord and, if she spotted the Prussian boats, disembarking on the northern shore of the island could become an impossible task.
+
+Victory conditions:
+- Take all the VHs

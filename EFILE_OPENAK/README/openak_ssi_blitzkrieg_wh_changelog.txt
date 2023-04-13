@@ -1,0 +1,224 @@
+Changelog
+
+3.03
+- Correction made to the readme.
+- Depot unit with no ammunition corrected in the Savannah scenario.
+
+3.02
+- Spotting range attachment malus changed to -1 movement.
+- Fuel pods attachment malus changed to -1 initiative, bonus increased to 10.
+- Returned base hex prestige for Sedan to original value.
+- Increased base hex prestige for later scenarios.
+- Changed Dunkirk hex from a port hex to a city hex.
+- Links to the JP Panzer's forums removed from documentation.
+- Changed the fast builder malus to -2.
+- Changed the +2 AD/AA attachment malus to -2.
+- Removed the chance for a prototype from a number of scenarios, including all of the final scenarios and increased the prototype time frame to 6 months for the early Windsor scenario, and Savannah.
+- Again in the Dunkirk scenario, in the interests of historical accuracy, changed all the British flags to Belgian flags for the objective hexes.
+- In the interests of historical accuracy changed many of the units defending the retreat of British troops in the Dunkirk scenario from U.K. to French.
+- Changed fast entrench malus to -2.
+- Increased the number of turns to a BV in Sedan to 12, to match the original scenario design.
+
+3.01
+- Prestige available during Sedan scenario significantly decreased.
+- Changed bunker buster malus to -2.
+- Changed recon attachment malus to reduction in ammo of 2.
+- Changed fuel pods malus to reduction in initiative.
+- Changed anti-tank attachment malus to reduction in ammo of 2.
+- Changed special ammo attachment malus to reduction in ammo of 2.
+- Reduced Windsor 1941 default experience to 50.
+- Option for prototypes removed from a few scenarios where the prototypes were mostly boring and/or unhelpful.
+- Most late campaign scerios now have a default purchase and prototype experience level of 150.
+- Reduced movement bonus for speed attachment from 2 to 1. Changed malus from -1 initiative to -2 ammo.
+- Set campaign and scenarios to use A.I. Version 3.0, if available.
+- Removed reference to missing GERMWIN file.
+- Changed the campaign files names prefix to consolidate the files and allow for scripted backup.
+- Added some roads to centre of Windsor map.
+- Victory hexes are now objectives for both sides to encourage defenders to defend and to prevent "end run" brilliant victories for defenders.
+- Added a copy of the Weak Hand rules to the README folder.
+- Added an 8,8 Flak core unit to Madrid.  Every German armoured division should have 8,8 Flak.
+- Deployment hex terrain type change in Sedan.
+- Name of README and CHANGELOG changed to reflect new campaign name.
+- 10% prestige penalty for a loss.  5% prestige penalty for a tactical victory.
+- The most significant changes in this version are to prestige caps and prestige rewards.  I have attempted to make prestige caps, prestige rewards, including prestige rewarded per turn and prestige available on the map, more mathematically based.  This is a massive change.  Goals include making capturing secondary objectives and prestige management in general more meaningful.
+- Added one turn to all scenarios.
+- Free core unit and leader triggers added to Thermopylae.
+- Fixed map terrain error in Thermopylae.
+- Defending fighter units now open the scenario providing air cover over significant targets.
+- The campaign now requires Open General version 0.90.52.19 or later.
+- Added a free core fighter unit to Madrid and adjusted early campaign auxilliary units.
+- Reworked entrenchment levels throughout the campaign.
+- More work done to allow scenarios to be played defensively against the a.i.
+- Base unit experience of 50 for the Axis added to Thermopylae.
+- Tightened up prototype time frames.
+- Fixed randomized experience in Malta and elsewhere.
+- Fixed some custom music intro settings.
+- Fixed initial moves left, ammunition and fuel throughout the campaign.
+- Implemented advanced supply rules.  Ground units can be only be supplied or reinforced adjacent to city hexes or depot units.  Depot units use one supply point for every unit they resupply.
+- Unit experience adjusted througout the campaign.
+- Added Allied units to Dunkirk.
+- The campaign uses green replacements.  Green replacement cost is normal unit cost, elite replacement cost is 150%.  20% of green replacements will be at the unit's experience level.
+- Units will not auto refit between scenarios.  Replacements must be purchased.
+- Units now have an experience cap of 500.
+- Critical hit chance has been increased for naval combat by a factor of 2.
+- Airfield and bridges cost increased by a factor of 10.
+- Multiple attackers decrease evade chance increased by a factor of 10.
+- Air defence and flak units can only intercept or defend once per turn, unless they are flak with a leader.  Air defence and flak units will intercept any unit that ends it's turn adjacent to them.
+- Unit experience gained in combat will decrease by 15% per bar.
+- Units lose 10% of their experience when upgrading.
+- Prototype units cannot be sold.
+- README, CHANGELOG, game text and campaign introduction updates.
+
+2.16
+- Attachments now count towards army value.
+- Can only build airfields and bridges during a scenario.
+- Pontoon bridges now have the same movement cost as roads.
+- Naval units no longer block bridges.
+- Upgrade on supply hexes enabled for standalone scenarios and head to head play.
+- README and campaign introduction updates.
+
+2.15
+- Some tactical notes removed from the introduction and README.
+- Minor README tactical note corrections.
+- Changed Windsor 1940 free prototype to FW 190A-1 to prevent situation where player could gain two Me 109F-2's as prototypes in the same scenario.
+- This campaign now requires Open General version 0.90.52.06 or newer.
+
+Known Issues:
+- Some research has been done but for the most and some attention has been payed to historical accuracy but a great deal more work could be done.  Note also that fun and playability always trump historical accuracy.
+- While there has been a lot of play testing, most of the scenarios have not been tested as head to head scenarios.
+
+2.14
+- Updated recommended versions for game executable and efile.
+- Fixed ocean terrain error in Savannah.
+- Corrected version info in intro text.
+
+2.13
+- Tightened victory conditions for many scenarios to make head to head game play more viable.
+- Loosened the victory conditions for Volokolamsk and Lillehammer.
+- Ranged and air attacks can no longer be evaded.
+- Minor changes to deployment hexes in Volokolamsk.
+- Changed the auxillary Fw 190-A1 fighters in Operation Barbarossa to fighters that actually served during Operation Barbarossa.
+- This campaign now requires Open General version 0.90.42.7 or newer.
+
+2.12
+- Lillehammer stupidity fixed - unit that should have been in play from the start of the scenario was set to reinforce.
+- Windsor intro file corrected.
+
+2.11
+- a.i. tweaking.
+- This campaign now requires Open General version 0.90.42.0 or newer.
+- Gentle touch of the nerf bat for Windsor 1940.
+- Relaxed victory conditions for Pursuit to Tobruk.
+- Out of bounds units corrected.
+- Re-enabled parachute unit deploy over ocean hexes.
+- Relaxed victory conditions for Thermopylae.
+- Corrected Suomussalmi map error.
+- German forces for the standalone Windsor '40 scenario weakened somewhat.
+
+Known Issues:
+- Most ground units have not been checked for remaining move.
+- Some research has been done but for the most and some attention has been payed to historical accuracy but a great deal more work could be done.  Note also that fun and playability always trump historical accuracy.
+- While there has been a lot of play testing, none of the scenarios have been tested as head to head scenarios.
+
+2.1
+- Fixed bonus unit not behaving as free core.
+- Cleaned up the campaign flow - I hope...
+- Fixed prototype time frame screw ups...
+- Turned off prototypes for Volokolamsk because the only prototype that falls in the time frame sucks...
+- Tweaked Allied unit experience and overstrength for Windsor 1940.
+- Hold position values tweaked for defending units in many scenarios.
+- Halved the prototype time frames, changed the early Windsor trigger prototype to match the appropriate prototype frame.
+- Tweaked Allied unit experience and overstrength for Lillehammer.
+- Took a bar of experience off the Republican armoured unit in the Madrid scenario.
+- The scenarios that had base experience set to 100 (Windsor 1940, Savannah, Oak Ridge) for the Axis have had base experience set to 150 to represent the average of the random experience added to all a.i. and auxillary units.
+- Scenarios where the Allies had a base experience of 100 have had that changed to 50.
+- The a.i. for several of the late game scenarios has been set to aggressive.  This will make them more challenging.
+- Savannah has been reworked to for playability and plausibility.
+- This campaign now requires Open AK 0.314b or later.
+- Additional units inside zone of control will make it more difficult to evade for units that have that ability.
+- Balance tweaks - early campaign scenario difficulty lowered, early campaign allied air units and early Operation Barbarossa Soviet air units weakened.
+- Made all the core forces match the main campaign character's nationality.
+- Enabled upgrade and overstrength on supply hexes.
+- Extensive a.i. tweaks, including recent a.i. features such as objective hexes.
+- Although it is untested, it should be theoretically possible to play player 2 in scenarios against the a.i.
+- This campaign now requires Open General version 0.90.39.0 or newer.
+- Randomized unit experience by adding 0-99 xp to allow for more unit development during scenarios.
+- Set the a.i. for every scenario to v. 2.0.
+- The victory condition for the Race to Dunkirk scenario has been set to exit units for the Allied player in addition to defending the objective hexes.
+- Fixed some naval transport issues.
+- Changed some UK units to Canadian in Caen scenario.
+
+Known Issues:
+- See notes for version 2.0.
+
+2.0
+- The old SSI Blitzkrieg background music will now play for some of the scenarios.
+- Open General version 0.90.33.0 or newer is now necessary for this campaign to play as intended.
+- Version 0.306 or newer of the Open AK efile is now necessary for this campaign to play as intended.
+- Introduced some historical elements to the Caen scenario.
+- In scenarios with ports and/or naval units all ocean hexes within two of land have been changed to shallow sea.
+- Ciechanow Polish airfield anomaly fixed.
+- Parachute units now drop during the return to base phase for air units.
+- Parachute units can no longer operate during bad weather.
+- Enabled critical hits for naval units.
+- Reinforcements arrive at the start of the player's turn, as opposed to at the start of the global turn.
+- Ice cream and cake for taking brilliant victory in Race to Dunkirk.
+- Enabled and added attachments.
+- Added significant strategic hints and information to the campaign README file, as well as in specific scenario introductions.
+- Changed victory condition time frames for campaign track decision scenarios to a tolerance of one turn per level.
+- Adjusted end of scenario prestige awards.
+- Adjusted prestige caps.
+- Both the standalone scenarios and the campaign have now been tested at 100/100 difficulty ratings - previously I had tested the campaign at what I normally played the original modified version by Kristjan Ambroz, which was 50/200.  So the difficulty levels should now be much more sensible.
+- New major version number due to the extent of the changes.
+- A few text files no longer in use have been removed.
+- Fuel, ammo and remaining move fixes for units which have changed.
+- Fixes to settings which affect a.i., such as entrenchment and hold status, especially for air units and armoured/mechanized units.
+- Changed the added mission range from 12 to 16 to account for greater distance between airfields in previously untested scenarios.
+- I don't like the number five.
+- Made most of the overstrength units consistent with overstrength unit rules.
+- Made the turns per day consistent throughout the campaign.
+- Adjusted prototype time frames.
+- Set "punishment" scenarios as "no prototype" and removed the chance for a brilliant victory.  Brilliant victories become victories, etc.  This makes those scenarios more challenging.
+- All of the scenarios for every campaign track have now been converted and tested.
+- Many more scenario changes to adjust balance and difficulty for the campaign as well as standalone scenario gameplay.
+- More map road and bridge fixes.
+- Extensive standalone scenario testing, and similarly extensive standalone and head to head scenario adjustments.
+
+Known Issues:
+- Most ground units have not been checked for remaining move.
+- Some research has been done but for the most and some attention has been payed to historical accuracy but a great deal more work could be done.  Note also that fun and playability always trump historical accuracy.
+- While there has been a lot of play testing, changes have been made to scenarios that have not been thoroughly tested - especially the standalone scenarios.  None of the scenarios have been tested as head to head scenarios.  I did not play Konrad through to the end.  I like surprises too...
+
+1.2
+- Minor changes to compensate for map changes that increased difficulty.
+- Fixed/changed miscellaneous map road errors/interpretations.
+
+1.1
+- Added more missing text files and renamed some text files that were missed in 1.0.
+- Made fronts and factions much more specific.
+- Edited almost every scenario to clean up details such as unit facing and for balance and variety in units, as well as cleaned up many more anachronistic units and fixed issues such as mismatched transports and units with incorrect nationality.  The campaign now passes the check units functionality of Open Suite.
+- Updated to version 0.297 of the Open AK efile.
+- More changes to make the scenarios playable as standalone scenarios.
+- Adjusted prestige per turn to compensate for more challenging a.i. - should also make scenarios more balanced for head to head play.
+- Cleaned up maps with roads not indicated in map art.
+- Made all the scenarios visible and available for standalone play.
+- Rewrote the triumphant ending to the campaign.
+
+Known Issues:
+- Scenarios on campaign tracks not commonly taken have not been given as much attention, or tested, nor have standalone scenarios been tested either against the a.i. or in head to head human play.
+- Unit allocation has not been researched and is therefore not likely to be remotely realistic.
+
+1.0
+- Added more missing text files, and renamed all the text files so that they no longer have the same name as the original SSI Blitzkrieg files.
+- Edited almost every scenario to make them more balanced, interesting, and to remove anachronistic units.
+- Made scnarios visible again as standalone scenarios, and tried to make them all playable as standalone scenarios.
+
+0.5  Deleted obsolete files, added missing text files.
+
+0.4  More fronts and factions tweaking and, hopefully, errors corrected.
+
+0.3  Made the scenarios invisble in the scenario list as they are not designed to be played as individual scenarios.
+
+0.2  Added weather, front and faction changes.
+
+0.1  Initial release.

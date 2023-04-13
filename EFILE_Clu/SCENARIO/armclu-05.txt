@@ -1,0 +1,88 @@
+Force Recon
+I/FF
+V/FF
+Pio-SperrBat.zbV.
+FF
+Posten/FF
+II/PzGrenRgt/Langkeit
+2/I/PzArt.Rgt./Kmk
+PzJg.Kpn/Kmk
+39 Rfl Rgt/4 RflD
+101 Rfl Rgt/4 RflD
+220 Rfl Rgt/4 RflD
+102 Rfl Rgt/41 RflD
+439 Rfl Rgt/41 RflD
+244 Rfl Rgt/41 RflD
+102 Rfl Rgt/41 RflD
+38 AT Bde/8 Gds Army
+Snow
+Zerbicke
+Kalenzig
+Muehlenfuenftel
+Neu Wilkersdorf
+Oder
+Schaumburg
+Drewitzer Theerofen
+Warthe
+Yorkstown-Schwarzsee
+Drewitz
+Kuestrin
+Alte Oder
+Schaeferei
+Bleyen
+Festung Kuestrin
+Gorgast
+Kuestrin-Kietz
+Sonnenburg
+Fort Gorgast
+Manschnow
+Neu Schernow
+Neu Manschnow
+Schernow
+Rathstock
+Reitwein
+Saepzig
+Stenzig
+Hathenow
+Reitweiner Sporn
+Goeritz
+Spudlow
+Podelzig
+Klessin
+Laessig
+Seefeld
+Frauendorf
+Klein Rade
+Gohlitz
+Gross Rade
+Lebus
+Zerbow
+Leissow
+Starkau
+Neu Lebus
+Kohlow
+Trettin
+Bischofsee
+Zohlow
+Kliestow
+Neu Bischofsee
+Drenzig
+Neu Zohlow
+Frankfurt an der Oder
+Dammvorstadt
+Kunersdorf
+Neuendorf
+Scout/8 Gds Army
+19 Gds Mech Rfl Bde/8 Gds Mech Corp
+8 Gds Mcycl Bn/8 Gds Mech Corps
+820 Rfl Rgt/117 RflD
+240 Rfl Rgt/117 RflD
+275 Rfl Rgt/117 RflD
+222 AT Bn/117 RflD
+322 Aty Rgt/117 RflD
+69 Gds Tk Rgt/19 Gds Mech Rfl Bde
+405 Gds Mrt Bn/8 Gds Mech Corps
+1 Gds Tk Bde/8 Gds Mech Corps
+45 Gds Tk Bde/11 Gds Tk Corps
+SapKpn/19 Gds Mech Rfl Bde
+SapKpn/8 Gds Mech Corps

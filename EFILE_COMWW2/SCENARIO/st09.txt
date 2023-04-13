@@ -1,0 +1,124 @@
+Little Saturn
+SNOW/SAND
+Don River
+CLEAR
+FOREST
+STREAM
+Podgornaja River
+Staraja Kriusha
+Verkhnij Mamon
+Novaja Kalitva
+Zuravka Airfield
+Zuravka
+Village
+Boguchar River
+Boguchar
+Kazanskaja
+Kantemirovka
+Millerovo
+Antonovka
+Railroad
+Pond
+Krasnovka
+Destroyed Airfield
+Krasnovka Airfield
+Bolsinka
+Tikhaja River
+Rally Point
+Chir River
+2H/2C/8
+81/52To/8
+79/9Pa/8
+52/5Ra/8
+1E/-/8
+32/3Sf/8
+2/-/8
+9/-/8
+8/3Ce/8
+31/3Sf/8
+63E/-/8
+2H/2C/8
+13/3Sf/8
+1Ft/CSIR
+5Cv/3Ce/8
+51/5Ra/8
+21/2Co/8
+22/2Co/8
+8/-/8
+2/2Co/8
+3/3Ce/8
+6/3Ce/8
+82/52To/8
+82/52To/8
+140/27Pz/XXIX
+27/27P/29K
+127/27P/29K
+526/298/29K
+1Ft/4AF
+8/-/8
+1/-/1G
+1G/-/1G
+2G/-/1G
+25/25T/1G
+1225/25T/1G
+125/125/1G
+24/24T/1G
+21/1GM/1G
+124/124/1G
+31/1GM/1G
+1124/24T/1G
+1G/-/1G
+1BE/25T/1G
+1E/24T/1G
+18/18T/1G
+6/-/1G
+6/-/1G
+1125/25T/1GA
+122/416/1GA
+122/41G/1G
+5/5C/1G
+1/1/1G
+153/153/1G
+126/41G/1G
+1253/153/1G
+3H/-/1G
+100/35G/1G
+18/18T/1G
+102/35G/1G
+112/35G/1G
+122/41G/1G
+5/5C/1G
+15/5C/1G
+122/416/1GA
+122/416/1GA
+3H/-/1G
+110C/5C/1G
+110C/5C/1G
+5/5C/1G
+1G/-/1G
+18B/-/1G
+1Ft/16AA
+2Ft/16AA
+1TB/16AA
+110C/5C/1G
+111/25T/1GA
+126/28T/1GA
+4/24T/1GA
+54/24T/1GA
+130/24T/1GA
+126/28T/1GA
+1125/25T/1GA
+170/18T/1GA
+1125/25T/1GA
+11/1GM/1GA
+1225/24T/1GA
+388/172/1GA
+514/172/1GA
+1E/24T/1G
+124/415/1GA
+126/416/1GA
+78/18T/1GA
+1TB/16AA
+1Ft/16AA
+1/-/1G
+2Ft/16AA

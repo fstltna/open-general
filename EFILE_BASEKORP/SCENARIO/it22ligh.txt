@@ -1,0 +1,228 @@
+El Alamein - Operation Lightfoot
+Mare Nostrum
+Sidi Abd el Rahman
+Coastal Road
+Trento [XXI] depl.
+Tel el Eisa
+Sabratha [XXI] depl.
+Kidney Ridge
+Tel el Mukh Khad
+Qattara Track
+Brescia [X] depl.
+Miteiriya Ridge
+Pavia [X] depl.
+El Alamein
+Deir el Abyad
+El Taqa Plateau
+Alem el Onsol
+Springbok Track
+Ruweisat Ridge
+Pt. 64
+Deir el Shein
+Ariete [XX] depl.
+Alam el Halfa Ridge
+Trieste [X] depl.
+Alam Nayid
+Qaret el Abd (Kaponga)
+Littorio [X] depl.
+Kaponga Box
+Deir el Munassib
+Ragil Depression
+Naqb el Khadim
+Qarrat el Himeimat
+Samaket Gabata
+2/8 FldRAA/-/9Aus [XXX]
+2/7 FldRAA/-/9Aus [XXX]
+2/12 FldRAA/-/9Aus [XXX]
+2/2 MG/-/-/9Aus [XXX]
+3ATkRAA/-/9Aus [XXX]
+2/28 /-/24/9Aus [XXX]
+2/43 /-/24/9Aus [XXX]
+2/32 /-/24/9Aus [XXX]
+2/24 /-/26/9Aus [XXX]
+2/48 /-/26/9Aus [XXX]
+2/23 /-/26/9Aus [XXX]
+2/17 /-/20/9Aus [XXX]
+2/15 /-/20/9Aus [XXX]
+2/13 /-/20/9Aus [XXX]
+7/-/- [XXI]
+III/125PzGren/-/164Le [DAK]
+I/125PzGren/-/164Le [DAK]
+II/125PzGren/-/164Le [DAK]
+I/62/-/102Trento [XXI]
+III/62/-/102Trento [XXI]
+II/62/-/102Trento [XXI]
+III/61/-/102Trento [XXI]
+I/61/-/102Trento [XXI]
+I/202/-/164Le [DAK]
+II/202/-/164Le [DAK]
+I/382/-/164Le [DAK]
+III/382/-/164Le [DAK]
+II/382/-/164Le [DAK]
+II/433/-/164Le [DAK]
+I/433/-/164Le [DAK]
+148FldRA(att)/-/9Aus [XXX]
+46RTR(att)/-/9Aus [XXX]
+126FldRA/-/51Highland [XXX]
+127FldRA/-/51Highland [XXX]
+128FldRA/-/51Highland [XXX]
+78FldRA(att)/-/51 [XXX]
+61ATk/-/51Highland [XXX]
+1/7Mdx/-/51Highland [XXX]
+5/BW/153/51Highland [XXX]
+5/7Gdn/153/51Highland [XXX]
+1/Gdn/153/51Highland [XXX]
+1/BW/154/51Highland [XXX]
+7/BW/154/51Highland [XXX]
+7ASH/154/51Highland [XXX]
+2/Sea/152/51Highland [XXX]
+5CamH/152/51Highland [XXX]
+50RTR(att)/-/51Highland [XXX]
+78FldRA(att)/-/2NZ [XXX]
+98FldRA(att)/-/2NZ [XXX]
+4FldRNZA/-/2NZ [XXX]
+5FldRNZA/-/2NZ [XXX]
+6FldRNZA/-/2NZ [XXX]
+7ATkRNZA/-/2NZ [XXX]
+28/-/-/2NZ [XXX]
+21/-/5/2NZ [XXX]
+22/-/5/2NZ [XXX]
+23/-/5/2NZ [XXX]
+24/-/6/2NZ [XXX]
+25/-/6/2NZ [XXX]
+26/-/6/2NZ [XXX]
+27/-/-/2NZ [XXX]
+7,64,69MedRA(att)/-/9Aus [XXX]
+7,64,69MedRA(att)/-/1SA [XXX]
+1FldRSAA/-/1SA [XXX]
+4FldRSAA/-/1SA [XXX]
+7FldRSAA/-/1SA [XXX]
+PresidentSteyn/Res/1SA [XXX]
+1ATkRSAA/Res/1SA [XXX]
+8RTR(att)/Res/1SA [XXX]
+1/NatalMntdRifl./2/1SA [XXX]
+1/CapeTownHigh./2/1SA [XXX]
+1/2 FrontierForce/2/1SA [XXX]
+1/RandLI/3/1SA [XXX]
+1/RoyalDurbanLI/3/1SA [XXX]
+1/Imp.LightHorse/3/1SA [XXX]
+2/Botha/Res/1SA [XXX]
+202/-/-/164Le [DAK]
+Pt.29
+Pt.33
+Aberdeen
+Stirling
+Nairn
+Bays/2/1Arm [X]
+9L/2/1Arm [X]
+10H/2/1Arm [X]
+12L/2/1Arm [X]
+7/RB/7(Mot)/1Arm [X]
+2/KRRC/7(Mot)/1Arm [X]
+2/RB/7(Mot)/1Arm [X]
+King Force/-/7(Mot)/1Arm [X]
+3H/9/2NZ [XXX]
+RWY/9/2NZ [XXX]
+War/9/2NZ [XXX]
+11HAC RHA/-/1Arm [X]
+3RTR/8/10Arm [X]
+NSR/8/10Arm [X]
+SY/8/10Arm [X]
+41RTR/24/10Arm [X]
+47RTR/24/10Arm [X]
+45RTR/24/10Arm [X]
+Airfield (bombed)
+Huebner II/FJgrRgt5/Ramcke
+II/187/-/185Folgore [X]
+IX/187/-/185Folgore [X]
+IV/187/-/185Folgore [X]
+I/185/-/185Folgore [X]
+185/-/185Folgore [X]
+III/1Celere/-/- [X]
+III/26/-/17Pavia [X]
+IV/26/-/17Pavia [X]
+I/21/-/101Trieste [XX]
+Mrt/-/186/-/185Folgore [X]
+Mrt/-/187/-/185Folgore [X]
+ATk/-/186/-/185Folgore [X]
+ATk/-/187/-/185Folgore [X]
+VII/RuspoliGp/-/185Folgore [X]
+VIII/RuspoliGp/-/185Folgore [X]
+II/28/-/17Pavia [X]
+V/186/-/185Folgore [X]
+VI/186/-/185Folgore [X]
+1./33/-/-/15Pz [DAK]
+3./33/-/-/15Pz [DAK]
+74FldRA/-/50Inf [XIII]
+6GH/69/50Inf [XIII]
+5EY/69/50Inf [XIII]
+1/7Queens/131/44Inf [XIII]
+2./33/-/-/15Pz [DAK]
+4RHA/22/7Arm [XIII]
+97FldRA/22/7Arm [XIII]
+3RHA/4Lt/7Arm [XIII]
+65ATk/-/7Arm [XIII]
+1/RB/22/7Arm [XIII]
+1/KRRC/4Lt/7Arm [XIII]
+1RTR/22/7Arm [XIII]
+5RTR/22/7Arm [XIII]
+4CLY/22/7Arm [XIII]
+Greys/4Lt/7Arm [XIII]
+4/8 H/4Lt/7Arm [XIII]
+2DY/4Lt/7Arm [XIII]
+1/1FFL/- [XIII]
+I/-/1FFL/- [XIII]
+II/-/1FFL/- [XIII]
+BP1/-/1FFL/- [XIII]
+SAND
+1./I/8/-/15Pz [DAK]
+2,3,4./I/8/-/15Pz [DAK]
+II/8/-/15Pz [DAK]
+I/115/-/15Pz [DAK]
+II/115/-/15Pz [DAK]
+III/115/-/15Pz [DAK]
+2./33/-/-/15Pz [DAK]
+2./33/-/-/15Pz [DAK]
+I/33/-/15Pz [DAK]
+7,8./III/33/-/15Pz [DAK]
+9./III/33/-/15Pz [DAK]
+10./-/33/-/15Pz [DAK]
+33/-/-/15Pz [DAK]
+707(att)/-/-/15Pz [DAK]
+3./617(att)/-/-/15Pz [DAK]
+I/43LW(att)/-/15Pz [DAK]
+1./I/5/-/21Pz [DAK]
+2,3,4./I/5/-/21Pz [DAK]
+II/5/-/21Pz [DAK]
+I/104/-/21Pz [DAK]
+II/104/-/21Pz [DAK]
+III/104/-/21Pz [DAK]
+1./39/-/-/21Pz [DAK]
+2./39/-/-/21Pz [DAK]
+617(att)/-/-/21Pz [DAK]
+I/155/-/21Pz [DAK]
+II/155/-/21Pz [DAK]
+III/155/-/21Pz [DAK]
+10./-/155/-/21Pz [DAK]
+200/-/-/21Pz [DAK]
+708(att)/-/-/21Pz [DAK]
+I/18LW(att)/-/21Pz [DAK]
+4./II/5/-/21Pz [DAK]
+1,2,3./II/5/-/21Pz [DAK]
+4./II/8/-/15Pz [DAK]
+1,2,3./II/5/-/15Pz [DAK]
+Littorio deployment hex
+Ariete deployment hex
+115/-/90Le [DAK]
+200/-/90Le [DAK]
+361/-/90Le [DAK]
+190/-/-/90Le
+605(att)/-/-/90Le [DAK]
+606(att)/-/-/90Le [DAK]
+1,2./I & 1,2/II /190/-/90Le [DAK]
+1,2./II/190/-/90Le [DAK]
+III/190/-/90Le [DAK]
+190/-/-/90Le [DAK]
+3./I & 3./II /190/-/90Le [DAK]
+3./II/190/-/90Le [DAK]
+11H/4Lt/7Arm [XIII]

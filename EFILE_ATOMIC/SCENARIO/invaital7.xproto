@@ -1,0 +1,51 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 409  '  M36  [ AT  USA]  Cost: 756
+ 415  '  M4-105  [ TK  USA]  Cost: 576
+ 444  '  M4A1-76W  [ TK  USA]  Cost: 744
+ 446  '  M4A3E2  [ TK  USA]  Cost: 588
+ 447  '  M4A3-76W HVSS  [ TK  USA]  Cost: 792
+ 455  '  P-38L Lightning  [FTR  USA]  Cost: 960
+ 459  '  P-47N Thunderbolt  [FTR  USA]  Cost: 1104
+ 468  '  B-25J Mitchell  [ TB  USA]  Cost: 996
+ 677  '  M4A3E2-76W  [ TK  USA]  Cost: 960
+ 999  '  Regular Infantry 44  [INF  USA]  Cost: 132
+1748  '  40 mm / SCR-584 Mobile Radar  [ AD  USA]  Cost: 348
+1766  '  M4A3-75W  [ TK  USA]  Cost: 576
+1767  '  M4A3-76W  [ TK  USA]  Cost: 768
+1774  '  F4U-4 Corsair  [FTR  USA]  Cost: 996
+1780  '  P-61A-10 Black Widow  [FTR  USA]  Cost: 1176
+1961  '  M4A1 D-Day  [ TK  USA]  Cost: 672
+2360  '  P-61B-15 Black Widow  [FTR  USA]  Cost: 1260
+2407  '  M39 81mm Mortar Carrier  [ATY  USA]  Cost: 276
+2871  '  Paratroopers 44  [INF  USA]  Cost: 300
+3209  '  Airborne Scouts 43  [RCN  USA]  Cost: 348
+3519  '  LVT(A)4 Ronson  [ TK  USA]  Cost: 444
+3704  '  MG 44  [FlaK  USA]  Cost: 180
+3922  '  US Marine Corps 44  [INF  USA]  Cost: 300
+3936  '  Mountain 44  [INF  USA]  Cost: 300
+4510  '  P-47D-22 Thunderbolt  [ TB  USA]  Cost: 936
+4516  '  Combat Engineers 44  [INF  USA]  Cost: 324
+4593  '  B-29 Superfortress  [ LB  USA]  Cost: 1224
+4625  '  F4U-1D Corsair  [ TB  USA]  Cost: 948
+4637  '  T40 Whizbang  [ATY  USA]  Cost: 828
+5145  '  National Guard 44  [INF  USA]  Cost: 84
+5164  '  Airborne Engineers 44  [INF  USA]  Cost: 372
+5221  '  LVT(A)4  [ATY  USA]  Cost: 504
+5282  '  Independence Class  [sCV  USA]  Cost: 336
+5555  '  SC-1 Seahawk  [ TB  USA]  Cost: 492
+6150  '  Paramarines 44  [INF  USA]  Cost: 444
+6666  '  Light Infantry 44  [INF  USA]  Cost: 144
+6998  '  Bridging 44  [INF  USA]  Cost: 180
+7005  '  AT Infantry 44  [INF  USA]  Cost: 276
+7342  '  Grenadiers 44  [INF  USA]  Cost: 228
+7845  '  M24 Chaffee  [RCN  USA]  Cost: 624
+7993  '  M1 203mm Gun  [ATY  USA]  Cost: 1992
+7994  '  T34 Calliope  [ATY  USA]  Cost: 888
+8168  '  Seabees Combat Engineers 44  [INF  USA]  Cost: 384
+8313  '  Rangers 44  [INF  USA]  Cost: 420
+9974  '  Mountain Combat Engineers 44  [INF  USA]  Cost: 384

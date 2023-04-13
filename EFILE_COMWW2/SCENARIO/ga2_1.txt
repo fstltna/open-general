@@ -1,0 +1,55 @@
+Zhitomir
+VI/SWF
+I/SWF
+X/TD
+XV/TD
+XX/12A
+V/12A
+III/6A
+II/215
+I/139
+IV/6A
+III/12A
+III/Kv
+IVX/Kv
+VIII/6A
+I/58
+II/44
+II/139
+II/41
+II/97
+I/80
+II/L4
+I/L4
+I/297
+I/9Pz
+II/16Pz
+XI/5SS
+Germania/5SS
+Westland/5SS
+Finnisch/5SS
+Nordland/5SS
+II/9Pz
+Zhitomir
+Berdyciv
+Persotravensk
+Volosiv
+Brusyliv
+Cudniv
+Village
+Popilnja
+Radomysl Airfield
+Berdyciv Airfield
+Kozjaytn
+Neumann/5SS
+Vlasov
+Teterev River
+Captured Airfield
+HQ
+Kozjaytn River
+Abandoned Airfield
+STREAM
+ROUGH
+FOREST
+CLEAR
+HILL

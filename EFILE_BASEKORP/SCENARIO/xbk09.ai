@@ -1,0 +1,51 @@
+'---
+'Config AI file for scenario: xbk09.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=43 items  ' Replacement for default list
+ 382  '  QL  [TPT  United Kingdom]  Cost: 72
+ 383  '  Bren Carrier  [TPT  United Kingdom]  Cost: 216
+1733  '  Wagon  [TPT  United Kingdom]  Cost: 12
+2002  '  MG  [FlaK  Ethiopia]  Cost: 84
+2003  '  75mm M97  [ AT  Ethiopia]  Cost: 96
+2010  '  Muzzleloader  [ATY  Ethiopia]  Cost: 60
+2012  '  Tigray Chitet  [INF  Ethiopia]  Cost: 36
+2014  '  Galla  [INF  Ethiopia]  Cost: 72
+2016  '  Arbenyotch  [INF  Ethiopia]  Cost: 84
+2017  '  Desert Warriors  [INF  Ethiopia]  Cost: 144
+2020  '  Ascari  [INF  Ethiopia]  Cost: 96
+2021  '  Recon Cavalry  [RCN  Ethiopia]  Cost: 84
+2024  '  Horse  [TPT  Ethiopia]  Cost: 12
+2025  '  Elephant  [TPT  Ethiopia]  Cost: 12
+2026  '  Ford A  [TPT  Ethiopia]  Cost: 60
+2027  '  Ba 25  [FTR  Ethiopia]  Cost: 324
+2028  '  Overstrand  [ TB  Ethiopia]  Cost: 288
+2148  '  Cavalry  [INF  South Africa]  Cost: 144
+2183  '  QL  [TPT  South Africa]  Cost: 84
+2184  '  Bren Carrier  [TPT  South Africa]  Cost: 240
+2309  '  QL  [TPT  Australia]  Cost: 84
+2310  '  Bren Carrier  [TPT  Australia]  Cost: 240
+2311  '  Mules  [TPT  Australia]  Cost: 12
+2613  '  Horse  [TPT  United Kingdom]  Cost: 12
+2614  '  C8  [TPT  United Kingdom]  Cost: 84
+2615  '  Carrier  [TPT  United Kingdom]  Cost: 168
+2616  '  MW 15cwt  [TPT  United Kingdom]  Cost: 60
+2618  '  Pioneer  [TPT  United Kingdom]  Cost: 84
+2628  '  C8  [TPT  South Africa]  Cost: 84
+2629  '  Carrier  [TPT  South Africa]  Cost: 240
+2630  '  MW 15cwt  [TPT  South Africa]  Cost: 60
+2632  '  Pioneer  [TPT  South Africa]  Cost: 72
+2641  '  Horse  [TPT  Australia]  Cost: 12
+2642  '  C8  [TPT  Australia]  Cost: 84
+2643  '  Carrier  [TPT  Australia]  Cost: 240
+2644  '  MW 15cwt  [TPT  Australia]  Cost: 60
+2646  '  Pioneer  [TPT  Australia]  Cost: 72
+2648  '  Camels  [TPT  Ethiopia]  Cost: 36
+3856  '  Camel 40  [INF  United Kingdom]  Cost: 108
+3857  '  Colonial Cavalry 40  [INF  United Kingdom]  Cost: 120
+7910  '  203mm Naval Gun  [ATY  Ethiopia]  Cost: 1200
+7911  '  245mm Mortar  [ATY  Ethiopia]  Cost: 588
+7912  '  305mm How  [ATY  Ethiopia]  Cost: 948

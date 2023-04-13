@@ -1,0 +1,47 @@
+'---
+'Config AI file for scenario: xbk03.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=39 items  ' Replacement for default list
+ 484  '  122mm M-30  [ATY  Russia]  Cost: 420
+ 486  '  76.2mm M-33  [ATY  Russia]  Cost: 180
+ 505  '  BA-10  [RCN  Russia]  Cost: 312
+ 511  '  BT-5  [ TK  Russia]  Cost: 300
+ 512  '  BT-7  [ TK  Russia]  Cost: 324
+ 520  '  T-26B  [ TK  Russia]  Cost: 276
+ 529  '  Wagon  [TPT  Russia]  Cost: 12
+ 538  '  I-16-29  [FTR  Russia]  Cost: 504
+ 544  '  Li-2  [ATP  Russia]  Cost: 348
+ 684  '  BT-5A  [ TK  Russia]  Cost: 312
+ 685  '  BT-7A  [ TK  Russia]  Cost: 336
+ 686  '  BT-7M  [ TK  Russia]  Cost: 336
+ 832  '  Cossacks 38  [INF  Russia]  Cost: 252
+ 920  '  Mountain 38  [INF  Russia]  Cost: 276
+ 980  '  T-28  [ TK  Russia]  Cost: 480
+ 985  '  SB 2  [ TB  Russia]  Cost: 564
+1816  '  122mm A-19  [ATY  Russia]  Cost: 696
+1817  '  152mm M-10  [ATY  Russia]  Cost: 420
+1824  '  107mm Mortar  [ATY  Russia]  Cost: 276
+1839  '  OT-134  [ AT  Russia]  Cost: 324
+1842  '  T-35  [ TK  Russia]  Cost: 480
+1846  '  I-16-10  [FTR  Russia]  Cost: 456
+1854  '  TB-3  [ TB  Russia]  Cost: 564
+1859  '  Kom-1  [TPT  Russia]  Cost: 96
+2579  '  Horse  [TPT  Russia]  Cost: 12
+2582  '  Kom-2  [TPT  Russia]  Cost: 144
+2584  '  Kom-3  [TPT  Russia]  Cost: 156
+2585  '  Limber  [TPT  Russia]  Cost: 12
+2586  '  Kom-4  [TPT  Russia]  Cost: 168
+2587  '  Mules  [TPT  Russia]  Cost: 12
+2589  '  R-10   [ TB  Russia]  Cost: 384
+2952  '  TB-3  [ATP  Russia]  Cost: 348
+3170  '  Mountain Engineer 38  [INF  Russia]  Cost: 372
+3755  '  Engineer 38  [INF  Russia]  Cost: 312
+3759  '  Parashutisti 38  [INF  Russia]  Cost: 264
+4490  '  TB-3 4M-34FRN  [ LB  Russia]  Cost: 468
+5828  '  Train  [RTP  Russia]  Cost: 120
+7975  '  Battery  [ATY  Russia]  Cost: 900
+7990  '  Road Transporter  [TPT  Russia]  Cost: 120

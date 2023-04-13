@@ -1,0 +1,13 @@
+03. The drive on Tunis - German counterattack on Medjez El Bab - December 6th, 1942
+
+German troops started a major counterattack. They are in front of the Tebourba gap and are attacking Combat Command B troops on the East bank of the river Medjerda. Stop the enemy advance so that we are not pushed back into Algeria.
+
+Again French troops will assist your forces, but they will not take orders from you.
+
+ORDERS
+Hold 3 or more Victory hexes a the end of turn 10 for BV, 2 for V and 1 for TV. Losing all victory hexes will result in a Loss and the end of the campaign. A Loss ends the campaign.
+
+NOTES: 
+- You can deploy all core units in this scenario.
+- French units are fighting on your side, but are controlled by the AI, not by you.
+- Units will be automatically reinforced to strength 10 at the end of the scenario and you will be able to acquire new units.

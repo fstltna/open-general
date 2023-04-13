@@ -1,0 +1,260 @@
+Fa14-Trench Warfare
+I/RflRgt 733/17 RflD
+II/RflRgt 733/17 RflD
+III/RflRgt 733/17 RflD
+I/RflRgt 541/17 RflD
+II/RflRgt 541/17 RflD
+III/RflRgt 541/17 RflD
+I/RflRgt 387/17 RflD
+II/RflRgt 387/17 RflD
+III/RflRgt 387/17 RflD
+Tk Bn/17 RflD
+I/lt Aty Rgt 291/17 RflD
+II/lt Aty Rgt 291/17 RflD
+III/lt Aty Rgt 291/17 RflD
+Rec Bn/17 RflD
+Mg Bn/17 RflD
+lt Det/17 RflD
+AT Bn/17 RflD
+I/RflRgt 701/142 RflD
+II/RflRgt 701/142 RflD
+III/RflRgt 701/142 RflD
+I/RflRgt 461/142 RflD
+II/RflRgt 461/142 RflD
+III/RflRgt 461/142 RflD
+I/RflRgt 19/142 RflD
+II/RflRgt 19/142 RflD
+III/RflRgt 19/142 RflD
+Tk Bn 445/142 RflD
+AT Bn 234/142 RflD
+I/Aty Rgt 334/142 RflD
+II/Aty Rgt 334/142 RflD
+III/Aty Rgt 334/142 RflD
+Rec Bn 172/142 RflD
+Mg Bn/142 RflD
+Eng Bn 227/142 RflD
+lt Det/142 RflD
+Hw Rgt 260/142 RflD
+II/6 DBAP
+I/54 SBAP
+I/64 IAP
+II/64 IAP
+III/64 IAP
+shy Tk Bn/L. Corps
+hvy Tk Bn/L. Corps
+AT Bn/L. Corps
+II/54 SBAP
+III/54 SBAP
+Rec/54 SBAP
+III/6 DBAP
+I/6 DBAP
+JR 4/2 Div
+JR 5/2 Div
+JR 6/2 Div
+Kev Os 2/2 Div
+KTR 2/2 Div
+JR 23/8 Div
+JR 24/8 Div
+JR 26/8 Div
+URR
+Kev Os 8/8 Div
+KTR 8/8 Div
+Kr Kp/JR 24/8 Div
+II/ITP/II. Corps
+PLeLv 44/LeR 4
+PLeLv 46/LeR 4
+AA Bn/142 RflD
+AA Bn/17 RflD
+FK/142 RflD
+FK/17 RflD
+Mrt Bn/17 RflD
+Mrt Bn/142 RflD
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Vuoksi
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Suvanto
+Kiviniemi
+Noisniemi
+Uusikyla
+Ayrapaa
+Kuusa
+Punnus
+Valkeamatka
+Peippola
+Koirala
+Muolaa
+Muolaa Kirkko
+Yskjarvi
+Yskjarvi
+Yskjarvi
+Yskjarvi
+Yskjarvi
+Yskjarvi
+Yskjarvi
+Yskjarvi
+Yskjarvi
+Yskjarvi
+Yskjarvi
+Yskjarvi
+Yskjarvi
+Yskjarvi
+Yskjarvi
+Yskjarvi
+Yskjarvi
+Kurkela
+Hattula
+Kirkkojarvi
+Kirkkojarvi
+Kirkkojarvi
+Kirkkojarvi
+Kirkkojarvi
+Kirkkojarvi
+Kirkkojarvi
+Kirkkojarvi
+Kirkkojarvi
+Kirkkojarvi
+Kirkkojarvi
+Kirkkojarvi
+Kirkkojarvi
+Kirkkojarvi
+Kannila
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Punnusjarvi
+Ilmola
+Rampala
+Velkkola
+Valkjarvi
+Valkjarvi
+Valkjarvi
+Valkjarvi
+Valkjarvi
+Valkjarvi
+Valkjarvi
+Valkjarvi
+Valkjarvi
+Valkjarvi
+Valkjarvi
+Valkjarvi
+Valkjarvi
+Valkjarvi
+Raakolanjarvi
+Raakolanjarvi
+Raakolanjarvi
+Raakolanjarvi
+Raakolanjarvi
+Raakolanjarvi
+Herajarvi
+Herajarvi
+Nurmijarvi
+Nurmijarvi
+II/ITP/II. Corps
+I/ITP/II. Corps

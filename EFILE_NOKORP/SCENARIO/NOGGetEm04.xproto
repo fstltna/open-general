@@ -1,0 +1,8 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 145  '  Pz IIIL  [ TK  Germany]  Cost: 468
+4545  '  Fw 190 A-4  [FTR  Germany]  Cost: 912

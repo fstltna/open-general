@@ -1,0 +1,10 @@
+Grass Fight
+November 26, 1835
+
+On November 26, Texian scout Deaf Smith brought news of a Mexican pack train, accompanied by 50–100 soldiers, that was on its way to Béxar. The Texian camp was convinced that the pack train carried silver to pay the Mexican garrison and purchase supplies. Burleson ordered Colonel James Bowie to take 45-50 cavalry and intercept the train. An additional 100 infantry followed. On seeing the battle commence, Mexican General Martín Perfecto de Cos sent reinforcements from Béxar. The Texians repulsed several attacks by Mexican soldiers, who finally retreated to Béxar. When the Texians examined the abandoned pack train they discovered that, instead of silver, the mules carried freshly cut grass to feed the Mexican Army horses.
+
+Deploy Hexes: 7
+
+ORDER: Prevent escaping any of the Mexican transport units and keep your MSU alive.
+
+scenario designer: Csaba (lvjtn)

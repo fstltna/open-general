@@ -1,0 +1,10 @@
+03. The Fourth Battle of Kharkov (18 August 1943)
+
+The Russian 5th Guards tank army that got badly mauled at Prokhorovka when meeting III Pz Korps in mid July has been rebuilt. It has rushed through the gap between our 4th Pz Army and Group Kempf and is now threatening Kharkov. Your Schwere Panzer Abteilung, a Kampfgruppe of the 3rd Pz Division, the 198ID and some other corps troops are defending the city. SS Panzer-Grenadier Division Das Reich will come to your assistence. 
+
+PLAYER ORDERS
+- Units will be automatically reinforced to strength 10 at the end of the scenario.
+- Keep control of 8 out of the 9 victory hexes at the end of the scenario for brilliant victory, 5 for victory and 3 for tactical victory.
+
+SCENARIO DESIGNER
+Jurgen Smet - Wonderdoctor (taken from the Open General Das Reich campaign and slightly modified)

@@ -1,0 +1,10 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+1237  '  10,5 K18  [ATY  Deutschland]  Cost: 480
+1275  '  He 112B-2  [FTR  Deutschland]  Cost: 720
+4293  '  Ju 87B-1  [ TB  Deutschland]  Cost: 660
+4418  '  Do 17P-1  [ TB  Deutschland]  Cost: 624

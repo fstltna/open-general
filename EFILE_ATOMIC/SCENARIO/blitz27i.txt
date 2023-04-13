@@ -1,0 +1,15 @@
+SITUATION:
+
+Ja Wolfgang, I was as surprised as you that they chose Normandy.... Ah, Herr General, come in. Allow me to explain the present situation. We have a chance to drive the Allies back into the sea, here, near Caen. I will not pretend that this will be an easy task, but you have shown yourself to be a most resourceful fellow time and time again, ja? You will need all your skill to wrest a victory here. Our thoughts are with you. Ja, As I was saying, Wolfgang.... 
+
+ORDERS: 
+
+Take all VHs in 12/15/19 turns for a BV/V/TV.
+
+NOTES:
+
+AI will have the first turn!
+
+Two submarines took positions in the east and await your orders.
+
+

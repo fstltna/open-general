@@ -1,0 +1,20 @@
+1919-20 BOLSHEVIK CAVALRY CAMPAIGN 
+
+Version: 1.0 
+Equipment File: Kaiser General
+Number of Scenarios: 13
+Player Country: Red Russia
+Campaign Designer: Dennis Felling
+Campaign Converter: von Schweinewitz
+Playtesters: Jan Hedstrom, Toliy, Dirk Oberlin, Devil's Brigade, Shikaka 
+
+When the Russian Civil War broke out in 1918, a popular Cossack leader named Budyonny organized a small cavalry force in the Don region out of local Cossacks and common-place criminals.  This force rapidly grew in numbers, sided with the Bolsheviks and eventually became the Cavalry Army.  It was transformed from a guerrilla force into a proper military unit.  This Army played an important role in winning the Civil War for the Bolsheviks, driving the White General Anton Denikin back from Moscow.
+
+In 1920 Budyonny's Cavalry Army took part in the invasion of Poland during the Polish-Bolshevik War and at first had remarkable success.  The Cavalry Army pushed Polish forces out of the Ukraine and broke through Polish southern frontlines, but later was bogged down at Lwow.  This in turn led to the heavy defeat of the rest of the Bolsheviks forces in the Battle of Warsaw.  When the Cavalry Army finally joined the battle it was also soundly defeated in the Battle of Komarow, known as the last great cavalry battle in history.  At this point, the Cavalry Army's morale and discipline were at a low point and robbery and violence became commonplace against the civilian population.
+
+What remained of Cavalry Army was sent south to fight with Wrangel's White forces in Ukraine and the Crimea.
+
+
+
+
+

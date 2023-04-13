@@ -1,0 +1,12 @@
+Gitschin
+
+Jun 29th, 1866
+
+The Austrian strategy for defeating Prussia consisted in an invasion of Silesia. With that goal in mind, Austrian and Saxonian troops started to concentrate in Bohemia, which had belonged to the Austrian Empire for centuries.
+
+But the Prussians were much faster. In the last week of June, three Prussians armies entered Bohemia from the north and the west, and defeated the Austrians in a series of skirmishes. The Austrian I Corps and the Saxonian Army, in danger of being attacked from different sides, retreated from the line of the Iser and tried to establish a defensive position in the hills north and west of Gitschin, where they hoped that they could resist the Prussians long enough, giving the main Austrian forces (the bulk of the Nord Armee) time to join them.
+
+However, Benedek's Nord Armee had been forced to stop its march, and would never reach Gitschin. The Austro-Saxonian forces still had numerical superiority and a good defensive position, but it was doubtful how they would react when they learnt that they wouldn't receive any reinforcements.
+
+Victory conditions:
+- Take all the VHs

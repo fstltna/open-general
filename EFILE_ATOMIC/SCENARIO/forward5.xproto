@@ -1,0 +1,21 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 473  '  GAZ w/ 25mm M1940 (72-K)  [FlaK  USSR]  Cost: 204
+ 482  '  76mm M1942 (ZiS-3)  [ AT  USSR]  Cost: 180
+ 485  '  BM-13-16  [ATY  USSR]  Cost: 600
+ 490  '  BM-13-24  [ATY  USSR]  Cost: 708
+1829  '  Tachanka 42  [FlaK  USSR]  Cost: 192
+1858  '  Pe-8 ASch-82  [ LB  USSR]  Cost: 960
+3797  '  Airborne Engineers 42  [INF  USSR]  Cost: 372
+3822  '  MG 42  [FlaK  USSR]  Cost: 168
+4475  '  LaGG-3  [ TB  USSR]  Cost: 624
+4674  '  Yak-7A  [FTR  USSR]  Cost: 600
+4681  '  YaK-7B  [FTR  USSR]  Cost: 672
+4693  '  Yak-7-37  [FTR  USSR]  Cost: 828
+6470  '  KV-1/42  [ TK  USSR]  Cost: 840
+8702  '  BM-8-24  [ATY  USSR]  Cost: 492
+8886  '  Pe-2FT  [ TB  USSR]  Cost: 768

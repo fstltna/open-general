@@ -1,0 +1,35 @@
+* ------------------------------------------------------------------ 
+* . To define Fronts for any country: 
+* . Lines starting with a single number defines country for next fronts/factions 
+* . can include country name after a space or tab, but won't be read 
+* . lines starting with # are read as a front name 
+* . lines starting with @ are read as a faction name 
+* . and belong to the last country read 
+* ------------------------------------------------------------------ 
+
+6  Germanen
+
+* factions:
+@Suebi
+@Vandals
+
+10 Egypt
+
+*factions:
+@Lower Egypt
+@Upper Egypt
+@Egypt Empire
+@Ptolemaic Empire
+
+28 Sachsen
+
+* factions:
+@Saxons
+@Christian Saxons 
+
+39 germ. gegner
+
+*factions:
+@Vikings
+@Heathen Anglo Saxon
+

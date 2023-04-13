@@ -1,0 +1,3 @@
+Herr General, as you know the Kursk Salient poses a serious threat to us. The enemy is counterattacking and our only hope to seal the break in the lines is your Kampfgruppe. You must stop the Soviet counterattack immediately. Good Luck. 
+
+[Note from designer: The fact that your aux units start the scenario without ammo and fuel is probably annoying, but it is indeed intended to simulate a Soviet counterattack]

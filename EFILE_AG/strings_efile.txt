@@ -1,0 +1,150 @@
+** This file is only intended for those designers wanting to
+** customize some texts.
+**
+* Each section must be identified by a header section
+* enclosed by square brackets, i.e: [sides]
+* watch out header section spelling!
+* You can omit one or more sections if you don't need different
+* (insert an asterisk at start of line including section header)
+* but any section you include, must include all items
+* ------------------------------------------------------------------
+*
+* Warning:
+* If you include a [sides] section here, it will overwrite sides denominations 
+* defined in Nations.txt for this Efile
+*
+[sides]
+Side I
+Side II
+
+[classes]
+None
+Infantry
+Cavalry
+Scout
+Spearmen
+---
+Fortification
+Ground Transport
+Rail Transport ????
+Archers
+Spyprotection
+Spy
+---
+---
+Spy Transport
+Helo Transport ???
+---
+Boat
+Ship
+---
+Naval-Transport
+---
+---
+---
+
+[targets]
+Soft
+Hard
+Spy
+Naval
+
+[spaces]
+Ground
+Spy
+
+[movement]
+on horseback
+light carriage
+heavy carriage
+Leg
+Towed
+Incognito
+on the high Seas			
+Coastal
+All Terrain
+Amphibious
+Naval
+Mountain (Leg)
+--- Train ???
+--- Helicopter ???
+
+
+[transports]
+Cannot be transported
+Naval
+Airmobile
+Airborne
+--- Zug ???
+--- Helicopter ???
+
+[requisition]
+Switch Ground/Spy/Naval menu
+Select Spyprotection
+---
+Select Fortification
+Select Spearmen
+Select Archers
+Select Infantry
+Select Scout
+Select Cavalry
+Select Spy
+---
+---
+---
+Select Boat
+Select Ship
+---
+---
+---
+---
+Name unit
+Reassign Unit
+Exit
+
+
+[terrain]
+CLEAR
+TOWN
+AIRFIELD
+WOODED
+DENSE UNDERBRUSH
+HILL
+MOUNTAIN
+SAND
+SWAMP
+OCEAN
+RIVER
+FORTIFICATION
+PORT
+STREAM
+ESCARPMENT
+IMPASSABLE RIVER
+ROUGH
+CUSTOM
+ROADS
+RAILS
+
+[unitdata]
+Leader
+Transport
+Country
+Experience
+Experience level
+--
+Stamina
+Strength
+Range
+Initiative
+Spot
+Mov. Method
+Hard Attack
+Soft Attack
+Spy Attack
+Naval Attack
+Ground defense
+Spy defense
+Close defense
+Range defense
+Class
+Cost

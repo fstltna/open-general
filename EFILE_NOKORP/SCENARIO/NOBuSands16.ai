@@ -1,0 +1,15 @@
+'---
+'Config AI file for scenario: NOBuSands16.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=7 items  ' Replacement for default list
+ 402  '  M16 MGMC "Meat Chopper"  [FlaK  USA]  Cost: 492
+ 406  '  M10 GMC Wolverine  [ AT  USA]  Cost: 648
+ 418  '  T19  105 mm HMC  [ATY  USA]  Cost: 408
+ 440  '  M5A1 Stuart Recon  [RCN  USA]  Cost: 360
+ 443  '  M4A1 Sherman  [ TK  USA]  Cost: 552
+ 670  '  M3A1 75 mm HMC  [ATY  USA]  Cost: 360
+3922  '  Armored Infantry 42  [INF  USA]  Cost: 156

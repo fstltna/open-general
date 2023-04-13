@@ -1,0 +1,110 @@
+Operation Crusader
+8 PzR/15 Pz/[DAK]
+15 Schzt/15 Pz/[DAK]
+15 Schzt/15 Pz/[DAK]
+15 Mot/15 Pz/[DAK]
+33 AR/15 Pz/[DAK]
+33 Pio/15 Pz/[DAK]
+33 Pzjgr/15 Pz/[DAK]
+33 Rec/15 Pz/[DAK]
+[Luftwaffe]
+65 R/101 Trieste/[XX]
+66 R/101 Trieste/[XX]
+21 AR/101 Trieste/[XX]
+9 R/101 Trieste/[XX]
+12 R/133 Littorio/[XX]
+33 R/133 Littorio/[XX]
+133 AR/133 Littorio/[XX]
+133 Littorio/[XX]
+12 R/133 Littorio/[XX]
+32 R/132 Ariete/[XX]
+8 R/132 Ariete/[XX]
+132 AR/132 Ariete/[XX]
+HMS Ajax
+HMS Aphis
+132 Ariete/[XX]
+[DAK]
+[DAK]
+[DAK]
+[XX]
+[XX]
+[XX]
+[XX]
+104 Schzt/21 Pz/[DAK]
+155 AR/21 Pz/[DAK]
+3 Rec/21 Pz/[DAK]
+200 Pio/21 Pz/[DAK]
+39 Pzjgr/21 Pz/[DAK]
+MG/21 Pz/[DAK]
+5 PzR/21 Pz/[DAK]
+2 RTR/4 Bde/7 Arm D/[XIII]
+1 RTR/7 Bde/7 Arm D/[XIII]
+11 Hussars/-/[8 Army]
+7 H/4 Bde/7 Arm D/[XIII]
+8 H/7 Bde/7 Arm D/[XIII]
+3 RHA/7/7 Arm D/[XIII]
+2/7/7 Arm D/[XIII]
+2 RGH/7 Arm Bde/[XIII]
+3 CLY/7 Arm Bde/[XIII]
+3 RHA/[8 Army]
+4 RHA/[8 Army]
+60 RA/[8 Army]
+1 KRRC/[8 Army]
+2 Rifle Bde./[8 Army]
+11 Bde/4 Ind D./[XXX]
+5 Bde/4 Ind D./[XXX]
+7 Bde/4 Ind D./[XXX]
+1 AR/4 Ind D./[XXX]
+25 AR/4 Ind D./[XXX]
+31 AR/4 Ind D./[XXX]
+68 Med.AR/4 Ind D./[XXX]
+4 CLY/7 Arm Bde/[XIII]
+3 Bde/1 SA/[XXX]
+4 Bde/1 SA/[XXX]
+5 Bde/1 SA/[XXX]
+25 Bde/9 Aust./[XXX]
+26 Bde/9 Aust./[XXX]
+27 Bde/9 Aust./[XXX]
+2/3/9 Aust./[XXX]
+2/4 E/9 Aust./[XXX]
+2/3 ATR/9 Aust./[XXX]
+2/7 FR/9 Aust./[XXX]
+2/8 FR/9 Aust./[XXX]
+2/12 FR/9 Aust./[XXX]
+32 Arm.Bde/[XXX]
+4 Bde/2 NZ/[XXX]
+5 Bde/2 NZ/[XXX]
+6 Bde/2 NZ/[XXX]
+9 Bde/2 NZ/[XXX]
+10 Bde/2 NZ/[XXX]
+70 ID/[XXX]
+70 ID/[XXX]
+70 ID/[XXX]
+70 ID/[XXX]
+70 ID/[XXX]
+DAF
+DAF
+DAF
+DAF
+DAF
+DAF
+DAF
+[2 Luftflotte]
+[2 Luftflotte]
+[2 Luftflotte]
+5 SA
+5 SA
+[2 Luftflotte]
+9 Aust. Div. HQ
+Tobruk
+Gambut
+Sidi Rezegh
+Bardia
+Sidi Azeiz
+Bir el Gubi
+Fort Capuzzo
+Sollum
+Halfaya Pass
+Gabr Saleh
+Sidi Omar
+Bir Sheferzen

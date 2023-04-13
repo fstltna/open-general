@@ -1,0 +1,10 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+4466  '  Ta 183 Huckebein  [FTR  Germany]  Cost: 1536
+4467  '  Ho 229 A-1  [ TB  Germany]  Cost: 1800
+5052  '  Do 335 B-2  Pfeil  [FTR  Germany]  Cost: 1212
+6082  '  Flakpanzer IV Grille 10  (88mm)  [FlaK  Germany]  Cost: 840

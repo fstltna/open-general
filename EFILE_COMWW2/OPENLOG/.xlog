@@ -1,0 +1,10 @@
+# Game version: 0.93.4.0 * 25 Dec 2020 .. EFile Folder: Z:\home\marisag\Documents\MySnaps\open-general\EFILE_AG\  (Antique General Efile 3.4."Britannia")
+seed 0
+Load  0 0 0 0 0 0
+# Scenario:  P1: (Axis)  P2: (Axis)
+CloseDeploy
+Load ga3.xcam 6 0 100 20 0 100
+# Scenario: The Shots of Mainila [cam: Arctic Storms] P1:Finland (Axis)  P2:USSR (Allied)
+# Turn: 1 * Active Player:0 (Finland - Axis)
+Weather 0 4 6 0
+

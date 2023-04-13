@@ -1,0 +1,15 @@
+Langemarck
+
+October 21st, 1914
+
+After the battle of the Aisne both armies tried to outflank the other in a series of engagements near the French-Belgian border. It was especially important to us, as we could not afford losing the Channel ports of Calais and Boulogne. To achieve that goal, it was imperative to stop the Germans at the Belgian town of Ypres.
+
+Our I Corps reached Ypres on the night of October 20th. A few hours later we were advancing to the Northeast, covering the left flank of the IV Corps. Soon, we found that the German resistance was stronger than we had expected and that an enemy offensive was inminent, so we hastily built a precarious defensive line near the villlage of Langemarck. Only a few hours later, three German divisions started their assault. They were not first line units, but they clearly outnumbered us, and if they succeeded at penetrating our lines, the entire British front would be in danger.
+
+(from the memoirs of Lt. Gen. Bruce W. Dickinson)
+
+Victory conditions:
+-After 8 turns you must hold 3 VHs for a BV, 2 VHs for a V and 1 VH for a TacV.
+- Your MSU core unit must survive.
+
+

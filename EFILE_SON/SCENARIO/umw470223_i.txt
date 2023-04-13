@@ -1,0 +1,11 @@
+Battle of Buena Vista
+February 23, 1847
+
+The United States Army use artillery to repulse the much larger Mexican army in the Mexican-American War. Buena Vista, a village of the state of Coahuila, is seven miles (12 km) south of Saltillo, in northern Mexico.
+
+Deploy Hexes: 15
+
+ORDER: Take all VHs and keep your MSU alive.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

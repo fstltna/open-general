@@ -1,0 +1,33 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 486  '  BM-31-12  [ATY  USSR]  Cost: 708
+ 523  '  T-43  [ TK  USSR]  Cost: 720
+ 524  '  T-34/43  [ TK  USSR]  Cost: 648
+ 543  '  Il-2M Shturmovik  [ TB  USSR]  Cost: 768
+1803  '  152mm M1943 (D-1)  [ AT  USSR]  Cost: 252
+1808  '  SU-122  [ AT  USSR]  Cost: 540
+1813  '  76mm M1943 (OB-25)  [ATY  USSR]  Cost: 156
+1818  '  152mm M1943 (D-1)  [ATY  USSR]  Cost: 792
+1825  '  160mm Mortar M1943  [ATY  USSR]  Cost: 576
+2588  '  SU-76i  [ AT  USSR]  Cost: 504
+3531  '  Il-2M Shturmovik w/ PTAB  [ TB  USSR]  Cost: 924
+4470  '  La-5FN  [FTR  USSR]  Cost: 792
+4494  '  Yer-2 2ACh-30B  [ LB  USSR]  Cost: 732
+4687  '  Il-2 NS-37 Shturmovik  [ TB  USSR]  Cost: 888
+4688  '  Il-2T Shturmovik  [ TB  USSR]  Cost: 768
+4694  '  YaK-9D  [FTR  USSR]  Cost: 792
+4697  '  Yak-9T  [FTR  USSR]  Cost: 852
+4698  '  Yak-9M PVO  [FTR  USSR]  Cost: 900
+4878  '  IS-1/85  [ TK  USSR]  Cost: 1392
+5533  '  SU-76M  [ AT  USSR]  Cost: 408
+6539  '  KV-8S  [ TK  USSR]  Cost: 888
+6670  '  SU-85  [ AT  USSR]  Cost: 648
+7979  '  SU-122  [ATY  USSR]  Cost: 780
+7980  '  SU-152  [ATY  USSR]  Cost: 1248
+7987  '  Udarnyye Voyska SU-122  [INF  USSR]  Cost: 924
+8696  '  SU-76M  [ATY  USSR]  Cost: 552
+8918  '  SU-152  [ AT  USSR]  Cost: 948

@@ -1,0 +1,16 @@
+01. The drive on Tunis - First actions - November 16th, 1942
+
+The Axis have started pouring troops and equipment into Vichy French owned Tunesia after the French allowed them to move in Luftwaffe and Wehrmacht units. Italian units were put under German command to not provoke the French. French generals on the ground passively resisted the Axis arrival and advance. But now things have changed. Three days ago, we have reached an agreement with the French for an immediate collaboration with Allied forces. That means all our troops can move East to Tunisia without having to worry about occupying Morocco and Algeria.
+
+Spearheading the advance into Tunesia are 36 Brigade Group of the 78th Infantry Division in the North, airdropped 1st British Paratrooper battalion and Blade Force in the center, and 11th Brigade group of the 78th British Infantry Division in the South (off-map).
+
+Your orders are to capture the cities of Mateur and Tebourba. Intelligence expects resistance from lightly armed enemy infantry. Expect no reinforcements.
+
+ORDERS
+At the end of turn 7, hold 4 VH for BV, 2 or 3 for V and 1 for TV. Zero hexes will result in a loss.
+
+NOTES: 
+- You can deploy two core units in this scenario.
+- French units are fighting on your side, but are controlled by the AI, not by you.
+- Units will not be automatically reinforced to strength 10 at the end of the scenario.
+

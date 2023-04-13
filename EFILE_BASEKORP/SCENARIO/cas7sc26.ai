@@ -1,0 +1,154 @@
+'---
+Config AI file for scenario: CAS7SC26.xscn
+'* Here could be more global AI settings *
+'  none at this time ...
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=144 items  ' Replacement for default list
+ 321  '  40mm I  [ AD  United Kingdom]  Cost: 144
+ 100  '  3.7inch  [ AD  United Kingdom]  Cost: 396
+ 322  '  40mm Truck  [ AD  United Kingdom]  Cost: 480
+1958  '  4.5inch  [ AD  United Kingdom]  Cost: 780
+ 324  '  2pdr  [ AT  United Kingdom]  Cost: 84
+ 922  '  25pdr AT  [ AT  United Kingdom]  Cost: 108
+ 325  '  6pdr I  [ AT  United Kingdom]  Cost: 120
+3361  '  2pdr Portee  [ AT  United Kingdom]  Cost: 132
+ 993  '  Swordfish I  [ TB  United Kingdom]  Cost: 300
+1721  '  Albacore  [ TB  United Kingdom]  Cost: 312
+4075  '  Swordfish I  [ TB  United Kingdom]  Cost: 324
+2605  '  Lysander I  [ TB  United Kingdom]  Cost: 336
+2255  '  Catalina  [ TB  United Kingdom]  Cost: 420
+4037  '  Lysander III  [ TB  United Kingdom]  Cost: 444
+1726  '  Hudson  [ TB  United Kingdom]  Cost: 504
+2606  '  Baltimore V  [ TB  United Kingdom]  Cost: 504
+4001  '  Hampden TB.I  [ TB  United Kingdom]  Cost: 504
+1722  '  Beaufort  [ TB  United Kingdom]  Cost: 540
+5562  '  Kingfisher  [ TB  United Kingdom]  Cost: 552
+4334  '  Maryland I  [ TB  United Kingdom]  Cost: 576
+ 394  '  Hurricane IID  [ TB  United Kingdom]  Cost: 600
+1724  '  Blenheim IV  [ TB  United Kingdom]  Cost: 612
+4052  '  Hurricane IIB  [ TB  United Kingdom]  Cost: 612
+4008  '  Boston III  [ TB  United Kingdom]  Cost: 624
+4013  '  Havoc NF.I  [ TB  United Kingdom]  Cost: 636
+ 393  '  Hurricane IIC  [ TB  United Kingdom]  Cost: 648
+2609  '  Whitley  [ TB  United Kingdom]  Cost: 648
+ 392  '  Beaufighter  [ TB  United Kingdom]  Cost: 732
+5133  '  Blenheim IVF  [ TB  United Kingdom]  Cost: 732
+4071  '  Typhoon IA  [ TB  United Kingdom]  Cost: 780
+1727  '  Mosquito IV  [ TB  United Kingdom]  Cost: 804
+1729  '  Whirlwind  [ TB  United Kingdom]  Cost: 840
+2608  '  Boston  [ TB  United Kingdom]  Cost: 840
+4049  '  Beaufighter IIF  [ TB  United Kingdom]  Cost: 864
+4059  '  Spitfire VC  [ TB  United Kingdom]  Cost: 864
+5138  '  Blenheim V  [ TB  United Kingdom]  Cost: 864
+4050  '  Beaufighter VIF  [ TB  United Kingdom]  Cost: 888
+1723  '  Mosquito II  [ TB  United Kingdom]  Cost: 936
+5109  '  Hurricane IIC tropical  [ TB  United Kingdom]  Cost: 1080
+5120  '  Mustang IA  [ TB  United Kingdom]  Cost: 1176
+5115  '  Spitfire VC tropical  [ TB  United Kingdom]  Cost: 1188
+ 652  '  Cruiser III  [ TK  United Kingdom]  Cost: 288
+ 370  '  Crusader I  [ TK  United Kingdom]  Cost: 312
+ 374  '  Stuart I  [ TK  United Kingdom]  Cost: 324
+ 371  '  Crusader II  [ TK  United Kingdom]  Cost: 336
+1708  '  Covenanter III  [ TK  United Kingdom]  Cost: 348
+ 720  '  Tetrarch  [ TK  United Kingdom]  Cost: 396
+1710  '  Covenanter IIICS  [ TK  United Kingdom]  Cost: 408
+1706  '  Valentine I  [ TK  United Kingdom]  Cost: 432
+1709  '  Crusader IICS  [ TK  United Kingdom]  Cost: 432
+ 379  '  Valentine III  [ TK  United Kingdom]  Cost: 468
+ 373  '  Grant I  [ TK  United Kingdom]  Cost: 480
+ 377  '  Matilda II  [ TK  United Kingdom]  Cost: 528
+ 658  '  Valentine VIII  [ TK  United Kingdom]  Cost: 528
+1707  '  Matilda IIICS  [ TK  United Kingdom]  Cost: 528
+ 638  '  Churchill II  [ TK  United Kingdom]  Cost: 540
+ 637  '  Churchill I  [ TK  United Kingdom]  Cost: 600
+ 365  '  Churchill IICS  [ TK  United Kingdom]  Cost: 636
+1689  '  3inch mortar  [ATY  United Kingdom]  Cost: 180
+ 328  '  25 pdr  [ATY  United Kingdom]  Cost: 276
+7991  '  25 Pdr at-aty  [ATY  United Kingdom]  Cost: 276
+1691  '  3.7inch AB  [ATY  United Kingdom]  Cost: 384
+3870  '  3.7inch  [ATY  United Kingdom]  Cost: 408
+1693  '  6inch  [ATY  United Kingdom]  Cost: 456
+ 330  '  5.5inch  [ATY  United Kingdom]  Cost: 816
+ 331  '  7.2inch I  [ATY  United Kingdom]  Cost: 1188
+1696  '  9.2inch  [ATY  United Kingdom]  Cost: 1200
+ 320  '  20mm  [FlaK  United Kingdom]  Cost: 60
+1700  '  MG  [FlaK  United Kingdom]  Cost: 108
+5570  '  20mm Portee  [FlaK  United Kingdom]  Cost: 204
+1717  '  Fulmar  [FTR  United Kingdom]  Cost: 456
+4005  '  Buffalo I  [FTR  United Kingdom]  Cost: 492
+4020  '  Mohawk IV  [FTR  United Kingdom]  Cost: 552
+4003  '  Fulmar II  [FTR  United Kingdom]  Cost: 588
+4107  '  Sea Hurricane IB  [FTR  United Kingdom]  Cost: 612
+1928  '  Tomahawk IIB  [FTR  United Kingdom]  Cost: 648
+ 660  '  Spitfire IIA  [FTR  United Kingdom]  Cost: 684
+1927  '  Kittyhawk IA  [FTR  United Kingdom]  Cost: 684
+4027  '  Spitfire VA  [FTR  United Kingdom]  Cost: 684
+4016  '  Martlet III  [FTR  United Kingdom]  Cost: 720
+ 389  '  Spitfire VC  [FTR  United Kingdom]  Cost: 732
+1718  '  Martlet I  [FTR  United Kingdom]  Cost: 768
+4017  '  Wildcat IV  [FTR  United Kingdom]  Cost: 780
+5112  '  Hurricane IA tropical  [FTR  United Kingdom]  Cost: 792
+4060  '  Spitfire VI  [FTR  United Kingdom]  Cost: 804
+5113  '  Hurricane IIA tropical  [FTR  United Kingdom]  Cost: 816
+5114  '  Hurricane IIB tropical  [FTR  United Kingdom]  Cost: 852
+3324  '  Seafire I  [FTR  United Kingdom]  Cost: 876
+4038  '  Mosquito II  [FTR  United Kingdom]  Cost: 900
+5116  '  Spitfire VB tropical  [FTR  United Kingdom]  Cost: 1092
+ 346  '  40 Infantry  [INF  United Kingdom]  Cost: 72
+ 343  '  Indian  [INF  United Kingdom]  Cost: 84
+3869  '  41 Royal Marines  [INF  United Kingdom]  Cost: 84
+3874  '  41 Indian Infantry  [INF  United Kingdom]  Cost: 84
+3878  '  41 Arab Legion  [INF  United Kingdom]  Cost: 84
+2592  '  Scots Infantry  [INF  United Kingdom]  Cost: 96
+3856  '  40 Camel  [INF  United Kingdom]  Cost: 108
+3857  '  40 Colonial Cavalry  [INF  United Kingdom]  Cost: 120
+3859  '  40 Indian Constabulary  [INF  United Kingdom]  Cost: 120
+ 347  '  Royal Marine  [INF  United Kingdom]  Cost: 144
+2926  '  ME Infantry  [INF  United Kingdom]  Cost: 144
+3864  '  41 Motor Infantry  [INF  United Kingdom]  Cost: 168
+3867  '  41 Scots Infantry  [INF  United Kingdom]  Cost: 168
+2560  '  Entrenched  [INF  United Kingdom]  Cost: 180
+ 340  '  Bridging  [INF  United Kingdom]  Cost: 192
+3866  '  41 Bridging  [INF  United Kingdom]  Cost: 216
+3876  '  41 Sikhs  [INF  United Kingdom]  Cost: 228
+ 341  '  Ghurka  [INF  United Kingdom]  Cost: 324
+3861  '  41 Light Infantry  [INF  United Kingdom]  Cost: 324
+ 345  '  Paratrooper  [INF  United Kingdom]  Cost: 348
+3875  '  41 Ghurkas  [INF  United Kingdom]  Cost: 348
+ 338  '  Engineer  [INF  United Kingdom]  Cost: 408
+3865  '  41 Engineers  [INF  United Kingdom]  Cost: 432
+ 339  '  Commando  [INF  United Kingdom]  Cost: 600
+3868  '  41 Commandos  [INF  United Kingdom]  Cost: 828
+1701  '  Marmon-Herrington II  [RCN  United Kingdom]  Cost: 204
+1931  '  Carrier Recon  [RCN  United Kingdom]  Cost: 204
+ 354  '  Scout  [RCN  United Kingdom]  Cost: 216
+ 352  '  Humber II  [RCN  United Kingdom]  Cost: 228
+1702  '  Marmon-Herrington III  [RCN  United Kingdom]  Cost: 240
+3910  '  40 Motorcycle  [RCN  United Kingdom]  Cost: 288
+ 351  '  Daimler II  [RCN  United Kingdom]  Cost: 300
+1735  '  Lightning CL  [sBS  United Kingdom]  Cost: 336
+ 359  '  Leander CL  [sBS  United Kingdom]  Cost: 504
+1738  '  Dido CL  [sBS  United Kingdom]  Cost: 504
+1736  '  Fiji CL  [sBS  United Kingdom]  Cost: 528
+1737  '  Manchester CL  [sBS  United Kingdom]  Cost: 540
+1739  '  Exeter CA  [sBS  United Kingdom]  Cost: 792
+ 358  '  County CA  [sBS  United Kingdom]  Cost: 804
+ 356  '  Repulse BC  [sBS  United Kingdom]  Cost: 1320
+1741  '  Royal Sovereign BB  [sBS  United Kingdom]  Cost: 1356
+1740  '  Hood BC  [sBS  United Kingdom]  Cost: 1368
+1742  '  Queen Elizabeth BB  [sBS  United Kingdom]  Cost: 1404
+ 357  '  King George V BB  [sBS  United Kingdom]  Cost: 1752
+1744  '  Hermes CV  [sCV  United Kingdom]  Cost: 480
+1743  '  Furious CV  [sCV  United Kingdom]  Cost: 684
+ 360  '  Illustrious CV  [sCV  United Kingdom]  Cost: 864
+3132  '  MTB-1 MTB  [sDD  United Kingdom]  Cost: 168
+3133  '  Halcyon AM  [sDD  United Kingdom]  Cost: 180
+2612  '  A DD  [sDD  United Kingdom]  Cost: 264
+ 361  '  Tribal DD  [sDD  United Kingdom]  Cost: 288
+3134  '  H 28 SS  [SUB  United Kingdom]  Cost: 216
+1745  '  S SS  [SUB  United Kingdom]  Cost: 228
+3135  '  Triton SS  [SUB  United Kingdom]  Cost: 240

@@ -1,0 +1,163 @@
+** This file is only intended for those designers wanting to
+** customize some texts.
+**
+* Each section must be identified by a header section
+* enclosed by square brackets, i.e: [sides]
+* watch out header section spelling!
+* You can omit one or more sections if you don't need different
+* (insert an asterisk at start of line including section header)
+* but any section you include, must include all items
+* ------------------------------------------------------------------
+*
+* Warning:
+* If you include a [sides] section here, it will overwrite sides denominations 
+* defined in Nations.txt for this Efile
+*
+[sides]
+Poderes Centrales
+Entente
+
+[results] 
+Victoria Brillante
+Victoria
+Victoria Táctica
+Derrota
+
+[targets]
+Objetivo no Blindado
+Objetivo Blindado
+Objetivo Aéreo
+Objetivo Naval
+
+[spaces]
+Superficie
+Aire
+
+[movement]
+Orugas
+Galope
+Sobre Ruedas
+A pié
+Remolcado
+Aéreo
+Alta Mar			
+Costero
+Todo Terreno
+Anfibio
+Marítimo
+Montaña (A pié)
+Ferrocarril
+Helicóptero
+*------------------------------------------ 
+*  to customize CUSTOM movement method...
+*  add [movement2] section
+*------------------------------------------
+*[movement2]
+*Custom movement
+
+
+[transports]
+Sin Transporte
+Naval
+Aerotransportado
+Paracaidista
+Ferrocarril
+Heliportado
+
+
+[classes]
+Ninguna
+Infantería
+Caballería Pesada/Carros de Combate
+Caballería ligera/Reconocimiento
+Acompañamiento y Apoyo
+Ametralladoras
+Fortificación
+Transporte Terrestre
+Transporte Ferroviario
+Artillería
+Defensa Aérea
+Interceptores
+Bombarderos/Reconocimiento
+Bombarderos Estratégicos/Zepelines
+Transporte Aéreo
+Transporte Helicóptero
+Submarinos
+Destructores
+Acorazados
+Portaaviones
+Transporte Naval
+Cruceros 
+Buques Capitales
+Buques Auxiliares
+
+[requisition]
+Cambiar a menú de unidades terrestres, aéreas o navales
+Selecciona Defensa Aérea
+Selecciona Ametralladoras
+Selecciona Fortificación
+Selecciona Acompañamiento y Apoyo
+Selecciona Artillería
+Selecciona Infantería
+Selecciona Caballería ligera/Reconocimiento
+Selecciona Caballería Pesada/Carros de Combate
+Selecciona Interceptores
+Selecciona Bombarderos/Reconocimiento
+Selecciona Bombarderos Estratégicos/Zepelines
+Selecciona Submarinos
+Selecciona Destructores
+Selecciona Acorazados
+Selecciona Portaaviones
+Selecciona Cruceros
+Selecciona Buques Capitales
+Selecciona Buques Auxiliares
+Nombrar Unidad
+Reasignar Unidad
+Salir
+
+[terrain]
+DESPEJADO
+URBANO
+AERÓDROMO
+BOSCOSO
+MATORRALES
+COLINAS
+MONTAÑOSO
+NIEVE/ARENA
+PANTANOSO
+OCÉANO
+RÍO
+FORTIFICADO
+PUERTO
+ARROYO
+ESCARPADO
+NO VADEABLE
+ABRUPTO
+NO USADO
+CAMINO
+VÍA FÉRREA
+
+[unitdata]
+Líder
+Transporte
+País
+Experiencia
+Nivel de Experiencia
+Combustible
+Munición
+Fuerza
+Alcance
+Iniciativa
+Detección
+Tipo de movimiento
+Ataque blindado
+Ataque no blindado
+Ataque aéreo
+Ataque naval
+Defensa terrestre
+Defensa aérea
+Defensa cercana
+Defensa a distancia
+Clase
+Coste
+

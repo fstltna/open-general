@@ -1,0 +1,79 @@
+Battle of Kontum
+202 TKR/-/[B3]
+(-)/202 TKR/-/[B3]
+(-)/202 TKR/-/[B3]
+FSB 6
+FSB 5
+FSB Y
+FSB C
+FSB D
+FSB H
+1 VC R/2 PAVN Div./[B3]
+2 VC R/2 PAVN Div./[B3]
+141 R/2 PAVN Div./[B3]
+32 R/2 PAVN Div./[B3]
+40 R/22 ARVN Div./[II]
+42 R/22 ARVN Div./[II]
+47 R/22 ARVN Div./[II]
+Aty./22 ARVN Div./[II]
+HQ/22 ARVN Div./[II]
+E/22 ARVN Div./[II]
+41 R/23 ARVN Div./[II]
+44 R/23 ARVN Div./[II]
+45 R/23 ARVN Div./[II]
+53 R/23 ARVN Div./[II]
+HQ/23 ARVN Div./[II]
+Aty./23 ARVN Div./[II]
+[II Corp Reserves]
+2 AB Bde./-/[II]
+2 AB Bde./-/[II]
+2 AB Bde./-/[II]
+22 Div./[II]
+MACV Advisors/[II]
+Fire Support Base 6
+Fire Support Base 5
+Fire Support Base Y
+Fire Support Base C
+Fire Support Base D
+Fire Support Base H
+[B3 Front Reserves]
+[B3 Front Reserves]
+48 R/320A PAVN Div./[B3]
+52 R/320A PAVN Div./[B3]
+64 R/320A PAVN Div./[B3]
+57 Assault H/17 CAG
+180 Aerial Wapons C/17 CAG
+H Troop 7/17 CAG
+CAG 17
+[B3 Front Reserves]
+[B3 Front Reserves]
+[B3 Front Reserves]
+[B3 Front Reserves]
+HQ/320A PAVN Div./[B3]
+HQ/2 PAVN Div./[B3]
+[B3 Front Reserves]
+[B3 Front Reserves]
+Base Area 609
+Base Area 609
+Base Area 609
+Base Area 609
+Base Area 609
+Base Area 609
+Base Area 609
+Base Area 609
+Base Area 609
+Base Area 609
+Base Area 609
+Underground Tunnel (Escape)
+Kontum Locals
+Kontum Locals
+Kontum Locals
+Kontum Locals
+Kontum Locals
+Dak Pek SF Camp
+Tou Morong
+Dak Seang SF Camp
+Dak To SF Camp
+Tan Canh
+Polei Kotang
+Kontum

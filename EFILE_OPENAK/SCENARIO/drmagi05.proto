@@ -1,0 +1,8 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+5234  '  2 Flak38 LKW  [FlaK  SS]  Cost: 192
+5243  '  3,7 Flak36 LKW  [ AD  SS]  Cost: 408

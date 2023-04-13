@@ -1,0 +1,15 @@
+'---
+'Config AI file for scenario: NOBuSands00.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=7 items  ' Replacement for default list
+ 651  '  A10 (Cruiser Mk II)  [ TK  United Kingdom]  Cost: 276
+ 652  '  A13 (Cruiser Mk III)  [ TK  United Kingdom]  Cost: 288
+ 934  '  Gladiator IIA  [FTR  United Kingdom]  Cost: 372
+1699  '  Colonial 35  [INF  United Kingdom]  Cost: 48
+1705  '  Rolls Royce AC Mk.I  [RCN  United Kingdom]  Cost: 156
+1724  '  Blenheim IV  [ TB  United Kingdom]  Cost: 564
+2595  '  Infantry 39  [INF  United Kingdom]  Cost: 60

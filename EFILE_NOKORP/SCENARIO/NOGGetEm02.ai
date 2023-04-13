@@ -1,0 +1,11 @@
+'---
+'Config AI file for scenario: NOGGetEm02.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=3 items  ' Replacement for default list
+3349  '  "Weak Tank Chassis w. 81mm Mortar"  [ATY  Ordrac]  Cost: 216
+5528  '  "Weak Tank"  [ TK  Ordrac]  Cost: 192
+6200  '  "Zombie Horde"  [INF  Ordrac]  Cost: 24

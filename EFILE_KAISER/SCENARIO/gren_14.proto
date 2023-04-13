@@ -1,0 +1,32 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  31  '  Infantry 16  [INF  British Empire]  Cost: 96
+  38  '  Sapper 16  [INF  British Empire]  Cost: 264
+  46  '  6" BL 26cwt  [ATY  British Empire]  Cost: 516
+  49  '  3" QF 20cwt  [ AD  British Empire]  Cost: 492
+ 142  '  Vickers F.B.9 Gunbus  [FTR  British Empire]  Cost: 528
+ 319  '  Mark A Whippet  [ TK  British Empire]  Cost: 384
+ 825  '  Lloyd  [ AT  British Empire]  Cost: 360
+1174  '  3.7" QF MkI Mtn  [ATY  British Empire]  Cost: 348
+1187  '  Pierce Arrow 6pdr  [ AT  British Empire]  Cost: 396
+1200  '  Mark I-III/F  [ TK  British Empire]  Cost: 312
+1202  '  Mark I-III/M  [ TK  British Empire]  Cost: 492
+1204  '  Caudron G.4  [ TB  British Empire]  Cost: 564
+1214  '  RAF F.E.2b  [FTR  British Empire]  Cost: 540
+1221  '  Nieuport 16  [FTR  British Empire]  Cost: 540
+1223  '  Airco DH.2  [FTR  British Empire]  Cost: 528
+1235  '  Morane-Saulnier N Bullet  [FTR  British Empire]  Cost: 480
+1251  '  Little Willie  [ TK  British Empire]  Cost: 480
+1855  '  Can. Infantry 16  [INF  British Empire]  Cost: 96
+1868  '  Guards 16  [INF  British Empire]  Cost: 204
+2799  '  Cavalry 16  [ TK  British Empire]  Cost: 324
+2884  '  2" Vickers Medium Mrt  [ATY  British Empire]  Cost: 288
+3602  '  RAF F.E.2d  [FTR  British Empire]  Cost: 552
+3672  '  Fusilier 16  [INF  British Empire]  Cost: 144
+4214  '  Scottish 16  [INF  British Empire]  Cost: 96
+4215  '  Scottish Highlanders 16  [INF  British Empire]  Cost: 288
+4284  '  Mounted Rifles 16  [RCN  British Empire]  Cost: 252

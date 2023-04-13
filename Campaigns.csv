@@ -1,0 +1,166 @@
+*Efile;Camfile;CamTitle;Scenarios;CountryID;Year;Period;Author;EFolder
+EFILE_AG;csr.xcam;CAESAR CAESAR CAESAR! V3.0;19;Roman Empire;-58;Antique;Spasteur de Mont Tonnerre
+EFILE_AG;hog.xcam;THE HOPE OF GAUL V3.2;14;Celts;-300;Antique;Spasteur de Mont Tonnerre
+EFILE_AG;kimbernkriege.xcam;THE CIMBRI AND TEUTONIC MIGRATION ;17;Germanic Tribes;-113;Antique;Mathias Keßler (Matze)
+EFILE_AG;spa.xcam;SPARTACUS-FREEDOM FOREVER V1.0;19;Rebels / Revolutionaries;-73;Antique;Mathias Keßler (Matze)
+EFILE_AO;antcamp.xcam;LEGACY OF THE ATOM ;3;Giant Ants;1953;Fictional/Fantasy;Austin Gunsauley (redfox)
+EFILE_AO;aocamp.xcam;ANOMALOUS OPERATIONS FULL CAMPAIGN ;17;United States (USA);1952;Fictional/Fantasy;Austin Gunsauley (redfox)
+EFILE_AO;embersao.xcam;EMBERS ;9;Arm;2052;Fictional/Fantasy;Austin Gunsauley (redfox)
+EFILE_AO;nazicamp.xcam;THE YEARS AFTER ;3;Germany – Third Reich;1952;Fictional/Fantasy;Austin Gunsauley (redfox)
+EFILE_ATOMIC;dday.xcam;FROM D-DAY TO DEUTSCHLAND 1944-45 Mar-2020;17;United States (USA);1944;WW2;Randowe, Major Heinz
+EFILE_ATOMIC;elala.xcam;FROM EL ALAMEIN TO ALEXANDRIA 1942 Sep-2020;4;Italy;1942;WW2;Randowe
+EFILE_ATOMIC;forward.xcam;FORWARD, COMRADE! 1939-45 Jul-2020;43;Soviet Union – USSR;1939;WW2;Major Heinz
+EFILE_ATOMIC;invaital.xcam;ALLIED INVASION OF ITALY 1943-45 Mar-2020;14;United States (USA);1943;WW2;Randowe
+EFILE_ATOMIC;legion.xcam;LEGIONE DI COMBATTIMENTO NAVALE 1927-43 Jul-2020;15;Italy;1927;WW2;Randowe
+EFILE_BASEKORP;bc_it.xcam;FOR KING AND EMPIRE V3.0B;22;United Kingdom – Great Britain;1940;WW2;Immortal Technique, Brian Gosley (Puma)
+EFILE_BASEKORP;bkaaw.xcam;AXIS AT WAR V2019.04;47;Germany – Third Reich;1938;WW2;Brian Gosley (Puma)
+EFILE_BASEKORP;buzprg.xcam;FROM BUZULUK TO PRAGUE ;13;Czechoslovakia;1942;WW2;Alexandr Bátora
+EFILE_BASEKORP;camp6bn10.xcam;WE SEARCH FOR WAYS 1940-44 V2019.04;48;Germany – Third Reich;1940;WW2;Björn (Golothin), Brian Gosley (Puma)
+EFILE_BASEKORP;camp6jh1.xcam;BLITZ 2008 V2019.02;32;Germany – Third Reich;1938;WW2;Craig Miller, Jan Hedström (PzManiac)
+EFILE_BASEKORP;camp8.xcam;SAPPER’S AXIS CAMPAIGN V2019.04;22;Italy;1938;WW2;Bill Guevremont (Sapper), Brian Gosley (Puma)
+EFILE_BASEKORP;cas7ger.xcam;GERMAN WORLD CAMPAIGN V2019.04;45;Germany – Third Reich;1938;WW2;Andreas Seidel, Jan Hedström (PzManiac)
+EFILE_BASEKORP;dasreich.xcam;DAS REICH V2019.04;38;Germany – Waffen SS;1939;WW2;Jurgen Smet (Wonderdoctor), Brian Gosley (Puma)
+EFILE_BASEKORP;dragrom.xcam;ROMANIAN CAMPAIGN 1941-45 V2019.04;17;Romania;1941;WW2;Drag Dasan (Drag D), Brian Gosley (Puma)
+EFILE_BASEKORP;europe_at_war.xcam;EUROPE AT WAR V2019.04;25;Germany – Third Reich;1939;WW2;Brian Gosley (Puma)
+EFILE_BASEKORP;german.xcam;SHORT GERMAN CAMPAIGN 1938-1945 V2018.09;15;Germany – Third Reich;1938;WW2;Alexandr Bátora
+EFILE_BASEKORP;germany_at_war.xcam;GERMANY AT WAR V2019.02;30;Germany – Third Reich;1937;WW2;Brian Gosley (Puma)
+EFILE_BASEKORP;ggopengg2.xcam;GUDERIAN’S GAMBIT V2019.04;21;Germany – Third Reich;1939;WW2;Doug Hone (dhoned), Brian Gosley (Puma)
+EFILE_BASEKORP;ka_camp1.xcam;OPEN AK BLITZKRIEG V2019.04;23;Germany – Third Reich;1938;WW2;Owen Stairs (Llewen), Kristjan Ambroz, Brian Gosley (Puma)
+EFILE_BASEKORP;lssah-it.xcam;MEINE EHRE HEISST TREUE - LSSAH V2019.04;19;Germany – Third Reich;1939;WW2;Immortal Technique, Brian Gosley (Puma)
+EFILE_BASEKORP;mussoak.xcam;MUSSOLINI’S AFRIKA KORPS V2019.04;30;Italy;1940;WW2;Jurgen Smet (Wonderdoctor), Brian Gosley (Puma)
+EFILE_BASEKORP;oldiron.xcam;OLD IRONSIDES – 1st US ARMORED DIVISION V2019.04;13;United States (USA);1942;WW2;Jurgen Smet (Wonderdoctor), Brian Gosley (Puma)
+EFILE_BASEKORP;panther.xcam;PANTHERS IN THE MUD V1.0;8;Germany – Third Reich;1941;WW2;Alexandr Bátora
+EFILE_BASEKORP;rcampdfr.xcam;SOVIET BLACK SEA CAMPAIGN 1941-44 V2019.04;26;Soviet Union – USSR;1941;WW2;Dennis Felling (armygroupdf), Brian Gosley (Puma)
+EFILE_BASEKORP;sealion.xcam;OPERATION SEALION V2019.02;18;Germany – Third Reich;1939;WW2;Randowe, Brian Gosley (Puma)
+EFILE_BASEKORP;spzbrg.xcam;SPEZIAL STURMBRIGADE “BISTROFF” V2019.04;25;Germany – Third Reich;1937;WW2;Alexandr Bátora, Brian Gosley (Puma)
+EFILE_BASEKORP;ssbdm.xcam;SS BDM (LEAGUE OF GERMAN GIRLS) CAMPAIGN V2019.07;32;Germany – Waffen SS;1939;WW2;Brian Gosley (Puma), Savannah
+EFILE_BASEKORP;xbk_blitz.xcam;BLITZKRIEG USING BASEKORPS V2019.04;19;Germany – Third Reich;1937;WW2;Brian Gosley (Puma)
+EFILE_Clu;armclu.cam;ARMAGEDDON - FINAL BATTLE BETWEEN THE ODER AND THE ELBE ;22;Germany – Third Reich;1945;WW2;Christian Ludwig (Clu)
+EFILE_COMWW2;camp1.xcam;BLITZKRIEG COMPLETE ;25;Germany – Third Reich;1938;WW2;George (MG43)
+EFILE_COMWW2;camp2.xcam;DEFENDING THE REICH ;6;Germany – Third Reich;1942;WW2;George (MG43)
+EFILE_COMWW2;camp6jh3.cam;BLITZ 2012 V1.0;37;Germany – Third Reich;1938;WW2;Jan Hedström (PzManiac)
+EFILE_COMWW2;camp6st.xcam;STALINGRAD ;20;Germany – Third Reich;1942;WW2;Jorge Gabitto, George (MG43)
+EFILE_COMWW2;campbr.xcam;BARBAROSSA: RUSSO-GERMAN WAR V1.1;50;Germany – Third Reich;1939;WW2;Guillermo Bores (Guille), Jorge Gabitto
+EFILE_COMWW2;ga1.xcam;NO PRICE TOO HIGH V2019.10;16;Canada;1941;WW2;George (MG43)
+EFILE_COMWW2;ga2.xcam;BLACK ANGELS: THE 5TH SS WIKING V2012.05;16;Germany – Waffen SS;1941;WW2;George (MG43)
+EFILE_COMWW2;ga3.xcam;ARCTIC STORMS ;13;Finland;1939;WW2;George (MG43)
+EFILE_COMWW2;ga4.xcam;ZHUKOV: RED GOD OF WAR V2011.11;17;Soviet Union – USSR;1939;WW2;George (MG43)
+EFILE_COMWW2;huncam.xcam;HUNGARIAN ROYAL ARMY 1939-45 V1.2;19;Hungary;1939;WW2;Csaba Zsadányi-Nagy (lvjtn)
+EFILE_GCE;csc.xcam;CRUZADA EN ESPAÑA 1936-39 ;13;Spain – Nationalists;1936;WW2;Santiago Fuertes
+EFILE_GCE;gce.xcam;EJÉRCITO POPULAR ESPAÑOL 1936-39 ;12;Spain – Republicans;1936;WW2;Santiago Fuertes
+EFILE_GCE;gcn.xcam;NORTE EN LLAMAS 1936-37 ;9;Spain – Nationalists;1936;WW2;Santiago Fuertes
+EFILE_KAISER;acampdf2.xcam;CZECH LEGION - SIBERIAN ANABASIS 1917-20 V1.3;11;Czechoslovakia – Legion;1917;Imperialism/WW1;Dennis Felling (armygroupdf), von Schweinewitz
+EFILE_KAISER;aljf.xcam;A LONG JOURNEY TO FREEDOM 1848-1865 V1.1;26;United States (USA) – Union;1848;Imperialism/WW1;Spasteur de Mont Tonnerre, Randowe
+EFILE_KAISER;banzbalt.xcam;ANZAC CAMPAIGN 1915-18 V1.1;21;United Kingdom – Great Britain;1915;Imperialism/WW1;Doug Hone (dhoned), Juan Carlos Preciado (Juankar)
+EFILE_KAISER;bgc.xcam;BRITISH GALLIPOLI CAMPAIGN 1915-16 V1.0;12;United Kingdom – Great Britain;1915;Imperialism/WW1;Patrick Steinmann, von Schweinewitz
+EFILE_KAISER;bulg.xcam;BULGARIAN CAMPAIGN 1912-18 V1.0;27;Bulgaria;1912;Imperialism/WW1;Urica
+EFILE_KAISER;carl_eng.xcam;THE CAUSE CRUSADERS 1872-7? V1.0;10;Spain – Carlists;1872;Imperialism/WW1;Urica
+EFILE_KAISER;ccampdfc.xcam;BOLSHEVIK CAVALRY CAMPAIGN 1919-20 V1.0;13;Russia – Communists;1919;Imperialism/WW1;Dennis Felling (armygroupdf), von Schweinewitz
+EFILE_KAISER;eefc.xcam;THE LAST CRUSADE 1915-17 V1.1;11;United Kingdom – Great Britain;1915;Imperialism/WW1;Patrick Steinmann, von Schweinewitz
+EFILE_KAISER;fgtm.xcam;FOR GOD, TSAR AND MOTHERLAND 1904-17 V1.2;50;Russia – Empire;1904;Imperialism/WW1;Juan Carlos Preciado (Juankar), Toliy, von Schweinewitz
+EFILE_KAISER;fr.xcam;ILS NE PASSERONT PAS! 1884-18 V1.0;20;France – Republic;1884;Industrialism;Urica, Jurgen Smet (Wonderdoctor), Patrick Steinmann, Spasteur de Mont Tonnerre
+EFILE_KAISER;gea.xcam;HEIA SAFARI 1914-18 V1.1;18;Germany – Empire;1914;Imperialism/WW1;Guillermo Bores (Guille), Urica
+EFILE_KAISER;geazy.xcam;EASY SAFARI 1914-18 V1.1;18;Germany – Empire;1914;Imperialism/WW1;Zé Carneiro (Aries No Mu), Guillermo Bores (Guille), Urica
+EFILE_KAISER;gren.xcam;THE GRENADIER GUARD 1879-1918 V2.0;22;United Kingdom – Great Britain;1879;Imperialism/WW1;Urica
+EFILE_KAISER;heist.xcam;ESTONIAN INDEPENDENCE CAMPAIGN 1917-19 V1.2;19;Estonia;1917;Imperialism/WW1;Juan Carlos Preciado (Juankar), Toliy, von Schweinewitz
+EFILE_KAISER;hotb.xcam;HOME OF THE BRAVE 1898-1918 V1.0;14;United States (USA);1898;Imperialism/WW1;Urica
+EFILE_KAISER;kuk.xcam;KAISERLICH UND KÖNIGLICH. AUSTRO-HUNGARIAN CAMPAIGN 1914-19 V1.0;24;Austria-Hungary – KuK;1914;Imperialism/WW1;Urica
+EFILE_KAISER;kuk11cav.xcam;KUK 11TH ROYAL CAVALRY DIVISION 1914-18 V1.1;15;Austria-Hungary – KuK;1914;Imperialism/WW1;Csaba Zsadányi-Nagy (lvjtn)
+EFILE_KAISER;lion.xcam;THE LION OF JUDAH 1875-1919 V1.0;16;Ethiopia – Abyssinia;1875;Imperialism/WW1;Urica
+EFILE_KAISER;mar.xcam;THE WAR OF MOROCCO 1909-26 V1.1;10;Spain – Kingdom;1909;Imperialism/WW1;Urica
+EFILE_KAISER;novemberrevolution.xcam;NOVEMBERREVOLUTION 1918 V1.0;4;Germany – Communists;1918;Imperialism/WW1;Mathias Keßler (Matze)
+EFILE_KAISER;pads.xcam;A PLACE AT THE SUN 1900-18 V1.0;7;Germany – Empire;1900;Imperialism/WW1;Spasteur de Mont Tonnerre
+EFILE_KAISER;polrus.xcam;LEGIONY POLSKIE (POLISH LEGIONS) 1914-19 V1.0;8;Poland;1914;Imperialism/WW1;Blitzstoper
+EFILE_KAISER;polska.xcam;POLISH GREAT WAR 1914-20 V1.0;19;Poland;1914;Imperialism/WW1;Blitzstoper, Urica
+EFILE_KAISER;polsov.xcam;THE POLISH-SOVIET WAR 1919-20 V1.0;11;Poland;1919;Imperialism/WW1;Urica
+EFILE_KAISER;prus.xcam;PRUSSIAN CAMPAIGN 1864-1871 V1.0;15;Germany – Prussia;1864;Imperialism/WW1;Urica
+EFILE_KAISER;qing.xcam;THE AWAKENING DRAGON 1884-1900 V1.0;10;China – Qing Empire;1884;Imperialism/WW1;Urica
+EFILE_KAISER;rhu.xcam;FEL, VÖRÖSÖK, PROLETÁROK! 1919 V1.0;10;Hungary – Communists;1919;Imperialism/WW1;Csaba Zsadányi-Nagy (lvjtn)
+EFILE_KAISER;simpob.xcam;SIM POBEDISHI! 1918-20 V1.0;24;Russia – White;1918;Imperialism/WW1;Urica
+EFILE_KAISER;turk.xcam;TURKISH CAMPAIGN 1897-1922 V1.0;20;Turkey – Ottoman Empire;1897;Imperialism/WW1;Jurgen Smet (Wonderdoctor), Urica, Blitzstoper, Guillermo Bores (Guille), Juan Carlos Preciado (Juankar), Marcos Martin (Paqueo), REDrake, Spasteur de Mont Tonnerre, Urica
+EFILE_KAISER;uspanwar.xcam;THE SUNSET OF THE SPANISH EMPIRE 1898 V1.0;14;Spain – Kingdom;1893;Imperialism/WW1;Marcos Martin (Paqueo)
+EFILE_KAISER;volarm.xcam;THE VOLUNTEER ARMY 1918-20 V1.0;19;Russia – White;1918;Imperialism/WW1;Urica
+EFILE_KAISER;vs.xcam;SCHLIEFFEN-PLAN 1914-18 V3.0;27;Germany – Empire;1914;Imperialism/WW1;Jurgen Smet (Wonderdoctor)
+EFILE_KAISER;vuur.xcam;IN VUUR EN BLOED 1899-1902 V1.0;20;South Africa – Boer States;1899;Imperialism/WW1;Urica
+EFILE_KAISER;weltk.xcam;WELTKRIEG 1914-19 V1.0;24;Germany – Empire;1914;Imperialism/WW1;Urica
+EFILE_LXF;acampdfa.xcam;AUSTRIAN CAMPAIGN 1938 V2.2;7;Austria – Republic;1938;WW2;Dennis Felling (armygroupdf), Björn (Golothin)
+EFILE_LXF;bdacamp.xcam;JIHAD 1941-42 V2.2;15;Iraq – Kingdom;1941;WW2;William “Bill” Dickens, Björn (Golothin)
+EFILE_LXF;camp6503.xcam;HEAVY PANZER DETACHMENT 503 1943-45 V2.2;12;Germany – Third Reich;1943;WW2;Björn (Golothin), Csaba Zsadányi-Nagy (lvjtn), Dennis Felling (armygroupdf), Jorge Gabitto, Jurgen Smet (Wonderdoctor)
+EFILE_LXF;camp6bn1.xcam;GREEN DEVILS 1939-45 V5.2;28;Germany – Third Reich;1939;WW2;Björn (Golothin)
+EFILE_LXF;camp6bn10.xcam;WE SEARCH FOR WAYS 1940-44 V1.4;52;Germany – Third Reich;1940;WW2;Björn (Golothin)
+EFILE_LXF;camp6bn11.xcam;SAUDI-YEMENI WAR 1933-34 V1.4;7;Saudi Arabia;1933;WW2;Björn (Golothin)
+EFILE_LXF;camp6bn12.xcam;IMPERIAL JAPANESE NAVY 1937-43 V1.4;23;Japan;1937;WW2;Björn (Golothin)
+EFILE_LXF;camp6bn13.xcam;FRENCH CAMPAIGN 1939-45 V1.1;33;France – Republic;1939;WW2;Björn (Golothin), Steve Brown, Dennis Felling (armygroupdf)
+EFILE_LXF;camp6bn14.xcam;NATIONAL REVOLUTIONARY ARMY 1925-47 V1.0;22;China – Nationalists / ROC;1925;WW2;Björn (Golothin)
+EFILE_LXF;camp6bn16.xcam;ANGLO-AMERICAN WAR AT SEA 1936-37 V0.9;11;United States (USA);1936;WW2;Björn (Golothin)
+EFILE_LXF;camp6bn2.xcam;LEGIONS OF IL DUCE 1934-44 V5.2;23;Italy;1934;WW2;Björn (Golothin)
+EFILE_LXF;camp6bn3.xcam;SECOND SINO-JAPANESE WAR 1936-45 V2.3;25;Japan;1936;WW2;Björn (Golothin)
+EFILE_LXF;camp6bn4.xcam;GREEK CAMPAIGN 1940-49 V1.1;29;Greece;1940;WW2;Björn (Golothin)
+EFILE_LXF;camp6bn5.xcam;STAY ALIVE - RED PARTISANS 1941-45 V1.2;10;Soviet Union – USSR;1941;WW2;Björn (Golothin)
+EFILE_LXF;camp6bn6.xcam;U.S. NAVY AIR FORCES 1941-52 V2.2;21;United States (USA);1941;WW2;Björn (Golothin)
+EFILE_LXF;camp6bn7.xcam;ROYAL NAVY 1939-45 V1.4;18;United Kingdom – Great Britain;1939;WW2;Björn (Golothin)
+EFILE_LXF;camp6bn8.xcam;YUGOSLAV FRONT 1941-45 V1.3;19;Yugoslavia – Communists;1941;WW2;Björn (Golothin)
+EFILE_LXF;camp6bn9.xcam;RED ARMY CAMPAIGN 1936-45. SOVIET CAMPAIGN V1.0;21;Soviet Union – USSR;1936;WW2;Björn (Golothin)
+EFILE_LXF;camp6dft.xcam;TURKISH CAMPAIGN 1939-43 V3.1;18;Turkey – Republic;1939;WW2;Dennis Felling (armygroupdf), Björn (Golothin)
+EFILE_LXF;ccampdfc.xcam;FALL GRUEN 1938 V2.2;7;Germany – Third Reich;1938;WW2;Dennis Felling (armygroupdf), Björn (Golothin)
+EFILE_LXF;condor.xcam;CONDOR LEGION 1936-37 V1.0;5;Germany – Legion Condor;1936;WW2;Jurgen Smet (Wonderdoctor)
+EFILE_LXF;dcampdfd.xcam;DUTCH CAMPAIGN 1940-49 V4.2;15;Netherlands;1940;WW2;Dennis Felling (armygroupdf), Björn (Golothin)
+EFILE_LXF;ethiocamp.xcam;THE WAR OF THE NEGUS 1934-41 V4.1;14;Ethiopia;1934;WW2;Patrice Gaudette (Arpitec), Björn (Golothin)
+EFILE_LXF;facampclu.xcam;WINTER WAR 1939-40 (SINIRISTILIPPU - TALVISOTA) V2.1;17;Finland;1939;WW2;Christian Ludwig (Clu)
+EFILE_LXF;gf.xcam;GERMAN FLEET AT WAR 1939-42 V1.0;7;Germany – Third Reich;1939;WW2;Jurgen Smet (Wonderdoctor)
+EFILE_LXF;ggopengg2.xcam;GUDERIAN’S GAMBIT 1939-41 V4.0;22;Germany – Third Reich;1939;WW2;Csaba Zsadányi-Nagy (lvjtn), Doug Hone (dhoned)
+EFILE_LXF;huncam.xcam;HUNGARIAN ROYAL ARMY 1939-45 V2.6;19;Hungary;1939;WW2;Csaba Zsadányi-Nagy (lvjtn), Björn (Golothin)
+EFILE_LXF;kcampdfk.xcam;DEUTSCHE MARINEKORPS CAMPAIGN 1937-45 V3.3;22;Germany – Third Reich;1937;WW2;Dennis Felling (armygroupdf), Björn (Golothin)
+EFILE_LXF;mcampdfm.xcam;CZECHOSLOVAK CAMPAIGN 1939-45 V2.2;8;Czechoslovakia;1939;WW2;Dennis Felling (armygroupdf), Björn (Golothin)
+EFILE_LXF;nbdcamp.xcam;DOGS OF WAR 1938-45 V2.2;35;United States (USA);1938;WW2;Guillermo Bores (Guille), William “Bill” Dickens
+EFILE_LXF;ncampdfn.xcam;NORTH KOREAN CAMPAIGN 1950-51 V1.9;14;North Korea;1950;Modern;Dennis Felling (armygroupdf), Björn (Golothin)
+EFILE_LXF;pcampdfp.xcam;PORTUGUESE CAMPAIGN 1936-45 V2.2;12;Portugal;1936;WW2;Dennis Felling (armygroupdf), Björn (Golothin)
+EFILE_LXF;redalert.xcam;RED ALERT 1940-42 V1.9;22;United Kingdom – Great Britain;1940;WW2;Austin Gunsauley (redfox)
+EFILE_LXF;reddestiny.xcam;RED DESTINY 1946-54 V1.9;19;Soviet Union – USSR;1946;WW2;Austin Gunsauley (redfox)
+EFILE_LXF;tut.xcam;FIRST STEPS: BASIC TUTORIAL CAMPAIGN V2.1;3;Germany – Third Reich;1943;WW2;Guillermo Bores (Guille)
+EFILE_LXF;wdaccamp.xcam;DIGGERS AT WAR 1941-45 V2.1;20;Australia;1940;WW2;William “Bill” Dickens, Björn (Golothin)
+EFILE_NOKORP;NO45RussCam.xcam;BARBAROSSA 1945 V2018.09;15;Germany – Third Reich;1945;WW2;None
+EFILE_NOKORP;NOBuSands.xcam;BURNING SANDS V2018.12;18;Germany – Third Reich;1940;WW2;None
+EFILE_NOKORP;NOGGetEm.xcam;GO GET ‘EM! V2019.03;17;Ordrac;1940;Fictional/Fantasy;None
+EFILE_NOKORP;NOMarinExp.xcam;THE MARINE EXPEDITIONARY FORCE V2018.06;24;Germany – Third Reich;1944;WW2;None
+EFILE_OLGCW;nvc.cam;VIET CONG & NORTH VIETNAM CAMPAIGN ;12;Vietnam – Communists / Viet Cong;1964;Modern;Santiago Fuertes
+EFILE_OLGWW2;18days.xcam;THE CAMPAIGN OF THE 18 DAYS V1.0;12;Belgium;1938;WW2;Marcos Martin (Paqueo)
+EFILE_OLGWW2;camp6jh3.cam;BLITZ 2008 V3.2;49;Germany – Third Reich;1938;WW2;Craig Miller, Jan Hedström (PzManiac)
+EFILE_OLGWW2;camp6n42.cam;NOVEMBER 1942 V3.1;15;Germany – Third Reich;1942;WW2;Jan Hedström (PzManiac), Maarten Folkers (jaapfff)
+EFILE_OLGWW2;dak.cam;DEUTSCHES AFRIKA-KORPS V1.0;36;Germany – Third Reich;1941;WW2;Pablo Schlegel, Santiago Fuertes
+EFILE_OLGWW2;gcn.cam;CRUSADE IN SPAIN: NORTH IN FLAMES ;9;Spain – Nationalists;1936;WW2;Santiago Fuertes
+EFILE_OLGWW2;rs.cam;RISING SUN V2.0;45;Japan;1937;WW2;Pablo Schlegel, Santiago Fuertes
+EFILE_OLGWW2;rsoc.cam;RED STAR OVER CHINA ;19;China – Communists / Jiangxi Soviet;1927;Imperialism/WW1;Santiago Fuertes
+EFILE_OoB;bcampdfb.xcam;AUSTRALIAN BOUGAINVILLE CAMPAIGN 1944-45 V1.1;19;Australia;1944;WW2;Dennis Felling (armygroupdf), HundredDays (JAC)
+EFILE_OoB;fwfllwss.xcam;FALL WEISS: POLAND 1939 V1.1;12;Germany – Third Reich;1939;WW2;Santiago Fuertes, HundredDays (JAC)
+EFILE_OoB;ga1.xcam;NO PRICE TOO HIGH V2016.01;16;Canada;1941;WW2;George (MG43), HundredDays (JAC)
+EFILE_OoB;huncam.xcam;HUNGARIAN ROYAL ARMY 1939-45 V2.5;14;Hungary;1939;WW2;Csaba Zsadányi-Nagy (lvjtn), HundredDays (JAC)
+EFILE_OoB;kcampdfk.xcam;DEUTSCHE MARINEKORPS CAMPAIGN 1937-45 V4.0;19;Germany – Third Reich;1937;WW2;Dennis Felling (armygroupdf), HundredDays (JAC)
+EFILE_OoB;lcampdfl.xcam;22. INFANTERIE-DIVISION CAMPAIGN ;16;Germany – Third Reich;1939;WW2;Dennis Felling (armygroupdf), HundredDays (JAC)
+EFILE_OoB;spzbrg.xcam;SPEZIAL STURMBRIGADE “BISTROFF” V2016.03;25;Germany – Third Reich;1937;WW2;Alexandr Bátora, HundredDays (JAC)
+EFILE_OoB;wdsaccamp.xcam;DIGGERS AT WAR 1941-45 V2.0;19;Australia;1941;WW2;William “Bill” Dickens, HundredDays (JAC)
+EFILE_OoB;zboob.xcam;BLITZKRIEG: ORDER OF BATTLE V1.0;16;Germany – Third Reich;1937;WW2;HundredDays (JAC)
+EFILE_OPENAK;bc_it.xcam;FOR KING AND EMPIRE V3.0;22;United Kingdom – Great Britain;1940;WW2;Immortal Technique
+EFILE_OPENAK;buzprg.cam;FROM BUZULUK TO PRAGUE ;13;Czechoslovakia;1942;WW2;Alexandr Bátora
+EFILE_OPENAK;camp6503.xcam;BUILDERS PARADISE SCHWERE PANZERABTEILUNG 503 CAMPAIGN ;12;Germany – Third Reich;1943;WW2;Csaba Zsadányi-Nagy (lvjtn), Dennis Felling (armygroupdf), Jorge Gabitto, Jurgen Smet (Wonderdoctor)
+EFILE_OPENAK;condor.xcam;CONDOR LEGION V1.0;5;Germany – Legion Condor;1936;WW2;Jurgen Smet (Wonderdoctor)
+EFILE_OPENAK;dasreich.xcam;DAS REICH V2.1;38;Germany – Waffen SS;1939;WW2;Jurgen Smet (Wonderdoctor)
+EFILE_OPENAK;dragrom.cam;ROMANIAN CAMPAIGN 1941-45 V1.0;18;Romania;1941;WW2;Drag Dasan (Drag D)
+EFILE_OPENAK;ggopengg2.cam;GUDERIAN’S GAMBIT ;22;Germany – Third Reich;1939;WW2;Doug Hone (dhoned)
+EFILE_OPENAK;ka_camp1.xcam;OPEN AK BLITZKRIEG V2.16;24;Germany – Third Reich;1938;WW2;Owen Stairs (Llewen), Kristjan Ambroz
+EFILE_OPENAK;mussoak.xcam;MUSSOLINI’S AFRIKA KORPS V3.0;31;Italy;1940;WW2;Jurgen Smet (Wonderdoctor)
+EFILE_OPENAK;oaksb_00_camp.xcam;OPEN AK SSI BLITZKRIEG WH V3.03;24;Germany – Third Reich;1938;WW2;Owen Stairs (Llewen), Kristjan Ambroz
+EFILE_OPENAK;oldiron.xcam;OLD IRONSIDES – 1st US ARMORED DIVISION V1.0;13;United States (USA);1942;WW2;Jurgen Smet (Wonderdoctor)
+EFILE_OPENAK;spzbrg.xcam;SPEZIAL STURMBRIGADE “BISTROFF” V2012.11;25;Germany – Third Reich;1937;WW2;Alexandr Bátora
+EFILE_OPENAK;tut.xcam;BASIC TUTORIAL CAMPAIGN ;3;Germany – Third Reich;1943;WW2;Guillermo Bores (Guille)
+EFILE_OPENPEG;1uscamp.xcam;WESTERN CAMPAIGN V1.2;20;United States (USA);2005;Modern;George (MG43)
+EFILE_OPENPG;cam1.xcam;1939 CAMPAIGN V1.0;41;Germany – Third Reich;1939;WW2;George (MG43)
+EFILE_PzLIGA;ow.xcam;OPERATION WESERUBUNG ;14;Germany – Third Reich;1940;WW2;Santiago Fuertes
+EFILE_PzLIGA;rs_eng.xcam;RISING SUN V2.0;45;Japan;1937;WW2;Pablo Schlegel, Santiago Fuertes, Mathias Keßler (Matze)
+EFILE_ROI;roi.xcam;RUSSIA ON ICE V1.0;11;Germany – Third Reich;1941;WW2;Gotha229
+EFILE_SON;fio1848.xcam;FOR THE INDIVISIBLE ÖSTERREICH 1848-49 V1.1;20;Austria – Empire;1848;Industrialism;Csaba Zsadányi-Nagy (lvjtn)
+EFILE_SON;hiw1848.xcam;HUNGARIAN INDEPENDENCE WAR 1848-49 V1.3;26;Hungary;1848;Industrialism;Csaba Zsadányi-Nagy (lvjtn)
+EFILE_SON;iem1846.xcam;INTERVENCIÓN ESTADOUNIDENSE EN MÉXICO 1846-47 V1.0;9;Mexico – Republic;1846;Industrialism;Csaba Zsadányi-Nagy (lvjtn)
+EFILE_SON;prs1756.xcam;PRUSSIAN SEVEN YEARS WAR CAMPAIGN 1756-62 V0.9;23;Germany – Prussia;1756;Industrialism;Csaba Zsadányi-Nagy (lvjtn), Michael Nowak (Micha), Duke Falcon
+EFILE_SON;tmw1835.xcam;TEXIAN REVOLUTION 1835-36 “COME AND TAKE IT!” V1.0;7;Texas;1835;Industrialism;Csaba Zsadányi-Nagy (lvjtn), Michael Nowak (Micha)
+EFILE_SON;umw1846.xcam;USA - MEXICO WAR 1846-47 V1.0;10;United States (USA);1846;Industrialism;Csaba Zsadányi-Nagy (lvjtn), Michael Nowak (Micha)

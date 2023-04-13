@@ -1,0 +1,144 @@
+Sedan Bridgehead
+Meuse
+Rocroi
+Revin
+la Rova
+Montherme
+Semoy
+Mouzaire
+Rimogne
+Renwez
+Nouzonville
+Bouillon
+Stacks at Objectives
+Charleville-Mezieres
+Liart
+Vence
+Boulzicourt
+Glaire
+Signy-l'Abbaye
+Flize
+Donchery
+Torcy
+Sedan
+Dom-le-Mesnil
+Bar
+Villers sur Bar
+Wadelincourt
+Chiers
+Poix-Terron
+Feucheres
+La Horgne
+Omicourt
+Bulson
+Mouzon
+Omont
+Vendresse
+Chemery
+Novion-Porcien
+Bouvellemont
+Malmy
+Chagny
+Mont-Dieu
+la Basace
+Yoncq
+Sauville
+Stonne
+Louvergny
+Aisne
+Canal des Ardennes
+Tannay
+Rethel
+Le Chesne
+Attigny
+Buzancy
+Vouziers
+4/120/71st Inf(X)
+1/120/71st Inf(X)
+1/331/55th Inf(X)
+2/331/55th Inf(X)
+1/205/71st Inf(X)
+4/205/71st Inf(X)
+1/6/102nd Garrison(X)
+6/295/55th Inf(X)
+1/213/55th Inf(X)
+8/213/55th Inf(X)
+5/246/71st Inf(X)
+1/246/71st Inf(X)
+3/331/55th Inf(X)
+4/213/55th Inf(X)
+3/205/71st Inf(X)
+5/3/2nd LgtCav/(X)
+5/3/2nd LgtCav/(X)
+2/1Huss/1st Cav/(X)
+1/1Huss/1st Cav/(X)
+I/JG 51(II)LF2
+KG West Staging Area
+KG East Staging Area
+Pontoon Bridge at Sedan
+Artillery
+Rethel Fortifications
+Liart Fortifications
+Charleville-Mezieres Fortifications
+Tannay Fortifications
+St. Aignan Fortifications
+Sedan Fortification
+Sedan Fortification (Incomplete)
+Renwez Fortifications
+Le Chesne Fortifications
+Stonne Fortifications
+Chemery Fortifications
+Mouzon Fortifications
+II/SKG 210(II)LF2
+I/StG 77(II)LF2
+II/StG 77(II)LF2
+III/StG 77(II)LF2
+IV/StG 77(II)LF2
+Bulson Fortifications
+12/I/103/RAF
+11/I/103/RAF
+6/I/12/RAF
+5/I/12/RAF
+1/III/185/RA
+4/III/185/RA
+9/III/185/RA
+17/III/185/RA
+21/III/185/RA
+I/45/55th Inf(X)
+II/45/55th Inf(X)
+III/45/55th Inf(X)
+IV/45/55th Inf(X)
+V/45/55th Inf(X)
+VI/45/55th Inf(X)
+VII/45/55th Inf(X)
+1/21/3rd Col Inf(X)
+3/21/3rd Col Inf(X)
+4/21/3rd Col Inf(X)
+2/23/3rd Col Inf(X)
+3/23/3rd Col Inf(X)
+1/23/3rd Col Inf(X)
+2/1/3rd Col Inf(X)
+3/1/3rd Col Inf(X)
+7/503/3rd DCR(X)
+7/503/3rd DCR(X)
+7/503/3rd DCR(X)
+4/503/3rd DCR(X)
+4/503/3rd DCR(X)
+I/74/2nd Pz(XIX)
+II/74/2nd Pz(XIX)
+III/74/2nd Pz(XIX)
+2/5/102nd Garrison(X)
+1/4/102nd Garrison(X)
+1/3/102nd Garrison(X)
+3/2/102nd Garrison(X)
+I/5/2nd Inf(Res)(XIX)
+II/5/2nd Inf(Res)(XIX)
+I/25/2nd Inf(Res)(XIX)
+II/25/2nd Inf(Res)(XIX)
+1/258/3rd Col Inf(X)
+3/145/55th Inf(X)
+2/415/55th Inf(X)
+3/415/55th Inf(X)
+3/162/55th Inf(X)
+II/2/2nd Pz(XIX)
+III/38/2nd Pz(XIX)

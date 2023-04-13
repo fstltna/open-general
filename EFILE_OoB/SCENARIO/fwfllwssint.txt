@@ -1,0 +1,23 @@
+Fall Weiss, Poland 1939
+
+FALL WEISS, POLAND 1939
+
+Version: 1.1
+Number of Scenarios: 12 (three paths of four)
+Player Country: WWII Germany
+Campaign Designer: Santiago Fuertes
+Campaign Converter: HundredDays
+
+
+"Case White" - the German invasion of Poland, 1939.
+
+[From the Alderkorps site:]
+The German Wehrmacht, consisting of three Heeresgruppen, stand ready to invade Poland from the north, the south and the west. The Poles, brave, well-trained and with a high morale, have mobilised and stand ready to defend their homeland. Already, as we speak, General, the first shots are being fired and planes roar by over-head. You will take command of a Panzerkorps to lead our men towards victory, towards the recapture of the territories lost after the first world war. You will lead our men in Fall Weiss, the invasion of Poland. Good luck, Herr General. 
+
+
+
+
+
+
+--------------------------------------------------------------------------
+[Adapted for the OoB OpenGeneral Efile by HD.]

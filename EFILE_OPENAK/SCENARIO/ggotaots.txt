@@ -1,0 +1,172 @@
+Operation Typhoon-Attack of the Siberians
+River Upa
+River Shat
+Tula
+Sheplovo
+Storozhevaya
+Ketri
+Luvovitsy
+Pron'no
+Gurovo
+Volot'
+Prisady
+Mesocherkoye
+Zybasovo
+Ivlovo
+Bronnokovo
+Luznka
+Rozhdesvenka
+Gomovo
+Dubki
+Kolodeznaya
+Kryukovo
+Torkovo
+Lomitsevo
+River Plava
+Plavsk
+Novomoskovsk
+Donskoy
+Severo-Zadonsk
+Kimovsk
+Sovetsk
+Shohekino
+Uzlovaya
+Kireyevsk
+Bogoroditsk
+Kuzovka
+Tovarkovskiy
+I/GD(XLIII)
+II/GD(XLIII)
+III/GD(XLIII)
+I/11/1st Guards Cav(L)
+II/96/1st Guards Cav(L)
+I/131/1st Guards Cav(L)
+I/160/1st Guards Cav(L)
+II/5/2nd Guards Cav(L)
+II/72/2nd Guards Cav(L)
+I/108/2nd Guards Cav(L)
+I/136/2nd Guards Cav(L)
+II/1085/322nd Rifle(X)
+I/1087/322nd Rifle(X)
+I/1089/322nd Rifle(X)
+I/1086/323rd Rifle(X)
+II/378/173rd Rifle(L)
+II/490/173rd Rifle(L)
+I/1088/323rd Rifle(X)
+II/437/154th Rifle(L)
+I/473/154th Rifle(L)
+II/510/154th Rifle(L)
+I/1320/413th Rifle(L)
+II/1322/413th Rifle(L)
+II/1090/323rd Rifle(X)
+I/1091/324th Rifle(X)
+I/1093/324th Rifle(X)
+I/1095/324th Rifle(X)
+I/1092/325th Rifle(X)
+II/1094/325th Rifle(X)
+II/1096/325th Rifle(X)
+II/1097/326th Rifle(X)
+I/1099/326th Rifle(X)
+II/1101/326th Rifle(X)
+II/740/217th Rifle(L)
+II/755/217th Rifle(L)
+I/766/217th Rifle(L)
+II/878/290th Rifle(L)
+II/882/290th Rifle(L)
+I/885/290th Rifle(L)
+I/1103/328th Rifle(X)
+II/1105/328th Rifle(X)
+II/1107/328th Rifle(X)
+I/1140/340th Rifle(L)
+I/1142/340th Rifle(L)
+I/1144/340th Rifle(L)
+I/405/258th Rifle(L)
+II/991/258th Rifle(L)
+II/999/258th Rifle(L)
+I/991/258th Rifle(L)
+I/1109/330th Rifle(X)
+II/1111/330th Rifle(X)
+I/1113/330th Rifle(X)
+I/168/41st Cav(X)
+II/1142/340th Rifle(L)
+II/170/41st Cav(X)
+I/172/41st Cav(X)
+I/212/57th Cav(X)
+I/111/31st Cav(L)
+I/114/31st Cav(L)
+II/116/31st Cav(L)
+I/9/9th Tk Brigade(L)
+II/9/9th Tk Brigade(L)
+III/9/9th Tk Brigade(L)
+I/32/32nd Tk Brigade(L)
+II/32/32nd Tk Brigade(L)
+III/32/32nd Tk Brigade(L)
+I/124/112th Tk(L)
+I/125/112th Tk(L)
+III/606/328th Rifle(X)
+III/607/330th Rifle(X)
+I/48/24th Tk(L)
+I/49/24th Tk(L)
+I/389/330th Rifle(X)
+I/388/328th Rifle(X)
+III/220/173rd Rifle(L)
+III/603/322nd Rifle(X)
+I/297/322nd Rifle(X)
+I/295/328th Rifle(X)
+II/143/154th Rifle(L)
+II/291/413th Rifle(L)
+II/464/154th Rifle(L)
+III/507/173rd Rifle(L)
+I/270/112th Rifle(L)(REM)
+I/560/260th Rifle(L)(REM)
+II/886/322nd Rifle(X)
+II/892/323rd Rifle(X)
+II/886/326th Rifle(X)
+II/887/324th Rifle(X)
+II/841/258th Rifle(L)
+II/893/325th Rifle(X)
+I/580/154th Rifle(L)
+I/911/340th Rifle(L)
+II/726/217th Rifle(L)
+II/827/290th Rifle(L)
+49IAP/1ShAD
+50IAP/1ShAD
+66IAP/1ShAD
+89IAP/1ShAD
+120BAD/1ShAD
+119BAD/1ShAD
+121BAD/1ShAD
+129BAD/1ShAD
+II/12/31st Inf(XLIII)
+I/17/31st Inf(XLIII)
+I/82/31st Inf(XLIII)
+II/431/131st Inf(XLIII)
+I/432/131st Inf(XLIII)
+I/434/131st Inf(XLIII)
+IV/GD(XLIII)
+V/GD(XLIII)
+Replace losses OS/UG
+I/110/112th Inf(LIII)
+II/256/112th Inf(LIII)
+I/258/112th Inf(LIII)
+I/315/167th Inf(LIII)
+I/331/167th Inf(LIII)
+II/339/167th Inf(LIII)
+III/238/167th Inf(LIII)
+I/40/167th Inf(LIII)
+I/112/112th Inf(LIII)
+III/112/112th Inf(LIII)
+II/112/112th Inf(LIII)
+IV/JG 51(II)LF2
+II/StG 77(II)LF2
+III/31/31st Inf(XLIII)
+II/131/131st Inf(XLIII)
+II/400/GD [XLIII]
+I/400/GD [XLIII]
+III/131/131st Inf(XLIII)
+VI/GD(XLIII)
+A loss still progresses
+I/999/258th Rifle(L)
+Wait for the "exit" unit
+Take 1,28 to end scenario
+Permission to withdraw given

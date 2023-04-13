@@ -1,0 +1,22 @@
+'---
+'Config AI file for scenario: xbk15.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=14 items  ' Replacement for default list
+ 530  '  YaK-1  [FTR  Russia]  Cost: 564
+ 535  '  LaGG-3  [FTR  Russia]  Cost: 564
+ 537  '  MiG-3  [FTR  Russia]  Cost: 564
+ 538  '  I-16-29  [FTR  Russia]  Cost: 504
+ 542  '  IL-2  [ TB  Russia]  Cost: 636
+ 979  '  Pe-2  [ TB  Russia]  Cost: 720
+ 985  '  SB 2  [ TB  Russia]  Cost: 564
+ 995  '  Pe-2R  [ TB  Russia]  Cost: 408
+1777  '  Pe-8  [ LB  Russia]  Cost: 720
+1846  '  I-16-10  [FTR  Russia]  Cost: 456
+1850  '  Pe-3  [FTR  Russia]  Cost: 576
+1853  '  Ar-2  [ TB  Russia]  Cost: 636
+1856  '  Su-2  [ TB  Russia]  Cost: 432
+2589  '  R-10   [ TB  Russia]  Cost: 384

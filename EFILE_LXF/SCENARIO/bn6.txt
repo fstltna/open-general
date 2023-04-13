@@ -1,0 +1,23 @@
+1941-52 U.S. NAVY AIR FORCES
+
+Lead the famous carrier-based U.S. air strike forces in the fulminate air-sea battles of the Pacific war.
+This is a historical campaign, almost all the battles were fought and I have tried - in the context of this game - to reproduce these more or less exactly. They includes episodes of the big five "carrier-versus-carrier" air-sea battles - Coral Sea, Midway, Eastern Solomons, Santa Cruz and Philippine Sea and episodes of the Solomon Islands, Gilbert and Marshall Islands, Philippines and Ryukyu Islands major campaigns of the Pacific war.
+
+The campaign is different from classic PG2-campaigns, because you can only buy air units and the old well-known victory condition - occupation of VH's - plays a minor role. However, to provide variety, in some battles you get auxiliary ground units at your side and this scenarios - supported by auxiliary naval and your air forces - are dominated by superior American firepower. At short Air Strike missions unfortunately luck in the combat results plays sometimes a role. If you do not reach the goals in such a mission due to unfortunate results or worse tactics - I can not know - this does not lead to the end of the campaign and you can continue with next scenario. The campaign uses the "elite/green replacements" feature. Units which had suffered losses in battle, have experience points a pay if you use green replacement, depending on the amount of the losses. Your core units are not automatically refreshed after a scenario, so avoid wasteful or unnecessary attacks. Furthermore, you can add so-called attachments to your units that increase their effectiveness, but cost you some prestige.
+
+Your core consists of carrier-based aircraft and is with about 10 units rather small and manageable. In scenario briefings you find recommendations for the development of your core.
+
+The campaign is played quickly, then scenarios are short in the majority. I have it designed to have fun, so the difficult level is easy to moderate at 100%, but at 50% or lower it can be challenging. In many scenarios fuel and ammunition of your aircraft is essential and should be given special attention. Also some new innovations of OpenGeneral, like air units deployment/escape hexes, hangar and kamikaze units, green replacements and unit attachments come to use in this campaign with which you will get familiar.
+
+Enjoy!
+
+Björn aka Golothin
+
+Special thanks to Luis for OpenGeneral and the enormous work behind it, he made this campaign possible! Csaba with testing, von Schweinewitz with his cool U.S. Navy aircraft icons, Santiago Fuertes with his beautiful maps and many others supported the campaign. Thank you guys!
+
+Comments, compliments, suggestions or whatever can be sent to: golothin@netscape.net
+
+Campaign Designer: Golothin
+Number of Scenarios: 21
+LXF Version: v2.2
+Last Playtest: 10/2015

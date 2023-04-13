@@ -1,0 +1,82 @@
+Not in Soviet hands
+InfRgt. 8/3 InfD
+InfRgt. 7/3 InfD
+InfRgt. 9/3 InfD
+lt AtyRgt. 3/3 InfD
+Ind (mot.) AT-Bn. 3/3 InfD
+Ind SapBn 4/3 InfD
+How Aty Bde 2
+Ind SapBn 13/6 InfD
+InfRgt. 14/6 InfD
+lt AtyRgt. 23/6 InfD
+InfRgt. 16/6 InfD
+InfRgt. 18/6 InfD
+Ind (mot.) AT-Bn. 5/6 InfD
+hvy Tk Rgt 4
+89 RflRgt/23 RflD
+117 RflRgt/23 RflD
+225 RflRgt/23 RflD
+106 AT-Bn/23 RflD
+211 Aty Rgt/23 RflD
+1067 RflRgt/311 RflD
+1069 RflRgt/311 RflD
+1071 RflRgt/311 RflD
+371 AT-Bn/311 RflD
+855 Aty Rgt/311 RflD
+446 RflRgt/397 RflD
+447 RflRgt/397 RflD
+448 RflRgt/397 RflD
+26 AT-Bn/397 RflD
+1015 Aty Rgt/397 RflD
+1282 AA Rgt/61 Army
+312 Gds hvy SP Aty Rgt/61 Army
+1 Ftr Rgt/1 Air D
+10 Ftr Rgt/3 Ftr D
+11 Ftr Rgt/3 Ftr D
+6 Air Ass Rgt/2 Air Ass D
+7 Air Ass Rgt/2 Air Ass D
+Mrt Rgt 1
+AT Aty Rgt 19
+4/41 SP Mrt Rgt
+Ruehstaedt
+Abbendorf
+Legde
+Quitzoebel
+Nitzow
+Gloewen
+Neukirchen
+Werben
+Behrendorf
+Berge
+Havelberg
+Iden
+Hindenburg
+Walsleben
+Duesedau
+Goldbeck
+Uchte
+Grosse Waesserung
+Elbe
+Havel
+Truebengraben
+Guelper See
+Rhinkanal
+Dosse
+Alte Jaeglitz
+Barenthin
+Breddin
+Stuedenitz
+Zernitz
+Lohm
+Brenkenhof
+Sieversdorf
+Friedrichsdorf
+Sandau
+Wulkau
+Kamern
+Rehberg
+Kuhlhausen
+Strodehne
+Guelpe
+Rhinow
+Rehberger Berge

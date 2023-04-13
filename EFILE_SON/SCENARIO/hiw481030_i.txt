@@ -1,0 +1,10 @@
+Schwechat
+October 30, 1848
+
+Colonel! The Croatians are licking their deep wounds. Ernõ Kiss and János Damjanich taught a hard lesson to the Serbian rebels. The people of Vienna started another revolution against the Habsburgs. But be careful! Windisch-Grätz is the new Austrian commander in chief instead of the hopelessly untalented Jellachic. His troops are at the gates of Vienna. Keep up moving across the Austrian border and relieve the besieged city! If the enemy were stronger than we expected, you should turn back and save your inexperienced army.
+
+Deploy Hexes: 14
+
+ORDER: You don’t need to take the enemy’s VHs, moving 7 units to the EH gives you safe MV.
+
+scenario designer: Csaba (lvjtn)

@@ -1,0 +1,45 @@
+'---
+'Config AI file for scenario: bk43.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=37 items  ' Replacement for default list
+ 747  '  37mm m/38  [ AT  Sweden]  Cost: 72
+ 750  '  75mm Kan m/02  [ATY  Sweden]  Cost: 132
+ 751  '  105mm Haub m/40  [ATY  Sweden]  Cost: 228
+ 753  '  150mm Haub m/39  [ATY  Sweden]  Cost: 732
+ 755  '  33 Jagare  [INF  Sweden]  Cost: 132
+ 756  '  Kavalleri  [INF  Sweden]  Cost: 144
+ 757  '  Ingenjorer  [INF  Sweden]  Cost: 360
+ 764  '  J 8B  [FTR  Sweden]  Cost: 348
+ 769  '  Wagon  [TPT  Sweden]  Cost: 24
+ 770  '  Lbil m/39  [TPT  Sweden]  Cost: 84
+ 772  '  Transport  [ATP  Sweden]  Cost: 276
+ 877  '  SFK  [INF  Sweden]  Cost: 144
+1130  '  Arttrakt m/40  [TPT  Sweden]  Cost: 144
+1635  '  75mm Kan m/02-33  [ATY  Sweden]  Cost: 168
+1636  '  105mm Haub m/10  [ATY  Sweden]  Cost: 192
+1637  '  105mm Kan m/34  [ATY  Sweden]  Cost: 492
+1639  '  150mm Haub m/06  [ATY  Sweden]  Cost: 432
+1645  '  Strv m/39  [ TK  Sweden]  Cost: 300
+1647  '  J 9  [FTR  Sweden]  Cost: 468
+1648  '  J 11  [FTR  Sweden]  Cost: 396
+1653  '  B 5  [ TB  Sweden]  Cost: 504
+1983  '  Bridging  [INF  Sweden]  Cost: 168
+2674  '  105mm Kan m/17  [ATY  Sweden]  Cost: 240
+2678  '  B 4  [ TB  Sweden]  Cost: 348
+2679  '  S.6  [ TB  Sweden]  Cost: 288
+2680  '  T 2  [ TB  Sweden]  Cost: 360
+2681  '  Horse  [TPT  Sweden]  Cost: 12
+2682  '  Limber  [TPT  Sweden]  Cost: 36
+2683  '  Tdgb m/39  [TPT  Sweden]  Cost: 60
+2685  '  Tdgb m/40  [TPT  Sweden]  Cost: 84
+2686  '  Arttrakt m/28  [TPT  Sweden]  Cost: 36
+5456  '  J 8  [FTR  Sweden]  Cost: 576
+5495  '  S 9  [ TB  Sweden]  Cost: 432
+5496  '  S 12  [ TB  Sweden]  Cost: 480
+5497  '  S 5A  [ TB  Sweden]  Cost: 420
+5498  '  S 14A  [ TB  Sweden]  Cost: 324
+5829  '  Train  [RTP  Sweden]  Cost: 120

@@ -1,0 +1,5286 @@
+Error! BYEAR1840 VERSION: Kaiser Efile V.24/05/20 
+Infanterie 10
+Cavalleria
+Sturmpioniere
+Gourdou-Leseurre GL.22
+Garde-Infanterie 16
+Bayern 16
+Reserve-Infanterie
+Kradschützen
+Infanterie 16
+Garde-Infanterie 10
+Kürassiere 10
+Ulanen 10
+Gebirgsjäger 16
+57-mm Pushka 'Sokol'
+12cm sFH 04
+15cm sFH 13
+38cm SK L/45 'Max'
+10,5cm lFH 98/09
+10cm K 14
+15cm SK L/45 'Nathan'
+15cm sFH 93
+76mm Obrnený Vuz Chunchuz
+7,7cm FK 96 (ber. Art.)
+A7V SturmPzWgn
+leKpw I
+leKpw II/K
+K Wagen
+7,7cm BAK L/27 
+3,7cm Sockelflak L/14.5
+Cavalleria 09
+Infantry 16
+Scottish Highlanders
+Indian
+Assault Infantry
+1st Line Infantry
+76.2mm Wagon Artyleryjski Typu I
+Dism. Cavalry 03
+Sapper 16
+Dragoons 03
+9.2" BL How MkI
+Peça 7.5cm MTR m/905
+Infanterie 16
+75mm Krupp Type 38 
+4.5" QF How MkI
+Peça 7.5cm TR m/917
+6" BL 26cwt
+8" BL How MkI
+QF 2pdr MkII 'Pom-Pom'
+3" QF 20cwt
+7,7cm FK 96 n/A
+Erhardt PzWgn 15
+Erhardt PzWgn 17
+7,7cm BAK auf Kraftwagen L/27
+Cavalerie 15
+Infanterie 14
+Chasseurs Alpins
+Sapeurs-Mineurs 16
+Automobil
+Légion Etrangère 15
+Cuirassiers 00
+Canon de 75 mle 1897 Schneider 
+Obusier de 120 mle 1915 Schneider 
+Canon de 220 L mle 1917 Schneider
+Canon de 105 L mle 1913 Schneider
+Tunul Schneider cal.105mm md.13
+75mm Gun
+Canon de 120 L mle 1878 de Bange
+Canon de 155 GPF mle 1917
+Muli da Soma
+Canon de 75 Portée
+Jalavagi
+Kaardivagi 19 
+Soom. Kaardivaelane
+Jalavagi Valke
+105mm Schneider H13
+37mm Rosenberg 15
+Insener
+7.62mm Lozmetejnieks Maxim
+76.2mm LK09
+Platvorm
+Kavaleria 16
+Pehota 1 ocheredy
+Pehota 2 ocheredy
+122mm Putilov H09
+Leib-Gvardy 08
+76-mm Konnaya obr.1902 
+76-mm Pushka obr.1902 
+105-mm Pushka obr.1913 
+107-mm Pushka obr.1910
+122-mm Gaubitsa obr.1909
+Tachanka
+7,6cm Pz-Wagen
+Albatros B.II
+Kavaleriysky
+8mm Schwarzlose M07/12
+37-mm Pushka Maksim 
+Tunul Gruson cal.53mm md.87
+Tachanka
+76-mm Bronevagon Khunkhuz
+Vanatori Munte 18
+Gvardeiskaya
+Farman HF.27
+Camion
+Sikorsky S-10
+Reserva
+Farman MF.11 Shorthorn
+Nieuport 11 Bebe
+Nieuport 12
+Tunul de Camp cal.75mm 
+Albatros C.V
+Fokker E.I
+Fokker D.IV
+LVG C.II
+10cm Skoda FH M14
+Bleriot XI
+Nieuport 17 Superbebe
+SPAD VII
+Vickers F.B.5 Gunbus
+Fokker D.VII (BMW)
+Voisin III
+Farman MF.11 Shorthorn
+AEG C.IV
+FT-17/37
+Salmson 2
+Sopwith 1½ Strutter
+Sopwith Pup
+Rossiori 12
+Sopwith Camel F.1
+Fokker Dr.I
+Aero A-12
+SPAD VII 17
+Nieuport 23
+Breguet XIV B.2
+Albatros D.III
+Bristol M.1C Bullet 
+Tunul Putilov cal.76.2mm md.09
+Sopwith Camel F.1
+Nieuport-Delage 29
+Farman F.40/41
+Fokker D.VII (BMW)
+Pfalz D.III
+Vickers F.B.9 Gunbus
+Sopwith Snipe 7F.1
+Sopwith Dolphin 5F.1 
+Toonela (Garford)
+Hvy Arty Bunker
+Rauna (Packard)
+Russo-Balt M
+Tasuja (Austin)
+Medium Coastal Gun
+Vanapagan (Erhardt)
+8.4 Vickers 18pdr 
+87-mm Pushka obr.1895
+Ilya Muromets IM-B
+Grigorovich M-11
+Lebed XII
+Ilya Muromets IM-V
+Nieuport 11 Bebe
+Grigorovich M-9
+Anatra V.I.
+Nieuport 17 Superbebe
+Mosca Bystritsky MB bis
+Sikorsky S-16
+Nieuport 10
+Anatra DS Anasal
+Sikorsky S-20
+SPAD VII
+Gotha WD.11
+Hannover CL.IIIa
+Albatros J.I
+Ansaldo A.300/3
+Fokker D.VII (Mercedes)
+Junkers J.I
+Albatros J.II
+Caudron R.11
+Farman F.40
+Dorand AR.1
+Airco DH.4
+Nieuport 11 Bebe
+10cm Artilleriewagen
+Plosinový Vuz 
+Russo-Balt M
+Torpedo Boat
+Konie
+Nieuport 17 Superbebe
+Handley-Page O/400
+Inzenieris 
+Strelnieks
+Sapieru Dalas
+10.5 Krupp M16
+Sopwith 1½ Strutter
+Rekrutis
+12 Krupp M04
+Nieuport 24 bis
+Fokker D.VII (BMW)
+Feldjäger 09
+Huszaren 00
+Dragoner 00
+Sappeure 17 
+Brückenpioniere 09
+Piechota Legionowa
+76-mm Kinna zr.1902 
+Sea Mines
+Zouaves 15
+Austin-Putilov 14
+Mark B
+8-mm Gotchkiss obr.1914/15
+Draguny 08
+Partizanu
+Pionierius 
+Inzinerijos
+8cm Skoda FK M05
+Albatros C.III
+Observation Balloon
+Frivilligkaaren
+Holt 75
+Hohei 14
+Farman HF.30
+Jääkäri
+Packard
+Chu-gata
+Baei Yusou
+Fin. Draguny
+Kevyt Osasto
+Kavaleria 08
+Suksi
+107-mm Harmata zr.1910
+76-mm Bronivahon Khunkhuz
+76.2mm Armata Piechoty
+FWD Model B
+203-mm Gaubitsa obr.1916
+120mm/45 Canet
+Algaja
+Pestininkai
+Sargyba
+Rezervistai
+10.5 Krupp M98/09
+150mm Krupp M13
+105mm Krupp M16
+76.2mm Arkliui
+5,3cm Pz-Wagen
+107-mm Bronebatareya 
+Pulemet Vagon 
+Pulemet Bronevagon
+Partizany ChK
+Saperno-Shturmovoi
+Gorny
+107-mm Osadnaya Pushka obr.1877
+76mm Kanón vz.02
+Sento Kouhei 14 
+Inzhinernye Voiska
+Infanteriewagen
+Bridge
+Armored Train Guns
+152-mm Morskoi Pushka obr.1892
+Canon de 240 ALVF mle 1893/96
+Platforma
+Reservny
+152-mm Haubytsya zr.1910
+76-mm Harmata zr.1902 
+Kajnieki
+Kavalerija
+Jager
+Mark A Whippet
+7.62 Jatnieku
+7.62 Ordnance 13pdr 
+10.7 Putilov M10
+Kradschützen
+Dragoner 10
+IVL A.22 Hansa
+21cm Mörser 16
+152-mm Minomet obr.1915
+Infanterie 16
+180mm Barrage
+Martinsyde F.4 Buzzard
+7,58cm lMW n/A
+Obuzierul Krupp cal.105mm md.98/09
+152-mm Minomet obr.1915
+Laka Zaprega 
+Pancerka Improwizowana
+3" QF 20cwt/Peerless 4t
+QF 13pdr 9cwt/Thornycroft Type J 
+Bunker
+Bunker
+Lacplesis (Putilov)
+Sargs (Fiat)
+Motorcycles
+Daimler PzWgn 16
+Erhardt PzWgn 15
+Naval Transport
+Aras (Erhardt 15)
+Russo-Balt C
+Austin-Putilov 14
+Filatov 16/1
+Mgebrov-White
+Platvorm
+White
+Renault 15
+Renault 17
+Autocanon de 37 Renault 
+FT-17 Char Mitrailleur
+FT-17 Char Canon
+St Chamond 16
+Schneider mle CA1/17
+203mm Mortar Bunker
+Romfell
+Lancester
+Austin Mk II
+Ford-T armored
+Mark C
+Mark D
+Mark IV/F
+Mark IV/M
+Mark V/F
+Mark V/M
+Mark VIII Liberty
+Mark B
+5" Gun Carrier MkI
+Mark A Whippet
+BeutePzWgn IV/F
+BeutePzWgn IV/M
+Beute-PzWgn Austin
+Krasno-Kazachy
+Latyshskie Strelki
+Mgebrov-White
+37mm Puteaux wz.16
+Berliet CBA
+Saperzy
+Tsyvilniye Vysko
+Sapernoye Vysko 
+Flachwagen
+Nave di trasporto 
+Juras Transports
+Pillbox
+Fortification
+Kuljetus
+Transportschiff
+Transportschiff
+Transportas Karines
+Holt 75
+Austin wz.14
+Morskoy Transport
+Watch Tower
+Morsky Transport
+Pehota
+76-mm Harmata zr.1902 
+Morskoy Transport
+120mm Krupp M04
+Sopwith 1½ Strutter
+Laevavaimustama
+Bateau de Transport
+Piechota 20
+Nieuport 17 Superbebe
+75mm Tykistö Vaunu
+Naval Transport
+152 K/77-120p
+Morski Transport 
+Wagon
+Vezumnieks
+Sprezeni
+Vagun Valke
+Gunboat
+Hevonen
+Attelage
+Pferdewagen
+Pferdewagen
+Kavallerie Späher 10
+Tractor
+Vagonas
+Karutca
+Erhardt wz.17
+Povozka
+AI Radar
+Kinna Tyaha
+Ulany 08
+Crossley BGV
+Povozka
+Graniceri
+Lozmetejnieks Brunu Vagonu
+Wagon
+Russo-Balt T
+7.62mm Maxim-Sokolov 10
+Woz Konny 
+Berliet CBA
+Daimler-Marienfelde ALZ 13
+Büssing KZW 1800
+Thornycroft Type J
+Praga L
+Russo-Balt M
+Russo-Balt M
+Jeffery/Nash-Quad
+Platforma
+Gusary 08
+Grenadery 16
+105-mm Haubytsya zr.1914/17
+Kavalerija
+Kozaki
+Strilcy 
+3,7cm Graben-K
+Honvéd 
+Barbed Wire
+Medium Arty Bunker
+FT-17
+Trench Defense
+Breguet XIV A.2
+7.62mm Maxim vz.10
+Phönix C.I
+Friedrichshafen FF.33e
+Pogranichny
+Komandovaniye 08
+FT-17
+Horska Pechota
+Truck
+Ford Tfc
+Georges Levy G.L.40 HB2
+7.62-mm Maksym zr.1910
+1927/28
+Vapor
+Fortress Cannon
+Kaiserjäger 09
+87-mm Konnaya obr.1877
+Peerless 4t
+Mgebrov-Izotta
+Anatra DS Anasal
+8cm Skoda FK M17
+57 Nordenfelt
+75mm Artillery Wagon
+.303 Lewis 
+7.62-mm Maksim Zenitny
+Submerged Sub
+Zh-D Strelkovy 20
+.303 Hotchkiss
+7.62mm Lozmetejnieks Maxim
+76mm Russo-Balt T
+7.62 Maxim KK/09-09
+Lancia-Ansaldo IZ
+Fiat-Torino
+7.62mm Maxim Seniit
+7.62-mm Maksim Zenitny
+Mitrailleuse de 8 Hotchkiss mle 14
+Mark IV/F
+7.7cm BAK L/27 
+Minesweeper
+Destroyer
+Western Civilians
+Frigate
+7,92mm MG 08
+Super-Heavy Coastal Gun
+Arm. Sea Transport
+Light Cruiser
+37mm Maxim Seniit
+Holt 75
+75-mm Orudie 'Krup' obr.12
+Cruiser
+Seaplane Tender
+75-mm Polsko Orudie
+Kulkosvaidis Vagonas
+Ulanen 00
+E. African Mounted
+Battle Cruiser
+Coastal Patrol
+Gourdou-Leseurre GL.22
+River Fleet
+Sub hunter
+FT-17
+7.92-mm Kartechnitsa 'MG 08'
+Partizany
+Dreadnought
+Predreadnought
+Flak Boat
+Dion Bouton 16
+MG Position
+Atelaj
+Volantaar Tsiviilne
+Aviatik-Berg D.II
+Fokker D.VII (MAG)
+Fokker E.III
+15cm sFH 02
+Albatros-Oeffag D.III Mid
+7.7 Krupp L/27 
+Tachanka
+Kazaki
+7,92mm MG 08 16
+.303 Lewis 
+8cm Skoda FK M18
+76 FK/02
+7,5cm Skoda GebG M15
+Romfell
+Praga L
+8cm Skoda (ber. Art.)
+15cm Skoda M14/16
+White
+Autocanon de 47 Renault 
+Merchant Vessel
+8mm Hotchkiss Type 38
+Stetinin M-16
+Skoda PA II "Zelva"
+LFG Roland D.II
+Fokker E.III
+MG Position
+Stetinin M-9
+120 K/78
+7.92mm MG 08/18
+7.62-mm Maksim obr.1910
+Strelkovy 
+5,3cm Pz-Wagen
+76 K/77
+Jalkaväki 18
+7,92mm MG 08/18
+Brivpratigais Civils
+Wagon Szturmowy
+Light Coastal Gun
+Pulemet Bronevagon 
+7.62-mm Maksim obr.1920
+87-mm Pushka obr.77
+Kegresse
+Inzhenernye Voiska 08
+Bicycles
+9-f Pushka obr.1877
+122-mm Gaubitsa obr.1904
+Jizda
+Volantaar Vooras
+Heavy Coastal Gun
+75.8mm Granatnik wz.16
+5.7 Nordenfelt
+Piechota Legionowa 
+Ulani 
+7.62mm Maksim wz.10
+Mark B
+Zemgaleetis (Austin II)
+FT-17/37
+Herero Warriors
+Brückenpioniere 10
+Bridging 03
+Génie 00
+Jalavagi 19
+Brunuvilciens Gvarde
+Gvardeiskaya 20
+7,7cm Flakwagen
+Jazda Ochotnicza
+Piechota Armii Hallera
+Piechota Ochotnicza
+Piechota Gorska 
+75mm Armata wz.97
+105mm Haubica wz.98/09
+155mm Haubica wz.17
+FT-17
+Opolchenie
+Kavaleria
+Morskaya Pehota
+Pehota
+Inzhenernye Voiska
+7.62-mm Maksim obr.1910
+76-mm Konnaya obr.1902 
+76-mm Pushka obr.1902 
+105-mm Pushka obr.1913 
+107-mm Pushka obr.1910
+234-mm Gaubitsa obr.1917
+Austin-Putilov 14
+Nieuport 17 Superbebe
+Recon Aircraft
+Ansaldo A.1 Balilla
+Vought VE-7
+Dorand AR.2
+Fokker C.IV
+76-mm Russo-Balt T
+66mm Armata wz.75
+Short 184
+Sopwith T.1 Cuckoo
+Gotha G.V
+Farman F.40/41
+Soujekuskunnat
+Infanterie
+7.92mm Lozmetejnieks 08
+Royal Marine 03
+Ratsavagi 19
+122mm Suurtükiväe Vagun
+Ratsavagi
+Vagão Prancha
+76.2mm M09/S
+Lengvieji Pestininkai
+Freikorps
+Raitoji Gvardija
+76.2mm Putilov M02
+Raitininkai
+7.62mm Maksim 1910
+7.62 Maxim KK/09-09
+Soom Vagun
+Krytyi Vagon
+Sikorsky S-16
+7.92 Lewis KK
+Ratsuvaki 
+Halftrack
+2.75" BL Mtn
+QF 13pdr Horse
+107 K/10
+Tunul Schneider cal.155mm md.17
+75mm Ratsa
+75mm Type 31 Kihei
+57mm Hotchkiss
+57-mm Pushka 'Sokol'
+57mm Hotchkiss
+37mm Renault
+FT-17 BS Mitrailleur
+FT-17 BS Canon
+FT-17
+57mm Hotchkiss
+FT-17 BS
+5,7cm IG L/30
+42cm M-Gerät 'Dicke Bertha'
+3" Stokes MkI
+Lebed XI
+122-mm Bronebatareya 
+76-mm Bronyzenitny 
+Mine Clearer
+Mines
+75mm Mozdzierz JD wz.16
+Shturmovoy
+Strelkovy 20
+Motorrad Aufklärer
+Gv Kavaleria
+Austin-Kegresse
+Motorcycle Recon
+Austin-Putilov 14
+Nieuport 10
+Mark A Whippet
+Entente
+Central Powers
+Gas Cloud
+Entente
+Central Powers
+7.62mm Maksim-Sokolov 10
+Independent
+Bolshevik
+ChK Motostrelky
+Motorazvedka
+Farman MF.7 Longhorn
+Kaishiki Mo-4 (MF.7)
+Tasiyici Alttakim
+Carriage
+6.5mm Ho-shiki Type 38
+5,7cm Marienwagen II
+Garford-Putilov obr.1915
+Garford-Putilov obr.1916
+Peugeot 18
+1927/28
+Filatov 16/1
+Austin-Kegresse
+Zaibas (Izhorsky Fiat)
+Austin-Kegresse
+87-mm Konnaya obr.1877 08
+234-mm Gaubitsa obr.1917
+Fokker E.III
+5,3cm SK L/24
+203-mm Gaubitsa obr.1916
+76-mm Konnaya obr.1900
+76-mm Hirska Harmata zr.1909
+Mostni Zenista
+Austin Mk IV
+Wagen
+Carriage
+FT-17/37
+Austin-Putilov 14
+St Chamond/17
+3" QF 20cwt/Peerless 4t
+Vizok
+Erhardt PzWgn M15
+76-mm Zenitnaya Pushka obr.1915 
+122-mm Gaubitsa obr.1909
+155mm Gun
+76-mm Zenitnaya Pushka obr.1915
+76-mm Gornaya Pushka obr.1909
+65mm Navy Gun
+Rail Gun Barrage
+37-mm Pushka obr.15 
+Mitrailleuse de 8 Hotchkiss mle 14/15
+7,7cm Artilleriewagen
+76-mm Bronebatareya 
+Mark IV/M
+76mm Suurtükiväe Vagun
+7.62 Putilov M02
+Mitrailleuse de 8 Hotchkiss mle 14
+LVG C.V
+Sopwith 1½ Strutter
+Nieuport 10 C1
+Factory
+.303 Vickers
+Avro 504A
+Carriage
+7,7cm FlaK 16
+Carrosse
+Wagen
+Kocar
+Grenadiere
+HMG Railroad Car
+105mm Artillery Wagon
+Carriage
+ZugSturmWgn T.I
+Carrosse
+Aytokinito
+Obusier de 520 mle 1916
+Vececios
+Carriage
+Bryczka Sztabowa
+Carruagem
+Carriage
+7,7cm FK 16 (ber. Art.)
+17cm SK L/40 'Samuel'
+Russo-Balt C
+75mm Wagon Artyleryjski Typu II
+Precu Vagonu
+Wagon Kryty
+7.92mm MG 08
+Zh-D Strelkovy 20
+Donskiye Kazaky
+Holt 75
+149mm Armata wz.A
+7,92mm MG 08
+Austin-Putilov 14
+75mm Arisaka Type 31
+FT-17
+Gvardeiskaya
+Tracteur Chatillon-Panhard  
+75mm Artyleria kolejowa
+Fuseikihei
+Assault Wagon
+Kaishiki Mo-6 (MF.11)
+144mm H10
+Flammenwerfer
+Gloster Sparrowhawk I
+150mm Barrage
+Holt 75
+Traktor
+7.5 Artilerijas Vagonu
+75mm Krupp Type 41 Mtn
+Zemgaleetis (Austin IV)
+76-mm Bronebatareya 
+Mototsikly
+107-mm Bronebatareya
+5,7cm KasK Kw
+Vagon Platforma
+77mm Soom Seniit 
+152-mm Bronebatareya 
+76-mm Bronyzenitny 
+Austin Mk II
+Sapiori 
+1.Pehota
+Brunu Vagonu
+Kihei 14
+Bronevagon 
+120mm Type 38
+Carska Gvardia
+150mm Krupp Type 38
+7.92 Maxim KK/08-18
+Yokosho Ro-go Ko-gata
+Komiti
+305-mm Gaubitsa obr.15
+Carriage
+Mountain
+Carska Kavaleria
+Telezhka
+Mostovi Drujini 08
+2.Pehota
+57-mm Orudie 'Gryuzon' obr.92
+75-mm Konna Artileriya
+75-mm Orudie 'Krup' obr.04
+105-mm Gaubitsa 'Krup' obr.98/09
+Granichari 08
+LVG B.II
+Rumpler 6B
+Fokker D.VII
+Kamion
+Bleriot XI 
+7.92-mm Kartechnitsa 'MG 08'
+Albatros C.III
+75-mm Orudie 'Shnaider' obr.05
+57mm Tykistö Vaunu
+Morski Transport
+Autocanon de 75 De Dion mle 1913
+Hei Kouhei
+FT-17
+Regular
+75mm Horse
+Cavalry
+Nieuport 17 Superbebe
+Light Arty Bunker
+Kulomet Obrnený Vuz 
+Infanteriewagen
+75-mm Orudie 'Krup' obr.03
+8cm FK C/73
+Predzvedna Motocyklista
+Uderne Jednotky
+76.2mm Minometu Stokes
+FT-17/37
+Peugeot 18
+105mm Kanón vz.13 
+SPAD VII
+8mm Hotchkiss vz.14/15
+7,5cm Geb K 04
+Observation Fort
+Otkrit Tovaren Vagon
+Fahrrad Aufklärer
+Bicycle Recon
+Velocipeds Skauts
+Bicycle Recon
+Samokatny
+Fahrrad Aufklärer
+Velorazvedka
+Chasseurs Cyclistes
+Velosipedisti
+Biciclete
+Dviratis Zvalgas
+Jalgratas Skaut
+Freikorps Freiwillige
+21cm L/45 'Wilhelmgeschütz'
+Kaetud Vagun
+105mm Gun
+152-mm Mortira obr.1885
+KK Panssaroitu Vaunu
+Strelnieks 19
+7.92mm Madsen
+122-mm Bronebatareya 
+Udarny
+Platforma
+Lloyd
+Russo-Balt Kegresse
+Leib-Gvardy 16
+7.62 Ordnance/Viesturs (Peerless)
+Erhardt PzWgn 18
+Kuulipilduja Soom Vagun
+Litteä Vaunu
+Lozmetejnieks Vagonu
+Flat Wagon
+Krytyi Vagon
+76-mm Bronevagon Khlebnikov
+Marienwagen
+Zaloga Pociagu Pancernego 20
+Carriage
+102-mm Bronebatareya 
+Konnaya Razvedka
+Kavalerija Skauts
+Ratsavagi Skaut
+Konny Razvidnik
+Ratsuvaki Skaut
+Reconnaissance 15
+Cavalry Scout
+Kavallerie Spaeher 00
+Cavalry Scout 03
+Nakashidze
+Raitoji Zvalgas
+Rekonesans Konny
+Cercetas Calare
+Konen Rzv
+Cavalry Scout 03
+Kihei Teisatsu
+Camel Scout
+Camelry
+Light Infantry
+10,5cm lFH 98
+Konnaya Razvedka 08
+Infantry 14
+Marines 18
+National Guard
+Bridging 03
+Engineers 14 
+Mounted Rifles 18
+75mm M1897 Horse
+75mm Gun M1897
+105mm Schneider M1913
+9.2" BL How MkII
+155mm GPF M1917
+Infantry 18
+Austin Mk II
+Mark V/M
+Mark V/F
+Carriage
+Platforma
+FT-17
+FT-17/37
+.30 Browning M1917
+8mm Hotchkiss 14/15
+.30 Browning M1917
+75mm Autocannon M1913
+Carriage
+75mm M1897
+75mm Krupp Type 38 
+Liberty Truck
+Wagon
+57mm Gun
+Assault Zeppelin
+8cm Artilleriewagen
+Pionierzy
+Chobutsu-Sha
+Canon de 155 mle 1904 Rimailho
+Saperno-Shturmovoi 08 
+7,7cm FK 96 n/A
+Canon de 75 mle 1897 Schneider
+76-mm Pushka obr.1902 
+QF 13pdr MkI
+76.2mm Putilov K/02
+Kaijo Yusou
+Voisin VIII
+Voisin X
+Anatra D Anade
+Curtiss JN-3
+Carriage
+5,3cm L/24 Fahrpanzer
+7,7cm BAK auf Kraftwagen L/27
+Telezhka
+Carruaje
+Canon de 75 mle 1897 Schneider
+75mm Armata plot. wz.97
+Carrozza
+Mountaineer
+Carriage
+Carriage
+7.62-mm Maksim obr.1902
+8-mm Gotchkiss obr.1914/15
+Eihei 14
+Canon de 75 TR a Cheval 
+Canon de 65 M mle 1906 Schneider 
+Canon de 90 mle 1877 de Bange 
+Obusier de 120 mle 1890 Baquet 
+Mortier de 280 mle 1914 Schneider
+Mortier de 220 mle 1916 Schneider
+Canon de 194 GPF St Chamond 
+Tirailleurs Sénégalais 15
+Infanterie d'Elite
+Eisenbahnpioniere
+Gebirgsjäger
+Strzelcy Syberyjscy
+8mm Hotchkiss wz.14
+122mm Haubica wz.09
+Taczanka
+Estonsky Strelkovy
+Ckm Wagon 
+Nizamiye 09
+Süvari 21
+Workers
+Pioneri 12
+Infanterie 18
+Albatros C.III 
+Albatros C.VII
+Nieuport 17 Superbebe
+SPAD VII
+Canon de 155 ALVF
+Wagen
+7,7cm BAK L/27 
+3,7cm Sockelflak L/14.5
+8mm Schwarzlose M07/12
+Festungsinfanterie
+Infanterie 14
+30,5cm Skoda M11 'Schlanke Emma'
+Lehke Pechota
+Pechota
+Strelci 17
+Strelci 
+7.62mm Kulomet Maxim 
+Transport Col
+Tatra TL4
+100mm Skoda Houfnice vz.14/19
+149mm Skoda vz.14/16
+100mm Artilérie Vuz 
+Kulomet Obrnený Vuz 
+75mm Artilérie Vuz 
+75mm Skoda vz.15
+Hulan
+Predzvedny Jizdni
+Albatros-Oeffag D.III Series 253
+8cm Skoda FK M05
+75.3mm PP vz.05
+76mm Kone Delostrelectva vz.02
+Cyklista Strelci
+Breguet XIV A.2
+Bristol F.2B
+Albatros B.II
+Hansa-Brandenburg CC
+Hansa-Brandenburg C.I
+LVG C.V
+Albatros D.III
+Fokker D.VII
+Albatros-Oeffag D.III Series 253
+LVG C.VI
+Wagen
+Esploratore a Cavallo
+65mm Armata wz.06
+100mm Haubica wz.14/19
+120mm Armata wz.78
+100mm Haubica wz.14
+76.2mm Konna
+Ulani Legionowi
+Powstancy 
+Strzelcy Konni
+Donskiye Kazaky 16
+Cavalry Mount
+76-mm Pushka obr.1902 
+76-mm Gornaya Pushka obr.1909
+QF 13pdr MkI
+25cm sMW
+7,58cm lMW
+9cm K C/73/91
+7.7cm FK 96 n/A
+10,5cm lFH 16
+21cm Mörser 99
+10,5cm Artilleriewagen
+Platfórma
+Otvoreni Teretni Vagon
+MG-Wagen
+leKpw II
+Oberschlesien II
+A7V-U SturmPzWgn
+7cm Geb K L/14 98
+7,92mm MG 08
+7,92mm MG 08/15
+RAF R.E.8
+105mm Type 38 
+7.58cm lMW n/A
+7,7cm IG L/20 
+7,5cm NahKampfG
+Grigorovich M-16
+Halberstadt C.V
+Halberstadt CL.IV
+Norman-Thompson NT2B
+RAF B.E.2e
+RAF R.E.8
+Sopwith 1½ Strutter
+Ansaldo A.1 Balilla
+Sopwith Camel 2F.1
+Ansaldo SVA.10
+DFW C.V
+Hannover CL.III
+Junkers CL.I
+Friedrichshafen G.III
+Albatros C.XV
+Albatros J.II
+Ansaldo SVA.10
+LVG C.V
+Rumpler C.I
+Rumpler C.IV
+Halberstadt C.V
+Hansa-Brandenburg KDW
+LVG B.I
+AEG J.I
+Junkers J.IV
+Junkers CL.I
+Albatros C.III Early
+Albatros C.X
+Hannover CL.III
+Rumpler C.IV
+Albatros D.I
+Fokker E.II
+Halberstadt D.II
+Albatros D.II
+Fokker E.IV
+Fokker D.VIII
+Albatros D.V
+Hansa-Brandenburg W.29
+Albatros C.XII
+Pfalz D.XII
+Siemens-Schuckert D.IV
+Albatros C.I
+Rumpler Taube
+DFW C.V
+Aviatik B.I
+Halberstadt CL.II
+Halberstadt CL.IV
+Morane-Saulnier L
+Caproni Ca.3 - CA
+Morane-Saulnier N Bullet
+Nieuport 23
+SPAD VII
+Albatros J.I
+Albatros B.I
+DFW C.V
+Farman HF.30
+9cm FK M75/96
+14cm MinenWrf M16
+15cm Mörser M80
+8cm Skoda FK M05/08
+26cm MinenWrf M17
+10cm GebH M08
+18cm Kurze Kanone M80
+7cm Skoda M08
+10cm Skoda GebH M16
+10cm Skoda (ber. Art.)
+42cm Skoda M16/17
+15cm Skoda M15/16
+3,7cm IG M15
+8mm Skoda M09
+Wagon Szturmowy
+9cm FlaK M75/96
+LVG C.V
+6cm Gruson Fahrpanzerkanone M98
+5,7cm Nordenfelt
+8cm Skoda FK M17
+Daimler PzWgn 16
+Dowodztwo Legionowe
+10cm Artilleriewagen
+Motorrad Aufklärer
+7,7cm Flakwagen
+Sopwith 1½ Strutter
+Wagón Plataforma
+7cm Motorkanonwagen 
+Plosinový Vuz 
+Flachwagen
+7cm Kanonenwagen MAVAG
+Albatros J.I
+Lloyd C.III
+Lloyd C.V
+Lloyd C.IV
+Albatros-Oeffag D.II
+Hansa-Brandenburg D.I
+Albatros-Oeffag D.III Late
+Phönix D.I
+Hansa-Brandenburg W.18
+Albatros-Oeffag D.III
+Aviatik-Berg D.I Early
+Albatros B.I (22,23,24)
+Albatros B.I (21)
+Aviatik B.I
+Hansa-Brandenburg FB
+Canon de 75 mle 1912 Schneider
+Mortier de 58 n°2 'Crapouillot'
+Canon de 155 L mle 1877 de Bange
+Canon de 105 M mle 1909 Schneider
+Canon de 155 L mle 1877/16 de Bange
+Canon de 120 L mle 1897 Schneider
+Canon de 155 C mle 1917 Schneider 
+Canon de 145 L mle 1916 St Chamond 
+75mm Gun M1897
+Canon de 105 L mle 1913 Schneider
+Carrosse
+Carriage
+Canon de 37 Hotchkiss 'Pom-Pom'
+47mm L/40 02
+Canon de 80 mle 1877 de Bange
+Canon Revolver de 40 mle 79 Hotchkiss
+Canon de 65 mle 02
+Wagen
+57mm Gruson
+Mitrailleuse de 8 Chauchat
+Mitrailleuse de 8 Hotchkiss mle 09
+Mercedes 37/95
+Autocanon de 47 Renault 
+Carriage
+Velomoteur
+Charron 02
+Sheffield-Simplex
+Peugeot 15/37
+Canon de 340 ALVF mle 1912
+Canon de 194 ALVF mle 1870/93
+Canon de 320 ALVF mle 1870/80
+76mm Kanón vz.02
+Canon de 164 ALVF mle 93/96
+Char Peugeot
+St Chamond 17
+Schneider mle CA1/16
+FCM 2C
+Voisin V
+Caudron G.4
+Breguet A-G4
+Nieuport 16
+Morane-Saulnier L
+SPAD XIII
+SOP 1 (Sopwith 1½ Strutter)
+Breguet G3
+Morane-Saulnier P
+Morane-Saulnier H
+4" Mrt 15
+QF 18pdr MkI
+QF 18pdr Horse
+QF 18pdr MkII
+4.7" QF MkI/IV
+3.7" QF MkI Mtn
+9.45" Heavy Mrt
+4.5" QF How MkII
+BL 60pdr
+9.2" BL How MkII
+12" BL How MkIV 
+7.5" BL MkIII
+QF 1pdr 'Pom-Pom'
+Carruaje
+QF 1pdr 'Pom-Pom'
+QF 13pdr 9cwt
+QF 2pdr MkII/Pierce-Arrow
+Carruaje
+Pierce Arrow 6pdr
+Seabrook MkI
+Seabrook MkII
+Cavalry Scout 90
+Rolls-Royce 14
+Armstrong-Whitworth Fiat
+Austin Mk I
+Peerless Mk I
+1927/28
+12" BL How MkI
+Airco DH.9a
+Handley-Page V/1500
+Bristol F.2B
+Mark I-III/F
+Mark V*/F
+Mark I-III/M
+Mark V*/M
+Caudron G.4
+Blackburn Kangaroo
+Handley-Page O/100
+RAF R.E.7
+Sopwith Salamander
+RAF R.E.8
+AW F.K.8
+RAF B.E.2a/b
+Martinsyde G.100
+Voisin III LA
+RAF F.E.2b
+SPAD VII
+Nieuport 12
+RAF S.E.5
+Sopwith Triplane
+Nieuport 17 Superbebe
+Bristol Scout C
+Nieuport 16
+RAF S.E.5 Late
+Airco DH.2
+Airco DH.2 Late
+Airco DH.5
+Nieuport 23
+Avro 504K
+SPAD XIII
+RAF S.E.5a
+Fairey Flycatcher
+Bleriot XI
+RAF B.E.2c
+Sopwith Tabloid
+Morane-Saulnier L
+Morane-Saulnier N Bullet
+Morane-Saulnier P
+Wagon Couvert
+75mm Gun M1917
+9.2" BL How MkI
+12" 1890 Mortar
+75mm Schndr-Danglis 09
+3" Stokes Mrt
+155mm Schneider M1917
+8" BL How Mk I
+Carruaje
+Motorcycle Recon
+Ford-T
+Austin Mk IV
+12" 1895
+8" 1898
+Little Willie
+Ford 3T
+Ford 6T
+Mark A Whippet
+Mark B
+Anti-Aircraft MG
+Battleship Support
+Carruaje
+Mark C
+P. Hestevogn
+Mark VIII Liberty
+Mark D
+Boxcar
+Martin MT
+Breguet XIV B.2
+Airco DH.4B Liberty
+Nieuport 28
+SPAD XIII
+Curtiss Orenco D
+Martin NBS-1
+152-mm Osadnaya Pushka obr.1877
+229-mm Mortira obr.1877
+76-mm Pushka obr.1909
+102-mm Morskoi Pushka obr.1911
+Motorazvedka
+Filatov 16/2
+Izhorsky Fiat
+Caudron G.4
+Ilya Muromets IM-G
+SPAD A.4
+Nieuport 12
+Voisin III
+Nieuport IV
+Farman HF.20
+Mosca-Bystritsky MB
+Grigorovich M-5
+120-mm Morskoi Pushka obr.1892
+Morane-Saulnier L
+152-mm Morskoi Pushka obr.1892
+280-mm Mortira obr.1914/15
+102-mm Morskoi Pushka obr.1911
+152-mm Gaubitsa obr.1917
+152-mm Osadnaya Pushka obr.1904
+47-mm Pushka Gochkisa
+Teska Zaprega 
+Carruaje
+76-mm Bronevagon Zaamurets
+102-mm Bronebatareya 
+203-mm Bronebatareya 
+47-mm Bronyezenitny 
+76-mm Bronevagon Khunkhuz
+Carriage
+76-mm Bronevagon Zaamurets
+Pulemet Vagon 
+Pulemet Vagon 
+57-mm Bronevagon Zaamurets
+Platforma
+57-mm Bronevagon Zaamurets
+Mark IV/F
+FT-17/37
+Mark V/F
+Mark IV/M
+Mark V/M
+87-mm Pushka obr.77
+87-mm Konnaya obr.1877
+9-f Pushka obr.1877
+107-mm Osadnaya Pushka obr.1877
+152-mm Mortira obr.1885
+87-mm Pushka obr.1895
+122-mm Gaubitsa obr.1904
+152-mm Osadnaya Pushka obr.1877
+229-mm Mortira obr.1877
+37-mm Pushka Maksim 
+37-mm Pushka obr.15 
+76-mm Pushka obr.1909
+102-mm Morskoi Pushka obr.1911
+Muly
+Nakashidze
+Filatov 16/2
+Izhorsky Fiat
+Caudron G.4
+Ansaldo A.300/4
+Ilya Muromets IM-G
+Bleriot XI
+Grigorovich M-9
+Bleriot XI-2
+Bristol-Coanda Monoplane
+Caudron G.3
+S.I.A. 7B.1
+SPAD VII
+Salmson 2
+Fokker D.XI
+Caudron G.4
+SPAD XI
+EtrichTaube 1911
+Farman III
+Farman MF.11 Shorthorn
+Macchi L.1
+Macchi L.2
+8,8cm K-FlaK
+Carriage
+Vizok
+280-mm Mortira obr.1914/15
+102-mm Morskoi Pushka obr.1911
+152-mm Gaubitsa obr.1917
+152-mm Osadnaya Pushka obr.1904
+47-mm Pushka Gochkisa
+Zaprega
+Carriage
+76-mm Russo-Balt T
+Telezhka
+Packard
+Garford-Putilov obr.1916
+Russo-Balt C
+Mgebrov-Izotta
+76-mm Bronevagon Zaamurets
+107-mm Bronebatareya Bryansk
+152-mm Bronebatareya
+203-mm Bronebatareya
+120-mm Morskoi Pushka obr.1892
+305-mm Gaubitsa obr.15
+47-mm Bronyezenitny 
+Flatcar
+Carriage
+Mark IV/F
+Mark A Whippet
+Mark B
+FT-17/37
+76-mm Bronevagon Sormovo
+Wagon Plat
+80-mm Orudie 'De Bange' obr.85 
+Viuchny 08
+150-mm Gaubitsa 'Krup' obr.13
+Albatros B.I
+DFW C.V
+Obuzierul Krupp cal.120mm md.01
+Obuzierul Skoda cal.100mm md.16
+Tunul Schneider cal.75mm md.97
+Tunul Schndr-Ducrest cal.65mm md.06
+Artilerie Calareata cal.75mm 
+Obuzierul Skoda cal.100mm md.14/19
+Obuzierul De Bange cal.120mm md.78
+7,7cm FK 96 n/A
+Mitraliera cal.7.62mm 
+Mitr Maxim-Rus cal.7.62mm md.10
+Pack Transport 03
+FT-17
+FT-17/37
+Fokker D.VII (MAG)
+Bleriot XI
+Bristol-Coanda Monoplane S/T
+140mm Minometu
+260mm Tz.Minometu
+100mm Skoda vz.16
+76mm Minomet
+100mm Skoda na Koni
+100mm Skoda Houfnice vz.14
+83.5mm Skoda vz.18
+122mm Houfnice vz.09
+420mm Skoda vz.16/17
+149mm Skoda vz.15/16
+37mm Kanón Maxim 
+90mm Protivzdusne vz 75/96
+Carriage
+Peça 7cm de Bronze m/882-887
+76.2mm PP vz.02
+76-mm Pushka obr.1902 
+8mm Schwarzlose 07/12
+Lancia-Ansaldo IZ
+57mm Obrnený Vuz Zaamurec
+76mm Obrnený Vuz Zaamurec
+Platforma
+Obrnený Vuz 
+FT-17
+Hansa-Brandenburg C.I
+Anatra DS Anasal
+Breguet XIV B.2
+Fokker D.VII (MAG)
+Fokker D.VIII
+Aero A-18
+Aero A-26
+76.2mm 4pdr K/77
+107mm Pushka K/77
+76.2mm Muuser 
+150mm Krupp MH97
+152mm Schneider H17
+203mm Vickers H16
+77mm Krupp Seniit
+76.2mm PK02
+57mm Hotchkiss
+Wagen
+Baei Yusou
+Changche
+107mm Suurtükiväe Vagun
+Wagon Plat
+FT-17/37
+Mark IV/M
+Nieuport 17 Superbebe
+Avro 504K
+Grigorovich M-16
+Short 184
+Airco DH.9
+Sopwith Camel 2F.1
+DFW C.V
+7.7 Pushka M77
+7.7 Jatnieku M77
+10.7 Pushka M77
+15.2 Vickers 26cwt
+7.7 Krupp FK 96
+Mules
+Nyitott Kocsi
+FT-17
+Albatros C.III
+87mm Armata wz.75/96
+76.5mm Armata wz.05
+76.5mm Artyleria Konna wz.05
+Nisanci 09
+210mm Mozdzierz 210/8 DS
+105mm Armata wz.13
+7.62mm Maksim plot.
+Entrenched MG
+76.2mm Wagon Artyleryjski Khunkhuz
+76.2mm Wagon Artyleryjski Sormovo
+75mm Wagon Artyleryjski MAVAG
+FT-17 BS/37
+Ulani Wielkopolscy
+Sopwith Camel F.1
+Platforma
+Salmson 2
+Fokker D.VIII (aka E.V)
+SPAD XIII
+Sopwith Dolphin
+RAF S.E.5a
+DFW C.V
+75mm Schneider M97
+77mm FK 96
+7.62mm Maxim/AA
+Sharifian Infantry
+76.2mm Artilerijos Vagonas
+Kulkosvaidis Sarvuotu Vagonas
+FT-17
+FT-17/37
+Platforma
+LVG C.III
+Sopwith 1½ Strutter
+Albatros C.III 
+Martinsyde F.4 Buzzard
+Fokker D.VII (BMW)
+Albatros C.I
+DFW C.V
+Aviatik-Berg D.I
+107 K/77 Ptrik
+107 K/77 Piirk
+76 VK/09
+87 K/95 
+76 K/02
+76 Ratsuvaki
+150 H/14J
+122 H/09
+76 LK/10/13
+229 M/77
+203 H/17
+152 K/04-200p
+76 ItK/14
+Wagen
+37 K/15 Rosenberg
+75 VK/98
+76 FK/09
+76 LK/10/13
+Wagon
+7.92 Madsen KK
+Austin Mk II
+Friedrichshafen FF.49c
+Thulin D
+Rumpler 6B
+NAB Albatros
+DFW C.V
+Surfaced Sub
+Infanterie de Ligne 09
+Carabinieri 
+Zandarmerija
+Chorofylaki
+Anzac Constabulary
+Punakaarti
+150mm Type 4
+75mm Type 38 KAI
+Cavalry Mount
+Ju-Kikan Sokosha
+Zárt Kocsi
+FT-17/37
+7,5/14sm. Krup Top M.04
+7,5/30sm. Krup Top M.98
+7,5/30sm. Atli Topçu
+7,5/30sm. Krup Top M.03
+10,5/16sm. Krup Obüs M.98/09
+21/6,4sm. Krup Havan M.99
+12/11.6sm. Krup Obüs M.92
+15/14sm. Krup Obüs M.05
+15/14sm. Krup Obüs M.13
+7,5/30sm. Sahra Top
+7,5/27sm. Sahra Top
+7,92mm. MG M.08
+13" Rail Gun
+8mm. Schwarzlose M.07/12
+Arabasi
+Charron 02
+Daimler-Marienfelde ALZ 13
+AEG C.IV
+Gotha WD.13
+Albatros C.III
+Fokker E.I
+Halberstadt D.V
+Fokker E.III
+Fokker D.VII
+Albatros D.II
+Albatros D.III
+Albatros D.V
+SPAD XIII
+Pfalz D.III
+Albatros C.I
+Albatros B.II
+Airco DH.9a (Capt.)
+Süvari Izci 09
+Wagen
+Wagen
+Wagen
+Carrozza
+Carriage
+Cavalleria
+Carriage
+Carriage
+Hretasayl
+Dasiyici Alttakim
+Vagoni
+Tasiyici Alttakim
+Carriage
+Szekér
+Camel Mount
+.303 Vickers (Anzac) 
+.303 Lewis (Anzac)
+Telezhka
+Carruaje
+Kocar
+Hvy Wagon
+Gari
+Telezhka
+Kürassiere
+Dragoner
+Husaren
+Jäger
+Pferdewagen
+Ford-T armored
+Kavallerie
+Truck
+Holt 75
+lePferdewagen
+Kavallerie Späher
+6-pf Feldkanone
+Sopwith Camel F.1
+12-pf Feldkanone
+12-pf (ber. Art.)
+Cavalleria
+Farman S-11 Shorthorn
+Nave di trasporto
+Esploratore a Cavallo
+Cannone da 6lb
+Carriaggi
+Fanteria
+Bersaglieri 
+Sopwith Pup
+Cacciatori
+75mm Bronze Cannon
+Canon de 75 mle 1915 St Chamond 
+70mm St. Chamond Mle 13
+120mm de Bange Mle 78
+150mm Schneider Mle 12
+75mm TA Mle  77
+75mm Nordenfelt 96
+149mm Mle 09
+152mm Vickers 26cwt
+150mm Krupp Mle 13
+65mm Schndr-Ducrest Mle 06
+155mm GPF Mle 17
+75mm TR 05
+7.65mm Hotchkiss Mle 14
+7.65mm Hotchkiss Mle 14/15
+7.65mm Hotchkiss Mle 14/15
+Canvas Tank
+37mm Hotchkiss 'Pom-Pom'
+47mm Nordenfelt
+57mm Nordenfelt
+75mm de Campagne
+Red Komiti
+Reconnaissance
+Charron 09
+Charron 09
+Peugeot 15
+Sheffield-Simplex
+Peugeot 15/37
+Peugeot 18
+Sava
+Minerva
+Attelage
+Minerva Motors
+Holt 75
+Wagon Couvert
+210mm Wagon d'Artillerie 
+4.7'' Wagon d'Artillerie HMAT 
+6'' Wagon d'Artillerie HMAT
+Wagon Mitrailleuse 
+Carriaggi Leggeri
+Wagon Mitrailleuse Blindé 
+Wagon Plat
+57mm Wagon Blindé 
+Bleriot XI-2
+Farman F.40/41
+SPAD VII
+Fokker D.VII
+Nieuport 11 Bebe
+SPAD XI
+Nieuport 17 Superbebe
+Nieuport 10
+Hanriot HD.1
+SPAD XIII
+Voisin III LA/B
+Farman/JERO HF.16
+Schreck FBA
+Farman MF.14 Shorthorn
+Bleriot XI
+RAF B.E.2c
+Breguet XIV A.2
+Sopwith 1½ Strutter
+Sopwith Camel F.1
+Breguet XIX A.2/B.2
+76-mm Pushka obr.1900
+75mm Type 15 
+75mm Bronze Gun
+Cannone da 76 77
+Obice da 105 77
+Cannone da 75/27
+Obice da 149/23 
+Taxi
+Motorbus B43 Ole Bill
+Periskopmast
+Cannone da 70/15 Mont.
+Cannone da 120/40
+Cannone da 75/27 a Cavallo 
+Cannone da 65/17 Mont.
+Obice da 149/13 (c)
+Cannone da 105/28 
+Obice da 152/13
+Mortaio da 260/9
+Cannone da 104/32
+Mortaio da 305/8
+Cannone da 305/50
+Obice da 420/12
+Cannone da 149/35
+Cannone da 75/27
+76-mm Pushka obr.1902 
+6.5mm Fiat-Revelli 14
+Tyazholaya Povozka
+6.5mm Fiat-Revelli 14
+FT-17/37
+FT-17
+Caproni Ca.41
+Genio Pontieri
+Caproni Ca.1
+Genio Zappatori 
+Stato Maggiore
+SPAD VII
+Nieuport 11 Bebe
+Nieuport 17 Superbebe
+Hanriot HD.1
+120mm. Mortira M.90
+75mm. Top M.10 Snajder-Danglis
+75mm. Top M.97 Snajder
+75mm. Konjica Artiljerija
+120mm. Haubica M.04 Krupp 
+120mm. Top M.97 Snajder-Canet
+150mm. Haubica M.10 Snajder
+120mm. Haubica M.11 Snajder
+155mm. Haubica M.15 Snajder
+121mm. 12f. Top M.72 Valee 
+85.6mm. 4f. Top M.63 La Hitte 
+80mm. Poljski Top M.85
+75mm. Poljski Top M.07
+7mm. Mitr M.09 Maxim
+8mm. Mitr M.12 Schwarzlose 
+Austro-Daimler M12
+Kamion
+Zaprega
+Carriaggi
+Fiat 15 TER
+Farman MF.11 Shorthorn
+Breguet XIV B.2
+Bleriot XI-2
+Albatros-Oeffag D.III 
+SPAD XII
+87chlst. Krupp y.1877
+Airco DH.4
+8mm. Mitr M.14 Hotchkiss 
+7.92mm. Mitr M.16 Lewis
+7mm. Mitr M.09 Maxim 
+SPAD VII
+Albatros D.III
+Dirigibili Modello P
+Farman MF.7 Longhorn
+Farman HF.20
+Dorand AR.1
+Breguet XIV A.2
+Farman S-7 Longhorn
+S.I.A. F.5b (Farman)
+SPAD XIII
+Macchi L.3 (M.3)
+Caproni Ca.3 - CN
+Savoia Pomilio S.P.2
+Ansaldo SVA.5
+Caproni Ca.44
+Ansaldo SVA.10
+S.I.A. 7B.1
+S.I.A. 9B
+S.A.M.L. S.2
+Macchi M.5
+Macchi M.8
+Fiat R.2
+Ansaldo A.1 Balilla
+Short 827 (225D)
+RAF R.E.8
+Airco DH.9
+Bristol F.2B
+Nieuport-Delage 29
+155mm Schneider Mle 17
+Platforma
+100mm Artyleria kolejowa
+75mm Artilérie Vuz MAVAG
+BeutePzWgn FT-17/37
+BeutePzWgn FT-17
+76.2chlst. 4liv. Rosiká y.1877
+75chlst. Schndr-Danglis y.1909
+75chlst. Pyrovolikó Alógon  y.1908 
+75chlst. Schndr-Canet  y.1908
+155chlst. de Bange y.1877
+75chlst. Schndr-Danglis y.1919
+75chlst. Schndr-Danglis y.1909 
+8chlst. Schwarzlose y.1907/12
+8chlst. Schwarzlose y.1907/12
+Cavalry
+Metagogiko
+Ippilaton
+Farman HF.27
+Sopwith Camel F.1
+Breguet XIV B.2
+Airco DH.4
+Farman MF.7 Longhorn
+Sopwith Gunbus Sea Plane
+Farman HF.22
+Avro 504K
+Dorand AR.1
+Gloster Mars VI Nighthawk
+87-mm Harmata zr.1877
+87-mm Kinna zr.1877
+37-mm Harmata zr.15 
+77-mm Harmata zr.1916
+7.92-mm Maksym zr.1908
+7.62-mm Maksim Zenitny
+Reinforced Building
+76-mm Bronibatareya
+Kulemet Bronivahon
+Anatra D Anade
+Phönix Type LDD s.23
+Anatra DS Anasal
+Voisin III
+Nieuport 17 Superbebe
+Albatros D.III
+Fokker D.VII
+Strelkovy 08
+Zhandarmsky
+Opolchenie 08
+Partizany
+Pehota 80
+Morskaya Pehota
+Plastunsky 08 
+Leib-Gvardy 00
+Sibirsky 08
+Saperno-Shturmovoi 80 
+Zh-D Strelkovy
+Pehota 16
+BEF Regulars
+Revolutionaries
+Araplar
+Polizei
+Landwehr 10
+Infanterie 00
+Matrosen
+Polizei Askari
+Garde-Infanterie 00
+Jäger 10
+Bayern 10
+Pioniere 00 
+Pioniere 10
+Sturmtruppen
+Reserve-Infanterie 16
+Eisenbahntruppen
+Royal Constabulary
+Can. Infantry 16
+Colonial Native Infantry
+Home Guard
+Infantry 03
+Royal Navy 03
+2nd Line Infantry
+Guards 03
+African Rifles
+Fusilier 
+Sapper 82 
+Sapper 03
+Gurkhas 14
+S. African Infantry 16
+Guards 16
+Infanterie de Forteresse
+Askari
+Garde Civique
+Infanterie de Ligne
+Katanga Askari
+Chasseurs de Forteresse
+Chasseurs à Pied 09
+Askari 
+Carabiniers
+Schutztruppe Infanterie
+Grenadiers
+Komiti
+Infanterie 15
+Troupes de Transport
+Pioniers
+Grenadiers 15
+Carabiniers Cyclistes
+Grenadery 08
+Landwehr 16
+Grenadiere 10
+Pontonniers
+Gendarmerie 00
+Infanterie Coloniale
+Reserve
+Infanterie 00
+Fusiliers-Marins 00
+Infanterie de 2.Ligne
+Chasseurs à Pied 15
+Légion Etrangère 00
+Chasseurs à Pied 00
+Sapeurs-Mineurs 00 
+Grenadier
+Troupes de Transport 15
+Sapeurs-Mineurs 15
+Chasseurs Alpins 15
+Grenadier 15
+Zouaves 00
+Gendarmerie
+Landsturm
+Infanterie 09
+Landwehr
+See-Bataillon 09
+Sniper
+Sappeure
+Eisenbahntruppen
+Infanterie 17
+Sappeure 09
+Kaiserjäger 17
+Honvéd 17
+Eisenbahnpioniere
+Sturmtruppen
+Riserva 
+Ascari 00
+Brigata Marina
+Fanteria 09
+Cacciatori d'Africa
+Granatieri 09
+Seconda Linea
+Bersaglieri 09
+Prima Linea
+Bersaglieri 14
+Genio Zappatori 09
+Alpini 09
+Carabinieri Ciclisti
+Bersaglieri Ciclisti
+Ferrovieri
+Fanteria 17
+Arditi
+Genio Zappatori 14 
+Alpini 17
+Bersaglieri 17
+Genio Zappatori 17
+Granatieri 17
+Granatieri
+Komiti
+Poslednja Odbrana
+Scouts
+Pesadija 3.Poz
+Pesadija 2.Poz
+Jugoslovenske
+Pesadija 1.Poz
+Pehota 00
+Pesadija 16
+Inzenjerija 
+Bicikl Izvidjaci
+Cetnici
+Laka Pesadija
+Inzenjerija 16 
+Zeleni Kadar
+Pesadija 1.Poz
+Chasseurs a Cheval 00
+Husaren 10
+Kavallerie 16
+Konjica 2.Poz
+Kraljeva Garda
+Konjica Izvidnica
+Konjica 1.Poz
+Konjica 16
+Lancieri 09
+Cavalleria di Linea 09
+Cavalleggeri 09
+Cavalleria di Linea 17
+Gendarmerie
+Finsky
+Raut.Jalkavaki
+Jalkaväki 19
+Jääkäri 19
+Pioneeri
+Tienraivaaja
+Valkoinen Kaarti 
+Ratsuvaki 19
+Turkestansky
+Zaloga Pociagu Pancernego
+Zaloga Pociagu Pancernego 19
+Zandarmeria
+Straz Graniczna
+Infanterie Polonaise
+Zwiad Rowerowy
+Legiony
+Grenadierzy
+Pionierzy 20
+Cetnici
+Druzina
+Panzerovy Strelci
+Inzenyr
+Mujahedeen
+Redif
+Nizamiye
+Nizamiye 18
+Mühendis 09
+Daglari
+Bisiklet Arama 09
+Istihkâmci 09
+Süvari
+Cavalleria di Linea
+Jäger 16
+Lancieri 
+Pioniere 16
+Cavalleggeri 
+Genio Pontieri 09
+Zhandarmi 
+Tribal
+Arab
+Granichari
+Kavaleria 00
+Militseisky
+Krasny Otryad
+Plastunsky
+Pogranichny
+Zh-D Strelkovy
+Pehota ChK
+Konny Otryad
+Kavaleria 19
+Life Guards 03
+Dragons 00
+Hussards 00
+Chasseurs a Cheval 15
+Military Police 
+Ranchers
+Infantry 03
+Marines 03
+RR Troop
+Marine Raiders 18
+Mountain Infantry
+Engineers 18
+Irregulars
+Cavalry 03
+Cavalry 18
+Maxim 02 Support
+Kempeitai
+Hohei 
+Rikusentai 
+Kobi Hohei
+Eihei 
+Sosakutai
+Sento Kouhei
+Sosakutai 14
+Hohei 19
+Jitensha-ka
+Sangaku Hohei
+Tetsudo Butai
+Kihei
+Kihei 19
+11.4mm Gatling
+Laweta
+37-mm Pushka Maksim 'Pom-Pom'
+3,7cm Maxim K
+7,92mm MG 01
+Mortier de 220 mle 1880 de Bange 
+Obusier de 120 mle 15 Schneider 
+Canon de 155 C mle 1915 Schneider 
+220mm Mortier Mle 80
+220 Mortier Mle 16 Schneider
+17cm mMW 13
+14,6mm. Mitralyöz
+Maxim 02
+.303 Maxim 
+Mounted Rifles 03
+Mitrailleuse de 8 Hotchkiss mle 00
+.30 Gatling M1895
+.30 Colt-Browning M1895 03
+.30 Lewis 
+.30 Browning M1919
+.30 Browning M1919
+152-mm Gaubitsa obr.1916
+280mm Type 25
+200-mm Yaponskaya Gaubitsa obr.1912
+37mm Hotchkiss 'Pom-Pom'
+Donskiye Kazaky 08
+75mm Arisaka Type 31
+87mm Mle 95
+75mm GPIII
+75mm Schneider Mle 97
+Cavalleria di Linea
+7,7cm FK 16
+15cm sK 16
+10cm K 17 L/45
+Brunuvilciens Strelnieks
+Kavalerija 19
+120mm Vickers
+Vol. Kuperjanow
+Marine 
+Kaardivagi
+Jalavagi Soom.
+Jalavagi 20
+Politzeisky
+Partisany
+Sirozhupannyki
+Synozhupannyki
+Morskaya Pihota
+Strilcy 20
+Velorazvedka
+Vysko
+Garde a Cheval
+Lanciers
+Guides 15
+Gendarmerie
+Pestininkai 19
+Gelezinkelio Kariu
+150mm. 24f. Top M.77 Valee 
+Anzac Reserve
+Anzac Dism. Cavalry
+Aust. Infantry 14
+N.Z. Infantry 14
+Anzac Raider
+Scouts 03
+Aust. Infantry 16
+N.Z. Infantry 16
+Anzac Sapper
+Anzac Bridging
+Anzac Sapper 16
+N.Z. Mounted Rifles
+Aus. Light Horse
+Aus. Light Horse 16
+Morski Prevoz 
+Metagogiko Thalassis 
+Naval Transport
+Redif 09
+Deniz Nakil 
+Jandarmi 12
+Infanterie 12
+Partizani
+Dorobanti 12
+Vanatori 12
+Puscasi Marini 
+Infanterie Cetate
+Vanatori Munte 
+Cai Ferate
+Pontonieri
+Pioneri 18
+Pioneri Munte
+Cai Ferate 19
+Calarasi 12
+Cavalerie 18
+Ochyrosis Pezikon
+Pezikon
+Pezikon 08
+Pezikon 18
+Euzonoi 08
+Euzonoi 
+Michanikon 08
+Euzonoi 18
+Omada Anagnoriseos
+Michanikoi 08
+Ippikon 08
+Inf Halftrack
+Light Wagon
+sPferdewagen
+Muli da Soma 09
+Kuriems Vagonas
+Flatcar
+Platforma
+Hvy Truck
+Inf Truck
+Truck M18
+sPferdewagen
+lePferdewagen
+Fahrräder
+Maultiere 10
+Erhardt Lkw/Inf
+Benz ML13
+Motorräder
+Locomotive
+Erhardt M18
+Daimler Marienwagen II
+Tovaren vagon
+Infanteriewagen
+Sarvuotu Vagonas
+Attelage Lourd
+Light Wagon
+Bicyclettes
+Mulets 15
+Latil TAR 
+Renault mle 1914
+P107 Semi-chenille
+Mack AC Bulldog
+Citroen-Kegresse
+Attelage Leger
+Hvy Wagon
+Bicycles
+Pack Transport
+Mack AC Bulldog
+Packard 1½t
+Crossley 20/25
+Lancieri 
+Packard 3t
+Garfield-Holt 3t
+Crossley 20/25
+Hvy Wagon
+Light Wagon
+Fiat 18 BL
+Car
+Lancia-Ansaldo IZ/15
+Lancia-Ansaldo IZ/17
+Fiat M17
+Lancia-Ansaldo IZM
+Fiat-Torino
+Esploratore a Cavallo 09
+Carriaggi Pesanti
+Bicicletta
+Maultiere 09
+Trattore Pavesi Tipo A
+Vagone Coperto
+Vagón Caja
+NW TL2
+Hvy Wagon
+Fahrräder
+Kraftfahrräder
+Mules
+Vagon Acoperit
+Gedeckter Güterwagen
+Russo-Balt C
+Infanteriewagen
+Vagun
+Jalgrattad
+Cavalleggeri 
+Kleistó Fortigó Vagóni
+Vazhka Tyaha
+Konny
+Krytyy Vahon
+Bronivahon
+Raskas Hevonen 
+Polkupyora
+Moottoripyora
+Katettu Vaunu
+Panssaroitu Vaunu
+Wagon Blindé 
+Attelage Lourd
+Bicyclettes
+Mulets
+Skis
+Pack Transport
+Nave di trasporto
+Lig Wa
+Carriaggi Pesanti
+Gedeckter Güterwagen
+Cannone da 6lb a Cavallo   
+Jeffery/Nash-Quad
+Locomotive
+Cannone da 8lb a Cavallo  
+Cannone da 16lb
+Obice da 150
+Cannone da 8lb
+Bronevagon 
+Sapiori 17
+Tyazholaya Povozka
+Austin-Kegresse/T
+Legkaya Povozka
+Viuchny
+Broingeniører
+Hvy Wagon
+Velosipedi
+Jeffery/Nash-Quad
+Blockhouse
+Submarine Net
+Guarda Nacional
+Tropas Indígenas
+Infantaria
+Lanceiros
+Infantaria 17
+Sapadores 17
+Sapadores  
+Sapadores Ferroviários 
+Pontoneiros
+Ciclistas
+Explorador a Cavalo
+Dragões
+Caçadores a Cavalo
+Armão Médio
+Armão Pesado
+Vagão Coberto
+Yugai-Sha
+Bicicletas
+Fiat 15 TER
+Gun Carrier MkI
+Peça 7.5cm TR m/904-906
+Obus 15cm TR m/918
+Obus 11.4cm TR m/917
+Peça 7.5cm TR a Cavalo
+Morteiro 76.2mm m/917 
+Peça 19.4cm CAPI
+Peça 32cm CAPI
+Peça 24cm CAPI
+Wacht
+Arab Zealot
+8mm Hotchkiss 14/15
+QF 13pdr MkI
+2.75" BL Mtn 
+Imperial Camel
+Farman/JERO HF.20
+Asiret Alayri
+Jandarma 09
+Mustahfiz 09
+Nieuport 10
+Thomas-Morse MB-3A
+Nieuport 24 bis
+Sopwith Pup
+Bosniaken
+Airco DH.9
+SPAD VII
+Bitsikli
+Teska Zaprega 
+Mazge
+Cetniske Mazge 
+120mm. Haubica M.97 Snajder-Canet
+Arnavut Milisler
+Slovenska Pehota
+Vari Ippilaton
+Podelato
+Hemionikon 08
+Cavalry Mount 03
+Cavallerie 15
+Konny 08
+Teretni Vagon
+Kav.Strelkovy
+75mm Arisaka Type 31 Mtn
+Train
+75mm Barrage
+105mm Barrage
+120mm Barrage
+220mm Barrage
+MG Bunker
+Mot Transport Col
+7,7cm Geb K 15
+10,5cm Geb H 12
+24cm sFlMW 17
+Cavalry Mount
+Schützen
+Landesschützen
+Kaiserschützen
+Kavallerie Schützen
+Kavallerie 10
+Kavallerie Schützen
+Kavallerie 09
+3,7cm SturmbegleitK 
+12cm Kanone M80
+15cm Skoda M14
+Tschechische Landwehr
+Jäger zu Pferde 10
+Ulanen 16
+Kavallerie
+Hvy Transport Col
+8cm FK M75
+Field Command 03
+Field Command 03
+Commandament 15
+Feldkommando 10
+Anzac F. Command
+Field Hospital
+Supply Base
+Versorgungslager
+Supply Dump
+Supply Dump
+Supply Dump
+Airfield
+Air Drop
+Hangar
+Mitr Hotchkiss cal.8mm md.14/15
+Aruncatorul Dumezil cal.58mm md.16
+Obuzierul Schneider cal.105mm md.10
+Obuzierul Schndr-Canet cal.150mm md.12
+Tunul De Bange cal.155mm md.77
+Tunul Putilov cal.107mm md.10
+Tunul St Chamond cal.145mm md.16
+Bristol-Coanda T.B.8
+Caudron G.3
+Caudron G.3
+Voisin III
+Breguet-Michelin 4B.2
+Bristol-Coanda T.B.8
+Farman F.40
+Farman III
+Camel Mount 16
+Cavalry Mount 90
+Austro-Daimler vz.17
+Tezke Sprezeni
+Mulice
+Cyklisticky
+Motocyklisticky
+Krytý Vuz
+Obrnený Vuz 
+Covered Wagon
+NW S 
+Panzerova Drezina
+Kulomet Vuz 
+Bateau de Transport
+Naval Transport
+Sibirsky 80
+Mules
+6.5mm Maxim m/906
+Bridge
+Turn de Garda
+Watch Tower
+Tour d'observation
+Wachturm
+Torre d'osservazione 
+Torre de Vigilancia
+Watch Tower
+Pillbox
+Ohrannaya Bashnya
+Kula Izvidnica
+Vartiotorni
+Watch Tower
+Feltkommando
+Watch Tower
+Tour d'observation
+Kansoku Tawa
+Watch Tower
+Rozhledna
+Wachturm
+Vaatetorn
+Straznica
+Skopiá
+Ohrannaya Bashnya
+Angry Mob
+Ocean Liner
+Hospital Ship
+Yerlesik Piyade 18
+Yerlesik Piyade 10
+Entrenched Infantry
+Infanterie Retranchée 00
+Infanterie Retranchée 15
+Entrenched Infantry 03
+Entrenched Infantry 16
+Ukreplenie
+Ukreplenie 08
+Ukreplenie 16
+Kitoku Hohei
+Kitoku Hohei 14
+Eingegrabene Infanterie 14
+Eingegrabene Infanterie 16
+Entrincheirado de Infantaria 17
+Ukreplenie
+Entrenched BEF
+Pipers
+Ukreplenie 19
+Eingegrabene Infanterie
+Entrincheirado de Infantaria
+Infantería Atrincherada 12
+Pechoty Príkop
+Fanteria Trinceata 17
+Entrenched Infantry
+Jalkavaki kaiv.
+Entrenched Infantry 18
+Infanterie Retranchée
+Watch Tower
+Entrenched Infantry
+Piechota w Okopach
+Infanterie Intarita
+Infanteri
+Fanteria Trinceata
+Atalaia
+Anzac Entrenched Inf.
+Watch Tower
+Pesadijski Sanac
+Pericharakoméno Pezikon 08
+MG Position
+MG Position
+Hospital
+Port Facility
+Road Block
+Shipwreck
+Building
+Blockhouse
+Pillbox
+Fortification
+Commmand Bunker
+Commmand Bunker
+Peça 9cm m/878
+Peça 15.5cm L m/917 
+Observation Fort
+Coastal Mortar
+Russo-Balt C
+Russo-Balt C
+Drezyna Pancerna
+Szwolezerowie
+Drezina
+Russo-Balt C
+FT-17 Commandament
+Gas Discharger
+Automobil
+Red Cross Stretcher
+Strelkovy 15
+Infanterie 15
+QF 18pdr MkI
+Infantería  12
+Infantería  20
+Milicia 00
+Cazadores 12
+Cazadores 20
+Guardia Civil 12
+Tercio de Extranjeros
+Regulares
+Zapadores 12 
+Zapadores 20
+Pontoneros 12
+Ciclistas
+Mehal-la
+Harka
+Tropa de Marinería 00
+Cazadores 12
+Cazadores 20
+Húsares 12
+Caballería 20
+FT-17
+FT-17 Mando
+Schneider mle CA1/17
+Regulares
+Explorador a Caballo 12
+Camión Protegido Latil
+Schneider 1909
+Lohner B.I Flecha
+Carro
+Mulas 12
+Carro Pesado
+Hisp-Suiza 2Tm.
+Hisp-Suiza 4Tm.
+Tractor
+Cañón 8cm Sotomayor Md.1880
+Cañón 7.5cm Krupp Md.1898
+Cañón 7.5cm Schneider Md.1906
+Cañón 12cm Plasencia Md.1891
+Obús 10.5cm Schneider Md.1919
+Cañón 7.5cm a Caballo
+Mortero 6cm Valero Md.1926
+Obús 15.5cm Schneider Md.1917
+Cañón 10.5cm Schneider Md.1913
+Amet. 7mm Hotchkiss Md.1914
+Amet. 7mm Colt-Browning
+Amet. 7mm Hotchkiss Md.1914
+Camión Protegido 40/50
+Cañón 7.6cm Skoda Md.1919
+Infantería 00
+Húsares 95
+Tirailleurs Algériens 15
+Spahis
+Yilderim
+Savoia Pomilio S.P.3
+13cm K 09
+152-mm Gaubitsa obr.1910
+Obús 10.5cm Vickers Md.1922
+12" BL Gun MkIX 
+Cañón 7cm Schneider Md.1908
+Obús 15cm Krupp Md.1913
+142mm Mortier Delattre
+58mm Van Deuren
+75mm Mortier Schneider
+Renault EF
+Transporte Naval
+Mercedes 37/95
+Russo-Balt C
+Ford-T 
+Armored Train
+Minerva BB
+Morskaya Pehota 
+7.62-mm Maksim obr.1910
+Bristol F.2B
+Martinsyde F.4 Buzzard
+Martinsyde F.4 Buzzard
+Dorand AR.2
+Nieuport IV G
+Breguet XIV A.2
+Airco DH.4
+Airco DH.9a
+Avro 504K
+Farman MF.7 Longhorn
+Macchi M.18
+Caudron G.3
+S.I.A.I. S.16
+Büyük Arabasi
+Katirlar 09
+Kapali Vagonu
+Fokker C.IV
+Deve
+Mostovna Inzenjerija
+Russo-Balt C
+Ukranier Freiwillige
+Hamidiye
+Armiansky
+Bedeviler
+Bedeviler
+Hecinsuvar
+Can. Infantry 03
+Scottish Infantry 03
+S. African Infantry
+Ford-T
+8,7/24sm. Krup Top M.85
+7,92mm. MG M.08
+Skis
+120-mm Pushka obr.1880 (c)
+Beni Urriaguel
+Harka
+Cavalry Scout
+Cavalry
+Cañón 7cm Schneider Md.1908 (c)
+Cañón 7.5cm Schneider Md.1906 (c)
+Cañón 8cm de Bronce
+Bengal Lancers 03
+Légion Arménienne
+Mujahadeen Cavalry
+Ski
+Prisoners
+Snow Blizzard
+N.Z. Mounted Rifles 16
+2.95" QF Mtn
+Konny
+Kav.Strelkovy
+Pehota 17
+Car
+Samochod
+Automovel
+Masina
+Kola
+7.62-mm Maksim obr.1910
+Assault Zeppelin
+Caudron G.3
+Russo-Balt C
+Car
+Vauxhall D
+Kuruma
+Russo-Balt C
+Marine 20
+Anzac Imperial Camel
+Fortress Artillery
+Lighthouse
+Transporte Marítimo
+Coche
+Fiat 2B
+Donanmasi 09
+Magari
+Seebataillone 00
+7.62mm Maxim Marine 
+Jewish Legion
+Swedish Volunteers
+Cavalerie Démontée
+Cavalerie Démontée 15
+Ratsuvaki
+Jizda
+Marine
+Cavalaria
+Cavalerie
+Kavaleria
+Cavalry Mount
+Velomoteur
+Can. Scottish
+Grenadiere
+Infanterie de 2.Ligne 15
+Génie 15
+Infantry
+Cavalry
+Zouaves
+Militia
+Marines
+Rifles
+Mountain Infantry
+Dism. Cavalry
+Bridging
+Cavalry Scout
+Building
+Light Cavalry
+Infantry
+Cavalry
+Zouaves
+Militia
+Marines
+Rifles
+Mountain Infantry
+Dism. Cavalry
+Bridging
+Cavalry Scout
+Iron Bde.
+Light Cavalry
+Can. Entrenched Inf.
+Indian Entrenched Inf.
+.303 Vickers (Canadian) 
+.303 Vickers (Indian) 
+Can. Bridging
+Indian Bridging
+RBL 12pdr 8cwt 
+RML 9pdr 8cwt
+RML 9pdr 6cwt Horse
+RML 16pdr 12cwt 
+RML 7pdr MkIV Mtn
+BL 12pdr 7cwt
+BL 12pdr 6cwt Horse
+RML 13pdr 8cwt 
+BL 15pdr 7cwt
+2.5" RML MkII Mtn
+15pdr MkI Horse 03
+5" BL How
+BLC 15pdr
+QF 15pdr MkI
+6" BL 30cwt
+75mm Creusot QF
+75mm Krupp QF
+120mm Krupp How QF
+155mm Creusot BL
+7,7cm FK 96 
+8cm FK C/73 (ber. Art.)
+37mm Maxim 'Pom-Pom'
+7.5cm M77
+7pdr RML MkIV
+7.5cm Krupp M95
+9pdr RML 8cwt 
+4-pf Feldkanone C/64
+4-pf (ber. Art.)
+24-pf C/61
+12-pf Feldkanone C/59
+6-pf Feldkanone C/61
+21cm Mörser C/70
+15cm lange RK 92
+10cm K 04
+Canon de 4 mle 58 La Hitte 
+11mm Montigny Mitrailleuse
+Canon Obusier de 12 Mle 53
+12pdr Napoleon M1857
+6pdr Field Gun M1841
+10pdr Parrott Rifle M1861
+20pdr Parrott Rifle M1861
+3" Ordnance Rifle M1861
+4.5" Ordnance Rifle
+30pdr Parrott Rifle
+100pdr Parrott Rifle
+10" Siege Mrt M1841
+8" Siege Mrt M1841
+13" Mrt 'Dictator' M1841
+5.82" Coehorn Mrt M1841
+6pdr Field Gun M1841
+12pdr Napoleon M1857
+12pdr Armstrong RBL 
+12pdr Whitworth BL 
+10pdr Parrott Rifle M1861
+12pdr Howitzer M1841 
+3" Ordnance Rifle M1861
+20pdr Parrott Rifle M1861
+30pdr Parrott Rifle
+10pdr Parrott Rifle M1863
+3" Ordnance Horse
+12pdr Horse
+12pdr Howitzer M1841
+5.82" Coehorn Mrt M1841
+10" Siege Mrt M1841
+8" Siege Mrt M1841
+.58 Ager Gun
+.58 Gatling Gun
+.58 Gatling Gun M1865
+7,5/27sm. Krup Top M.85
+8,7/24sm. Krup Top M.61
+7,5/13sm. Krup Top M.80
+7,5/13sm. Skoda Top M.15
+10/17sm. Skoda Obüs M.16
+7,5/30sm. Krup Top M.10
+10,5/20sm. Krup Obüs M.16
+10,5/30sm. Krup Top M.05
+7,5/30sm. Krup Top BAK
+3,7sm. Maxim Top 'Pom-Pom'
+Tunul Rus cal.76.2mm md.77
+Tunul Krupp cal.78.5mm md.68
+Mitr Colt cal.7.62mm md.95/16
+Mitr Schwarzlose cal.8mm  md.07/12
+Mitr Maxim cal.6.5mm md.09
+Tunul Krupp cal.75mm md.03
+Tunul Krupp cal.75mm md.04
+Artilerie Calareata cal.87mm  
+Tunul Hotchkiss cal.57mm md.91
+87-mm Konna Artileriya
+3-f Orudie obr.77
+78.5-mm Orudie 'Krup' obr.68
+75-mm Orudie 'Shkoda' obr.15
+150-mm Gaubitsa 'Shkoda' obr.14
+87-mm Orudie 'Krup' obr.73
+8-mm Kartechnitsa 'Shvartsloze' 
+120-mm Orudie 'Shnaider' obr.97
+120-mm Gaubitsa 'Shnaider' obr.09
+150-mm Orudie 'Krup' obr.92
+150-mm Gaubitsa 'Shkoda' obr.14/16
+105-mm Gaubitsa 'Krup' obr.16
+Colored Infantry
+Colored Infantry 18
+Sharpshooters
+Sharpshooters
+Field Command
+Field Command
+Pack Transport
+Pack Transport
+Wagon
+Light Wagon
+Hvy Wagon
+Lancers 03
+Mounted Rifles
+Cavalry 16
+Bridge
+Wooden Bunker
+Abatis
+wood1
+wood2
+wood3
+wood4
+wood5
+wood6
+wood7
+wood8
+wood9
+Wooden Bunker
+80mm. Top M.85 De Bange 
+80mm. Top M.85 De Bange
+75mm. Top M.07 Snajder
+70mm. Top M.07 Snajder
+58mm. Mortira M.17 Dumezil 
+Bombarda da 58B
+120chlst. de Bange y.1878 
+Mortier de 58 n°1 'Crapouillot'
+Mortier de 150 mle 1838
+Mortier de 70 mle 1915 Van Deuren
+70mm Van Deuren
+Bombarda da 70 
+Bombarda da 58A
+Mortier de 240 LTmle 1916
+Mortaio da 81 
+Bombarda da 240 L
+8mm St Etienne M1907
+Autocannone 102/35
+Peça 7cm MTR m/906-911 
+9cm FK C/73
+12cm sK 79
+7,62cm IG L/16.5 (r)
+37mm. Top M.16 Puteaux 
+Canon de 37 mle 1916 Puteaux
+37mm Puteaux M16
+37mm Puteaux Mle 16
+3,7cm TaK 16
+4-pf FK 
+6-pf FK
+9cm FK M63
+9cm FK M75
+Ulani Legionowi
+12cm Kanone M61
+7cm GebG M99
+10cm GebH M99
+10cm Feldhaubitze M99
+10,4cm Skoda FK M15
+15cm Kanone M80
+76-mm Konnaya obr.1900 08
+4-f Orudie obr.67
+9-f Orudie obr.77
+24-f Orudie obr.77
+Amet. 7mm Maxim (c)
+Amet. 7mm Maxim
+Cañón 7.5cm Krupp Md.1896
+3" Hotchkiss Mtn Gun
+1.65" Hotchkiss Mtn Gun
+3" Gun M1902
+4.7" Gun M1906
+Mitrailleuse de 8 St Etienne mle 1907
+21cm Mörser 10
+Mortero 21cm Mata Md.1895
+Mortero 15cm Mata Md.1891
+Mortero 9cm Mata Md.1891
+Obús 15cm Mata Md.1891
+Cañón 5.7cm Nordenfelt Md.1885
+Cañón 9cm Plasencia Md.1878
+Cañón 9cm Krupp Md.1877
+Cañón 8cm Plasencia Md.1873
+Cañón 14cm de Bronce Md.1871
+Mortier de 150 T mle 1917 Fabry
+17cm mMW n/A  
+25cm sMW n/A 
+Granatenwerfer 16
+Granatenwerfer M16
+9cm Minenwrf Lanz
+22,5cm Minenwrf M15
+22,5sm. Havan M.15
+9cm Minenwrf M14
+3" Stokes Mrt 18
+6" Newton Medium Mrt
+2" Vickers Medium Mrt
+91.3-mm Minokhvurgachki 'Lanz'
+58-mm Minomet obr.15
+Observation Balloon
+Cavallerie
+Mitrailleuse de 8 St Etienne mle 1907/15
+Karargah
+Stabs
+Feldkommando 09
+Kindralstaabi
+Komanduvannya
+Esikunta
+Commandament 00
+Generalni Stab
+Commandament
+Field Command
+Dowodztwo
+Maior General
+Stat Major 00
+Generalniya Shtab
+Komandovaniye
+Sanbo Honbu
+Estado Mayor 12
+Stato Maggiore 09
+Generalstab
+Archigeio
+Commandament 15
+Karargah 09
+Sanbo Honbu 14
+Grenadiere 16
+Komandovaniye 80
+Naval Transport
+Naval Transport
+Bateau de Transport
+Transporte Naval
+Morskoy Transport
+Kaijo Yusou
+Transportschiff
+Pontonniers 15
+Chasseurs à Pied 15
+Pioniers 15
+Carabiniers Cyclistes 15
+Carabiniers 15
+Muavenet-i Milliye
+Durandal Class
+S.165 Class
+Huszar Class
+Tatra Class
+Lennuk Class
+Durandal Class
+Arquebuse Class
+Bouclier Class
+S.90 Class
+S.138 Class
+V.25 Class
+V.100 Class
+Küsten TB
+Tucker Class
+Bainbridge Class
+Wickes Class
+Cushing Class TB
+Blakely Class TB
+Fluvial MTB
+Asakaze Class
+Kaba Class
+Momo Class
+Hayabusa Class TB
+Kotaka Class TB
+Fu Lung Class TB
+Havock Class
+River Class
+M-S Class
+V&W Class
+Drazki Class TB
+Orfey Class
+Fidonisy Class
+Sokol Class
+Sokol Class
+Buinyi Class
+Buinyi Class
+Orfey Class
+Fidonisy Class
+Buinyi Class
+Sokol Class
+Destructor
+Clase Audaz 
+Clase Furor 
+MAS TB
+Nembo Class
+Pilo Class
+Audace Class
+Novik Class
+Niki Class
+Aetos Class
+Panther Class
+Gazelle Class
+Bremen Class
+Königsberg Class
+Dresden Class
+Pillau Class
+Wiesbaden Class
+Fürst Bismarck Class
+Scharnhorst Class
+Blücher Class
+Von der Tann Class
+Moltke Class
+Derfflinger Class
+Wittelsbach Class
+Deutschland Class
+Nassau Class
+Kaiser Class
+König Class
+Bayern Class
+Cressy Class
+Drake Class
+Monmouth Class
+Duke of Edinburgh Class
+Invincible Class
+Indefatigable Class
+Orion Class
+Tiger Class
+Dreadnought Class
+Colossus Class
+King George V Class
+Queen Elizabeth Class
+Revenge Class
+Majestic Class
+Canopus Class
+Formidable Class
+Swiftsure Class
+Lord Nelson Class
+Moltke Class
+Brandenburg Class
+Magdeburg Class
+Zenta Class
+Admiral Spaun Class
+Kaiser Franz Joseph I Class
+Kaiser Karl VI Class
+Erzherzog Karl Class
+Radetzky Class
+Tegetthoff Class
+D'Entrecasteaux
+Amiral Charner Class
+Leon Gambetta Class
+Charles Martel Class
+Charlemagne Class
+Suffren
+Liberte Class
+Bouvet
+Danton Class
+Courbet Class
+Bretagne Class
+Clase Isla de Luzón
+Clase Reina Cristina
+Clase Velasco
+Clase Infanta Maria Teresa 
+Cristóbal Colón
+Pelayo 
+Clase España 
+Pingyuan (Coastal BB)
+Dingyuan Class
+Chaoyong
+King Yuen Class
+Ching Yuen Class
+Gunboat
+Fuso
+Naniwa Class
+Chiyoda
+Matsushima Class
+Akitsushima
+Yoshino Class
+Kongo Class
+Fuji Class
+Shikishima Class
+Mikasa Class
+Ibuki Class
+Kasagi Class
+Asama Class
+Suma Class
+Niitaka Class
+TB Destroyer
+Number 67 Class TB
+Admiral Nakhimov
+Rurik
+Novik
+Bogatyr Class
+Bogatyr Class
+Bayan Class
+Pallada Class
+Imperator Aleksandr II
+Petropavlovsk Class
+Peresviet Class
+Borodino Class
+Andrei Pervozvanny Class
+Gangut Class
+Gangut Class
+Imperatritsa Mariya Class
+Imperatritsa Mariya Class
+Elisabeta
+Potemkin
+Aurora
+Dante Alighieri
+Conte di Cavour Class
+Re Umberto Class
+Italia Class
+Regina Margherita Class
+Regina Elena Class
+Garibaldi Class
+Vettor Pisani Class
+Pisa Class
+San Giorgio Class
+Texas Class
+Iowa
+Indiana Class
+Delaware Class
+Marblehead
+Albany
+Brooklyn
+Pennsylvania Class
+Auxiliary Cruiser 
+Auxiliary Cruiser 
+Hilfskreuzer 
+Auxiliary Cruiser 
+Engineers 
+Engineers
+Freed Slaves
+Irregulars
+Irish Bde.
+US Regulars
+CS Regulars
+Home Guards
+Home Guards
+Cavalry Mount
+Cavalry Mount
+Band
+Band
+Mounted Rifles
+Mounted Rifles
+Heavy Cavalry
+Heavy Cavalry
+USS Monitor
+USS Passaic
+USS Benton
+USS Cairo
+Union Tinclad
+USS Tyler
+CSS Virginia
+CSS Tennessee
+Confederate Cottonclad
+CSS Albemarle
+CSS David
+USS Alligator
+H-Class
+H-Class
+H-Class
+E-Class
+H-Class
+Brumaire Class
+U5 Class
+Bars Class
+AG Class
+Mittel U Class
+Typ U 31 Class
+10" Columbiad
+15" Columbiad
+10" Columbiad
+15" Columbiad
+13" Mortar M1841
+13" Mortar M1841
+Landwehr
+Bayern
+Sachsen
+Brückenpioniere
+Jäger
+Grenadiere
+Chasseurs à Pied
+Légion Etrangère
+Zouaves
+Tirailleurs Algériens 00
+Gardes Mobiles
+Sapeurs-Mineurs
+Garde Imperiale
+Partisans de Gers
+Franc-Tireurs
+Infanterie de Marine
+Cuirassiers
+Dragons
+Hussards
+Chasseurs a Cheval
+Chasseurs d'Afrique
+Lanciers
+Kürassiere
+Ulanen
+Dragoner
+Husaren
+Jaeger zu Pferde
+Chevaulegers
+Infanterie 
+Infanterie
+Garde-Infanterie
+Pioniere
+Beiyang Army
+Xinjun New Army
+Provincial Militia
+Boxer
+Manchu Tigermen
+Kansu Braves
+Cavalry
+12pdr Hongyipao Cannon
+75mm Krupp Gun
+6pdr Bronze Cannon
+Chinese Fort
+Wagon Barricade
+Wagon Barricade
+Manchu Lancers
+Formosan Militia
+Black Flag Army
+Formosan Regulars
+Xinjun Engineers
+Manchu Bannermen
+Mongol Irregulars
+Naval Transport
+Caudron G.3
+Avro 504K
+Württemberg
+Feldkommando
+Infanterie de Forteresse 15
+Infantería 
+Estado Mayor
+Pontoneros
+Zapadores
+Milicia
+Cazadores
+Cazadores 00
+Dragones 95
+Húsares
+Cazadores
+Lanceros
+Dragones
+Coraceros
+Guardia Civil 00
+Infantería de Marina
+Cazadores 95 
+Milicia 95
+Zapadores 95
+Pontoneros 95
+Estado Mayor 95
+Lanceros 95
+Milicia 12
+Cazadores 00
+Infantería 95
+Guardia Civil 
+Guardia Civil 95
+Zapadores 00
+Infantería de Marina 95
+Cazadores 95
+Milicia
+Explorador a Caballo 95
+Explorador a Caballo 
+Mulas
+Dragones 12
+Cavalry 90
+Light Cavalry 90
+Mounted Rifles 90
+.30 Colt-Browning M1895
+Infantry 90
+Rifles 90
+Colored Infantry 90
+Militia 90
+Marines 90
+Field Command 90
+Engineers 90
+Bridging 90
+Colored Infantry 03
+Zulu 'Chest'
+Zulu 'Horns'
+Zulu 'Loins'
+Ansar Riflemen
+Mahdist Spearmen
+Hadendoa Riflemen
+Mahdist Camelry
+Mahdist Cavalry
+Khalifa's Bodyguard
+9cm Krupp Gun (c)
+Afghan Tribal Warriors
+Tribal Lashkars
+Afghan Infantry
+Afghan Cavalry
+12pdr Armstrong RBL
+6pdr Smoothbore
+Light Wagon
+Politie
+Burghers
+Vreemde Vrywilligers
+Cavalerie
+Wa
+Swaar Wa
+Infanterie 
+Dorobanti
+Vanatori
+Calarasi
+Rossiori
+Pehota
+Mostovi Drujini
+Milicija
+Rekonesans Legionowy
+Bulgarian Legion
+Hajduci
+Kavaleria
+Infanterie
+Kaiserjäger
+Feldjäger 
+Grenz-Infanterie
+Brückenpioniere
+Kürassiere
+Dragoner
+Ulanen
+Huszaren
+Ihtiyat
+Nisanci
+Basibozuk
+Istihkâmci
+Çerkezce
+Misir
+Pehota 60
+Strelkovy
+Grenadery 60
+Inzhenernye Voiska 60
+Plastunsky 
+Leib-Gvardy
+Draguny 60
+Ulany 60
+Gusary 80
+Inorodtsy
+Fanteria
+Bersaglieri 
+Alpini
+Ascari
+Cacciatori
+Skerpskutters
+Irish Transvaal Bde.
+Cavalerie Voorloper
+Süvari Izci
+Katirlar
+Wagon
+Loopgrawe
+Yerlesik Piyade
+Afghan Scout
+Infantry
+Guards
+Bridging
+Scottish Infantry
+Royal Marine 82
+Dism. Cavalry 82
+Natal Native Infantry
+.45 Gatling Gun
+Sikh Infantry
+Guides Infantry
+Bengal Native Infantry
+Bombay Native Infantry
+Gurkhas
+Infantry
+Sudanese Infantry
+Rifles
+Militie
+Infantry 82
+Guards 82
+Scottish Infantry 82
+Mounted Infantry
+.45 Gardner Gun
+Aust. Infantry
+N.Z. Infantry
+Town Guard
+Mounted Police
+Can. Mounted Rifles
+Canadian Scout
+.303 Colt-Browning (Canada)
+Aus. Mounted Rifles
+Camel Corps
+Cavalry
+Dragoons
+Lancers
+Hussars
+Bengal Lancers
+Indian Light Cavalry
+Guides 
+Imperial Yeomanry
+Cavalerie
+Infanterie Retranchée 15
+10.66-mm Gatling
+Vol. de l'Ouest
+Mulets
+Chasseurs Cyclistes 15
+Tirailleurs Sénégalais 00
+Fusiliers-Marins
+Génie 
+Troupes de Transport
+Reconnaissance
+Bicyclettes 15
+Mitrailleuse de 13 Reffye
+Mustahfiz
+Bisiklet Arama
+Kavallerie Späher
+Kavallerie
+Maultiere
+Field Command
+Field Command 82
+Mule
+Kavallerie Schützen 16
+Reserve 15
+Royal Marine 15
+Sapper
+Dragoons 82
+Lancers 82
+Hussars 82
+Cavalry Scout
+Cavalry Scout 82
+Pack Transport
+Pack Transport 82
+Veld Opdrag
+Bayern Chevaulegers 10
+Kavallerie Späher 16
+Infanterie
+Infanterie
+Infanterie
+Tirailleurs Marocains 15
+Tirailleurs Marocains
+Infanterie Coloniale 15
+Rifles 82
+Royal Navy
+Can. Infantry 82
+Can. Infantry
+Infantería 
+Highland Guard
+Zuavos 
+Partidas
+Estado Mayor
+Caballería 
+Carro
+Mulas
+Carriaggi Leggeri
+Inzhenernye Voiska 80
+Saperno-Shturmovoi 16
+Cazadores de Montaña
+Cazadores de Montaña 12
+Ulany 80
+Kavkazskiye Kazaky 80
+Donskiye Kazaky 80
+Kavkazskiye Kazaky 08
+Konnaya Razvedka 80
+Kihei
+Viuchny
+Konny 80
+Baei Yusou
+Mules
+Opolchenie 80
+Strelkovy 80
+Grenadery 80
+Draguny 80
+Fuseikihei 14
+Hei Kouhei 14
+Jitensha-ka 14
+Kihei Teisatsu 14
+6.5mm Ho-shiki Type 30
+Kavkazskiye Kazaky
+Kavkazskiye Kazaky 16
+Gusary
+Armiya Kornilov
+Armiya Markov
+Armiya Alexeyev
+Armiya Drozdovsky
+Pehota 19
+Laka Zaprega 
+Legkaya Povozka
+Tabor
+Kevyt Hevonen 
+Elafri Ippilaton
+Carro Ligero
+Heavy Wagon
+Light Wagon
+Tezhk Karutca 
+Lek Karutca 
+Velosiped 
+Atelaj Greu 
+Atelaj Usor 
+Biciclete 
+lePferdewagen
+Küçük Arabasi
+Light Wagon
+Jal Vagun
+Lehka Tyaha
+Lehke Sprezeni
+Attelage Leger
+Sunkiuju Vagonas
+Sviesos Vagonas
+Caballos
+Caballos
+Armão Ligeiro
+Ukreplen Pehota
+Entrenched Infantry
+Eingegrabene Infanterie 17
+Maultiere
+Kavallerie
+Feldkommando
+Stonewall Bde.
+Kavalerija
+Ratsavagi
+Raitininkai
+Kavallerie 15
+Huszaren 15
+Kavallerie Spaeher 
+Kavallerie Spaeher 15
+Ulanen 15
+Fokker D.VII
+Fokker D.VII (BMW)
+Albatros C.XII
+RAF S.E.5a
+Sopwith Camel F.1
+Nieuport-Delage 29
+Canon de 75 TR a Cheval
+Cavalry Mount 82
+Cavalry Mount 
+75mm a Cheval
+Albanische Freiwillige
+Grenzjäger
+Süvari 09
+Süvari
+Mules 14
+Kihei 14
+Cañón 8cm a Caballo 95
+Bicycles
+Velosipedisty
+75mm Type 41 Kihei 
+Pionerer 
+Ansaldo A.300/3
+Ansaldo A.300/3
+Gotha G.Vb
+Halberstadt C.V
+LVG C.VI
+Sopwith Pup
+Albatros B.III
+Albatros D.Va
+Albatros W.4
+Fokker D.I
+Fokker D.II
+Fokker D.III
+Fokker D.V
+Fokker D.VI
+7.7mm Vickers m/917
+Halberstadt D.III
+Halberstadt D.IV
+Halberstadt D.V
+Hansa-Brandenburg W.12
+Hansa-Brandenburg W.19
+Junkers D.I
+LFG Roland D.II
+LFG Roland D.IIa
+LFG Roland D.VIb
+Pfalz D.IIIa
+Pfalz D.VIII
+Pfalz Dr.I
+Pfalz E.I
+Pfalz E.II
+Pfalz E.IV
+Siemens-Schuckert D.I
+Siemens-Schuckert D.III
+AEG G.II
+AEG G.III
+AEG G.IV
+Friedrichshafen G.III
+Gotha G.I
+Gotha G.II
+Gotha G.III
+Gotha G.IV
+Gotha G.Va
+Gotha G.Vb
+Zeppelin Staaken R.VI
+Ago C.I
+Ago C.II
+Ago C.IV
+Albatros C.III Late
+Albatros C.VII
+Aviatik B.II
+Aviatik C.I
+Aviatik C.Ia
+Aviatik C.II
+Aviatik C.III
+Fokker C.I
+Gotha WD.1
+Gotha WD.14
+Gotha WD.2
+Halberstadt C.V
+Halberstadt CL.II
+Halberstadt CL.IV
+Hannover CL.II
+LFG Roland C.II
+LVG B.II
+LVG C.V
+LVG C.VI
+Rumpler C.I
+Rumpler C.Ia
+Rumpler C.VII
+Sablatnig SF-5
+Breguet 4
+Caproni Ca.3
+Deperdussin TT
+Esnault-Pelterie REP N
+Morane-Saulnier AI
+Schreck FBA
+Sopwith Triplane
+SPAD A-2
+SPAD XI/XVI
+Handley-Page O/400
+Vickers Vimy
+Beardmore S.B.3D
+Nieuport 10
+Nieuport 11 Bebe
+Kavaleri spejder
+RAF F.E.2d
+RAF F.E.8
+RAF S.E.5a Early
+Sopwith Camel 2F.1
+Farman F.40
+Airco DH.10 Amiens
+Airco DH.4 Eagle VIII
+Airco DH.6
+Airco DH.9
+Breguet A-G4
+Breguet G3
+Caudron G.3
+Fairey Campania
+Felixstowe F.2a
+Felixstowe F.3
+Felixstowe F.5
+RAF B.E.2e
+Sopwith Baby
+AEG C.IV
+Fokker D.I
+Gotha WD.1
+Gotha WD.12
+Gotha WD.2
+Sablatnig SF-5
+SM-16bis/m
+Breguet XIV A.2
+Breguet XIV B.2
+Bristol R-1912
+Deperdussin D
+Esnault-Pelterie REP N
+Gotha LD.2
+Harlan Eindecker
+LVG B.I
+Rumpler C.I
+Bleriot XI-2
+Bleriot XI
+Rumpler B.I
+LFG Roland D.VIa
+Caproni Ca.3
+Konjica Izvidnica
+Aux. Infantry
+Aux. Infantry
+Guarnición
+Guarnición 95
+Guarnición 12
+Torpedo Field
+Excelsior Bde.
+Texas Bde.
+Garibaldi Guard
+Hampton's Legion
+Caballos 95
+Caballos 12
+RBL 12pdr Horse
+12pdr Whitworth BL  
+Cañón 8cm de Bronce
+Cañón 8cm a Caballo
+Cañón 8cm Krupp Md.1868
+QF 15pdr MkI Horse 
+7pdr RML
+Canon de 4 a Cheval
+Canon de 80 M mle 1877 de Bange
+Cavalry Mount 03
+3.2" Gun M1885
+Cavalry Scout
+Chieftains
+Chieftains
+Mulas 95
+Dragones 00
+Explorador a Caballo 
+Bridging 82
+Fusilier 16
+Gurkhas 82
+Húsares 
+Lanceros 
+Aviatik B.II
+Cavallerie 
+Cavallerie 15
+Mulets 15
+Bicyclettes 15
+Guides
+Chasseurs a Cheval 
+Grenadiers de Forteresse
+Carabiniers de Forteresse
+Gendarmerie
+Gendarmerie a Cheval
+7.65mm Maxim 02
+Reconnaissance 15
+Cavalerie Démontée
+Cavalerie Démontée 15
+Velo Reconnaissance
+Chasseurs a Cheval 15
+Lanciers 15
+75mm a Cheval 15
+Genio Pontieri
+Genio Zappatori 
+Stato Maggiore
+Granatieri
+Curtiss F
+Deperdussin D
+Farman HF.16
+Farman MF.7 Longhorn
+Grigorovich M-16
+Hansa-Brandenburg W.33
+Fokker D.VII
+Macchi Parasol
+Nieuport IV
+Nieuport VI-M
+Pomilio PC
+Pomilio PD
+Pomilio PE
+S.A.M.L. Aviatik B.I
+S.A.M.L. S.1
+S.I.A. 7B.2
+Savoia HF.22
+Savoia Pomilio S.P.4
+Schreck FBA Type H / N
+S.I.A.I. S.8
+Sopwith-Ansaldo Baby
+Voisin III
+Nieuport 11 Bebe
+Sopwith Camel F.1
+RAF S.E.5a
+Anatra DS Anasal
+Pferdewagen
+Sappeure
+sPferdewagen
+4-pf Feldkanone
+6-pf Feldkanone
+Infanterie
+Festungsinfanterie
+Jäger
+Colored Infantry
+Grenz-Infanterie
+Brückenpioniere
+Kürassiere
+Dragoner
+Ulanen
+Huszaren
+lePferdewagen
+Maultiere
+Kavallerie
+Feldkommando
+Kavallerie Späher 
+Wagon Barricade
+.58 Ager Gun
+.45 Gatling Gun M1874
+10" Columbiad
+10" Siege Mrt M1841
+100pdr Parrott Rifle
+10pdr Parrott Rifle M1861
+10pdr Parrott Rifle M1863
+12pdr Howitzer M1841 
+12pdr Napoleon M1857
+13" Mortar M1841
+13" Mrt 'Dictator' M1841
+15" Columbiad
+20pdr Parrott Rifle M1861
+3" Ordnance Horse
+3" Ordnance Rifle M1861
+30pdr Parrott Rifle
+4.5" Ordnance Rifle
+6pdr Field Gun M1841
+8" Siege Mrt M1841
+Bridging
+Cavalry
+Cavalry Mount
+Cavalry Scout
+5.82" Coehorn Mrt M1841
+Dism. Cavalry
+Engineers
+Field Command
+Heavy Cavalry
+Hvy Wagon
+Light Wagon
+Infantry
+Irregulars
+Light Cavalry
+Marines
+Mountain Infantry
+Mounted Rifles
+Naval Transport
+Pack Transport
+Rifles
+Supply Dump
+Wagon
+Watch Tower
+Ansaldo A.1 Balilla
+Ansaldo A.1 Balilla
+Bayern Chevaulegers
+Brückenpioniere
+Feldkommando
+Garde-Infanterie
+Grenadiere
+Infanterie
+Jäger
+Landwehr
+Pioniere
+Dragoner
+Husaren
+Jäger zu Pferde
+Kürassiere
+Ulanen
+Kavallerie Späher
+Kavallerie
+12cm K C/61
+15cm RK C/61
+21cm Mörser C/70
+8cm FK C/64/67
+8cm FK (ber. Art.)
+9cm FK C/61
+lePferdewagen
+Maultiere
+Pferdewagen
+sPferdewagen
+Transportschiff
+Naval Transport
+8mm Schwarzlose 07/12
+Etrich Taube A.I
+Generalni Stab
+Jizda
+Izhorsky Fiat
+Cyklisticky
+Jizda
+Lehke Sprezeni
+Russo-Balt M
+Tezke Sprezeni
+Sprezeni
+Hazatért Hadifogoly
+Pechoty Príkop
+Rozhledna
+Predzvedny Jizdni
+Cyklista Pechota
+Auto
+Locomotive
+Lokomotiv
+Vedur
+Kav.Strelkovy
+Konny
+Austin-Putilov 14
+Mgebrov-Izotta
+Konnaya Razvedka
+Izhorsky Fiat
+Filatov 16/1
+Filatov 16/2
+Motorazvedka
+Komandovaniye
+Inzhenernye Voiska
+Saperno-Shturmovoi
+Lokomotiv
+Sotsialisty-Revolyutsionery
+Revolyutsionery
+Zh-D Strelkovy
+Strelkovy
+7.62-mm Maksim obr.1910
+8-mm Gotchkiss obr.1914/15
+Ukreplenie 
+Ohrannaya Bashnya
+76-mm Konnaya obr.1902 
+76-mm Konnaya obr.1900
+Udarny
+Plastunsky
+Opolchenie
+Povozka
+Jeffery/Nash-Quad
+Russo-Balt M
+Holt 75
+Bronevagon 
+Russo-Balt Kegresse
+Krytyi Vagon
+Viuchny
+Tyazholaya Povozka
+Russo-Balt C
+Legkaya Povozka
+Dédalo
+Tachanka
+Plastunsky
+Sibirskiye Kazaky
+Komandovaniye
+Partizany
+Kav. Kazachy
+Austin-Putilov 14
+Mgebrov-White
+Konnaya Razvedka
+7.62-mm Maksim obr.1910
+Ukreplenie 
+Ohrannaya Bashnya
+Konny
+Povozka
+Lokomotive
+Russo-Balt M
+Russo-Balt C
+Legkaya Povozka
+76-mm Konnaya obr.1902 
+76-mm Konnaya obr.1900
+76-mm Pushka obr.1902 
+107-mm Pushka obr.1910
+76-mm Gornaya Pushka obr.1909
+105-mm Pushka obr.1913 
+105mm Schneider vz.13
+7.62-mm Maksim Zenitny
+7.62-mm Maksim Zenitny 
+76-mm Bronyzenitny
+76-mm Zenitnaya Pushka obr.1915
+37-mm Pushka Maksim
+76-mm Russo-Balt T
+47-mm Pushka Gochkisa
+Locomotive
+8-mm Gotchkiss obr.1914/15
+Inorodtsy
+76-mm Bronevagon Khunkhuz
+Pulemet Bronevagon 
+Packard
+57-mm Pushka 'Sokol'
+Garford-Putilov obr.1916
+37-mm Pushka obr.15 
+76-mm Pushka obr.1909
+102-mm Morskoi Pushka obr.1911
+107-mm Bronebatareya
+122-mm Bronebatareya 
+152-mm Bronebatareya
+203-mm Bronebatareya 
+76-mm Bronebatareya
+102-mm Bronebatareya
+Platforma
+102-mm Morskoi Pushka obr.1911
+105-mm Pushka obr.1913
+107-mm Pushka obr.1910
+120-mm Morskoi Pushka obr.1892
+122-mm Gaubitsa obr.1904
+122-mm Gaubitsa obr.1909
+152-mm Osadnaya Pushka obr.1904
+152-mm Minomet obr.1915
+152-mm Mortira obr.1885
+152-mm Gaubitsa obr.1917
+152-mm Morskoi Pushka obr.1892
+203-mm Gaubitsa obr.1916
+229-mm Mortira obr.1877
+234-mm Gaubitsa obr.1917
+280-mm Mortira obr.1914/15
+305-mm Gaubitsa obr.15
+76-mm Gornaya Pushka obr.1909
+76-mm Pushka obr.1902 
+Nieuport 17 Superbebe
+Mosca Bystritsky MB bis
+Sikorsky S-16
+Sikorsky S-20
+SPAD VII
+Anatra D Anade
+Anatra DS Anasal
+Caudron G.4
+Farman HF.20
+Grigorovich M-5
+Grigorovich M-9
+Farman F.40/41
+Lebed XII
+Ilya Muromets IM-G
+Morskoy Transport
+Viuchny
+Strelkovy
+Donskiye Kazaky 
+Kavkazskiye Kazaky
+Samokatny
+Sibirskiye Kazaky 00
+Sibirskiye Kazaky 08
+Sibirskiye Kazaky 16
+Sibirskiye Kazaky
+Inorodtsy
+Landwehr
+Eingegrabene Infanterie
+Feldkommando
+Jäger
+Kavallerie Schützen
+Brückenpioniere
+Pioniere
+Eisenbahnpioniere
+Eisenbahntruppen
+Polizei
+Fahrrad Aufklärer
+7,92mm MG 08
+7,92mm MG 08/18
+7,92mm MG 08/15
+Eingegrabene Infanterie
+Büssing KZW 1800
+Daimler-Marienfelde ALZ 13
+Russo-Balt M
+Fahrräder
+Gedeckter Güterwagen
+Infanteriewagen
+Benz ML13
+Kavallerie
+Mercedes 37/95
+Marienwagen
+Marienwagen/Inf
+Motorräder
+Maultiere
+sPferdewagen
+lePferdewagen
+Pferdewagen
+Ulanen
+Marine-ExpdKorps
+Volksmarine
+Kavallerie Späher
+Motorrad Aufklärer
+7,7cm FK 16 (ber. Art.)
+Entrenched Infantry
+Clase Blas de Lezo 
+Infantería de Marina 12
+Gorny
+Gebirgsjäger
+Soldaten
+Spartakisten
+7,92mm MG 08
+7,7cm FK 96 n/A
+10,5cm lFH 98
+Pferdewagen
+lePferdewagen
+Daimler-Marienfelde ALZ 13
+Benz ML13
+Kavallerie Späher
+Kavallerie
+Mercedes 37/95
+Führung
+Kavallerie
+Mujahedeen MG
+Mujahedeen Ent.
+10,5cm Artilleriewagen
+Flachwagen
+3,7cm TaK 16
+7,7cm FK 96 n/A
+10cm K 17 L/45
+7,7cm FK 16
+Flachwagen
+7,7cm Artilleriewagen
+7,5cm Geb K 04
+9cm K C/73/91
+10cm K 14
+15cm sFH 93
+10,5cm lFH 16
+7,58cm lMW n/A
+10,5cm lFH 98/09
+15cm SK L/45 'Nathan'
+7,7cm Flakwagen
+7,92mm MG 08
+3,7cm Sockelflak L/14.5
+7,7cm FlaK 16
+7,7cm BAK auf Kraftwagen L/27
+76mm Putilov M.00
+Junkers CL.I
+Rumpler C.IV
+Junkers D.I
+Fokker D.VII (BMW)
+DFW C.V
+LVG C.VI
+Gendarmerie
+Commandament
+Chasseurs à Pied
+Légion Etrangère
+Zouaves
+Tirailleurs Sénégalais
+Tirailleurs Algériens
+Sapeurs-Mineurs
+Infanterie de Ligne
+Fusiliers-Marins
+Génie 
+Infanterie de Marine
+Zuavi Pontifici
+Spahis
+Gardes Mobiles
+Chasseurs d'Afrique
+Cuirassiers
+Dragons
+Hussards
+Chasseurs a Cheval
+Lanciers
+Attelage
+Attelage Lourd
+Attelage Leger
+Cavallerie
+Mulets
+Bateau de Transport
+Reconnaissance
+Mitrailleuse de 13 Reffye 
+Canon de 4 mle 58 La Hitte 
+11mm Montigny Mitrailleuse
+Canon Obusier de 12 Mle 53
+150mm Mortier Mle 38
+Canon de 80 a Cheval
+Garde Nationale
+Schützen
+Wagon
+Light Wagon
+12cm Kanone M61
+9cm FK M63
+4-pf (ber. Art.)
+Jäger
+Feldkommando
+Pioniere
+Brückenpioniere
+Kürassiere
+Ulanen
+Kavallerie Späher
+Kavallerie
+lePferdewagen
+Pferdewagen
+Pferdewagen
+4-pf (ber. Art.)
+6-pf Feldkanone
+12-pf Feldkanone
+Kavallerie
+lePferdewagen
+Schützen
+Feldkommando
+Feldkommando
+Feldkommando
+Landwehr
+Reiter Kavallerie
+12-pf (ber. Art.)
+6-pf Feldkanone
+Kavallerie Späher
+Jäger
+Feldkommando
+4-pf (ber. Art.)
+Jäger
+Ulanen
+Reiter Kavallerie
+Kavallerie Späher
+Pioniere
+6-pf Feldkanone
+Pferdewagen
+Kavallerie
+lePferdewagen
+12-pf Feldkanone
+12-pf Feldkanone
+Pferdewagen
+Kavallerie
+lePferdewagen
+Dragoner
+Infanterie
+Schützen
+Infanterie
+Jäger
+Kavallerie Späher
+12-pf (ber. Art.)
+6-pf Feldkanone
+12-pf Feldkanone
+Cannone da 12lb
+Obice da 150
+Livgarden
+Hestevogn
+Lys Hestevogn
+Kavaleri
+Frivillige
+Dragoner
+Kyrasserer
+Husarer
+4pdr RML Hest
+12pdr RML 
+24pdr SBML
+4pdr RML 
+Tunge Hestevogn
+Dism. Cavalry
+.45 Maxim
+African Porters 
+7,92mm MG 08 Askari
+Yakumo
+Kasuga Class
+Olympia 
+Diadem Class
+Devonshire Class
+Warrior Class
+Imperial Service
+Astraea Class
+Radio Station
+Ruga-Ruga
+African Town
+African Fort
+Seebataillone 16
+10,5cm SK L/40
+Carabineros
+Carabineros 12
+Marines 14
+Erhardt PzWgn 17
+7,6cm Pz-Wagen
+Albatros J.I
+MG-Wagen
+BeutePzWgn IV/F
+BeutePzWgn IV/M
+Erhardt PzWgn 18
+Albatros D.V
+Albatros J.II
+BeutePzWgn FT-17/37
+BeutePzWgn FT-17
+Platforma
+A7V SturmPzWgn
+Beute-PzWgn Austin
+Erhardt PzWgn 15
+Daimler PzWgn 16
+Wachturm
+5,7cm IG L/30
+3,7cm Graben-K
+7,7cm FK 96 n/A
+7,7cm IG L/20 
+7,5cm NahKampfG
+7,92mm Marienwagen II
+5,7cm Marienwagen II
+Fokker D.VII (Mercedes)
+10cm Artilleriewagen
+Sturmtruppen
+African Civilians 
+Asian Civilians
+Chasseurs d'Afrique 00
+Hussars 03
+Scottish Infantry 16
+Scottish Highlanders 16
+Bikaner Camel
+Brandenburg Class
+Afrikanischen Träger
+Polska Sila Zbrojna
+Piechota Wielkopolska
+Aviatik-Berg D.I Mid
+Aviatik-Berg D.I Late
+Phönix D.II
+Phönix D.IIa
+Phönix D.III
+Pfalz E.II
+Anatra C.I 
+Albatros W.4
+Hansa-Brandenburg CC
+Hansa-Brandenburg KDW
+WKF D.I
+Etrich Taube A.II
+Lloyd C.I
+Lloyd C.II
+Aviatik B.II (34)
+Aviatik B.III
+Aviatik-Berg C.I
+Aviatik-Berg C.I Photo
+Fokker A.III
+Fokker B.III
+Hansa-Brandenburg B.I
+Lohner B.I Pfeilflieger
+Lohner B.II
+Lohner B.III&IV
+Lohner B.V&VI
+Lohner B.VII
+Lohner C.I
+Lohner L
+Lohner E
+Oeffag C.I
+Oeffag C.II
+Ufag C.I
+Gotha G.IV (LVG)
+Friedrichshafen G.III
+Hansa-Brandenburg G.I
+Albatros D.Va
+Airco DH.9
+Schreck FBA
+Landsturm
+Strzelcy Konni
+Fortress
+Fortress
+Fortress
+Spahis 15
+Seebataillone 
+Cañón 15cm Verdes-Montenegro Md.1891
+75mm Schndr-Canet Mle 04
+75mm St Chamond-Mondragón M97
+Cañón 7.5cm St Chamond Md.1897
+152 H/10
+152-mm Gaubitsa obr.1910
+152-mm Gaubitsa obr.1910
+75mm Type 15 Mtn
+Obice da 280
+127-mm Pushka obr.1909
+127-mm Pushka obr.1909
+127-mm Pushka obr.1909
+Morteiro 152mm m/918 
+Maji-Maji Warriors
+Herero Chieftains
+Maji-Maji Chieftains
+Scouts
+Watch Tower
+Mounted Rifles 16
+Pesadijski Sanac 16
+Ukreplen Pehota 17
+Mühendis 
+Zuhaf
+Basibozuk
+87-mm Orudie 'Krup' obr.86
+Tunul Krupp cal.87mm md.80
+7.92mm ckm wz.08
+7.92mm ckm wz.08 20
+8mm Schwarzlose wz.07/12 19
+8mm Schwarzlose wz.07/12 
+Piechota w Okopach
+Konie Legionowe
+76.5mm Artyleria Konna wz.05
+Friedrichshafen FF.33e
+Friedrichshafen FF.33l
+Peugeot wz.18
+Garford-Putilov 
+Garford
+75mm Armata plot. wz.18
+Statek Uzbrojony
+Torpedowiec TB
+Monitor
+Albatros D.V
+SPAD XIII
+Airco DH.9a (Capt.)
+Gotha WD.13
+Friedrichshafen FF.49c
+Deperdussin TT
+Morane-Saulnier
+Albatros C.X
+Albatros-Oeffag D.III Series 253 (ground attack)
+Albatros C.I
+Mitsubishi 1MF - Type 10
+Pfalz D.XII
+Airco DH.9
+Albatros C.XV
+Albatros J.I
+Ansaldo A.300/3
+Ansaldo SVA.10
+Breguet XIV B.2
+Hannover CL.II 
+Halberstadt C.V
+Halberstadt CL.II
+Hansa-Brandenburg C.I
+Macchi M.9
+Oeffag C.II
+Rumpler C.IV
+Rumpler C.VII
+Avro 504K
+Martinsyde F.4 Buzzard
+Nieuport 21
+SPAD VII
+Farman F.40
+Breguet XIV A.2
+Caudron G.3
+Caudron G.4
+Farman MF.11 Shorthorn
+Vickers Valparaiso 
+Breguet-Michelin 4B.2 37mm
+Morane-Saulnier L
+SPAD VII
+Airco DH.9
+Breguet XIV B.2
+Caudron G.4 
+Farman HF.20
+Hansa-Brandenburg C.I
+Sopwith 1½ Strutter
+Vlaicu I/II
+LFG Roland D.III
+Albatros F-2
+Bleriot XI-2 
+Bleriot XXI
+Farman MF.7 Longhorn
+Friedrichshafen FF 33e
+Nieuport IV
+Otto C.I
+Grigorovich M-16
+Ansaldo SVA.10
+Gloster Sparrowhawk III
+Nakajima Ko-3 (Ni.24)
+Nakajima Ko-4 (Ni.29)
+Sopwith Pup
+SPAD XIII Type Hei 1
+Bleriot XI-2 
+Curtiss 1912 Sea Plane
+Farman MF.11 Sea Plane
+Farman MF.7 Sea Plane
+Hansa-Brandenburg W.33
+Hirosho Type F.5 (Felixtowe)
+Mitsubishi 1MT - Type 10
+Mitsubishi 2MR - Type 10
+Mitsubishi B1M - Type 13
+Otsu-1 (Salmson 2A2)
+Grigorovich M-11
+Anatra V.I.
+Farman MF.11 Shorthorn
+Airco DH.9
+Ansaldo SVA.10
+Barrón W
+EtrichTaube 1914
+Nieuport 24 bis
+Aviatik-Berg D.I
+Phönix D.I
+Phönix D.II
+Breguet XIV A.2
+Deperdussin TT
+Esnault-Pelterie REP N
+Farman HF.20
+Anatra DS Anasal
+Aviatik-Berg C.I
+Dorand AR.1
+Hansa-Brandenburg B.I
+Hansa-Brandenburg C.I
+Ufag C.I
+SPAD XIII
+Breguet XIV A.2
+Bristol Scout C
+Farman III
+Nieuport IV G
+RAF B.E.2c
+RAF B.E.2e
+Short 184
+Sopwith 1½ Strutter
+Sopwith Baby
+Fokker D.VII (MAG)
+Aviatik-Berg D.I
+Hansa-Brandenburg W.29
+Nieuport 17 Superbebe
+Aviatik-Berg C.I
+Hansa-Brandenburg B.I
+Ufag C.I
+Avia BH-17
+Aviatik-Berg D.I
+Gourdou-Leseurre GL.22
+Letov S-4
+SPAD XIII
+Aero A-15
+Aviatik-Berg C.I
+Breguet XIV A.2
+Farman HF.30
+LVG C.VI
+Letov S-1
+Letov S-2
+Letov S-6
+Phönix C.I
+Sopwith Dolphin
+Gotha G.IV
+Legiony
+Müsavat Milis
+Azeri Gönüllü
+Piyada Esger 
+Pionerler
+Tatar Süvari
+Azeri Gönüllü Süvari
+Süvari
+7.62mm Maksim-Sokolov 10
+7.5/30sm. Sahra Top
+76-mm Pushka obr.1902 
+Arabasi
+Kiçik Arabasi
+7.5/14sm. Krup Top M.04
+7.5/30sm. Krup Top M.98
+76-mm Pushka obr.1902 
+87-mm Pushka obr.1895
+122-mm Gaubitsa obr.1904
+152-mm Osadnaya Pushka obr.1904
+Böyük Arabasi
+7.62-mm Maksim Zenitny
+Kartuli Legioni
+Regularuli Kveiti
+Pionerebi 
+Sakhalkho Gvardiis
+Iunkerebi
+Sasazghvro Jarebi
+Mokhaliseta Militsia
+Sakhalkho Gvardiis
+Regularuli Kavaleriis 
+Izhorsky Fiat
+57-mm Pushka 'Sokol'
+76-mm Pushka obr.1902 
+7.62mm Maksim-Sokolov 10
+152-mm Minomet obr.1915
+76-mm Gornaya Pushka obr.1909
+76-mm Pushka obr.1902 
+87-mm Pushka obr.1895
+105-mm Pushka obr.1913 
+122-mm Gaubitsa obr.1904
+152-mm Osadnaya Pushka obr.1904
+152-mm Gaubitsa obr.1910
+Austin-Putilov 14
+7.62-mm Maksim Zenitny
+76-mm Zenitnaya Pushka obr.1915 
+Sopwith Camel F.1
+Ansaldo SVA.10
+Ansaldo SVA.5
+122-mm Saartilerio Savagono
+76-mm Saartilerio Savagono
+Istehkamçi
+Bas Qerargahi
+Inzhineri
+Generalur Shtabshi
+Purgoni
+Msubuki Purgoni
+Mdzime Purgoni
+Morane-Saulnier GB
+Nieuport-Delage 29
+Armed Civilians
+Fedayi
+Kamavorner
+Dashnaktsakanner
+Hetevazor
+Inzhenerner
+Pionerner
+Glkhavor Shtab
+Kamavornery Hetselazor 
+Hetselazor
+Hetsyal Sahmanapah
+7.5/30sm. Sahra Top
+76-mm Pushka obr.1902 
+7.62mm Maksim-Sokolov 10
+7.92mm MG 08
+Dzi Vagonik 
+Tyetyev Dzi Vagonik 
+Tsanr Dzi Vagonik 
+76-mm Pushka obr.1902 
+76-mm Gornaya Pushka obr.1909
+122-mm Gaubitsa obr.1904
+7.5/14sm. Krup Top M.04
+7.5/30sm. Krup Top M.98
+7.5/13sm. Skoda Top M.15
+10/17sm. Skoda Obüs M.16
+7.62mm Maksim Zenitny
+Armed Civilians
+Piyade 18
+Piyade 21
+Hücum Taburu
+Ihtiyat
+Muhafiz
+Kuva-yi Milliye
+Istihkâmci
+Mühendis
+Karargah
+Süvari 09
+Süvari 
+Süvari Izci 
+Kuva-yi Milliye
+7.5/30sm. Sahra Top
+7.92mm. MG M.08
+Yerlesik Piyade 
+7.62mm. Maxim-Sokolov M.10
+7,92mm. MG M.08/15
+7.92mm. MG M.08/15
+Mercedes 37/95
+Arabasi
+Daimler-Marienfelde ALZ 13
+Büyük Arabasi
+Katirlar 
+Küçük Arabasi
+7.5/13sm. Skoda Top M.15
+7.5/14sm. Krup Top M.04
+7.5/30sm. Krup Top M.98
+7.5/30sm. Krup Top M.10
+7.6/30sm. Putilov Top M.02
+7.5/30sm. Atli Topçu
+10.5/16sm. Krup Obüs M.98/09
+10.5/20sm. Krup Obüs M.16
+10/17sm. Skoda Obüs M.16
+12/11.6sm. Krup Obüs M.92
+15/14sm. Krup Obüs M.13
+15.2/12sm. Sinayder Obüs M.17
+7.92mm. MG M.08
+7.5/30sm. Krup Top BAK
+Gyári Munkás
+Székely Hadosztály
+Vörös Örség
+Határvadász
+Nemzetközi Dandár
+Rohamutász
+Hadimérnök
+Vezérkar 
+Kazamata
+Huszár
+Felderítö Lovasság
+8cm Skoda FK M17
+8mm Schwarzlose 07/12
+7.92mm MG 08
+8mm Skoda M09
+Beásott Gyalogság
+Austro-Daimler M12
+Nehéz Lovasszekér
+Lovasszekér
+Könnyü Lovasszekér
+Páncélvonat
+Autó
+7cm Skoda M08
+83.5mm Skoda M18
+10cm Skoda FH M14
+15cm Skoda M14/16
+8cm Tüzérségi Kocsi 
+7.5cm Skoda GebG M15
+10cm Skoda GebH M16
+15cm Skoda M15/16
+30.5cm Skoda M11
+8mm Schwarzlose 07/12
+8cm Lövegkocsi
+Tunul Armstrong cal.63.5mm md.83
+Tunul Schneider cal.75mm md.97
+77-mm Orudie 'Krup' obr.96 
+10.66-mm Kartechnitsa 'Nobel'
+7,5/16sm. Sinayder Top M.11
+150-mm Gaubitsa 'Krup' obr.05
+10,5/35sm. Krup Top M.80
+Amet. 11mm Montigny 
+Canón 3.7cm Maxim 'Pom-Pom'
+1.65" Hotchkiss Mtn Gun
+3" Hotchkiss Mtn Gun
+4" Sims-Dudley Dynamite Gun
+Blocao
+Guerrilla
+Katipuneros 98
+Cañón 7.5cm Krupp Md.1896
+Moros
+Cañón 8cm de Bronce
+Estado Mayor
+Estado Mayor
+Caballería 
+Infantería 
+4" Sims-Dudley Dynamite Gun
+Cañón 8cm de Bronce
+Caballos 
+Mulas 
+Caballos 
+Mulas 
+Carro Ligero
+Carro Ligero
+Carro
+Carro
+Transporte Naval
+Transporte Naval
+Explorador a Caballo 
+Explorador a Caballo 
+Carro Ligero
+Guerrilla a Caballo  
+Transporte Naval
+Infantería Nativa
+Milicia Nativa
+Cañón 24cm Md.1881
+Obús 21cm Md.1872
+Fortress Artillery
+7,92mm Marienwagen II
+Mitrailleuse de 8 mle 1895 Gatling  
+Atlanta Class
+Infantería Atrincherada 95
+Strzelcy Polscy
+Samoobrona
+Strzelcy
+Strzelcy 20
+Saperzy
+Pionierzy
+Strzelcy Konni
+Dowodztwo
+Ulani Wilenscy
+Ulani Litewscy
+Huzarzy
+Rekonesans Konny
+Strzelcy Konni
+Austin wz.14
+Ford Tfc
+76.2mm Armata wz. 02
+76.2mm Armata wz. 09
+Packard
+7.62mm Maksim wz.10
+7.62mm lkm Madsen
+7.62-mm Madsen
+7.92mm ckm wz.08
+Taczanka
+Straznica
+Piechota w Okopach
+Konie
+FWD Model B
+Woz Konny 
+Bryczka Sztabowa
+Wagon Kryty
+Traktor
+Wagon Szturmowy
+Laweta
+Samochod
+Tabor
+75mm Armata plot. wz.97
+7.62mm Maksim plot.
+Anatra DS Anasal
+Breguet XIV B.2
+Breguet XIV A.2
+Nieuport 17 Superbebe
+Platforma
+7.62mm lkm Madsen
+76.2mm Armata wz.02
+76.2mm Konna Lekka
+76.2mm Armata wz.05
+105mm Haubica wz.98/09
+105mm Armata wz.13
+122mm Haubica wz.09
+76.2mm Konna
+155mm Haubica wz.17
+Flachwagen
+Kuulipilduja Vagun
+Platformu
+Açik Yük Vagonu
+Platformu
+Litteä Vaunu
+Kulomet Vuz 
+KK Vaunu 
+MG-Wagen
+Kulemet Vahon 
+Ju-Kikan Kasha
+Péngche
+76 K/00
+76 K/00
+75 VK/98
+76 LK/10/13
+75 VK L14
+76 VK/09
+76 FK/09
+87 K/95 
+76 K/02
+107 K/10
+Vagone Pianale
+Platforma
+Dakhuruli Savagono
+Platporma
+Platforma
+Krytyi Vagon
+Plosinový Vuz 
+Krytý Vuz
+Katettu Vaunu
+Litteä Vaunu
+57mm Tykistö Vaunu
+75mm Tykistö Vaunu
+KK Panssaroitu Vaunu
+KK Vaunu 
+Litteä Vaunu
+Panssaroitu Vaunu
+Kapali Vagonu
+Açik Yük Vagonu
+Hopper Barge
+Dobrovolnici
+8mm Schwarzlose vz.12 
+Mulice
+Strelci 
+8mm Hotchkiss vz.14
+ber. Schutztruppe
+30,5cm Beta M-Gerät 09
+3" M1902 Horse
+Jeffery/Nash-Quad
+Jeffery/Nash-Quad
+Fiat 15 TER
+NW TL2
+Sichovy
+Konny Kozaki
+81-mm Minomet zr.1916
+76-mm Harmata zr.1909
+76.5-mm Harmata zr.1905
+122-mm Haubytsya zr.1904
+150-mm Haubytsya zr.1915
+100-mm Hirska Haubytsya zr.1916
+100-mm Haubytsya zr.1914
+8-mm Shvartsloze zr.1907
+Armstrong-Whitworth Fiat
+Packard 1½t
+Russo-Balt T
+Russo-Balt T
+Russo-Balt T
+Jeffery/Nash-Quad
+Jeffery/Nash-Quad
+FWD Model B
+Deniz Nakil 
+Monitor Support
+Fokker A.I
+Schutztruppe Kav. Späher
+7,92mm MG 08 Schutztruppe
+Schutztruppe Kamelreiter
+Eingegrabene Askari
+Eingegrabene Schutztruppe
+Hamidiye
+Ochyrosis Pezikon 08
+Archigeio 08
+Michanikon 
+Omada Anagnoriseos 08
+Michanikoi
+Politofylaki
+Garibaldini 12
+Ippikoú Proskópon
+Ippikoú Proskópon 08
+Ippikon
+Pericharakoméno Pezikon
+Hemionikon
+Áloga
+Áloga 08
+Cañonero
+Infantería Atrincherada
+Katipuneros
+Podelato 08
+Donanmasi
+Mühendis 18
+Michanikon 18
+6" Anglikí y.1895
+8chlst. St Etienne  y.1907
+105chlst. Krupp y.1880
+Naftikoí
+Naftikoí 08
+Ippikon 18
+75chlst. Krupp y.1885
+75chlst. Krupp y.1877
+7,5/27sm. Atli Topçu
+Pulemet Vagon 
+Locomotiva
+Lokomotiv
+Locomotive
+Lokomotive
+Konjica
+Albanian Rebels
+Entente
+Entente
+Entente
+Central Powers
+White
+Entente
+Entente
+Central Powers
+Entente
+Entente
+Finns
+Poles
+Estonians
+Transportschiff
+Infanteriewagen
+Ratsuvaki Skaut
+Ukreplenie M.
+Jalkavaki kaiv.
+Tropa de Marinería 
+Guardia Civica
+Volontari
+Fanteria
+Stato Maggiore
+Genio Zappatori 
+Genio Pontieri
+Cannone da 6lb
+Cannone da 12lb
+Cacciatori
+Carriaggi
+Carriaggi Leggeri
+Carriaggi Pesanti
+Carrozza
+Cavalleria
+Cannone a Cavallo 6lb 
+Ussari
+Esploratore a Cavallo
+Lancieri 
+Dragoni
+Guardia Reale
+Süvari 
+Bisiklet Arama 
+Gum
+Gaix-El-Kabila 
+Mejaznia
+Sultan's Familiy
+Cavalry Scout
+Oudayas
+Abid Bocaris
+8cm Bronze Gun
+Entrenched Infantry
+Hvy Siege Mortar 
+Cavalry Mount
+Wagon
+Light Wagon
+Katipuneros Atrincherados
+Clase Aragón
+Stato Maggiore
+Esploratore a Cavallo
+Cavalleggeri Guide
+Cannone da 6lb
+Carriaggi
+Carriaggi Leggeri
+Cacciatori
+Light Arty Bunker
+Light Arty Bunker
+Light Arty Bunker
+Camel Mount 
+Bridging
+Sappers
+Infantry
+Bedouin Cam. Scout
+Bedouin Camelry
+Bedouin Cavalry
+Bedouin Cav. Scout
+Bedouins
+Fied Command
+Watch Tower
+Entrenched Infantry 
+Cavalry Scout
+9cm Krupp Gun
+Cavalry Mount
+Light Wagon
+Camel Mount 
+Wagon
+Pack Transport
+Royal Marine
+Entrenched Infantry 
+Entrenched Infantry 82
+Lancers
+Life Guards
+Life Guards 82
+8cm Krupp Horse
+11.4mm Maxim
+75mm Maxim-Nordenfelt QF
+Milizia
+Numancia 
+Numancia (Coastal BB)
+Frégate à Voile
+6-pf Feldkanone
+Berittene Miliz
+Akademische Legion
+Volkswehr
+Pferdewagen
+12-pf Feldkanone
+12" Belagerungsmörser
+12" Ostromágyú
+7-pf Haubitze
+Grenadiere
+Seressaner
+Raketenbatterie
+Congreve Rockets
+8-pf Feldkanone
+Mortaio da 12"
+Obice da 7lb
+12 ft Ágyú
+4 ft Ágyú
+6 ft Ágyú
+6 ft Lovaságyú
+Röppentyû
+7 ft Tarack
+8 ft Ágyú
+Parancsnokság
+Hadimérnök
+Sorkatona
+Rohamutász
+Nemzetõr
+Várõrség
+Vörössipkás
+Honvéd
+Chevaulegers
+Honvéd
+Huszár
+Felderítö Lovasság
+Ulánus
+Lovas Nemzetõr
+Lovak
+Könnyü Lovasszekér
+Oszverek
+Lovasszekér
+Szekér
+Nehéz Lovasszekér
+Landwehr
+Draguny
+Kirasiry
+Ulany 
+Kazachy
+Pehota
+Grenadery
+Inzhenernye Voiska
+Yegerya
+Opolchenie 
+Komandovaniye
+Saperno-Shturmovoi
+Komandovaniye 60
+Opolchenie 60
+Saperno-Shturmovoi 60
+Konny 
+Konny 60
+12-f Pushka
+12" Osadnaya Mortira 
+4-f Pushka
+6-f Pushka
+6-f Konnaya
+7-f Gaubitsa
+8-f Pushka
+Vadász
+Székely Határõr
+Konnaya Razvedka 60
+Konnaya Razvedka 
+Gusary 
+Gusary 60
+Carlos V
+Clase Reina Regente
+USS Monterey
+Crucero Auxiliar
+Gránátos
+Zeribah
+Corvette à Vapeur
+Sail Frigate
+Sail Ship of the Line
+Sail Schooner
+Sail Brigantine
+Sail Corvette
+Steam Frigate
+Steam Ship of the Line
+Steam Schooner
+Steam Brigantine
+Steam Corvette
+Fragata de Vela
+Navío de Vela
+Goleta de Vela
+Bergantín de Vela
+Corbeta de Vela
+Steam Gunboat
+Canonnière à Vapeur
+Caçadores a Cavalo 17
+Dragões 17
+Laager
+Pfalz D.III
+Friedrichshafen G.III
+Ox Cart
+3" 6pdr Artillery Wagon
+Tachanka
+Kav.Strelkovy
+Pehota
+Partizany
+Komandovaniye
+Kazaky
+Opolchenie
+7.62-mm Maksim obr.1910
+8-mm Gotchkiss obr.1914/15
+Ukreplenie 
+Ohrannaya Bashnya
+Konny
+Legkaya Povozka
+Lokomotiv
+Krytyi Vagon
+Platforma
+76-mm Pushka obr.1902 
+76-mm Gornaya Pushka obr.1909
+Povozka
+7.62-mm Maksim Zenitny
+Cannone da 75B Mont.
+37mm Hotchkiss 'Pom-Pom'
+9cm Krupp Gun (c)
+Feres
+Tera Feres
+Fied Command
+Mehal Safari
+Mehal Safari 17
+Fied Command 17
+Kebur Zabagna
+Tribal Spearmen
+Tribal Riflemen
+Yekegnt Feresegna
+Cavalry Scout
+Galla
+Deldey Agenagn
+Mehandisoch
+Cavalry
+Cavalry 17
+Yekegnt Feresegna 17
+Galla 17
+Cannone da 75B Mont. (c)
+Vöröskatona
+Inarchunebs kveiti
+Armatavorvats Hetevakayin
+Avtomati Bronirebuli Savagono
+Young Warriors
+Warriors
+Scouts
+Chieftains
+Elite Warriors
+Cavalry Scout
+Cavalry
+Cavalry Mount
+Dragonyos
+Feldjäger 17
+76-mm Konnaya obr.1900
+87-mm Konnaya obr.1877 08
+Kavaleriuli Skauturi
+Kavaleriuli
+Szállítóoszlop
+Konnaya Razvedka
+Tachanka
+Tachanka
+Pehota
+Jandarma
+Deve
+Camels
+Camels
+Camels
+Camels
+Gendarmerie 15
+Vanatori 18
+Militii
+Infanterie Intarita 18
+Kavallerie 17
+Strelci 
+Esploratore a Cavallo 17
+Lancieri 17
+Cavalleggeri 17
+Zandarmerija
+Generalstab
+Mostovna Inzenjerija
+Inzenjerija 
+7mm. Mitr M.12 Maxim 
+Pesadijski Sanac
+Konjica
+Pesadija 2.Poz
+75mm Krupp M.80
+65mm Schneider M.06
+107mm Obukhov M.77
+Pericharakoméno Pezikon 18
+Marine Raiders
+Entrenched Infantry
+Motorcycles
+Beiyang Entrenched
+120mm de Bange Gun
+Tirailleurs Indochinois
+Xinjun Entrenched
+Beiyang Engineers
+Beiyang Sappers
+Xinjun Sappers
+Beiyang Field Command
+Xinjun Field Command
+11.4mm Gatling
+57mm Nordenfelt
+88mm Krupp Gun
+75mm Krupp Mtn Gun
+11.4mm Gatling
+150mm Type 47 
+Asian Workers
+Eastern Civilians
+Rikusentai 14
+Chinese Native Infantry 82
+Peral
+Tirailleurs Algériens
+Tirailleurs Sénégalais
+Tirailleurs Indochinois 15
+Entrenched Infantry
+Infanterie Retranchée 
+Cavalry Scout
+Chinese Native Infantry
+Santa Elena
+Satsuma Class
+New York Class
+Freischar
+Miliz
+Cañón 8cm Sotomayor Md.1880 Ferroviario 
+Trocha
+Rolf Krake
+Eingegrabene Infanterie
+Eingegrabene Infanterie
+Infanterie Retranchée 
+Garibaldini
+Brückenpioniere
+Commandament
+Boxcar
+Wooden Fort
+Hevonen 
+Kevyt Hevonen 
+Esikunta
+Ratsuvaki  
+Russo-Balt C
+Ratsuvaki
+7.62 Maxim KK/09-09
+Russo-Balt M
+7.62 Maxim KK/09-09
+..None
+CSS Hunley
+Entrenched Infantry
+Entrenched Infantry
+Seebataillone 
+Eingegrabene Infanterie
+Eingegrabene Infanterie
+Eingegrabene Infanterie
+Eingegrabene Infanterie
+Eingegrabene Infanterie
+Forankret Infanteri
+Fanteria Trinceata
+Fanteria Trinceata
+Fanteria Trinceata
+Guardia Nazionale
+Voluntarios Catalanes
+Tercios Vascongados
+Infantería Atrincherada 
+Infantería Atrincherada 
+Boxcar
+Flatcar
+Locomotive
+Boxcar
+Flatcar
+Locomotive
+32pdr Rail Gun
+13" Rail Mortar
+Pfalz A.I
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+Revolucionarios
+Estado Mayor
+Revolucionarios a Caballo  
+Explorador a Caballo 
+Caballería 
+Infantería Atrincherada
+1.65" Hotchkiss Mtn Gun
+Cañón 8cm de Bronce
+75mm St Chamond-Mondragón M97
+10pdr Parrott Rifle M1861
+.30 Colt-Browning M1895
+Infantería 
+Caballos 
+Mulas 
+Carro Ligero
+Carro
+..None
+Native Scout
+Native Mted Rifles
+Riflemen
+9cm Krupp Gun
+Sultan's Bodyguard
+Cavalry
+Camelry
+Spearmen
+Cavalry Scout
+Cavalry Scout
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None
+..None

@@ -1,0 +1,301 @@
+Konrad 1945
+Road to Komarom
+Kecsked
+Road to Tatabanya
+Makk-erdo (FOREST)
+Varoserdo (FOREST)
+Orsi-hegy (316 m) (HILL)
+Zsambek
+Hosszu-hajtas (FOREST)
+Janos-hegy (527 m)
+Buda (Pasaret)
+Buda (Rozsadomb)
+Duna
+Pest (VI.)
+Pest (Zuglo)
+Kisber
+Csaszar
+Oroszlany
+Majki-erdo (FOREST)
+Nagy-Somlyo (330 m) (HILL)
+Zuppa (FOREST)
+Harmashatar (308 m) (HILL)
+Many
+Paty
+Katalin-hegy (344 m) (HILL)
+Budakeszi
+Odvas-hegy (314 m) (HILL)
+Orban-hegy (296 m) (HILL)
+Buda (Varhegy)
+Pest (V.)
+Pest (VII.)
+Pest (Kobanya)
+Bakonyszombathely
+Nagyberi-erdo (FOREST)
+Erzsebeti-erdo (FOREST)
+Szena-hegy (406 m) (FOREST)
+Nagy-Csakany (487 m)
+Bicske
+Biatorbagy
+Iharos (334 m) (FOREST)
+Budaors Airfield
+Buda (Sasad)
+Buda (Kelenfold)
+Pest (VIII.)
+Pest (Jozsefvaros)
+Rede
+Pava-reti-erdo (FOREST)
+Nagy-hazi-erdo (FOREST)
+Bakonysarkany
+Gerencserpuszta (FOREST)
+Nagy-Kutya-Orom (MOUNTAIN)
+Nagy-Szena-hegy (427 m)
+248 m (HILL)
+Nagy-hegy (286 m) (ROUGH)
+Tetnyi-fennsik (268 m) (ROUGH)
+Soroksari-Duna
+Pest (Ferencvaros)
+Pest (Kispest)
+Hosszu-hegy (FOREST)
+Darab-hegyek (FOREST)
+Egetett pagony (FOREST)
+Negyes hatar (FOREST)
+Pusztavam
+406m (MOUNTAIN)
+Tabor-hegy (450 m)
+Vali-viz
+Etyek
+Budafok
+Csepel Airfirld
+Pesterzsebet
+Road to Gyor
+Acsteszer
+Arki-erdo (FOREST)
+Nagy-Bukk (456 m)
+Som-hegy (390 m)
+Haraszt-hegy (346 m)
+Bago-hegy (HILL)
+Vertesboglar
+Pusztazamor
+Budateteny
+Csepel
+Havas-erdo (FOREST)
+Voros-eri-erdo (FOREST)
+Varjas-erdo (FOREST)
+Timar-erdo (FOREST)
+Mor
+Kato-hegy (FOREST)
+Horog-volgy (MOUNTAIN)
+Szeles-foldi-erdo (FOREST)
+Gem-hegy (318 m) 
+Csakvar
+Oreg-hegy (229 m) (ROUGH)
+236 m (ROUGH)
+Zorog-teto (494 m) (HILL)
+Bakonyszentkiraly-Csesznek
+Dudari-erdo (FOREST)
+Liba-hegy (339 m) (HILL)
+Bukk-sarok (FOREST)
+Suri-gazdak-erdeje (FOREST)
+Csoka-hegy (479 m)
+Kopsz-hegy (MOUNTAIN)
+Csakbereny
+Csakvar Airfield
+Val
+Erd
+Tobor-hegy (376 m) (HILL)
+Bakonycsernye
+Bodajk
+Burjani-erdo (FOREST)
+Haraszti-erdo (FOREST)
+Kajaszo
+Martonvasar
+Szigetszentmiklos
+Dunaharaszti
+Dudar
+Som-hegy (345 m)
+Gaja-szurdok (FOREST)
+Zamoly
+Lovasbereny
+Tokol
+Taksony
+Pinter-hegy (486 m) (FOREST)
+Zirc
+Tesi-erdo (FOREST)
+Burok-volgy (FOREST)
+Isztimer
+227 m (ROUGH)
+Lovasberenyi-erdo (FOREST)
+Pazmand
+Baracska
+Kakas-hegy (471 m) (HILL)
+Eperjes (489 m) (HILL)
+Irtasfoldek (HILL)
+Csiga-hegy (444m) (HILL)
+Tesi-fennsik (ROUGH)
+Sarkeresztes
+Meleg-hegy (352 m) (HILL)
+Velence
+Kapolnasnyek
+Ercsi
+Kiraly-kuti-erdo (FOREST)
+Kis-Amos-hegy (506 m)
+Nagy-Magyallo (MOUNTAIN)
+Oreg-Futone (574 m)
+Tes
+Varberek (FOREST)
+Akaszto-hegy (HILL)
+Pogany-ko (241 m) (HILL)
+Velencei-to
+Kis-Papod (509 m)
+Kavas (531 m)
+Gyokeres (FOREST)
+Oreg-Amos-hegy (526 m)
+Patyi-domb (259 m) (HILL)
+Varpalota
+Csor Airfield
+Szekesfehervar
+133 m (HILL)
+Pakozd
+Gardony
+Tuses (FOREST)
+Barany-cser (FOREST)
+Magyal-teto (336 m) (HILL)
+Inota
+Sarviz
+Agard
+Kiskunlachaza
+Veszprem-Jutas Airfield
+Ratoti-Nagy-mezo (CLEAR)
+Osku
+Borgond Airfirld
+Dinnyesi-Ferto (SWAMP)
+Rackeve
+Cseri-erdo (FOREST)
+Miklad (SWAMP)
+Gyulafiratot
+Peremartoni erdo (FOREST)
+Nadasladany
+Pusztaszabolcs
+Cseri-erdo Road to Ajka (FOREST)
+Veszprem
+Berhida
+Osi-erdo (FOREST)
+Seregelyes
+Adony
+Sas-hegy (HILL)
+Szabadbattyan
+Domsod
+Szentmartoni-erdo (FOREST)
+Polgardi
+Szabadegyhaza
+Kunszentmiklos
+Cser-erdo (FOREST)
+Nyerges-hegy (FOREST)
+Sarosd
+Sarosd Airfield
+Perkata
+Tass
+Gyur-hegy (374 m) (HILL)
+Megye-hegy (306m) (HILL)
+Reszveny-erdo (FOREST)
+Balatonfuzfo
+Aba
+Hangos-domb (186 m) (ROUGH)
+Nagy-Gella (416 m)
+Hegyes-Mal (409 m)
+Nagy-Som-hegy (441 m)
+Felso-erdo (FOREST)
+Felso-hegy (321m) (HILL)
+Balaton
+Balatonkenese
+Marko-hegy (ROUGH)
+Lepseny
+Sarkeresztur
+Dunapentele
+Szalkszentmarton
+Pecselyi-medence (ROUGH)
+Tamas-hegy (317 m) (FOREST)
+Csakany-hegy (327 m) (HILL)
+Alsoors
+Balatonalmadi
+Kislang
+Kaloz
+Oreg-hegy (235 m) (HILL)
+Also-erdo (FOREST)
+Balatonfured
+Csopak
+Balatonvilagos
+Enying
+Agotai-erdo (FOREST)
+Hercegfalva
+Tihany
+Sio
+Siofok
+Dunavecse
+Csucs-hegy (232 m) (HILL)
+Kiliti
+Balatonszabadi
+Deg
+Sarbogard
+Kisapostag
+Apostag
+Balatonfoldvar
+Kiliti Airfield
+Adand
+Mezokomarom
+Sarszentmiklos
+Balatonszarszo
+Koroshegy
+Sagvar
+Cser-teto (ROUGH)
+Alma-hegy (207 m) (ROUGH)
+Gyugy-hat (311 m) (ROUGH)
+Szabadhidveg
+Bogard (175 m) (ROUGH)
+Mezoszilas
+Eloszallas
+Dunafoldvar
+Kereki
+Keszi-erdo (FOREST)
+Felsonyek
+Alap
+Solt
+Tetel-halom (113 m) (ROUGH)
+Torvaj - Ecseny
+Babonymegyer
+Magyarkeszi
+Ozora
+Cece
+Felso-Menyodi-erdo (FOREST)
+Tab
+Tengodi-erdo (FOREST)
+Kerek-domb (193 m)
+Kapos
+Also-Menyodi-erdo (FOREST)
+Deli-hegyi-resz (FOREST)
+Rozsa-hegy (ROUGH)
+Somogymeggyes
+Nagyszokoly
+Szentpeteri szolohegy (ROUGH)
+Simontornya
+Homoki-erdo (FOREST)
+Hardi-hegy (211 m) (ROUGH)
+Bolcske
+Road to Kaposvar
+Tengod
+Tolnanemedi (Road to Kaposvar)
+Cser-volgyi-teto (FOREST)
+Road to Szekszard
+Vajta
+Nemetker
+Harta
+2/1HH
+3/1HH
+4/1HH
+1HH
+15/8SS
+16/8SS
+18/8SS
+8SS
+1H

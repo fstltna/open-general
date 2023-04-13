@@ -1,0 +1,50 @@
+'---
+'Config AI file for scenario: GAW12.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=42 items  ' Replacement for default list
+ 476  '  45mm PTP-37  [ AT  Russia]  Cost: 84
+ 477  '  76.2mm F-22  [ AT  Russia]  Cost: 132
+ 484  '  122mm M-30  [ATY  Russia]  Cost: 420
+ 485  '  152mm ML-20  [ATY  Russia]  Cost: 1092
+ 489  '  Katyusha 82mm  [ATY  Russia]  Cost: 420
+ 496  '  Kavaleria 41  [INF  Russia]  Cost: 144
+ 511  '  BT-5  [ TK  Russia]  Cost: 300
+ 512  '  BT-7  [ TK  Russia]  Cost: 324
+ 520  '  T-26B  [ TK  Russia]  Cost: 276
+ 538  '  I-16-29  [FTR  Russia]  Cost: 504
+ 576  '  203mm BR-4  [ATY  Russia]  Cost: 1452
+ 639  '  120mm Mortar  [ATY  Russia]  Cost: 312
+ 681  '  NKVD 39  [INF  Russia]  Cost: 96
+ 684  '  BT-5A  [ TK  Russia]  Cost: 312
+ 685  '  BT-7A  [ TK  Russia]  Cost: 336
+ 686  '  BT-7M  [ TK  Russia]  Cost: 336
+ 832  '  Cossacks 38  [INF  Russia]  Cost: 252
+ 847  '  Motociklisti 40  [INF  Russia]  Cost: 264
+ 920  '  Mountain 38  [INF  Russia]  Cost: 276
+ 926  '  I-153  [FTR  Russia]  Cost: 420
+1807  '  76.2mm PP-27  [ AT  Russia]  Cost: 108
+1808  '  76.2mm E-2  [ AT  Russia]  Cost: 132
+1812  '  76.2mm M-41  [ATY  Russia]  Cost: 180
+1816  '  122mm A-19  [ATY  Russia]  Cost: 696
+1817  '  152mm M-10  [ATY  Russia]  Cost: 420
+1819  '  152mm BR-2  [ATY  Russia]  Cost: 1428
+1820  '  210mm BR-17  [ATY  Russia]  Cost: 2100
+1821  '  305mm BR18  [ATY  Russia]  Cost: 1644
+1824  '  107mm Mortar  [ATY  Russia]  Cost: 276
+1845  '  I-15  [FTR  Russia]  Cost: 384
+1846  '  I-16-10  [FTR  Russia]  Cost: 456
+1856  '  Su-2  [ TB  Russia]  Cost: 432
+2589  '  R-10   [ TB  Russia]  Cost: 384
+2949  '  45mm  AB  [ AT  Russia]  Cost: 84
+3020  '  Katyusha  [ATY  Russia]  Cost: 600
+3755  '  Engineer 38  [INF  Russia]  Cost: 312
+3758  '  Novobranets 38  [INF  Russia]  Cost: 48
+3759  '  Parashutisti 38  [INF  Russia]  Cost: 264
+7974  '  76.2mm AT/ATY  [ATY  Russia]  Cost: 180
+7975  '  Battery  [ATY  Russia]  Cost: 900
+7981  '  SU-203  [ATY  Russia]  Cost: 1800
+7984  '  Yag 76.2mm  [ATY  Russia]  Cost: 420

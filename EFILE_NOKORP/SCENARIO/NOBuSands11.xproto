@@ -1,0 +1,11 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  90  '  StuG IIIF/8  [ AT  Germany]  Cost: 336
+  99  '  Wurfrahmen  [ATY  Germany]  Cost: 588
+ 150  '  Pz IVG  [ TK  Germany]  Cost: 636
+5055  '  Bf 109 G-2/Trop  [FTR  Germany]  Cost: 720
+6043  '  StuG IIIF  [ AT  Germany]  Cost: 336

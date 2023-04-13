@@ -1,0 +1,82 @@
+1938-46 ATOMIC BLITZKRIEG
+
+   File                 Scenario                                           Date           BV   V  TV    L  Map
+
+ 0 blitz0.xscn          Madrid Offensive                                   Oct 23, 1938    1   1   1   Ls  21.png
+ 1 blitz1.xscn          Ciechanow                                          Sep  5, 1939    2   2   2   Ls  12.png
+ 2 blitz2.xscn          Warsaw                                             Sep 20, 1939    3   3   3   Ls  349.png
+ 3 blitz3.xscn          Narvik                                             Apr  9, 1940    4   4   4   Ls  1366.png
+ 4 blitz4.xscn          Sedan                                              May 13, 1940    5   5   5   Ls  22.png
+ 5 blitz5.xscn          Race to Dunkirk                                    May 21, 1940    6   6   6   Ls  1229.png
+ 6 blitz6.xscn          Tobruk                                             Apr  8, 1941    7   7   7   Ls  16.png
+ 7 blitz7.xscn          Thermopylae                                        Apr 24, 1941    8   8   8   Ls  14.png
+ 8 blitz8.xscn          Crete                                              May 20, 1941    9   9   9   Ls  1469.png
+ 9 blitz9.xscn          Malta                                              May 26, 1941   10  10  10   Ls  1470.png
+10 blitz10.xscn         Kishinev                                           Jul  9, 1941   11  11  11   Ls  20.png
+11 blitz11.xscn         Demyansk                                           Aug 15, 1941   12  12  12   Ls  1039.png
+12 blitz12.xscn         Viazma                                             Sep 15, 1941   13  13  13   Ls  741.png
+13 blitz13.xscn         Rostov                                             Nov 22, 1941   14  14  14   Ls  1075.png
+14 blitz14.xscn         Southern Front                                     May  7, 1942   15  15  15   Ls  29.png
+15 blitz15.xscn         Stalingrad                                         Jul 29, 1942   16  16  16   Ls  41.png
+16 blitz16.xscn         Viipuri                                            Aug 31, 1942   17  17  17   Ls  23.png
+17 blitz17.xscn         Winter Storm                                       Dec 12, 1942   18  18  18   Ls  28.png
+18 blitz18.xscn         Tunisia Counterattack                              Mar  1, 1943   19  19  19   Ls  1057.png
+19 blitz19.xscn         Tobruk '43                                         Mar 14, 1943   20  20  20   Ls  1531.jpg
+20 blitz20.xscn         Race to Sidi Barrani                               Mar 26, 1943   21  21  21   Ls  1530.jpg
+21 blitz21.xscn         Alexandria                                         Apr  5, 1943   22  22  22   Ls  1473.png
+22 blitz22.xscn         Zitadelle                                          Jul  5, 1943   23  23  23   Ls  0.png
+23 blitz23.xscn         Steppe Blitz                                       Jul  8, 1943   24  24  24   Ls  1529.png
+24 blitz24.xscn         Demyansk '43                                       Oct  1, 1943   25  25  25   Ls  1039.png
+25 blitz25.xscn         Leningrad                                          Dec  1, 1943   26  26  26   Ls  935.png
+26 blitz26.xscn         Moscow                                             Mar 31, 1944   27  27  27   Ls  67.jpg
+27 blitz27.xscn         Drive to the Sea                                   Jun  6, 1944   28  28  28   Ls  1508.png
+28 blitz28.xscn         St. Lo Counterattack                               Jul 25, 1944   29  29  29   Ls  18.png
+29 blitz29.xscn         Cherbourg                                          Aug 22, 1944   30  30  30   Ls  1509.png
+30 blitz30.xscn         Battle of Berlin                                   Sep 26, 1944   31  31  31   Ls  1475.png
+31 blitz31.xscn         Operation Konrad                                   Nov 15, 1944   32  32  32   Ls  340.jpg
+32 blitz32.xscn         Jassy-Kishinev Operation                           Mar 15, 1945   33  33  33   Ls  1499.png
+33 blitz33.xscn         Invasion!                                          May 10, 1945   34  34  34   Ls  1536.png
+34 blitz34.xscn         London                                             Jun  1, 1945   35  35  35   Ls  1477.png
+35 blitz35.xscn         Long Island                                        Jun  7, 1946   36  36  36   Ls  731.png
+36 blitz36.xscn         New York, New York!                                Jul  2, 1946   37  37  37   Ls  732.png
+37 blitz37.xscn         Aloha Pearl Habor                                  Oct 12, 1946  Win Win Win   Ls  1372.png
+
+Summary of maps needed:
+
+1057.png              used 1   times
+28.png                used 1   times
+1499.png              used 1   times
+1509.png              used 1   times
+1075.png              used 1   times
+1477.png              used 1   times
+1536.png              used 1   times
+731.png               used 1   times
+0.png                 used 1   times
+23.png                used 1   times
+1372.png              used 1   times
+1529.png              used 1   times
+22.png                used 1   times
+1475.png              used 1   times
+18.png                used 1   times
+935.png               used 1   times
+1530.jpg              used 1   times
+1531.jpg              used 1   times
+41.png                used 1   times
+29.png                used 1   times
+1039.png              used 2   times
+349.png               used 1   times
+12.png                used 1   times
+16.png                used 1   times
+732.png               used 1   times
+67.jpg                used 1   times
+1470.png              used 1   times
+1469.png              used 1   times
+741.png               used 1   times
+1366.png              used 1   times
+14.png                used 1   times
+1229.png              used 1   times
+340.jpg               used 1   times
+1508.png              used 1   times
+21.png                used 1   times
+1473.png              used 1   times
+20.png                used 1   times

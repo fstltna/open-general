@@ -1,0 +1,48 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+   5  '  Garde-Infanterie 16  [INF  German Empire]  Cost: 204
+   6  '  Bayern 16  [INF  German Empire]  Cost: 96
+   9  '  Infanterie 16  [INF  German Empire]  Cost: 96
+  13  '  Gebirgsjäger 16  [INF  German Empire]  Cost: 288
+ 113  '  LVG C.II  [ TB  German Empire]  Cost: 732
+ 276  '  7,58cm lMW n/A  [ATY  German Empire]  Cost: 372
+ 288  '  Daimler PzWgn 16  [RCN  German Empire]  Cost: 360
+ 483  '  7,92mm MG 08 16  [FlaK  German Empire]  Cost: 204
+ 620  '  Motorrad Aufklärer  [RCN  German Empire]  Cost: 252
+ 653  '  Fokker E.III  [FTR  German Empire]  Cost: 492
+ 707  '  7,7cm FK 16 (ber. Art.)  [ATY  German Empire]  Cost: 588
+ 729  '  Flammenwerfer  [INF  German Empire]  Cost: 396
+1018  '  7,7cm IG L/20   [ AT  German Empire]  Cost: 216
+1041  '  Hansa-Brandenburg KDW  [FTR  German Empire]  Cost: 636
+1046  '  Albatros C.III Early  [ TB  German Empire]  Cost: 720
+1052  '  Halberstadt D.II  [FTR  German Empire]  Cost: 564
+1054  '  Fokker E.IV  [FTR  German Empire]  Cost: 540
+1852  '  Reserve-Infanterie 16  [INF  German Empire]  Cost: 72
+1887  '  Landwehr 16  [INF  German Empire]  Cost: 60
+1961  '  Kavallerie 16  [ TK  German Empire]  Cost: 324
+2004  '  Jäger 16  [INF  German Empire]  Cost: 144
+2006  '  Pioniere 16  [INF  German Empire]  Cost: 264
+2083  '  7,7cm FK 16  [ATY  German Empire]  Cost: 384
+2292  '  Wacht  [INF  German Empire]  Cost: 72
+2332  '  7,7cm Geb K 15  [ATY  German Empire]  Cost: 384
+2333  '  10,5cm Geb H 12  [ATY  German Empire]  Cost: 348
+2348  '  Ulanen 16  [RCN  German Empire]  Cost: 276
+2834  '  7,62cm IG L/16.5 (r)  [ AT  German Empire]  Cost: 240
+2839  '  3,7cm TaK 16  [ AT  German Empire]  Cost: 180
+2874  '  17cm mMW n/A    [ATY  German Empire]  Cost: 216
+2875  '  25cm sMW n/A   [ATY  German Empire]  Cost: 360
+2876  '  Granatenwerfer 16  [ATY  German Empire]  Cost: 360
+2913  '  Grenadiere 16  [INF  German Empire]  Cost: 180
+3392  '  Kavallerie Schützen 16  [INF  German Empire]  Cost: 132
+3405  '  Kavallerie Späher 16  [RCN  German Empire]  Cost: 120
+3545  '  Pfalz E.I  [FTR  German Empire]  Cost: 468
+3546  '  Pfalz E.II  [FTR  German Empire]  Cost: 492
+3564  '  Albatros C.III Late  [ TB  German Empire]  Cost: 780
+3569  '  Aviatik C.II  [ TB  German Empire]  Cost: 588
+3579  '  LFG Roland C.II  [ TB  German Empire]  Cost: 648
+3583  '  Rumpler C.I  [ TB  German Empire]  Cost: 768
+4178  '  Seebataillone 16  [INF  German Empire]  Cost: 108

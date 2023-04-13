@@ -1,0 +1,11 @@
+1912-18 BULGARIAN CAMPAIGN 
+
+Version: 1.0
+Equipment File: Kaiser General
+Number of Scenarios: 28
+Player Country: Bulgaria
+Campaign Designer: Urica
+Playtesters: Guille, 1-Terminator, Blitzstoper
+
+In the 1910s Bulgaria struggled to become the main power in the Balkans. Pursuing that goal, the Bulgarians fought all of their neighbouring countries, in two Balkan wars and later siding with the Central powers during the Great War.
+As a Bulgarian commander, you'll have to fight the main battles of those turbulent times, first for the glory of your country, then for her survival.

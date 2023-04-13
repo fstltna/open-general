@@ -1,0 +1,20 @@
+1917-19 ESTONIAN INDEPENDENCE CAMPAIGN 
+
+Version: 1.2 
+Equipment File: Kaiser General
+Number of Scenarios: 19
+Player Country: Estonia
+Campaign Designer: Toliy
+Campaign Converter: von Schweinewitz, Juankar
+Playtesters: Ironlung, Danny, Mr Happy
+
+Historical Estonian Independence Struggle Campaign
+
+Starting with the formation of Estonian regiments by the Russian Empire and ending with a bitter struggle against the Red Army for independence, you will lead Estonian troops into battle in this historical campaign.
+
+You will embark on this campaign in the rank of Kapten and in the position of Executive Officer of the 1st Estonian regiment.  As you gain experience and progress in rank, the number of troops under your command will increase.  You will be instructed to requisition more equipment in such cases, but you will not be restricted to specific types.  This campaign is built at battalion level.
+
+Good luck, Commander!
+
+
+

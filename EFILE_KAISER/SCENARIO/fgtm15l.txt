@@ -1,0 +1,1 @@
+Error:  you have not chosen a campaign path.  Please reload the choice scenario and achieve either BV, V, or TV.

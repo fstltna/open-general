@@ -1,0 +1,18 @@
+1941-45 YUGOSLAV FRONT
+
+An OpenGeneral campaign about the Yugoslav Partisans in Second World War. The Partisans or the National Liberation Army, officially the National Liberation Army and Partisan Detachments of Yugoslavia, was Europe's most effective anti-Nazi resistance movement. It was led by the Communist Party and its commander was Marshal Josip Broz Tito.
+
+The campaign uses the "elite/green replacements" feature. Units which had suffered losses in battle, have experience points to pay if you use green replacement, depending on the amount of the losses. Your core units are not automatically refreshed after a scenario, so avoid wasteful or unnecessary attacks. Furthermore, you can add so-called attachments to your units that increase their effectiveness, but cost some prestige.
+
+I have it designed to be a challenge, so the difficult level is moderate to hard. Enough prestige is not a problem at 100%, but a BV should often a challenge, even for experienced players. It is not a campaign for beginners, but who want to try should play at 150%. Experienced players can try it with 50%, but below 50% there is no more fun to find for my taste. In scenario briefings you find recommendations for the development of your core.
+
+Enjoy!
+
+Björn aka Golothin
+
+Comments, compliments, suggestions or whatever can be sent to: golothin@netscape.net
+
+Campaign Designer: Golothin
+Number of Scenarios: 19
+LXF Version: v1.3
+Last Playtest: 10/2015

@@ -1,0 +1,12 @@
+Battle of Liegnitz
+August 15, 1760
+
+In August 1760, Frederick’s army opposed the Austrian invasion of Silesia. On August 14, Prussians reached the suburb of Liegnitz, but they were surrounded by Austrian corps. Field-marshal count Daun was on the right and rearward. Field-marshal baron Loudon was on the left and frontward. Three Austrian armies totalling 90,000 men watched a Prussian army of 30,000 men. Frederick II decided to reach Glogau. On August 15, the whole Prussian army was safely across the Schwartzwasser. The Austrians did not know where Frederick had repositioned his army.
+
+Deploy Hexes: 21
+
+ORDER: Hold the VH, destroy the Austrian HQ at Bienowitz and keep your MSU alive.
+
+NOTE: Be quick! Daun’s corps can arrive from the south-west in any minutes.
+
+scenario designer: Csaba (lvjtn)

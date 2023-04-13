@@ -1,0 +1,18 @@
+En el helado invierno de 1937, los nacionales tenían un importante punto desde donde continuar su ofensiva: la ciudad de Teruel, como "un arma apuntando al corazón del levante español". El Ejército Popular no podía permitir esto, y una ofensiva para retomar Teruel fue planeada y puesta en marcha bajo temperaturas de alrededor de -28 grados... 
+El coronel rebelde, Rey d'Haucourt rindió sus fuerzas en Teruel, y la ciudad fue recuperada, pero la posterior contraofensiva rebelde convirtió la batalla en un pequeño Stalingrado español...
+ 
+Efile: GCE
+Mapa: Teruel
+Diseño Mapa: Santiago Fuertes
+Diseño escenario: Santiago Fuertes
+Duración máxima de escenario: 34 Turnos
+
+
+In the frozen Winter of 1937, the Spanish Nationalist had an important point to continue his offensive: the city of Teruel, as a 'gun aiming to the hearth of the Spanish Levante'. The Spanish Popular Army could not allow this, and an offensive to retake Teruel was planed and launched under temperatures around -28 degrees... 
+The Nationalist Colonel, Rey d'Haucourt surrendered his forces in Teruel, and the city was retaken, but the Rebel counteroffensive converted the battle in a little Spanish Stalingrad...
+
+Efile: GCE
+Map: Teruel
+Map design: Santiago Fuertes
+Scenario design: Santiago Fuertes
+Maximum scenario lenght: 34 Turns

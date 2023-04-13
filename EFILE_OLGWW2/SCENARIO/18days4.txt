@@ -1,0 +1,70 @@
+Gette River
+Gr Cy / 2 DC / CC
+3 L / 1 DC / CC
+2 G (ex 1 RCP) / BCP / CC
+1 ChCh / 2 DC / CC
+3 L / 2 DC / CC
+1 CCy / 2 DC / CC
+3 CCy / 1 DC / CC
+2 CCy / 2 DC / CC
+4 CCy / 2 DC / CC
+Esc T-13 / 2 DC / CC
+Esc AB / 2 DC / CC
+25 Bn Gn / 1 DC / CC
+26 Bn Gn / 2 DC / CC
+17 RACH / 1 DC / CC
+I-II/19 RACC / CC
+IR 59 / 19 ID / XI AK / AOK 6
+IR 73 / 19 ID / XI AK / AOK 6
+IR 74 / 19 ID / XI AK / AOK 6
+Art.-Rgt. 14 / 14 ID / XI AK / AOK 6
+30 PB / 30 ID
+Aufkl.-Abt. 14 / 14 ID / XI AK / AOK 6
+Pion.-Btl. 19 / 19 ID / XI AK / AOK 6
+IR 12 / 31 ID / XI AK / AOK 6
+IR 17 / 31 ID / XI AK / 6 AOK
+IR 82 / 31 ID / XI AK / AOK 6
+Art.-Rgt. 31 / 31 ID / XI AK / AOK 6
+Aufkl.-Abt. 31 / 31 ID / XI AK / AOK 6
+Pion.-Btl. 31 / 31 ID / XI AK / AOK 6
+1 G / 1 DC / CC
+Pz.-Rgt. 5 / Pz.Brig. 3 / 3 Pz.Div. / XVI AK / AOK 6
+Aufkl.-Abt 3 / 3 Pz.Div / XVI AK / AOK 6
+Schütz.-Rgt. 3 / Schütz.-Brig. 3 / 3 PzD / XVI AK / AOK 6
+Halen
+BrüPion.-Btl. 646 / AOK 6
+Kortenaken
+Zelk
+Loksbergen
+Waanrode
+III-IV/19 RACC / CC
+1/StG54 / VIII Fliegerkorps / 2 LF
+2/JG27 / VIII Fliegerkorps / 2 LF
+Cie AC / 2 DC / CC
+Cie ac / 1 DC / CC
+Gette River
+Velp River
+1 RA / 1 DI / CC
+2 L / 1 DC / CC
+Gr Cy / 1 DC / CC
+Cie T-13 / 1 DC / CC
+Eon blindé / 1 DC / CC
+III-IV/19 RACC / CC
+3 Li / 1 DI / CC
+1 L / 2 DC / CC
+Pzjäg.-Abt. 31 / 31 ID / XI AK / AOK 6
+Pzjäg.-Abt. 14 / 14 ID / XI AK / AOK 6
+Gen.Kdo. Gen von Kortzfleisch / XI AK / AOK 6
+QG Gen. Neve de Roden / CC
+18 RACH / 2 DC / CC
+Pion.-Btl. 14 / 14 ID / XI AK / AOK 6
+IR 53 / 14 ID / XI AK / AOK 6
+IR 11 / 14 ID / XI AK / AOK 6
+IR 11 / 14 ID / XI AK / AOK 6
+IR 101 / 14 ID / XI AK / AOK 6
+Art.-Rgt. 19 / 19 ID / XI AK / AOK 6
+Aufkl.-Abt. 19 / 19 ID / XI AK / AOK 6
+Pzjäg.-Abt. 19 / 19 ID / XI AK / AOK 6
+Esc Mi AA / 2 DC / CC
+Esc Mi AA / CC
+4 L (ex 2 RCP) / BCP / CC

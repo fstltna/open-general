@@ -1,0 +1,137 @@
+Fa15-The Battle Of Honkaniemi
+KTR 4/4 Div
+Kev Os 4/4 Div
+JR 10/4 Div
+JR 11/4 Div
+JR 12/4 Div
+4/PansP
+JP 3
+Rask Psto 1/II. Korps
+Rask Psto 2/II. Korps
+Rask Psto 3/II. Korps
+Kev Os 5/5 Div
+JR 13/5 Div
+JR 14/5 Div
+JR 15/5 Div
+Psto/Pr 1
+Psto/Pr 2
+Psto/Pr 3
+Psto/Pr 4
+Kev Os 1/1 Div
+Pr 1/1 Div
+Pr 2/1 Div
+Tk Bn 436/138 RflD
+AT Bn/138 RflD
+Aty Rgt 295/138 RflD
+RflRgt 554/138 RflD
+RflRgt 650/138 RflD
+RflRgt 768/138 RflD
+Eng Bn 179/138 RflD
+Tk Bn 339/90 RflD
+AT Bn 66/90 RflD
+Hw Rgt 149/90 RflD
+lt Aty Rgt 96/90 Rfl
+Rec Bn 44/90 RflD
+RflRgt 173/90 RflD
+RflRgt 286/90 RflD
+RflRgt 588/90 RflD
+Eng Bn 17/90 RflD
+AT Bn/100 RflD
+Aty Rgt/100 RflD
+Hw Rgt/100 RflD
+1 RflRgt/100 RflD
+2 RflRgt/100 RflD
+3 RflRgt/100 RflD
+Rec Bn/100 RflD
+Tk Bn/7 RflD
+At Bn/7 RflD
+Aty Rgt/7 RflD
+1 RflRgt/7 RflD
+2 RflRgt/7 RflD
+3 RflRgt/7 RflD
+Eng Bn/7 RflD
+Mg Bn/7 RflD
+Tk Bn/84 RflD
+Aty Rgt/84 RflD
+Eng Bn/84 RflD
+1 RflRgt/84 RflD
+2 RflRgt/84 RflD
+3 RflRgt/84 RflD
+lt Det/84 RflD
+I/7 IAP
+II/7 IAP
+III/7 IAP
+I/54 SBAP
+II/54 SBAP
+III/54 SBAP
+Tk Bn/7th Army
+Tk Bn/7th Army
+chem Tk Bn/7th Army
+I/LLv 24/LeR 2
+II/LLv 24/LeR 2
+SK 1 Viipuri
+SK 2 Viipuri
+KTR 23/23 Div
+Kev Os 23/23 Div
+JR 67/23 Div
+JR 68/23 Div
+JR 69/23 Div
+Viipuri
+Viipuri
+Viipuri
+Viipuri
+Viipuri
+Viipuri
+Viipuri
+Karpelanjoki
+Karpelanjoki
+Karpelanjoki
+Karpelanjoki
+Karpelanjoki
+Karpelanjoki
+Karpelanjoki
+Karpelanjoki
+Karpelanjoki
+Karpelanjoki
+Karpelanjoki
+Karpelanjoki
+Karpelanjoki
+Karpelanjoki
+Karpelanjoki
+Karpelanjoki
+Karpelanjoki
+Huumola
+Autiokorpela
+Jarvela
+Ylasommee
+Uunsoppi
+Naykkijarvi
+Naykkijarvi
+Naykkijarvi
+Naykkijarvi
+Honkaniemi
+Honkaniemi
+Honkaniemi
+Jaryenpaa
+Kamara station
+Kamara station
+Kamara station
+Leipasuo
+Leipasuo
+Kamara
+Kamara
+Pilppula
+Heinjoki station
+Perojoki
+Perojoki
+Perojoki
+Perojoki
+Perojoki
+Perojoki
+Perojoki
+Kamarajarvi
+Kamarajarvi
+Kamarajarvi
+Kamarajarvi
+Kamarajarvi
+hvy Tk Bn/7th Army

@@ -1,0 +1,125 @@
+* Read carefully before editing!
+* Each line can be any lenght, but only first 96 chars will be read
+* Emply lines and those starting with * will be skipped.
+* Can replace any text but do no change the sequence of lines
+*-------------------------------------------------------------------
+* Sides
+Side 1
+Side 2
+All Nations
+
+* Nations
+Socialist Cuba 
+D.R. of Vietnam
+Syrian Arab Republic
+Kampuchea
+Russia
+Israel 
+France
+Angola
+Rebels/Misc.
+USA
+United Nations
+South Korea 
+NATO
+Republic of Vietnam
+Jordan
+Iraq
+Iran
+Argentina
+P.R. of China
+USSR
+India
+North Korea
+United Kingdom
+Egypt
+Germany F.R.
+Germany D.R.
+Warsaw Pact
+Republic of China
+South Africa
+Pakistan
+Saudi Arabia
+Spain
+Poland
+Portugal
+Lebanon
+Kuwait
+Communist Afghanistan
+Taliban 
+Afghanistan
+PLO
+Italy
+Turkey
+Belgium
+Netherlands
+Norway
+Greece
+Canada
+Australia
+New Zealand
+Czechoslovakia
+Romania
+Bulgaria
+Yugoslavia
+Croatia
+Serbian & Montenegro
+Kosovo
+Slovenia
+Bosnia & Herzegovina
+Japan
+Mongolia
+Thailand
+Singapore
+Indonesia
+Sweden
+Finland
+Switzerland
+Morocco
+Algeria
+Libya
+Panama
+Rhodesia
+Hungary
+Austria
+Kazakhstan
+Malaysia
+Denmark
+Chechnya
+Georgia
+Viet Cong
+Zimbabwe
+SWAPO
+UNITA
+Viet Minh
+Afghan Mujahideen
+Cambodia
+Philippines
+Bangladesh
+Kurdish Factions
+Grenada
+Communist Laos
+Albania
+Laos
+S.R. of Vietnam
+26th of July Movement
+Kingdom of Egypt
+Syrian Republic
+Kingdom of Iraq
+Kingdom of Yemen
+Arab Liberation Army
+Cyprus
+Cuba
+Northern Alliance
+Chad
+Biafra
+Nigeria
+Katanga
+Congo
+Uganda
+Tanzania
+Abkhasia
+Zaire
+Montoneros
+Rebel Libya
+South Ossetia

@@ -1,0 +1,142 @@
+Kamenets-Podolsk
+Railroad
+Seret River
+Zbruch River
+Chernovtsy
+Stream
+Skala
+Kamenets-Podolsk
+Dniester River
+Proskurov
+Dunayevtsy
+Gorodenka
+Ruda
+Khotin
+Ustsechko
+Borshchuv
+Gorodok
+Storozynec
+Krasnoilsk
+Hodyliv
+Korovija
+Krupjanske
+Ostrycja
+Horbova
+Herca
+Rocovat
+Stara Krasno
+Spaska
+Bobvici
+Dracynci
+Stanici
+Novi Dracynci
+Ivane-Zolote
+Dzvynjac
+Zadubrivka
+Rzavynci
+Sylivci
+Brodok
+Anadoly
+Oselivka
+Livynci
+Ustja
+Tarasivka
+Zvanec
+Zovtneve
+Ivankivci
+Ruzycanka
+Zovtneve
+Malynyci
+Cornyvody
+Smotryc
+Knjahynyn
+Pjatnycany
+Orynyn
+Pukljaky
+Pidpylypja
+Burdjakivci
+Hustyn
+Tsyhany
+Verchnjakivci
+Hlybocok
+Oleksynci
+Uhryn
+Zalissja
+Kolyndjany
+XXV/7th Pz. Div.
+XXXIX/17th Pz. Div.
+I/1st Pz. Div.
+XL/17th Pz.Div.
+XXVII/17th Pz. Div.
+297th FlaK Abt.
+VII/7th Pz. Div.
+VI/7th Pz. Div.
+DCCXLI/18th Art.
+LXXXVIII/18th Art. 
+CCLXXXVIII/288th Art.
+CCLXXX/18th Art.
+CLXXII/75
+CCXXII/75
+CLXXV/75
+XLII/7th Pz. Div.
+DCLXIX/371
+DCLXX/371
+DCLXXI/371
+DIV/291
+DV/291
+DVI/291
+CCXCI/291
+291st Pioniere Abt.
+371st Pioniere Abt.
+CCCLXXI/371
+VI/3rd Pz. Div.
+III/3rd Pz. Div.
+CCCXCIV/3rd Pz. Div.
+LXXV/3rd Pz. Div.
+CCCV/198
+CCCVIII/198
+CCXXXV/198
+235th Pioniere Abt.
+Damaged Airfield
+II/1st SS
+249th StuG Brig. 
+I/1st SS
+IV/L6
+III/L6
+CI/35
+CXXII/416
+DXIV/172
+52nd Guards Tank Brig.
+53rd Guards Tank Brig.
+237th Tank Brig.
+39th Tank Brig.
+62nd Tank Reg.
+51st Guards Tank Brig.
+Dunayevtsy Airfield
+Khotin Airfield
+Zadubrivka Airfield
+Hustyn Airfield
+LVIII/131st Mech.
+XXXIX/20
+20th Sap. Batt.
+CDIX/131st Mech.
+LIII/131st Mech.
+DXCIII/131st Mech.
+DCCXLIII/131st Mech.
+122nd AT Batt.
+83rd Moto. Batt.
+11th Rifle Brig.
+58th Rifle Brig.
+287th Mort. Reg.
+307th Grds. Rocket Batt.
+VII/7
+XXIII/20
+XLIII/19
+XIV/20
+XXI/23
+XIII/19
+CIII/131st Mech.
+FOREST
+ROUGH
+STREAM
+CLEAR

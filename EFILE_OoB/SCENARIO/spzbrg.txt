@@ -1,0 +1,41 @@
+Spezial Sturmbrigade "Bistroff" 
+
+SPEZIAL STURMBRIGADE "BISTROFF" 
+
+Version: 2016.03
+Number of Scenarios: 25
+Player Country: WWII Germany
+Campaign Designer: Alexandr Bátora
+Campaign Converter: HundredDays
+
+
+German Campaign 1937-1943
+
+You take command from the civil war in Spain, to the "lightning" victories of early World War II - and beyond!
+
+This campaign follows the fate of a fictional combined-arms Wehrmacht unit and its commander Otto Bistroff. Starting as a Spanish volunteer leading the armoured column, both his rank and the size of his unit progressively rises up until the Zitadelle operation, where his brigade was decimated and most of the men killed, wounded or captured.
+
+
+
+----------------------------------------------------------------------------
+[From original Introduction/Readme:]
+
+My take on the classic Blitzkrieg theme...
+...and a tribute to one of the best PG2 designers ever! Steve, although I've never finished your difficult "Bistrov" campaign, you still deserve a hello! :-)
+
+DISCLAIMER: The designer in no way supports the ideas and visions of Nazi Germany and her leaders. This is just a wargame set in a WW2 period; chess in 256 colours, not propaganda.
+See the SpzBrg_Readme.pdf for additional informations.
+
+May all victims of all wars rest in peace!
+
+IC XC
+   +
+NI KA
+
+
+
+
+
+
+----------------------------------------------------------------------
+ [Adapted for the OoB OpenGeneral Efile by HD.]

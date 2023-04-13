@@ -1,0 +1,7 @@
+Szabadságharc 1848-49
+
+Ezredes úr! A Délvidék lángokban áll, az oláhság mozgolódik, Jellašiæ ellenünk lázítja a horvátokat, és - félek - az országban lévõ császári katonaságban, s legfõképpen a vezéreikben se bízhatunk, ha Bécs megadja a jelt, mind hátunkba döfi a kést! Szerencsére vannak magyar érzelmû vezéreink, kik közül Ön a legelsõ, és lesz magyar hadseregünk, amely megvédi a Hont. Védje meg Ön a Haza szabadságát! Harcunk nehéz lesz, s ha a magyarok Istene úgy akarja, kudarcok is érnek, de ne csüggedjen Ön! Ha a vészben megtartunk néhány várost, ott új erõ támad, mivel mindent nyerhetünk! Zászlóinkon lángoló jelszó: Haza és Szabadság! S e jelszó elöl menekülnek majd a zsarnokság hadai. E dupla jelszóhoz hozzátehetjük: „...vagy Halál!”, mert ha veszítünk, nem számíthatunk kegyelemre, de hiszem: Ön azt soha nem is kérné. A Nemzet az Ön kezébe helyezte sorsát, hát cselekedjen!
+
+JAVASLAT:
+- Minden csata térképén található egy 1 életerejû „csapda” egység, amely megakadályozza a hirtelen gyõzelmet az összes ellenséges egység megsemmisítésevel. Ne pusztítsd el ezt az egységet, ha fölfedezed.
+- Fordítsd az összegyûjtött presztízs pontokat egységeid újratöltésére (ne tartogasd, ha a ponthatár közelében vagy), a csaták végén az egységek veszteségei nem pótlódnak automatikusan.

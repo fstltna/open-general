@@ -1,0 +1,14 @@
+Sculeni - 22-06-1941
+
+Good evening Sir. You and your forces are under the command of
+Generalmajor Röttig.
+
+A quiet beginning of the war for the 11th army with her 198. ID
+On the evening of the 22-06-1941 you exceed the river Pruth
+and take Sculeni.
+
+Build a bridge at hex 14,16 with the pioneers if you like. This was intended as a
+test for a forced bridge building. As of now the build feature will be disabled for
+the rest of the campaign.
+
+Proto possible after this one.

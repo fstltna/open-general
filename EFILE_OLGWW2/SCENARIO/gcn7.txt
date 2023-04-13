@@ -1,0 +1,254 @@
+Coup de Grace: Smashing the Ebro's Army
+Fayon
+Rio Ebro
+Benifallet
+Benissanet
+Miravet
+Pinell
+Gandesa
+Corbera
+Mora de Ebro
+Mora la Nueva
+Masroig
+Guiamels
+Tivisa
+Bisbal de Faiset
+Vinebre
+Torre del Espanol
+Garcia
+Villalba de los Arcos
+Ribaroja
+Flix
+La Fantarella
+Asco
+Camposines
+59 BM/42 Div./[XV]
+226 BM/42 Div./[XV]
+227 BM/42 Div./[XV]
+/42 Div./[XV]
+/42 ID/-/[EBRO]
+/42 Div./[XV]
+33 BM/3 Div./[XV]
+37 BM/3 Div./[XV]
+XIV BM/3 Div./[XV]
+XI BM/35 Div./[XV]
+XIII BM/35 Div./[XV]
+XV BM/35 Div./[XV]
+59 BM/42 ID/[XV]
+226 BM/42 ID/[XV]
+227 BM/42 ID/[XV]
+23 BM/16 Div./[XII]
+24 BM/16 Div./[XII]
+/16 Div./[XII]
+3 R/2 Bde/[XV Reservas]
+/42 Div./[XV]
+[XV]
+[XV]
+[XV]
+[XV]
+[XV]
+[XV]
+DCA/[Ebro]
+Cota 471
+Cota 481
+Cota 403
+1ra Brigada/-/[XV]
+1 BM/11 Div./[V]
+9 BM/11 Div./[V]
+XII BM/11 Div./[V]
+12 BM/45 ID/[V]
+14 BM/45 ID/[V]
+139 BM/45 ID/[V]
+10 BM/46 Div./[V]
+37 BM/46 Div./[V]
+101 BM/46 Div./[V]
+[V Reservas]
+[V]
+1 Btn./151 BM/[V Reservas]
+[V]
+2 R/2 Bde./[V Reservas]
+FA
+FA
+FARE
+Castillo de Miravet
+Electroquimica
+Cota 451
+Cota 476
+50 ID/[CEM]
+50 Div. Marroqui
+50 Div. Marroqui
+50 Div. Marroqui
+4 Ban. Castilla/13 ID/[CEM]
+3 Div./[XV]
+35 Div./[XV]
+42 Div./[XV]
+45 ID/[V]
+11 Div./[V]
+46 Div./[V]
+262 Btn./13 ID/[CEM]
+Ifni Btn./13 ID/[CEM]
+6 Ban./13 ID/[CEM]
+1 Tabor Melilla/13 ID/[CEM]
+6 Tabor Melilla/13 ID/[CEM]
+4 Ban./13 ID/[CEM]
+50 ID/[CEM]
+50 ID/[CEM]
+50 ID/[CEM]
+[Legion Condor]
+105 Btn./105 ID/[CEM]
+104 Btn./105 ID/[CEM]
+106 Btn./105 ID/[CEM]
+/105 ID/[CEM]
+1 Btn. Victoria/40 ID/[CEM]
+3 Btn. Victoria/40 ID/[CEM]
+1 Btn. Merida/40 ID/[CEM]
+Tabor Ifni/40 ID/[CEM]
+5 Btn./40 ID/[CEM]
+73 Btn./40 ID/[CEM]
+[Guarnicion de Flix]
+1 Btn. de Palma/4 ID/[CEM]
+7 Btn. S.Quintin/4 ID/[CEM]
+184 Btn. Argel/4 ID/[CEM]
+285 Btn. Tenerife/4 ID/[CEM]
+1 Ban. Soria/4 ID/[CEM]
+2 Ban. Burgos/4 ID/[CEM]
+''B'' Btn. Ceuta/74 ID/[CEM]
+131 Btn. Bailen/74 ID/[CEM]
+Tercio Monserrat/74 ID/[CEM]
+Tercio Burgos/74 ID/[CEM]
+Btn. General Mola/74 ID/[CEM]
+15 Btn. Merida/74 ID/[CEM]
+82 ID/[CEM]
+102 ID/[CEM]
+82 ID/[CEM]
+82 ID/[CEM]
+82 ID/[CEM]
+102 ID/[CEM]
+102 ID/[CEM]
+102 ID/[CEM]
+102 ID/[CEM]
+82 ID/[CEM]
+82 ID/[CEM]
+10 Tabor Alhu./150 ID/[CEM]
+[CEM]
+37 Btn./-/[CEM]
+[CEM]
+1 R/Cab. Bde./[CEM]
+74 ID/[CEM]
+13 ID/[CEM]
+40 ID/[CEM]
+[XV]
+[Legion Condor]
+[Legion Condor]
+[Legion Condor]
+[Legion Condor]
+[Legion Condor]
+CTV
+CTV
+FARE
+FARE
+FARE
+Puesto de Mando
+HQ/42 ID/
+HQ/42 ID/[XV]
+(Taguena) [XV]
+(Lister) [V]
+(Yague) [CEM]
+[CEM]
+[Legion Condor]
+[Legion Condor]
+FARE
+FARE
+FARE
+FARE
+FARE
+Sierra de Pandols
+1 Bda/50 ID/[CEM]
+12 Bon. Bailen 24/50 ID/[CEM]
+21 Bon. Zaragoza 29/50 ID/[CEM]
+9 Bon. San Quintin 25/50 ID/[CEM]
+19 Bon. Zamora 29/50 ID/[CEM]
+7 Bon. Arapiles 7/50 ID/[CEM]
+5 Bon. Flandes 5/50 ID/[CEM]
+3 Bon. Victoria 28/50 ID/[CEM]
+2 Bda./50 ID/[CEM]
+7 Bon Valladolid 20/50 ID/[CEM]
+17 Bon. Burgos 31/50 ID/[CEM]
+16 Bon. Merida 35/50 ID/[CEM]
+4 Bon. Gerona 18/50 ID/[CEM]
+17 Bon. Merida 35/50 ID/[CEM]
+18 Ban./50 ID/[CEM]
+[V]
+[V]
+[V]
+[V]
+[V]
+[V]
+[XV]
+[XV]
+82 ID/[CEM]
+82 ID/[CEM]
+[CEM]
+[CEM]
+[CEM]
+[CEM]
+95 BM/60 Div./[XV]
+84 BM/60 Div./[XV]
+224 BM/60 Div./[XV]
+60 Div./[XV]
+84 ID/[CEM]
+84 ID/[CEM]
+84 ID/[CEM]
+84 ID/[CEM]
+84 ID/[CEM]
+[V]
+[V]
+[V]
+[V]
+[CEM]
+Alambradas
+Alambradas
+Alambradas
+Alambradas
+Jagdgruppe 88
+CTV
+7 Ban./1 Div./[CEM]
+5 Ban./1 Div./[CEM]
+1 Tetuan 1/1 Div./[CEM]
+7 Larache 4/1 Div./[CEM]
+5 Ceuta 3/1 Div./[CEM]
+5 Alhucemas 5/1 Div./[CEM]
+2 Ban. Castilla/1 Div./[CEM]
+2 Ban. Navarra/1 Div./[CEM]
+5 Ban. Navarra/1 Div./[CEM]
+2 Ban. Castilla/1 Div./[CEM]
+5 Ban. Navarra/1 Div./[CEM]
+T. Lacar/1 Div./[CEM]
+T. Montejurra/1 Div./[CEM]
+8 America 23/1 Div./[CEM]
+1 Div./[CEM]
+Bon. Especial/[XV]
+135 BM/-/[XV]
+140 BM/44 ID/[XV]
+144 BM/44 ID/[XV]
+145 BM/44 ID/[XV]
+44 ID/[XV]
+122 BM/27 ID/[V]
+123 BM/27 ID/[V]
+124 BM/27 ID/[V]
+27 ID/[V]
+72 BM/43 ID/[V]
+102 BM/43 ID/[V]
+130 BM/43 ID/[V]
+43 ID/[V]
+Vertice ''Gaeta''
+Blocao
+Blocao
+Blocao
+[CEM HQ]
+Sierra de Cabals
+50 Div./[CEM]
+50 Div./[CEM]
+50 Div./[CEM]
+Kampfgruppe 88
+FAE

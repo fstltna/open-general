@@ -1,0 +1,9 @@
+SITUATION: 
+
+Comandante, the Germans are about to launch a major sea- and airborne attack on Crete in the next days. You and your special forces will asisst our ally in this important operation. But before we attack Crete, we have an delicate mission for you and your men. The British have installed heavy coastal batteries on the island of Navarone. Our convoys have to pass the island and its guns on their way to Crete. Your orders are to infiltrate Navarone and destroy the heavily fortified guns and facilities on the island, as well as the Greek and British garrison.
+
+ORDERS:
+
+You can not buy units in this scenario.
+
+Kill 20 out of 30 enemy units in 14/17/20 turns for a BV/V/TV.

@@ -1,0 +1,14 @@
+Battle of The Alamo
+February 23 – March 6, 1836
+
+In December 1835, Texians had driven all Mexican troops out of Mexican Texas. Less than 200 Texians were then garrisoned at the Alamo near San Antonio de Béxar. On February 23, approximately 1,500 Mexicans marched into Béxar as the first step in a campaign to retake Texas. Following a 13-day siege, Mexican troops under General Antonio López de Santa Anna launched an assault on the Alamo Mission. All of the Texian defenders were killed. Santa Anna’s perceived cruelty during the battle inspired many Texians to join the Texian Army.
+
+Deploy Hexes: 8
+
+ORDER: Hold at least one VH and keep your MSU alive.
+
+NOTES:
+- The Citadel unit in Alamo can resupply the adjacent units.
+- Don’t worry about losing non-MSU core units: your entire core will be annulled after this scenario.
+
+scenario designer: Csaba (lvjtn)

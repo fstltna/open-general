@@ -1,0 +1,7 @@
+VICTORY
+
+You have achieved most objectives General, the operation was a success. Good work!
+
+CAMPAIGN WON!
+
+Congratulations, you have successfully completed the campaign!

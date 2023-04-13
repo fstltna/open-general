@@ -1,0 +1,9 @@
+This is the bay of Karlsund and its naval base.
+Our fleet has lured the British fleet out of there, far into the open sea, making it possible to attack the base in their absence.
+Your task is to destroy the British portuary installations, their repair facilities and their fuel depots. You need to do it before the British fleet returns. Don't let them catch you there, they have 5 heavy cruisers and a battleship among them, you don't stand a chance.
+Also beware, intelligence has it the bay is heavily mined. Don't lose any ships.
+
+Given the scale of the task and the time constraints, we have brought a motorized infantry company to assist you. They are all battle-proven veterans of the France campaign, they won't let you down. Ah and yes, and we have changed our communication codes: There won't be any unpleasant surprises this time.
+
+
+Instructions: Occupy all VHs and destroy all enemy installations.

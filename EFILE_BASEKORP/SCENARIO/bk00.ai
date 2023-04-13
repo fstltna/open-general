@@ -1,0 +1,53 @@
+'---
+'Config AI file for scenario: bk00.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=45 items  ' Replacement for default list
+ 284  '  155mm 155/13  [ATY  Republican Spain]  Cost: 756
+ 285  '  75mm 75/28  [ATY  Republican Spain]  Cost: 144
+ 288  '  Internacional  [INF  Republican Spain]  Cost: 168
+ 291  '  BA-6  [RCN  Republican Spain]  Cost: 300
+ 292  '  BT-5  [ TK  Republican Spain]  Cost: 300
+ 293  '  T-26  [ TK  Republican Spain]  Cost: 300
+ 294  '  Chevrolet  [TPT  Republican Spain]  Cost: 84
+ 295  '  Wagon  [TPT  Republican Spain]  Cost: 24
+ 296  '  I-16-10  [FTR  Republican Spain]  Cost: 516
+ 297  '  Transport  [ATP  Republican Spain]  Cost: 348
+ 664  '  I-15  [FTR  Republican Spain]  Cost: 384
+ 742  '  Guardia Asalto  [INF  Republican Spain]  Cost: 120
+ 743  '  Engineer  [INF  Republican Spain]  Cost: 276
+ 984  '  SB 2  [ TB  Republican Spain]  Cost: 504
+1348  '  105mm 105/11  [ATY  Republican Spain]  Cost: 228
+1531  '  45mm PTP.32  [ AT  Republican Spain]  Cost: 84
+1532  '  70mm 70/16  [ATY  Republican Spain]  Cost: 252
+1533  '  76.2mm 76/27  [ATY  Republican Spain]  Cost: 180
+1534  '  107mm 107/30  [ATY  Republican Spain]  Cost: 240
+1535  '  114mm 114/22  [ATY  Republican Spain]  Cost: 192
+1536  '  152mm 152/20  [ATY  Republican Spain]  Cost: 1032
+1537  '  Guardia Republicana  [INF  Republican Spain]  Cost: 132
+1538  '  Caballeria  [INF  Republican Spain]  Cost: 108
+1539  '  FAI  [RCN  Republican Spain]  Cost: 216
+1540  '  Bilbao  [RCN  Republican Spain]  Cost: 192
+1541  '  UNL 35  [RCN  Republican Spain]  Cost: 228
+1543  '  I-153  [FTR  Republican Spain]  Cost: 432
+1544  '  I-16-5  [FTR  Republican Spain]  Cost: 468
+1546  '  Bre.19  [ TB  Republican Spain]  Cost: 384
+1547  '  RZ  [ TB  Republican Spain]  Cost: 372
+1549  '  A.101  [ TB  Republican Spain]  Cost: 372
+1907  '  MG  [FlaK  Republican Spain]  Cost: 96
+2997  '  Horse  [TPT  Republican Spain]  Cost: 12
+2998  '  Limber  [TPT  Republican Spain]  Cost: 36
+2999  '  Tractor  [TPT  Republican Spain]  Cost: 60
+3000  '  Ford A  [TPT  Republican Spain]  Cost: 60
+3001  '  Komintern  [TPT  Republican Spain]  Cost: 84
+3002  '  ZiS-5  [TPT  Republican Spain]  Cost: 48
+3003  '  Mules  [TPT  Republican Spain]  Cost: 12
+4958  '  R-5  [ TB  Republican Spain]  Cost: 444
+4959  '  FK.51  [ TB  Republican Spain]  Cost: 348
+4960  '  Vildebeest  [ TB  Republican Spain]  Cost: 480
+4964  '  S.231  [FTR  Republican Spain]  Cost: 516
+4965  '  GE-23  [FTR  Republican Spain]  Cost: 564
+5834  '  Train  [RTP  Republican Spain]  Cost: 120

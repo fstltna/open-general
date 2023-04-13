@@ -1,0 +1,8 @@
+Komáromi kitörés
+1849. VII. 11.
+
+Tábornok polgártárs! Egy hete bátor honvédei élén sikerült ugyan megvernie a trónbitorló zsarnok seregeit, az ostromzárat azonban nem sikerült föltörnie. Az I. hadtest parancsa szerint megkezdte a visszavonulást a Csallóközbõl, érkeztükre minden percben számíthat. A segítségükkel kísérelje meg újra megnyitni a fõváros felé az utat! Számítson arra, hogy a császári ostromlókhoz is jelentõs utánpótlás érkezett, seregeik erõsebbek, mint egy hete voltak. Bármilyen nehéz vállalkozás is, kísérelje meg megnyitni a déli utat Pest felé, különben csak a Duna bal partján tudja nagy kerülõvel elhagyni a komáromi erõdöt.
+
+Elhelyezhetõ egység: 24
+
+KÜLDETÉS: Nem szükséges elfoglalnod az ellenfél gyõzelmi pontjait, a menekülési pont idõben meg fog jelenni, hogy teljesíthesd ezt a küldetést.

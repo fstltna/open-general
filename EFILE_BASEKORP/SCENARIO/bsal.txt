@@ -1,0 +1,87 @@
+Salerno
+Castellammare
+Sorrento
+Vietri
+Salerno
+Baronissi
+San Severino
+Nocera
+Monteforte
+Avellino
+Acerno
+Battipaglia
+Eboli
+Persano
+Persano
+Altavilla
+Paestum
+Contursi
+Maiori
+Pompei
+Torre Annunziata
+Castellammare
+Sorrento
+Pogani
+Monteforte
+Avellino
+Solofra
+San Severino
+Montemarano
+Acerno
+Oliveto
+Contursi
+Persano
+Altavilla
+Paestum
+Tobacco Factory
+Beachhead Roger Green
+Beachhead Uncle Green
+Salerno
+Vietri
+Nocera
+Maiori
+64/16
+2/16
+16
+15/29
+71/29
+129/29
+8/3
+29/3
+3
+115/15
+129/15
+15
+9/26
+26
+141/36
+142/36
+143/36
+179/45
+157/45
+Tobacco Factory
+RF
+751
+4/1
+2/202/26
+504/82
+505/82
+131/7
+5RTR/22/7
+Pompei
+Avellino
+Nola
+Baronissi
+Battipaglia
+Battipaglia
+Eboli
+Montecorvino
+Torre Annunziata
+Cava di Terrelli
+Cava di Terrelli
+USAAF
+Sele River
+Solofrone River
+la Cosa River
+Calore River
+Anzio Annie

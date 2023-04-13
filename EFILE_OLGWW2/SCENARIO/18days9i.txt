@@ -1,0 +1,29 @@
+La tête de pont de Meigem
+(25 May 1940)
+v.1.0
+The Campaign of the 18 Days
+(10-28 May 1940)
+
+General,
+
+The German army has launched a general offensive against our lines. Their main effort seems to be on the Leie/Lys river but our positions at the "Canal Dérivation de la Lys" are also being attacked simultaneously on several places.
+
+The German 56th Infantry Division has crossed the Canal de Dérivation defended by the 4 "Division d'Infaterie" and has established a bridgehead around the village of Meigem. 
+
+The "1re Division de Chassesurs Ardennaises" has already been sent to the town of Vinkt to reinforce the front.
+
+Send some additional reinforcements to help the 4 "Division d'Infaterie" to repel the Germans and send them back to the other side of the Canal.  
+
+Le Chef d'Etat-major général de l’armée (EMGA)
+
+Warning: only four units can be deployed and there is no airfiled available (in case you still have some airforce left).
+
+In addition, supply has become extremely difficult due to the supremacy of the German Luftwaffe.
+
+Victory conditions: take all VH by turn 8 for a BV, turn 9 for a V and turn 10 for a TV.
+
+Map: Vinkt1940 (931)
+
+E-file: OLGWW2 (version 2.00)
+
+Paqueo, January 2013

@@ -1,0 +1,83 @@
+Across the Dniepr
+Nova Praha
+Dniepr River
+Dniepropetrovsk
+Synelnykove
+Zaporizzja
+Nikopol
+Andrivka
+Andrivka Airfield
+Dnieprodzerzsnk
+Kukolivka
+Smoline
+Kremencuk
+Pohrebnjakove
+Oleksandrija
+Cerkasy
+Zovti Vody
+Kryvyj Rih
+Molodizne
+Hlynsk
+Svitlovodsk
+Rachmanivka
+Inhulec
+Syrokolanivka
+Village
+I/8Kv
+II/8Kv
+I/21A
+II/21A
+IV/21A
+V/PB
+III/PB
+I/PB
+I/51
+II/51
+III/51
+IV/51
+V/51
+II/277
+III/277
+I/277
+VI/51
+IV/277
+I/96
+II/96
+III/96
+III/8Kv
+I/293
+II/293
+III/293
+IV/293
+XLV/21A
+LXIX/21A
+I/SWF
+II/SWF
+Omelnyk Airfield
+Omelnyk
+LXIV/16Pz
+LXXIX/16Pz
+XXXIII/9Pz
+Finnisch/5SS
+Nordland/5SS
+V/L4
+III/L4
+IV/5
+III/5
+Syrokolanivka Airfield
+Svetlja
+Krynycky
+Novomykolaivka
+Saksahan
+Verchinod
+Zovte
+Cervona Kamjanka
+Komsomolsk
+II/5
+Westland/5SS
+II/L4
+Destroyed Airfield
+CLEAR
+ROUGH
+STREAM
+FOREST

@@ -1,0 +1,188 @@
+** This file is only intended for those designers wanting to
+** customize some texts.
+**
+* Each section must be identified by a header section
+* enclosed by square brackets, i.e: [sides]
+* watch out header section spelling!
+* You can omit one or more sections if you don't need different
+* (insert an asterisk at start of line including section header)
+* but any section you include, must include all items
+* ------------------------------------------------------------------
+*
+* Warning:
+* If you include a [sides] section here, it will overwrite sides denominations 
+* defined in Nations.txt for this Efile
+*
+*_ [sides]
+*_ Axis
+*_ Allied
+
+* ------------------------------------------------------------------
+* All sections are commented out for this template
+* uncomment only those sections you need to redefine
+*
+
+*[results] 
+*Brilliant Victory
+*Victory
+*Tactical Victory
+*Loss
+
+*[targets]
+*Soft target
+*Hard target
+*Air target
+*Naval target
+
+*[spaces]
+*Ground
+*Air
+
+*[movement]
+*Tracked
+*Half Tracked
+*Wheeled
+*Leg
+*Towed
+*Air
+*Deep Naval			
+*Coastal
+*All Terrain
+*Amphibious
+*Naval
+*Mountain (Leg)
+*Train
+*Helicopter
+*------------------------------------------ 
+*  to customize CUSTOM movement method...
+*  add [movement2] section (uncommented)
+*------------------------------------------
+*[movement2]
+*Custom movement
+
+*------------------------------------------ 
+*  to customize HOVERCRAFT movement method...
+*  add [movement3] section (uncommented)
+*------------------------------------------
+*[movement3]
+*Hovercraft
+
+
+*[transports]
+*Cannot be transported
+*Naval
+*Airmobile
+*Airborne
+*Train
+*Helicopter
+
+
+*[classes]
+*None
+*Infantry
+*Tank  
+*Recon
+*Anti-tank
+*FlaK
+*Fortification
+*Ground Transport
+*Rail Transport
+*Artillery
+*Air Defense
+*Fighter
+*Tactical Bomber
+*Level Bomber
+*Air Transport
+*Helo Transport
+*Submarine
+*Destroyer
+*Battleship
+*Carrier
+*Naval Transport
+*Battle Cruiser
+*Cruiser
+*Light Cruiser
+
+*[requisition]
+*Switch Ground+Air / Naval units menu
+*Select Air defense
+*Select FlaK
+*Select Fortification
+*Select Anti Tank
+*Select Artillery
+*Select Infantry
+*Select Recon
+*Select Tanks
+*Select Fighters
+*Select Tactical Bombers
+*Select Level Bombers
+*Select Submarine
+*Select Destroyer
+*Select Battleship
+*Select Carrier
+*Select Battle Cruiser
+*Select Cruiser
+*Select Light Cruiser
+*Name unit
+*Reassign Unit
+*Exit
+
+*[terrain]
+*CLEAR
+*TOWN
+*AIRFIELD
+*FOREST
+*BOCAGE
+*HILL
+*MOUNTAIN
+*SAND
+*SWAMP
+*OCEAN
+*RIVER
+*FORTIFICATION
+*PORT
+*STREAM
+*ESCARPMENT
+*IMPASSABLE
+*ROUGH
+*CUSTOM
+*ROADS
+*RAILS
+
+*[terrain2]
+*SHALLOW SEA
+
+*[unitdata]
+*Leader
+*Transport
+*Country
+*Experience
+*Experience level
+*Fuel
+*Ammo
+*Strength
+*Range
+*Initiative
+*Spot
+*Mov.Method
+*Hard Attack
+*Soft Attack
+*Air Attack
+*Naval Attack
+*Ground defense
+*Air defense
+*Close defense
+*Range defense
+*Class
+*Cost
+
+*This will be loaded only by Suite
+*[latitude]		
+*Africa
+*S-Europe (USA)
+*N-Europe
+*E-Europe
+*S-Asia
+*Pacific
+*C-Europe (Continental)
+*W-Europe (Atlantic)

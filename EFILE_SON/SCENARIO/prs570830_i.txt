@@ -1,0 +1,11 @@
+Battle of Groﬂ-J‰gersdorf
+August 30, 1757
+
+An invading Imperial Russian army of 100,000 men, led by Field-Marshal Stepan Fedorovich Apraksin, took Memel after a five-day bombardment and invaded East Prussia. Apraksin, cautious and lacking war experience, was reluctant to commit his troops to battle. Instead of marching on Wehlau, as was expected, he ordered his forces to cross the Pregel River in safety, near the village of Gross-J‰gersdorf. A Prussian army of 25,500 men, led by Field-Marshal Hans von Lehwaldt, decided to surprise the much larger enemy and attacked a corps of men under General Vasily Lopukhin while it was crossing the Pregel.
+
+Deploy Hexes: 14
+
+ORDER: Hold at least 2 VHs and keep your MSU alive.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

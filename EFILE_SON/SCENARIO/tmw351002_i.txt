@@ -1,0 +1,11 @@
+Battle of Gonzales
+October 2, 1835 
+
+Teniente Castañeda in charge of approximately 125 Presidial cavalry found his command under attack by 150 or so Texians under the command of Colonel Moore. The Mexicans had been charged to collect the six pound cannon previously loaned to the the town of Gonzales to help ward off Indian attacks. The citizens of Gonzales refused to surrender the cannon, and quickly raised a force to drive off the Mexians. This scenario covers the Texian attack upon the Mexican camp. 
+
+ORDER: Take all VHs and keep your MSU alive.
+
+NOTE: Please consider that at the end of this scenario the units won’t be resupplied automatically.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

@@ -1,0 +1,8 @@
+Rzhev-Vyazma Operation - January 1942
+
+The Russian 39rd Army followed by the 29th Army and the 11th Cavalry Corps have broken through our lines near Rzhev and are advancing South on Vyazma. Our Corps has just closed the lines behind these Bolshevik forces. Your orders are to hold Vyazma and stop the relief attempt by the Russian 33rd Army - that is advancing on Vyazma from the East - by capturing Maloyaroslavets and thus also cutting the 33rd Army off from their own lines.
+
+PLAYER ORDERS
+- Strength lost on core units will be automatically replaced at HQ at the start of the next scenario.
+- New units can be acquired at HQ at the start of the next scenario.
+- Hold your own victory hex and capture the Russian one.

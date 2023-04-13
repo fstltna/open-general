@@ -1,0 +1,915 @@
+* Warning !!  v. 1.03 PL
+* Do not removed neither insert lines (unless specifically told).
+* This file is provided as a template to allow game ui
+* to be translated to a different language
+*
+* Edit every line trying to keep same length as much as possible
+* Save changes as "Strings-XX.txt" replacing "XX" sufix with your language
+* ISO 639-1 code (http://en.wikipedia.org/wiki/ISO_639-1)
+* Be sure your file is in your main OPENGUI folder
+*
+* To see your progress, start OpenGen and pick your new code in language combo
+* To return to default English UI, pick "Default English text" in the combo
+* Language file is loaded at start and evertime a game is loaded, so to see
+* your last changes, either load a different game or restart OpenGen.
+*-------------------------------------------------------------------
+*
+* These sections can be redefined at efile level
+* by using STRINGS_EFILE.txt in efile folder
+* but you cannot remove from this file
+*
+* [terrain] ... 17 can be redefined
+OTWARTY TEREN
+MIASTO
+LOTNISKO
+LAS
+ZAROŒLA
+WZGÓRZE
+GÓRY
+PIASEK
+MOKRAD£A
+OCEAN
+RZEKA
+FORTYFIKACJE
+PORT
+STRUMIEÑ
+URWISKO
+G£ÊBOKA RZEKA
+WERTEPY
+RUINY
+DROGA
+TORY
+
+* [sides] ... 43 can be redefined
+Oœ
+Alianci
+
+* [classes] (units) ... 47 can be redefined
+Bez klasy
+Piechota
+Czo³g
+Rozpoznanie
+Artyleria ppanc.
+FlaK
+Fortyfikacje
+Transport
+Transport kolejowy
+Artyleria
+Obrona plot.
+Myœliwiec
+Bomb. taktyczny
+Bomb. strategiczny
+Transport lotniczy
+Transport œmig³owcowy
+Okrêt podwodny
+Niszczyciel
+Pancernik
+Lotniskowiec
+Transport morski
+Kr¹¿ownik liniowy
+Kr¹¿ownik
+Lekki kr¹¿ownik
+
+* [targets] ... 73 can be redefined
+nieopancerzony
+pancerny
+powietrzny
+morski
+
+* [spaces] ... 79 can be redefined
+l¹dowy/morski
+powietrzny
+
+* [movement] ... 83 can be redefined
+g¹sienicowy
+pó³g¹sienicowy
+ko³owy
+pieszy
+holowany
+powietrzny
+pe³nomorski
+przybrze¿ny
+terenowy
+amfibia
+morski
+górski (pieszy)
+kolejowy
+œmig³owcowy
+
+* [transports] ... 99 can be redefined
+Tr. niedostêpny
+Morski
+Powietrzny
+Spadochronowy
+Kolejowy
+Œmig³owcowy
+
+* [results] ... 107 can be redefined
+Brilliant Victory
+Victory
+Tactical Victory
+Loss
+
+*----------------------------------------------- 
+*
+*** From here texts cannot be redefined
+*** only translated
+*
+*-----------------------------------------------
+
+* Weather
+Pogodnie
+Pochmurno
+Deszcz
+Œnieg
+
+* Ground condition
+Sucho
+Zamarzniête
+Grz¹sko
+
+* Months
+Styczeñ
+Luty
+Marzec
+Kwiecieñ
+Maj
+Czerwiec
+Lipiec
+Sierpieñ
+Wrzesieñ
+PaŸdziernik
+Listopad
+Grudzieñ
+
+* Combat messages
+Zniszczonych %d St³umionych %d
+Szar¿a!
+Atak
+Szturm
+Ogieñ zaporowy
+Uporczywa obrona!
+Pu³apka!
+Atak od s³oñca!
+Pu³apka!
+Os³ona myœliwska!
+Obrona plot.
+Wsparcie ogniowe!
+Bliskie wsparcie!
+Atak za³ama³ siê
+Atak za³ama³ siê pod wsparciem!
+Okrêt uciek³!
+Zanurzenie alarmowe!
+Port ewakuacyjny
+Zatopiony!
+Kapitulacja!
+Opuœcili pole bitwy!
+
+* game messages
+Przyby³y posi³ki
+Chcesz transport powietrzny?
+Zapisano
+B³¹d zapisu
+Na pewno usun¹æ jednostkê?
+Niew³aœciwe has³o
+Zwyciê¿y³eœ! Przyjmij gratulacje!
+
+* Menu Main
+Wybierz sprzêt
+Wybierz scenariusz
+Wybierz kampaniê
+Scenariusze wieloosobowe
+Zagraj przez e-mail
+Najlepsze wyniki
+Uruchom edytor gry (Suite)
+Za³aduj zapisan¹ grê
+Ustawienia
+Odtwórz grê z logów
+Odtwórz intro
+Poka¿ numer wersji
+Wyjœcie
+
+* Menu Game
+Nastêpna jednostka
+Cofnij ruch
+Zakup jednostek
+Rozstawienie
+Kwatera g³ówna
+Tryb lotniczy
+Widok mapy
+Odtwórz turê przeciwnika (email)
+Chat
+Opcje dodatkowe
+Pe³ny ekran
+Koniec kolejki
+Zapisz/za³aduj
+Ustawienia
+
+* Menu Additional options
+Bie¿¹cy stan gry
+Intro scenariusza
+Lista skrótów
+Poka¿ etykiety terenu
+Poka¿ siatkê
+Muzyka w³-wy³
+Efekty w³-wy³
+Poka¿ rezultaty równie¿ na mapie
+Poka¿ znane/nieznane heksy
+Ukryj si³ê jednostek i prognozy walki
+Poka¿ zasiêg ognia wybranej jednostki
+Video i inne opcje
+Zamknij to menu
+
+* Menu Requisition
+Prze³¹cz widok: l¹dowe+powietrzne / morskie
+Kup obronê plot.
+Kup FlaK
+Kup fortyfikacje
+Kup artyleriê ppanc.
+Kup artyleriê
+Kup piechotê
+Kup rozpoznanie
+Kup czo³gi
+Kup myœliwce
+Kup bombowce taktyczne
+Kup bombowce strategiczne
+Kup okrêty podw.
+Kup niszczyciele
+Kup pancerniki
+Kup lotniskowce
+Kup kr¹¿owniki liniowe
+Kup kr¹¿owniki
+Kup kr¹¿owniki lekkie
+Nadaj nazwê
+Usuñ jednostkê
+Wyjœcie
+
+* Menu dossier
+Raport po bitwie
+Wyjœcie
+
+* Menu Headquarters
+Dossier
+Przegl¹d jednostki
+ZnajdŸ jednostkê
+Kup jednostkê
+Uzupe³nij/wzmocnij jednostkê
+Unowoczeœnij jednostkê
+Usuñ jednostkê
+Zapisz/za³aduj
+Koszt armii gracza i limit presti¿u
+Wyjœcie
+
+* Menu Units
+do/z transportu
+na/z pok³adu
+Zaopatrzenie
+Uzupe³nienia
+Nadaj/zmieñ nazwê
+Wyjœcie
+
+* Menu Deploy
+Zakup jednostki
+Tryb lotniczy
+Widok mapy strat/norm
+Poka¿ siatkê
+Wyjœcie
+
+* Browse list
+Pocz¹tek
+Strona w górê
+Wiersz w górê
+Wiersz w dó³
+Strona w dó³
+Koniec
+
+* Dialog Tips
+Dowódca
+Transport
+Kraj
+Doœwiadczenie
+Poziom doœw.
+Paliwo
+Amunicja
+Stan
+Zasiêg
+Inicjatywa
+Pole widzenia
+Tryb ruchu
+Atak przeciwpancerny
+Atak na cele nieopancerzone
+Atak na cele powietrzne
+Atak na cele morskie
+Obrona l¹dowa
+Obrona plot.
+Bliska obrona
+Modyf. obrony
+Klasa
+Koszt
+Kwatera g³ówna
+Dostêpny nowy sprzêt
+Zakupy
+Ulepszenia
+Przegl¹d jednostki
+Straty wroga
+Straty w³asne
+Najlepsze wyniki
+Ostatnie wyniki
+Poka¿ ostatnie wyniki
+Poka¿ najlepsze wyniki
+Widok mapy strategicznej
+Dostêpne punkty: %d
+Nie mo¿na uzupe³niæ/wzmocniæ
+Uzupe³nij/wzmocnij jednostkê Koszt=%d
+Nie mo¿na uzupe³niæ/wzmocniæ Koszt=%d > %d
+Prze³¹cz na inny kraj (o ile dostêpny)
+Dane niedostêpne
+Wyjœcie
+
+*----------------------------------------------------------------
+* Windows type dialogs : Warning keep lenght as much as possible
+*----------------------------------------------------------------
+* LOAD_SCN
+Gracz 1
+Gracz 2
+Folder efila
+Poka¿ wszystkie scenariusze (tak¿e ukryte)
+Sortuj wg nazwy
+Gracz 3
+Gracz 4
+Filtruj pliki
+Tryb PG2
+ 
+* LOAD_SAVES
+Gracz 1
+Gracz 2
+Folder efila
+Poka¿ te¿ zapisy scen. PG2
+Poka¿ te¿ zapisy kamp. PG2
+Za³aduj
+Poka¿ te¿ zapisy scen. XSAV
+Poka¿ te¿ zapisy kamp. XCSV
+Filtr
+Sortuj wg daty
+
+* HOTKEYS
+Otwórz skróty
+Widok mapy strategicznej
+Przewiñ mapê
+Wyœrodkuj na wybranej jednostce
+Poka¿ wyniki walki na mapie
+Poka¿ etykiety terenu
+Wyjœcie do menu, dialogu lub gry
+Skróty
+Prze³¹cz powietrzny/l¹dowy 
+Prze³aduj ostatnie
+Poka¿ podsumowanie kolejki
+Zmieñ listê jednostek
+Pomoc dla cech specjalnych
+Ustaw tryb Windows
+Poka¿ intro scenariusza
+Oznacz znane heksy
+W³¹cz/wy³. wskaŸniki si³y
+Prze³¹cz ruch/ostrza³
+Koniec kolejki
+Obróæ jednostkê
+Depliegue
+Kwatera g³ówna
+Nastêpna jednostka
+Uzupe³nienia
+Dossier
+..nothing yet 
+do/z transportu
+Poka¿ logi
+Poprzednia jednostka
+WyjdŸ z gry
+Widok jednostki
+Cofnij ruch
+Poka¿ raport debugowania
+Okno komunikatu b³êdu
+Poka¿ zasiêg strza³u
+W³¹cz wycienianie heksów
+W³¹cz podœwietlenie wybranych
+W³¹cz/wy³ wskaŸniki paliwa
+Za³aduj zapisan¹ grê
+Poka¿ ostatnie logi
+Zapisz grê
+Zaopatrzenie
+Przewijaj jednostki na tym samym heksie
+Auto-save
+Zakup jednostki
+Na/z pok³adu
+W³¹cz dŸwiêki
+W³¹cz muzykê
+Poka¿ wskaŸniki si³y
+Wy³¹cz jednostkê z cyklu
+Raportuj b³êdy
+Prze³aduj mapê
+W³¹cz dane o VH/SH
+Poka¿ "mg³ê wojny" na mapie
+Opuœæ transport
+Poka¿ œcie¿kê ruchu
+Prze³¹cz muzykê 1/2
+W³¹cz okno danych jednostki
+
+* PEBM SPECIAL CODES
+Kody PEBM (@)
+Mo¿liwy transport lotniczy
+Mo¿liwe desantowanie
+Jednostka górska
+Jednostka mostowa
+Jednostka in¿ynierska
+Ruch fazowy/rozpoznawczy
+Opuszcza transport gdy atakowany
+Artyleria nie wspiera ogniem
+Wspiera ogniem
+Mo¿e atakowaæ jedn. l¹dowe
+Wsparcie bojowe 
+Mo¿e atakowaæ samoloty
+Obs³uga samolotów
+Zdobywa heksy
+Wypuszcza samoloty
+Desantowany transport l¹dowy
+Saper - minuje i buduje
+Mo¿e atakowaæ po ruchu
+Posiada atrybuty nie opisane kodem. NajedŸ kursorem by zobaczyæ
+Ogieñ zaporowy (bombardowanie)
+Marine
+
+* SCN_INTRO
+Tytu³ scenariusza
+Poka¿ intro kampanii
+
+* LOAD_CAM
+Gracz 1
+Folder efila
+# scenariuszy
+SprawdŸ brakuj¹ce mapy
+Za³aduj brakuj¹ce mapy
+£aduj mapy automatycznie
+AI
+Sortuj wg nazw
+
+* SCN_END
+Tytu³ Kampanii\nTytu³ scenariusza
+Koniec !!! -  
+Brillant Victory
+Main country name turn xx
+Data
+Zniszczono wszystkie jedn. wroga
+Wynik
+
+* NAME_UNIT
+Nazwa
+
+* SELECT EFILES
+Pliki w folderze
+Foldery "efilowe"
+Utwórz nowy folder "efilowy": (wpisz œcie¿kê)
+
+* MEDIA SETTINGS
+USTAWIENIA MEDIÓW
+Odtwarzaj muzykê
+Odtwarzaj efekty
+Odtwarzaj wideo
+Domyœlna Muzyka 1:
+MAX
+G³oœnoœæ
+Intro : 
+Muzyka Intro: 
+G³oœnoœæ
+MAX
+Efekty i dŸwiêki
+MAX
+G³oœnoœæ
+Odg³os opadów
+MAX
+G³oœnoœæ
+U¿yj MCI zamiast DirectShow
+Teraz odtwarzane:
+Nic nie jest odtwarzane ...
+Domyœlna muzyka 2:
+
+* PICK_SAVEGAME
+Gracz 1
+Gracz 2
+Dostêpne pliki               Folder:
+Dodaj
+Folder
+Typ
+Zapisz bie¿¹cy:
+Tytu³
+Tak¿e zapisy z PG2
+
+* INFO
+Tytu³
+Postêp
+
+* BROWSER
+Dysk:
+Bie¿¹cy folder:
+Typ:
+Tytu³:
+Nazwa:
+Bie¿¹cy folder:
+
+* AAR SETTINGS
+Do³¹cz nazwy jednostek
+Do³¹cz kraje
+Do³¹cz stan jednostek
+Do³¹cz liczbê zniszczeñ
+Kody forumowe
+Do³¹cz stan si³y (Cur / Base)
+W formacie Excel CSV
+Do³¹cz œrednie
+Porównaj zapisy
+Do³¹cz listê rozegranych scenariuszy
+Do³¹cz numery jednostek
+Podsumowanie jednostek gracza
+Opcje raportu
+Do³¹cz kody PEBM
+Poka¿ stan po bitwie (u¿yj base strength)
+Do³¹cz punktacjê
+
+* LOAD_EML
+Nowa gra
+£aduj grê
+Zagraj przez e-mail
+Folder efila
+efolder
+Plik gry
+efolder
+
+* SCREEN SETTINGS
+Szybkoœæ przewijania ekranu [w pixelach]
+Szybkoœæ odœwie¿ania ekranu [ms]
+Iloœæ klatek obrazu na hex podczas ruchu samolotów
+Dodatkowe opóŸnienie podczas ruchu na pe³nym ekranie [ms]
+Iloœæ klatek obrazu na hex podczas ruchu l¹dowego
+Ustawienia obrazu
+Szybkoœæ obrotu jednostek, 0 = brak obrotu
+Szybkoœæ animacji ognia wystrza³u i eksplozji
+
+* BUGREPORT
+Nie za³¹czam ¿adnego pliku
+Za³¹czam ostatni AUTOSAVE
+Za³¹czam nastêpuj¹cy plik:
+Podsumowanie (do 60 znaków)
+Szczegó³y zg³oszenia
+Utworzony przez: (Twój nick)
+Zg³oszenie b³êdu lub wniosku do systemu zarz¹dzania projektem na SourceForge
+Za³¹cznik do zg³oszenia:
+Mo¿esz œledziæ status zg³oszenia i odpowiedzi/komentarze na stronach SourceForge:\nhttps://sourceforge.net/tracker/?group_id=355449
+
+* GAME SETTINGS
+Pozwalaj wysadzaæ
+Pozwalaj naprawiaæ
+Ustawienia gry
+... opcje stosowane do mostów, portów, lotnisk && miast 
+Pozwalaj budowaæ
+Pozwalaj na ogieñ zaporowy
+BB,CV && BC strzelaj¹ jak Flak'i
+Rzeczywisty zasiêg 0 (nie mo¿e strzelaæ do s¹siednich heksów)
+Rzeczywiste pole widzenia 0 (nie widzi s¹siednich heksów)
+Zezwól na u¿ycie wszystkich pe³nych heksów mapy (row, col  0)
+Góry, Miasta && Lasy blokuj¹ ogieñ na wprost przy zasiêgu >2
+W³asne jednostki blokuj¹ liniê ognia (z wyj¹tkiem specjalnych)
+Zaawansowane regu³y obserwacji (lasy, góry blokuj¹ widzenie) 
+Powietrzne strefy kontroli (tak jak na l¹dzie) 
+Samoloty mog¹ byæ ostrzelane przez plot. w czasie przelotu
+Wybierz AI
+Zaawansowane regu³y dróg (sprawdzane przy wejœciu na hex, nie przy wyjœciu)
+Zezwól na drogi na dowolnym terenie (tak¿e na oceanie)
+Posi³ki przybywaj¹ gdy gracz jest aktywny, inaczej ni¿ w PG2 (na pocz.tury)
+Dodane jedn. core licz¹ siê jak proto (domyœlnie jako kupione)
+U¿yj ust. scenariusza
+U¿yj ust. rejestru
+Wy³¹cz AI
+
+* MAIN SETTINGS
+Tryb video:
+Dwukrotny klik na liœcie ³aduje plik
+Ostatnio u¿yte pliki:
+Bie¿¹cy tryb video
+Za³adowany plik:
+Obraz mapy:
+Za³adowany Efile:
+Folder Gry:
+Folder Efile:
+Plik ikon DAT:
+Ustawienia Mediów
+Parametry Scenariusza
+Ustawienia Raportu
+Szer. x Wys. x Kolor
+Ustawienia Obrazu
+Czcionki
+Zapisz ustawienia na dysku
+Tryb PG2:  ON
+Pobieraj mapy JPG (domyœlnie mapy PNG)
+Ustawienia Interfejsu
+
+* USER SETTINGS
+Poka¿ eksplozjê na celu (strza³ z dystansu)
+Wy³¹cz zapis logów (nie bêdzie mo¿na odtworzyæ gry)
+Ustawienia u¿ytkownika
+Podwójny klik prze³¹cza widok strategiczny
+Pokazuj typ terenu na górnej belce
+£aduj animacje pogody do pamiêci
+Pokazuj animacje pogody
+Wy³acz logi tekstowe (Tury AI, debugowanie)
+Tryb PG2:  W£
+Poka¿ eksplozjê zamiast bia³ej flagi
+Poka¿ podpowiedzi.
+Ukryj si³ê jedn. i prognozy wyników
+Poka¿ wyniki staræ na mapie
+Ukryj wskaŸnik paliwa samolotów
+Poka¿ drogi i opisy terenu
+Poka¿ liniê zasiêgu ognia
+Ukryj dane VH/SH na mapie
+Poka¿ siatkê heksów
+Info dostêpne na mapie
+Poka¿ "mg³ê" nieodkrytych heksów
+Wybierz jêzyk u¿ytkownika
+
+* GAME_OPTIONS
+Nowa gra
+Wczytaj grê
+Zapisz grê
+WyjdŸ z gry
+Kliknij dwukrotnie by wybraæ z listy
+Bie¿¹cy plik
+EFile
+
+* PASSW
+Podaj has³o
+
+* MISC FORMATTED TEXT
+Stan pogody: %s
+Gracz: %d * %s
+Strona:%d (%s) * %s  %s
+Stan presti¿u : ?
+Stan presti¿u : %6d
+Modyfikacja prest.: %6d
+Utrzymaj %d VH
+Ostatnia tura
+%d tur
+%d jednostek do wyprowadzenia (turn: %d, %d, %d for BV,V,TV)
+%d jednostek do wyprowadzenia
+Zapobiec ucieczce %d jednostek (turn: %d, %d, %d for BV,V,TV)
+Zapobiec ucieczce %d jednostek 
+Avoid %d player units to Exit (turn: %d, %d, %d for BV,V,TV)
+Avoid %d player units to Exit
+%d jednostek do obrony (turn: %d, %d, %d for BV,V,TV)
+%d jednostek do obrony
+%d jednostek do zniszczenia (turn: %d, %d, %d for BV,V,TV)
+%d jednostek do zniszczenia
+Wersja AI: %s  %s
+Tryb PG2
+Tryb OG
+Okno
+Pe³ny
+Pe³ny: %4d x %4d x %2d  %s
+Okno %4d x %4d x %2d  %s
+Gracz 1: %s
+Gracz 2: %s
+%d scenariuszy
+G1: %s - %s
+G2: %s - %s
+G3: %s - %s
+G4: %s - %s
+Scen: %s * Tura:%d
+Kam: %s\r\nScen: %s * Tura:%d 
+Wynik : (bez punktacji)
+Wynik : %d
+
+* -------------------------------------
+* Pop Messages
+* not so critical about lenght of text
+* -------------------------------------
+Scenariusz [%s]\n nie znaleziono ...
+Chcesz najpierw zapisaæ bie¿¹cy scenariusz?
+Chcesz transport lotniczy?\nUWAGA! Tego ruchu nie mo¿na cofn¹æ!
+Transport zostanie porzucony - kontynuowaæ ? ...
+Uwaga, strzelasz w swój w³asny hex!\nKontynuowaæ? ?\n
+\n Czy na pewno chcesz przerwaæ ruch AI ? \n
+Jednostka jest w trakcie pracy - przerwaæ?
+Jednostka:%d   %s  -  %s\nNa pewno porzuciæ transport: %s   Ruch: %d ?
+\nPotwierdŸ usuniêcie jednostki!\n
+Naprawdê usun¹æ jednostkê?\n\n%s %s \n
+PotwierdŸ utworzenie folderów ...\n%s\n%s\n%s
+Na pewno skasowaæ plik? ...\n%s\n
+Wci¹¿ sprawdzam pliki kampanii... \nPrzerwaæ? \n
+\nNa pewno prze³adowaæ mapê? \n
+Transport jednostki nie ma paliwa!\nCzy ma porzuciæ transport?\n
+Czy chcesz uruchomiæ LG Suite ? 
+Naprawdê chcesz opuœciæ grê ? ...
+
+Test liczb losowych (1,20) %d razy\n
+Efile zawiera %d jednostek\nTylko pierwszych %d jednostek zostanie za³adowanych\n
+%s nie znaleziony ...\nNazwy sprzêtu niedostêpne\n
+Plik kampanii [%s]\nnie znaleziony ...
+Katalog EFILE zmieniony na\n\n%s
+Odtwarzanie XLOG przerwane przez gracza ...
+Koniec odtwarzania XLOG ...
+Nie mo¿na otworzyæ %s\n... test przerwany\n
+%s\nzapisany poprawnie
+B³¹d zapisu:\n%s
+Scenariusz [%s] \n nie zosta³ znaleziony ...
+B³¹d...\nnie mo¿na graæ bez mapy, kiedy jej rozmiar jest nieznany\nPrzerwano ...\n
+Plik zapisu [%s]\nnie znaleziony ...
+To nie jest plik zapisu PG2, mo¿e to plik MS-Excel ?
+To nie jest plik zapisu OpenGen !
+Nie mo¿na utworzyæ pliku\n%s \n
+Ostrze¿enie ...\n %d jednostek ma z³¹ pozycjê na mapie\n Zosta³y przesuniête na hex (1,1)
+Nie okreœlono pliku mapy ...\nlub wyst¹pi³ b³¹d podczas ³adowania scenariusza\nObraz mapy nie zostanie wyœwietlony ...
+Brak pliku mapy %s ...\ni nie znaleziono go tak¿e w sieci ...\n
+Nie mogê otworzyæ pliku map: %d\nObraz mapy nie zostanie wyœwietlony ...
+Mapa prze³adowana poprawnie\n
+Udane rozminowanie ...\n
+Nieudane rozminowanie!\n1 st³umionych do koñca tury\n
+Koniec odtwarzania ...
+Gra za³adowana OK
+Próbujê zapisaæ jako plik xEML ...\n%s \n
+Z³a nazwa dla pliku xEML ...\n
+To nie jest plik PBEM [%s]\n
+Za du¿y rozmiar mapy ...
+%d jednostek usuniêtych z mapy
+AI zatrzymane, naciœnij F5 aby uruchomiæ albo ESC aby przerwaæ ...
+AI zatrzymane, kliknij aby uruchomiæ ...
+Nie mo¿na otworzyæ pliku kampanii: %s\nSprawdŸ go ...
+Przerwane przez gracza ... \n
+Kampania: %s\nSprawdzono %d scenariuszy\nNie brakuje krytycznych plików
+Jednostka:%d %s zajê³a hex na z³ej pozycji (%d,%d)\nProszê zachowaæ ostatni AUTOSAVE* ..\nprzed zakoñczeniem tury w celu analizy\n
+Nie mo¿na porzuciæ transportu kiedy jednostka jest transportowana!
+Gracz %d nie mo¿e kupiæ wiêcej jednostek\nbo ju¿ posiada %d jednostek\n
+Nie mo¿esz kupiæ jednostki o sile 0\nProszê sprawdziæ domyœlne ustawienia si³y jednostek
+Z³y wskaŸnik danych pogody dostêpny w NextWeather()\n
+Z³y okres pogody w NextWeather()\n
+%s ju¿ istnieje ...
+\nTe katalogi zosta³y utworzone:\n%s\n%s\n%s
+%s nie jest poprawnym katalogiem gry ...
+B³¹d...\n
+Osi¹gniêto maks. liczbê nazw\nnie mo¿na dodaæ nazwy
+U¿yj Suite aby zresetowaæ opcje OpenGen w ka¿dym scenariuszu
+Wprowadzono z³e has³o\nSpróbuj ponownie ...
+Czekam zbyt d³ugo\n... naciœnij dowolny klawisz aby przerwaæ program\n
+Stan zapisany z powodzeniem
+Nie mo¿na utworzyæ\n%s
+Stan za³adowany poprawnie
+Nie mo¿na otworzyæ\n%s
+Nie mogê wzmocniæ jednostki ...
+Nie mogê zaopatrzyæ jednostki ...
+\nEdytor Suite musi byæ zlokalizowane w g³ównym katalogu gry \n
+Obroñca uciek³!
+%s \n nie jest prawid³owym katalogiem gry, brak tam pliku DAT \n Musisz wskazaæ prawid³owy katalog gry \n
+B³¹d !\nBrak prawid³owego katalogu gry, nie mo¿esz niestety zagraæ\n
+Nie mogê zapisaæ do pliku\n%s\nUstawienia zapisa³em w rejestrze...\n
+Próba pobrania mapy %d\n Proszê czekaæ ...
+Pliku zapisu [%s]\n nie znaleziono ...
+Za ma³o pamieci video do uruchomienia gry\nKliknij aby wyjœæ ...\n
+Sprawdzanie kampanii przerwane\nProszê czekaæ ...
+
+* These text was missing to translation
+Brak pliku
+Brak obrazka
+Wybierz plik muzyki
+Wybierz plik intro
+Wybierz wideo dla intro
+Otwórz Intro (w folderze SOUND)
+? pomoc dla kodów @. U¿yj PgUp/PgDown by przewijaæ
+Unowoczeœnienia zablokowane w tej bitwie
+AAR (after action report - raport po bitwie)
+Koszt armii: %d  * Bie¿¹cy presti¿: %d  * %s
+Folder
+Nowy, dostêpny sprzêt
+Nowy, dostêpny sprzêt w tym miesi¹cu
+
+* more added
+Przegl¹d mapy - naciœnij ESC aby powróciæ
+Stan pogody: %s (%d kol.do zmiany)
+Tura: %d / %d
+Armia
+Koszt armii
+Dost: %d
+Warunki l¹dowe: %s
+ <D aby zrzuciæ>
+ <A aby wzi¹æ na pok³ad>
+ <N aby zaokrêtowaæ >
+ <Zburzony>
+  Buduje: %s -%d
+Klik.by zobaczyæ dane transportu
+Ctrl+T by opuœciæ
+¯aden
+zosta³eœ nagrodzony prototypem
+%d%% szansy na lidera
+VH do utrzymania
+%d jednostek do wyprowadzenia
+Tura
+Rozmiar bomby
+koszt ruchu - tryb
+Nie znaleziono
+Nazwij jedn.
+Sprawdzam kampaniê
+Scenariusz #%d [%s.scn]
+Plik txt scenariusza [%s.txt]
+Scenariusz #%d [%s]\n[plik map: %s.map]
+Scenariusz #%d [%s]\n[obraz mapy #%d]
+B³¹d krytyczny
+Próbujê za³adowaæ
+tak¿e w internecie
+Za³adowano z sieci
+ESC aby przerwaæ...
+
+Nie mogê otworzyæ scenariusza #%d [%s] aby sprawdziæ mapê\n
+Scenariusz #%d [%s] nie zdefiniowano mapy\n
+Nie mogê otworzyæ scenariusza #%d [%s] aby sprawdziæ mapê\n
+Scenariusz #%d [%s] nie zdefiniowano mapy\n
+W kampanii %s brakuje %d plików\n
+Za³adowano %d plików\n
+Nadal brakuje %d plików
+Wszystkie brakuj¹ce pliki za³adowano z sieci
+AP:%d  Fort:%d  Port:%d  Bridge:%d pp
+Click to show Dossier
+
+* Special attributes
+Cechy dodatkowe
+Brak cech
+Jednostka desantowa
+Mo¿liwy trans. powietrzny
+Jednostka górska
+Jednostka mostowa
+Jednostka in¿ynieryjna
+Ruch fazowy
+Atakowana nie opuszcza transportu
+Atakowana opuszcza transport
+Nie wspiera ogniem
+Wspiera ogniem
+Mo¿liwy atak l¹dowy
+Wspiera doœwiadczeniem
+Mo¿liwy atak plot.
+Zaopatruje samoloty
+Zajmuje heksy
+Samolot pok³adowy
+Transport desantowany
+Saper - mo¿e budowaæ i reperowaæ
+Mo¿e minowaæ
+Mo¿e rozminowywaæ
+Zmech. - mo¿e atakowaæ po ruchu
+Marine - mo¿e poruszaæ siê po desancie z morza
+Nie poddaje siê w wyniku t³umienia
+Po ruchu opuszcza transport
+Nie u¿ywa prowizorycznych l¹dowisk
+Torpedowy/rakietowy
+Przes³ania pole widzenia
+Nie zas³ania linii ognia
+Nie posiada strefy kontroli
+Mo¿e uciec bez walki
+Bombardowanie strategiczne
+Mo¿e burzyæ
+Bez szans na lidera
+Powoduje d³ugotrwa³e t³umienie
+Pogoda bez wp³ywu na wartoœæ bojow¹
+Umiejêtnoœæ szar¿owania
+Brak umiejêtnoœci szar¿owania
+No run out ammo penalty
+Nie przechwytuje samolotów
+Mo¿liwy transport kolejowy
+Mo¿liwy transport œmig³owcowy
+
+* Leaders 879
+Tenacious Defense : +4 do obrony
+Aggressive Maneuver : +1 do ruchu
+Elite Recon Veteran : +2 do pola widzenia
+Tank Killer : Nie traci inicjatywy za strza³ po ruchu
+Marksman : +1 do zasiêgu ognia
+Mechanized Veteran : Mo¿e strzelaæ po ruchu
+Skilled Interceptor : Wielokrotne przechwytywanie
+Skilled Assault : Odporny na pu³apki lotnicze i plot.
+Aggressive Attack : +2 do ataku
+Determined Defense : +2 to obrony
+Battlefield Intelligence : Nie da siê zaskoczyæ, +1 do inic.
+First Strike : Strzela pierwszy jeœli ma przewagê inic.
+Resilience : Mniejsze straty, odporny na efekt "szar¿y"
+Influence : Uzupe³nienia i unowoczeœnienia za pó³ ceny
+Fire Discipline : zu¿ycie amunicji ni¿sze o po³owê
+Liberator : Podwaja presti¿ za flagi
+Mountain Training : Porusza siê po górach i lasach jak po czystym ter.
+All Weather Combat : Atakuje niezale¿nie od pogody
+Camouflage Expert: w miastach,lasach i górach mo¿na go zobaczyæ tylko z s¹siedniego heksa. W razie wejœcia w jego strefê kontroli atakuje z zaskoczenia.
+Combat Support : Wspiera s¹siadów doœwiadczeniem
+Infiltration Tactics : Ignoruje okopanie wroga. Strzela pierwszy jeœli przewaga inic >1
+Aggressive Maneuver : +1 do ruchu
+Skilled Reconnaissance : +2 do pola widzenia
+Reconnaissance Movement : Ruch rozpoznawczy
+Skilled Ground Attack : Bonus do ataku na jedn.l¹dowe
+Street Fighter : Ignoruje miejskie okopanie
+Overwhelming Attack : Powoduje wiêksze zniszczenia
+Superior Maneuver : Ignoruje wrogie strefy kontroli
+Extended Front : Wspiera ogniem s¹siadów
+Ferocious Defense : Nikt nie mo¿e zignorowaæ jego okopania, nie poddaje siê t³umieniu
+Overwatch : Pierwsza jednostka która wejdzie w zasiêg, jest atakowana z zaskoczenia 
+Devastating Fire : Strzela dwa razy
+Bridging : Przechodzi przez rzeki jak przez wertepy, zachowuje siê jak most
+Shock Tactics : Powoduje d³ugotrwa³e t³umienie
+Flak Support : Wsparcie ogniowe + wielokrotne przechwytywanie
+

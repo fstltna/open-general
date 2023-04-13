@@ -1,0 +1,55 @@
+'---
+'Config purchase file for scenario: SSBDM_38.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 116 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+ 386  '  M5  [TPT  Russia]  Cost: 252
+ 482  '  SU-76M  [ AT  Russia]  Cost: 408
+ 489  '  Katyusha 82mm  [ATY  Russia]  Cost: 420
+ 490  '  Katyusha 300m  [ATY  Russia]  Cost: 708
+ 522  '  T-34/41  [ TK  Russia]  Cost: 600
+ 524  '  T-34/43  [ TK  Russia]  Cost: 648
+ 528  '  Gaz-3  [TPT  Russia]  Cost: 72
+ 529  '  Wagon  [TPT  Russia]  Cost: 12
+ 531  '  YaK-9D  [FTR  Russia]  Cost: 792
+ 532  '  La-5FN  [FTR  Russia]  Cost: 792
+ 533  '  La-7  [FTR  Russia]  Cost: 852
+ 536  '  Yak-3  [FTR  Russia]  Cost: 900
+ 539  '  YaK-9K  [FTR  Russia]  Cost: 852
+ 543  '  IL-2m3  [ TB  Russia]  Cost: 780
+ 680  '  Katyusha 132mm  [ATY  Russia]  Cost: 600
+ 697  '  YaK-1M  [FTR  Russia]  Cost: 720
+ 698  '  YaK-7B  [FTR  Russia]  Cost: 684
+ 705  '  IL-M3/37  [ TB  Russia]  Cost: 924
+ 979  '  Pe-2  [ TB  Russia]  Cost: 720
+1777  '  Pe-8  [ LB  Russia]  Cost: 720
+1822  '  T-60 BM-8-24  [ATY  Russia]  Cost: 492
+1847  '  P-39D Airacobra  [FTR  Russia]  Cost: 720
+1850  '  Pe-3  [FTR  Russia]  Cost: 576
+1855  '  Tu-2  [ TB  Russia]  Cost: 864
+1858  '  IL-4  [ LB  Russia]  Cost: 864
+2579  '  Horse  [TPT  Russia]  Cost: 12
+2580  '  Gaz-1  [TPT  Russia]  Cost: 108
+2581  '  Gaz-2  [TPT  Russia]  Cost: 60
+2582  '  Kom-2  [TPT  Russia]  Cost: 144
+2583  '  Gaz-4  [TPT  Russia]  Cost: 84
+2584  '  Kom-3  [TPT  Russia]  Cost: 156
+2585  '  Limber  [TPT  Russia]  Cost: 12
+2586  '  Kom-4  [TPT  Russia]  Cost: 168
+2587  '  Mules  [TPT  Russia]  Cost: 12
+2731  '  Gaz-5  [TPT  Russia]  Cost: 96
+3334  '  BM-13-16  [ATY  Russia]  Cost: 708
+4691  '  Suicide Bisnovat  [ TB  Russia]  Cost: 36
+4706  '  Tu-2s  [ TB  Russia]  Cost: 864
+5315  '  SU-76  [ATY  Russia]  Cost: 552
+5622  '  SU-104  [ AT  Russia]  Cost: 504
+7909  '  Suicide Antonav  [ TB  Russia]  Cost: 48
+7980  '  SU-152 How  [ATY  Russia]  Cost: 1248
+7988  '  Shocktroops SU-37  [INF  Russia]  Cost: 516
+7990  '  Road Transporter  [TPT  Russia]  Cost: 120

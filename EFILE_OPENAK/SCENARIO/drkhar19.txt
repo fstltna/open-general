@@ -1,0 +1,466 @@
+Kharkov
+I/2/Das Reich/[SS Pz]
+II/2/Das Reich/[SS Pz]
+I/D/Das Reich/[SS Pz]
+II/D/Das Reich/[SS Pz]
+III/D/Das Reich/[SS Pz]
+I/DF/Das Reich/[SS Pz]
+II/DF/Das Reich/[SS Pz]
+III/DF/Das Reich/[SS Pz]
+I/L/Das Reich/[SS Pz]
+II/L/Das Reich/[SS Pz]
+StuG Bn/Das Reich/[SS Pz]
+I/2/Das Reich/[SS Pz]
+II/2/Das Reich/[SS Pz]
+III/2/Das Reich/[SS Pz]
+IV/2/Das Reich/[SS Pz]
+Aufk. Bn/Das Reich/[SS Pz]
+Flak Bn/Das Reich/[SS Pz]
+II/1/LSSAH/[SS Pz]
+I/1/KG Meyer/[SS Pz]
+I/1/LSSAH/[SS Pz]
+II/1/LSSAH/[SS Pz]
+III/1/LSSAH/[SS Pz]
+I/2/LSSAH/[SS Pz]
+II/2/LSSAH/[SS Pz]
+III/2/LSSAH/[SS Pz]
+StuG Bn/LSSAH/[SS Pz]
+Aufk. Bn/KG Meyer/[SS Pz]
+Flak Bn/LSSAH/[SS Pz]
+Pion. Bn/LSSAH/[SS Pz]
+I/1/LSSAH/[SS Pz]
+II/1/LSSAH/[SS Pz]
+III/1/LSSAH/[SS Pz]
+IV/1/LSSAH/[SS Pz]
+I/3/Totenkopf/[SS Pz]
+II/3/Totenkopf/[SS Pz]
+I/T/Totenkopf/[SS Pz]
+II/T/Totenkopf/[SS Pz]
+III/T/Totenkopf/[SS Pz]
+I/Eicke/Totenkopf/[SS Pz]
+II/Eicke/Totenkopf/[SS Pz]
+III/Eicke/Totenkopf/[SS Pz]
+StuG Bn/Totenkopf/[SS Pz]
+I/3/Totenkopf/[SS Pz]
+II/3/Totenkopf/[SS Pz]
+III/3/Totenkopf/[SS Pz]
+IV/3/Totenkopf/[SS Pz]
+Aufk. Bn/Totenkopf/[SS Pz]
+Flak Bn/Totenkopf/[SS Pz]
+I/SS-Rgt Thule/[Raus]
+II/SS-Rgt Thule/[Raus]
+I/320/320 Inf Div/[Raus]
+I/586/320 Inf Div/[Raus]
+II/586/320 Inf Div/[Raus]
+I/11/6 Pz Div/[XXXXVIII]
+II/11/6 Pz Div/[XXXXVIII]
+I/76/6 Pz Div/[XXXXVIII]
+II/76/6 Pz Div/[XXXXVIII]
+III/76/6 Pz Div/[XXXXVIII]
+6/-/6 Pz Div/[XXXXVIII]
+298/-/6 Pz Div/[XXXXVIII]
+I/4/6 Pz Div/[XXXXVIII]
+II/4/6 Pz Div/[XXXXVIII]
+I/114/6 Pz Div/[XXXXVIII]
+II/114/6 Pz Div/[XXXXVIII]
+57/-/6 Pz Div/[XXXXVIII]
+I/15/11 Pz Div/[XXXXVIII]
+II/15/11 Pz Div/[XXXXVIII]
+I/110/11 Pz Div/[XXXXVIII]
+II/110/11 Pz Div/[XXXXVIII]
+I/111/11 Pz Div/[XXXXVIII]
+II/111/11 Pz Div/[XXXXVIII]
+I/119/11 Pz Div/[XXXXVIII]
+II/119/11 PzDiv/[XXXXVIII]
+III/119/11 Pz Div/[XXXXVIII]
+61/-/11 Pz Div/[XXXXVIII]
+I/GD/Grossdeutschland
+II/GD/Grossdeutschland
+I/Gren/Grossdeutschland
+II/Gren/Grossdeutschland
+III/Gren/Grossdeutschland
+I/Fus/Grossdeutschland
+II/Fus/Grossdeutschland
+III/Fus/Grossdeutschland
+StuG Bn/Grossdeutschland
+I/GD/Grossdeutschland
+II/GD/Grossdeutschland
+III/GD/Grossdeutschland
+IV/GD/Grossdeutschland
+Aufk. Bn/Grossdeutschland
+Pion. Bn/Grossdeutschland
+SS-Werfer-Abt. 102/[SS Pz]
+IV. Flieger-Korps
+IV. Flieger-Korps
+IV. Flieger-Korps
+I. Flieger-Korps
+I. Flieger-Korps
+30 Tk Bde/12 Tk Cps/[3T]
+106 Tk Bde/12 Tk Cps/[3T]
+13 Rif Bde/12 Tk Cps/[3T]
+286/111 Rif Div/[3T]
+468/111 Rif Div/[3T]
+532/111 Rif Div/[3T]
+616/184 Rif Div/[3T]
+262/184 Rif Div/[3T]
+294/184 Rif Div/[3T]
+297/184 Rif Div/[3T]
+673/219 Rif Div/[3T]
+375/219 Rif Div/[3T]
+710/219 Rif Div/[3T]
+727/219 Rif Div/[3T]
+917/350 Rif Div/[3T]
+1176/350 Rif Div/[3T]
+1178/350 Rif Div/[3T]
+1180/350 Rif Div/[3T]
+53/25 Grd Rif Div/[3T]
+73/25 Grd Rif Div/[3T]
+78/25 Grd Rif Div/[3T]
+81/25 Grd Rif Div/[3T]
+29/-/25 Grd Rif Div/[3T]
+28/-/25 Grd Rif Div/[3T]
+98/48 Grd Rif Div/[3T]
+138/48 Grd Rif Div/[3T]
+143/48 Grd Rif Div/[3T]
+146/48 Grd Rif Div/[3T]
+131/62 Grd Rif Div/[3T]
+182/62 Grd Rif Div/[3T]
+184/62 Grd Rif Div/[3T]
+186/62 Grd Rif Div/[3T]
+90/19 Rif Div/[3T]
+32/19 Rif Div/[3T]
+315/19 Rif Div/[3T]
+1310/19 Rif Div/[3T]
+566/160 Rif Div/[69]
+443/160 Rif Div/[69]
+537/160 Rif Div/[69]
+636/160 Rif Div/[69]
+810/270 Rif Div/[69]
+973/270 Rif Div/[69]
+975/270 Rif Div/[69]
+977/270 Rif Div/[69]
+830/305 Rif Div/[69]
+1000/305 Rif Div/[69]
+1002/305 Rif Div/[69]
+1004/305 Rif Div/[69]
+347/107 Rif Div/[69]
+586/107 Rif Div/[69]
+630/107 Rif Div/[69]
+765/107 Rif Div/[69]
+623/183 Rif Div/[69]
+227/183 Rif Div/[69]
+285/183 Rif Div/[69]
+295/183 Rif Div/[69]
+911/340 Rif Div/[69]
+1140/340 Rif Div/[69]
+1142/340 Rif Div/[69]
+1144/340 Rif Div/[69]
+1 Separate Czech Bn/[3T]
+16/4 Grd Mortar Div/[3T]
+314/4 Grd Mortar Div/[3T]
+29/8 Grd Cav Div/[6 GCC]
+31/8 Grd Cav Div/[6 GCC]
+33/8 Grd Cav Div/[6 GCC]
+46/13 Grd Cav Div/[6 GCC]
+48/13 Grd Cav Div/[6 GCC]
+50/13 Grd Cav Div/[6 GCC]
+2/8 Cav Div/[6 GCC]
+49/8 Cav Div/[6 GCC]
+115/8 Cav Div/[6 GCC]
+17 NKVD Rifle Bde/[3T]
+253 Rifle Bde/[3T]
+6/1 Destroyer Div/[69]
+232/86 Tk Bde/[3T]
+86/86 Tk Bde/[3T]
+378/173 Tk Bde/[69]
+173/173 Tk Bde/[69]
+179 Tk Bde/[3T]
+179/179 Tk Bde/[3T]
+195 Tk Bde/[3T]
+201 Tk Bde/[3T]
+III/Werfer-Rgt 55/[Raus]
+38/8 Artillery Div/[3T]
+206/8 Artillery Div/[3T]
+2 Air Army
+2 Air Army
+2 Air Army
+2 Air Army
+2 Air Army
+480/152 Rif Div/[6]
+4 Grd Tk Bde/2 Grd Tk Cps
+39 Separate Tk Bn
+379/173 Tk Bde/[69]
+233/86 Tk Bde/[3T]
+146 Grd AT Rgt/[6 GCC]
+179 Tk Bde/[3T]
+97 Tk Bde/12 Tk Cps/[3T]
+37 Rifle Bde/[69]
+41/-/6 Pz Div/[XXXXVIII]
+288/8 Artillery Div/[3T]
+Merla River
+Merla River
+Udy River
+Lopan' River
+Khar'kov River
+Bogodukhov
+Bogodukhov
+Merla River
+Merla River
+Klenovo
+Udy River
+Dolshik
+Lopan' River
+Khar'kov River
+Merla River
+Merla River
+Udy River
+Lopan' River
+Russkaya Lozovaya
+Khar'kov River
+Merla River
+Merla River
+Merla River
+Krysino
+Udy River
+Lopan' River
+Dergachi
+Khar'kov River
+Khar'kov River
+Merla River
+Merla River
+Merla River
+Udy River
+Lopan' River
+Lopan' River
+Khar'kov River
+Tsirkuny
+Merla River
+Merla River
+Merchik River
+Olshany
+Olshany
+Udy River
+Lopan' River
+Khar'kov River
+Merla River
+Merchik River
+Olshany
+Udy River
+Udy River
+Peresechnaya
+Gavrilovka
+Lopan' River
+Khar'kov
+Khar'kov River
+Murafa
+Merchik River
+Merchik River
+Merchik River
+Merchik River
+Merchik River
+Merchik River
+Merchik River
+Merchik River
+Udy River
+Udy River
+Udy River
+Khar'kov
+Khar'kov
+Khar'kov
+Khar'kov
+Khar'kov
+Sharovka
+Merchik River
+Merchik River
+Merchik River
+Udy River
+Udy River
+Udy River
+Khar'kov
+Khar'kov
+Khar'kov
+Khar'kov
+Novyi Merchik
+Merchik River
+Merchik River
+Merchik River
+Merchik River
+Merchik River
+Staryi Lyubotin
+Pesochin
+Udy River
+Udy River
+Khar'kov
+Khar'kov
+Khar'kov
+Khar'kov
+Tractor Works
+Staryi Merchik
+Merchik River
+Lyubotin
+Lyubotin
+Korotich
+Udy River
+Udy River
+Khar'kov
+Vysokopol'ye
+Merefa River
+Udy River
+Kovyagi
+Merefa River
+Merefa River
+Udy River
+Bezlyudovka
+Kolomak River
+Kolomak River
+Kolomak River
+Kolomak River
+Kovyagi
+Ogult'sy
+Merefa River
+Merefa River
+Yuzhny
+Udy River
+Udy River
+Kolomak River
+Perekop
+Merefa River
+Udy River
+Kolomak River
+Kolomak River
+Valki
+Odrynka
+Merefa River
+Udy River
+Kolomak
+Kolomak River
+Valki
+Valki
+Merefa River
+Udy River
+Udy River
+Udy River
+Udy River
+Kolomak River
+Kolomak River
+Mzha River
+Mzha River
+Merefa River
+Merefa
+Borovaya
+Kolomak River
+Mzha River
+Mzha River
+Bridok
+Mzha River
+Mzha River
+Merefa River
+Merefa
+Kolomak River
+Seneshkov Kut
+Mzha River
+Mzha River
+Mzha River
+Mzha River
+Mzha River
+Rakitnoye
+Mzha River
+Mzha River
+Merefa River
+Merefa
+Staraya Vodolaga
+Mzha River
+Mzha River
+Mzha River
+Mzha River
+Mzha River
+Mzha River
+Orchik River
+Rudoi Bairak
+Mzha River
+Mzha River
+Masulevka
+Orchik River
+Mzha River
+Mzha River
+Orchik River
+Novaya Vodolaga
+Novaya Vodolaga
+Sokolovo
+Mzha River
+Mzha River
+Zamostye
+Orchik River
+Orchik River
+Borki
+Mzha River
+Zmiyev
+Zmiyev
+Zid'ki
+Northern Donets River
+Blagodatnoye
+Orchik River
+Mzha River
+Northern Donets River
+Northern Donets River
+Orchik River
+Orchik River
+Northern Donets River
+Orchik River
+Nikolskoye
+Taranovka
+Northern Donets River
+Orchik River
+Orchik River
+Stanichny
+Taranovka
+Northern Donets River
+Ol'khovatka
+Orchik River
+Orchik River
+Berestovaya River
+Northern Donets River
+Orchik River
+Orchik River
+Karavanskoye
+Berestovaya River
+Berestovaya River
+Northern Donets River
+Northern Donets River
+Orchik River
+Krestishche
+Staroverovka
+Okhocheye
+Berestovaya River
+Berestovaya River
+Northern Donets River
+Staroverovka
+Berestovaya River
+Berestovaya River
+Novoberetskij
+Northern Donets River
+Northern Donets River
+Paraskovaya
+Berestovaya River
+Berestovaya River
+Berestovaya River
+Berestovaya River
+Tishinkovka
+Berestovenka
+Berestovaya River
+Bereka
+Verkhnij Bishkin
+Berestovaya River
+Berestovaya River
+Medvedovka
+Berestovaya River
+Bereka River
+Berestovaya River
+Berestovaya River
+Yefremovka
+Bereka River
+Berestovaya River
+Berestovaya River
+Orel' River
+Bereka River
+Bereka River

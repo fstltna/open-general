@@ -1,0 +1,287 @@
+
+* The TERRAINEX.TXT file made more reader friendly
+* (does not affect gameplay).
+
+
+*
+***
+
+* EFILE_OoB\TerrainEx.txt created by OpenSuite
+
+***
+
+* Terrain type, base-entrenchment, initiative-cap, supply-factor, allow-bridge
+
+* supply factor is a ratio (2 mean half): can be empty or 0 for full supply
+
+* allow-bridge can be empty or zero to be default (no bridge); set to 1 to allow bridge 
+
+* avoid_mech-landing restrict units using Mech Movement from landing
+* - Mech Movementis any of: TRACK,HALF_TRACK, WHEEL, ALL_TERRAIN or AMPHIBIOUS
+
+* First 3 parameters (type/entrench/inititiative) must be defined,
+
+* while supply-factor and allow-bridge take default values if omitted (4 for SAND, zero for rest).
+*
+[terrain-data]
+
+*Terrain= 	base-entrench, 	initiative-cap, 	supply-factor, 	allow-bridge, 	Avoid-Mech-Landing
+ 
+0=countryside,		0,	99,		%90,		0,		0
+ 
+1=town/city,		2,	 1,		%100,		0,		0
+ 
+2=airfield,		1,	99,		%100,		0,		0
+ 
+3=forest,			2,	 3,		%80,		0,		0
+ 
+4=bocage/rubble,		3,	 3,		%80,		0,		0
+ 
+5=hill,			2,	 5,		%80,		0,		0
+ 
+6=mountain,		3,	 1,		%70,		0,		0
+ 
+7=sand,			0,	99,		%30,		0,		0
+ 
+8=swamp,		0,	 2,		%70,		0,			
+0
+ 9=ocean,		0,	99,		%0,		0,			
+0
+10=river,		0,	99,		%75,		1,			
+0
+11=fortification,		4,	 3,		%100,		0,			
+0
+12=port,			2,	 5,		%100,		0,			
+0
+13=stream,		0,	99, 		%85,		1,			
+0
+14=escarpment,		0,	99,		%0,		0,			
+0
+15=impassable river,	0,	99,		%70,		0,			
+0
+16=rough,		1,	 3,		%80,		0,			
+0
+17=snow,		1,	 2,  		%75,		0,			
+0
+18=shallow,	       	0, 	99,  		%100,  		0,  		0
+
+
+***
+
+* Supply modifiers: will be added to terrain supply percentage
+
+* replace 0 (default with proper values
+
+***
+
+[road-supply=20]
+[rail-supply=15]
+[frozen-supply=-15]
+[mud-supply=-30]
+
+
+***
+
+* Cost to enter terrain, each movement method and ground condition (dry/frozen/mud)
+
+* (254=all movement factors 255=not allowed)
+
+* Format:
+
+* #X		* movement method
+
+* @0 dry   = value for each terrain comma delimited		
+
+* @1 frozen = value for each terrain comma delimited		
+
+* @2 mud   = value for each terrain comma delimited
+
+*
+**
+*
+
+[terrain-cost]
+
+#0	*Tracked
+*          	Clr,City,  AP,Wood, Boc,Hill, Mtn,Sand,Swmp,Ocen, Riv,Fort,Port,Strm,Esca,ImRi,Rogh, Cus,Shal
+
+@0 dry   = 		002, 002, 002, 004, 008, 004, 254, 002, 008,   255, 254, 002, 002, 006, 255,    255, 004, 004, 255 
+
+@1 frozen= 		003, 002, 002, 006, 008, 004, 254, 002, 004,   255, 004, 003, 002, 004, 255,    255, 004, 004, 255 
+
+@2 mud   = 		006, 002, 002, 006, 254, 006, 254, 004, 254,   255, 255, 004, 002, 008, 255,    255, 006, 254, 255 
+
+
+#1	*Half Tracked
+*       Clr,City,  AP,Wood, Boc,Hill, Mtn,Sand,Swmp,Ocen, Riv,Fort,Port,Strm,Esca,ImRi,Rogh, Cus,Shal
+
+@0 dry   = 		002, 002, 002, 006, 008, 004, 254, 002, 008,   255, 254, 002, 002, 006, 255,    255, 004, 004, 255 
+
+@1 frozen= 		004, 002, 002, 006, 254, 006, 254, 002, 004,   255, 004, 003, 002, 004, 255,    255, 006, 004, 255 
+
+@2 mud   = 		006, 002, 002, 006, 254, 008, 254, 006, 254,   255, 255, 006, 002, 008, 255,    255, 008, 254, 255 
+
+
+#2	*Wheeled
+*          	Clr,City,  AP,Wood, Boc,Hill, Mtn,Sand,Swmp,Ocen, Riv,Fort,Port,Strm,Esca,ImRi,Rogh, Cus,Shal
+
+@0 dry   = 		004, 002, 002, 008, 254, 008, 254, 006, 255,   255, 254, 004, 002, 008, 255,   255, 006, 006, 255 
+
+@1 frozen= 		006, 003, 003, 254, 254, 254, 254, 006, 006,   255, 006, 006, 003, 006, 255,    255, 008, 006, 255 
+
+@2 mud   = 		254, 003, 003, 254, 254, 254, 254, 008, 255,   255, 255, 008, 003, 254, 255,    255, 254, 254, 255 
+
+
+#3	*Leg
+*          	Clr,City,  AP,Wood, Boc,Hill, Mtn,Sand,Swmp,Ocen, Riv,Fort,Port,Strm,Esca,ImRi,Rogh, Cus,Shal
+
+@0 dry   = 		002, 002, 002, 003, 004, 004, 005, 004, 004,   255, 254, 002, 002, 002, 255,    255, 003, 004, 255 
+
+@1 frozen= 		004, 002, 002, 004, 004, 004, 254, 004, 004,   255, 004, 003, 002, 004, 255,    255, 004, 004, 255 
+
+@2 mud   = 		004, 002, 002, 004, 004, 004, 254, 006, 006,   255, 254, 004, 002, 004, 255,    255, 006, 006, 255 
+
+
+#4	*Towed
+*          	Clr,City,  AP,Wood, Boc,Hill, Mtn,Sand,Swmp,Ocen, Riv,Fort,Port,Strm,Esca,ImRi,Rogh, Cus,Shal
+
+@0 dry   = 		002, 002, 002, 004, 004, 004, 004, 004, 255,   255, 254, 002, 002, 254, 255,    255, 004, 004, 255 
+
+@1 frozen= 		004, 002, 002, 004, 004, 004, 004, 004, 004,   255, 004, 002, 002, 004, 255,    255, 004, 004, 255 
+
+@2 mud   = 		004, 004, 004, 004, 004, 004, 004, 004, 255,   255, 255, 004, 004, 254, 255,    255, 004, 004, 255 
+
+
+#5	*Air
+*          	Clr,City,  AP,Wood, Boc,Hill, Mtn,Sand,Swmp,Ocen, Riv,Fort,Port,Strm,Esca,ImRi,Rogh, Cus,Shal
+
+@0 dry   = 		002, 002, 002, 002, 002, 002, 002, 002, 002,   002, 002, 002, 002, 002, 002,    002, 002, 002, 002 
+
+@1 frozen= 		002, 002, 002, 002, 002, 002, 002, 002, 002,   002, 002, 002, 002, 002, 002,    002, 002, 002, 002 
+
+@2 mud   = 		002, 002, 002, 002, 002, 002, 002, 002, 002,   002, 002, 002, 002, 002, 002,    002, 002, 002, 002 
+
+
+#6	*Deep Naval
+*          Clr,City,  AP,Wood, Boc,Hill,Mtn,Sand,Swmp,Ocen,Riv,Fort,Port,Strm,Esca,ImRi,Rogh, Cus,Shal
+
+@0 dry   = 		255, 255, 255, 255, 255, 255, 255, 255, 255,   002, 255, 255, 002, 255, 255,    255, 255, 255, 255 
+
+@1 frozen= 		255, 255, 255, 255, 255, 255, 255, 255, 255,   002, 255, 255, 002, 255, 255,    255, 255, 255, 255 
+
+@2 mud   = 		255, 255, 255, 255, 255, 255, 255, 255, 255,   002, 255, 255, 002, 255, 255,    255, 255, 255, 255 
+
+
+#7	*Coastal
+*          	Clr,City,  AP,Wood, Boc,Hill, Mtn,Sand,Swmp,Ocen, Riv,Fort,Port,Strm,Esca,ImRi,Rogh, Cus,Shal
+
+@0 dry   = 		255, 255, 255, 255, 255, 255, 255, 255, 255,   004, 002, 255, 002, 255, 255,    002, 255, 255, 002 
+
+@1 frozen= 		255, 255, 255, 255, 255, 255, 255, 255, 255,   004, 255, 255, 002, 255, 255,    255, 255, 255, 002 
+
+@2 mud   = 		255, 255, 255, 255, 255, 255, 255, 255, 255,   004, 254, 255, 002, 255, 255,    002, 255, 255, 002 
+
+
+#8	*All Terrain
+*          Clr,City,  AP,Wood, Boc,Hill, Mtn,Sand,Swmp,Ocen, Riv,Fort,Port,Strm,Esca,ImRi,Rogh, Cus,Shal
+
+@0 dry   = 		003, 002, 002, 006, 006, 006, 254, 004, 254,   255, 254, 002, 002, 004, 255,    255, 006, 004, 255 
+
+@1 frozen= 		004, 002, 002, 006, 006, 006, 254, 004, 004,   255, 004, 004, 002, 004, 255,    255, 006, 004, 255 
+
+@2 mud   = 		006, 002, 002, 006, 254, 008, 254, 006, 255,   255, 255, 006, 002, 254, 255,    255, 008, 254, 255 
+
+
+#9	*Amphibious
+*          Clr,City,  AP,Wood, Boc,Hill, Mtn,Sand,Swmp,Ocen, Riv,Fort,Port,Strm,Esca,ImRi,Rogh, Cus,Shal
+
+@0 dry   = 		002, 002, 002, 006, 008, 006, 254, 002, 004,   254, 004, 002, 002, 004, 255,    255, 006, 004, 004 
+
+@1 frozen= 		004, 002, 002, 008, 008, 006, 254, 002, 004,   254, 004, 002, 002, 004, 255,    255, 006, 004, 004 
+
+@2 mud   = 		006, 002, 002, 008, 254, 006, 254, 004, 006,   254, 006, 004, 002, 006, 255,    255, 006, 254, 004 
+
+
+#10	*Naval
+*          	Clr,City,  AP,Wood, Boc,Hill, Mtn,Sand,Swmp,Ocen, Riv,Fort,Port,Strm,Esca,ImRi,Rogh, Cus,Shal
+
+@0 dry   = 		255, 255, 255, 255, 255, 255, 255, 255, 255,   002, 255, 255, 002, 255, 255,   255, 255, 255, 002 
+
+@1 frozen= 		255, 255, 255, 255, 255, 255, 255, 255, 255,   002, 255, 255, 002, 255, 255,    255, 255, 255, 002 
+
+@2 mud   = 		255, 255, 255, 255, 255, 255, 255, 255, 255,   002, 255, 255, 002, 255, 255,   255, 255, 255, 002 
+
+
+#11	*Mountain (Leg)
+*    Clr,City,  AP,Wood, Boc,Hill, Mtn,Sand,Swmp,Ocen, Riv,Fort,Port,Strm,Esca,ImRi,Rogh, Cus,Shal
+
+@0 dry   = 		002, 002, 002, 003, 004, 003, 003, 004, 004,   255, 254, 002, 002, 002, 255,    255, 002, 003, 255 
+
+@1 frozen= 		003, 002, 002, 003, 004, 004, 004, 003, 003,   255, 003, 002, 002, 003, 255,    255, 004, 003, 255 
+
+@2 mud   = 		004, 002, 002, 004, 004, 004, 006, 004, 006,   255, 254, 004, 002, 004, 255,    255, 004, 006, 255 
+
+
+#12	*Train
+*          	Clr,City,  AP,Wood, Boc,Hill, Mtn,Sand,Swmp,Ocen, Riv,Fort,Port,Strm,Esca,ImRi,Rogh, Cus,Shal
+
+@0 dry   = 		255, 255, 255, 255, 255, 255, 255, 255, 255,   255, 255, 255, 255, 255, 255,    255, 255, 255, 255 
+
+@1 frozen= 		255, 255, 255, 255, 255, 255, 255, 255, 255,   255, 255, 255, 255, 255, 255,    255, 255, 255, 255 
+
+@2 mud   = 		255, 255, 255, 255, 255, 255, 255, 255, 255,   255, 255, 255, 255, 255, 255,    255, 255, 255, 255 
+
+#13	*Wagon
+*    	Clr,City,  AP,Wood, Boc,Hill, Mtn,Sand,Swmp,Ocen, Riv,Fort,Port,Strm,Esca,ImRi,Rogh, Cus,Shal
+
+@0 dry   = 		002, 002, 002, 006, 006, 006, 254, 004, 254,   255, 254, 002, 002, 004, 255,   255, 006, 003, 255 
+
+@1 frozen= 		003, 002, 002, 006, 006, 006, 254, 004, 003,   255, 003, 004, 002, 004, 255,   255, 006, 003, 255 
+
+@2 mud   = 		006, 002, 002, 006, 254, 008, 254, 006, 255,   255, 255, 006, 002, 254, 255,    255, 008, 254, 255 
+
+
+#14 	*Skis
+*		Clr,City,  AP,Wood, Boc,Hill, Mtn,Sand,Swmp,Ocen, Riv,Fort,Port,Strm,Esca,ImRi,Rogh, Cus,Shal
+
+@0 dry   = 		255, 255, 255, 255, 255, 255, 255, 255, 255,   255, 255, 255, 255, 255, 255,    255, 255, 002, 255 
+
+@1 frozen= 		002, 002, 002, 003, 004, 003, 003, 002, 002,   255, 002, 002, 002, 002, 255,    255, 002, 002, 255 
+
+@2 mud   = 		255, 255, 255, 255, 255, 255, 255, 255, 255,   255, 255, 255, 255, 255, 255,    255, 255, 003, 255 
+
+
+***
+
+* Roads/Rails modifiers to enter terrain, each movement method and ground condition (dry/frozen/mud)
+
+* (254=all movement factors 255=not allowed)
+*
+
+* @0 dry = value for each movement method, comma delimited		
+
+* @1 froz= value for each movement method, comma delimited		
+
+* @2 mud = value for each movement method, comma delimited
+*
+***
+
+[roads-cost]	
+*Track,Half,Wheel,Leg,Towed,  Air, Deep,Coast,  All, Amph,Naval,Mount, Rail, Wagn, Cus
+
+@0 dry   =  	002,   002,  002,  002,  002,     002,  255,  255,  002,  002,  255,   002,   255,   002,   255
+
+@1 frozen=  	002,   002,  003,  002,  002,     002,  255,  255,  002,  002,  255,   002,   255,   002,   002
+
+@2 mud   =  	004,   004,  004,  002,  004,     002,  255,  255,  004,  004,  255,   002,   255,   004,   255
+
+
+[rails-cost]
+	*Track,Half,Wheel,Leg,Towed,  Air, Deep,Coast,  All, Amph,Naval,Mount, Rail, Wagn, Cus
+
+@0 dry   =  	002,  002,  004,   002,  004,     002,  255,  255, 	003,  002,  255,   002,   002,   002,   255
+
+@1 frozen=  	002,  002,  006,   002,  004,     002,  255,  255, 	003,  002,  255,   002,   002,   003,   002
+
+@2 mud   =  	004,  004,  006,  002,   004,     002,  255,  255, 	006,  004,  255,   002,   002,   004,   255
+

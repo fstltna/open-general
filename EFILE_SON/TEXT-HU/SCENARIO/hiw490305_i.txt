@@ -1,0 +1,10 @@
+Szolnok-Cibakháza
+1849. III. 5.
+
+Tábornok úr! Hadat ígértem Önnek, s most van hada, ágyúkat, s most van ágyúja. Ön nekem gyõzelmet ígért, hát gyõzzön! Bem napokon belül beveszi Nagyszebent, és megtisztítja Erdélyt. A véráztatta Délvidéket a télen ki kellett ürítenünk, de eme föld elûzött magyarjaiból új sereg támadt, melynek zászlain csak egy szó áll: Bosszú! A Tiszánál pedig itt áll a fõsereg, melynél nagyobb és erõsebb magyar hadat még nem hordott hátán a Föld. E nagy sereghez, és kiváló vezéreihez csak egy cél lehet méltó: a Haza teljes felszabadítása. Az Ön feladata a szolnoki átkelõ biztosítása.
+
+A Honvédelmi Bizottmány egy gyalogsági egységet helyez a parancsnoksága alá.
+
+Elhelyezhetõ egység: 21
+
+KÜLDETÉS: Foglald el az összes gyõzelmi pontot.

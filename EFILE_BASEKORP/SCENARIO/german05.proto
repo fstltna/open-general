@@ -1,0 +1,9 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 170  '  Fw 190F-3  [ TB  Germany]  Cost: 804
+ 171  '  Fw 190G-1  [ TB  Germany]  Cost: 936
+4551  '  Fw 190G-3  [ TB  Germany]  Cost: 876

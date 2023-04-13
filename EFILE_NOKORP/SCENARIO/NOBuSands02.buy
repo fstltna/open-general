@@ -1,0 +1,250 @@
+'---
+'Config purchase file for scenario: NOBuSands02.xscn
+'* List of items to purchase all active players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=242 items  ' Replacement for default list
+  65  '  20mm Flakvierling 38 L/65  [FlaK  Germany]  Cost: 204
+  66  '  37mm Pak36 (Airborne)  [ AT  Germany]  Cost: 96
+  67  '  37mm Flak 36  [ AD  Germany]  Cost: 144
+  74  '  SdKfz 6/2   (37mm Flak36)  [ AD  Germany]  Cost: 252
+  75  '  SdKfz 10/4  (20mm Flak30)  [FlaK  Germany]  Cost: 264
+  77  '  50mm Pak38  [ AT  Germany]  Cost: 144
+  89  '  Panzerjäger I  [ AT  Germany]  Cost: 228
+  92  '  105mm leFH18  [ATY  Germany]  Cost: 240
+  93  '  150mm sFH18  [ATY  Germany]  Cost: 636
+  95  '  75mm leFK18  [ATY  Germany]  Cost: 192
+  96  '  L2H43 Protze / 20mm Flak38  [FlaK  Germany]  Cost: 276
+ 101  '  Sturmpanzer I Bison  150mm  [ATY  Germany]  Cost: 552
+ 102  '  150mm sIG33  [ATY  Germany]  Cost: 480
+ 103  '  StuG IIIB  [ AT  Germany]  Cost: 312
+ 110  '  Sturmpioniere 40  [INF  Germany]  Cost: 372
+ 114  '  Fallschirmjäger 40  [INF  Germany]  Cost: 360
+ 115  '  Infanterie 40  [INF  Germany]  Cost: 108
+ 117  '  Psw 222  [RCN  Germany]  Cost: 192
+ 118  '  Psw 231/8  [RCN  Germany]  Cost: 288
+ 135  '  Pz 35(t)  [ TK  Germany]  Cost: 300
+ 136  '  Pz 38(t)  [ TK  Germany]  Cost: 348
+ 138  '  Pz IA  [ TK  Germany]  Cost: 276
+ 139  '  Pz IB  [ TK  Germany]  Cost: 288
+ 143  '  Pz IIIG  [ TK  Germany]  Cost: 432
+ 148  '  Pz IVD  [ TK  Germany]  Cost: 600
+ 156  '  SdKfz 251  [TPT  Germany]  Cost: 180
+ 157  '  Blitz 3.6  [TPT  Germany]  Cost: 60
+ 158  '  Wagon  [TPT  Germany]  Cost: 12
+ 159  '  Bf 109 E-3  [FTR  Germany]  Cost: 636
+ 162  '  Bf 110 C-4  [FTR  Germany]  Cost: 672
+ 173  '  Ju 87 B-1  [ TB  Germany]  Cost: 564
+ 198  '  20mm 20/65 (Breda Model 35)  [FlaK  Italy]  Cost: 156
+ 199  '  Fiat 626 / Breda M35  [FlaK  Italy]  Cost: 180
+ 200  '  47mm 47/32  [ AT  Italy]  Cost: 132
+ 202  '  90mm 90/53  [ AT  Italy]  Cost: 444
+ 204  '  100mm 100/17  [ATY  Italy]  Cost: 216
+ 205  '  149mm 149/13  [ATY  Italy]  Cost: 540
+ 213  '  Genio Guastatori 38  [INF  Italy]  Cost: 372
+ 224  '  Fiat 626  [TPT  Italy]  Cost: 60
+ 225  '  Wagon  [TPT  Italy]  Cost: 24
+ 227  '  MC.200 Saetta  [FTR  Italy]  Cost: 504
+ 230  '  Re.2000 Falco I  [FTR  Italy]  Cost: 528
+ 232  '  Ba.65  [ TB  Italy]  Cost: 456
+ 233  '  Ca.311  [RCN  Italy]  Cost: 516
+ 584  '  88mm Flak37  [ AD  Germany]  Cost: 444
+ 602  '  210mm M18  [ATY  Germany]  Cost: 1224
+ 621  '  75mm 75/46  [ AD  Italy]  Cost: 360
+ 623  '  210mm 210/22  [ATY  Italy]  Cost: 1440
+ 693  '  75mm leIG18 (Airborne)  [ATY  Germany]  Cost: 180
+ 719  '  37mm 37/45  [ AT  Italy]  Cost: 96
+ 722  '  Jäger 40  [INF  Germany]  Cost: 360
+ 732  '  Ascari Libici 40  [INF  Italy]  Cost: 60
+ 744  '  75mm LG40  [ATY  Germany]  Cost: 240
+ 746  '  Bersaglieri Motociclisti  [INF  Italy]  Cost: 216
+ 873  '  Albanesi 40  [INF  Italy]  Cost: 36
+ 893  '  105mm 105/28  [ATY  Italy]  Cost: 228
+ 925  '  Ju 87 Tr(C)  [ TB  Germany]  Cost: 600
+ 944  '  G.50 Freccia  [FTR  Italy]  Cost: 480
+ 974  '  M11/39  [ TK  Italy]  Cost: 288
+ 975  '  Genio 40  [INF  Italy]  Cost: 480
+ 981  '  CR.42 Falco  [FTR  Italy]  Cost: 396
+ 982  '  L3/35  [ TK  Italy]  Cost: 168
+ 988  '  Ro.37 Lince  [RCN  Italy]  Cost: 336
+1000  '  L3/35 FL  [ AT  Italy]  Cost: 252
+1131  '  Pz IVC  [ TK  Germany]  Cost: 588
+1136  '  80mm GrW 34 Mortar  [ATY  Germany]  Cost: 96
+1225  '  47mm Pak38(t)  [ AT  Germany]  Cost: 132
+1233  '  100mm Mortar  [ATY  Germany]  Cost: 204
+1234  '  75mm leFK16 nA  [ATY  Germany]  Cost: 192
+1235  '  75mm GebG36  [ATY  Germany]  Cost: 216
+1236  '  100mm GebH16  [ATY  Germany]  Cost: 240
+1237  '  105mm sK18  [ATY  Germany]  Cost: 276
+1238  '  100mm Mortar (Mountain)  [ATY  Germany]  Cost: 228
+1239  '  150mm K39  [ATY  Germany]  Cost: 816
+1241  '  FJ MG 39  [FlaK  Germany]  Cost: 120
+1247  '  Kriegsmarine 40  [INF  Germany]  Cost: 108
+1252  '  Kfz 13  [RCN  Germany]  Cost: 108
+1253  '  Psw 221  [RCN  Germany]  Cost: 180
+1254  '  Psw 231/6  [RCN  Germany]  Cost: 252
+1255  '  SdKfz 251/9  Stummel  (75mm KwK37)  [ AT  Germany]  Cost: 264
+1260  '  Pz IID  [ TK  Germany]  Cost: 336
+1261  '  Pz II Flamm (Flamingo)  [ TK  Germany]  Cost: 396
+1263  '  Pz IIIF  [ TK  Germany]  Cost: 420
+1267  '  Pz IIIG Tauchfähig  [ TK  Germany]  Cost: 552
+1268  '  Pz IVD Tauchfähig  [ TK  Germany]  Cost: 624
+1281  '  He 115  [RCN  Germany]  Cost: 408
+1340  '  75mm 75/49  [ AD  Italy]  Cost: 324
+1341  '  Lancia 3Ro / 75mm 75/46  [ AD  Italy]  Cost: 468
+1342  '  90mm 90/53  [ AD  Italy]  Cost: 444
+1343  '  Lancia 3Ro / 90mm 90/53  [ AD  Italy]  Cost: 492
+1345  '  75mm 75/18  [ AT  Italy]  Cost: 264
+1346  '  Autocannone 75mm 75/46  [ AT  Italy]  Cost: 468
+1347  '  Autocannone 90mm 90/53  [ AT  Italy]  Cost: 492
+1355  '  81mm Mortaio da 81/14 Mod. 35  [ATY  Italy]  Cost: 96
+1356  '  65mm 65/17  [ATY  Italy]  Cost: 144
+1357  '  70mm 70/15  [ATY  Italy]  Cost: 168
+1358  '  75mm 75/18  [ATY  Italy]  Cost: 264
+1360  '  105mm 105/14  [ATY  Italy]  Cost: 228
+1363  '  152mm 152/45  [ATY  Italy]  Cost: 744
+1364  '  Fanteria 40  [INF  Italy]  Cost: 108
+1365  '  San Marco 40  [INF  Italy]  Cost: 360
+1371  '  AB-611  [RCN  Italy]  Cost: 216
+1372  '  AB IZ  [RCN  Italy]  Cost: 204
+1376  '  L3/38  [ TK  Italy]  Cost: 180
+1379  '  CR.32  [FTR  Italy]  Cost: 360
+1384  '  Ba.88 Lince  [ TB  Italy]  Cost: 612
+1386  '  CANT Z.506B Airone  [RCN  Italy]  Cost: 720
+1387  '  Ca.133  [ TB  Italy]  Cost: 456
+1392  '  SPA AS.37  [TPT  Italy]  Cost: 180
+1437  '  MG  [FlaK  Italy]  Cost: 96
+1944  '  150mm sFH36  [ATY  Germany]  Cost: 648
+1947  '  90mm 90/53  [FlaK  Italy]  Cost: 444
+1990  '  75mm 75/32  [ATY  Italy]  Cost: 216
+2398  '  Horse  [TPT  Germany]  Cost: 12
+2399  '  Limber  [TPT  Germany]  Cost: 24
+2400  '  Einheits-PKW  [TPT  Germany]  Cost: 108
+2401  '  SdKfz 11  [TPT  Germany]  Cost: 132
+2402  '  SdKfz 9  [TPT  Germany]  Cost: 204
+2403  '  SdKfz 7  [TPT  Germany]  Cost: 168
+2404  '  SdKfz 8  [TPT  Germany]  Cost: 192
+2405  '  Bicycles  [TPT  Germany]  Cost: 12
+2406  '  Blitz 2.5  [TPT  Germany]  Cost: 48
+2411  '  100mm leFH14/19  [ATY  Germany]  Cost: 216
+2412  '  155mm sFH 414(f)  [ATY  Germany]  Cost: 852
+2414  '  105mm leFH16  [ATY  Germany]  Cost: 216
+2415  '  150mm sFH13  [ATY  Germany]  Cost: 600
+2420  '  Hs 126  [RCN  Germany]  Cost: 312
+2517  '  Mules  [TPT  Germany]  Cost: 12
+2650  '  8mm Modello 37  [FlaK  Italy]  Cost: 84
+2651  '  75mm 75/46  [ AT  Italy]  Cost: 360
+2653  '  149mm 149/35A  [ATY  Italy]  Cost: 588
+2661  '  Ca 111  [RCN  Italy]  Cost: 468
+2662  '  Horse  [TPT  Italy]  Cost: 12
+2663  '  SPA TL.37  [TPT  Italy]  Cost: 96
+2664  '  SPA 35 Dovunque  [TPT  Italy]  Cost: 48
+2665  '  75mm 75/46  [FlaK  Italy]  Cost: 360
+2667  '  Lancia 3Ro  [TPT  Italy]  Cost: 96
+2668  '  Limber  [TPT  Italy]  Cost: 24
+2670  '  Bicycles  [TPT  Italy]  Cost: 12
+2671  '  Mules  [TPT  Italy]  Cost: 12
+2728  '  Flakpanzer I  (20mm)  [FlaK  Germany]  Cost: 216
+2730  '  SdKfz 10  [TPT  Germany]  Cost: 120
+2797  '  20mm Flak38  [FlaK  Germany]  Cost: 156
+2820  '  SdKfz 2  [TPT  Germany]  Cost: 132
+2895  '  Ca.101  [ TB  Italy]  Cost: 396
+2896  '  CR.20  [FTR  Italy]  Cost: 336
+2928  '  Panzergrenadiere 40  [INF  Germany]  Cost: 132
+2954  '  Bf 109 T-1  [FTR  Germany]  Cost: 948
+2955  '  Fi 167  [ TB  Germany]  Cost: 504
+2956  '  Ar 196 A-1  [RCN  Germany]  Cost: 456
+2968  '  Bridge & Mineclearer Unit  [INF  Germany]  Cost: 384
+3015  '  SdKfz 251/2 (Granatwerfer)  [ATY  Germany]  Cost: 216
+3168  '  Genio Alpini 40  [INF  Italy]  Cost: 552
+3272  '  Fanteria Motorizzata 40  [INF  Italy]  Cost: 120
+3355  '  150mm L40  [ATY  Germany]  Cost: 744
+3410  '  Building Crew  [INF  Germany]  Cost: 288
+3414  '  Brückenpioniere 40  [INF  Germany]  Cost: 192
+3420  '  Panzerschützen 43  [INF  Germany]  Cost: 132
+3421  '  Kradschützen 40  [RCN  Germany]  Cost: 252
+3422  '  Infanterie 40 (mot)  [INF  Germany]  Cost: 108
+3442  '  Gebirgsjäger 40  [INF  Germany]  Cost: 360
+3443  '  Gebirgspioniere 40  [INF  Germany]  Cost: 552
+3447  '  Kavallerie 40  [INF  Germany]  Cost: 192
+3453  '  Luftlande-Infanterie (Air Assault Inf)  [INF  Germany]  Cost: 240
+3460  '  Panzerpioniere 40  [INF  Germany]  Cost: 372
+3462  '  Luftlande-Sturm 38  (Air Assault Inf)  [INF  Germany]  Cost: 372
+3464  '  Feldersatz (late)  [INF  Germany]  Cost: 48
+3465  '  Landwehr 39  [INF  Germany]  Cost: 60
+3467  '  Command HQ  [INF  Germany]  Cost: 384
+3485  '  Späher (Scouts)  [RCN  Germany]  Cost: 96
+3485  '  Späher (Scouts)  [RCN  Germany]  Cost: 96
+3495  '  MG 40  [FlaK  Germany]  Cost: 96
+3498  '  Kampfgruppe  40  [INF  Germany]  Cost: 828
+3505  '  L2H43 Protze  [TPT  Germany]  Cost: 96
+3571  '  Dubats 40  [INF  Italy]  Cost: 36
+3575  '  40 Irregulare  [RCN  Italy]  Cost: 84
+3580  '  Spahi 40  [RCN  Italy]  Cost: 120
+3584  '  Ascari 40  [INF  Italy]  Cost: 60
+3617  '  Alpini 38  [INF  Italy]  Cost: 288
+3623  '  AS Fanteria 40  [INF  Italy]  Cost: 84
+3627  '  Bersaglieri 38  [INF  Italy]  Cost: 144
+3630  '  MVSN 'Camicie Nere' 38  [INF  Italy]  Cost: 108
+3635  '  Reparti d'assalto 38  [INF  Italy]  Cost: 360
+3636  '  Ascari Cavalleria 40  [INF  Italy]  Cost: 132
+3651  '  105mm 105/32  [ATY  Italy]  Cost: 240
+3653  '  149mm 149/12  [ATY  Italy]  Cost: 612
+3654  '  120mm 120/25  [ATY  Italy]  Cost: 288
+3964  '  Breda TP32  [TPT  Italy]  Cost: 120
+4332  '  Ju 86 R-1  [RCN  Germany]  Cost: 612
+4335  '  Ju 88 A-1  [ TB  Germany]  Cost: 768
+4339  '  He 70 F-2  [RCN  Germany]  Cost: 360
+4414  '  Do 24  [RCN  Germany]  Cost: 552
+4421  '  Fw 58 Weihe  [RCN  Germany]  Cost: 492
+4495  '  G.50bis  [FTR  Italy]  Cost: 504
+4497  '  CR.42AS Falco  [ TB  Italy]  Cost: 408
+4507  '  SM.79-II Sparviero  [ TB  Italy]  Cost: 660
+4537  '  Bf 109 E  [ TB  Germany]  Cost: 648
+4538  '  Bf 110 C-4/B  [ TB  Germany]  Cost: 684
+4543  '  Fi 156 C-3  [RCN  Germany]  Cost: 228
+4592  '  CANT Z.501 Gabbiano  [RCN  Italy]  Cost: 432
+4772  '  Do 215 B-4  [RCN  Germany]  Cost: 612
+4787  '  Ca.311  [RCN  Italy]  Cost: 516
+4918  '  Ca.313  [RCN  Italy]  Cost: 540
+4984  '  Do 17 P-1  [RCN  Germany]  Cost: 564
+5053  '  Bf 109 E-4/Trop  [FTR  Germany]  Cost: 660
+5289  '  75mm leGebIG 18  [ATY  Germany]  Cost: 192
+5390  '  He 60 D-1  [RCN  Germany]  Cost: 456
+5415  '  37mm Pak Protze  [ AT  Germany]  Cost: 144
+5743  '  Ro.43  [RCN  Italy]  Cost: 504
+5744  '  CANT Z.501 Gabbiano  [RCN  Italy]  Cost: 432
+5789  '  Motorcycles  [TPT  Germany]  Cost: 24
+5801  '  Blitz A  [TPT  Germany]  Cost: 72
+5938  '  Bf 109 T/U3   [F]  [RCN  Germany]  Cost: 900
+5942  '  Kübelwagen  [TPT  Germany]  Cost: 60
+5948  '  Schwimmwagen  [TPT  Germany]  Cost: 120
+5955  '  Brandenburger  [INF  Germany]  Cost: 840
+6007  '  Ca.310 Libeccio  [RCN  Italy]  Cost: 492
+6009  '  Do 16  [RCN  Germany]  Cost: 420
+6039  '  210mm K39  [ATY  Germany]  Cost: 2160
+6081  '  105mm Flak 38  [ AD  Germany]  Cost: 708
+6084  '  SdKfz 9 with 88mm Flak36  [ AD  Germany]  Cost: 684
+6085  '  SdKfz 9 with 88mm Flak36  [FlaK  Germany]  Cost: 684
+6087  '  88mm Flak36  [FlaK  Germany]  Cost: 432
+6090  '  305mm Model 1911  [ATY  Italy]  Cost: 1548
+6091  '  Lancia 3Ro / 90mm 90/53  [FlaK  Italy]  Cost: 492
+6152  '  Opel Blitz / 20mm Flakvierling  [FlaK  Germany]  Cost: 264
+6154  '  Lancia 3Ro / 75mm 75/46  [FlaK  Italy]  Cost: 468
+6206  '  SdKfz 252  (Supply carrier)  [TPT  Germany]  Cost: 192
+6208  '  Einheits-PKW / Twin MG  [TPT  Germany]  Cost: 132
+6208  '  Einheits-PKW / Twin MG  [TPT  Germany]  Cost: 132
+7865  '  305mm M.11 Siege Mortar Schlanke Emma  [ATY  Germany]  Cost: 1548
+7914  '  105mm Flak 38  [FlaK  Germany]  Cost: 708
+7923  '  Abwehr II-T Saboteurs  [ AD  Germany]  Cost: 816
+7928  '  Krupp K5 280mm E  [ATY  Germany]  Cost: 2100
+7929  '  Schwerer Gustav 800mm E  [ATY  Germany]  Cost: 2796
+7930  '  SdKfz 9 with 88mm Flak36  [ AT  Germany]  Cost: 684
+7940  '  280mm H12  [ATY  Germany]  Cost: 1116
+7941  '  355mm HM1  [ATY  Germany]  Cost: 2100
+7942  '  88mm Flak36  [ AT  Germany]  Cost: 456
+7954  '  Karl-Gerät 600mm  [ATY  Germany]  Cost: 2124
+7964  '  Spy  [RCN  Germany]  Cost: 552
+7971  '  Road Transporter  [TPT  Germany]  Cost: 132

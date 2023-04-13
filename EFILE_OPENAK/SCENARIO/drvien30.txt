@@ -1,0 +1,95 @@
+Vienna
+Wehrkreiskommando XVII
+15/-/180RD [75R] 46A
+627/180RD [75R] 46A
+21/180RD [75R] 46A
+42/180RD [75R] 46A
+86/180RD [75R] 46A
+33/-/180RD [75R] 46A
+1/-/20GT [5GT] 6GTA
+2/-/20GT [5GT] 6GTA
+1/-/21GT [5GT] 6GTA
+2/-/21GT [5GT] 6GTA
+1/-/22GT [5GT] 6GTA
+2/-/22GT [5GT] 6GTA
+1/1/6GMot [5GT] 6GTA
+2/1/6GMot [5GT] 6GTA
+48G/- [5GT] 6GTA
+390G/- [5GT] 6GTA
+1458/- [5GT] 6GTA
+1462/- [5GT] 6GTA
+454G/- [5GT] 6GTA
+127G/-/- [5GT] 6GTA
+301/- [5GT] 6GTA
+3/-/20GT [5GT] 6GTA
+3/-/21GT [5GT] 6GTA
+3/-/22GT [5GT] 6GTA
+1/2/6GMot [5GT] 6GTA
+2/2/6GMot [5GT] 6GTA
+3/2/6GMot [5GT] 6GTA
+15G/-/- [5GT] 6GTA
+FlakTurm
+FlakTurm
+FlakTurm
+FlakTurm
+FlakTurm
+FlakTurm
+Rem 1/1SS [1SS] 6SSP
+Rem 2/1SS [1SS] 6SSP
+Rem 1/-/1SS [1SS] 6SSP
+Rem I/1/1SS [1SS] 6SSP
+Rem 1/1SS [1SS] 6SSP
+Rem 1/-/1SS [1SS] 6SSP
+II/JG52 L4
+I/JG53 L4
+Rem 25/12SS [1SS] 6SSP
+Rem 26/12SS [1SS] 6SSP
+Rem 12/-/12SS [1SS] 6SSP
+Rem 12/12SS [1SS] 6SSP
+Vienna Volkssturm
+Vienna Volkssturm
+Vienna Police
+4/502/-/- [2SS] 6SSP
+1/1/18GMech [9GMech] 6GTA
+1/1/30GMech [9GMech] 6GTA
+1/1/31GMech [9GMech] 6GTA
+1/-/64T [9GMech] 6GTA
+2/-/64T [9GMech] 6GTA
+87G/- [9GMech] 6GTA
+2/1/18GMech [9GMech] 6GTA
+2/1/30GMech [9GMech] 6GTA
+2/1/31GMech [9GMech] 6GTA
+364G/- [9GMech] 6GTA
+389G/- [9GMech] 6GTA
+697/- [9GMech] 6GTA
+745/- [9GMech] 6GTA
+1228/- [9GMech] 6GTA
+388/- [9GMech] 6GTA
+485G/- [9GMech] 6GTA
+35G/- [9GMech] 6GTA
+1/2/18GMech [9GMech] 6GTA
+2/2/18GMech [9GMech] 6GTA
+3/2/18GMech [9GMech] 6GTA
+1/2/30GMech [9GMech] 6GTA
+2/2/30GMech [9GMech] 6GTA
+3/2/30GMech [9GMech] 6GTA
+1/2/31GMech [9GMech] 6GTA
+2/2/31GMech [9GMech] 6GTA
+3/2/31GMech [9GMech] 6GTA
+3/-/64T [9GMech] 6GTA
+14/-/- [9GMech] 6GTA
+178GV.IAP/14GV.IAD
+866IAP/288IAD
+141GV.IAP/9GV.IAD
+Wien
+Donau
+Florisdorf Bridge
+Aderklaa
+Raasdorf
+Grossenzersdorf
+Korneuburg
+Grossebersdorf
+Klosterneuburg
+Hadersdorf
+Laxenburg
+Himberg

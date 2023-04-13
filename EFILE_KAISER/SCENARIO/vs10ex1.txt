@@ -1,0 +1,162 @@
+Antwerp - The first exit
+Rte Puurs
+Willebroek
+Sint-Jozef
+Londerzeel
+Impde
+Impde Castle
+Steenhuffel
+Wolvertem
+Sint-Brixius-Rode
+Grimbergen
+Meise
+Brussegem
+Wemmel
+Vilvoorde
+Willebroeksche Vaart
+Verbrande Brug
+Rupel
+Nete
+Heffen
+Leest
+Mechelen
+Onze Lieve Vrouw Waver
+Zemst-Laar
+Weerde
+Zemst
+Eppegem
+Houtem
+Elewijt
+Schiplaken
+Schiplakenbos
+Steentjesbos
+Snijsselsbos
+Hellebos
+Kampenhout
+Het Torfbroek
+Steenokkerzeel
+Mechels Broek
+Bonheiden
+Hever
+Leefdaalbos
+Kapelle-op-den-Bos
+Kattemeuterbos
+To Brussel
+To Dendermonde
+To Sint-Niklaas
+To Antwerpen
+Berlaarbaan
+Antwerpse Steenweg
+Mechelse Steenweg
+Leuvense Steenweg
+Gentse Steenweg
+Steenweg op Blaasveld
+Haagtse Steenweg
+Tervuurse Steenweg
+Hofstade
+Brusselse Steenweg
+Vaartstraat
+Vilvoordse Steenweg
+Wolvertemse Steenweg
+Merchtemse Steenweg
+I/24RIR/11R/6R [IIIR]
+II/24RIR/11R/6R [IIIR]
+III/24RIR/11R/6R [IIIR]
+3RU./-/6R [IIIR]
+Rossem
+III/26RIR/12R/6R [IIIR]
+I/26RIR/12R/6R [IIIR]
+II/26RIR/12R/6R [IIIR]
+Von Beseler [IIIR]
+MG/-/24RIR/11R/6R [IIIR]
+I/5RFAR/-/5R [IIIR]
+MG/-/8RIR/9R/5R [IIIR]
+I/8RIR/9R/5R [IIIR]
+II/8RIR/9R/5R [IIIR]
+III/8RIR/9R/5R [IIIR]
+I/48RIR/9R/5R [IIIR]
+II/48RIR/9R/5R [IIIR]
+III/48RIR/9R/5R [IIIR]
+MG/-/48RIR/9R/5R [IIIR]
+90Bty/I/5A/-/5LA
+88Bty/I/5A/-/5LA
+89Bty/I/5A/-/5LA
+82Bty/GA/-/16BM/5LA
+83Bty/GA/-/16BM/5LA
+84Bty/GA/-/16BM/5LA
+17MB/-/-/17BM/5LA
+16MB/-/-/16BM/5LA
+CieCycl/-/-/17BM/5LA
+CieCycl/-/-/16BM/5LA
+I/3Ch/17BM/5LA
+II/3Ch/17BM/5LA
+III/3Ch/17BM/5LA
+I/2Ch/16BM/5LA
+II/2Ch/16BM/5LA
+III/2Ch/16BM/5LA
+Col.Ruquoi 17BM/5LA
+2Chch/-/5LA
+Rte Letterheide
+Rte Dorpveld
+Ft Liezele
+Ft Breendonk
+Ft St.Katelijne-Waver
+Spoorwegfortje
+Ft Wallem
+Heindonk inundation
+I/5Ch/16BM/5LA
+II/5Ch/16BM/5LA
+III/5Ch/16BM/5LA
+85Bty/GA/-/17BM/5LA
+86Bty/GA/-/17BM/5LA
+87Bty/GA/-/17BM/5LA
+I/6Ch/17BM/5LA
+II/6Ch/17BM/5LA
+III/6Ch/17BM/5LA
+Vaart Mechelen Leuven
+III/1Vesting/-/RFAntwerpen
+I/4Li/4BM/1LA
+II/4Li/4BM/1LA
+III/4Li/4BM/1LA
+7Bty/GA/-/4BM/1LA
+8Bty/GA/-/4BM/1LA
+9Bty/GA/-/4BM/1LA
+4MB/-/-/4BM/5LA
+Lt-Gen.Lantonnois v.Rode 6LA
+Lt-Gen. Baix 1LA
+2LA Advance Guard
+6LA Rear Guard
+1A/-/1LA
+4Bty/GA/-/3BM/1LA
+5Bty/GA/-/3BM/1LA
+6Bty/GA/-/3BM/1LA
+I/3Li/3BM/1LA
+II/3Li/3BM/1LA
+III/3Li/3BM/1LA
+I/23Li/3BM/1LA
+II/23Li/3BM/1LA
+III/23Li/3BM/1LA
+I/2Li/2BM/1LA
+II/2Li/2BM/1LA
+III/2Li/2BM/1LA
+I/22Li/2BM/1LA
+II/22Li/2BM/1LA
+III/22Li/2BM/1LA
+I/1C/19BM/6LA
+II/1C/19BM/6LA
+III/1C/19BM/6LA
+I/2C/20BM/6LA
+II/2C/20BM/6LA
+III/2C/20BM/6LA
+I/4C/20BM/6LA
+II/4C/20BM/6LA
+III/4C/20BM/6LA
+I/1Gr/18BM/6LA
+II/1Gr/18BM/6LA
+III/1Gr/18BM/6LA
+1 18MB/-/-/18BM/6LA
+2 18MB/-/-/18BM/6LA
+19MB/-/-/19BM/6LA
+20MB/-/-/20BM/6LA
+St.Agatha-Berchem (off-map)
+Sarteel-Dony  HF 1  BAC

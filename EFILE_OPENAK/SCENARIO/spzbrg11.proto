@@ -1,0 +1,27 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  73  '  2 Flakvierling Sfl  [FlaK  Deutschland]  Cost: 324
+  78  '  7,5 Pak40  [ AT  Deutschland]  Cost: 168
+  90  '  Sturmgeschutz 40F  [ AT  Deutschland]  Cost: 456
+ 144  '  Pz IIIJ  [ TK  Deutschland]  Cost: 420
+ 149  '  Pz IVF2  [ TK  Deutschland]  Cost: 804
+ 597  '  7,5 Pak97/38  [ AT  Deutschland]  Cost: 120
+ 598  '  Marder II (7,5)  [ AT  Deutschland]  Cost: 348
+1229  '  Marder II (7,62)  [ AT  Deutschland]  Cost: 348
+1240  '  28/32 NbWf41  [ATY  Deutschland]  Cost: 612
+1283  '  Hs 129B-1  [ TB  Deutschland]  Cost: 1008
+1930  '  Marder III  [ AT  Deutschland]  Cost: 360
+2728  '  2 Flak38 LKW  [FlaK  Deutschland]  Cost: 192
+2729  '  3,7 Flak36 LKW  [ AD  Deutschland]  Cost: 408
+3377  '  Bf 109F-4/B  [ TB  Deutschland]  Cost: 1056
+4288  '  Bf 110F-2  [FTR  Deutschland]  Cost: 1152
+4289  '  Bf 110E-2  [ TB  Deutschland]  Cost: 1080
+4333  '  Ju 86R-2  [ TB  Deutschland]  Cost: 768
+4569  '  Ju 88C-6  [ TB  Deutschland]  Cost: 948
+5068  '  He 177A-1  [ LB  Deutschland]  Cost: 1152
+5075  '  Bf 110F-2/B  [ TB  Deutschland]  Cost: 1128
+5076  '  Me 210A-1  [FTR  Deutschland]  Cost: 1200

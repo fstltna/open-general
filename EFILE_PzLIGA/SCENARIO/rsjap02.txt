@@ -1,0 +1,177 @@
+Okinawa
+Naha
+Shuri
+Yonabaru
+Iwa
+Itoman
+[32 Army HQ]
+NFL/[Okinawa]
+22 R/24 Div./[32A]
+32 R/24 Div./[32A]
+89 R/24 Div./[32A]
+24 Rec./24 Div./[32A]
+24 Eng.R/24 Div./[32A]
+42 R/24 Div./[32A]
+15 MR/44 MB/[32A]
+2 Inf./44 MB/[32A]
+11 Btn/63 Bde/62 Div./[32A]
+12 Btn/63 Bde/62 Div./[32A]
+13 Btn/63 Bde/62 Div./[32A]
+14 Btn/63 Bde/62 Div./[32A]
+273 Btn/63 Bde/62 Div./[32A]
+18 Btn/64 Bde/62 Div./[32A]
+21 Btn/64 Bde/62 Div./[32A]
+22 Btn/64 Bde/62 Div./[32A]
+23 Btn/64 Bde/62 Div./[32A]
+272 Btn/64 Bde/62 Div./[32A]
+64 Bde/62 Div./[32A]
+1 Mortar R/5 AC/[32A]
+2 Mortar R/5 AC/[32A]
+100 Btn./5 AC/[32A]
+1 AR/5 AC/[32A]
+23 AR/5 AC/[32A]
+951 Air Group
+27/21/[32A]
+70/21/[32A]
+80/21/[32A]
+81/21/[32A]
+103 MG/-/[32A]
+104 MG/-/[32A]
+105 MG/-/[32A]
+3 MG/-/[32A]
+4 MG/[32A]
+14 MG/-/[32A]
+17 MG/-/[32A]
+27 Tk.R/-/[32A]
+1 Boeitai/[Okinawa]
+1 Boeitai/[Okinawa]
+1 Boeitai/[Okinawa]
+1 Boeitai/[Okinawa]
+502/1 Boeitai/[Okinawa]
+503/1 Boeitai/[Okinawa]
+504/1 Boeitai/[Okinawa]
+3/[32A]
+4/-/[32A]
+14/-/[32A]
+17/-/[32A]
+66 Btn./-/[32A]
+Shashi
+Okinawa City
+Kadena
+Nago
+Motobu
+Oganaku
+Otoa
+Io
+Naha Airport
+Onna
+Kin
+Kadena Airfield
+Yontan Airfield
+[Shuri Line]
+[Shuri Defenses]
+[Shuri Defenses]
+[Shuri Defenses]
+1 R/1 USMC/[III]
+5 R/1 USMC/[III]
+7 R/1 USMC/[III]
+HQ/1 USMC/[III]
+1 Btn./1 USMC/[III]
+11 AR/1 USMC/[III]
+1 Tk.Btn./1 USMC/[III]
+4 R/6 USMC/[III]
+22 R/6 USMC/[III]
+29 R/6 USMC/[III]
+6 Btn./6 USMC/[III]
+15 AR/6 USMC/[III]
+6 Tk.Btn./6 USMC/[III]
+HQ/6 USMC/[III]
+17 R/7 ID/[XXIV]
+Sad R/7 ID/[XXIV]
+184 R/7 ID/[XXIV]
+7 Cav./7 ID/[XXIV]
+7 Tk.Btn./7 ID/[XXIV]
+13 Eng.Btn./7 ID/[XXIV]
+/7 ID/[XXIV]
+HQ/7 ID/[XXIV]
+381 R/96 ID/[XXIV]
+382 R/96 ID/[XXIV]
+383 R/96 ID/[XXIV]
+96 Cav./96 ID/[XXIV]
+HQ/96 ID/[XXIV]
+/96 ID/[XXIV]
+305 R/77 ID/[XXIV]
+306 R/77 ID/[XXIV]
+307 R/77 ID/[XXIV]
+77 Cav./77 ID/[XXIV]
+HQ/77 ID/[XXIV]
+/77 ID/[XXIV]
+301 Fighter Wing
+301 Fighter Wing
+VII Bomber Command
+VII Bomber Command
+VII Bomber Command
+VII Bomber Command
+NLF
+[Kadena]
+[Shuri Defenses]
+NLF
+NLF
+NLF
+[Shuri Line]
+[Shuri Line]
+[Shuri Line]
+[Shuri Line]
+[USMC]
+NLF
+NLF
+NLF
+Beach
+Ginoza
+Nakadomari
+Yamada
+Ishikawa
+Yomitan
+Gushikawa
+Hamahika-jima
+Okinawa
+Chatan
+Kitanagusuku
+Katsuren
+Ukibaru-jima
+Yonagusuku
+Ginowan
+Tsuken-jima
+Machinato
+Nakagusuku
+Naha Naval Base [PORT]
+Nishihara
+Kakibana
+Sashiki
+Kudaka-jima
+Oroku
+Chinen
+Gushikami
+Kiyan
+Mabuni
+Komesu
+1 Established Regt.
+1 Established Regt.
+1 Established Regt.
+Beach Head
+IJN Yamato
+Yamato Group
+Yamato Group
+Yamato Group
+Yamato Group
+Yamato Group
+Yamato Group
+Yamato Group
+Yamato Group
+Yamato Group
+Tokko
+Tokko
+Tokko
+Tokko
+503/1 Boeitai/[Okinawa]
+504/1 Boeitai/[Okinawa]

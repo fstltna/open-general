@@ -1,0 +1,53 @@
+Keren
+Mt Samanna : FORTIFICATION
+Mt Amba : FORTIFICATION
+Keren
+Mogareh
+Mt Zeban : FORTIFICATION
+Cameron Ridge : FORTIFICATION
+Mt Sanchil : FORTIFICATION
+Ascidera River
+Fort Dologorodoc : FORTIFICATION
+Ascidera
+Mt Falestoh : FORTIFICATION
+8 PzR/15 Pz/[DAK]
+15 Schzt/15 Pz/[DAK]
+15 Schzt/15 Pz/[DAK]
+15 Mot/15 Pz/[DAK]
+33 Rec/15 Pz/[DAK]
+33 AR/15 Pz/[DAK]
+33 Pzjgr/15 Pz/[DAK]
+33 Pio/15 Pz/[DAK]
+5 PzR/21 Pz/[DAK]
+104 Schzt/21 Pz/[DAK]
+155 AR/21 Pz/[DAK]
+3 Rec/21 Pz/[DAK]
+200 Pio/21 Pz/[DAK]
+39 Pzjgr/21 Pz/[DAK]
+8 R/132 Ariete/[XX]
+132 AR/132 Ariete/[XX]
+32 R/132 Ariete/[XX]
+32 R/132 Ariete/[XX]
+32 R/132 Ariete/[XX]
+[DAK]
+27 Mtn B/EA
+21 Br/1 African D
+23 Br/1 African D
+1 B/EA
+1 R/1 African D
+52 B/1 African D
+16 R/1 African D
+51 R/1 African D
+1 R/EA
+53 R/1 African D
+Somaliland Camel Corps 
+22 B/2 African D
+1 Br/2 African D
+24 Br/2 African D
+22 Br/2 African D
+25 Br/2 African D
+27 Br/2 African D
+51 R/2 African D
+52 R/2 African D
+54 R/2 African D
+RAF

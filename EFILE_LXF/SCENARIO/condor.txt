@@ -1,0 +1,11 @@
+1936-37 CONDOR LEGION
+
+Ah, Good day, Herr Oberstleutnant!  Please sit down  and allow me to explain the present situation.  The Spanish Nationalists have requested the help of Germany to wrest control of Spain from their enemies. You will test the General Staff's new ideas regarding tank use, concentration of force, and combined arms operations.  Your expertise can later be put to work towards the real objective:  the return of Germany to its proper place,  the leader of Europe. 
+
+This short campaign is a spin-off from the 3rd Panzer Division historical Blitz project. It takes three early battalion size unit scenarios from that campaign (which were later reworked to regimental size  to fit better in that campaign) and adds Madrid and Teruel as scenarios to make this a 5-scenario campaign about the Condor Legion. 
+
+Campaign Designer: Jurgen Smet aka Wonderdoctor
+Number of Scenarios: 5
+LXF Conversion: Golothin, based on OpenAK
+LXF Version: v1.0
+Last Playtest: 11/2020

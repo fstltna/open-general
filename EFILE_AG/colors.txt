@@ -1,0 +1,16 @@
+* Read carefully before editing!
+* Each meaningful line must define R,G,B color components
+* Emply lines and those starting with * will be skipped.
+* Can replace any text but do no change the sequence of lines
+*-------------------------------------------------------------------
+* default background for main window
+200,180,140
+
+* default background for dialogs
+180,180,180
+
+* black text
+0,0,0
+
+* black text      
+0,0,0 

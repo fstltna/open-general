@@ -1,0 +1,10 @@
+Battle of Chapultepec
+September 12, 1847
+
+* Intro text *
+
+Deploy Hexes: 18
+
+ORDER: Take all VHs and keep your MSU alive.
+
+scenario designer: Csaba (lvjtn)

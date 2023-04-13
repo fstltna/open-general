@@ -1,0 +1,40 @@
+Australian Bougainville Campaign 1944-45
+
+AUSTRALIAN BOUGAINVILLE CAMPAIGN 1944-45
+
+Version: 1.1
+Number of Scenarios: 19 (two paths)
+Player Country: WWII Austrailia
+Campaign Designer: Dennis Felling
+Campaign Converter: HundredDays
+
+
+In November 1943 American Marines land at Torokina and establish a beachhead. Not until March 1944 the Japanese launch a massive counterattack. The attack is held and center of war moves on closer to Japan. To make American divisions free for tasks elsewhere, Australian forces will take over the American perimeter on Bougainville. But they will not sit down and be idle. The Australians will launch offensives to reduce the Japanese power on Bougainville. The Japanese have four times as much soldiers on the island. Can you liberate Bougainville all the way up to Buka in the north and Buin in the south?
+
+
+
+----------------------------------------------------------------------------------
+[From original Introduction/Readme:]
+
+Maps required:
+BUIN
+BUKA
+TOROKINA
+
+Comments, compliments, suggestions or whatever can be sent to Dennis Felling by mailing me on armygroupdf@hotmail.com
+
+Visit my website at http://members.home.nl/felling/pg2/index.htm
+
+Dennis Felling
+July 2005
+
+Equipment File: Pacific Efile (PacFile) version 4.0 or better
+Playtesters: Steve Brown and Morecedai.
+
+
+
+
+
+
+----------------------------------------------------------------------------------
+[Adapted for the OoB OpenGeneral Efile by HD.]

@@ -1,0 +1,62 @@
+1941 Luzon-Bresche [PL 3.2]
+Tarlac
+Fluss Pampanga
+LaPaz
+Fluss Dalagat
+Fluss Penaranda
+Concepcion
+Bamban
+Fluss Bamban
+Gapan
+Berg Arayat
+Magalang
+Angeles
+Mexico
+Clark-Feld
+Fluss Gumain
+San Fernando
+Baliuag
+Fluss Angat
+Calumpit
+Plaridel
+Fluss Culo
+11 R/11 ID(PA)/USAFFE
+12 R/11 ID(PA)/USAFFE
+13 R/11 ID(PA)/USAFFE
+e Bn/11 ID(PA)/USAFFE
+Art Bn/11 ID(PA)/USAFFE
+91 R/91 ID(PA)/USAFFE
+92 R/91 ID(PA)/USAFFE
+93 R/91 ID(PA)/USAFFE
+e Bn/91 ID(PA)/USAFFE
+Art R/91 ID(PA)/USAFFE
+21 R/21 ID(PA)/USAFFE
+22 R/21 ID(PA)/USAFFE
+23 R/21 ID(PA)/USAFFE
+e Bn/21 ID(PA)/USAFFE
+Art R/21 ID(PA)/USAFFE
+1.Taiwan/48 ID/14 Armee
+2.Taiwan/48 ID/14 Armee
+48 Bn/48 ID/14 Armee
+48 Bn/48 ID/14 Armee
+48 Bn/48 ID/14 Armee
+48 Rnc/48 ID/14 Armee
+48 AA/48 ID/14 Armee
+194th Tk Bn/USAFFE
+192 Tk Bn/USAFFA
+71 R/71 ID(PA)/USAFFE
+72 R/71 ID(PA)/USAFFE
+Aty R/71 ID(PA)/USAFFE
+51 R/51 ID(PA)/USAFFE
+52 R/51 ID(PA)/USAFFE
+53 R/51 ID(PA)/USAFFE
+Art R/51 ID(PA)/USAFFE
+4 Tk R/14.Armee
+7 Tk R/14.Armee
+47 R/48 ID/14.Armee
+5.Luftgruppe
+9 R/14.Armee
+8 Aty/14.Armee
+1 Aty R/14.Armee
+1 Aty R/14.Armee
+HQ/14.Armee

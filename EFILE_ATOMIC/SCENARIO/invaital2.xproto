@@ -1,0 +1,41 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 403  '  3inch M5  [ AT  USA]  Cost: 180
+ 407  '  M18 Hellcat  [ AT  USA]  Cost: 612
+ 415  '  M4-105  [ TK  USA]  Cost: 576
+ 444  '  M4A1-76W  [ TK  USA]  Cost: 744
+ 454  '  P-38J Lightning  [FTR  USA]  Cost: 936
+ 461  '  P-51D Mustang  [FTR  USA]  Cost: 960
+ 467  '  B-25H Mitchell  [ TB  USA]  Cost: 1152
+1748  '  40 mm / SCR-584 Mobile Radar  [ AD  USA]  Cost: 348
+1755  '  M3 AB 105mm Howitzer  [ATY  USA]  Cost: 360
+1760  '  M1 240mm Howitzer  [ATY  USA]  Cost: 1584
+1766  '  M4A3-75W  [ TK  USA]  Cost: 576
+1769  '  M4A6  [ TK  USA]  Cost: 564
+1780  '  P-61A-10 Black Widow  [FTR  USA]  Cost: 1176
+2877  '  F6F-5 Hellcat  [FTR  USA]  Cost: 996
+3209  '  Airborne Scouts 43  [RCN  USA]  Cost: 348
+3311  '  M3A2 105mm Howitzer  [ATY  USA]  Cost: 228
+3519  '  LVT(A)4 Ronson  [ TK  USA]  Cost: 444
+4512  '  F6F-3 Hellcat  [FTR  USA]  Cost: 936
+4594  '  B-24J/F7A Liberator  [ LB  USA]  Cost: 696
+4625  '  F4U-1D Corsair  [ TB  USA]  Cost: 948
+4677  '  P-47D-10 Thunderbolt  [ TB  USA]  Cost: 900
+5221  '  LVT(A)4  [ATY  USA]  Cost: 504
+6227  '  F6F-5N Hellcat  [FTR  USA]  Cost: 1092
+6359  '  P-63A Kingcobra  [FTR  USA]  Cost: 960
+7005  '  AT Infantry 44  [INF  USA]  Cost: 276
+7029  '  F4U-2 Corsair  [FTR  USA]  Cost: 972
+7035  '  Seabees 44  [INF  USA]  Cost: 216
+7993  '  M1 203mm Gun  [ATY  USA]  Cost: 1992
+7994  '  T34 Calliope  [ATY  USA]  Cost: 888
+8168  '  Seabees Combat Engineers 44  [INF  USA]  Cost: 384
+8174  '  Armored Infantry 44  [INF  USA]  Cost: 624
+8271  '  M3/M51 MMGC Quad  [FlaK  USA]  Cost: 396
+8424  '  T27  [ATY  USA]  Cost: 360
+8425  '  T27E2  [ATY  USA]  Cost: 672
+8884  '  M45 Quadmount on Truck  [FlaK  USA]  Cost: 288

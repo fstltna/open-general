@@ -1,0 +1,11 @@
+Haluziya 
+(June 7, 1916)
+
+The Russians are expected to launch an offensive any minute; however, we don't know when and where they will attack. You must secure your sector. We will send reinforcements if your lines are in danger of being overwhelmed.
+
+ORDER: Keep your MSU alive and hold at least 2 VHs.
+
+NOTES: 
+- AI plays first.
+- The enemy gets strong and permanent reinforcements.
+- The High Command has approved the expansion of your forces to include an Air Defense detachment.

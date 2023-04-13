@@ -1,0 +1,447 @@
+Operation Typhoon - Borodino
+I/7/10 Pz Div [XXXX]
+II/7/10 Pz Div [XXXX]
+II/69/10 Pz Div [XXXX]
+II/86/10 Pz Div [XXXX]
+90/-/10 Pz Div [XXXX]
+I/90/10 Pz Div [XXXX]
+II/90/10 Pz Div [XXXX]
+III/90/10 Pz Div [XXXX]
+90/-/10 Pz Div [XXXX]
+10/-/10 Pz Div [XXXX]
+7/-/7 Inf Div [XXXX]
+I/7/7 Inf Div [XXXX]
+II/7/7 Inf Div [XXXX]
+III/7/7 Inf Div [XXXX]
+7/-/7 Inf Div [XXXX]
+I/19/7 Inf Div [XXXX]
+II/19/7 Inf Div [XXXX]
+III/19/7 Inf Div [XXXX]
+I/61/7 Inf Div [XXXX]
+II/61/7 Inf Div [XXXX]
+III/61/7 Inf Div [XXXX]
+I/62/7 Inf Div [XXXX]
+II/62/7 Inf Div [XXXX]
+III/62/7 Inf Div [XXXX]
+II/Art Rgt 61 [Arko 128]
+II/Art Rgt 72 [Arko 128]
+II/Art Rgt 67 [Arko 128]
+I/NbWf Rgt 54 [Arko 128]
+II/NbWf Rgt 54 [Arko 128]
+I/31/5 Pz Div [XXXXVI]
+II/31/5 Pz Div [XXXXVI]
+53/-/5 Pz Div [XXXXVI]
+I/116/5 Pz Div [XXXXVI]
+II/116/5 Pz Div [XXXXVI]
+III/116/5 Pz Div [XXXXVI]
+I/13/5 Pz Div [XXXXVI]
+II/13/5 Pz Div [XXXXVI]
+I/14/5 Pz Div [XXXXVI]
+II/14/5 Pz Div [XXXXVI]
+89/-/5 Pz Div [XXXXVI]
+7/-/7 Inf Div [XXXX]
+1/17/32 Rif Div [5]
+2/17/32 Rif Div [5]
+3/17/32 Rif Div [5]
+1/113/32 Rif Div [5]
+2/113/32 Rif Div [5]
+3/113/32 Rif Div [5]
+1/322/32 Rif Div [5]
+2/322/32 Rif Div [5]
+3/322/32 Rif Div [5]
+1/133/32 Rif Div [5]
+2/133/32 Rif Div [5]
+3/133/32 Rif Div [5]
+1/154/32 Rif Div [5]
+2/154/32 Rif Div [5]
+3/154/32 Rif Div [5]
+65/-/32 Rif Div [5]
+Lenin Cadets Bn [5]
+1/230 Reserve Rif Rgt [5]
+2/230 Reserve Rif Rgt [5]
+1/27 Reserve Rif Rgt [5]
+121 AT Art Rgt [5]
+421 AT Art Rgt [5]
+2/572 Cannon Art Rgt [5]
+1/2/50 Rif Div [5]
+2/2/50 Rif Div [5]
+3/2/50 Rif Div [5]
+1/49/50 Rif Div [5]
+2/49/50 Rif Div [5]
+3/49/50 Rif Div [5]
+1/359/50 Rif Div [5]
+2/359/50 Rif Div [5]
+3/359/50 Rif Div [5]
+1/82/82 Mot Rif Div [5]
+2/82/82 Mot Rif Div [5]
+1/210/82 Mot Rif Div [5]
+2/210/82 Mot Rif Div [5]
+1/250/82 Mot Rif Div [5]
+2/250/82 Mot Rif Div [5]
+1/601/82 Mot Rif Div [5]
+2/601/82 Mot Rif Div [5]
+1/666/222 Rif Div [33]
+2/666/222 Rif Div [33]
+3/666/222 Rif Div [33]
+1/757/222 Rif Div [33]
+2/757/222 Rif Div [33]
+3/757/222 Rif Div [33]
+1/774/222 Rif Div [33]
+2/774/222 Rif Div [33]
+1/787/222 Rif Div [33]
+2/787/222 Rif Div [33]
+3/787/222 Rif Div [33]
+36 Motorcycle Rgt [5]
+Special Cavalry Group [5]
+305 MG Bn [5]
+Composite Rgt/133 Rif Div [5]
+1/13 Gds Mortar Rgt [5]
+2/13 Gds Mortar Rgt [5]
+3/13 Gds Mortar Rgt [5]
+1/18 Tk Bde [5]
+2/18 Tk Bde [5]
+1/19 Tk Bde [5]
+18 Mot Rif Bn/18 Tk Bde [5]
+19 Mot Rif Bn/19 Tk Bde [5]
+1/22 Tk Bde [5]
+2/20 Tk Bde [5]
+1/20 Tk Bde [5]
+2/22 Tk Bde [5]
+20 Mot Rif Bn/20 Tk Bde [5]
+22 Mot Rif Bn/22 Tk Bde [5]
+1/25 Tk Bde [5]
+2/25 Tk Bde [5]
+509 AT Art Rgt [5]
+1/572 Cannon Art Rgt [5]
+Klementjevo Militia
+Ruza Militia
+s.Art Abt 637 [Arko 128]
+II/26/Fl Rgt 6 [II Flakkorps]
+32/-/32 Rif Div [5]
+49/-/10 Pz Div [XXXX]
+2/19 Tk Bde [5]
+41IAP
+IAP
+502ShaP
+321BAP
+I/JG 52 [VIII Fliegerkorps]
+III/JG 27 [VIII Fliegerkorps]
+I/StG 2 [VIII Fliegerkorps]
+III/StG 2 [VIII Fliegerkorps]
+Dorohovo Militia
+Separate Recon Bn [5]
+316 AT Art Rgt [5]
+408 AT Art Rgt [5]
+704/-/5 Pz Div [XXXXVI]
+55/-/5 Pz Div [XXXXVI]
+601/-/5 Pz Div [XXXXVI]
+9 Mot Rif Bn/9 Tk Bde [33]
+2/151 Mot Rif Bde [33]
+StuG Bttr/SS Reich [XXXX]
+I/69/10 Pz Div [XXXX]
+I/86/10 Pz Div [XXXX]
+1/151 Mot Rif Bde [33]
+367 AT Art Rgt [5]
+Composite Rgt/133 Rif Div [5]
+Flak Abt/SS Reich [XXXX]
+93/Fl Rgt 6 [II Flakkorps]
+I/15/11 Pz Div [XXXXVI]
+I/119/11 Pz Div [XXXXVI]
+706/-/10 Pz Div [XXXX]
+27 Tk Bn/82 Mot Rif Div [5]
+999 Cannon Art Rgt [5]
+Composite Rgt/133 Rif Div [5]
+61/-/11 Pz Div [XXXXVI]
+71/-/11 Pz Div [XXXXVI]
+I/111/11 Pz Div [XXXXVI]
+II/111/11 Pz Div [XXXXVI]
+2/9 Tk Bde [33]
+Inotsch' River
+Iskona River
+Pal'ka River
+Ruza River
+Inotsch' River
+Inotsch' River
+Staraja Tjaga
+Iskona River
+Pal'ka River
+Ruza River
+Oreshki
+Inotsch' River
+Poretschje
+Iskona River
+Iskona River
+Voskresensk
+Pal'ka River
+Ruza River
+Ruza River
+Ruza
+Inotsch' River
+Moskva River
+Iskona River
+Miljatino
+Pal'ka River
+Ruza River
+Ruza River
+Ostritsy
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Myshkino
+Iskona River
+Pal'ka River
+Ruza River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Iskona River
+Iskona River
+Holm
+Iskona River
+Iskona River
+Iskona River
+Pal'ka River
+Vatulino
+Ruza River
+Ruza River
+Moskva River
+Moskva River
+Golyshkino
+Lusjanka River
+Moskva River
+Moskva River
+Iskona River
+Iskona River
+Iskona River
+Klementjevo
+Iskona River
+Moskva River
+Staraja Ruza
+Moskva River
+Moskva River
+Zhezljanka River
+Lusjanka River
+Lusjanka River
+Moskva River
+Iskona River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Zhezljanka River
+Zhezljanka River
+Zhezljanka River
+Lusjanka River
+Vel'jashevo
+Moskva River
+Moskva River
+Garetovo
+Iskona River
+Vorontsovo
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Kozhino
+Zhezljanka River
+Zhezljanka River
+Zhezljanka River
+Lusjanka River
+Moskva River
+Ratschino
+Iskona River
+Iskona River
+Moskva River
+Makeiha
+Lusjanka River
+Lusjanka River
+Lusjanka River
+Lusjanka River
+Moskva River
+Moskva River
+Iskona River
+Moskva River
+Lusos'
+Lusjanka River
+Gorjatschkino
+Loginovo
+Moskva River
+Moskva River
+Blaznovo
+Moskva River
+Moskva River
+Obljanishtschevo
+Aleksino
+Moskva River
+Moskva River
+Lusjanka River
+Lusjanka River
+Kolotsch' River
+Kolotsch' River
+Moskva River
+Teterino
+Moskva River
+Shelkovka
+Dorohovo
+Moskva River
+Moskva River
+Uvarovka
+Borodino
+Kolotsch' River
+Tatarinovo
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Moskva River
+Drovnino
+Moskva River
+Kolotsch' River
+Kolotsch' River
+Kukarino
+Mozhaisk
+Shalikovo
+Moskva River
+Kolotsch' River
+Kolotsch' River
+Fomkino
+Borodino Station
+Jamskaja
+Pushkino
+Usadkovo
+Moskva River
+Kolotsch' River
+Kolotsch' River
+Kolotsch' River
+Kolotsch' River
+Kolotsch' River
+Mzhut River
+Is'ma River
+Tarussa River
+Tarussa River
+Tarussa River
+Tarussa River
+Kundasovo
+Tsukanovo
+Jel'nja
+Mzhut River
+Artemki
+Mzhut River
+Mzhut River
+Mzhut River
+Is'ma River
+Protva River
+Protva River
+Protva River
+Protva River
+Judinki
+Mzhut River
+Mzhut River
+Mzhut River
+Mzhut River
+Is'ma River
+Protva River
+Protva River
+Mzhut River
+Mzhut River
+Korovino
+Bogorodskoje
+Is'ma River
+Kolodkino
+Kiselevo
+Protva River
+Karzhen'
+Protva River
+Borisovo
+Protva River
+Protva River
+Protva River
+Is'ma River
+Presnetsovo
+Protva River
+Aksentjevo
+Protva River
+Protva River
+Protva River
+Is'ma River
+Is'ma River
+Protva River
+Protva River
+Protva River
+Protva River
+Is'ma River
+Simbuhovo
+Pesotschnaja River
+Pesotschnaja River
+Pesotschnaja River
+Pesotschnaja River
+Pesotschnaja River
+Pesotschnaja River
+Pesotschnaja River
+Protva River
+Protva River
+Protva River
+Protva River
+Protva River
+Protva River
+Protva River
+Protva River
+Protva River
+Kulakovo
+Protva River
+Protva River
+Is'ma River
+Nazarjevo
+Semenovskoje
+Protva River
+Protva River
+Berega River
+Protva River
+Protva River
+Is'ma River
+Is'ma River
+Galtschino
+Protva River
+Berega River
+Sokol'nikovo
+Vereja
+Protva River
+Is'ma River
+Berega River
+Fedjunkino
+Protva River
+Protva River
+Voltschenki
+Is'ma River
+Berega River
+Berega River
+Bytschkovo
+Berega River
+Jurlovo
+Protva River
+Is'ma River
+Berega River
+Berega River
+Berega River
+Berega River
+Berega River
+Berega River
+Berega River
+Berega River
+Berega River
+Berega River
+Protva River
+Is'ma River
+Kuskovo
+Sosnovitsy
+Nikol'skoje
+Protva River
+Is'ma River
+Protva River
+Is'ma River
+Osobyj Bronepoezd ?1

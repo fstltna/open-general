@@ -1,0 +1,19 @@
+Open AK SSI Blitzkrieg WH
+
+The original SSI Blitzkrieg campaign modified for Open General and the Open AK efile
+
+German Campaign 1938-????
+
+You take command from the civil war in Spain, to the "lightning" victories of early World War II and beyond.
+
+Author:  SSI, conversion to AK 4000 by Kristjan Ambroz, "Openized" by Owen Stairs a.k.a. Llewen
+
+Version:  3.03
+
+Notes:  The intent is to take the original classic SSI Blitzkrieg campaign and add as many of the new features of Open General as possible, as well as making it playable with the excellent high cost Open AK efile.  Hopefully some of the flavour of the original classic campaign has been preserved while making the game play more interesting, varied, and challenging.
+
+Strategic Notes:  During Operation Barbarossa and the subsequent scenarios against Soviet forces the Germans do not have air transport capable of transporting the Luftlande-infanterie unit.  There is no air transport available throughout Operation Barbarossa for Luftlande units.  Fallschirm units can be transported, as can the early Brandenburger units.
+
+Please read the ..\EFILE_OPENAK\README\openak_ssi_blitzkrieg_wh_readme.txt for more information and tactical notes.
+
+Please feel free to offer any feedback on the Open General forums at http://forum.open-general.com, or you can email me directly at olstairs@rogers.com.

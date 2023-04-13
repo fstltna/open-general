@@ -1,0 +1,166 @@
+Operation "Trappenjagd" 
+28 Pio Btn./28 LD/[XXX]
+28 Auf./28 LD/[XXX]
+28 Pzjgr/28 LD/[XXX]
+49 R/28 LD/[XXX]
+83 R/28 LD/[XXX]
+28 AR/28 LD/[XXX]
+Star-Krym
+Feodosiya [PORT]
+Feodosiya
+Koktebel
+Islam-Terek
+Kiet
+Koj-Assan
+Ak-Monai
+Parpach
+Arma-Eli
+Sem-Kolodezei
+Kerch
+Kerch [PORT]
+LAKE
+8 Bde./-/[VII]
+23 R/10 ID/[VII]
+33 R/10 ID/[VII]
+38 R/10 ID/[VII]
+94 R/19 ID/[VII]
+95 R/19 ID/[VII]
+96 R/19 ID/[VII]
+42 AR/19 ID/[VII]
+37 AR/19 ID/[VII]
+20 AR/10 ID/[VII]
+3 AR/10 ID/[VII]
+121 R/50 ID/[XXX]
+122 R/50 ID/[XLII]
+123 R/50 ID/[XLII]
+150 Auf/50 ID/[XLII]
+150 AR/50 ID/[XLII]
+/50 ID/[XLII]
+/50 ID/[XLII]
+129/22 Pz/[XXX]
+140/22 Pz/[XXX]
+140 Pio/22 Pz/[XXX]
+289 FlaK/22 Pz/[XXX]
+140 Auf/22 Pz/[XXX]
+204 PzR/22 Pz/[XXX]
+140 AR/22 Pz/[XXX]
+150 Pzjgr/22 Pz/[XXX]
+[XXX HQ]
+[VII HQ]
+[47A HQ]
+[51A HQ]
+[44A HQ]
+Zavitne
+77 MntD/[47A]
+77 GD/[47A]
+77 GD/[47A]
+77 GD/[47A]
+39 Tk.Bde.
+40 Tk.Bde./[47A]
+229 Sep.Tk.Bde.
+124 Sep.Tk.Bde.
+126 Sep.Tk.Bde.
+[44A]
+[51A]
+63 MntD/[51A]
+236 RD/[47A]
+398 RD/[51A]
+276 RD/[44A]
+143 Bde./[Crimea Reserves]
+547 AR/[51A]
+276 RD/[51A]
+276 RD/[51A]
+276 RD/[51A]
+320 RD/[47A]
+271 RD/[47A]
+40/[47A]
+400 RD/[51A]
+224 RD/[47A]
+72 R (mot.)/[Crimea Reserves]
+138 RD/[51A]
+156 RD/[Crimea Reserves]
+25 GD Mortar R/[Crimea R.]
+391 R/170 ID/[XXX]
+399 R/170 ID/[XXX]
+401 R/170 ID/[XXX]
+240 AR/170 ID/[XXX]
+240 Pzjgr/170 ID/[XXX]
+240 Auf/170 ID/[XXX]
+240 Pio/170 ID/[XXX]
+[Kerch]
+[Kerch]
+[Kerch]
+AD
+Air Army
+Air Army
+Air Army
+[6 Luftflotte]
+[6 Luftflotte]
+[6 Luftflotte]
+157 RD/[44A]
+404 RD/[Crimea Reserves]
+396 RD/[44A]
+72 CD/[Crimea Reserves]
+63 Kty/[44A]
+53 AR/[44A]
+[47A]
+[44A]
+25 AR/[51A]
+[51A]
+47 R/46 ID/[XLII]
+72 R/46 ID/[XLII]
+97 R/46 ID/[XLII]
+115 R/46 ID/[XLII]
+52 PzAb/46 ID/[XLII]
+46 Auf/46 ID/[XLII]
+88 Pio/46 ID/[XLII]
+[XLII]
+390 RD/[51A]
+390 RD/[51A]
+390 RD/[51A]
+302 RD/[51A]
+309 RD/[51A]
+309 RD/[51A]
+302 RD/[51A]
+302 RD/[51A]
+457 AR/[44A]
+83 (mot) /[47A]
+2 R/8 CD/[VII]
+3 R/8 CD/[VII]
+4 R/8 CD/[VII]
+3 aR/8 CD/[VII]
+/132 ID/[XXX]
+/[XLII]
+/[VII]
+/[XXX]
+Lenine
+Vladyslavivka
+Kirovs'ke
+Prymorskyi
+Semysotka
+Batal'ne
+ Luhove
+Chyernomorskye
+Marivka
+Marfovka
+Lenins'ke
+Hornostaivka
+Arshintsevo
+Baherove
+Zolote
+Kurortne
+Tuzlyns'ka kosa
+Chokrats'ke
+Katchyk
+Uzunlars'ke
+Tobechyts'ke
+Akmashs'ke
+Pivnichno-Krymskyi Kanal
+Sivash
+kosa Arabats'ko Strilka
+Scholkine
+Sea Of Azov
+Kerchens'ka Protoka
+Londra
+Black Sea
+/22Pz/[XXX]

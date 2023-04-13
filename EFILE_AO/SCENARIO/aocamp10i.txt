@@ -1,0 +1,18 @@
+Greenland Ice Sheet
+December 7th, 1954
+---------------------------------
+Just when you thought you'd never get to go home again.
+
+Commander, something odd is going on outside of Thule.  Some of our eggheads wandered out onto the ice sheet to work on a classified project, only to find radar signatures of a kind they'd never before seen.  We sent a local company to investigate.  Unfortunately, whatever the source of those radar signatures is also appears to be jamming our communications for the most part.
+
+We know the company is alive but that they are in great distress.  We also know that they have discovered some sort of unknown device out on the ice sheet.  This device must be protected at all costs, Commander!
+
+It's my own personal belief that the damn Reds are attempting to retake Thule once more.  I've pinpointed the enemy radar signatures in the area on your map with the help of the science team.  To that end, I want you to deploy your troops and eliminate the Red presence in the area.  Disable their radar devices and send Ivan home.
+
+Carter out.
+---------------------------------------------------
+SCENARIO NOTES:
+* All 5 key enemy buildings (but not turrets) must be eliminated to complete the mission.
+* The Time Machine must survive.
+* A bridging unit will be useful here, as you are far from civilization.
+

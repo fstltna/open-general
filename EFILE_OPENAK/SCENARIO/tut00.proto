@@ -1,0 +1,7 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 131  '  Pz Panther A  [ TK  Deutschland]  Cost: 1104

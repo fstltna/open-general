@@ -1,0 +1,23 @@
+December 19th, 1954
+The Moon
+-----------------------------------------------------------------------
+Can you hear me in that tin can?  Jesus, I can't even imagine what it's like right now for you up there.  
+
+So here's the situation:  the Germans have three command structures on the lunar surface.  You need to destroy all three of these structures and take control of the surrounding area.
+
+I know it's taken longer than expected to get you up here, but it took the Air Force a full six months to get everything ready, even with the assistance of the German scientists we "liberated" from that rocket base.  You've got a dedicated team of specialists and equipment up there now that are fully trained and itching for their first round of extraterrestrial combat. Took some words to get you in command of the outfit, but you know, I do my best.
+
+What that does mean, however, is that these aren't your men on the surface here, Commander.  Your A.O. unit has stayed planetside; they're too valuable to risk deploying on a mission like this one and we need a quick response team at home in case something ELSE goes awry while you're up there.
+
+Some things you should know: gravity's obviously going to be lighter on the moon, so you're generally gonna get better bang for your buck in terms of effective firing range.  On the other hand, shrapnel weapons will be a lot less effective, and infantry are going to be more vulnerable generally.  But you already read all this in the briefing on the way up here, so that should be old news to you.
+
+We've also been able to use the intervening weeks to make a new model of tank combat-operational for the lunar mission.  This tank is equipped with a high powered energy weapon that will help break the front lines.  I even was able to secure one on permanent lease to the A.O.unit, providing it survives combat.
+
+Take our moon back, Commander!  I can't stand the thought of the Krauts being up there a moment longer.
+
+Carter out.
+--------------------------------------------
+SCENARIO NOTES:
+* Your core force cannot be deployed on this mission.
+* Units have different statistics on the moon; they can shoot farther but artillery pieces are generally less effective.
+*An XLM54 tank has been added to your core force.

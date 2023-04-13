@@ -1,0 +1,8 @@
+Batalla de Palo Alto
+May 8, 1846
+
+* Intro text *
+
+ORDER: Take all VHs and keep your MSU alive.
+
+scenario designer: Csaba (lvjtn)

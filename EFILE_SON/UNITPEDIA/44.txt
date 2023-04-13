@@ -1,0 +1,7 @@
+The Hungarian word literally means “Home Defender”.
+
+It is a Light Infantry with weak attack and defense values. It has only two minor special skills: it can use rail transport (RTP) and no station is needed to embark/disembark RTP.
+
+The organization of the Honvédség (Home Defense Force) started in May 1848, officially the Honvéd battallions were part of the National Guard (Nemzetõrség), but they were intended to be the core of the National Army from the beginnings. The Honvédség was officially born on 11th July, 1848, when the Parliament voted for creating an Army consisting of 200,000 recruits, and they supplied the necessary money too. At the end of 1848, there were 100,000 armed men in the Honvédség (most of them were newly recruited infantrymen, called “Honvéd”) and in July 1849, at the peak of the revolution, their number reached 170,000.
+
+This unit represents the newly recruited, poorly trained but well equipped soldiers of the National Army.

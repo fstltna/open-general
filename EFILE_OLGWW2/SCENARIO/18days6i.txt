@@ -1,0 +1,27 @@
+Antwerp
+(17-19 May 1940)
+v.1.0
+The Campaign of the 18 Days
+(10-28 May 1940)
+
+General,
+
+As a result of the German breakthrough at Sedan, General Billote, French commander of the Groupe d'Armées n° 1 and coordinator of the Northern front, has decided to retreat from the fortified "Ligne KW" (Dyle position). towards the Escaut/Scheldt river and the Terneuzen-Gent canal.
+
+I know this decision is difficult to understand since its means losing both Antwerpen/Anvers and Bruxelles/Brussel and leaving our strong positions at the "KW line" (Dyle position), but we have to be confident in our allies. The retreat will start in the night of the 17th/18th of May. You must ensure the IV and V Corps retreat to the new positions behind the Escaut/Scheldt river and stop the Germans over it to give time for the redeployment. Our army depots have also to be moved.  
+
+Some of your units will protect the retreat. 
+
+Le Chef d'Etat-major général de l’armée (EMGA)
+
+Victory conditions: retreat 24 units, hold the two VH and ensure that the army depot survive. 
+
+Warning: you can deploy only 3 units.
+
+E-file: OLGWW2 (version 2.00 or higher)
+
+Map: Antwerp (512)
+
+Paqueo, July 2012 
+
+

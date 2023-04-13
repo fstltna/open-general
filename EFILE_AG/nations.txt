@@ -1,0 +1,111 @@
+* Read carefully before editing!
+* Each line can be any length, but only first 96 chars will be read
+* Empty lines and those starting with * will be skipped.
+* Can replace any text but do no change the sequence of lines
+*-------------------------------------------------------------------
+* Sides
+Side 1
+Side 2
+All Countries
+
+* Nations
+Romans 
+Celts
+Huns
+rebellious Slaves
+Cilician Pirates 
+Germans
+Carthages                 
+Trojans
+Achaians
+Egyptians
+Hittites
+Assyrians
+Babylonians
+Spartans
+Athenian Confederacy
+Macedonians
+Persians
+Indian Lords
+Numidians
+Armenians
+Parthians
+Skythians
+Etruscans
+Chinese Empire
+Natives
+Majas
+Polynesians
+Saxony
+Franconians
+Roman Rebels
+Nubians
+Goths
+Jews
+Thrakians
+Illyrians
+Britons
+Picts
+celtish Opponents
+germanic Opponents
+Western Roman Empire
+Byzantine Empire
+Sarmatians
+Scoti
+Thebes
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)
+(empty)

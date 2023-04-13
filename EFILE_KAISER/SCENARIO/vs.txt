@@ -1,0 +1,18 @@
+1914-18 SCHLIEFFEN-PLAN 
+
+Version: 3.0
+Equipment File: Kaiser General
+Number of Scenarios: 27
+Player Country: German Empire
+Campaign Designer: Wonderdoc
+
+The initial moves in WW1 were dictated by plans drawn up in the years before the war. The plan with the most impact on the war in Western Europe was Germany's Schlieffen plan.
+
+The 1905 plan developed by Count Alfred von Schlieffen, had the following key features:
+- A bold and decisive 6 week initial move against France before Russia could mobilize.
+- Violation of Dutch and Belgian neutrality as the strong German right wing swept westwards to enter France from its northern borders.
+- A weak German left wing to contain the French on their eastern border in Lorraine.
+
+Von Schlieffen's successor von Moltke made the plan less daring by not moving through Holland - which created a bottleneck near the city of Liege - and by strengthening the defensive left wing by taking away troops from the offensive right wing.
+
+Your core forces are part of the offensive right wing moving into Belgium. Can you make von Moltke's plan work?

@@ -1,0 +1,8 @@
+Battle of the Hedgerows - July 1944
+
+Your division is one of the few Panzer divisions facing the Americans in Normandy. Send a KG to La-Haye-du-Puits in support of the 353th Division that is under heavy American attack. Send another KG to support 17SS Panzergrenadier Division "Goetz von Berlichingen" in its counterattack NW of St-Lo. The rest of your forces will be kept in reserve for now.
+
+PLAYER ORDERS
+- Strength lost on core units will be automatically replaced at HQ at the start of the next scenario.
+- New units can be acquired at HQ at the start of the next scenario.
+- Capture all VH.

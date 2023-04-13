@@ -1,0 +1,185 @@
+Gambit
+Lake Charzykowskie
+River Vistula
+Lake Charzykowskie
+Czerck
+River Vistula
+Opalenie
+River Vistula
+Sliwice
+Opalenie
+River Vistula
+Chojnice
+Sliwice
+River Vistula
+River Vistula
+River Vistula
+Kwidzyn
+Kwidzyn
+River Vistula
+Warlubie
+River Vistula
+River Vistula
+Zamarte
+Tuchola
+Lake Zur
+Warlubie
+River Vistula
+Tuchola
+Lake Zur
+River Vistula
+River Vistula
+Pamietowo
+River Vistula
+Grudziadz
+Pamietowo
+River Vistula
+Grudziadz
+River Vistula
+River Vistula
+Grudziadz
+Lake Koronowskie
+River Vistula
+River Vistula
+Lake Koronowskie
+Lake Koronowskie
+River Vistula
+River Vistula
+River Vistula
+River Vistula
+Lake Koronowskie
+Swiekatowo
+Swiecie
+River Vistula
+River Vistula
+Lake Koronowskie
+River Vistula
+Lake Koronowskie
+River Vistula
+River Vistula
+Chelmno
+Chelmno
+Koronowo
+Lake Koronowskie
+River Vistula
+Koronowo
+River Vistula
+River Vistula
+Wabrzezno
+River Vistula
+Wabrzezno
+River Vistula
+River Vistula
+River Vistula
+River Vistula
+River Vistula
+Naklo n. Notecia
+Bydgoszcz
+River Vistula
+Naklo n. Notecia
+Bydgoszcz
+Bydgoszcz
+Bydgoszcz
+Fordon
+River Vistula
+Badgoski Canal
+Badgoski Canal
+Badgoski Canal
+Badgoski Canal
+Badgoski Canal
+Badgoski Canal
+Badgoski Canal
+Badgoski Canal
+Badgoski Canal
+Badgoski Canal
+Bydgoszcz
+Badgoski Canal
+Bydgoszcz
+Bydgoszcz
+River Vistula
+River Vistula
+Badgoski Canal
+Badgoski Canal
+Badgoski Canal
+Bydgoszcz
+Bydgoszcz
+Badgoski Canal
+Bydgoszcz
+Badgoski Canal
+Badgoski Canal
+Badgoski Canal
+River Vistula
+Badgoski Canal
+Bydgoszcz
+Bydgoszcz
+River Vistula
+River Vistula
+River Vistula
+River Vistula
+Torun
+River Vistula
+River Vistula
+River Vistula
+River Vistula
+Torun
+Torun
+Torun
+Torun
+Torun
+River Vistula
+River Vistula
+River Vistula
+River Vistula
+River Vistula
+River Vistula
+Torun
+Szubin
+Szubin
+Szubin
+River Vistula
+River Vistula
+River Vistula
+River Vistula
+River Vistula
+River Vistula
+River Vistula
+Aleksandrow Kujawski
+Aleksandrow Kujawski
+River Vistula
+River Vistula
+River Vistula
+River Vistula
+River Vistula
+River Vistula
+I/6/3rd Pz(XIX)
+I/25/2nd Inf(XIX)
+II/69/20th Inf(XIX)
+I/23/23rd Inf(Res)(XIX)
+III/23/23rd Inf(Res)(XIX)
+I/67/23rd Inf(Res)(XIX)
+III/68/23rd Inf(Res)(XIX)
+II/9/23rd Inf(Res)(XIX)
+II/25/2nd Inf(XIX)
+1/18 Ulan/Pomorska(Pomorze)
+2/18 Ulan/Pomorska(Pomorze)
+3/18 Ulan/Pomorska(Pomorze)
+4/18 Ulan/Pomorska(Pomorze)
+2/34/9th Inf(Pomorze)
+1/9/9th Inf(Pomorze)
+1/50/27th Inf(Pomorze)
+3/64/16th Inf(Pomorze)
+2/14/4th Inf(Pomorze)
+1/4/4th Inf(Pomorze)
+2/4/4th Inf(Pomorze)
+1/27/27th Inf(Pomorze)
+2/27/27th Inf(Pomorze)
+3/27/27th Inf(Pomorze)
+4/27/27th Inf(Pomorze)
+5/27/27th Inf(Pomorze)
+6/27/27th Inf(Pomorze)
+7/9/9th Inf(Pomorze)
+Reinforcements will take and hold Vic Hexes
+Ju-87B-1
+12/44(Pomorze)
+Pz II D & 2 Infantry (Trucks)
+2/92/4th Inf(Pomorze)

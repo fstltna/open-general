@@ -1,0 +1,42 @@
+Gette River
+2 L / 1 DC / CCM
+3 L / 1 DC / CCM
+1 L / 2 DC / CCM
+1 ChCh / 2 DC / CCM
+2 ChCh / 2 DC / CCM
+1 Cy / 1 DC / CCM
+3 Cy / 1 DC / CCM
+2 Cy / 2 DC / CCM
+4 Cy / 2 DC / CCM
+- / 2 DC / CCM
+EscT13 / 1 DC / CCM
+25 GN / 1 DC / CCM
+26 GN / 2 DC / CCM
+17 ACh / 1 DC / CCM
+18 ACh / 2 DC / CCM
+59 IR / 19 ID / XI Korps / 6 Armee
+73 IR / 19 ID / XI Korps / 6 Armee
+74 IR / 19 ID / XI Korps / 6 Armee
+55 AR / 19 ID / XI Korps / 6 Armee
+30 PB / 30 ID
+19 AA / 19 ID / XI Korps / 6 Armee
+19 PA / 19 ID / XI Korps / 6 Armee
+12 IR / 31 ID / XI Korps / 6 Armee
+17 IR / 31 ID / XI Korps / 6 Armee
+82 IR / 31 ID / XI Korps / 6 Armee
+31 AR / 31 ID / XI Korps / 6 Armee
+31 AA / 31 ID / XI Korps / 6 Armee
+31 PA / 31 ID / XI Korps / 6 Armee
+1 G / 1 DC / CCM
+5 PzR / 3 PzD / XVI Korps / 6 Armee
+3 AA / 3 PzD / XVI Korps / 6 Armee
+3 SR / 3 PzD / XVI Korps / 6 Armee
+Halen
+646 / - / - / 6 Armee
+Kortenaken
+Westbekan
+Loksbergen
+Waanrode
+19 ACh / - / CCM
+1/K88 / 2 LF
+2/JG27 / 2 LF

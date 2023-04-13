@@ -1,0 +1,98 @@
+The Road to Rimini
+Porretta Terme
+Fiorenzuola
+Mercatale
+Barberino
+8
+RIVER
+Bisenzio River
+Sieve River
+Vaiano
+Scarperia
+Campo Tizzoro
+Borgo S. Lorenzo
+Prato
+Ombrone River
+Pistoia
+Calenzano
+Monsummano Terme
+Sesto Fiorentino
+Quarrata
+Campi Bisenzio
+Florence
+Rimini
+Rimini Port
+Riccione
+Misano Adriatico
+Coriano
+Conca River
+Cattolica
+Gabicce Mare
+Gradara
+Pesaro
+Port Pesaro
+Morciano Di Romagna
+Foglia River
+Tavullia
+Saludecio
+Montecchio
+Fano
+Port Fano
+Montelabbate
+Montecalvo In Foglia
+Colbordola
+Sant' Angelo
+Metauro River
+Cartoceto
+Petriano
+Serrungarina
+Montefelcino
+Urbino
+Fossombrone
+Fermignano
+Cesano River
+Gabicce Mare Airfield
+Village
+Ancona Airfield
+Railroad
+Adriatic Sea
+LXXXV/5
+C/5
+CCX/278
+CXCIII/278
+CCLXXVIII/278
+171st FlaK Abt.
+CXCI/71
+CXCIV/71
+CLXXI/71
+278th JgdPz. Abt.
+171st JgdPz. Abt.
+XCV/5
+XV/29
+CXXIX/29
+LXVII/26
+IX/26
+313th FlaK Abt.
+CCCIV/26
+XXVI/26
+II/1
+I/1
+IV/1
+IV/5
+III/3
+V/5
+5th Kresowa Div.
+3rd Carpathian Div.
+4th Indian Div.
+46th Infantry Div.
+CCLXX/46
+1st Armored Div.
+CII/56
+40th Squadron
+JG-6
+MOUNTAIN
+HILL
+CLEAR
+ROUGH
+Ancona
+Loreto

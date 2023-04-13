@@ -1,0 +1,7 @@
+Brief to Anzac Commander.
+
+Your failure to secure this vital objective in time has left us in a perilous situation!!! We have a desk job waiting for you.
+
+Message to the Player:-
+
+When you get to the next HQ screen please save your game and exit. Overwrite the WW1 Efile in your PG2 folder with those contained in the Zip "WW2 Efile". Reopen your saved game and your WW1 units will have been upgraded for you. 

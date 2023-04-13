@@ -1,0 +1,151 @@
+First Ypres - Messines
+Railroad
+Ieper-Komen Kanaal
+Hollebeke
+Sint-Elooi (St. Eloi)
+Voormezele
+Oosttaverne
+Dikkebus (Dikkebusch)
+Vierstraat
+Wijtschate (Wytschaete)
+Houthemstr./Rijselstr.
+Houtem (Houthem)
+Wulvergem
+Mesen (Messines)
+Nieuwkerke
+Douve River
+Leie Kanaal (Lys Canal)
+Waasten (Warneton)
+Ploegsteert Wood
+HMAT Churchill (Lt.Cmd.Ridler)
+HMAT Deguise (Kpt.Servais)
+HMAT Jellicoe(LtC.Littlejohns)
+3Sq RFC
+5Sq RFC
+12/XXXV/7ID [IV]
+25&58/XXXV/7ID [IV]
+2S.GDS/20/7ID [IV]
+2GORD.HIGHS/20/7ID [IV]
+1G.GDS/20/7ID [IV]
+2BORD/20/7ID [IV]
+2RSF/21/7ID [IV]
+2WILTS/21/7ID [IV]
+Commander Samson RNAS Sq.
+1S.L.I./11/4ID [II]
+1E.LANCS/11/4ID [II]
+1HAMPS/11/4ID [II]
+1RB/11/4ID [II]
+XIV/4ID [II]
+1CONN.RANG./Ferozep./Lahore [Ind]
+9Bophal/Ferozep./Lahore[Ind]
+57WR/Ferozepore/Lahore [Ind]
+129DCOB/Ferozep./Lahore[Ind]
+4HRS/3/2CD [Cav]
+5LCRS/3/2CD [Cav]
+16LCRS/3/2CD [Cav]
+D/III/2CD [Cav]
+7/-/-/-/7ID [IV]
+NORTH'D.HRS/-/7ID [IV]
+C/XV/3CD [IV]
+K/XV/3CD [IV]
+3D.GDS/6/3CD [IV]
+1R.DGS/6/3CD [IV]
+10HRS/6/3CD [IV]
+1L.GDS/7/3CD [IV]
+2L.GDS/7/3CD [IV]
+R.H.GDS/7/3CD [IV]
+E/III/2CD [IV]
+J/III/2CD [IV]
+HCCR/4/2CD [Cav]
+6D.GDS/4/2CD [Cav]
+3HRS/4/2CD [Cav]
+2DGS/5/2CD [Cav]
+20HRS/5/2CD [Cav]
+12LCRS/5/2CD [Cav]
+I/VII/1CD [IV]
+H/VII/1CD [IV]
+2D.GDS/1/1CD [Cav]
+5D.GDS/1/1CD [Cav]
+11HRS/1/1CD [Cav]
+4D.GDS/2/1CD [Cav]
+9LCRS/2/1CD [Cav]
+18HRS/2/1CD [Cav]
+Patrol 11/4ID [II]
+Patrol 1CD [Cav]
+Staff and Supply 3/2CD [Cav]
+Staff and Supply 5/2CD [Cav]
+Staff and Supply 1/1CD [Cav]
+Staff and Supply 2/1CD [Cav]
+Staff and Supply 4/2CD [Cav]
+III/3RFeldA/-/4KD [HKI]
+2GMG/-/-/4KD [HKI]
+K.2/3/4KD [HKI] (dism.)
+U.9/3/4KD [HKI] (dism.)
+D.17/17/4KD [HKI] (dism.)
+D.18/17/4KD [HKI] (dism.)
+H.15/18/4KD [HKI] (dism.)
+H.16/18/4KD [HKI] (dism.)
+J.3/39/4KD [HKI] (dism.)
+D.14/39/4KD [HKI] (dism.)
+BavChev.8/Schrott/4KD [HKI]
+Kaufmann/Schrott/4KD [HKI]
+Flotow/Schrott/4KD [HKI]
+7/-/-/4KD [HKI]
+III/1RGFeldA/-/GKD [HKI]
+1GMG/-/-/GKD [HKI]
+GdC/1G/GKD [HKI] (dism.)
+GK/1G/GKD [HKI] (dism.)
+GU.1/2G/GKD [HKI] (dism.)
+GU.3/2G/GKD [HKI] (dism.)
+GD.1/3G/GKD [HKI] (dism.)
+GD.2/3G/GKD [HKI] (dism.)
+J/-/-/GKD [HKI]
+7MG/-/-/9KD [HKIV]
+III/10RHFeldA/-/9KD [HKIV]
+1BR/-/-/9KD [HKIV]
+K.4/13/9KD [HKIV] (dism.)
+H.8/13/9KD [HKIV] (dism.)
+H.11/14/9KD [HKIV] (dism.)
+U.5/14/9KD [HKIV] (dism.)
+U.13/19/9KD [HKIV] (dism.)
+D.19/19/9KD [HKIV] (dism.)
+2Esc/D.3/-/9KD [HKIV](dism)
+3Esc/D.16/-/9KD [HKIV](dism)
+6MG/-/-/6KD [HKKIV]
+III/8RRFeldA/-/6KD [HKIV]
+5/-/-/6KD [HKIV]
+1R/-/-/6KD [HKIV]
+LD.20/28/6KD [HKIV] (dism)
+D.21/28/6KD [HKIV] (dism.)
+D.9/33/6KD [HKIV] (dism.)
+D.13/33/6KD [HKIV] (dism.)
+H.13/45/6KD [HKIV] (dism.)
+J.13/45/6KD [HKIV] (dism.)
+1MG/-/-/BavKD [HKV]
+III/5RFeldA/-/BavKD [HKV]
+1/-/-/BavKD [HKV]
+2/-/-/BavKD [HKV]
+SchwR.1/1/BavKD [HKV](dism)
+SchwR.2/1/BavKD [HKV](dism)
+U.1/4/BavKD [HKV] (dism.)
+U.2/4/BavKD [HKV] (dism.)
+ChL.1/5/BavKD [HKV] (dism)
+ChL.6/5/BavKD [HKV] (dism)
+3MG/-/-/7KD [HKV]
+III/15ROEFeldA/-/7KD [HKV]
+D.25/26/7KD [HKV] (dism.)
+D.26/26/7KD [HKV] (dism.)
+D.15/30/7KD [HKV] (dism.)
+H.9/30/7KD [HKV] (dism.)
+U.11/42/7KD [HKV] (dism.)
+U.15/42/7KD [HKV] (dism.)
+4/Petersen/-/- [HKKV]
+9/Petersen/-/- [HKKV]
+10/Petersen/-/- [HKKV]
+FFA 5
+Adv.Post 1GG/20/7ID [IV]
+Patrol 1/1CD [Cav]
+Patrol 2/1CD [Cav]
+Patrol 4/2CD [Cav]
+Patrol 5/2CD [Cav]
+Ridge

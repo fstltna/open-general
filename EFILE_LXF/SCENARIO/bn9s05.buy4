@@ -1,0 +1,25 @@
+'---
+'Config purchase file for scenario: BN9S05.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 29 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+2105  '  Regular Infantry  [INF  Finland]  Cost: 108
+2119  '  Engineers  [INF  Finland]  Cost: 456
+2131  '  Rifles  [INF  Finland]  Cost: 156
+3393  '  Combat Command  [INF  Finland]  Cost: 144
+3850  '  Construction  [INF  Finland]  Cost: 204
+3854  '  MG Infantry  [ AT  Finland]  Cost: 120
+4453  '  114mm H/18  [ATY  Finland]  Cost: 192
+4457  '  76.2mm K/02  [ATY  Finland]  Cost: 132
+4458  '  76.2mm K/36  [ATY  Finland]  Cost: 348
+4461  '  81mm Krh/36  [ATY  Finland]  Cost: 108
+5995  '  Recon Infantry  [RCN  Finland]  Cost: 120
+6838  '  122mm H/10-30  [ATY  Finland]  Cost: 204
+6969  '  FT C  [ TK  Finland]  Cost: 216
+6976  '  75mm K/02  [ATY  Finland]  Cost: 132

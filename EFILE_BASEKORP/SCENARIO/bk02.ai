@@ -1,0 +1,52 @@
+'---
+'Config AI file for scenario: bk02.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=0 
+$buy_newair=50 
+$buy_pick_method=1 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3  
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2  
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=34 items  ' Replacement for default list
+ 476  '  45mm PTP-37  [ AT  Russia]  Cost: 84
+ 484  '  122mm M-30  [ATY  Russia]  Cost: 420
+ 486  '  76.2mm M-33  [ATY  Russia]  Cost: 180
+ 505  '  BA-10  [RCN  Russia]  Cost: 312
+ 520  '  T-26B  [ TK  Russia]  Cost: 276
+ 681  '  NKVD 39  [INF  Russia]  Cost: 96
+ 685  '  BT-7A  [ TK  Russia]  Cost: 336
+ 686  '  BT-7M  [ TK  Russia]  Cost: 336
+ 832  '  Cossacks 38  [INF  Russia]  Cost: 252
+ 920  '  Mountain 38  [INF  Russia]  Cost: 276
+ 985  '  SB 2  [ TB  Russia]  Cost: 564
+1801  '  4xMG  [FlaK  Russia]  Cost: 132
+1807  '  76.2mm PP-27  [ AT  Russia]  Cost: 108
+1808  '  76.2mm E-2  [ AT  Russia]  Cost: 132
+1817  '  152mm M-10  [ATY  Russia]  Cost: 420
+1829  '  MG 39  [FlaK  Russia]  Cost: 108
+1839  '  OT-134  [ AT  Russia]  Cost: 324
+1842  '  T-35  [ TK  Russia]  Cost: 480
+1854  '  TB-3  [ TB  Russia]  Cost: 564
+1857  '  DB-3T  [ TB  Russia]  Cost: 420
+2429  '  Infantry 38  [INF  Russia]  Cost: 60
+2589  '  R-10   [ TB  Russia]  Cost: 384
+2791  '  76.2mm M-09  [ATY  Russia]  Cost: 168
+2966  '  BA-6  [RCN  Russia]  Cost: 300
+3066  '  BA-20  [RCN  Russia]  Cost: 216
+3170  '  Mountain Engineer 38  [INF  Russia]  Cost: 372
+3384  '  Motostrelkovy 39  [INF  Russia]  Cost: 72
+3755  '  Engineer 38  [INF  Russia]  Cost: 312
+3757  '  Motostrelkovy 38  [INF  Russia]  Cost: 60
+3758  '  Novobranets 38  [INF  Russia]  Cost: 48
+3759  '  Parashutisti 38  [INF  Russia]  Cost: 264
+3828  '  Repair Crew  [INF  Russia]  Cost: 84
+4116  '  R-10  [ TB  Russia]  Cost: 420
+5478  '  DI-6Sh  [ TB  Russia]  Cost: 588

@@ -1,0 +1,29 @@
+1939-45 FORWARD, COMRADE!
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+You will lead a soviet panzer army in the second world war. With Finland, Japan, Germany, Rumania, Hungary, Great Britain, USA and France you have eight rigid opponents. Most battles are against the Germans. So at the beginning you will have to defend terrain in most of the scenarios. Later you will only have attack missions. I am sure, you will work it out somehow.
+
+Campaign Version: July 2020
+Campaign Difficulty: Medium (Mix of easy, medium and hard scenarios)
+Player Country: USSR
+Number of Scenarios: 43
+Shortest/Longest Path: 9/26
+AI Version: 0.91
+Campaign Designer: Major Heinz
+Playtesters: Parabellum, randowe
+
+Notes and Rules:
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+- It is strictly forbidden to sell not deployed auxiliary troops.
+- If you fight together with the Germans against the west allied it is forbidden to upgrade soviet units to German units. It is only allowed to buy German troops (with basic strength 5, but already 499 exp. Points)
+- A Clue: Some scenarios will be with no auto-refit. You will not gain extra pp to refit your units. So, it should be a good idea to save some pp throughout the campaign.
+- Check README folder for scenario and map lists.
+
+Campaign's Level of Difficulty
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+The above mentioned level of difficulty is determind the following way:
+
+A random player of average skill who does not know the campaign and plays it without a single reload may think that the campaign is easy or medium or hard to play. 
+Of course there are many things that have to be taken into consideration to determine the difficulty of a certain campaign and different players may experience the level of difficulty differently, so the stated level of difficulty should just be taken as a rough information whether a campaign is easy, medium or hard to play.
+
+----------
+all pictures taken from Wikipedia/Wikimedia

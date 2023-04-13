@@ -1,0 +1,13 @@
+Combat at Rothemühl-Neuensund
+Septemer 18, 1761
+
+By mid September 1761, after the capture of Platen by the Russians, the small Prussian corps under the command of Stutterheim had been ordered to leave Western Pomerania and to take position at Stettin. This left only Belling’s corps to defend Western Pomerania. The Swedes exploited the opportunity to retake the initiative and to launch another offensive against the Prussians.
+
+Deploy Hexes: 21
+
+ORDER: Take all VHs, and keep your MSU alive.
+
+NOTE: You are awarded by an Artillery detachment.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

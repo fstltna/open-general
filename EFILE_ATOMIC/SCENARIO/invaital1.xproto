@@ -1,0 +1,25 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 407  '  M18 Hellcat  [ AT  USA]  Cost: 612
+ 444  '  M4A1-76W  [ TK  USA]  Cost: 744
+ 454  '  P-38J Lightning  [FTR  USA]  Cost: 936
+ 460  '  P-51B Mustang  [FTR  USA]  Cost: 876
+ 461  '  P-51D Mustang  [FTR  USA]  Cost: 960
+ 467  '  B-25H Mitchell  [ TB  USA]  Cost: 1152
+1761  '  M1 203mm Howitzer  [ATY  USA]  Cost: 1500
+1769  '  M4A6  [ TK  USA]  Cost: 564
+1780  '  P-61A-10 Black Widow  [FTR  USA]  Cost: 1176
+2877  '  F6F-5 Hellcat  [FTR  USA]  Cost: 996
+4512  '  F6F-3 Hellcat  [FTR  USA]  Cost: 936
+4677  '  P-47D-10 Thunderbolt  [ TB  USA]  Cost: 900
+6227  '  F6F-5N Hellcat  [FTR  USA]  Cost: 1092
+6359  '  P-63A Kingcobra  [FTR  USA]  Cost: 960
+7029  '  F4U-2 Corsair  [FTR  USA]  Cost: 972
+7993  '  M1 203mm Gun  [ATY  USA]  Cost: 1992
+7994  '  T34 Calliope  [ATY  USA]  Cost: 888
+8174  '  Armored Infantry 44  [INF  USA]  Cost: 624
+8425  '  T27E2  [ATY  USA]  Cost: 672

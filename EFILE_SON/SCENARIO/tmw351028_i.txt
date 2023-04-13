@@ -1,0 +1,13 @@
+Battle of Concepción
+October 28, 1835 
+
+Colonel Bowie led a scouting party to investigate the status of the other missions around San Antonio de Béxar. After checking out the Mission de Concepción his force came under attack from Colonel de Ugartechea. Bowie directed his troops to fall back to the river and defend themselves from a position within the wood line bank.
+
+Deploy Hexes: 6
+
+ORDER: Take all VHs and keep your MSU alive.
+
+NOTE: The Supply Base unit in the VH can resupply the adjacent units.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

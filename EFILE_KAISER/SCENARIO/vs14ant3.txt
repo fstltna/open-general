@@ -1,0 +1,181 @@
+Antwerp - The Third Battle
+Kontich
+Lint
+Zevenbergen
+Lier
+Herenthout
+Lindekens
+Heist-op-den-Berg
+Herlaar
+Booischot
+Duffel
+Itterbeek
+Berlaar
+Putte
+Gangelberg
+Blauwenhoek
+Mechelen
+Bonheiden
+Huurbossen
+Peulis
+Pandoerenhoek
+Kast van Weines
+Schriek
+Lozenhoek
+Tremelo
+Keerbergen
+Rijmenam
+Hever
+Muizen
+Hofstade
+Vaart Mechelen Leuven
+Dijle
+Laak
+Nete
+Kleine Nete
+Grote Nete
+Fort Wallem
+Fort Kessel
+Fort Lier
+Fort Sint-Katelijne-Waver
+Fort Koningshooikt
+Schans Tallaart
+Schans Dorpveld
+Schans Bosbeek
+Schans Duffel
+I/2Li/2BM/1LA
+II/2Li/2BM/1LA
+III/2Li/2BM/1LA
+I/22Li/2BM/1LA
+II/22Li/2BM/1LA
+GA/-/2BM/1LA
+2Mi./-/-/2BM/1LA
+Heavy Train (Lt. Commander Littlejohns)
+Heavy Train (Lt. Robinson)
+F.L.-Abt.5
+I/5Li/5BM/2LA
+II/5Li/5BM/2LA
+III/5Li/5BM/2LA
+I/25Li/5BM/2LA
+II/25Li/5BM/2LA
+III/25Li/5BM/2LA
+5Mi./-/-/5BM/2LA
+GA/-/5BM/2LA
+I/5Li/5BM/2LA
+I/5Li/5BM/2LA
+I/5Li/5BM/2LA
+I/5Li/5BM/2LA
+I/5Li/5BM/2LA
+I/5Li/5BM/2LA
+I/1Li/1BM/5LA
+II/1Li/1BM/5LA
+III/1Li/1BM/5LA
+I/21Li/1BM/5LA
+II/21Li/1BM/5LA
+III/21Li/1BM/5LA
+5Mi./-/-/5BM/2LA
+GA/-/5BM/2LA
+1Mi./-/-/1BM/5LA
+GA/-/1BM/5LA
+I,II/5F and 2comp/I/1CdF/-/Antwerpen
+15Mob/-/-/-/Antwerpen
+Light Train (Lt.Michel)
+III/25Li/5BM/2LA
+III/25Li/5BM/2LA
+III/25Li/5BM/2LA
+I/7Li/7BM/2LA
+II/7Li/7BM/2LA
+III/7Li/7BM/2LA
+I/6F and 2comp/I/1CdF/-/Antwerpen
+I/39LIR/26Ldw.Br./-
+I,II/5F and 2comp/I/1CdF/-/Antwerpen
+II/5F/-/Antwerpen
+I/6F and 2comp/I/1CdF/-/Antwerpen
+II,III/6F/-/Antwerpen
+Hawke/1NR/RND
+Collingwood/1NR/RND
+Benbow/1NR/RND
+Drake/1NR/RND
+Chatham/RMLI/RND
+Portsmouth/RMLI/RND
+Plymouth/RMLI/RND
+Deal/RMLI/RND
+Det. Kolonel Hagemans
+II/39LIR/26Ldw.Br./-
+II/39LIR/26Ldw.Br./-
+II/39LIR/26Ldw.Br./-
+III/39LIR/26Ldw.Br./-
+IV/39LIR/26Ldw.Br./-
+V/76LIR/26Ldw.Br./-
+2./59FAErs/-/26Ldw.Br./-
+1.Ldw-Esk/-/-/-/- [XXI]
+2.Ldw-Esk/-/-/-/- [VIII]
+3.Ldw-Esk/-/-/-/- [VII]
+Detachement Uckermann
+I/FuAR9/-/- (Oberstleutnant Schulenburg)
+II/FuAR9/-/- (Oberstleutnant Schulenburg)
+I/RFuAR7/-/- (Oberstleutnant Schulenburg)
+1/2 I/RFuAR3/-/- (Oberst Bormkam)
+1/2 II/RFuAR3/-/- (Oberst Bormkam)
+1/2 Btn/LdwFuAR7/-/- (Oberst Bormkam)
+SKM 1/-/-/-/- (Batterie Neumann)
+Festungs A.Btn.8/-/-/-/-
+KMK 2/-/-/-/- (Batterie Becker)
+KMK 3/-/-/-/- (Batterie Erdmann)
+II/RFuAR7/-/- (Oberstleutnant Schaubode)
+1/2 II/RFuAR8/-/- (Oberstleutnant Schaubode)
+I/RFuAR2/-/- (Oberstleutnant Schaubode)
+SKM 5/-/-/-/- (Batterie Scharf)
+SKM 6/-/-/-/- (Batterie Buch)
+RR
+St.Agatha-Berchem (off-map)
+Off map Vliegveld Wilrijk
+FLA 10
+FLA 1
+FLA 5
+I/24/-/-
+II/24/-/-
+I/25/-/-
+II/25/-/-
+III/22L/2BM/1LA
+I/9L/3LA
+II/9L/3LA
+III/9L/3LA
+3L/3BM/1LA
+23L/3BM/1LA
+4L/4BM/1LA
+24L/4BM/1LA
+3Sq RNAS
+I/5Ch/16BM/5LA
+II/5Ch/16BM/5LA
+III/5Ch/16BM/5LA
+I/2Ch/16BM/5LA
+II/2Ch/16BM/5LA
+III/2Ch/16BM/5LA
+HF 1  BAC
+1/2 I/RFuAR3/-/- (Oberstleutnant Schaubode)
+VI/2MIR/Mar.Inf./Mar.Div.Flandern  [IIIR]
+IV/2MIR/Mar.Inf./Mar.Div.Flandern  [IIIR]
+II/2MIR/Mar.Inf./Mar.Div.Flandern  [IIIR]
+VIII/1MIR/Mar.Inf./Mar.Div.Flandern  [IIIR]
+V/1MIR/Mar.Inf./Mar.Div.Flandern  [IIIR]
+I/1MIR/Mar.Inf./Mar.Div.Flandern  [IIIR]
+Ldw.Pio/-/-/-/Mar.Div.Flandern  [IIIR]
+MG Reserve/-/-/-/Mar.Div.Flandern [IIIR]
+I/48RIR/9R/5R [IIIR]
+II/48RIR/9R/5R [IIIR]
+III/48RIR/9R/5R [IIIR]
+I/8RIR/9R/5R [IIIR]
+II/8RIR/9R/5R [IIIR]
+III/8RIR/9R/5R [IIIR]
+I/5RFAR/-/5R [IIIR]
+II/5RFAR/-/5R [IIIR]
+I/12RIR/10R/5R [IIIR]
+II/12RIR/10R/5R [IIIR]
+III/12RIR/10R/5R [IIIR]
+I/52RIR/10R/5R [IIIR]
+II/52RIR/10R/5R [IIIR]
+III/52RIR/10R/5R [IIIR]
+J.3(att)/-/10R/5R [IIIR]
+4./vonRauch/-/-/5R [IIIR]
+RD.2/-/5R [IIIR]

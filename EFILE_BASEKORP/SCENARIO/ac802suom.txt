@@ -1,0 +1,73 @@
+Legio IX Vindicti
+Piispajarvi
+Suomussalmi
+Raate
+Juntusranta
+LAKE
+LAKE
+LAKE
+Puras
+Puras
+1
+22
+64
+65
+16
+15
+6
+R
+KTR 9
+27
+81/163
+1/82/163
+759/163
+662/163
+86/163
+365/163
+222/163
+304//163
+177/163
+230//163
+25/44
+146/44
+305/44
+122/44
+44/44
+58/44
+2NKVD/44
+Puras
+Juntusranta
+Raate
+Airfield
+Suomussalimi
+Suomussalmi
+Piispajarvi
+3/44
+246//163
+44
+Suomussalmi
+Suomussalmi
+SA
+SA
+LAKE
+FA
+Suomussalmi
+131 / "Centauro"
+5 / "Centauro"
+31 / "Centauro"
+131 / "Centauro"
+"Lucca" / Legio IX
+4 / 4 Alpini
+1 / 4 Alpini
+2 / 4 Alpini
+7 / Legio IX
+XIII CCNN / Legio IX
+3 Genio / Legio IX
+2 "Borea"
+4 "Drago"
+4 Alpini
+9 / Legio IX
+"Tula"
+SA
+SA
+198/163

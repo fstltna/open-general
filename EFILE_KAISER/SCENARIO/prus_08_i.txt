@@ -1,0 +1,13 @@
+Gravelotte
+
+Aug 18th, 1870
+
+The Germans knew that there wasn't any time to lose. They wanted to destroy the Army of the Rhine before the French could react. Just two days after Mars-la-Tour they attacked their enemies again, along the Gravelotte-Sankt Privat line, less than 10 Km west of Metz, where Bazaine's forces had built a defensive position.
+However, this time the Prussian III and X Corps weren't going to engage in battle. They were still very exhausted from the previous fight at Mars-la-Tour, and they needed time to recover. That gave the French a small chance of success, despite their numerical inferiority.
+
+Victory conditions:
+- Take all the VHs.
+
+Special note:
+- You can buy equipment from Saxony in this scenario.
+

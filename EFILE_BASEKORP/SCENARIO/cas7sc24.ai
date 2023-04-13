@@ -1,0 +1,123 @@
+'---
+'Config AI file for scenario: CAS7SC24.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=115 items  ' Replacement for default list
+ 100  '  3.7inch  [ AD  United Kingdom]  Cost: 396
+ 320  '  20mm  [FlaK  United Kingdom]  Cost: 60
+ 321  '  40mm I  [ AD  United Kingdom]  Cost: 144
+ 324  '  2pdr  [ AT  United Kingdom]  Cost: 84
+ 328  '  25 pdr  [ATY  United Kingdom]  Cost: 276
+ 330  '  5.5inch  [ATY  United Kingdom]  Cost: 816
+ 331  '  7.2inch I  [ATY  United Kingdom]  Cost: 1188
+ 338  '  40 Engineer  [INF  United Kingdom]  Cost: 408
+ 340  '  36 Bridging  [INF  United Kingdom]  Cost: 192
+ 341  '  39 Ghurka  [INF  United Kingdom]  Cost: 324
+ 343  '  39 Indian  [INF  United Kingdom]  Cost: 84
+ 345  '  40 Paratrooper  [INF  United Kingdom]  Cost: 348
+ 347  '  39 Royal Marine  [INF  United Kingdom]  Cost: 144
+ 351  '  Daimler II  [RCN  United Kingdom]  Cost: 300
+ 352  '  Humber II  [RCN  United Kingdom]  Cost: 228
+ 354  '  Scout  [RCN  United Kingdom]  Cost: 216
+ 356  '  Repulse BC  [sBS  United Kingdom]  Cost: 1320
+ 357  '  King George V BB  [sBS  United Kingdom]  Cost: 1752
+ 358  '  County CA  [sBS  United Kingdom]  Cost: 804
+ 359  '  Leander CL  [sBS  United Kingdom]  Cost: 504
+ 360  '  Illustrious CV  [sCV  United Kingdom]  Cost: 864
+ 361  '  Tribal DD  [sDD  United Kingdom]  Cost: 288
+ 365  '  Churchill IICS  [ TK  United Kingdom]  Cost: 636
+ 369  '  Cruiser IV  [ TK  United Kingdom]  Cost: 300
+ 370  '  Crusader I  [ TK  United Kingdom]  Cost: 312
+ 371  '  Crusader II  [ TK  United Kingdom]  Cost: 336
+ 373  '  Grant I  [ TK  United Kingdom]  Cost: 480
+ 374  '  Stuart I  [ TK  United Kingdom]  Cost: 324
+ 377  '  Matilda II  [ TK  United Kingdom]  Cost: 528
+ 379  '  Valentine III  [ TK  United Kingdom]  Cost: 468
+ 382  '  QL  [TPT  United Kingdom]  Cost: 72
+ 383  '  Bren Carrier  [TPT  United Kingdom]  Cost: 216
+ 389  '  Spitfire VC  [FTR  United Kingdom]  Cost: 732
+ 392  '  Beaufighter  [ TB  United Kingdom]  Cost: 732
+ 393  '  Hurricane IIC  [ TB  United Kingdom]  Cost: 648
+ 394  '  Hurricane IID  [ TB  United Kingdom]  Cost: 600
+ 398  '  C-47  [ATP  United Kingdom]  Cost: 348
+ 548  '  Transport  [NTP  United Kingdom]  Cost: 60
+ 637  '  Churchill I  [ TK  United Kingdom]  Cost: 600
+ 638  '  Churchill II  [ TK  United Kingdom]  Cost: 540
+ 652  '  Cruiser III  [ TK  United Kingdom]  Cost: 288
+ 658  '  Valentine VIII  [ TK  United Kingdom]  Cost: 528
+ 660  '  Spitfire IIA  [FTR  United Kingdom]  Cost: 684
+ 922  '  25pdr AT  [ AT  United Kingdom]  Cost: 108
+1689  '  3inch mortar  [ATY  United Kingdom]  Cost: 180
+1700  '  MG  [FlaK  United Kingdom]  Cost: 108
+1701  '  Marmon-Herrington II  [RCN  United Kingdom]  Cost: 204
+1702  '  Marmon-Herrington III  [RCN  United Kingdom]  Cost: 240
+1706  '  Valentine I  [ TK  United Kingdom]  Cost: 432
+1707  '  Matilda IIICS  [ TK  United Kingdom]  Cost: 528
+1709  '  Crusader IICS  [ TK  United Kingdom]  Cost: 432
+1718  '  Martlet I  [FTR  United Kingdom]  Cost: 768
+1722  '  Beaufort  [ TB  United Kingdom]  Cost: 540
+1723  '  Mosquito II  [ TB  United Kingdom]  Cost: 936
+1724  '  Blenheim IV  [ TB  United Kingdom]  Cost: 612
+1726  '  Hudson  [ TB  United Kingdom]  Cost: 504
+1727  '  Mosquito IV  [ TB  United Kingdom]  Cost: 864
+1729  '  Whirlwind  [ TB  United Kingdom]  Cost: 768
+1735  '  Lightning CL  [sBS  United Kingdom]  Cost: 336
+1736  '  Fiji CL  [sBS  United Kingdom]  Cost: 528
+1737  '  Manchester CL  [sBS  United Kingdom]  Cost: 540
+1738  '  Dido CL  [sBS  United Kingdom]  Cost: 504
+1739  '  Exeter CA  [sBS  United Kingdom]  Cost: 792
+1740  '  Hood BC  [sBS  United Kingdom]  Cost: 1368
+1741  '  Royal Sovereign BB  [sBS  United Kingdom]  Cost: 1356
+1742  '  Queen Elizabeth BB  [sBS  United Kingdom]  Cost: 1404
+1743  '  Furious CV  [sCV  United Kingdom]  Cost: 684
+1744  '  Hermes CV  [sCV  United Kingdom]  Cost: 480
+1745  '  S SS  [SUB  United Kingdom]  Cost: 228
+1927  '  Kittyhawk IA  [FTR  United Kingdom]  Cost: 684
+1928  '  Tomahawk IIB  [FTR  United Kingdom]  Cost: 648
+1931  '  Carrier Recon  [RCN  United Kingdom]  Cost: 204
+1958  '  4.5inch  [ AD  United Kingdom]  Cost: 780
+2560  '  Entrenched  [INF  United Kingdom]  Cost: 180
+2592  '  39 Scots Infantry  [INF  United Kingdom]  Cost: 96
+2606  '  Baltimore V  [ TB  United Kingdom]  Cost: 504
+2608  '  Boston  [ TB  United Kingdom]  Cost: 840
+2609  '  .Whitley  [ TB  United Kingdom]  Cost: 648
+2612  '  A DD  [sDD  United Kingdom]  Cost: 264
+2614  '  C8  [TPT  United Kingdom]  Cost: 84
+2615  '  Carrier  [TPT  United Kingdom]  Cost: 168
+2616  '  MW 15cwt  [TPT  United Kingdom]  Cost: 60
+2617  '  Matador  [TPT  United Kingdom]  Cost: 96
+2618  '  Pioneer  [TPT  United Kingdom]  Cost: 84
+2925  '  Jeep  [TPT  United Kingdom]  Cost: 144
+2926  '  41 ME Infantry  [INF  United Kingdom]  Cost: 144
+2942  '  Horsa II  [ATP  United Kingdom]  Cost: 180
+2943  '  Hamilcar  [ATP  United Kingdom]  Cost: 180
+3132  '  MTB-1 MTB  [sDD  United Kingdom]  Cost: 168
+3133  '  Halcyon AM  [sDD  United Kingdom]  Cost: 180
+3134  '  H 28 SS  [SUB  United Kingdom]  Cost: 216
+3135  '  Triton SS  [SUB  United Kingdom]  Cost: 240
+3324  '  Seafire I  [FTR  United Kingdom]  Cost: 876
+3511  '  41 MMG  [FlaK  United Kingdom]  Cost: 132
+3856  '  40 Camel  [INF  United Kingdom]  Cost: 108
+3857  '  40 Colonial Cavalry  [INF  United Kingdom]  Cost: 120
+3859  '  40 Indian Constabulary  [INF  United Kingdom]  Cost: 120
+3861  '  41 Light Infantry  [INF  United Kingdom]  Cost: 324
+3864  '  41 Motor Infantry  [INF  United Kingdom]  Cost: 168
+3865  '  41 Engineers  [INF  United Kingdom]  Cost: 432
+3866  '  41 Bridging  [INF  United Kingdom]  Cost: 216
+3867  '  41 Scots Infantry  [INF  United Kingdom]  Cost: 168
+3868  '  41 Commandos  [INF  United Kingdom]  Cost: 828
+3869  '  41 Royal Marines  [INF  United Kingdom]  Cost: 84
+3874  '  41 Indian Infantry  [INF  United Kingdom]  Cost: 84
+3875  '  41 Ghurkas  [INF  United Kingdom]  Cost: 348
+3876  '  41 Sikhs  [INF  United Kingdom]  Cost: 228
+3878  '  41 Arab Legion  [INF  United Kingdom]  Cost: 84
+4049  '  Beaufighter IIF  [ TB  United Kingdom]  Cost: 864
+4050  '  Beaufighter VIF  [ TB  United Kingdom]  Cost: 888
+5683  '  Parachute HQ  [INF  United Kingdom]  Cost: 288
+5807  '  Carrier Churchill 3inch  [ AT  United Kingdom]  Cost: 648
+5808  '  3inch  [ AT  United Kingdom]  Cost: 228
+5831  '  Train  [RTP  United Kingdom]  Cost: 120
+7991  '  25 Pdr at-aty  [ATY  United Kingdom]  Cost: 276

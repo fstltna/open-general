@@ -1,0 +1,96 @@
+'---
+'Config AI file for scenario: OAKSB_S_windsor.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=60 
+$buy_newair=40 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3   
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2   
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=78 items  ' Replacement for default list
+ 100  '  3.7inch  [ AD  United Kingdom]  Cost: 564
+ 261  '  37mm wz.36  [ AT  Polska]  Cost: 84
+ 263  '  87,6mm H wz.40  [ATY  Polska]  Cost: 192
+ 320  '  20mm  [FlaK  United Kingdom]  Cost: 72
+ 321  '  40mm I  [ AD  United Kingdom]  Cost: 180
+ 324  '  2pdr  [ AT  United Kingdom]  Cost: 84
+ 328  '  25pdr  [ATY  United Kingdom]  Cost: 192
+ 329  '  13pdr  [ATY  United Kingdom]  Cost: 132
+ 338  '  40 Engineers  [INF  United Kingdom]  Cost: 396
+ 339  '  40 Commandos  [INF  United Kingdom]  Cost: 1464
+ 340  '  40 Bridging  [INF  United Kingdom]  Cost: 192
+ 354  '  Dingo  [RCN  United Kingdom]  Cost: 216
+ 369  '  Cruiser IV  [ TK  United Kingdom]  Cost: 300
+ 377  '  Matilda II  [ TK  United Kingdom]  Cost: 708
+ 385  '  Hurricane I  [FTR  United Kingdom]  Cost: 756
+ 387  '  Spitfire IA  [FTR  United Kingdom]  Cost: 900
+ 551  '  Lt VI  [ TK  United Kingdom]  Cost: 204
+ 614  '  Skua  [ TB  United Kingdom]  Cost: 672
+ 627  '  18pdr  [ATY  United Kingdom]  Cost: 144
+ 629  '  4.5inch  [ATY  United Kingdom]  Cost: 192
+ 650  '  Cruiser I  [ TK  United Kingdom]  Cost: 312
+ 651  '  Cruiser IIA  [ TK  United Kingdom]  Cost: 324
+ 652  '  Cruiser III  [ TK  United Kingdom]  Cost: 288
+ 700  '  Matilda I  [ TK  United Kingdom]  Cost: 480
+ 702  '  Blenheim I  [ TB  United Kingdom]  Cost: 780
+ 720  '  Tetrarch  [ TK  United Kingdom]  Cost: 504
+ 726  '  40mm wz.36  [ AD  Polska]  Cost: 180
+ 914  '  Battle I  [ TB  United Kingdom]  Cost: 672
+1500  '  Hurricane IA  [FTR  Polska]  Cost: 804
+1684  '  3inch  [ AD  United Kingdom]  Cost: 216
+1689  '  3inch  [ATY  United Kingdom]  Cost: 84
+1693  '  6inch  [ATY  United Kingdom]  Cost: 456
+1696  '  9.2inch  [ATY  United Kingdom]  Cost: 828
+1700  '  40 MMG  [ AT  United Kingdom]  Cost: 108
+1705  '  Rolls Royce I  [RCN  United Kingdom]  Cost: 216
+1707  '  Matilda III CS  [ AT  United Kingdom]  Cost: 660
+1720  '  Defiant I  [FTR  United Kingdom]  Cost: 672
+1721  '  Albacore  [ TB  United Kingdom]  Cost: 612
+1722  '  Beaufort I  [ TB  United Kingdom]  Cost: 684
+1724  '  Blenheim IV  [ TB  United Kingdom]  Cost: 816
+1726  '  Hudson I  [ TB  United Kingdom]  Cost: 708
+1910  '  4.5inch  [ATY  United Kingdom]  Cost: 504
+1916  '  Battle I  [ TB  Polska]  Cost: 672
+1931  '  Scout Carrier  [RCN  United Kingdom]  Cost: 204
+2592  '  40 Scots Infantry  [INF  United Kingdom]  Cost: 144
+2595  '  40 Infantry  [INF  United Kingdom]  Cost: 72
+2611  '  Anson I  [ TB  United Kingdom]  Cost: 528
+2865  '  60pdr  [ATY  United Kingdom]  Cost: 480
+3353  '  Wellesley I  [ TB  United Kingdom]  Cost: 720
+3510  '  40 Piechota  [INF  Polska]  Cost: 72
+3549  '  40 Saperzy  [INF  Polska]  Cost: 192
+3550  '  40 Pionerzy  [INF  Polska]  Cost: 396
+3852  '  40 Home Infantry  [INF  United Kingdom]  Cost: 72
+3853  '  40 Motor Infantry  [INF  United Kingdom]  Cost: 144
+3854  '  40 Cavalry  [INF  United Kingdom]  Cost: 156
+3855  '  40 Constabulary  [INF  United Kingdom]  Cost: 60
+3860  '  40 LDV  [INF  United Kingdom]  Cost: 36
+3870  '  3.7inch  [ATY  United Kingdom]  Cost: 408
+4001  '  Hampden TB.I  [ TB  United Kingdom]  Cost: 768
+4037  '  Lysander IIIA  [ TB  United Kingdom]  Cost: 648
+4056  '  Spitfire I  [FTR  United Kingdom]  Cost: 900
+4057  '  Spitfire IB  [FTR  United Kingdom]  Cost: 996
+4075  '  Swordfish I  [ TB  United Kingdom]  Cost: 552
+4079  '  Roc  [FTR  United Kingdom]  Cost: 552
+4097  '  Hector I  [ TB  United Kingdom]  Cost: 480
+4226  '  Shark II  [ TB  United Kingdom]  Cost: 504
+4273  '  Vildebeest  [ TB  United Kingdom]  Cost: 480
+4664  '  Hurricane IA  [FTR  United Kingdom]  Cost: 804
+5128  '  Lysander I  [ TB  United Kingdom]  Cost: 624
+5129  '  Master Fighter  [FTR  United Kingdom]  Cost: 636
+5130  '  Spitfire PR.IV  [ TB  United Kingdom]  Cost: 780
+5170  '  18/75mm  [ATY  United Kingdom]  Cost: 144
+5683  '  44 Parachute HQ  [INF  United Kingdom]  Cost: 288
+5686  '  2pdr  [ AT  United Kingdom]  Cost: 84
+5687  '  Matilda II  [ TK  United Kingdom]  Cost: 720
+5688  '  Cruiser IIA  [ TK  United Kingdom]  Cost: 348
+5689  '  Cruiser III  [ TK  United Kingdom]  Cost: 300
+5690  '  Cruiser IV  [ TK  United Kingdom]  Cost: 324

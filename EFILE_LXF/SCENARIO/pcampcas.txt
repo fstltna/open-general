@@ -1,0 +1,75 @@
+Casablanca
+Mansouria
+Cherqui
+Fedala Petroleum Storage Facility
+Nififikh River
+Fedala
+Mellah River
+Fedala Harbour : PORT
+Mellah River : SWAMP
+El Hank : ROUGH
+Casablanca
+Table d'Oukacha : ROUGH
+Casablanca Harbour : PORT
+Hasser River
+Anfa
+Ain Sebao
+Roches Noires
+Tit Mellil
+Sidi Hajaj
+Milan
+Fougueux
+Primauguet
+Antiope
+3e RSM (-)
+1/I/RICM
+2/I/RICM
+1/II/RICM
+2/II/RICM
+1/I/6e RTM
+1/II/6e RTM
+2/II/6e RTM
+1/III/6e RTM
+2/III/6e RTM
+2/I/6e RTM
+Batterie de Fedala
+Batterie de Pont Blondin
+Batterie d'Oukacha
+Batterie d'El Hank
+Batterie d'entree de rade
+Mansouria Defenses
+II/6e RTS
+G.C. II/5
+GRCA [Casablanca]
+1er RCA
+MG [Casablanca]
+Casablanca Defenses
+I/30/3rd Inf. Div.
+II/30/3rd Inf. Div.
+III/30/3rd Inf. Div.
+Mtr/30/3rd Inf. Div.
+10/-/3rd Inf. Div.
+3/-/3rd Inf. Div.
+AT/30/3rd Inf. Div.
+756th Tank Battalion
+I/67/2nd Arm. Div.
+I/7/3rd Inf. Div.
+II/7/3rd Inf. Div.
+III/7/3rd Inf. Div.
+AT/7/3rd Inf. Div.
+603/-/3rd Inf. Div.
+609/-/3rd Inf. Div.
+USAAF 59 Squadron
+USAAF 58 Squadron
+USAAF 60 Squadron
+USAAF 84 Squadron
+USS Wilkes
+USS Swanson
+USS Augusta (Patton's HQ)
+USS Brooklyn
+USS Ludlow
+Casablanca HQ
+USS Ranger
+9th Fighter Squadron
+USS Murphy
+NRP Republica

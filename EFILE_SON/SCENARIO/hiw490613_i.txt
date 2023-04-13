@@ -1,0 +1,12 @@
+Csorna
+June 13, 1849
+
+Citoyen General! The dethroned Habsburgs appointed Haynau (the butcher of Brescia) to the new commander in chief and started another invasion against us. They didn’t learn anything, did they? A cautiousless imperial division commanded by General Wyss is patroling on the left bank of River Rába. Send a few valuable battalions and surprise the insolent enemy.
+
+Deploy Hexes: 14
+
+ORDER: Take all VHs or eliminate the Austrian MSU HQ Infantry represents General Wyss.
+
+NOTE: Don't sell you extra units, you can deploy them later.
+
+scenario designer: Csaba (lvjtn)

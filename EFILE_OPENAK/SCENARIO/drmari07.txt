@@ -1,0 +1,139 @@
+Operation Marita
+I/33/11Pz [XIV]
+II/33/11Pz [XIV]
+61/-/11Pz [XIV]
+I/119/11Pz [XIV]
+II/119/11Pz [XIV]
+III/119/11Pz [XIV]
+231/-/11Pz [XIV]
+71Fla(att.)/-/-/11Pz [XIV]
+I/4/11Pz [XIV]
+II/4/11Pz [XIV]
+I/110/11Pz [XIV]
+II/110/11Pz [XIV]
+61/-/11Pz [XIV]
+86/-/11Pz [XIV]
+I/10/8Pz [XXXXVI]
+II/10/8Pz [XXXXVI]
+43/-/8Pz [XXXXVI]
+I/80/8Pz [XXXXVI]
+II/80/8Pz [XXXXVI]
+III/80/8Pz [XXXXVI]
+8/-/8Pz [XXXXVI]
+I/8/8Pz [XXXXVI]
+II/8/8Pz [XXXXVI]
+I/28/8Pz [XXXXVI]
+II/28/8Pz [XXXXVI]
+59/-/8Pz [XXXXVI]
+31/2Puk
+52/2Puk
+32/6Puk
+51/6Puk
+7Puk
+63/3Puk
+MG/-/-/3
+AT/-/-/3
+II/3/3
+I/3/3
+III/3/3
+AA/-/-/3
+I/8/3
+II/8/3
+III/8/3
+I/18/3
+II/18/3
+III/18/3
+I/57/3
+II/57/3
+III/57/3
+Cav/-/3
+Engr/-/3
+MG/-/-/49
+AT/-/-/49
+I/49/49
+II/49/49
+III/49/49
+AA/-/-/49
+I/2/49
+II/2/49
+III/2/49
+I/7/49
+II/7/49
+III/7/49
+I/70/49
+II/70/49
+III/70/49
+Cav/-/49
+Engr/-/49
+I/Guards/Savski
+II/Guards/Savski
+III/Guards/Savski
+I/Guards/Savski
+II/Guards/Savski
+III/Guards/Savski
+Pozaveracki
+Pozaveracki
+Pozaveracki
+Pozaveracki
+Pozaveracki
+Pozaveracki
+Smederevski
+Smederevski
+Smederevski
+Smederevski
+Smederevski
+Smederevski
+Chetniks
+Chetniks
+Chetniks
+Branicevski
+Branicevski
+Branicevski
+I/Guards/Banatiski
+II/Guards/Banatiski
+III/Guards/Banatiski
+I/49/Banatiski
+I/8/Banatiski
+I/4/Banatiski
+II/4/Banatiski
+III/4/Banatiski
+II/8/Banatiski
+I/1Guards/Banatiski
+II/1Guards/Banatiski
+I/2Guards/Banatiski
+II/2Guards/Banatiski
+I/GD [XXXXI]
+II/GD [XXXXI]
+III/GD [XXXXI]
+I/JG27 [FF Graz] LF4
+II/JG27 [VIII] LF4
+III/JG27 [VIII] LF4
+I/KG2 [HQ Wien] LF4
+II/KG2 [HQ Wien] LF4
+I/KG51 [HQ Wien] LF4
+II/KG51 [HQ Wien] LF4
+I/StG2 [VIII] LF4
+III/StG2 [VIII] LF4
+Pillbox
+Pillbox
+Pillbox
+Tank Ditch
+Tank Ditch
+Tank Ditch
+Tank Ditch
+Tank Ditch
+Tank Ditch
+Tank Ditch
+Tank Ditch
+Roadblock
+Roadblock
+Belgrade
+Sava
+Danube
+Tisa
+Croat Deserters
+6 Army HQ
+Belgrade FlaK
+Belgrade FlaK
+Krad2/-/Reich [XXXXI]
+StuG/-/-/Reich [XXXXI]

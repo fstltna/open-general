@@ -1,0 +1,62 @@
+Luzon Gap
+Tarlac
+Pampanga River
+LaPaz
+Dalagat River
+Penaranda River
+Concepcion
+Bamban
+Bamban River
+Gapan
+Mount Arayat
+Magalang
+Angeles
+Mexico
+Clark Field
+Gumain River
+San Fernando
+Baliuag
+Angat River
+Calumpit
+Plaridel
+Culo River
+11 R/11 ID(PA)/USAFFE
+12 R/11 ID(PA)/USAFFE
+13 R/11 ID(PA)/USAFFE
+e Bn/11 ID(PA)/USAFFE
+Aty Bn/11 ID(PA)/USAFFE
+91 R/91 ID(PA)/USAFFE
+92 R/91 ID(PA)/USAFFE
+93 R/91 ID(PA)/USAFFE
+e Bn/91 ID(PA)/USAFFE
+Aty R/91 ID(PA)/USAFFE
+21 R/21 ID(PA)/USAFFE
+22 R/21 ID(PA)/USAFFE
+23 R/21 ID(PA)/USAFFE
+e Bn/21 ID(PA)/USAFFE
+Aty R/21 ID(PA)/USAFFE
+1 Taiwan/48 ID/14 Army
+2 Taiwan/48 ID/14 Army
+48 Bn/48 ID/14 Army
+48 Bn/48 ID/14 Army
+48 Bn/48 ID/14 Army
+48 Rnc/48 ID/14 Army
+48 AA/48 ID/14 Army
+194th Tk Bn/USAFFE
+192 Tk Bn/USAFFA
+71 R/71 ID(PA)/USAFFE
+72 R/71 ID(PA)/USAFFE
+Aty R/71 ID(PA)/USAFFE
+51 R/51 ID(PA)/USAFFE
+52 R/51 ID(PA)/USAFFE
+53 R/51 ID(PA)/USAFFE
+Aty R/51 ID(PA)/USAFFE
+4 Tk R/14 Army
+7 Tk R/14 Army
+47 R/48 ID/14 Army
+5th Air Group
+9 R/14 Army
+8 Aty/14 Army
+1 Aty R/14 Army
+1 Aty R/14 Army
+Hq/14 Army

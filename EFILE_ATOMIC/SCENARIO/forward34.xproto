@@ -1,0 +1,14 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+4672  '  Yak-3P  [FTR  USSR]  Cost: 948
+7548  '  Gwardija 46  [INF  USSR]  Cost: 204
+6695  '  PzGren 46 auf Jagdtiger  [INF  Germany]  Cost: 1200
+7969  '  E-50  [ TK  Germany]  Cost: 1800
+8215  '  E-50 Jagdpanzer  [ AT  Germany]  Cost: 1500
+5052  '  Do 335B-2  [FTR  Germany]  Cost: 1212
+5062  '  Go 229B-1  [FTR  Germany]  Cost: 2160
+5067  '  He 162A-3  [FTR  Germany]  Cost: 1056

@@ -1,0 +1,17 @@
+Guam
+(20 June 1898)
+v 1.0
+The sunset of the Spanish Empire - The Spanish American War 1898
+
+General,
+
+Our spies in Washington have informed that on June 4 the cruiser USS Charleston, in company with the steamers City of Peking, City of Sidney and Australia transporting troops, left Honolulu en route for the Philippines. Within the orders is the directive for the cruiser and transports to proceed to the Spanish Marianas Islands and take the island of Guam.
+
+You will reinforce the garrison with some troops under your command and avoid the island to be taken by the Yankees. Given that their final destination is Manila I do not expect a major effort in this mission.
+
+Victory conditions: to hold three VHs for a BV, two for a V and one for a TV.
+
+Warning: you can only deploy one land unit. 
+
+Paqueo
+December 2013

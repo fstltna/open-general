@@ -1,0 +1,12 @@
+1942 FROM EL ALAMEIN TO ALEXANDRIA
+
+File                	Scenario                                           Date           BV   V  TV    L  Map
+
+ 0 elala0.xscn          2nd El Alamein: Allied Attack                      Oct 23, 1942    1   1   1   Ls  50005.jpg
+ 1 elala1.xscn          2nd El Alamein: Counterattack                      Oct 25, 1942    2   2   2   Ls  50005.jpg
+ 2 elala2.xscn          From El Alamein to Alexandria                      Oct 27, 1942    3   3   3   Ls  50005.jpg
+ 3 elala3.xscn          Battle of Alexandria                               Nov  2, 1942  Win Win Win   Ls  50005.jpg
+
+Summary of maps needed:
+
+50005.jpg             used 4   times

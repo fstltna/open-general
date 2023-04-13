@@ -1,0 +1,466 @@
+Kiev encirclement - Konotop
+I/6/3 Pz Div [XXIV]
+II/6/3 Pz Div [XXIV]
+I/3/3 Pz Div [XXIV]
+II/3/3 Pz Div [XXIV]
+I/394/3 Pz Div [XXIV]
+II/394/3 Pz Div [XXIV]
+543/-/3 Pz Div [XXIV]
+II/75/3 Pz Div [XXIV]
+III/75/3 Pz Div [XXIV]
+1/-/3 Pz Div [XXIV]
+39/-/3 Pz Div [XXIV]
+I/35/4 Pz Div [XXIV]
+I/12/4 Pz Div [XXIV]
+II/12/4 Pz Div [XXIV]
+I/33/4 Pz Div [XXIV]
+II/33/4 Pz Div [XXIV]
+49/-/4 Pz Div [XXIV]
+I/103/4 Pz Div [XXIV]
+II/103/4 Pz Div [XXIV]
+III/103/4 Pz Div [XXIV]
+7/-/4 Pz Div [XXIV]
+79/-/4 Pz Div [XXIV]
+10/-/10 ID(mot) [XXIV]
+I/10/10 ID(mot) [XXIV]
+II/10/10 ID(mot) [XXIV]
+III/10/10 ID(mot) [XXIV]
+10/-/10 ID(mot) [XXIV]
+I/20/10 ID(mot) [XXIV]
+II/20/10 ID(mot) [XXIV]
+III/20/10 ID(mot) [XXIV]
+I/41/10 ID(mot) [XXIV]
+II/41/10 ID(mot) [XXIV]
+III/41/10 ID(mot) [XXIV]
+10/-/10 ID(mot) [XXIV]
+Pz Jg Abt 521 [XXIV]
+II/Flak Rgt 94 [XXIV]
+II/Art Rgt 42 [XXIV]
+II/Flak Rgt 11 [XXIV]
+II/Art Rgt 69 [Arko 147]
+I/NbWf Rgt 53 [XXIV]
+602/-/4 Pz Div [XXIV]
+Luftflotte 2
+Luftflotte 2
+Luftflotte 2
+Luftflotte 2
+3 Abn Bde/2 Abn Cps [40]
+2 Abn Bde/2 Abn Cps [40]
+4 Abn Bde/2 Abn Cps [40]
+5 Abn Bde/3 Abn Cps [40]
+6 Abn Bde/3 Abn Cps [40]
+212 Abn Bde/3 Abn Cps [40]
+1/19/10 Tk Div [40]
+2/19/10 Tk Div [40]
+1/20/10 Tk Div [40]
+2/20/10 Tk Div [40]
+10 Art Rgt/10 Tk Div [40]
+10 Mot Rgt/10 Tk Div [40]
+10 Rec Bn/10 Tk Div [40]
+791/135 Rif Div [40]
+711/227 Rif Div [40]
+777/227 Rif Div [40]
+789/227 Rif Div [40]
+794/227 Rif Div [40]
+331/-/293 Rif Div [40]
+817/293 Rif Div [40]
+1032/293 Rif Div [40]
+1034/293 Rif Div [40]
+1036/293 Rif Div [40]
+586/-/293 Rif Div [40]
+1042/295 Rif Div [40]
+6 Armoured Train Bn [21]
+595 AT Art Rgt [40]
+738 AT Art Rgt [40]
+760 AT Art Rgt [40]
+53 Ind Tk Bn [40]
+55 Ind Tk Bn [40]
+65 Ind Tk Bn [40]
+52/-/24 Rif Div [21]
+160/24 Rif Div [21]
+246/24 Rif Div [21]
+370/-/24 Rif Div [21]
+7/24 Rif Div [21]
+168/24 Rif Div [21]
+274/24 Rif Div [21]
+73/-/24 Rif Div [21]
+472/42 Rif Div [21]
+17/42 Rif Div [21]
+44/42 Rif Div [21]
+455/42 Rif Div [21]
+459/42 Rif Div [21]
+4/-/42 Rif Div [21]
+262/-/42 Rif Div [21]
+850/277 Rif Div [21]
+852/277 Rif Div [21]
+854/277 Rif Div [21]
+846/277 Rif Div [21]
+222/-/117 Rif Div [21]
+322/117 Rif Div [21]
+707/117 Rif Div [21]
+240/117 Rif Div [21]
+269/117 Rif Div [21]
+275/117 Rif Div [21]
+325/187 Rif Div [21]
+236/187 Rif Div [21]
+292/187 Rif Div [21]
+338/187 Rif Div [21]
+673/219 Rif Div [21]
+375/219 Rif Div [21]
+710/219 Rif Div [21]
+727/219 Rif Div [21]
+214 Abn Bde [21]
+65/32 Cav Div [21]
+86/32 Cav Div [21]
+121/32 Cav Div [21]
+197/32 Cav Div [21]
+35/43 Cav Div [21]
+38/43 Cav Div [21]
+40/43 Cav Div [21]
+39/47 Cav Div [21]
+41/47 Cav Div [21]
+44/47 Cav Div [21]
+B
+I
+G
+B
+K
+B
+SA
+SA
+SA
+419/187 Rif Div [40]
+SA
+SA
+262/-/293 Rif Div [40]
+28 Mot Rgt/23 NKVD Mot Div
+338 Art Rgt/5 AT Bde [40]
+SA
+SA
+MG Btl 5 [XXIV]
+Luftflotte 2
+9/(H) Lehr-Geschwader 2
+3/-/3 Pz Div [XXIV]
+40/-/10 ID(mot) [XXIV]
+34/-/4 Pz Div [XXIV]
+Mrs Abt 604 [Arko 147]
+II/35/4 Pz Div [XXIV]
+III/6/3 Pz Div [XXIV]
+21 Corps Art Rgt [40]
+SA
+Luftflotte 2
+3 Abn Cps [40]
+M
+32 Rif Rgt/10 Tk Div [40]
+661 Art Rgt/5 AT Bde [40]
+10 AA Bn/10 Tk Div [40]
+Ubed' River
+Desna River
+Ubed' River
+Desna River
+Koriukovka
+Ubed' River
+Avdeyevka
+Desna River
+Voronezh
+Voronezh
+Brech River
+Brech River
+Brech River
+Savinki
+Ubed' River
+Ubed' River
+Ubed' River
+Ubed' River
+Khlop'yaniki
+Bogachka River
+Bogachka River
+Desna River
+Desna River
+Klishki
+Brech River
+Brech River
+Ubed' River
+Bogachka River
+Bogachka River
+Rodichev
+Desna River
+Brech River
+Brech River
+Rudnya
+Ubed' River
+Ubed' River
+Bogachka River
+Bogachka River
+Ponornitsa
+Desna River
+Desna River
+Esman' River
+Esman' River
+Esman' River
+Ubed' River
+Bogachka River
+Bogachka River
+Desna River
+Lushniki
+Esman' River
+Esman' River
+Ubed' River
+Desna River
+Desna River
+Ret' River
+Ret' River
+Esman' River
+Esman' River
+Andronikov
+Domashlin
+Ubed' River
+Ubed' River
+Desna River
+Desna River
+Ret' River
+Esman' River
+Volynka
+Ubed' River
+Obolon'ye
+Desna River
+Desna River
+Desna River
+Raygorodok
+Ret' River
+Ubed' River
+Ubed' River
+Zmetnyev
+Desna River
+Desna River
+Desna River
+Ret' River
+Ret' River
+Ubed' River
+Ubed' River
+Desna River
+Desna River
+Desna River
+Desna River
+Desna River
+Desna River
+Desna River
+Desna River
+Korop
+Ret' River
+Ret' River
+Ret' River
+Ret' River
+Ret' River
+Ret' River
+Ret' River
+Ubed' River
+Desna River
+Dobrotovo
+Krolevets'
+Krolevets'
+Sosnitsa
+Ubed' River
+Desna River
+Desna River
+Shabalinovo
+Karyl'skoye
+Ubed' River
+Desna River
+Makoshino
+Ubed' River
+Desna River
+Nekhayevka
+Desna River
+Desna River
+Desna River
+Desna River
+Desna River
+Desna River
+Desna River
+Desna River
+Desna River
+Desna River
+Seym River
+Seym River
+Altynovka
+Desna River
+Doch River
+Velikoye Ust'ye
+Seym River
+Seym River
+Seym River
+Atyusha
+Leninskoye
+Mutino
+Doch River
+Seym River
+Seym River
+Seym River
+Seym River
+Seym River
+Seym River
+Seym River
+Doch River
+Doch River
+Goloven'ki
+Seym River
+Seym River
+Seym River
+Seym River
+Doch River
+Jaduty
+Seym River
+Seym River
+Seym River
+Doch River
+Doch River
+Baturin
+Seym River
+Mel'nya
+Seym River
+Seym River
+Doch River
+Doch River
+Doch River
+Doch River
+Doch River
+Doch River
+Doch River
+Doch River
+Seym River
+Seym River
+Seym River
+Seym River
+Seym River
+Seym River
+Seym River
+Seym River
+Seym River
+Borzna River
+Velikaya Doch
+Doch River
+Doch River
+Mitchenki
+Kukolka River
+Ezuch River
+Bochechki
+Borzna River
+Borzna River
+Borzna River
+Borzna River
+Doch River
+Doch River
+Gorodishche
+Kukolka River
+Ezuch River
+Ezuch River
+Alenovka
+Borzna River
+Borzna
+Borzenka River
+Doch River
+Doch River
+Doch River
+Kukolka River
+Konotop
+Ezuch River
+Borzna River
+Borzenka River
+Borzenka River
+Doch River
+Popovka
+Kukolka River
+Konotop
+Konotop
+Ezuch River
+Ezuch River
+Ezuch River
+Ezuch River
+Ezuch River
+Ezuch River
+Ezuch River
+Borzna River
+Borzenka River
+Borzenka River
+Borzenka River
+Borzenka River
+Kukolka River
+Ezuch River
+Borzna River
+Strel'niki
+Borzenka River
+Borzenka River
+Borzenka River
+Borzenka River
+Bakhmach
+Bakhmach
+Kukolka River
+Borzna River
+Kuren'
+Borzenka River
+Borzenka River
+Kukolka River
+Kukolka River
+Dubov'yazovka
+Borzna River
+Borzna River
+Borzna River
+Pliski
+Borzenka River
+Borzenka River
+Tinitsa
+Kukolka River
+Borzna River
+Kukolka River
+Kukolka River
+Krasnoye
+Malyi Sambor
+Kukolka River
+Kukolka River
+Kukolka River
+Kukolka River
+Romen River
+Romen River
+Korabutovo
+Oster River
+Oster River
+Ivangorod
+Zelenovka
+Romen River
+Velikiy Sambor
+Romen River
+Romen River
+Romen River
+Romen River
+Romen River
+Oster River
+Oster River
+Oster River
+Oster River
+Oster River
+Oster River
+Oster River
+Oster River
+Oster River
+Oster River
+Oster River
+Oster River
+Grigorovka
+Romen River
+Romen River
+Romen River
+Romen River
+Romen River
+Romen River
+Martinovka
+Oster River
+Oster River
+Oster River
+Romen River
+Koshari
+Romen River
+Gaivoron
+Romen River
+Romen River
+Romen River

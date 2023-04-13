@@ -1,0 +1,12 @@
+'---
+'Config AI file for scenario: NOBuSands13.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=4 items  ' Replacement for default list
+ 351  '  Daimler AC Mk.I  [RCN  United Kingdom]  Cost: 348
+ 372  '  Crusader III  [ TK  United Kingdom]  Cost: 396
+ 373  '  Grant I  [ TK  United Kingdom]  Cost: 504
+ 375  '  Sherman I  [ TK  United Kingdom]  Cost: 564

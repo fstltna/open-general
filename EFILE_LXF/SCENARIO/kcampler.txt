@@ -1,0 +1,52 @@
+Leros
+Parteni
+Monte Rachi
+Leros City
+Monte Meraviglia
+Portolago
+Leros Airport
+Serocampo
+Mount Appetici
+Castle Hill
+RHS Adrias
+RHS Queen Olga
+Euro
+HMS Intrepid
+HMS Panther
+HMS Penelope
+HMS Carlisle
+HMS Aurora
+HMS Eclipse
+Leros Defenses
+British Leros HQ
+1/2RIF/234th Inf. Bgd.
+1/1KO/234th Inf. Bgd.
+2/1KO/234th Inf. Bgd.
+1/4B/234th Inf. Bgd.
+2/4B/234th Inf. Bgd.
+2/2RIF/234th Inf. Bgd.
+2QOWK/234th Inf. Bgd.
+24th Indian Engineers
+9FR/234th Inf. Bgd.
+3AA/234th Inf. Bgd.
+MG/234th Inf. Bgd.
+Mrt/234th Inf. Bgd.
+RAF 218 Squadron
+RAF 617 Squadron
+III/JG27
+IV/JG27
+II/KG6
+II/StG3
+I/FJ2/2nd FJ Div. (KG Mueller)
+Campagnia Fucilieri
+Aldina Bay
+Pandeli Bay
+Portolago Bay
+Gurna Bay
+Parteni Bay
+HMS Trooper
+KM Drache (captured)
+S33
+Supplyhex
+Port Embarking Hex: PORT
+Brandenburg Kustenjager Kp

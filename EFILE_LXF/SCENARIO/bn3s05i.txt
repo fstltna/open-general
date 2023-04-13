@@ -1,0 +1,15 @@
+
+TIENCHIACHEN FORTRESS - 13 Sep 1938
+
+Part of Battle of Wuhan
+(Japanese pyrrhic victory)
+Mid-June - Mid-November 1938
+
+HQ 11th Corps, Province Hupei
+CO General Neiji Okamura
+
+General, the advance north of Yangtze River is critical for the success of the main operation against the Chinese war capital Wuhan.  The last Chinese stronghold on the way to Hankow (part of Wuhan) is the heavily fortified area around Tienchiachen.  The Chinese have pulled together their best troops to defend this area and the Tienchiachen Fortress still block the Yangtze River.  Attack this fortification immediately!
+
+ORDER - Capture all VHs!
+AUXIN - 1 Mortar-Battalion & Naval-Support
+NEW    - 1xTk, 1xInf, 1xRcn (19 core units)

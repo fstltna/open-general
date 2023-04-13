@@ -1,0 +1,106 @@
+'---
+'Config purchase file for scenario: BN9S14.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 124 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+  65  '  2cm FlaK38 Quad  [FlaK  Germany]  Cost: 120
+  67  '  3.7cm FlaK36  [FlaK  Germany]  Cost: 216
+  72  '  SdKfz 251/17  [FlaK  Germany]  Cost: 300
+  73  '  SdKfz 7/1  [FlaK  Germany]  Cost: 396
+  74  '  SdKfz 6/2  [FlaK  Germany]  Cost: 408
+  75  '  SdKfz 10/4  [FlaK  Germany]  Cost: 288
+  77  '  5cm PaK38  [ AT  Germany]  Cost: 108
+  78  '  7.5cm PaK40  [ AT  Germany]  Cost: 180
+  79  '  8.8cm FlaK36 CS  [ AT  Germany]  Cost: 276
+  81  '  Elefant  [ AT  Germany]  Cost: 924
+  88  '  Nashorn  [ AT  Germany]  Cost: 720
+  91  '  StuG IIIG  [ AT  Germany]  Cost: 672
+  92  '  10.5cm leFH18  [ATY  Germany]  Cost: 288
+  93  '  15cm sFH18  [ATY  Germany]  Cost: 492
+  94  '  17cm K18  [ATY  Germany]  Cost: 2172
+  96  '  sIG 38(t)H  [ AT  Germany]  Cost: 516
+  97  '  Hummel  [ATY  Germany]  Cost: 900
+  98  '  15cm NbW41  [ATY  Germany]  Cost: 492
+  99  '  SdKfz 251/1 II  [ATY  Germany]  Cost: 984
+ 102  '  15cm K39  [ATY  Germany]  Cost: 1596
+ 104  '  StuH 42  [ AT  Germany]  Cost: 588
+ 105  '  Wespe  [ATY  Germany]  Cost: 576
+ 111  '  Grenadiers  [INF  Germany]  Cost: 144
+ 117  '  SdKfz 222  [RCN  Germany]  Cost: 252
+ 119  '  SdKfz 233  [RCN  Germany]  Cost: 384
+ 121  '  SdKfz 234/2  [RCN  Germany]  Cost: 444
+ 131  '  Pz VA  [ TK  Germany]  Cost: 1560
+ 139  '  Brummbär  [ AT  Germany]  Cost: 636
+ 141  '  Pz IIF  [ TK  Germany]  Cost: 372
+ 150  '  Pz IVG  [ TK  Germany]  Cost: 1044
+ 151  '  Pz IVH  [ TK  Germany]  Cost: 1176
+ 153  '  Pz VIE  [ TK  Germany]  Cost: 1428
+ 155  '  SdKfz 250/1  [RCN  Germany]  Cost: 276
+ 179  '  Fusiliers  [RCN  Germany]  Cost: 144
+ 185  '  Rifles  [INF  Germany]  Cost: 168
+ 553  '  SdKfz 263 CC  [RCN  Germany]  Cost: 300
+ 597  '  7.5cm PaK97/38  [ AT  Germany]  Cost: 120
+ 706  '  8.8cm FlaK36  [ AD  Germany]  Cost: 600
+ 741  '  Pz IV BL  [ AT  Germany]  Cost: 300
+1311  '  5cm FlaK41  [FlaK  Germany]  Cost: 240
+1312  '  3.7cm FlaK Truck  [FlaK  Germany]  Cost: 408
+1330  '  Marder III  [ AT  Germany]  Cost: 528
+1332  '  Marder II  [ AT  Germany]  Cost: 504
+1333  '  Marder IIIM  [ AT  Germany]  Cost: 540
+1335  '  Pz III FL  [ TK  Germany]  Cost: 648
+1339  '  SdKfz 10/5 3.7cm PaK  [ AT  Germany]  Cost: 264
+1341  '  SdKfz 250/8  [ AT  Germany]  Cost: 420
+1342  '  SdKfz 251/10  [ AT  Germany]  Cost: 300
+1343  '  SdKfz 251/16  [ AT  Germany]  Cost: 504
+1345  '  SdKfz 251/9  [ AT  Germany]  Cost: 372
+1348  '  StuG IV  [ AT  Germany]  Cost: 636
+1351  '  21cm NbW42  [ATY  Germany]  Cost: 708
+1352  '  21cm K38  [ATY  Germany]  Cost: 3036
+1353  '  21cm M18  [ATY  Germany]  Cost: 1164
+1355  '  30cm NbW42  [ATY  Germany]  Cost: 792
+1359  '  SdKfz 251/2  [ATY  Germany]  Cost: 348
+1360  '  SdKfz 4/1  [ATY  Germany]  Cost: 612
+1363  '  sIG 33  [ AT  Germany]  Cost: 216
+1364  '  StuG 850(i)  [ATY  Germany]  Cost: 444
+1378  '  Construction  [INF  Germany]  Cost: 228
+1393  '  SdKfz 232 8-rad  [RCN  Germany]  Cost: 276
+1394  '  Luchs  [RCN  Germany]  Cost: 396
+1416  '  Pz 735(f)  [ TK  Germany]  Cost: 384
+1417  '  Pz 740(f)  [ TK  Germany]  Cost: 456
+1423  '  Pz IIIN  [ TK  Germany]  Cost: 648
+1497  '  FlaKPz T-34(r)  [FlaK  Germany]  Cost: 492
+1852  '  Fw 189A-1  [ TB  Germany]  Cost: 348
+1853  '  Fi 156C-3  [ TB  Germany]  Cost: 204
+2355  '  sWG41  [ATY  Germany]  Cost: 840
+2376  '  SdKfz 250/3 CC  [RCN  Germany]  Cost: 312
+2378  '  Pz III CC  [ TK  Germany]  Cost: 552
+2380  '  Pz V CC  [ TK  Germany]  Cost: 1632
+2384  '  Luchs 5cm PaK  [RCN  Germany]  Cost: 564
+2388  '  12cm GrW42  [ATY  Germany]  Cost: 216
+2393  '  10cm NbW35  [ATY  Germany]  Cost: 156
+2419  '  8cm GrW34  [ATY  Germany]  Cost: 108
+2769  '  54cm G041  [ATY  Germany]  Cost: 1464
+2886  '  ADGZ  [RCN  Germany]  Cost: 228
+2965  '  SdKfz 10/4 CS  [ AT  Germany]  Cost: 300
+2968  '  SdKfz 7/1 CS  [ AT  Germany]  Cost: 396
+2969  '  SdKfz 6/2 CS  [ AT  Germany]  Cost: 324
+2971  '  8.8cm FlaK36 CS  [ AT  Germany]  Cost: 276
+3257  '  43 Engineers  [INF  Germany]  Cost: 564
+3262  '  Armoured Grenadiers  [INF  Germany]  Cost: 180
+3375  '  Combat Command  [INF  Germany]  Cost: 144
+4586  '  Hs 126B-1  [ TB  Germany]  Cost: 348
+4659  '  Recon Cavalry  [RCN  Germany]  Cost: 144
+4662  '  MG Infantry  [ AT  Germany]  Cost: 132
+4735  '  43 AT Infantry  [ AT  Germany]  Cost: 168
+5692  '  10.5cm K18  [ATY  Germany]  Cost: 708
+6735  '  Pz 747(r)  [ TK  Germany]  Cost: 720
+6736  '  Pz 739(f)  [ TK  Germany]  Cost: 480
+6739  '  Pz 753(r)  [ TK  Germany]  Cost: 612
+6897  '  Armoured Engineers  [INF  Germany]  Cost: 600
+7510  '  24cm M39  [ATY  Germany]  Cost: 1752

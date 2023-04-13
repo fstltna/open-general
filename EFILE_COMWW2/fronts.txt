@@ -1,0 +1,755 @@
+* Read carefully before editing!
+* Each line can be any lenght, but only first 96 chars will be read
+* Emply lines and those starting with * will be skipped.
+*-------------------------------------------------------------------
+* Fronts & Factions
+* . Can define for a maximun of 254 workable countries
+* . plus AllCountries (number 0) and NoCountry (number 255)
+* . Can define Fronts/Factions for just a few countries
+* .
+* . To define Fronts for any country:
+* . Lines starting with a single number defines country for next fronts/factions
+* . can include country name after a space or tab, but won't be read
+* . lines starting with # are read as a front name
+* . lines starting with @ are read as a faction name
+* . and belong to the last country read
+* If more than 254 countries are found, only first 254 will be used.
+* If more than 32 fronts/factions are found only first 32 will be used.
+* ------------------------------------------------------------------
+
+8 Germany
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Western Captured Equipment
+@Eastern Captured Equipment
+@Mountain
+@Special Forces
+@Security Forces
+@Cavalry
+@Command
+@Winter
+@PzGren
+@Sturm
+
+
+
+6 Finland
+* fronts:
+
+* factions
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Fighters
+@Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Cavalry
+@Command
+@Winter
+
+20 USSR
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Lend Lease
+@Mountain
+@Cavalry
+@Command
+@Winter
+
+25 Nationlist Spain
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Fighters
+@Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Cavalry
+@Command
+@Winter
+
+13 Italy
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Cavalry
+@Command
+@Winter
+
+18 Romania
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Cavalry
+@Command
+@Winter
+
+11 Hungary
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Cavalry
+@Command
+@Winter
+@Strategic Bombers
+@German Weapons
+
+23 United Kingdom
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Command
+@Winter
+
+7 France
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Command
+@Winter
+
+10 US Army
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Command
+@Winter
+
+15 Norway
+*fronts:
+
+*factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Cavalry
+@Command
+@Winter
+
+16 Poland
+*fronts:
+
+*factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Cavalry
+@Command
+@Winter
+
+21 Japan
+*fronts:
+
+*factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Cavalry
+@Command
+@Security Forces
+@Winter
+
+1 Waffen SS
+*fronts:
+
+*factions:
+@Infantry
+@Armor
+@Airborne
+@Militia
+@SP Units
+@Towed Units
+@None
+@Western Captured Equipment
+@Eastern Captured Equipmemt
+@Mountain
+@Security Forces
+@Cavalry
+@Command
+@Winter
+@PzGren
+
+
+28 Canada
+*fronts:
+
+*factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Security Forces
+@Command
+@Winter
+
+26 Republican Spain
+*fronts:
+
+*factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Fighters
+@Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Cavalry
+@Command
+@Winter
+
+4 India
+*fronts:
+
+*factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Fighters
+@Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Airborne
+@Fighter/Bombers
+@Strategic Bombers
+@Cavalry
+@Command
+@Winter
+
+30 New Zealand
+*fronts:
+
+*factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Fighters
+@Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Airborne
+@Fighter/Bombers
+@Strategic Bombers
+@Cavalry
+@Command
+@Winter
+
+27 Australia
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Command
+@Winter
+
+29 Slovakia
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Command
+@Winter
+
+31 Manchuoko
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Command
+@Winter
+
+24 Yugoslavia
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Command
+@Winter
+
+22 Communist Yugoslavia
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Command
+@Winter
+
+19 Croatia
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Command
+@Winter
+
+17 U.S. Marines
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Command
+@Winter
+
+14 Netherlands
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Command
+@Winter
+
+12 Thailand
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Command
+@Winter
+
+9 Greece
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Command
+@Winter
+
+5 China
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Command
+@Winter
+
+3 Bulgaria
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Command
+@Winter
+
+2 Belgium
+* fronts:
+
+* factions:
+@Infantry
+@Navy
+@SP Units
+@Militia
+@Armor
+@Airborne
+@Fighters
+@Fighter/Bombers
+@Bombers
+@Strategic Bombers
+@Towed Units
+@Recon Bombers
+@None
+@Captured Equipment
+@Mountain
+@Special Forces
+@Cavalry
+@Command
+@Winter
+
+
+
+
+
+
+
+
+
+
+

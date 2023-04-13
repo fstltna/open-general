@@ -1,0 +1,20 @@
+Aisne 1917
+
+Apr 16th, 1917
+
+The French General Nivelle thinks that he's found a way to break through our defences on the Aisne, using a combined attack by infantry, artillery, planes and even tanks. It seems that the hardest assaults will take place at the Chemin des Dames ridge. You'll have to defend yourself at all costs and counterattack as soon as you can, ir order to outflank the French and force them to stop their offensive.
+
+Victory conditions:
+- After 13 turns you must hold 6 VHs for a BV, 4 VHs for a V or 2 VH for a TacV.
+
+
+
+
+
+
+
+
+
+
+
+

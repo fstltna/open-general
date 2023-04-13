@@ -1,0 +1,302 @@
+The German Counteroffensive
+112 Gds RflRgt/39 Gds RflD
+117 Gds RflRgt/39 Gds RflD
+120 Gds RflRgt/39 Gds RflD
+87 Gds AtyRgt/39 Gds RflD
+43 Gds AT Bn/39 Gds RflD
+83 Gds AT Bn/79 Gds RflD
+172 Gds AtyRgt/79 Gds RflD
+216 Gds RflRgt/79 Gds RflD
+220 Gds RflRgt/79 Gds RflD
+227 Gds RflRgt/79 Gds RflD
+Most
+96 Gds AT Bn/88 Gds RflD
+194 Gds AtyRgt/88 Gds RflD
+266 Gds RflRgt/88 Gds RflD
+269 Gds RflRgt/88 Gds RflD
+271 Gds RflRgt/88 Gds RflD
+55 Gds AT Bn/47 Gds RflD
+99 Gds AtyRgt/47 Gds RflD
+137 Gds RflRgt/47 Gds RflD
+140 Gds RflRgt/47 Gds RflD
+142 Gds RflRgt/47 Gds RflD
+64 Gds AT Bn/57 Gds RflD
+128 Gds AtyRgt/57 Gds RflD
+170 Gds RflRgt/57 Gds RflD
+172 Gds RflRgt/57 Gds RflD
+174 Gds RflRgt/57 Gds RflD
+37 Gds AT Bn/35 Gds RflD
+65 Gds AtyRgt/35 Gds RflD
+100 Gds RflRgt/35 Gds RflD
+101 Gds RflRgt/35 Gds RflD
+102 Gds RflRgt/35 Gds RflD
+Ung. Inf.Bat. IV
+sArt-Ers.Abt. 39
+verst. Turk. Einsatz Bat.
+Festungs-Gren.Ers.Bat. 50
+verst. Nordkaukas. Einsatz Bat.
+Pi-Ers.-u. Ausb.Bat 68
+Festungskommandantur
+PzAbw. Kuestrin
+Flak-Rgt. 114
+Festungs-Inf-Bat. 1450
+Pantherturm
+885 RflRgt/295 RflD
+333 ATBn/295 RflD
+883 RflRgt/295 RflD
+884 RflRgt/295 RflD
+593 AtyRgt/295 RflD
+I/PzAbt.Bbg/PzAbt.Kmk/KmK
+SS-Wrf.Abt. 505
+PzGrenRgt/KmK
+VS Potsdam
+I/PzAbt/KmK
+II/PzGrenRgt/KmK
+PzArt.Abt./KmK
+PzPiBat./KmK
+PzAufkl.Abt./KmK
+Felders.Bat./Fhh/'Raegener'
+VS 7/108 Franken
+Ad Hoc Bat./'Raegener'
+III/SS-Ers.-u. Ausb.Rgt.
+RAD
+RAD
+KS Potsdam
+KS Dresden
+KS Wien-Neustadt
+KS Wetzlar
+297 Gds AA Rgt/3 Gds AA AtyD
+307 Gds AA Rgt/3 Gds AA AtyD
+308 Gds AA Rgt/3 Gds AA AtyD
+309 Gds AA Rgt/3 Gds AA AtyD
+43 Gds Cn Bde/8 Gds Army
+40 Gds Cn Rgt/8 Gds Army
+295 Gds Cn Rgt/8 Gds Army
+266 Gds AT Rgt/8 Gds Army
+141 Mrt Rgt/8 Gds Army
+11 Gds hvy Tk Bde/8 Gds Army
+34 Gds hvy Tk Rgt/8 Gds Army
+65 Tk Rgt/8 Gds Army
+259 Tk Rgt/8 Gds Army
+PzGrenRgt. 35/25. PzGrenD
+PzAbt. 5/25. PzGrenD
+Art.Rgt. 25/25. PzGrenD
+PzJg.Abt. 25/25. PzGrenD
+PzGrenRgt. 119/25. PzGrenD
+III/SchlG 2
+Mistel
+move 1 hex NW
+74 Gds RflRgt/27 Gds RflD
+76 Gds RflRgt/27 Gds RflD
+83 Gds RflRgt/27 Gds RflD
+32 Gds AT Bn/27 Gds RflD
+54 Gds AtyRgt/27 Gds RflD
+Most
+371 Gds SP Aty Rgt/8 Gds Army
+694 SP Aty Rgt/8 Gds Army
+1504 SP Aty Rgt/8 Gds Army
+Most
+Most
+Most
+39 RflRgt/4 RflD
+101 RflRgt/4 RflD
+220 RflRgt/4 RflD
+80 AT Bn/4 RflD
+40 AtyRgt/4 RflD
+215 Gds RflRgt/77 Gds RflD
+218 Gds RflRgt/77 Gds RflD
+221 Gds RflRgt/77 Gds RflD
+215 Gds RflRgt/77 Gds RflD
+79 Gds AT Bn/77 Gds RflD
+156 Gds AtyRgt/77 Gds RflD
+102 RflRgt/41 RflD
+439 RflRgt/41 RflD
+244 RflRgt/41 RflD
+117 AT Bn/41 RflD
+132 AtyRgt/41 RflD
+68 Tk Bde/69 Army
+8 AT Bde/69 Army
+594 AA Rgt/69 Army
+303 Gds Mrt Rgt/69 Army
+GrenRgt.764/712.ID
+GrenRgt.732/712.ID
+GrenRgt.745/712.ID
+ArtRgt.1712/712.ID
+33 Gds hvy Tk Rgt/69 Army
+188 Bmb AvD/16 Air Army
+221 Bmb AvD/16 Air Army
+282 Ftr AvD/16 Air Army
+286 Ftr AvD/16 Air Army
+Heeres-Flak Abt./Kmk
+/EB
+VolksArt.Korps 404
+IV/VolksArt.Korps 404
+V/VolksArt.Korps 404
+JG 3
+ArtRgt.230/169.ID
+PzAbwAbt.230/169.ID
+GrenRgt.379/169.ID
+GrenRgt.392/169.ID
+GrenRgt.378/169.ID
+PioBat.230/169.ID
+FuesBat.230/169.ID
+GrenRgt.301/303.ID
+GrenRgt.300/303.ID
+GrenRgt.302/303.ID
+StuGLehrBrig.920
+Art.Rgt.303/303.ID
+PzGrenRgt.76/20.PzGrenD
+PzGrenRgt.90/20.PzGrenD
+PzAbw.Abt.20/20.PzGrenD
+PzAbw.Abt.303/303.ID
+PzAbt.8/20.PzGrenD
+Art.Rgt.20/20.PzGrenD
+1373 RflRgt/416 RflD
+1368 RflRgt/416 RflD
+1374 RflRgt/416 RflD
+444 ATBn/416 RflD
+1054 AtyRgt/416 RflD
+178 Gds RflRgt/60 Gds RflD
+180 Gds RflRgt/60 Gds RflD
+185 Gds RflRgt/60 Gds RflD
+132 Gds AtyRgt/60 Gds RflD
+65 Gds AT Bn/60 Gds RflD
+GrenRgt.652/309.ID
+GrenRgt.653/309.ID
+FuesBat.309/309.ID
+Art.Rgt.309/309.ID
+PioBat.309/309.ID
+PzJgAbt.309/309.ID
+WachRgt. GD/309.ID
+I/PzGrenRgt. MB/MB
+PzAbt. KD/MB
+PzAbw.Abt.682/MB
+PzArt.Abt. MB/MB
+Heeres-Flak Abt.292/25.PzGrenD
+sSS-PzAbt. 502
+sSS-PzAbt.502
+220 Tk Bde/5 Shock Army
+89 Gds hvy Tk Rgt/5 Shock Army
+197 Ass AvD/6 Ass AvD
+198 Ass AvD/6 Ass AvD
+16 LRc AvRgt/16 Air Army
+PzZug 'Berlin'
+move 1 hex SW
+II/PzGrenRgt. MB/MB
+Most
+Most
+Barbed Wire
+226 Gds RflRgt/74 Gds RflD
+236 Gds RflRgt/74 Gds RflD
+240 Gds RflRgt/74 Gds RflD
+82 Gds AT Bn/74 Gds RflD
+157 Gds AtyRgt/74 Gds RflD
+64 En-Sap Bde/8 Gds Army
+92 En Tk Rgt/5 Shock Army
+PzGrenRgt. 35/25. PzGrenD
+PzGrenRgt. 119/25. PzGrenD
+PzAbt. 5/25. PzGrenD
+PzJg.Abt. 25/25. PzGrenD
+Art.Rgt. 25/25. PzGrenD
+sSS-PzAbt.502
+Kgr. '1001 Nacht'
+Oder
+Hauptgraben
+Friedlandkanal
+Klostersee
+Kietzer See
+Alte Oder
+Reitweiner Sporn
+Warthe
+Heinersdorfer See
+Grosser See
+Kuechensee
+Neutrebbin
+Neufriedland
+Neufeld
+Wuschewier
+Sietzing
+Quappendorf
+Altfriedland
+Karlsdorf
+Kiehnwerder
+Letschiner Loose
+Posedin
+Wilhelmsaue
+Letschin
+Gusower Loose
+Neuhardenberg
+Wulkow
+Hermersdorf
+Platkow
+Gusow
+Altrosenthal
+Trebnitz
+Worin
+Goerlsdorf
+Diedersdorf
+Jahnsfelde
+Hedwigshof
+Neuentempel
+Marxsdorf
+Behlendorf
+Heinersdorf
+Regenmantel
+Lietzen Nord
+Lietzen
+Vossberg
+Sophienthal
+Sydowswiese
+Zechiner Loose
+Zechin
+Wollup
+Buschdorf
+Golzow
+Altlangsow
+Neulangsow
+Werbig
+Seelow
+Friedersdorf
+Neu Mahlisch
+Dolgelin
+Libbenichen
+Alt Mahlisch
+Carzig
+Mallnow
+Huderberg
+Genschmar
+Schaeferei
+Gorgast
+Fort Gorgast
+Manschnow
+Bleyen
+Kuestrin-Kietz
+Neu Manschnow
+Alt Tucheband
+Rathstock
+Hathenow
+Hackenow
+Sachsendorf
+Werder
+Reitwein
+Podelzig
+Klessin
+Klewitz
+Kalenzig
+Schaumburg
+Drewitz
+Zorndorf
+Wilkersdorf
+Neu Wilkersdorf
+Kuestrin
+Festung Kuestrin
+Saepzig
+Goeritz
+Laessig
+Frauendorf
+Wilder Berg
+Wollenberg
+Garnischberg
+Seelower Hoehen
+Heeres-Flak Abt./MB
+stat. FlaK/Seelow

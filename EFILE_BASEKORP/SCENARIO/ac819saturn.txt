@@ -1,0 +1,267 @@
+Little Saturn
+4 Gd/24 TC/1 GA
+54 Tk/24 TC/1GA
+24 TC/1 GA
+24 TC/1 GA
+24 MRB/24 TC/1 GA
+111 Tk/25 TC/3 GA
+175 TB/25 TC/3 GA
+25 TC/3 GA
+25 TC/3 GA
+20 MRB/25 TC/3 GA
+408 RR/1 RD/1 GA
+412 RR/1 RD/1 GA
+415 RR/1 RD/1 GA
+1076 AR/1 RD/1 GA
+135 AR/153 RD/1 GA
+557 RR/153 RD/1 GA
+563 RR/153 RD/1 GA
+566 RR/153 RD/1 GA
+261 AR/197 RD/1 GA
+828 RR/197 RD/1 GA
+862 RR/197 RD/1 GA
+889 RR/197 RD/1 GA
+592 RR/203 RD/3 GA
+610 RR/203 RD/3 GA
+619 RR/203 RD/3 GA
+875 AR/226 RD/3 GA
+985 RR/226 RD/3 GA
+987 RR/226 RD/3 GA
+989 RR/226 RD/3 GA
+1037 AR/203 RD/3 GA
+88 GAR/38 GRD/1 GA
+110 GRR/38 GRD/1 GA
+113 GRR/38 GRD/1 GA
+115 GRR/38 GRD/1 GA
+89 GAR/41 GRD/3 GA
+122 GRR/41 GRD/3 GA
+124 GRR/41 GRD/3 GA
+126 GRR/41 GRD/3 GA
+45&69 Tk/4 TC
+102 Tk/4 TC
+4 TC
+4 TC
+4 MRB/4 TC
+107 Tk/16 TC
+109 Tk/16 TC
+16 TC
+16 TC
+15 MRB/16 TC
+1 GA
+3 GA
+16 TC
+4 TC
+24 TC
+25 TC
+1 GA
+3 GA
+138S/1 GA
+166S/1 GA
+241S/3 GA
+322S/3 GA
+1 GA
+1 GA
+3 GA
+3 GA
+Recon/1 GA
+Recon/3 GA
+3 Savoia/"Balbo"
+5 Lancieri/"Balbo"
+11 AC/Corpo d'Armata
+3 Alpino/3 "Julia"
+4 Alpino/4 "Cuneeses
+8 Alpino/3 "Julia"
+9 Alpini/3 "Julia"
+1 Alpini/4 "Cuneeses
+2 Alpini/4 "Cuneeses
+277/156 "Vicenza"
+278/156 "Vicenza"
+201/8 IT Army
+II&XXXII/8 IT Army
+4/8 IT Army
+"Cervino"/ 8 IT Army
+120 MOT/3 Celere
+3 Bers/3 Celere
+6 Bers/3 Celere
+52/52 "Torino"
+8 Mot/9 "Pasubio"
+81/52 "Torino"
+83/52 "Torino"
+79/9 "Pasubio"
+80/9 "Pasubio"
+30/XXXV Corps
+XV/XXXV Corps
+IV/XXXV Corps
+17/2 "Sforzesca"
+121/3 "Ravenna"
+108/5 "Cosseria"
+2A / 8 IT Army
+53/2 "Sforzesca"
+54/2 "Sforzesca"
+37/3 "Ravenna"
+38/3 "Ravenna"
+89/5 "Cosseria"
+90/5 "Cosseria"
+II/8 IT Army
+HQ/8 IT Army
+CSIR
+CSIR
+CSIR
+33 FD
+32 AD
+53 FD
+88 AD
+Seerafimowitsch
+Don River
+Seerafimowitsch
+Seerafimowitsch
+Don River
+Seerafimowitsch
+Don River
+Seerafimowitsch
+Mitkin
+Etyek
+Don River
+Vertesbogiar
+Beresowskij
+Seerafimowitschfok
+Don River
+Golowskij
+Csakvar
+Vali River
+Vali River
+Don River
+Don River
+Vali River
+Don River
+Don River
+Vali River
+Don River
+Don River
+Luvasbereny
+Vali River
+Bujerak
+Vali River
+Don River
+Don River
+Don River
+Vali River
+Baracska
+Vali River
+Don River
+Don River
+Isztimer
+Vali River
+Vali River
+Don River
+Don River
+LAKE
+Kapolnas Nyek
+Vali River
+Don River
+Don River
+Don River
+LAKE
+LAKE
+Vali River
+Don River
+Don River
+Don River
+Don River
+Varpolata
+Rossosh
+Rossosh
+LAKE
+Don River
+Don River
+Kiskuplaczk
+Rossosh
+Don River
+Don River
+Raczkeve
+Don River
+Don River
+Raczkeve
+Don River
+Veszprem
+Berhida
+Seregelyes
+Bobrowskij
+Don River
+Don River
+Don River
+Don River
+Don River
+Domsod
+Polgardi
+Don River
+Don River
+Don River
+Don River
+Don River
+Aba
+Don River
+Don River
+Dunapentele
+Don River
+LAKE
+LAKE
+LAKE
+Don River
+Don River
+LAKE
+LAKE
+LAKE
+LAKE
+Enying
+Belonemuchin
+Don River
+LAKE
+LAKE
+LAKE
+LAKE
+Chopjer River
+Don River
+Dunavecse
+LAKE
+LAKE
+LAKE
+LAKE
+Chopjer River
+Chopjer River
+Chopjer River
+Golowskij
+Don River
+Abostag
+LAKE
+LAKE
+LAKE
+Bal-Kiliti
+Chopjer River
+Oshogin
+Chopjer River
+Don River
+LAKE
+Sagvar
+Chopjer River
+Chopjer River
+Chopjer River
+Chopjer River
+Don River
+Szabadhidveg
+Chopjer River
+Dunafoldvar
+Don River
+Don River
+Chopjer River
+Chopjer River
+Dunafoldvar
+Don River
+Don River
+Podnidhnyj
+Chopjer River
+Chopjer River
+Don River
+Chopjer River
+Chopjer River
+Don River

@@ -1,0 +1,67 @@
+Clu's Tornio Landing
+Os Pennanen
+JR 11/3.D
+E/3.D
+E/15.Pr
+I/15.Pr
+II/15.Pr
+III/15.Pr
+IV/15.Pr
+Krh.K/15.Pr
+Ryn.TykP/PsD
+JR 32/3.D
+JR 53/3.D
+Pion.P 34/3.D
+Kev.Os 5/3.D
+KTR 16/3.D
+Rask.Psto 16/3.D
+ERP 5/15.Pr
+ItKKK 263/3.D
+E/11.D
+JR 8/11.D
+JR 29/11.D
+JR 50/11.D
+Kev.Os 10/11.D
+Pion.P 28/11.D
+Rask.Psto 30/11.D
+KTR 4/11.D
+Gunboat
+Gunboat
+III/GebJgRgt 139/K
+II/GebJgRgt 139/K
+DivStab z.b.V. 140/K
+GebArtAbt 124/K
+II/GebArtAbt 82/K
+SkiBat 82/7. GebD
+SS-SchBat 6 (mot)/6. SS-GebD
+ArtRgtStab z.b.V. 931/K
+LeGeschAbt 424/K
+FestBat 653/K
+GebPiBat 140/K
+AOK 20. GebArmee
+AOK 20. GebArmee
+MG Ski Brig (mot.)
+II/GebJgRgt 206
+Abt Krenzer
+2/GebPiBat 99
+AOK 20. GebArmee
+AOK 20. GebArmee
+AOK 20. GebArmee
+I/SG 5
+NSGr. 8
+III/JG 5
+2./PzAbt. 211
+Kemijoki
+Torniojoki
+Aapajoki
+Roytta
+Tornio
+Haparanda
+Laurila
+Ilmola
+Tervola
+Simo
+Kemi
+HLeLv 26/LeR 2
+U 487
+U 520

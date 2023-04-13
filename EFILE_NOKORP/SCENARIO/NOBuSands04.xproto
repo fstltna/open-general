@@ -1,0 +1,9 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  73  '  SdKfz 7/1  (20mm Quad)  [FlaK  Germany]  Cost: 300
+3416  '  Sturmpioniere 41  [INF  Germany]  Cost: 444
+6088  '  88mm Flak41  [FlaK  Germany]  Cost: 492

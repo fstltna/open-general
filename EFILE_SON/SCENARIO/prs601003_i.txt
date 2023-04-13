@@ -1,0 +1,11 @@
+Battle of Pasewalk
+October 3, 1760
+
+On August 16, 1760 the Swedish Army opened its campaign in Pomerania. After an initial success, they remained in position till the end of the month awaiting the result of the Siege of Colberg by the Russians. On October 2, after the relief of Colberg, General Werner marched by Stettin on Pasewalk against the Swedish Army.
+
+Deploy Hexes: 21
+
+ORDER: Take all VHs, and keep your MSU alive.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

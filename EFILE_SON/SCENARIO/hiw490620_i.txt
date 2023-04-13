@@ -1,0 +1,14 @@
+Pered
+June 20, 1849
+
+Citoyen General! Four days before the 2nd Corps commanded by General Asbóth had been defeated here -- at bridgehead near Zsigárd -- against the Austrian IV. Armee Korps leaded by General Wohlgemuth. The 3rd Corps has arrived, now you have to try sweeping out Haynau’s troops. Be prepared of thousands of Russian invaders. Their Tzar sent a huge army to save the tyran sitting in Vienna.
+
+NDC has approved the expansion of your forces to include an Artillery detachment.
+
+Deploy Hexes: 24
+
+ORDER: Hold at least 3 VHs.
+
+NOTE: AI has significant amount of reinforcement.
+
+scenario designer: Csaba (lvjtn)

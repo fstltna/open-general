@@ -1,0 +1,19 @@
+'---
+'Config purchase file for scenario: Panther1.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 8 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+1260  '  Pz IID  [ TK  Germany]  Cost: 240
+ 141  '  Pz IIF  [ TK  Germany]  Cost: 348
+ 155  '  SdKfz 250/1  [RCN  Germany]  Cost: 228
+3421  '  Kradschutzen 40  [INF  Germany]  Cost: 204
+
+#1    '  Item/s for Player2 follow...
+ 538  '  I-16-29  [FTR  Russia]  Cost: 504
+ 530  '  YaK-1  [FTR  Russia]  Cost: 564
+ 535  '  LaGG-3  [FTR  Russia]  Cost: 564
+ 537  '  MiG-3  [FTR  Russia]  Cost: 564

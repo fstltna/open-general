@@ -1,0 +1,116 @@
+'---
+'Config AI file for scenario: ROI_09.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=108 items  ' Replacement for default list
+ 473  '  ZiS-42/AA  [ AD  USSR]  Cost: 180
+ 474  '  37mm ZP-39  [ AD  USSR]  Cost: 120
+ 475  '  76.2mm ZP-38  [FlaK  USSR]  Cost: 312
+ 476  '  45mm PTP-37  [ AT  USSR]  Cost: 84
+ 477  '  76.2mm PP-27  [ AT  USSR]  Cost: 108
+ 484  '  122mm M-30  [ATY  USSR]  Cost: 252
+ 485  '  152mm ML-20  [ATY  USSR]  Cost: 756
+ 486  '  76.2mm F22  [ATY  USSR]  Cost: 180
+ 489  '  BM-13-16  [ATY  USSR]  Cost: 516
+ 496  '  Kavaleria  [INF  USSR]  Cost: 180
+ 497  '  Saperno-Shturmovoi  [INF  USSR]  Cost: 348
+ 498  '  Opolchenye  [INF  USSR]  Cost: 60
+ 499  '  Sapernii  [INF  USSR]  Cost: 216
+ 500  '  Gvardeytsi Kav.  [INF  USSR]  Cost: 276
+ 501  '  Gvardeytsi  [INF  USSR]  Cost: 228
+ 502  '  Morskaya Pehota  [INF  USSR]  Cost: 108
+ 503  '  Parashutisti  [INF  USSR]  Cost: 300
+ 504  '  Strelkoviy  [INF  USSR]  Cost: 96
+ 505  '  BA-10  [RCN  USSR]  Cost: 264
+ 506  '  BA-64  [RCN  USSR]  Cost: 228
+ 516  '  KV-1/40  [ TK  USSR]  Cost: 576
+ 517  '  KV-1/42  [ TK  USSR]  Cost: 588
+ 518  '  KV-2  [ TK  USSR]  Cost: 948
+ 522  '  T-34/41  [ TK  USSR]  Cost: 420
+ 526  '  T-60  [ TK  USSR]  Cost: 204
+ 527  '  T-70  [ TK  USSR]  Cost: 276
+ 529  '  Tyaga  [TPT  USSR]  Cost: 36
+ 530  '  YaK-1  [FTR  USSR]  Cost: 648
+ 531  '  YaK-9  [FTR  USSR]  Cost: 732
+ 535  '  LaGG-3  [FTR  USSR]  Cost: 624
+ 537  '  MiG-3  [FTR  USSR]  Cost: 660
+ 539  '  YaK-7  [FTR  USSR]  Cost: 576
+ 540  '  P-39Q  [ TB  USSR]  Cost: 864
+ 542  '  Il-2  [ TB  USSR]  Cost: 624
+ 576  '  203mm BR-4  [ATY  USSR]  Cost: 1116
+ 639  '  120mm PM-38  [ATY  USSR]  Cost: 264
+ 678  '  85mm ZP-39  [FlaK  USSR]  Cost: 552
+ 680  '  BM-8-36  [ATY  USSR]  Cost: 348
+ 681  '  NKVD Strelkoviy  [INF  USSR]  Cost: 192
+ 696  '  57mm ZiS-2  [ AT  USSR]  Cost: 168
+ 698  '  YaK-7B  [FTR  USSR]  Cost: 744
+ 832  '  Kazaki  [INF  USSR]  Cost: 252
+ 847  '  Motociklisti  [INF  USSR]  Cost: 264
+ 876  '  Partisani  [INF  USSR]  Cost: 108
+ 905  '  76.2mm ZiS-3  [ AT  USSR]  Cost: 180
+ 920  '  Gornostrelky  [INF  USSR]  Cost: 300
+ 948  '  25mm ZP-40  [ AD  USSR]  Cost: 72
+ 950  '  M3 Grant  [ TK  USSR]  Cost: 372
+ 953  '  Valentine IX  [ TK  USSR]  Cost: 360
+ 979  '  Pe-2  [ TB  USSR]  Cost: 744
+ 995  '  Pe-2R  [ TB  USSR]  Cost: 384
+1139  '  76.2mm K/DRP  [ATY  USSR]  Cost: 300
+1801  '  Quad AAMG  [ AD  USSR]  Cost: 84
+1802  '  GAZ/Quad AAMG  [ AD  USSR]  Cost: 204
+1804  '  45mm PTP-42  [ AT  USSR]  Cost: 96
+1806  '  ZiS-30  [ AT  USSR]  Cost: 300
+1807  '  76.2mm F-22  [ AT  USSR]  Cost: 132
+1810  '  76.2mm PP-27  [ATY  USSR]  Cost: 132
+1812  '  76.2mm ZiS-3  [ATY  USSR]  Cost: 180
+1813  '  76.2mm E-2  [ATY  USSR]  Cost: 300
+1816  '  122mm A-19  [ATY  USSR]  Cost: 900
+1817  '  152mm M-10  [ATY  USSR]  Cost: 540
+1819  '  152mm BR-2  [ATY  USSR]  Cost: 1128
+1820  '  210mm BR-17  [ATY  USSR]  Cost: 2988
+1821  '  280mm BR-5  [ATY  USSR]  Cost: 2136
+1822  '  BM-8-24  [ATY  USSR]  Cost: 360
+1823  '  82mm BM-37  [ATY  USSR]  Cost: 156
+1824  '  107mm PBHM-38  [ATY  USSR]  Cost: 240
+1826  '  Shtraf  [INF  USSR]  Cost: 48
+1829  '  12.7mm DShK  [INF  USSR]  Cost: 96
+1830  '  Spetsnaz  [INF  USSR]  Cost: 552
+1831  '  Universal Carrier  [RCN  USSR]  Cost: 204
+1833  '  KV-8  [ AT  USSR]  Cost: 732
+1838  '  Matilda II  [ TK  USSR]  Cost: 420
+1847  '  P-39N  [FTR  USSR]  Cost: 708
+1848  '  P-40K Warhawk  [FTR  USSR]  Cost: 552
+1849  '  Hurricane IIB  [FTR  USSR]  Cost: 576
+1850  '  Pe-3bis  [FTR  USSR]  Cost: 672
+1851  '  A-20B  [ TB  USSR]  Cost: 780
+1856  '  Su-2  [ TB  USSR]  Cost: 420
+1857  '  DB-3T   [ TB  USSR]  Cost: 360
+1859  '  Komsomolets T-20  [TPT  USSR]  Cost: 240
+2453  '  T-28 Moct  [ TK  USSR]  Cost: 396
+2630  '  BT-7/37  [ TK  USSR]  Cost: 288
+2632  '  T-27  [ TK  USSR]  Cost: 144
+2633  '  T-40  [ TK  USSR]  Cost: 228
+2668  '  BA-20  [RCN  USSR]  Cost: 180
+2670  '  BA-6  [RCN  USSR]  Cost: 252
+2700  '  YAG-10-AA  [ AD  USSR]  Cost: 288
+2766  '  B6MG  [ TB  USSR]  Cost: 372
+2997  '  25mm  [ AT  USSR]  Cost: 60
+3051  '  37mm  [ AT  USSR]  Cost: 156
+3168  '  GAZ-AA  [TPT  USSR]  Cost: 108
+3169  '  T-60  [TPT  USSR]  Cost: 252
+3170  '  Muly  [TPT  USSR]  Cost: 60
+3238  '  STZ-5  [TPT  USSR]  Cost: 240
+3257  '  7.62mm DP  [INF  USSR]  Cost: 84
+3258  '  Maxim 10/28  [INF  USSR]  Cost: 72
+3274  '  ZiS-5  [TPT  USSR]  Cost: 120
+3319  '  Generalnyi Shtab  [INF  USSR]  Cost: 408
+3356  '  GS T-26B  [ TK  USSR]  Cost: 612
+3427  '  NKVD  [INF  USSR]  Cost: 60
+3434  '  GMC 6x6  [TPT  USSR]  Cost: 132
+3531  '  Leogkaya Tyaga  [TPT  USSR]  Cost: 36
+3532  '  Tyazholaya Tyaga  [TPT  USSR]  Cost: 48
+3534  '  GAZ 64  [TPT  USSR]  Cost: 144
+3864  '  Studebaker US6  [TPT  USSR]  Cost: 132
+4226  '  Po-2  [ TB  USSR]  Cost: 300

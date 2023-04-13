@@ -1,0 +1,120 @@
+North Burma
+Jungle
+Chindwin River
+Irrawady River
+Shingbwiyang
+Salween River
+Sumprabum
+Mogaung
+Myitkyina
+Crops
+Burma Road
+Lungling
+Bhamo
+Kalewa
+Lashio
+Monywa
+Mandalay
+214 R/33 ID/15 Army
+215 R/33 ID/15 Army
+33 R/33 ID/15 Army
+11 B/33 ID/15 Army
+2 TkR/33 ID/15 Army
+33 R/33 ID/15 Army
+26 R/33 ID/15 Army
+51 Bn/33 ID/15 Army
+213 R/33 ID/15 Army
+51 R/15 ID/15 Army
+60 R/15 ID/15 Army
+67 R/15 ID/15 Army
+15 Bn/15 ID/15 Army
+15 G/15 ID/15 Army
+21 R/15 ID/15 Army
+21 R/15 ID/15 Army
+58 R/31 ID/15 Army
+124 R/31 ID/15 Army
+138 R/31 ID/15 Army
+1 Bn/31 ID/15 Army
+Aty R/31 ID/15 Army
+HQ/15 Army
+Aty G/15 Army
+AA G/15 Army
+E Bn/15 Army
+E Bn/15 Army
+55 R/18 ID/33 Army
+56 R/18 ID/33 Army
+114 R/18 ID/33 Army
+1 R/18 ID/33 Army
+12 Cav R/18 ID/33 Army
+12 eR/18 ID/33 Army
+18 aty R/18 ID/33 Army
+113 R/56 ID/33 Army
+146 R/56 ID/33 Army
+148 R/56 ID/33 Army
+14 Tk R/56 ID/33 Army
+56 Rc R/56 ID/33 Army
+56 aty R/56 ID/33 Army
+56 e R/56 ID/33 Army
+1 R/30 ID/Y Force
+2 R/30 ID/Y Force
+3 R/30 ID/Y Force
+HQ/Y Force
+Aty R/30 ID/Y Force
+1 R/38 ID/Y Force
+2 R/38 ID/Y Force
+3 R/38 ID/Y Force
+Aty R/38 ID/Y Force
+1 R/50 ID/Y Force
+2 R/50 ID/Y Force
+3 R/50 ID/Y Force
+Aty R/50 ID/Y Force
+1 R/39 ID/Y Force
+2 R/39 ID/Y Force
+3 R/39 ID/Y Force
+Aty R/39 ID/Y Force
+3 Br/SFB
+14 Br/SFB
+77 Br/SFB
+11 Br/SFB
+23 Br/SFB
+5307/NCAC
+29 BR/36 ID
+72 BR/36 ID
+26 BR/36 ID
+Aty R/36 ID
+Aty R/64 ID/NCAC
+1 R/64 ID/NCAC
+2 R/64 ID/NCAC
+3 R/64 ID/NCAC
+1 R/114 ID/NCAC
+2 R/114 ID/NCAC
+3 R/114 ID/NCAC
+Aty R/114 ID/NCAC
+62 Br/19 Indian ID/IV Corps
+64 Br/19 Indian ID/IV Corps
+98 Br/19 Indian ID/IV Corps
+64 Bn/19 Indian ID/IV Corps
+HQ/IV Corps
+26 R/19 Indian ID/IV Corps
+3 R/19 Indian ID/IV Corps
+33 R/19 Indian ID/IV Corps
+7 Tk R/19 Indian ID/IV Corps
+48 Br/17 Indian ID/IV Corps
+63 Br/17 Indian ID/IV Corps
+99 Br/17 Indian ID/IV Corps
+2 R/17 Indian ID/IV Corps
+29 R/17 Indian ID/IV Corps
+1 R/17 Indian ID/IV Corps
+1 AA R/17 Indian ID/IV Corps
+Tk Bn/NCAC
+Tk Bn/Y Force
+At Bn/Y Forces
+AA Bn/Y Forces
+Rcn Bn/NCAC
+1 R/65 ID/NCAC
+2 R/65 ID/NCAC
+3 R/65 ID/NCAC
+Aty R/65 ID/NCAC
+5 Air Group
+Fly Tiger
+56 AS

@@ -1,0 +1,157 @@
+* Read carefully before editing!
+* Each line can be any length, but only first 96 chars will be read
+* Empty lines and those starting with * will be skipped.
+* Can replace any text but do no change the sequence of lines
+*-------------------------------------------------------------------
+* Sides
+Axis
+Allied
+*Komintern
+*Neutral
+
+* Nations
+FILLER
+Slovensko
+Belgique
+Bylgarija
+Ceskoslovensko
+Danmark
+Suomi
+France
+Deutschland
+Hellas
+USA
+Magyarorszag
+Turkiye
+Italia
+Nederland
+Norge
+Polska
+Portugal
+Romania
+Hrvatska
+SSSR
+Sverige
+Komunisticka Jugoslavija
+United Kingdom
+Jugoslavija
+Estado Español
+República Española
+Australia
+Canada
+Ityop'iya
+New Zealand
+South Africa
+SS
+Forces Francais Libres
+Japan
+Japanese Navy
+Euzkadi
+Eesti
+Afghanistan
+Albania
+Argentina
+Armenia
+Österreich
+Azerbaijan
+Vlaanderen *Flanders
+Wallonie *Wallonia
+Brazil
+Bolivia
+Bulgaria *Communist
+Burma *British Dominion
+Chile
+Communist Rebels *China
+China *Communist
+China *Nationalist, Republic
+China-Nanjing *Japanese Puppet
+Fengtian Clique *Chinese Warlords
+Guangxi Clique *Chinese Warlords
+Guominjun *Chinese Warlords
+Kuomintang *Chinese Warlords
+Shanxi Clique *Chinese Warlords
+Sichuan Clique *Chinese Warlords
+Sinkiang *Chinese Warlords
+Xibei San Ma *Chinese Warlords
+Yunnan Clique *Chinese Warlords
+Zhili Clique *Chinese Warlords
+Colombia
+Costa Rica
+Cuba
+Danzig
+Communists *General Revolutionaries
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Revolutionaries
+Vichy France (German Puppet)
+Georgia
+Bundesrepublik Deutschland
+Deutsches Demokratisches Republik
+Deutschland *Weimar Republic
+Greek Communist Rebels
+Guatemala
+Haiti
+Honduras
+Iceland
+India
+Azad Hindi *Japanese Backed Indian Rebels
+British Raj *British Dominon India
+Indonesia
+Iraq
+Ireland
+Israel
+Italy *Republic, Allies
+Italian Social Republic *Fascist, German Puppet
+Jordan
+North Korea
+South Korea
+Laos (French Puppet)
+Latvia
+Lebanon (French Puppet)
+Liberia
+Libya
+Cyrenaica
+Lithuania
+Luxembourg
+Manchukuo (Japanese Puppet)
+Mengjiang (Inner Mongolia, Japanese Puppet)
+Mexico
+Mongolia (Communist, Outer Mongolia)
+Republic of the Rif
+Nicaragua
+Oman
+Pakistan
+Panama
+Paraguay
+Persia (Iran)
+Peru
+Philippines
+Poland (Communist)
+Romania (Communist)
+Russian Liberation Army (Collaborationalist)
+Saar
+Saudi Arabia
+Serbian Government of National Salvation (German and Italian Puppet)
+Slovakian Rebels
+Reino España
+Ceylon (Sri Lanka, British Dominion)
+Sudan (British Dominion)
+Switzerland
+Syria (French Puppet)
+Siam (Thailand)
+Tonga (British Dominion)
+Turkestan (East Turkestan)
+Turkestan Legion (Collaborationalist)
+Carpatho-Ukraine (Rebellion)
+Ukrainian Rebels ((West) Ukrainian People's Republic)
+Uruguay
+Venezuela
+Vietnam (Communist Rebels)
+State of Vietnam (Japanese Puppet)
+Yemen
+Adal (West Yemen, British Dominion)
+Rhodesia (British Dominion)
+Republik Österreich
+Tannu Tuva

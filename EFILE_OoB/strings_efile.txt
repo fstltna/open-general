@@ -1,0 +1,109 @@
+
+*------------------------------------------------------------------------------------------
+* This file is intended for those designers who wish to customize the descriptive
+*   text lables displayed during gameplay. 
+*------------------------------------------------------------------------------------------
+* Categories are indicated by a section header written between square brackets:
+*   e.g. for "results" section: [results]
+* If you change any item within a category, include the complete category in this file.
+* In order for others to avoid doing unnecessary translations, please only include those
+*   categories that have been modified in this file. 
+*   (Non-modified sections will continue to display their defualt text.)
+* Categories are: [sides], [results], [targets], [spaces], [movement], [movement2],
+*		[transports], [classes], [requisition], [terrain], [unitdata]
+*------------------------------------------------------------------------------------------
+
+[sides]
+Side 1
+Side 2
+
+[movement]
+Tracked
+Half Tracked
+Wheeled
+Leg
+Towed
+Air
+Deep Naval			
+Coastal
+All Terrain
+Amphibious
+Naval
+Mountain (Leg)
+Rail
+Wagon (Horse)
+
+[movement2]
+Ski
+
+[classes]
+None
+Infantry
+Tanks
+Reconnaissance
+Anti-tank & HMGs
+FlaK
+Fortifications
+Ground Transport
+Rail Transport
+Artillery & Mortars
+Air Defense
+Fighter Planes
+Tactical Bombers
+Level Bombers
+Air Transport
+(empty)
+Submarines
+Destroyers & Aux.
+Battleships
+Carriers
+Naval Transport
+Battle Cruisers
+Cruisers
+Light Cruisers
+
+[requisition]
+Switch Ground+Air / Naval units menu
+Select Air Defense
+Select FlaK
+Select Fortification
+Select Anti-tank
+Select Artillery
+Select Infantry
+Select Reconnaissance
+Select Armour
+Select Fighters
+Select Tactical Bombers
+Select Level Bombers
+Select Submarine
+Select Destroyer & Aux.
+Select Battleship
+Select Carrier
+Select Battle Cruiser
+Select Cruiser
+Select Light Cruiser
+Name unit
+Reassign Unit
+Exit
+
+[terrain]
+Countryside
+Town/City
+Airfield
+Forest
+Bocage/Rubble
+Hill
+Mountain
+Sand
+Swamp
+Ocean
+River
+Fortification
+Port
+Stream
+Escarpment
+Impassable River
+Rough
+Snow
+Roads
+Rails

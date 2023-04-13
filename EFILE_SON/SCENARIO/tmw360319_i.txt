@@ -1,0 +1,10 @@
+Battle of Coleto Creek
+March 19-20, 1836
+
+After wasting many opportunities to withdraw from Goliad, as ordered several days ago, Colonel Fannin leads his men in an attempt to escape from General de Brigada Urrea’s pursuing Mexicans. Mid-afternoon finds Fannin’s command formed up in square behind hastily constructed barricades and trapped by Urrea’s cavalry, waiting for the upcoming battle.
+
+Deploy Hexes: 0
+
+ORDER: Retreat 10 units to the Escape Hex and keep your MSU alive.
+
+scenario designer: Csaba (lvjtn)

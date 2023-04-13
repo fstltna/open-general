@@ -1,0 +1,120 @@
+'---
+'Config AI file for scenario: OAKSB_S_konrad.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=60 
+$buy_newair=40 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3  
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2  
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=102 items  ' Replacement for default list
+ 473  '  GAZ/25  [FlaK  SSSR]  Cost: 240
+ 474  '  37mm ZP-39  [ AD  SSSR]  Cost: 168
+ 478  '  ISU-122  [ AT  SSSR]  Cost: 1092
+ 479  '  ISU-152  [ AT  SSSR]  Cost: 1116
+ 482  '  SU-76  [ AT  SSSR]  Cost: 408
+ 483  '  SU-85  [ AT  SSSR]  Cost: 552
+ 484  '  122mm M-30  [ATY  SSSR]  Cost: 252
+ 485  '  152mm ML-20  [ATY  SSSR]  Cost: 756
+ 489  '  BM-13-16  [ATY  SSSR]  Cost: 516
+ 490  '  BM-31-12  [ATY  SSSR]  Cost: 528
+ 491  '  SU-122  [ AT  SSSR]  Cost: 552
+ 497  '  41 Saperno-Shturmovoi  [INF  SSSR]  Cost: 360
+ 500  '  43 Kavaleriya  [INF  SSSR]  Cost: 180
+ 506  '  BA-64  [RCN  SSSR]  Cost: 252
+ 513  '  IS-2  [ TK  SSSR]  Cost: 1716
+ 524  '  T-34/43  [ TK  SSSR]  Cost: 588
+ 525  '  T-34-85  [ TK  SSSR]  Cost: 1104
+ 533  '  La-7  [FTR  SSSR]  Cost: 1104
+ 536  '  Yak-3  [FTR  SSSR]  Cost: 1080
+ 541  '  Il-10  [ TB  SSSR]  Cost: 1368
+ 543  '  Il-2 KSS  [ TB  SSSR]  Cost: 1224
+ 576  '  203mm BR-4  [ATY  SSSR]  Cost: 1020
+ 634  '  43 Gvardeiskaya  [INF  SSSR]  Cost: 240
+ 639  '  120mm PM-38  [ATY  SSSR]  Cost: 228
+ 678  '  85mm ZP-39  [ AD  SSSR]  Cost: 516
+ 680  '  BM-8-36  [ATY  SSSR]  Cost: 348
+ 682  '  43 Strelkovy  [INF  SSSR]  Cost: 84
+ 687  '  IS-1  [ TK  SSSR]  Cost: 1524
+ 690  '  100mm BS-3  [ATY  SSSR]  Cost: 492
+ 695  '  T-44-85  [ TK  SSSR]  Cost: 1248
+ 699  '  Yak-9D  [FTR  SSSR]  Cost: 972
+ 705  '  P-63A  [FTR  SSSR]  Cost: 1224
+ 905  '  76,2mm ZiS-3  [ AT  SSSR]  Cost: 156
+ 948  '  25mm ZP-40  [FlaK  SSSR]  Cost: 84
+1139  '  82mm BM-37 AB  [ATY  SSSR]  Cost: 276
+1158  '  85mm ZP-39  [FlaK  SSSR]  Cost: 216
+1802  '  GAZ/Maxim 4M  [FlaK  SSSR]  Cost: 228
+1809  '  100mm BS-3  [ AT  SSSR]  Cost: 264
+1812  '  76,2mm ZiS-3  [ATY  SSSR]  Cost: 180
+1813  '  76,2mm E-2  [ATY  SSSR]  Cost: 300
+1816  '  122mm A-19  [ATY  SSSR]  Cost: 528
+1817  '  152mm M-10  [ATY  SSSR]  Cost: 540
+1818  '  152mm D-1  [ATY  SSSR]  Cost: 540
+1819  '  152mm BR-2  [ATY  SSSR]  Cost: 1344
+1820  '  210mm BR-17  [ATY  SSSR]  Cost: 3000
+1821  '  280mm BR-5  [ATY  SSSR]  Cost: 1380
+1822  '  BM-8-24  [ATY  SSSR]  Cost: 360
+1823  '  82mm BM-37  [ATY  SSSR]  Cost: 84
+1824  '  107mm PBHM-38  [ATY  SSSR]  Cost: 444
+1825  '  160mm MT-13  [ATY  SSSR]  Cost: 492
+1826  '  41 Shtrafnaya rota  [INF  SSSR]  Cost: 48
+1828  '  42 Avtomatchiki  [INF  SSSR]  Cost: 168
+1830  '  42 Spetsnaz  [INF  SSSR]  Cost: 1092
+1832  '  M5A1  [RCN  SSSR]  Cost: 240
+1834  '  M4A2  [ TK  SSSR]  Cost: 564
+1835  '  M4A2(76)W  [ TK  SSSR]  Cost: 1044
+1836  '  M3A1  [ TK  SSSR]  Cost: 372
+1837  '  Churchill III  [ TK  SSSR]  Cost: 744
+1855  '  Tu-2S  [ TB  SSSR]  Cost: 1380
+2948  '  12,7mm DShK-38 AB  [FlaK  SSSR]  Cost: 156
+2950  '  76,2mm E-2 AB  [ATY  SSSR]  Cost: 300
+3225  '  M15  [ AD  SSSR]  Cost: 540
+3226  '  M16  [FlaK  SSSR]  Cost: 312
+3289  '  43 Motostrelkovy  [INF  SSSR]  Cost: 96
+3334  '  BM-13-16  [ATY  SSSR]  Cost: 516
+3388  '  44 Gvardeiskaya  [INF  SSSR]  Cost: 252
+3405  '  12,7mm DShK-38  [FlaK  SSSR]  Cost: 48
+3772  '  43 Morskaya Pehota  [INF  SSSR]  Cost: 180
+3773  '  43 Voiska NKVD  [INF  SSSR]  Cost: 180
+3775  '  43 Saperno-Shturmovoi  [INF  SSSR]  Cost: 408
+3776  '  43 Saperno-mostovoi  [INF  SSSR]  Cost: 228
+3778  '  43 Pogranvoiska  [INF  SSSR]  Cost: 108
+3779  '  43 Vozdushno-desantny  [INF  SSSR]  Cost: 360
+3780  '  43 Gornostrelkovy  [INF  SSSR]  Cost: 348
+3781  '  43 Gornosaperny  [INF  SSSR]  Cost: 804
+3782  '  43 Mototsiklisty  [INF  SSSR]  Cost: 300
+3784  '  44 Spetsnaz  [INF  SSSR]  Cost: 1356
+3811  '  43 Razvedchiki  [RCN  SSSR]  Cost: 204
+3812  '  43 Mototsikletnaya razvedka  [RCN  SSSR]  Cost: 180
+3813  '  43 Konnaya razvedka  [RCN  SSSR]  Cost: 192
+3814  '  43 Gornaya kavaleriya  [RCN  SSSR]  Cost: 312
+3825  '  43 Pulemetny  [ AT  SSSR]  Cost: 120
+4478  '  Yak-9U  [FTR  SSSR]  Cost: 1176
+4479  '  Yak-9B  [ TB  SSSR]  Cost: 1056
+4480  '  Yak-9T  [ TB  SSSR]  Cost: 1200
+4674  '  Spitfire IX  [FTR  SSSR]  Cost: 1116
+4675  '  P-47D-22  [ TB  SSSR]  Cost: 1392
+4676  '  P-47D-27  [ TB  SSSR]  Cost: 1392
+4679  '  A-20G-5  [ TB  SSSR]  Cost: 1164
+4683  '  Pe-2  [ TB  SSSR]  Cost: 1056
+4686  '  Il-2 AM-38F  [ TB  SSSR]  Cost: 1140
+4699  '  Yak-9DD  [FTR  SSSR]  Cost: 924
+4700  '  Yak-9K  [ TB  SSSR]  Cost: 1296
+4703  '  Yak-9M  [FTR  SSSR]  Cost: 972
+4707  '  Tu-2D  [ TB  SSSR]  Cost: 1452
+4709  '  U-2VS  [ TB  SSSR]  Cost: 336
+4741  '  43 Parashutnaya razvedka  [RCN  SSSR]  Cost: 372
+5315  '  SU-76M  [ATY  SSSR]  Cost: 636
+5552  '  U-2LNB  [ TB  SSSR]  Cost: 396
+5622  '  SU-104  [ AT  SSSR]  Cost: 480
+5699  '  B-25J  [ TB  SSSR]  Cost: 1152
+5867  '  SU-57  [ AT  SSSR]  Cost: 204

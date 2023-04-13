@@ -1,0 +1,23 @@
+Tsaritsyn
+
+Jun 14th, 1919
+
+Here we are, at the gates of the Red fortress of Tsaritsyn. The cossacks tried to take it three times in the last months, and every time they had to retire with heavy losses. The Soviets have many of their best units in this town on the shores of the Volga, including infantry, trench defences, armoured trains, heavy artillery and even some war boats.
+Really impressive, indeed, but defeat is something that we can't afford. Now that the Kuban and the Terek are pacified, and we're planning a more ambitious strategy in the long term, it is essential that Tsaritsyn is in our hands. If it doesn't fall, our right flank will be vulnerable and under the constant threat of an enemy attack.
+
+Victory conditions: Take all the VHs.
+
+Special note:
+- The unit that takes the VH at (26,17) will obtain a leader.
+
+
+
+
+
+
+
+
+
+
+
+

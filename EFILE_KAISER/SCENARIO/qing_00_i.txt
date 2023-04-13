@@ -1,0 +1,14 @@
+Kep
+
+Oct 6th, 1884
+
+My real name isn't important. Everybody forgot it a long time ago. In case you want to know, I was born in Wales not long after the end of the Second Opium War. My family was wealthy and well-respected, so I received a good education and, in time, I became a cavalry officer. I had a promising career in the British Army, so if I had been wiser I'm sure that I would have had a good life in Britain, the kind of life that my parents wished for me. 
+
+But wisdom was a virtue that I lacked at a younger age. I wanted to enjoy all the pleasures that destiny seeemed to offer me, wether they were expensive drinks, gambling, or the company of beautiful women. I guess that I was what you could call a rake. My way of living led to one scandal after the other, each of them more difficult to hide than the previous one. Eventually my problems became really serious. One of my indiscretions could well have taken me to prison. At the very least, it could have meant my dishonourable discharge from the army, and a source of perpetual shame for my family. Before anything of that could happen, I managed to make a last time agreement: I would resign from the army and I'd board the first ship to the colonies, where I'd spend some years until everything was forgotten and I could return.
+
+By pure chance the first ship that I found was about to sail to Hong Kong, where I arrived before the end of 1883. Just a few weeks after my arrival I befriended an important Chinese official in one of the many dens of iniquity of Hong Kong. He was in charge of some of the local militias in Southern China and, learning about my past as a British officer, he offered me a job as his personal assistant. He was really eager to transform his ill-equipped bunch of indisciplined peasants into a modern, well trained army, and I happened to be the kind of person that he was looking for. Since I didn't have any other means of living I accepted his offer, and that's how I started to serve the Qing Empire.
+
+A few months later a conflict erupted in Tonkin between France and China. The French had tried for some time to stablish a protectorate over that region, which traditionally had been a tributary of China. The growing tension led to a full scale war, so in September of 1884 my patron entered Tonkin and sent his militias to the Luc Nam valley where, along with some Black Flag mercenaries, he would try to stop the French advance towards Lang Son. It was a difficult task, since our troops were far from ready and the French units were better trained and equipped. Numerical superiority was our only advantage, but I doubted that it would be enough.
+
+Victory conditions:
+- After 10 turns you must hold 5 VHs for a BV, 4 VHs for a V or 2 VH for a TacV.

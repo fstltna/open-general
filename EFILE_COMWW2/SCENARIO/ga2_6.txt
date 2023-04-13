@@ -1,0 +1,119 @@
+Maikop
+XXXVI/12Kv
+XL/12Kv
+XLII/12Kv
+LXVIII/NB
+LXXVI/NB
+DCCCXXIII/302
+DCCCXXV/302
+DCCCXXVII/302
+LXVII/20
+CLXXIV/20
+CCLXV/20
+MCCCXXXI/318
+DCCCXIX/242
+CXXVI/11
+I/2
+VI/2
+XV/2
+LXXV/31
+CMLXXXII/275
+DXXXIV/106
+MXLII/295
+CMLXI/274
+CXXXVI/TB
+CXXXVIII/TB
+LXIII/TB
+MCXLVII
+CMVII/347
+Tschelbassy River
+Dimitrijewskaja
+Krapotkin
+ROUGH
+CLEAR
+Ladowskaja
+Kuban River
+Nowo Alexandrowskaja
+Donskoje
+Kubanka River
+Ust-Labinskaja
+Gulkeviche
+Kawkasskaja
+Terniwbekskaja
+Laba River
+Fortified Pass
+Port Grigoripolnskaja
+Jegorlyk River
+Tenginskaja
+Nowo Michaillowskaja
+Pritoka Kubani
+Rozeatwenskaja
+Kamennobrodskaja
+Stawropol
+Kubanskaja
+Protschnookopskaja
+Termigojewskaja
+Sengileevskoe
+Petropawlowskaja
+Tschamlyk River
+Armavir
+Fars River
+Welikoje
+Gjaginskaja
+Temnoljesskaja
+Ubezenskaja
+Urup River
+Nikolajewskaja
+Bjelaja River
+Kurgannowa
+Bjeloretschenskaja
+Pcefir River
+Tschamlykskaja
+Uspenskoje
+Pschecha River
+Maikop
+Urupskaja
+Njewinnamyskaja
+Labinskaja
+Kurdzips River
+Tscherkesskaja
+Tulskaja
+Mostowaja
+Damaged Oilfields
+Otradnaja
+Sinjuha River
+CVI
+CCCXLVII
+XXXI
+CCLXXIV
+IV/SWF
+Maikop Airfield
+Petropawlowskaja Airfield
+Temnoljesskaja Airfield
+XX/SFD
+XI/SFD
+XXI/SFD
+LXVI/13
+XXXIX/3
+XCIII/13
+LX/16
+IV/13
+CCXXVIII/101
+CCXXIX/101
+VI/3
+II/13
+XIII/13
+LXXV/3
+LXI/L4
+VI/L4
+V/L4
+CI/101
+Railroad
+HILL
+FOREST
+MOUNTAIN
+Village
+Germania/5th SS
+Port Nikolajewskaja
+Black Sea Fleet
+Oilfields

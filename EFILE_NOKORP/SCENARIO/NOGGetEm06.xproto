@@ -1,0 +1,8 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 131  '  Panther A  [ TK  Germany]  Cost: 876
+7968  '  Tiger Ic  [ TK  Germany]  Cost: 1200

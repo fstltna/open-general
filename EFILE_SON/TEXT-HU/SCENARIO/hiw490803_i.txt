@@ -1,0 +1,12 @@
+Szeged-Szõreg
+1849. VIII. 3.
+
+Tábornok polgártárs! Görgei az I., III. és VII. hadtestekkel egy idõre leköti az orosz seregeket, lélegzetvételnyi idõhöz juttatva a délvidéki csapatainkat. Haynau Buda birtokba vétele után Szeged felé fordult. Az összevont IV., IX. és X. hadtest élén az Ön feladata föltartóztatni a hódítókat.
+
+Elhelyezhetõ egység: 21
+
+KÜLDETÉS: Nem szükséges tartanod vagy visszafoglalnod mindkét gyõzelmi pontot, a menekülési pont idõben meg fog jelenni, hogy teljesíthesd ezt a küldetést.
+
+JAVASLAT:
+- Ha több mint 21 egységed van, add el a többletet és a kapott presztízs pontokat fordítsd egységeid újratöltésére.
+- Vedd számításba, hogy a csata után az egységek készletei nem pótlódnak automatikusan.

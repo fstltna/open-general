@@ -1,0 +1,8 @@
+Operation Luettich - August 1944
+
+Our new operation to break the Allied offensive by driving to Avranches and destroying their forces has started on time, but with fewer troops than expected. Both the 116 (PzLehr) and the 1SS (LSSAH) have problems reaching the front. The attack has started with the 2Pz in the North and our division reinforced with a KG of the 17SS (Goetz von Berlichingen) in the South. Opposite us is the US 30ID which is putting up a stubborn defense.
+
+PLAYER ORDERS
+- Strength lost on core units will not be automatically replaced at HQ at the start of the next scenario.
+- New units cannot be acquired at HQ at the start of the next scenario.
+- Capture all VH.

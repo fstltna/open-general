@@ -1,0 +1,127 @@
+Novogrudok
+CIII/4th Pz. Div.
+Sperrgruppe Weidling 
+CDXXVII/129
+505th Pz. Abt.
+505th Pz. Abt.
+XLIX/28th Jaeger Div.
+BG Lindig
+DVII/292
+KG Bickel
+BG Harteneck
+Valozyn
+Grodno
+Lida
+Smaljavysk
+Niemen River
+Minsk
+Scucyn
+Novogrudok
+Village
+Slutsk
+Stolbtsy
+Village
+Mosty
+Mozyr
+Volkovysk
+Zelva
+Village
+Baranavicy
+Village
+Pripet Marshes
+Slonim
+Ruzany
+Pripyat River 
+Bayki
+Logishin
+Village
+Kolyadichi
+Pinsk
+Smaljavysk Airfield
+Mosty Airfield
+Inoperable Airfield
+Damaged Airfield
+Railroad
+Canal
+Pond
+II/1st Huszar Div.
+CCCLXXVIII/173
+XXXII/19
+V/3rd SS Totenkopf
+XLIV/42
+XVII/32
+CCCXCII/73
+VI/3rd Tank Div.
+II/1st Tank Div.
+DXIX/296
+LXXXIII/28th Jaeger Div.
+XXXV/4th Pz. Div.
+XII/4th Pz. Div.
+III/3rd SS Totenkopf
+CCLII/110
+XXVIII/28th Jaeger Div.
+3rd Kavallerie Brig.
+16th Air Army
+XXIX/12th Pz. Div.
+XXV/12th Pz. Div.
+II/12th Pz. Div.
+XXI/20th Pz. Div.
+XCII/20th Pz. Div.
+LIX/20th Pz. Div.
+CXXI/50
+4th Air Army
+5th Kav. Div.
+JG 51
+9th Kv. Div.
+VI/3rd SS Totenkopf
+DCCLVII/222
+DCCXL/217
+10th Kv. Div.
+42nd Tank Brig.
+43rd Tank Brig.
+213th Tank Brig.
+Jaselda River
+CDLX/260
+290th FlaK Abt.
+2nd JgdPz. Abt.
+CXII/20th Pz. Div.
+V/12th Pz. Div.
+III/1st Huszar Div.
+IV/1st Huszar Div.
+I/1st Huszar Div.
+CCLIV/110
+CCLV/110
+CXX/110
+CX/110
+201st Sicherheit Div.
+221st Sicherheit Div.
+912th StuG Brig.
+CIV/102
+LXXXIV/102
+CCXCII/292
+CXXIX/129
+CDLXXX/260
+CCLX/260
+CL/50
+CXXIII/50
+50th AA Batt.
+CDXXIX/19
+CDXC/173
+CCCLII/173
+292nd SP Art. Reg.
+XVII/42
+CDXIII/73
+25th Saperni Batt.
+XI/73
+148th AT Batt.
+260th JgdPz. Abt.
+91st Tank Brig.
+728th AT Batt.
+DLXVII/173
+220th Saperni Batt.
+FOREST
+CLEAR
+ROUGH
+SWAMP
+HILL
+RUBBLE

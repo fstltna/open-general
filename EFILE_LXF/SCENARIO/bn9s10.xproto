@@ -1,0 +1,17 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 482  '  SU-76  [ AT  Soviet Union]  Cost: 516
+ 524  '  T-34/76C  [ TK  Soviet Union]  Cost: 732
+ 532  '  La-5  [FTR  Soviet Union]  Cost: 768
+ 539  '  Yak-9D  [FTR  Soviet Union]  Cost: 756
+ 543  '  Il-2m3  [ TB  Soviet Union]  Cost: 624
+ 940  '  Tu-2S  [ TB  Soviet Union]  Cost: 864
+1540  '  BA-64  [RCN  Soviet Union]  Cost: 216
+1568  '  Valentine  [ TK  Soviet Union]  Cost: 408
+2864  '  SU-76 CS  [ATY  Soviet Union]  Cost: 492
+2949  '  T-43  [ TK  Soviet Union]  Cost: 768
+6951  '  LaGG-3 1942  [FTR  Soviet Union]  Cost: 720

@@ -1,0 +1,12 @@
+Nagysalló
+April 19, 1849
+
+Citoyen General! After your glorious victories, the Parliament sitting in Debrecen declared the independence of Hungary and dethroned the Habsburgs! The retreating imperials gathered their reserve corps behind the River Garam. Scatter them and open the road to the fortress Komárom which has been besieged for four months.
+
+Deploy Hexes: 21
+
+ORDER: Take all VHs.
+
+NOTE: Please consider that at the end of this scenario the units won’t be resupplied automatically and you will not be able to buy new units after this scenario.
+
+scenario designer: Csaba (lvjtn)

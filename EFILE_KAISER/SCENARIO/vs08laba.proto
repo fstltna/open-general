@@ -1,0 +1,17 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+   8  '  Kradschützen  [INF  German Empire]  Cost: 252
+  51  '  Erhardt PzWgn 15  [RCN  German Empire]  Cost: 420
+ 399  '  3,7cm Graben-K  [ AT  German Empire]  Cost: 84
+ 447  '  7,92mm MG 08  [ AD  German Empire]  Cost: 156
+ 930  '  Gebirgsjäger  [INF  German Empire]  Cost: 288
+1061  '  Albatros C.I  [ TB  German Empire]  Cost: 696
+2343  '  3,7cm SturmbegleitK   [ AT  German Empire]  Cost: 84
+3524  '  Albatros B.III  [ TB  German Empire]  Cost: 444
+3561  '  Ago C.I  [ TB  German Empire]  Cost: 636
+3566  '  Aviatik B.II  [ TB  German Empire]  Cost: 456
+3580  '  LVG B.II  [ TB  German Empire]  Cost: 468

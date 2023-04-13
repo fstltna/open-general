@@ -1,0 +1,15 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  73  '  SdKfz 7/1  [FlaK  Germany]  Cost: 396
+  78  '  7.5cm PaK40  [ AT  Germany]  Cost: 180
+1340  '  SdKfz 250/10  [ AT  Germany]  Cost: 336
+1346  '  SdKfz 6/3  [ AT  Germany]  Cost: 528
+1370  '  Bf 110G-2  [FTR  Germany]  Cost: 840
+1422  '  Pz IIIJ2  [ TK  Germany]  Cost: 660
+2376  '  SdKfz 250/3 CC  [RCN  Germany]  Cost: 312
+2968  '  SdKfz 7/1 CS  [ AT  Germany]  Cost: 396
+6596  '  Fw 190A-3  [FTR  Germany]  Cost: 960

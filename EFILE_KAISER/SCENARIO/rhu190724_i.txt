@@ -1,0 +1,17 @@
+Szolnok: The Collapse
+
+July 24, 1919
+
+Comrade Commisar, the situation is critical. Though we have managed to cross Tisza at three locations, and we have gained a large bridgehead east of Szolnok, our offensive has stalled. Our soldiers are exhausted, we have serious difficulties to resupply them, while more and more fresh Romanian troops are arriving at the battlefields. We suspects some of the former KuK officiers in our rank have betrayed our Soviet Republic and delivered important intels to the imperialists. Comrade, a strong and overwhelming capitalist counterattack is imminent! Save our revolution and do not let them cross the Tisza!
+
+ORDER: Hold at least three VHs and keep your MSU alive.
+
+NOTES:
+- AI moves first.
+- You can repurchase only the lost units.
+- AI gets valuable reinforcements.
+- You have 4 free RTP slots.
+
+20 Turns
+
+Scenario designed by Csaba (lvjtn)

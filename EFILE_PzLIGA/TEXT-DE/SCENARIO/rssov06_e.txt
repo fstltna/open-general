@@ -1,0 +1,42 @@
+1945 Sued-Karafuto [PL 3.2]
+Fluss Horonai-gawa
+Chiwagai
+Hatsutai
+Lesogorsk
+Kuri
+Toyohata
+Fluss Okutai-gawa
+Morotsu
+Chio
+Poronask
+Naikawa
+Toro
+Tahei
+Uglegorsk
+Stsuia
+Evakuierungsstelle
+79 RD/[56C]
+79 RD/[56C]
+79 RD/[56C]
+79 RD/[56C]
+2.SchuetzenBde./[56C]
+5.SchuetzenBde./[56C]
+214 Tk.Bde./[56C]
+[10.Luftarmee]
+[10.Luftarmee]
+365.Ind.Marine Bde./[56C]
+113.SchuetzenBde./[56C]
+[56.Korps]
+262 Bde./88 Div./[NJA]
+264 Bde./88 Div./[NJA]
+(Reserve-Rgt.)/88 Div./[NJA]
+(Reserve-Rgt.)/88 Div./[NJA]
+88 Div./[NJA]
+88 Div./[NJA]
+88 Div./[NJA]
+[NJA Miliz]
+[Japanische Nordarmee]
+[NJA Miliz]
+[NJA Miliz]
+[NJA]
+Japanese Refugees

@@ -1,0 +1,14 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+1809  '  SU-100  [ AT  USSR]  Cost: 732
+4473  '  La-9  [FTR  USSR]  Cost: 1044
+4487  '  Yak-3 VK-107A  [FTR  USSR]  Cost: 900
+4672  '  Yak-3P  [FTR  USSR]  Cost: 948
+4701  '  Yak-9UT  [FTR  USSR]  Cost: 912
+4709  '  Tu-2T  [ TB  USSR]  Cost: 888
+4818  '  T-44/100  [ TK  USSR]  Cost: 1800
+5376  '  IS-3  [ TK  USSR]  Cost: 2064

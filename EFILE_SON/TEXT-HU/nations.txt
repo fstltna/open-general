@@ -1,0 +1,38 @@
+* Sides
+Forradalmiak
+Birodalmiak
+
+* Nations
+Összes ország
+Velencei Köztársaság
+Német Szövetség
+Orosz Birodalom
+Habsburg Birodalom
+Magyar Királyság
+Szárd Királyság
+Lengyel Királyság
+Oszmán Birodalom
+Egyesült Királyság
+Porosz Királyság
+Francia Királyság
+Francia Köztársaság
+Francia Császárság
+Svéd Királyság
+Spanyol Királyság
+Badeni Nagyhercegség
+Bajor Fejedelemség
+Rajnai Szövetség
+Württembergi Hercegség
+Szász Fejedelemség
+Hannoveri Fejedelemség
+Texasi Köztársaság
+Mexikói köztársaság
+Egyesült Államok
+Dán Királyság
+Hessen-Kassel
+Portugál Királyság
+Holland Királyság
+Öslakosok
+Szicíliai Királyság
+Toszkán Nagyhercegség
+Görög Köztársaság

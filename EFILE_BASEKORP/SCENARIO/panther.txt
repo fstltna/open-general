@@ -1,0 +1,20 @@
+Panthers In The Mud (ver. 1.0)
+
+This is a short German World War II campaign. It is concentrated around the tank battalion with its accompanying support elements. It should be perfectly suited for a lonely weekend, because the scale of battles is small to medium and they are not really hard.
+
+You start in the autumn 1941 during the second stage of an attack on Moscow. Leading a mere light tanks company, you'll later become a commander of the whole tank battalion. Trapped in the mud, blood, and tears of the East Front, you'll fight the last frantic skirmishes of "Blitzkrieg!", and later encounter the attrition battles of the desperate resistance while "Defending the Reich".
+
+===================================================== * * * =====================================================
+
+Few tips on the core managment, prestige flow, and campaign design:
+
+You are completely responsible for the ground forces. This includes the upgrades and the expansion of your core. You are not only a field commander, but also a quartermaster and a politician who uses his prestige to gain any advantage possible.
+The air support is in the form of auxiliary units only. I used the "air missions" setting, so the planes work much differently than in original Panzer General II.
+
+All in-scenario turns prestige is received at the very first turn of each scenario. This has three consequences that you should keep in mind. First of all, it's not necessary to play until the last turn to receive all the prestige; you'll get it immediatelly on the very first turn. Second important thing to never forget is that you can actually use this prestige on the very first turn to acquire a new unit; just don't close the deploy screen until you are done with purchases. Last thing to consider: the prestige flow is lowest at the start and the end of campaign, while it's at its peek during the mid-stages; use this knowledge to your advantage.
+
+I used the "no prototype" settings, moreover the purchase pool is limited to simulate the reality of warfare in Russia, the overall German military production, but mainly the fact that you command just a tank battalion. For the "Blitzkrieg!" minicampaign, you are recommended to increase your tank force with a new unit each scenario, while giving your older companies at least somewhat up to date vehicles. For the "Defending The Reich" minicampaign, you should increase the number of your secondary units, and especially try to improve the anti-aircraft capabilities of your force, as the deteriorating situation will leave you with lesser and lesser Luftwaffe support.
+
+===================================================== * * * =====================================================
+
+This campaign is a result of a long and tedious work. I wish that you will find it interesting, challenging and entertaining. I had fun while designing it, and it learnt me a few things about Open General, Open Suite, and about the history of World War II. Enjoy playing the campaign at least in the same way as I enjoyed the designing.

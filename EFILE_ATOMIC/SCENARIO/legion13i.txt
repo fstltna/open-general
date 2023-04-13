@@ -1,0 +1,17 @@
+SITUATION:
+
+For far too long, the English based on Malta have interrupted our flow of supplies to North Africa. You have been selected to lead an elite assault force and subdue this enemy stronghold. You must secure all the island's harbors and airfields so that our hold on the Mediterranean is secure. 
+
+The code-name for this operation is: C3
+
+ORDERS: 
+
+Take all VHs in 16/20/26 turns for a BV/V/TV.
+
+NOTES:
+
+You can buy 1 unit in this scenario.
+
+You start without an own airfield and have to build one once your sappers have landed. A fast builder attachment will be useful.
+
+Caution! The British fleet in these waters is powerful! Keep your naval transports at a save distance.

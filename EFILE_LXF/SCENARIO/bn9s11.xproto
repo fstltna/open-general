@@ -1,0 +1,23 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 481  '  SU-152  [ AT  Soviet Union]  Cost: 768
+ 482  '  SU-76  [ AT  Soviet Union]  Cost: 516
+ 483  '  SU-85  [ AT  Soviet Union]  Cost: 636
+ 539  '  Yak-9D  [FTR  Soviet Union]  Cost: 756
+ 940  '  Tu-2S  [ TB  Soviet Union]  Cost: 864
+1494  '  M1A1 90mm  [ AD  Soviet Union]  Cost: 600
+1507  '  M3 GMC  [ AT  Soviet Union]  Cost: 372
+1540  '  BA-64  [RCN  Soviet Union]  Cost: 216
+1542  '  M3 Scout Car  [RCN  Soviet Union]  Cost: 228
+1551  '  Pe-2FT  [ TB  Soviet Union]  Cost: 864
+1558  '  M4A1  [ TK  Soviet Union]  Cost: 744
+1568  '  Valentine  [ TK  Soviet Union]  Cost: 408
+2864  '  SU-76 CS  [ATY  Soviet Union]  Cost: 492
+2888  '  SU-152 CS  [ATY  Soviet Union]  Cost: 1068
+2949  '  T-43  [ TK  Soviet Union]  Cost: 768
+5587  '  152mm D-1  [ATY  Soviet Union]  Cost: 504
+6950  '  La-5FN  [FTR  Soviet Union]  Cost: 864

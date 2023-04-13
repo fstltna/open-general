@@ -1,0 +1,29 @@
+Ardennes 
+(10-11 May 1940)
+v.1.0
+The Campaign of the 18 Days
+(10-28 May 1940)
+
+General,
+
+The Germans have just entered into Luxembourg and will soon cross the Belgian border and enter into the Belgian Ardennes. You must support the "1ére Division de Chasseurs Ardennais/Ardense Jagers" in their delaying tactics and demolition works. Once completed, you must retreat northwards to the Maas River and join the main body of the Belgian army at the "Ligne KW" (Dyle Position). It is important that your troops are preserved to continue the battle in the main defensive line, so do not engage in risky combats.
+
+According to the intelligence service, you will have to fight against several panzerdivisions from the XIX Panzerkorps of Guderain, so be prepared!  We have also been informed that paratroopers may land behind our lines, probably close to Neufchâteau (20,25). 
+
+French light troops are also expected to intervene to delay Germans and give time to their 9th and 2nd Armies to move to their positions in the Meuse River. Be open to cooperate with our French allies but your priority is to execute our retreat plans and remember ... you only receive orders from the Belgian command! 
+
+Le Chef d'Etat-major général de l’armée (EMGA)
+
+Victory conditions: Only a TV is possible. At the end, you must hold Bouillon (4,31) and Haversin (1,1).
+
+In addition, if you lose Bastogne (29,16) before the turn 5 or Neufchâteau (20,25) AND Champion (17,9) before the turn 10 Germans win.
+
+Also 10 Belgian units must survive.   
+
+Efile: OLGWW2 (version 2.00 or higher)
+
+Map: Ardennes1940 (927)
+
+Paqueo
+
+November 2011

@@ -1,0 +1,74 @@
+Towards Ortona
+Casa Berardi
+Arielli River
+Spoltore
+River
+Ortona
+None
+Cappelle Sul Tavo
+River
+Chieti
+Pinella
+Cepagatti
+Miglianico
+Ortona Port
+Bucchianico
+San Vito Chietino
+Manopello
+Fara Filiorum Petri
+Orsogna
+Fossacesia
+Moro River
+Roccamontepiano
+Guardiagrele
+San Leonardo
+Paglieta
+Sangro River
+Castel Frantano
+Casalbordino
+Pennapiedimonte
+Aventino River
+Vasto
+Port Vasto
+Casoli
+Scerni
+Sant Angelo Lake
+Atessa
+Fara San Martino
+Cupello
+Casalanguida
+Spoltore Airfield
+Port Ortona
+Cupello Airfield
+Railroad
+XX/2
+VI/2
+IX/2
+II/2
+XIX/2
+4th Armored Batt.
+XIII/5
+CXXIX/29
+LXXI/29
+XV/29
+L2
+III/1
+IV/1
+I/1
+LXVII/26
+CXC/90
+CLV/90
+IX/26
+CIV/90
+CCCIV/26
+CCCXXXIV/90
+XCIII/26
+CLVI/5
+Adriatic Sea
+Riccio River
+37th Squadron
+Eastern Fleet
+MOUNTAIN
+CLEAR
+ROUGH
+STREAM

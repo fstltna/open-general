@@ -1,0 +1,8 @@
+Tokaj,
+1849. I. 31.
+
+Schlik hadai decemberben megfutamították Pulszky, fõleg nemzetõrökbõl álló seregét és elfoglalták Kassát, bekerítéssel fenyegetve Görgei seregét. Ezredes úr, az Ön újjászervezett hadtestének a feladata Tokaj és a Tisza-vonal védelme, hogy északról fedezze az új hadmûveleti bázist, a Tiszántúlt.
+
+Elhelyezhetõ egység: 20
+
+KÜLDETÉS: Foglald el az összes gyõzelmi pontot.

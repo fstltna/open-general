@@ -1,0 +1,14 @@
+Szeged-Szõreg
+August 3, 1849
+
+Citoyen General! The brave maneuvers of the 1st, 3rd and 7th Corps commanded by General Görgei engages the Russian main forces for a while. After capturing the capital, the Austrians turned to the south and are advancing toward the River Tisza. You should halt Haynau’s troops in front of Szeged. You will command the united 4th, 9th and 10th Corps.
+
+Deploy Hexes: 21
+
+ORDER: You don’t need to hold or retake the VHs, an EH will appear in time to get safe MV.
+
+NOTES:
+- If you have more than 21 units, sell the excess and spend the gained PP on reinforcing your units.
+- Please consider that at the end of this scenario the units won’t be resupplied automatically.
+
+scenario designer: Csaba (lvjtn)

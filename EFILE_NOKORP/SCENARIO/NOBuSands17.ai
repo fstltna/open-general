@@ -1,0 +1,21 @@
+'---
+'Config AI file for scenario: NOBuSands17.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=13 items  ' Replacement for default list
+ 375  '  Sherman I  [ TK  United Kingdom]  Cost: 564
+ 402  '  M16 MGMC "Meat Chopper"  [FlaK  USA]  Cost: 492
+ 406  '  M10 GMC Wolverine  [ AT  USA]  Cost: 648
+ 414  '  M12 GMC  155 mm  [ATY  USA]  Cost: 972
+ 416  '  M7 Priest  105mm  [ATY  USA]  Cost: 660
+ 418  '  T19  105 mm HMC  [ATY  USA]  Cost: 408
+ 440  '  M5A1 Stuart Recon  [RCN  USA]  Cost: 360
+ 443  '  M4A1 Sherman  [ TK  USA]  Cost: 552
+ 445  '  M4A3 Sherman  [ TK  USA]  Cost: 564
+ 635  '  A27L (Cruiser Mk VIII, Centaur I)  [ TK  United Kingdom]  Cost: 492
+3399  '  Priest  [ATY  United Kingdom]  Cost: 672
+3922  '  Armored Infantry 42  [INF  USA]  Cost: 156
+5116  '  Spitfire VB tropical  [FTR  United Kingdom]  Cost: 708

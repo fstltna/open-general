@@ -1,0 +1,10 @@
+Second Battle of Tabasco
+June 15,1847
+
+Take the fortification of San Juan Bautista and complete the blockade Mexican Gulf ports to secure our forthcoming landing operation.
+
+Deploy Hexes: 1
+
+ORDER: Take all VHs and keep your MSU alive.
+
+scenario designer: Csaba (lvjtn)

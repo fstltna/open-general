@@ -1,0 +1,198 @@
+Fa07-Motti-Tactics
+AT Bn 203/163 RflD
+Rec Bn 163/163 RflD
+RflRgt 662/163 RflD
+I/RflRgt 82/163 RflD
+Pulemyot Maxima MG [AA S]
+AA Rgt/9 Army
+Road Con Bn 13/163 RflD
+II/145 IAP
+Rec/39 SBAP
+Tk Bn 222/163 RflD
+AT Bn 304/163 RflD
+Aty Rgt 365/163 RflD
+Aty Rgt 86/163 RflD
+En Bn 270/163 RflD
+En Bn 246/163 RflD
+RflRgt 759/163 RflD
+RflRgt 81/163 RflD
+chem Tk Bn 204/163 RflD
+chem Tk Bn 147/163 RflD
+AA Rgt/XLVII Corps
+RflRgt 25/44 RflD
+I/39 SBAP
+I/145 IAP
+II/39 SBAP
+Truck Bn 148/163 RflD
+TPT Rgt 14/163 RflD
+KTR 9/9 Div
+Kev Os 2
+ITR/Os Susi
+ErP 15
+ErP 16
+PPP 6
+JR 27/9 Div
+JR 64/9 Div
+JR 65/9 Div
+PioP 22
+Os Makinen
+SK 1/Os Susi
+SK 2/OS Susi
+RajaK/Os Susi
+Kev Os 22
+LAKE
+LAKE
+Piispajarvi
+Piispajarvi
+Piispajarvi
+LAKE
+LAKE
+LAKE
+LAKE
+Piispajarvi
+Piispajarvi
+LAKE
+Airfield
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+Juntusranta
+LAKE
+Juntusranta
+Juntusranta
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+Puras
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+Puras
+Puras
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+Suomussalmi
+Suomussalmi
+LAKE
+LAKE
+Suomussalmi
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+Suomussalimi
+Suomussalmi
+Suomussalmi
+Suomussalmi
+LAKE
+LAKE
+Suomussalmi
+LAKE
+LAKE
+Suomussalmi
+Suomussalmi
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+Raate
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+Raate
+Raate
+Raate
+LAKE
+LAKE
+LAKE
+Raate
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+LAKE
+Makinen barrier
+Pulemyot Maxima MG [AA S]
+Pulemyot Maxima MG [AA S]

@@ -1,0 +1,14 @@
+0000 FIRST STEPS
+Basic Tutorial Campaign
+
+This short campaign is designed to help you through the basic actions of Open General. Who has not played the Tutorial Campaign after installation can do it now. It is recommended to open the accompanying document Tutorial.pdf in OG Readme-directory. 
+
+Enjoy!
+
+Björn aka Golothin
+
+Campaign Designer:  Guille
+Number of Scenarios: 3
+LXF Conversion: Golothin, based on AK v1.00
+LXF Version: v2.1
+Last Playtest: 06/2015

@@ -1,0 +1,14 @@
+Tápióbicske
+April 4, 1849
+
+General! The main offensive has just begun. According to the plan made by General Klapka, your task is to open the road toward Pest which is occupied by Jellachic’s corps. Unfortunately our scouting battalion has been ambushed at Tápióbicske. Show the true virtue of the hussars and lead a bold cavalry attack to reelieve them and secure the bridge over the Tápió. 
+
+Deploy Hexes: 22
+
+ORDER: Take all VHs and keep 3 of 6 MSU alive.
+
+NOTES:
+- AI moves first.
+- Please consider that at the end of this scenario the units won’t be resupplied automatically and you will not be able to upgrade your core after this scenario.
+
+scenario designer: Csaba (lvjtn)

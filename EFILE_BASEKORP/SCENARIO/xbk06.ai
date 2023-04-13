@@ -1,0 +1,69 @@
+'---
+'Config AI file for scenario: xbk06.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=61 items  ' Replacement for default list
+  48  '  Char B1bis  [ TK  France]  Cost: 540
+  55  '  S35  [ TK  France]  Cost: 444
+  56  '  AGR2  [TPT  France]  Cost: 48
+  58  '  MCG  [TPT  France]  Cost: 204
+  59  '  Wagon  [TPT  France]  Cost: 24
+  60  '  D.520C.1  [FTR  France]  Cost: 504
+  62  '  Po.633  [ TB  France]  Cost: 468
+  63  '  Transport  [ATP  France]  Cost: 348
+ 369  '  Cruiser IV  [ TK  United Kingdom]  Cost: 300
+ 377  '  Matilda II  [ TK  United Kingdom]  Cost: 528
+ 382  '  QL  [TPT  United Kingdom]  Cost: 72
+ 383  '  Bren Carrier  [TPT  United Kingdom]  Cost: 216
+ 385  '  Hurricane IA  [FTR  United Kingdom]  Cost: 468
+ 387  '  Spitfire IA  [FTR  United Kingdom]  Cost: 588
+ 398  '  C-47  [ATP  United Kingdom]  Cost: 348
+ 592  '  Char D2  [ TK  France]  Cost: 384
+ 595  '  Hawk 75A  [FTR  France]  Cost: 492
+ 702  '  Blenheim I  [ TB  United Kingdom]  Cost: 540
+ 914  '  Battle I  [ TB  United Kingdom]  Cost: 384
+ 949  '  Bre 693  [ TB  France]  Cost: 600
+1200  '  VG.33  [FTR  France]  Cost: 516
+1202  '  MB.152  [FTR  France]  Cost: 552
+1203  '  MB.155  [FTR  France]  Cost: 648
+1204  '  Po.631  [ TB  France]  Cost: 660
+1208  '  MB.210  [ TB  France]  Cost: 528
+1209  '  Leo 451  [ TB  France]  Cost: 636
+1210  '  Amiot 143  [ TB  France]  Cost: 468
+1212  '  Amiot 354  [ TB  France]  Cost: 624
+1213  '  LN 401  [ TB  France]  Cost: 408
+1214  '  MB.174  [ TB  France]  Cost: 552
+1215  '  F.222  [ LB  France]  Cost: 504
+1707  '  Matilda IIICS  [ TK  United Kingdom]  Cost: 528
+1722  '  Beaufort  [ TB  United Kingdom]  Cost: 540
+1724  '  Blenheim IV  [ TB  United Kingdom]  Cost: 612
+1733  '  Wagon  [TPT  United Kingdom]  Cost: 12
+2602  '  Hurricane II  [FTR  United Kingdom]  Cost: 504
+2609  '  Whitley  [ TB  United Kingdom]  Cost: 648
+2613  '  Horse  [TPT  United Kingdom]  Cost: 12
+2614  '  C8  [TPT  United Kingdom]  Cost: 84
+2615  '  Carrier  [TPT  United Kingdom]  Cost: 168
+2616  '  MW 15cwt  [TPT  United Kingdom]  Cost: 60
+2618  '  Pioneer  [TPT  United Kingdom]  Cost: 84
+2836  '  UE  [TPT  France]  Cost: 216
+2837  '  Horse  [TPT  France]  Cost: 12
+2838  '  Limber  [TPT  France]  Cost: 36
+2845  '  P107  [TPT  France]  Cost: 180
+2847  '  S20TL  [TPT  France]  Cost: 60
+2849  '  S35  [TPT  France]  Cost: 60
+2850  '  FTARH  [TPT  France]  Cost: 60
+2851  '  38L  [TPT  France]  Cost: 240
+2852  '  Mules  [TPT  France]  Cost: 12
+2855  '  P19  [TPT  France]  Cost: 108
+2864  '  Bicycles  [TPT  France]  Cost: 12
+2902  '  Wellington  [ LB  United Kingdom]  Cost: 588
+2942  '  Horsa II  [ATP  United Kingdom]  Cost: 180
+2943  '  Hamilcar  [ATP  United Kingdom]  Cost: 180
+3181  '  AMC 35  [ TK  France]  Cost: 372
+3948  '  Dragons Blindees 40  [INF  France]  Cost: 420
+5393  '  Hawk 75A-3  [FTR  France]  Cost: 780
+5815  '  Train  [RTP  France]  Cost: 120
+5831  '  Train  [RTP  United Kingdom]  Cost: 120

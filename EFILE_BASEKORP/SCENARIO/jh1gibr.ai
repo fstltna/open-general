@@ -1,0 +1,88 @@
+'---
+'Config AI file for scenario: jh1gibr.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=80 items  ' Replacement for default list
+ 100  '  3.7inch  [ AD  United Kingdom]  Cost: 396
+ 320  '  20mm  [FlaK  United Kingdom]  Cost: 60
+ 321  '  40mm I  [ AD  United Kingdom]  Cost: 144
+ 328  '  25 pdr  [ATY  United Kingdom]  Cost: 276
+ 338  '  40 Engineer  [INF  United Kingdom]  Cost: 408
+ 339  '  40 Commando  [INF  United Kingdom]  Cost: 600
+ 341  '  39 Ghurka  [INF  United Kingdom]  Cost: 324
+ 343  '  39 Indian  [INF  United Kingdom]  Cost: 84
+ 347  '  39 Royal Marine  [INF  United Kingdom]  Cost: 144
+ 356  '  Repulse BC  [sBS  United Kingdom]  Cost: 1320
+ 358  '  County CA  [sBS  United Kingdom]  Cost: 804
+ 359  '  Leander CL  [sBS  United Kingdom]  Cost: 504
+ 360  '  Illustrious CV  [sCV  United Kingdom]  Cost: 864
+ 361  '  Tribal DD  [sDD  United Kingdom]  Cost: 288
+ 382  '  QL  [TPT  United Kingdom]  Cost: 72
+ 383  '  Bren Carrier  [TPT  United Kingdom]  Cost: 216
+ 385  '  Hurricane IA  [FTR  United Kingdom]  Cost: 468
+ 387  '  Spitfire IA  [FTR  United Kingdom]  Cost: 588
+ 392  '  Beaufighter  [ TB  United Kingdom]  Cost: 732
+ 398  '  C-47  [ATP  United Kingdom]  Cost: 348
+ 548  '  Transport  [NTP  United Kingdom]  Cost: 60
+ 614  '  Skua  [ TB  United Kingdom]  Cost: 396
+ 629  '  4.5inch  [ATY  United Kingdom]  Cost: 192
+ 660  '  Spitfire IIA  [FTR  United Kingdom]  Cost: 684
+ 702  '  Blenheim I  [ TB  United Kingdom]  Cost: 540
+ 914  '  Battle I  [ TB  United Kingdom]  Cost: 384
+ 934  '  Gladiator IIA  [FTR  United Kingdom]  Cost: 360
+ 993  '  Swordfish I  [ TB  United Kingdom]  Cost: 300
+1693  '  6inch  [ATY  United Kingdom]  Cost: 456
+1696  '  9.2inch  [ATY  United Kingdom]  Cost: 1200
+1700  '  MG  [FlaK  United Kingdom]  Cost: 108
+1717  '  Fulmar  [FTR  United Kingdom]  Cost: 456
+1718  '  Martlet I  [FTR  United Kingdom]  Cost: 768
+1720  '  Defiant  [FTR  United Kingdom]  Cost: 396
+1721  '  Albacore  [ TB  United Kingdom]  Cost: 312
+1722  '  Beaufort  [ TB  United Kingdom]  Cost: 540
+1724  '  Blenheim IV  [ TB  United Kingdom]  Cost: 612
+1726  '  Hudson  [ TB  United Kingdom]  Cost: 504
+1728  '  Nomad  [ TB  United Kingdom]  Cost: 504
+1729  '  Whirlwind  [ TB  United Kingdom]  Cost: 768
+1733  '  Wagon  [TPT  United Kingdom]  Cost: 12
+1735  '  Lightning CL  [sBS  United Kingdom]  Cost: 336
+1736  '  Fiji CL  [sBS  United Kingdom]  Cost: 528
+1737  '  Manchester CL  [sBS  United Kingdom]  Cost: 540
+1738  '  Dido CL  [sBS  United Kingdom]  Cost: 504
+1739  '  Exeter CA  [sBS  United Kingdom]  Cost: 792
+1740  '  Hood BC  [sBS  United Kingdom]  Cost: 1368
+1741  '  Royal Sovereign BB  [sBS  United Kingdom]  Cost: 1356
+1742  '  Queen Elizabeth BB  [sBS  United Kingdom]  Cost: 1404
+1743  '  Furious CV  [sCV  United Kingdom]  Cost: 684
+1744  '  Hermes CV  [sCV  United Kingdom]  Cost: 480
+1910  '  4.5inch BL  [ATY  United Kingdom]  Cost: 756
+2255  '  Catalina  [ TB  United Kingdom]  Cost: 420
+2560  '  Entrenched  [INF  United Kingdom]  Cost: 180
+2592  '  39 Scots Infantry  [INF  United Kingdom]  Cost: 96
+2602  '  Hurricane II  [FTR  United Kingdom]  Cost: 504
+2605  '  Lysander I  [ TB  United Kingdom]  Cost: 336
+2609  '  .Whitley  [ TB  United Kingdom]  Cost: 648
+2612  '  A DD  [sDD  United Kingdom]  Cost: 264
+2613  '  Horse  [TPT  United Kingdom]  Cost: 12
+2614  '  C8  [TPT  United Kingdom]  Cost: 84
+2615  '  Carrier  [TPT  United Kingdom]  Cost: 168
+2616  '  MW 15cwt  [TPT  United Kingdom]  Cost: 60
+2617  '  Matador  [TPT  United Kingdom]  Cost: 96
+2618  '  Pioneer  [TPT  United Kingdom]  Cost: 84
+2865  '  60pdr  [ATY  United Kingdom]  Cost: 708
+2902  '  Wellington  [ LB  United Kingdom]  Cost: 588
+2942  '  Horsa II  [ATP  United Kingdom]  Cost: 180
+2943  '  Hamilcar  [ATP  United Kingdom]  Cost: 180
+3132  '  MTB-1 MTB  [sDD  United Kingdom]  Cost: 168
+3133  '  Halcyon AM  [sDD  United Kingdom]  Cost: 180
+3353  '  Walrus  [ TB  United Kingdom]  Cost: 360
+3853  '  40 Motor Infantry  [INF  United Kingdom]  Cost: 144
+3858  '  40 Sikhs  [INF  United Kingdom]  Cost: 216
+3870  '  3.7inch  [ATY  United Kingdom]  Cost: 408
+4049  '  Beaufighter IIF  [ TB  United Kingdom]  Cost: 864
+4075  '  Swordfish I  [ TB  United Kingdom]  Cost: 324
+4076  '  Sunderland I  [ LB  United Kingdom]  Cost: 600
+5118  '  Defiant NF.II  [ TB  United Kingdom]  Cost: 684
+5831  '  Train  [RTP  United Kingdom]  Cost: 120

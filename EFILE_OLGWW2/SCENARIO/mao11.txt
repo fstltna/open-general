@@ -1,0 +1,165 @@
+Pyongyang Liberation [Korean War]
+Chongch on gang
+Taedong gang
+Taechong
+Huichong
+Hamhung
+Hungnam
+Sea of Japan
+Kujang
+Nam gang
+Chongpyong
+Hungnam Port
+Tokchon
+Korea Bay
+Chongju
+Pakchong
+Sinsang
+Kaechong
+Imjin gang
+Sinanju
+Yonghung
+Sunan
+Unsan
+Yangdok
+Chungsan
+Wonsan
+Pyongyang
+Sinpyong
+Anbyon
+19 R/24 Div./[8A]
+21 R/24 Div./[8A]
+34 R/24 Div./[8A]
+11 Bn/24 Div./[8A]
+13 Bn/24 Div./[8A]
+52 Bn/24 Div./[8A]
+63 Bn/24 ID/8 Army
+70 Bn/24 Div./[8A]
+26 Bn/24 Div./[8A]
+3 Bn/24 Div./[8A]
+11 R/1 ROK/[8A]
+12 R/1 ROK/[8A]
+1 Bn/1 ROK/[8A]
+24 R/25 Div./[8A]
+27 R/25 Div./[8A]
+64-69 Btn/25 Div./[8A]
+27 Turkish Bde./-/[8A]
+23 R/2 Div./[8A]
+28 R/2 Div./[8A]
+12-15 Btn./2 Div./[8A]
+28-37 Btn./2 Div./[8A]
+72 Tk.Btn./2 Div./[8A]
+2 Btn./2 Div./[8A]
+82 Rec.Btn./2 Div./[8A]
+3 R/7 ROK/[II]
+5 R/7 ROK/[II]
+8 R/7 ROK/[II]
+[II Corps HQ]
+1 R/7 ROK/[II]
+10 R/8 ROK/[II]
+21 R/8 ROK/[II]
+1 R/8 ROK/[II]
+5 R/1 CD/[8A]
+7 R/1 CD/[8A]
+6 Btn./1 CD/[8A]
+507 At.Btn./1 CD/[8A]
+29 AABtn./1 CD/[8A]
+61 ABtn./1 CD/[8A]
+442 R/148 PLA Div./[50A]
+443 R/148 PLA Div./[50A]
+444 R/148 PLA Div./[50A]
+445 R/149 PLA Div./[50A]
+446 R/149 PLA Div./[50A]
+447 R/149 PLA Div./[50A]
+448 R/150 PLA Div./[50A]
+449 R/150 PLA Div./[50A]
+450 R/150 PLA Div./[50A]
+AR/-/[50A]
+Tk Bn/-/[50A]
+586 R/196 PLA Div./[66A]
+587 R/196 PLA Div./[66A]
+588 R/196 PLA Div./[66A]
+589 R/197 PLA Div./[66A]
+590 R/197 PLA Div./[66A]
+591 R/197 PLA Div./[66A]
+592 R/198 PLA Div./[66A]
+593 R/198 PLA Div./[66A]
+594 R/198 PLA Div./[66A]
+AR/-/[66A]
+TkBn/-/[66A]
+[66 Army HQ]
+[50 Army HQ]
+HQ/1 CD/[8A]
+8 Btn/1 CD/[8A]
+343 R/115 PLA Div./[39A]
+344 R/115 PLA Div./[39A]
+345 R/115 PLA Div./[39A]
+346 R/116 PLA Div./[39A]
+347 R/116 PLA Div./[39A]
+348 R/116 PLA Div./[39A]
+349 R/117 ID/39 Army/XIII Army Group
+350 R/117 PLA Div./[39A]
+351 R/117 PLA Div./[39A]
+352 R/117 PLA Div./[39A]
+Tk.Btn./-/[39A]
+AR/-/[39A]
+[39 Army HQ]
+352 R/118 PLA Div./[39A]
+353 R/118 PLA Div./[39A]
+354 R/118 PLA Div./[39A]
+355 R/119 PLA Div./[39A]
+356 R/119 PLA Div./[39A]
+357 R/119 PLA Div./[39A]
+358 R/120 PLA Div./[39A]
+359 R/120 PLA Div./[39A]
+360 R/120 PLA Div./[39A]
+AA Btn/120 PLA Div./[39A]
+334 R/112 PLA Div.[38A]
+335 R/112 PLA Div./[38A]
+336 R/112 PLA Div./[38A]
+337 R/113 PLA Div./[38A]
+338 R/113 PLA Div./[38A]
+339 R/113 PLA Div./[38A]
+340 R/113 PLA Div./[38A]
+341 R/113 PLA Div./[38A]
+342 R/113 PLA Div./[38A]
+[38 Army HQ]
+Tk.Btn./-/[38A]
+Art R/114 PLA Div./[38A]
+AAR/114 PLA Div./[38A]
+370 R/124 PLA Div./[42A]
+371 R/124 PLA Div./[42A]
+372 R/124 PLA Div./[42A]
+373 R/125 PLA Div./[42A]
+374 R/125 PLA Div./[42A]
+375 R/125 PLA Div./[42A]
+376 R/126 PLA Div./[42A]
+377 R/126 PLA Div./[42A]
+378 R/126 PLA Div./[42A]
+Tk.Btn./-/[42A]
+AR/-/[42A]
+[42 Army HQ]
+89 Tk.Btn./25 Div./[8A]
+90 Btn./25 Div./[8A]
+69 Btn./25 Div./[8A]
+69 Btn./25 Div./[8A]
+19 R/24 ID/8 Army
+7 R/1 CD/8 Army
+8 R/1 CD/[8A]
+USAF
+USAF
+USAF
+USAF
+PLAA
+PLAA
+PLAA
+[ROK]
+[ROK]
+[ROK]
+[ROK]
+[PLA]
+[PLA]
+[PLA]
+[8 Army Reserves]
+[8 Army Reserves]
+[8 Army Reserves]

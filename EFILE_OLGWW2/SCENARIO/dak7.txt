@@ -1,0 +1,136 @@
+Mersa Matruh
+Sidi Barrani
+Village
+Mersa Matruh
+Garawla
+Bir Ali el Qadi
+Bir Sarahna
+Bir Shimeina
+Bir Abu Shayit
+Bir Khalda
+Bir Karima
+Bir Sidi Hamza
+Bir Qaim
+Bir Kamayla
+Bir el Gibb
+Smugglers Cove
+61 R/102 Trento/[XXI]
+61 R/102 Trento/[XXI]
+61 R/102 Trento/[XXI]
+62 R/102 Trento/[XXI]
+46 AR/102 Trento/[XXI]
+9/102 Trento/[XXI]
+39 R/25 Bologna/[XXI]
+40 R/25 Bologna/[XXI]
+205 AR/25 Bologna/[XXI]
+19 R/27 Brescia/[X]
+20 R/27 Brescia/[X]
+28 R/17 Pavia/[X]
+55 AR/27 Brescia/[X]
+27 R/17 Pavia/[X]
+26 AR/17 Pavia/[X]
+65 R/101 Trieste/[XX]
+66 R/101 Trieste/[XX]
+21 AR/101 Trieste/[XX]
+9/101 Trieste/[XX]
+33 R/133 Littorio/[XX]
+32 R/132 Ariete/[XX]
+132 R/132 Ariete/[XX]
+12/133 Littorio/[XX]
+8/132 Ariete/[XX]
+133 AR/133 Littorio/[XX]
+155 R/90 LD/[DAK]
+260 R/90 LD/[DAK]
+361 R/90 LD/[DAK]
+Sverband 288/90 LD/[DAK]
+Pzjgr/90 LD/[DAK]
+190 AR/90 LD/[DAK]
+900 Pio/90 LD/[DAK]
+8 PzR/15 Pz/[DAK]
+5 Pz R/21 Pz/[DAK]
+15 Schtz/15 Pz/[DAK]
+15 Schtz/15 Pz/[DAK]
+15 Mot/15 Pz/[DAK]
+33 Rec/15 Pz/[DAK]
+33 AR/15 Pz/[DAK]
+33 Pzjgr/15 Pz/[DAK]
+33 Pio/15 Pz/[DAK]
+104 Schtz/21 Pz/[DAK]
+155 AR/21 Pz/[DAK]
+3 Rec/21 Pz/[DAK]
+39 Pzjgr/15 Pz/[DAK]
+200 Pio/21 Pz/[DAK]
+[Luftwaffe]
+[2 Luftflotte]
+[2 Luftflotte]
+[2 Luftflotte]
+10 Ind.Div/[X]
+10 Ind.Div/[X]
+10 Ind.Div/[X]
+10 Ind.Div/[X]
+10 Ind.Div/[X]
+10 Ind.Div/[X]
+10 Ind.Div/[X]
+5 Ind.Div./[X]
+5 Ind.Div./[X]
+5 Ind.Div./[X]
+5 Ind.Div./[X]
+5 Ind.Div./[X]
+5 Ind.Div./[X]
+5 Ind.Div./[X]
+150 Bde./50 ID/[X]
+151 Bde./50 ID/[X]
+25 Bde./50 ID/[X]
+72 AR/50 ID/[X]
+74 AR/50 ID/[X]
+1 RTR/22 Arm.Bde./[X]
+5 RTR/22 Arm.Bde./[X]
+4 CLY/22 Arm.Bde./[X]
+4 AR/22 Arm.Bde./[X]
+97 AR/22 Arm.Bde./[X]
+1 Bde/22 Arm.Bde./[X]
+2 RHA/4 Arm.Bde./[X]
+3 RTR/4 Arm.Bde./[X]
+5 RTR/4 Arm.Bde./[X]
+8 H/4 Arm.Bde./[X]
+2 Guards/4 Arm.Bde./[X]
+1 Arm.Bde./[X]
+1 Arm.Bde./[X]
+151 Bde/[X]
+29 Bde/[X]
+2 Bde/1 Arm/[X]
+3 Bde/1 Arm/[X]
+1/101/1 Arm/[X]
+20 Bde/1 Arm/[X]
+30 Bde/1 Arm/[X]
+10 Recce/1 Arm/[X]
+12 Recce/1 Arm/[X]
+2 AR/1 Arm/[X]
+DAF
+DAF
+DAF
+DAF
+DAF
+DAF
+[X]
+4 Bde/2 NZ/[X]
+5 Bde/2 NZ/[X]
+6 Bde/2 NZ/[X]
+9 Bde/2 NZ/[X]
+10 Bde/2 NZ/[X]
+Bir el Hukuma
+5 SA
+[2 Luftflotte]
+DAF
+DAF
+[2 Luftflotte]
+[2 Luftflotte]
+DAF
+DAF
+DAF
+DAF
+Mersa Matruh Fortress
+Mersa Matruh Fortress
+Mersa Matruh Fortress
+Mersa Matruh Fortress
+[DAK]

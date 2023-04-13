@@ -1,0 +1,17 @@
+[HD note: This scenario was included in the "Fantabulous Australian Campaign" download, but is not used by the campaign; it had the original title of "Siege of Penang".
+I set it to "Visible" so it can be played as a stand alone scenario.
+
+This briefing is from the "Singapore" scenario from the campaign:]
+
+Situation report: Japanese forces have advanced from the north and now, by complete surprise, managed to cross onto the island bastion of Singapore. Now the defenses are threatened with complete collapse. Our only hope is to hold off the enemy until a solution to this situation can be discovered. The Royal Navy has promised to send a Battleship and a Battlecruiser to aid in the defense but it is not sure if any reinforcements can be brought in in time to save Singapore.
+
+Operational orders: You will assist the Commonwealth forces in defending what remains of fortress Singapore. There is not much hope for your survival, but the entire free world prays for your salvation.
+
+(Designer note: Sorry, you can't win this one either, but you will get another chance to prove your mettle by fighting to the bitter end.)
+
+
+[HD note 2: Changes to the original scenario:
+- I added some prestige so that a couple of units could be purchased at the beginning.
+- I changed the victory conditions to OpenGeneral's "Typed VH" victory conditions.
+(A loss is still likely.)]
+

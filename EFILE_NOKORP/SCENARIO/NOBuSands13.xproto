@@ -1,0 +1,13 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  88  '  Nashorn  [ AT  Germany]  Cost: 504
+  91  '  StuG IIIG  [ AT  Germany]  Cost: 348
+ 175  '  Ju 87 G Kanonenvogel  [ TB  Germany]  Cost: 672
+4558  '  Ju 87 D-5  [ TB  Germany]  Cost: 624
+5076  '  Me 210 A-1  [FTR  Germany]  Cost: 852
+6040  '  Geschützwagen Tiger K18 170mm  [ATY  Germany]  Cost: 2100
+7967  '  Tiger Ib  [ TK  Germany]  Cost: 1200

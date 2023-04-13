@@ -1,0 +1,23 @@
+1915-16 BRITISH GALLIPOLI CAMPAIGN 
+
+Version: 1.0
+Equipment File: Kaiser General
+Number of Scenarios: 11
+Player Country: British Empire
+Campaign Designer: Patrick Steinmann
+Campaign Converter: von Schweinewitz
+Playtester: Wonderdoc
+
+By late 1914, the Western Front had effectively become fixed. Trench-lines ran from Flanders to the Swiss border, and already it was obvious that a rapid decisive victory was unlikely. A new front was desperately needed. Turkey had joined the Central Powers in October and, by controlling the Dardanelles, blocked Russia's main supply route through the Mediterranean Sea. When the Tsar appealed for help after serious defeats on the Eastern Front, the Entente powers agreed that a combined British and French operation against the Dardanelles should relieve the pressure on their Eastern ally. However, the naval attacks in March 1915 failed, and it became clear that ground troops were necessary to gain control over the Dardanelles.
+
+The landings at the Gallipoli peninsula, one of the first ever major amphibious operations in modern warfare, took place on the 25 April 1915. After some initial success, the British advance crucially lost momentum, and the Australian and New Zealand Army Corps (ANZAC) landing on the western coast met with stiff Turkish resistance lead  by Colonel Mustapha Kemal (Ataturk) and almost got thrown back into the sea.
+
+Between May and July, the French and British slowly advanced up the peninsula while the ANZACs clung to their small perimeter. In August, another ambitious offensive was planned by the Allies. The assault would be conducted in three parts. The first involved two columns from ANZAC Cove making their way through a relatively undefended route to attack the key position, Chunuk Bair, in the Sari Bair mountains. The second involved the 1st Australian Division attacking the supposedly impregnable Lone Pine position and the third would be the amphibious operation with IX Corps, under General Stopford, at Suvla Bay. 
+
+The Australian assault on Lone Pine succeeded due to careful and imaginative planning. The two columns advancing on Chunuk Bair came very close to succeeding in their missions, but were eventually thrown off Chunuk Bair by a near suicidal bayonet charge led by Kemal. The landings at Suvla were conducted successfully, but the British forces were slow to exploit this and after they had finally started moving, could not dislodge the Turkish forces defending the Suvla Plain. The great gamble had failed. 
+Hamilton, the commanding general at Gallipoli, was recalled and his replacement, Monro, advised evacuation, which was eventually agreed. The evacuations were organised and conducted in a real show of brilliance, first of ANZAC-Suvla and then of Helles in December and January, under the noses of the Germans and Turks who had nothing but admiration for their conduct. 
+
+After the end of the Gallipoli campaign the gallantry of the troops became a legend which compared favourably with the Trojan Wars, the site of which was so near to the Gallipoli battlefront. About 87,000 Turks, 25,000 British, almost 10,000 French, 7,300 Australians, 2,400 New Zealanders and 1,700 Indians had lost their lives in what was, in the final reckoning, a campaign ruined by catastrophic incompetence, over which not even the heroism displayed at every turn could emerge victorious.
+
+In 1934, Kemal, now Kemal Ataturk, president of the new Turkish Republic, wrote this tribute in remembrance of the soldiers buried at Gallipoli: 
+"Those heroes that shed their blood and lost their lives... You are now lying in the soil of a friendly country. Therefore rest in peace. There is no difference between the Johnnies and the Mehmets to us where they lie side by side now here in this country of ours... You, the mothers, who sent their sons from faraway countries wipe away your tears; your sons are now lying in our bosom and are in peace. After having lost their lives on this land, they have become our sons as well."

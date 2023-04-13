@@ -1,0 +1,23 @@
+'---
+'Config AI file for scenario: NOBuSands14.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=15 items  ' Replacement for default list
+  42  '  AMD Panhard 35  [RCN  France]  Cost: 180
+ 351  '  Daimler AC Mk.I  [RCN  United Kingdom]  Cost: 348
+ 354  '  Daimler Dingo  [RCN  United Kingdom]  Cost: 324
+ 372  '  A15 (Cruiser Mk VI Crusader III)  [ TK  United Kingdom]  Cost: 396
+ 375  '  Sherman I  [ TK  United Kingdom]  Cost: 564
+ 402  '  M16 MGMC "Meat Chopper"  [FlaK  USA]  Cost: 492
+ 414  '  M12 GMC  155 mm  [ATY  USA]  Cost: 972
+ 418  '  T19  105 mm HMC  [ATY  USA]  Cost: 408
+ 443  '  M4A1 Sherman  [ TK  USA]  Cost: 552
+ 671  '  M3 Medium Tank (Lee I)  [ TK  USA]  Cost: 492
+ 736  '  Tirailleurs 35  [INF  France]  Cost: 72
+3399  '  Priest  [ATY  United Kingdom]  Cost: 672
+3910  '  Motorcycle 40  [RCN  United Kingdom]  Cost: 264
+3922  '  Armored Infantry 42  [INF  USA]  Cost: 156
+5785  '  Motorcycle Recon  [RCN  USA]  Cost: 240

@@ -1,0 +1,23 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 524  '  T-34/43  [ TK  USSR]  Cost: 648
+ 543  '  Il-2M Shturmovik  [ TB  USSR]  Cost: 768
+1808  '  SU-122  [ AT  USSR]  Cost: 540
+1813  '  76mm M1943 (OB-25)  [ATY  USSR]  Cost: 156
+1837  '  OT-34  [ TK  USSR]  Cost: 552
+3764  '  Saperno-shturmovoi 42  [INF  USSR]  Cost: 312
+4438  '  La-5  [FTR  USSR]  Cost: 684
+4469  '  La-5F  [FTR  USSR]  Cost: 720
+4470  '  La-5FN  [FTR  USSR]  Cost: 792
+4476  '  Yak-1  [FTR  USSR]  Cost: 564
+4688  '  Il-2T Shturmovik  [ TB  USSR]  Cost: 768
+4707  '  Tu-2M  [ TB  USSR]  Cost: 864
+5533  '  SU-76M  [ AT  USSR]  Cost: 408
+6471  '  KV-1/42S  [ TK  USSR]  Cost: 840
+7546  '  Gwardija 42  [INF  USSR]  Cost: 180
+7979  '  SU-122  [ATY  USSR]  Cost: 780
+8696  '  SU-76M  [ATY  USSR]  Cost: 552

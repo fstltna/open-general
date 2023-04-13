@@ -1,0 +1,14 @@
+Bodo Evacuation
+
+Part 2/2 of the "Norwegen" minicampaign
+
+
+You're far too deep in the mountains! You must reach the rest of brigade! Do you understand?! Move down from the mountains and reach the coast!
+
+Take a good care! A strong enemy column is trying to escape north and they're moving into your line of advance! Major! Do you hear me! Strong enemy presence in your sector! You must stop them before they can escape north! We're sending reinforcements, but no one can tell when the weather changes, so you must act alone!"
+
+
+Victory conditions: Capture all VHs.
+
+Hint: Some reinforcements (naval, air and ground) are on their way from SE, but due to bad weather they'll come in several hours or even later. Rush to the VH, so that the enemy does not escape before our reinforcements join the battle.
+The enemy air power is limited, but these are really experienced men flying modern planes. Be extremely careful in the air.

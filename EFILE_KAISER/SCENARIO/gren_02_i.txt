@@ -1,0 +1,28 @@
+The Nile expedition
+
+January 17th, 1885
+
+While Colonel Urabi took control of Egypt, anarchy spread in Sudan. A Muslim cleric who called himself "the Mahdi" had started a revolt against the Egyptian administration, and he soon gathered an army of thousands of fanatics called Dervishes that crushed the Egyptian Army in several battles. The largest one was fought at El Obeid, in November 1883, where more than 10,000 Egyptians, including their British commander, Colonel Hicks, were massacred.
+
+After El Obeid the Egyptian government and our British advisors agreed to evacuate the remaining Egyptian troops from Sudan. General Charles 'Chinese' Gordon was sent to supervise the withdrawal, but he soon found himself besieged at Khartoum. Fearing for Gordon's life, our government ordered Major-General Wolseley to organise a relief expedition. Naturally, I promptly volunteered myself to be a member of that army, and we left Alexandria at the end of October, 1884.
+
+The year was ending when we arrived in Korti. Wolseley had already decided that we would split into two groups: the River Column would ascend the Nile River by ship, and a smaller Camel Corps would march across the desert to Metemmeh and Khartoum. That second column would be composed of four regiments mounted in camels, as well as a cavalry detachment, and the volunteers from the Guards battalions would be a part of it.
+
+Initially we marched without any relevant incidents, but as we approached the wells at Abu Klea on January 17th, we found disturbing evidence of the presence of a large Dervish Army in the area. They outnumbered us 10 to 1, so we knew that if we broke our formation, we would be lost.
+
+(from the memoirs of Lt. Gen. Bruce W. Dickinson)
+
+Victory conditions:
+-Take 9 units to the EH at Gubat (6,33).
+- At least 3 of your 4 MSUs must actually survive.
+
+Special notes:
+
+- Camels are the most historically correct transports for your newly purchased light units.
+- You can resupply your units in the ZOC of your camel mounts.
+- The unit that first enters the wells of Abu Klea (17,17) will obtain a leader.
+- The unit that takes Abu Kru (9,25) will obtain +100 exp.
+
+
+
+

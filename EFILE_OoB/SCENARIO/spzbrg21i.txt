@@ -1,0 +1,18 @@
+Withdrawal from Kursk
+
+Part 4/4 of the "Zurueck in USSR" minicampaign.
+
+
+"Herr Feldmarschall, I've got terrible news. Most of the airfields in the area have been evacuated some time ago. There are nearly none planes operating, but from the previously gathered informations it is obvious that two gigantic mobile pincers clutch and we're right in the middle of them! We must move westwards before the Soviets link!
+
+Herr Feldmarschall, the rear units just came in contact with the enemy chasing group! They nailed Soviets to the ground east from the city, but can't repel them! It looks that we're surrounded from three sides and only the western road remains open! What are your orders?!"
+
+
+
+Victory condition: Retreat eight units.
+
+Hint: Hold tight formation and proceed slowly. Roads and cities are devastated from previous fights, so you won't be able of some fast maneuvres no matter what. Since the last combat actions ended in this sector, our engineers were able to remove most of the mines. But once it was obvious that the Zitadelle operation failed, there was no reason to continue clearing, so don't ride into the old minefields. To make things even worse - don't forget that Soviets layed these mines, so they knew how to avoid them...
+
+Warning: Two eastern combined S+VHs are set as "BV, V and TV" for the Soviets, while the central VH is set to "V and TV". This represents Soviets' ability to interrupt the evacuation by quick capture of your initial supply and deployment zone.
+This means that you must not lose both eastern VHs before AI's BV limit. Since your ninth turn the normal victory conditions apply for the enemy and Soviets must capture all the VHs to win.
+None of the above affects your victory conditions: just evacuate the given number of units.

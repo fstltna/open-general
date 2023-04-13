@@ -1,0 +1,13 @@
+Raid on Asch
+May 8, 1759
+
+In April 1759 at the opening of the campaigning season, a Prussian army was deployed in Saxony under the command of prince Henri. On April 15, Frederick II ordered prince Henri to raid the Bohemian border and to destroy as much Austrian magazines as he could. Frederick II then decided to send the Prussian army of Saxony against the Reichsarmee to put it out of action for a certain time. The success of this operation would allow prince Henri to make his junction with Frederick II in prevision of the coming campaign against the Russians.
+
+Deploy Hexes: 20
+
+ORDER: Take all VH, and keep your MSU alive.
+
+NOTE: Both sides get notable reinforcements.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

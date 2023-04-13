@@ -1,0 +1,25 @@
+Leuven - Ligne KW
+(15-16 May 1940)
+v.1.0
+The Campaign of the 18 Days
+(10-28 May 1940)
+
+General,
+
+Our troops have finally taken positions in the "Ligne KW" (Dyle Position) to confront the Germans. The defensive line is well prepared, our Army is ready and this is where we are going to give the decisive battle.
+
+The "Corps de Cavalerie" is being reorganized behind the front line but you may be requested to provide some support if the situation requires so. We have been informed that the Germans will try to test our positions around the city of Leuven. 
+
+Contrary to our initial plans, Généralissime Gamelin has placed Leuven/Louvain in the area of the II British Corps and its 3 Infantry Division has already taken positions in this city, forcing to move northwards our 5th "Division d'Infanterie". I am afraid we will have to coordinate with its commander, General Montgomery, in order to defend Leuven/Louvain and avoid the Germans to cross the Dijle/Dyle River. The "Ligne KW" has strong fortifications so I am confident you will improve our allies' esteem of the Belgian army.
+
+Le Chef d'Etat-major général de l’armée (EMGA)
+
+Victory conditions: keep 3 VH for a BV, 2 VH for a V and 1 VH for a TV
+
+Warning: only three core units can be deployed.
+
+Map: Leuven (609)
+
+E-file: OLGWW2 (version 2.00 or higher)
+
+Paqueo, July 2012

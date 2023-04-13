@@ -1,0 +1,32 @@
+** This file is only intended for those designers wanting to
+** customize some texts.
+**
+* Each section must be identified by a header section
+* enclosed by square brackets, i.e: [sides]
+* watch out header section spelling!
+* You can omit one or more sections if you don't need different
+* (insert an asterisk at start of line including section header)
+* but any section you include, must include all items
+* ------------------------------------------------------------------
+*
+[terrain]
+CLEAR
+TOWN
+AIRFIELD
+FOREST
+UNDERWOOD/FIELD
+HILL
+MOUNTAIN
+SNOW/SAND
+SWAMP
+OCEAN
+FORD
+FORTIFICATION
+PORT
+STREAM
+ESCARPMENT
+IMPASSABLE RIVER
+ROUGH
+CUSTOM
+ROADS
+RAILS

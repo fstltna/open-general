@@ -1,0 +1,5 @@
+Ah, Herr General, I hope you have enjoyed your leave.  As you know, British and Commonwealth  troops have occupied the historic pass at Thermopylae.  You must secure this pass and prevent the escape of the enemy.  The terrain is rugged and difficult for maneuver.   You must act decisively. 
+
+Notes:  There is a leader available when you capture Ano Train Station.  You will want to take the station with a unit that has no leader if you want to take advantage of this.  Capturing the Allied airfield in the south near the final objective will also raise a prototype fighter unit.
+
+All purchased and prototype units start with 50 experience points.

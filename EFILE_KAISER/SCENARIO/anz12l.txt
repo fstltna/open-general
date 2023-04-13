@@ -1,0 +1,7 @@
+Brief to Anzac Commander.
+
+Return home commander and await further orders!!!!
+
+Message to the Player:-
+
+When you get to the next HQ screen please save your game and exit. Overwrite the WW1 Efile in your PG2 folder with those contained in the Zip "WW2 Efile". Reopen your saved game and your WW1 units will have been upgraded for you. 

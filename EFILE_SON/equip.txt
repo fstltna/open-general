@@ -1,0 +1,970 @@
+[SoN efile] BYEAR1756 VERSION:SON 0.7.2
+Citadel
+12-pf Feldkanone 1830
+7-pf Haubitzbatterie 1830
+6-pf Berittene Artillerie 1830
+12 ft ágyú
+7 ft tarack
+6 ft lovaságyú
+12-ft Pushka 1830
+7-ft Gaubitsa 1830
+8-ft Pushka 1830
+12" Osadnaya mortira 1830
+Chevaulegers
+6-ft Pushka 1830
+8-pf Feldkanone 1830
+Árkász
+Grenadery 1830
+Draguny 1830
+Sapery 1830
+Füsiliere 1830
+Grenadiere 1830
+Vörössipkás
+Sorkatona
+Várõrség
+Lovas nemzetõr
+Kazaki
+Kirasiry 1830
+Dragonyos
+Jäger 1830
+Szekér
+Brückenpioniere 1830
+6-pf Feldkanone 1830
+Kürassiere 1830
+Fuzelyery 1830
+Yegerya 1830
+Pferdewagen
+Povozka
+Ulany 1809
+12" Belagerungsmörser 1830
+Ulánus
+Vértes
+8 ft ágyú
+Obstacles
+Uhlanen 1830
+Honvéd
+12" ostromágyú
+Székely határõr
+Nemzetõr
+6 ft ágyú
+Huszár
+Dragoner 1830
+Serezhani
+6-ft Konnaya artilleriya 1830
+Fort Defense
+Palisade
+Garnizonnye voiska 1809
+Yegerya 1809
+Yegerya 1756
+Fuzelyery 1756
+Grenadery 1756
+12-ft Pushka 1756
+6-ft Konnaya artilleriya 1756
+8-ft Pushka 1756
+6-ft Pushka 1756
+4-ft Pushka 1756
+7-ft Gaubitsa 1756
+12" Osadnaya mortira 1756
+4-pf Feldkanone 1830
+Sapery 1756
+Garnizonnye voiska 1756
+Insurgent
+Granicari 1830
+Festungs Infanterie 1830
+Fort Infantry 1809
+Feld Befehl 1792
+Generalny shtab 1792
+4-ft Pushka 1830
+4 ft ágyú
+Garnizonnye voiska 1830
+Opolchenie
+Parancsnokság
+Draguny 1809
+Kirasiry 1809
+Lanciers
+Opolchenie Kazaki
+Gusary 1792
+Zaprzeg
+Raketenbatterie
+Congreve Rockets 1830
+Pontoon Bridge
+Akademische Legion
+Landwehr
+Berittene Miliz
+6-pf Feldkanone
+12 lb Cannone
+Mules
+7 lb Obice
+6 lb Cannone
+12" Mortaio
+Fanteria di Linea
+Granatieri
+Stati Maggiori
+Milizia
+Zappatori del Genio
+Bersaglieri
+Dragoni
+Ussari
+Pociag
+Poezd
+Zug
+Vonat
+Röppentyû
+Nehéz szekér
+Schwere Pferdewagen
+Tyazholaya povozka
+Laweta
+Carriaggi Pesanti
+Fortress
+Watch Tower
+Treno
+Mantatisi
+River Boat
+Frigate
+Warship
+Sailing Frigate
+4 lb Cannone
+Naval Transport
+Morskoy Transport
+Transportschiff
+Csapatszállító
+Nave di Trasporto
+Nave di Trasporto
+Ulani 1830
+Strzelcy Piesi 1756
+Fizylierzy
+Grenadierzy 1756
+General
+Yeniçeri
+Muhafiz 1756
+Sipahi
+8 pdr Savas Topu 1756
+Gusary 1830
+Fuzelyery 1809
+Light Infantry 1792
+Brückenpioniere 1809
+Jäger 1756
+Granicari 1756
+Füsiliere 1756
+Grenadiere 1756
+Brückenpioniere 1756
+Festungs Infanterie 1756
+Grenadery 1809
+Grenadiers 1809
+Standard-bearers 1801
+Dragoner 1756
+Kürassiere 1756
+Uhlanen 1756
+Husaren 1809
+Husaren 1756
+Supply Base
+12-pf Feldkanone 1756
+6-pf Berittene Artillerie 1756
+8-pf Feldkanone 1756
+6-pf Feldkanone 1756
+4-pf Feldkanone 1756
+7-pf Haubitzbatterie 1756
+12" Belagerungsmörser 1756
+Congreve Rockets 1805
+Fencibles 1792
+Highlanders 1792
+Light Infantry 1830
+Line Infantry 1809
+Grenadiers 1830
+Sappers 1809
+Fort Infantry 1830
+Standard-bearers 1775
+Royal Marines 1792
+Rifles 1756
+Fencibles 1756
+Highlanders 1756
+Light Infantry 1756
+Line Infantry 1756
+Grenadiers 1756
+Sappers 1756
+Fort Infantry 1756
+Standard-bearers 1756
+Royal Marines 1756
+Rifles 1792
+Dragoons 1830
+Royal Horse Guards 1830
+Dragoons 1756
+Royal Horse Guards 1756
+Lancers 1830
+Hussars 1809
+Lancers 1756
+Queen’s Rangers
+Light Dragoons 1756
+Wagon
+Heavy Wagon
+Train
+12 pdr Artillery 1830
+6 pdr Horse Artillery 1830
+8 pdr Artillery 1830
+6 pdr Artillery 1830
+4 pdr Artillery 1830
+5.5" Howitzer 1830
+12" Siege Mortar 1830
+12-pf Feldkanone
+6 pdr Horse Artillery 1756
+8-pf Feldkanone
+6-pf Feldkanone
+4-pf Feldkanone
+5.5" Howitzer 1756
+12" Siege Mortar 1756
+Naval Transport
+Jäger 1809
+Musketiere 1809
+Füsiliere 1809
+Grenadiere 1809
+Brückenpioniere 1830
+Festungs Infanterie 1809
+Marineinfanterie
+Landwehr
+Jäger 1756
+Musketiere 1756
+Füsiliere 1756
+Grenadiere 1756
+Brückenpioniere 1756
+Festungs Infanterie 1756
+Feld Befehl 1792
+Dragoner 1792
+Kürassiere 1830
+Dragoner 1756
+Kürassiere 1756
+Uhlanen 1830
+Husaren 1809
+Uhlanen 1756
+Husaren 1756
+Pferdewagen
+Schwere Pferdewagen
+Zug
+12-pf Feldkanone 1830
+6-pf Berittene Artillerie 1830
+8-pf Feldkanone 1830
+6-pf Feldkanone 1830
+4-pf Feldkanone 1830
+7-pf Haubitzbatterie 1830
+12" Belagerungsmörser 1830
+12-pf Feldkanone
+6-pf Berittene Artillerie 1756
+8-pf Feldkanone
+6-pf Feldkanone 1756
+4-pf Feldkanone
+7-pf Haubitzbatterie 1756
+12" Belagerungsmörser 1756
+Transportschiff
+Gendarmes à Pied
+Tirailleurs
+Voltigeurs
+Troupes de Marine
+Gendarmes à Pied
+Tirailleurs
+Voltigeurs
+Fusiliers
+Grenadiers
+Sapeurs
+Carabiniers à Pied
+État-Major
+Troupes de Marine
+Cuirassiers
+Dragons
+Cuirassiers
+Lanciers
+Gendarmerie à Cheval
+Gendarmerie à Cheval
+Attelage
+Attelage Lourd
+Train
+12 lv Canon
+6 lv Canon à Cheval
+8 lv Canon
+6 lv Canon
+4 lv Canon
+7 lv Obusier
+12" Mortier de Siège
+Transporte Naval
+Füsiliere 1809
+Festungs Infanterie 1809
+Jäger 1809
+Fencibles 1810
+Line Infantry 1830
+Royal Marines 1830
+Gendarmes à Pied
+Troupes de Marine
+Fusiliers
+Sapeurs
+Carabiniers à Pied
+Porte-Aigle
+Grenadiers
+Infantería de Línea
+Supremos Poderes
+Carabineros
+Estado Mayor
+Fusiliers
+Grenadiers
+Sapeurs
+Carabiniers à Pied
+Porte-Aigle
+Guardia Nacional
+Dragons
+Dragons 1804
+Cuirassiers
+Chasseurs à Cheval
+Chasseurs à Cheval
+Chasseurs à Cheval
+Gendarmerie à Cheval
+Kirasiry 1756
+Draguny 1756
+Dragoner 1830
+Kyrassiarer
+Coraceros
+Kürassiere
+Kürassiere 1756
+Kürassiere
+Kürassiere
+Kürassiere
+Dragoons 1809
+Dragoner 1756
+Dragoner
+Dragoner
+Dragones 1756
+Dragoner 1756
+Bateau de Transport
+Mamluk Sipahi
+Husaren 1830
+Husaren
+Husaren 1756
+Husaren 1756
+Husarer 1756
+Húsares 1756
+Huzarzy 1756
+Chevaulegers
+Ussari
+Husaren
+Chevaulegers
+Brückenpioniere 1809
+Grenadiere 1830
+Füsiliere 1830
+Jäger 1830
+Attelage
+Attelage
+Attelage Lourd
+Attelage Lourd
+Pferdewagen
+Schwere Pferdewagen
+Häst
+Tung Häst
+Büyük Arabasi
+Arabasi
+Carro
+Carro Pesado
+Train
+Train
+Treno
+Tren
+Zug
+Pferdewagen
+Wooden Bunker
+12-pf Feldkanone 1756
+4-pf Feldkanone 1756
+8-pf Feldkanone 1756
+4 pdr Savas Topu 1756
+6 pdr Savas Topu 1756
+12 pdr Savas Topu 1756
+6-f Artyleria Konna 1756
+4-pdr Kanon
+4 lv Canon
+4 lv Canon
+6-pdr Kanon
+6 lv Canon
+6 lv Canon
+6-pdr Rijdende Artillerie
+6 lv Canon à Cheval
+6 lv Canon à Cheval
+8-pdr Kanon
+8 lv Canon
+8 lv Canon
+12-pdr Kanon
+12 lv Canon
+12 lv Canon
+12" Mortier
+12" Mortier de Siège
+12" Mortier de Siège
+7-pdr Houwitser
+7 lv Obusier
+7 lv Obusier
+12 pdr Artillery 1756
+4 pdr Artillery 1756
+6 pdr Artillery 1756
+8 pdr Artillery 1756
+12 lb Peça
+4 lb Peça
+6 lb Peça
+8 lb Peça
+12 pdr Artillery
+12" Siege Mortar
+4 pdr Artillery
+7 pdr Howitzer
+6 pdr Artillery
+6 pdr Horse Artillery
+8 pdr Artillery
+8 lb Cannone
+6 lb Cannone a Cavallo
+12" Mortero de Asedio
+12 lb Cañón
+4 lb Cañón
+6 lb Cañón a Caballo
+6 lb Cañón
+7 lb Obús
+8 lb Cañón
+12-pf Feldkanone
+4-pf Feldkanone
+6-pf Berittene Artillerie
+6-pf Feldkanone
+8-pf Feldkanone
+8-pf Feldkanone
+4-pf Feldkanone
+3-p Kanon
+12-p Kanon
+12-f Armata 1756
+4-f Armata 1756
+8-p Kanon
+8-f Armata 1756
+12-pf Feldkanone
+12" Belagerungsmörser
+12" Belagerungsmörser
+12" Mörsare
+12" Belagerungsmörser
+Carro Pesado
+Carriaggi Pesanti
+Schwere Pferdewagen
+Carriaggi
+Pferdewagen
+Carro
+Heavy Wagon
+Wagon
+Armão
+Pferdewagen
+Pferdewagen
+Armão Pesado
+Schwere Pferdewagen
+Schwere Pferdewagen
+Schwere Pferdewagen
+Pferdewagen
+Schwere Pferdewagen
+Schwere Pferdewagen
+Pferdewagen
+Pferdewagen
+Carriaggi
+Carriaggi
+Carriaggi
+Wagen
+Carriaggi Pesanti
+Carriaggi Pesanti
+Zware Wagen
+Camel
+Hestevogn
+Wagon
+Tunge Hestevogn
+Heavy Wagon
+Trem
+Treno
+Treno
+Galleon
+Ironclad
+Sloop-of-War
+Schooner
+Transportschiff
+Transportschiff
+Nave di Trasporto
+Nave di Trasporto
+Bateau de Transport
+Morskoy Transport
+Naval Transport
+Naval Transport
+Naval Transport
+Naval Transport
+Transportschiff
+Transporte Naval
+Transporte Naval
+Transporte Marítimo
+Deniz Nakil
+Transporte Marítimo
+Deniz Nakil
+Bateau de Transport
+Bateau de Transport
+Nave di Trasporto
+Nave di Trasporto
+Transportschiff
+Transportschiff
+Transportschiff
+Transportschiff
+Transportschiff
+Transportschiff
+Transportschiff
+Zee Vervoer
+Soetransport
+Sjötransport
+Barka
+12" Mozdzierz 1756
+12" Havan
+4 lb Cannone
+8 lb Cannone
+12" Belagerungsmörser
+12-pf Feldkanone
+4-pf Feldkanone
+8-pf Feldkanone
+12" Belagerungsmörser
+12-pf Feldkanone
+4-pf Feldkanone
+8-pf Feldkanone
+12 lb Cannone
+12" Mortaio
+12" Morteiro
+12" Mortaio
+12 lb Cannone
+4 lb Cannone
+8 lb Cannone
+12" Belagerungsmörser
+7-pf Haubitzbatterie
+7-pf Haubitzbatterie
+4-pf Feldkanone 1830
+12-pf Feldkanone
+8-pf Feldkanone
+4-pf Feldkanone
+12" Belagerungsmörser
+12" Mortaio
+12 lb Cannone
+4 lb Cannone
+8 lb Cannone
+12-p Kanon
+4-p Kanon
+8-p Kanon
+12" Mortér
+13" Mortero
+10 lb Cañón
+6 lb Cañón
+10 lb Cañón a Caballo
+3" Cañón
+12 lb "Napoléon" Cañón
+13" Mortar
+10 pdr Artillery
+6 pdr Artillery
+10 pdr Horse Artillery
+3" Artillery
+12 pdr "Napoleon" Artillery
+13" Mortar
+10 pdr Artillery
+6 pdr Artillery
+10 pdr Horse Artillery
+3" Artillery
+12 pdr "Napoleon" Artillery
+General 1756
+Chevaux-Légers Lanciers
+Uhlanen
+Uhlanen 1809
+Ussari
+Dragoner 1792
+Dragoner
+Dragoner
+Dragoner
+Caballería Pesada
+Strzelcy Konni 1756
+Dragões 1756
+Dragoner
+Dragonders
+Dragoner 1792
+Dragoons 1775
+Dragoons 1780
+Dragoons 1812
+Dragoons 1792
+Dragoni
+Dragoni
+Dragoni
+Dragoner
+Strzelcy Konni 1807
+Kürassiere 1792
+Kyrasserer
+Kürassiere 1792
+Kürassiere
+Royal Horse Guards 1792
+Heavy Cavalry
+Mounted Rifles
+Mounted Rifles
+Heavy Cavalry
+General 1792
+Général
+General
+General
+General 1775
+General 1812
+General 1830
+General
+Napoléon
+General 1820
+Général
+General 1756
+General 1809
+General 1756
+General 1809
+General
+General
+General 1756
+General 1809
+Wellington
+General
+Tábornok
+Uhlanen 1809
+Lanceros
+Rurales
+Ulany 1756
+Lancers 1809
+Uhlanen
+Uhlanen
+Lanceros
+Chevaulegers
+Husaren
+Husarer 1792
+Huzaren
+Gusary 1756
+Hussars 1792
+Light Dragoons 1780
+Light Dragoons 1775
+Light Dragoons 1780
+Húsares
+Chieftain
+Mounted Rangers
+Brunswicker Legion
+Mounted Rangers 1775
+Mounted Rangers 1812
+Mounted Rangers 1830
+Texas Rangers
+Mounted Warriors
+Chieftain
+Scouts
+Mounted Warriors
+Scouts
+Hussardo
+Huzarzy 1830
+Ussari
+Light Dragoons 1820
+Light Dragoons
+Grenadiers 1780
+Highlanders 1810
+Rifles 1809
+Grenadiere 1792
+Grenadiere
+Grenadiere
+Grenadiere
+Grenaderer
+Grenadjarer 1756
+Grenadjarer 1792
+Granaderos
+Granadeiros
+Continental Army
+Elite Infantry 1812
+Elite Infantry 1830
+Granatieri
+Granatieri
+Grenadiere
+Grenadiere 1792
+Grenadiere
+Grenadierzy 1830
+Elite Infantry
+Grenadiers
+Granatieri
+Grenadiere
+Pontoneros
+Sappers 1777
+Standard-bearers 1820
+Standard-bearers 1812
+Standard-bearers 1830
+Scharfschützen 1756
+Scharfschützen 1809
+Scharfschützen 1830
+Scharfschützen
+Scharfschützen
+Scharfschützen
+Scharfschützen
+Scharfschützen
+Scharfschützen
+Scharfschützen 1756
+Scharfschützen 1792
+Scharfschützen 1830
+Francotiradores
+Rifles 1775
+Rifles 1812
+Sharpshooters
+Sharpshooters
+Mountain Infantry
+Militia
+Fort Infantry
+Rangers
+Line Infantry
+Füsiliere
+Marines
+Sappers
+Cazadores de Montaña
+Milicia
+Jäger
+Füsiliere
+Jäger
+Füsiliere
+Jäger
+Scharfschützen
+Füsiliere
+Jäger
+Musketiere
+Füsiliere
+Jäger
+Füsiliere
+Jäger
+Voltigeure
+Füsiliere
+Jäger
+Värvat Infanteri
+Jägare
+Skarpskyttar
+Fusiliers
+Jaegere
+Finskyttens
+Fusiliers
+Voltigeurs
+Scherpschutters
+Fusileros
+Infantería Ligera
+Guerrilleros
+Francotiradores
+Infantería de Marina
+Fanteria di Linea
+Atiradores Especiais
+Caçadores
+Fuzileiro
+Infantaria Ligeira
+Nisanci
+Keskin Nisanci
+Arab Rifles
+Iroquois Warriors
+Mahican Warriors
+Indelt Infanteri
+Iroquois Hunters
+Rifles 1830
+Tireurs Embusqués
+Tireurs Embusqués
+Fanteria di Linea 1756
+Fanteria di Linea 1848
+Fanteria Leggera
+Voltigeurs
+Mountain Infantry 1812
+Mountain Infantry 1830
+Militia 1775
+Line Infantry 1777
+Light Infantry 1776
+Fort Infantry 1778
+Sappers 1830
+Marines 1776
+Line Infantry 1830
+Light Infantry 1830
+Marines 1830
+Fort Infantry 1830
+Line Infantry 1812
+Fort Infantry 1812
+Light Infantry 1812
+Marines 1812
+Militia 1830
+Militia 1812
+Sappers 1812
+Snaypery 1756
+Snaypery 1830
+Snaypery 1809
+Sappers 1830
+Carabineiros a Pé 1756
+Karabinierzy
+10 pdr Train Artillery
+Festungs Infanterie
+Fanteria Leggera
+Carabinieri
+Tirailleurs
+Tireurs Embusqués
+Alpini
+Tiratori Scelti
+Dragones
+Dragones 1792
+Dragões 1809
+Berittene Miliz
+Húsares 1792
+Garde zu Fuß
+Strzelcy Wyborowi
+Jegrzy
+Infantaria de Marinha
+Tiratori Scelti
+Milizia di Cavalleria
+Piyade
+Fanteria di Linea
+Livgarde til Hest
+Festungs Infanterie 1830
+Estado Mayor
+Musketiere
+Musketerer
+Schuttersgilde
+Musketiere
+Fanteria Leggera
+Voltigeure
+Musketiere
+Musketiere
+Milícias
+Landwehr
+Strzelcy Piesi 1830
+Milizia
+Milicja
+Mushketyory
+Iroquois Chieftain
+Camelry
+Oneida Warriors
+Maultiere
+Muldyr
+Mulas
+Mulets
+Muli da Soma
+Muly
+Öszvér
+Pack Transport
+Viuchny
+Katirlar
+Pack Transport
+Pack Transport
+Muli da Soma
+Muli da Soma
+Mulets
+Mulets
+Mulas
+Mula
+Muilezels
+Muli
+Maultiere
+Maultiere
+Maultiere
+Maultiere
+Maultiere
+Maultiere
+Maultiere
+Maultiere
+Arab Warriors
+8 pdr Artillery
+Bridging Infantry
+Cazadores de Montaña
+Tiratori Scelti
+Mesterlövész
+Sappörer
+Carabineros
+Carabinieri
+Carabinieri
+Fanteria di Marina
+Seventy-Four
+Sappeurs
+Mariniers
+Generale Staf
+Pontoneros
+Saperzy
+Dowództwo
+Sapadores
+4 pdr Savas Topu 1826
+6 pdr Savas Topu 1826
+6 pdr Atli Topcu
+8 pdr Savas Topu 1826
+12 pdr Savas Topu 1826
+6-f Armata 1756
+Kleftes
+Stratiotes Pezikou
+Ypolohagi Pezikou
+Souliotissa
+Lohies Typikon Tagmaton
+Ypolohagi Typikon Tagmaton
+Timarli Sipahi
+Rumeli Sipahi
+Bekci
+Muhafiz 1826
+Souliotes
+Hiliarhi Atakton Somaton
+7-f Haubica 1756
+7 pdr Obüs
+7-p Haubits
+7-pf Haubitzbatterie
+7-pf Haubitzbatterie
+7-pf Haubitzbatterie
+7-pf Haubitzbatterie
+7-pf Haubitzbatterie
+8-f Armata 1830
+12" Mozdzierz 1830
+4-f Armata 1830
+12-f Armata 1830
+6-f Armata 1830
+6-f Artyleria Konna 1830
+7-f Haubica 1830
+7 lb Obice
+7-p Haubits
+7 lb Obice
+7 lb Obice
+7 lb Obus
+7-pf Haubitzbatterie
+Ierolohites
+Navtes
+8 Livro Kanoni
+4 Livro Kanoni
+6 Livro Kanoni
+12 Livro Kanoni
+12" Poliorkitiko Olmovolo
+7 Livro Ovidovolo
+6 Livro Ippiko Pyrovolo
+Vagoni
+Vary Vagoni
+Moulari
+Metaforiko Plio
+Metaforiko Plio
+Loghofori Ippis
+Dragoni
+6 lb Cannone a Cavallo
+6 lb Cannone
+6 lb Cannone
+6-p Kanon
+Feld Befehl 1756
+Kürassiere 1792
+Grenz-Grenadiere
+Feld Befehl
+Landwehr
+Grenadiere 1756
+Feld Befehl 1756
+Generalny shtab 1756
+Livregiment til Fods 1756
+Feld Befehl
+Feld Befehl
+Livgardet till Fot 1756
+Festungs Infanterie 1756
+Festungs Infanterie
+Festungs Infanterie
+Festungs Infanterie
+Festungs Infanterie 1792
+Carabineiros a Pé 1792
+Livregiment til Fods 1792
+Karabiniers
+Karabiniers
+Festungs Infanterie
+Livgardet till Fot 1792
+Landwehr
+Sappoerer
+Brückenpioniere
+Dragoner 1792
+General
+Husaren 1792
+Husaren 1792
+Drabant
+Garde zu Fuß
+Standard-bearers 1780
+Grenadiere 1792
+Füsiliere 1792
+Jäger 1792
+Festungs Infanterie 1792
+Scharfschützen 1809
+Brückenpioniere 1792
+Drydock

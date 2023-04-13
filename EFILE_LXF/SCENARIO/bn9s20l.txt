@@ -1,0 +1,7 @@
+DEFEAT
+
+You could not achieve our goals comrade, the operation was a failure!
+
+CAMPAIGN END!
+
+Congratulations, you have successfully completed the campaign!

@@ -1,0 +1,10 @@
+Battle of Paltzig
+July 23, 1759
+
+At the end of April 1759, a large Russian army (about 70,000 men) started its advance on Brandenburg. Dohna, the commander of the small Prussian army (18,000) in this area, was very slow to react. At the beginning of June, the Russian army, now under general Piotr Semionovitch Saltykov, had managed to concentrate at Posen without any interference from Dohna. Saltykov then proceeded to the invasion of Brandenburg, starting his advance on Crossen. By July 17, the Russians had reached the area of Züllichau a few km from the Oder river. Dohna failed to interpose his small army between the Russians and the bridge at Crossen. Frederick II quite upset by Dohna’s inefficiency despatched lieutenant-general Kurt Heinrich von Wedel to replace Dohna. On July 23 at daybreak, Wedel set out to reconnoitre the ground and to see with his own eyes the army that he was supposed to stop. The heavily wooded area prevented him from seeing very much, but he saw glimpses of stationary troops that he mistook for the Russian left wing while they were in fact the rearguard. This led him to think that the whole Russian army was still idle and that therefore he still had time to outmanoeuvre it.
+
+Deploy Hexes: 20
+
+ORDER: Take all VH, and keep your MSU alive.
+
+scenario designer: Csaba (lvjtn)

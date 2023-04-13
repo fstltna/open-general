@@ -1,0 +1,154 @@
+'---
+'Config AI file for scenario: bk44.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=146 items  ' Replacement for default list
+ 323  '  17pdr  [ AT  United Kingdom]  Cost: 312
+ 325  '  6pdr I  [ AT  United Kingdom]  Cost: 120
+ 328  '  25 pdr  [ATY  United Kingdom]  Cost: 276
+ 330  '  5.5inch  [ATY  United Kingdom]  Cost: 816
+ 331  '  7.2inch I  [ATY  United Kingdom]  Cost: 1188
+ 332  '  Bishop  [ATY  United Kingdom]  Cost: 504
+ 345  '  40 Paratrooper  [INF  United Kingdom]  Cost: 348
+ 348  '  AEC I  [RCN  United Kingdom]  Cost: 336
+ 349  '  AEC II  [RCN  United Kingdom]  Cost: 396
+ 351  '  Daimler II  [RCN  United Kingdom]  Cost: 300
+ 352  '  Humber II  [RCN  United Kingdom]  Cost: 228
+ 353  '  Humber IV  [RCN  United Kingdom]  Cost: 276
+ 355  '  Staghound I  [RCN  United Kingdom]  Cost: 348
+ 356  '  Repulse BC  [sBS  United Kingdom]  Cost: 1320
+ 357  '  King George V BB  [sBS  United Kingdom]  Cost: 1752
+ 358  '  County CA  [sBS  United Kingdom]  Cost: 804
+ 359  '  Leander CL  [sBS  United Kingdom]  Cost: 504
+ 360  '  Illustrious CV  [sCV  United Kingdom]  Cost: 864
+ 361  '  Tribal DD  [sDD  United Kingdom]  Cost: 288
+ 364  '  Churchill III  [ TK  United Kingdom]  Cost: 636
+ 365  '  Churchill IICS  [ TK  United Kingdom]  Cost: 636
+ 372  '  Crusader III  [ TK  United Kingdom]  Cost: 396
+ 375  '  Sherman I  [ TK  United Kingdom]  Cost: 552
+ 383  '  Bren Carrier  [TPT  United Kingdom]  Cost: 216
+ 388  '  Spitfire IXB  [FTR  United Kingdom]  Cost: 852
+ 389  '  Spitfire VC  [FTR  United Kingdom]  Cost: 732
+ 390  '  Spitfire XIIE  [FTR  United Kingdom]  Cost: 924
+ 392  '  Beaufighter  [ TB  United Kingdom]  Cost: 732
+ 393  '  Hurricane IIC  [ TB  United Kingdom]  Cost: 648
+ 394  '  Hurricane IID  [ TB  United Kingdom]  Cost: 600
+ 395  '  Mosquito VI  [ TB  United Kingdom]  Cost: 888
+ 396  '  Tempest V  [FTR  United Kingdom]  Cost: 1068
+ 397  '  Typhoon  [ TB  United Kingdom]  Cost: 984
+ 398  '  C-47  [ATP  United Kingdom]  Cost: 348
+ 631  '  Daimler ICS  [RCN  United Kingdom]  Cost: 348
+ 635  '  Centaur I  [ TK  United Kingdom]  Cost: 480
+ 641  '  Churchill VCS  [ TK  United Kingdom]  Cost: 708
+ 658  '  Valentine VIII  [ TK  United Kingdom]  Cost: 528
+ 734  '  Crocodile  [ AT  United Kingdom]  Cost: 600
+ 897  '  Mosquito PR  [ TB  United Kingdom]  Cost: 408
+1687  '  6pdr IV  [ AT  United Kingdom]  Cost: 180
+1688  '  Deacon 6pdr  [ATY  United Kingdom]  Cost: 204
+1696  '  9.2inch  [ATY  United Kingdom]  Cost: 1200
+1702  '  Marmon-Herrington III  [RCN  United Kingdom]  Cost: 240
+1706  '  Valentine I  [ TK  United Kingdom]  Cost: 432
+1708  '  Covenanter III  [ TK  United Kingdom]  Cost: 348
+1709  '  Crusader IICS  [ TK  United Kingdom]  Cost: 432
+1711  '  Churchill AVRE  [ AT  United Kingdom]  Cost: 516
+1716  '  Sherman II  [ TK  United Kingdom]  Cost: 588
+1718  '  Martlet I  [FTR  United Kingdom]  Cost: 768
+1721  '  Albacore  [ TB  United Kingdom]  Cost: 312
+1722  '  Beaufort  [ TB  United Kingdom]  Cost: 540
+1723  '  Mosquito II  [ TB  United Kingdom]  Cost: 936
+1725  '  Barracuda  [ TB  United Kingdom]  Cost: 360
+1726  '  Hudson  [ TB  United Kingdom]  Cost: 504
+1727  '  Mosquito IV  [ TB  United Kingdom]  Cost: 864
+1735  '  Lightning CL  [sBS  United Kingdom]  Cost: 336
+1736  '  Fiji CL  [sBS  United Kingdom]  Cost: 528
+1737  '  Manchester CL  [sBS  United Kingdom]  Cost: 540
+1738  '  Dido CL  [sBS  United Kingdom]  Cost: 504
+1739  '  Exeter CA  [sBS  United Kingdom]  Cost: 792
+1740  '  Hood BC  [sBS  United Kingdom]  Cost: 1368
+1741  '  Royal Sovereign BB  [sBS  United Kingdom]  Cost: 1356
+1742  '  Queen Elizabeth BB  [sBS  United Kingdom]  Cost: 1404
+1743  '  Furious CV  [sCV  United Kingdom]  Cost: 684
+1744  '  Hermes CV  [sCV  United Kingdom]  Cost: 480
+1745  '  S SS  [SUB  United Kingdom]  Cost: 228
+1927  '  Kittyhawk IA  [FTR  United Kingdom]  Cost: 684
+1928  '  Tomahawk IIB  [FTR  United Kingdom]  Cost: 648
+1931  '  Carrier Recon  [RCN  United Kingdom]  Cost: 204
+1994  '  43 Para Engineers  [INF  United Kingdom]  Cost: 588
+2255  '  Catalina  [ TB  United Kingdom]  Cost: 420
+2604  '  Firefly I  [FTR  United Kingdom]  Cost: 900
+2605  '  Lysander I  [ TB  United Kingdom]  Cost: 336
+2606  '  Baltimore V  [ TB  United Kingdom]  Cost: 504
+2608  '  Boston  [ TB  United Kingdom]  Cost: 840
+2609  '  .Whitley  [ TB  United Kingdom]  Cost: 648
+2612  '  A DD  [sDD  United Kingdom]  Cost: 264
+2614  '  C8  [TPT  United Kingdom]  Cost: 84
+2615  '  Carrier  [TPT  United Kingdom]  Cost: 168
+2617  '  Matador  [TPT  United Kingdom]  Cost: 96
+2618  '  Pioneer  [TPT  United Kingdom]  Cost: 84
+2619  '  CX22  [TPT  United Kingdom]  Cost: 96
+2922  '  6pdr IV AB  [ AT  United Kingdom]  Cost: 180
+2924  '  Jeep AB  [RCN  United Kingdom]  Cost: 144
+2925  '  Jeep  [TPT  United Kingdom]  Cost: 144
+2927  '  43 Motor Infantry  [INF  United Kingdom]  Cost: 420
+2942  '  Horsa II  [ATP  United Kingdom]  Cost: 180
+2943  '  Hamilcar  [ATP  United Kingdom]  Cost: 180
+3132  '  MTB-1 MTB  [sDD  United Kingdom]  Cost: 168
+3133  '  Halcyon AM  [sDD  United Kingdom]  Cost: 180
+3134  '  H 28 SS  [SUB  United Kingdom]  Cost: 216
+3135  '  Triton SS  [SUB  United Kingdom]  Cost: 240
+3171  '  Carrier, 3inch  [ATY  United Kingdom]  Cost: 252
+3177  '  Carrier, MMG  [ AT  United Kingdom]  Cost: 252
+3299  '  6pdr I AB  [ AT  United Kingdom]  Cost: 120
+3324  '  Seafire I  [FTR  United Kingdom]  Cost: 876
+3399  '  Priest  [ATY  United Kingdom]  Cost: 660
+3882  '  43 Light Infantry  [INF  United Kingdom]  Cost: 396
+3884  '  43 Engineers  [INF  United Kingdom]  Cost: 468
+3886  '  43 Commandos  [INF  United Kingdom]  Cost: 996
+3887  '  43 Royal Marines  [INF  United Kingdom]  Cost: 120
+3897  '  43 Parachute Infantry  [INF  United Kingdom]  Cost: 432
+3898  '  43 Air Landing Infantry  [INF  United Kingdom]  Cost: 348
+4000  '  Kittyhawk III  [FTR  United Kingdom]  Cost: 672
+4001  '  Hampden TB.I  [ TB  United Kingdom]  Cost: 504
+4003  '  Fulmar II  [FTR  United Kingdom]  Cost: 588
+4007  '  Baltimore V  [ TB  United Kingdom]  Cost: 696
+4008  '  Boston III  [ TB  United Kingdom]  Cost: 624
+4013  '  Havoc NF.I  [ TB  United Kingdom]  Cost: 636
+4014  '  Hellcat I  [FTR  United Kingdom]  Cost: 900
+4017  '  Wildcat IV  [FTR  United Kingdom]  Cost: 780
+4018  '  Wildcat V  [FTR  United Kingdom]  Cost: 744
+4031  '  Spitfire IXC  [ TB  United Kingdom]  Cost: 900
+4037  '  Lysander III  [ TB  United Kingdom]  Cost: 444
+4044  '  Auster AOP  [ TB  United Kingdom]  Cost: 216
+4050  '  Beaufighter VIF  [ TB  United Kingdom]  Cost: 888
+4052  '  Hurricane IIB  [ TB  United Kingdom]  Cost: 612
+4053  '  Hurricane IID  [ TB  United Kingdom]  Cost: 696
+4061  '  Spitfire VII  [FTR  United Kingdom]  Cost: 936
+4062  '  Spitfire VIII  [FTR  United Kingdom]  Cost: 936
+4063  '  Spitfire XVIII  [FTR  United Kingdom]  Cost: 912
+4080  '  Mosquito PR.IX  [ TB  United Kingdom]  Cost: 636
+4084  '  Mosquito FB.XVIII  [ TB  United Kingdom]  Cost: 900
+4086  '  Mosquito B.IX  [ TB  United Kingdom]  Cost: 684
+4108  '  Sea Hurricane IIC  [FTR  United Kingdom]  Cost: 828
+4109  '  Seafire IIC  [FTR  United Kingdom]  Cost: 840
+4113  '  Spitfire PR.XI  [ TB  United Kingdom]  Cost: 648
+5107  '  Ventura IIA  [ TB  United Kingdom]  Cost: 936
+5109  '  Hurricane IIC tropical  [ TB  United Kingdom]  Cost: 1080
+5115  '  Spitfire VC tropical  [ TB  United Kingdom]  Cost: 1188
+5116  '  Spitfire VB tropical  [FTR  United Kingdom]  Cost: 1092
+5117  '  Spitfire IX tropical  [FTR  United Kingdom]  Cost: 1116
+5120  '  Mustang IA  [ TB  United Kingdom]  Cost: 1176
+5127  '  Beaufighter VIC  [ TB  United Kingdom]  Cost: 1152
+5138  '  Blenheim V  [ TB  United Kingdom]  Cost: 864
+5139  '  Boston III Intruder  [ TB  United Kingdom]  Cost: 1008
+5141  '  Spitfire VB 'Aboukir'  [FTR  United Kingdom]  Cost: 1116
+5562  '  Kingfisher  [ TB  United Kingdom]  Cost: 552
+5563  '  Seamew  [ TB  United Kingdom]  Cost: 588
+5603  '  Valentia  [ATP  United Kingdom]  Cost: 348
+5683  '  Parachute HQ  [INF  United Kingdom]  Cost: 288
+5691  '  Daimler II  [RCN  United Kingdom]  Cost: 384
+5808  '  3inch  [ AT  United Kingdom]  Cost: 228
+5831  '  Train  [RTP  United Kingdom]  Cost: 120
+7991  '  25 Pdr at-aty  [ATY  United Kingdom]  Cost: 276

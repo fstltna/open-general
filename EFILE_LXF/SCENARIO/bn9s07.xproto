@@ -1,0 +1,30 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 489  '  BM-8-36  [ATY  Soviet Union]  Cost: 288
+ 517  '  KV-1C  [ TK  Soviet Union]  Cost: 780
+ 522  '  T-34/76B  [ TK  Soviet Union]  Cost: 720
+ 526  '  T-60  [RCN  Soviet Union]  Cost: 300
+ 531  '  Yak-7B M-105PF  [FTR  Soviet Union]  Cost: 780
+ 540  '  Boston III  [ TB  Soviet Union]  Cost: 648
+ 677  '  M16 MGMC  [FlaK  Soviet Union]  Cost: 444
+ 679  '  BM-13-16  [ATY  Soviet Union]  Cost: 720
+ 685  '  Churchill III  [ TK  Soviet Union]  Cost: 612
+ 687  '  M3 Grant  [ TK  Soviet Union]  Cost: 648
+1504  '  OT-34  [ TK  Soviet Union]  Cost: 876
+1505  '  KV-8  [ TK  Soviet Union]  Cost: 864
+1510  '  SU-57  [ AT  Soviet Union]  Cost: 396
+1528  '  P-40B  [FTR  Soviet Union]  Cost: 744
+1530  '  Pe-3bis  [FTR  Soviet Union]  Cost: 684
+1549  '  Il-4  [ TB  Soviet Union]  Cost: 660
+1550  '  B-25D  [ TB  Soviet Union]  Cost: 600
+1556  '  Yak-7B M-105PF  [ TB  Soviet Union]  Cost: 780
+1560  '  Matilda II  [ TK  Soviet Union]  Cost: 492
+2404  '  BM-8-24  [ATY  Soviet Union]  Cost: 408
+2820  '  M16 MGMC CS  [ AT  Soviet Union]  Cost: 444
+3289  '  Commandos  [INF  Soviet Union]  Cost: 432
+5161  '  Airborne Engineer  [INF  Soviet Union]  Cost: 564
+5585  '  76.2mm ZiS-3  [ATY  Soviet Union]  Cost: 216

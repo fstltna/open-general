@@ -1,0 +1,382 @@
+Operation "Wintergewitter" 
+4 Rum Army
+VI Rum
+VI Rum
+4th Rum Army
+18 /VI Rum
+2 Rum/VI Rum
+KG/1 Rum/VI Rum
+VII Rum
+VII Rum
+II/2/4 Rum/VII Rum
+I/2/4 Rum/VII Rum
+5/4 Rum/VII Rum
+20/4 Rum/VII Rum
+21/4 Rum/VII Rum
+4 Rum/VII Rum
+2/5 Cav/VII Rum
+7/5 Cav/VII Rum
+8/5 Cav/VII Rum
+6/5 Cav/VII Rum
+3/8 Cav/VII Rum
+2/8 Cav/VII Rum
+3/8 Cav/VII Rum
+4/8 Cav/VII Rum
+502/4 Armee
+190/4 Armee
+612/4 Armee
+628/4 Armee
+I/11/6 Pz/LVII Pz
+II/11/6 Pz/LVII Pz
+41/6 Pz/LVII Pz
+76/6 Pz/LVII Pz
+4&114/6 Pz/LVII Pz
+6/6 Pz/LVII Pz
+114/6 Pz/LVII Pz
+4/6 Pz/LVII Pz
+39/17 Pz/LVII Pz
+27/17 Pz/LVII Pz
+40&63/17 Pz/LVII Pz
+27/17 Pz/LVII Pz
+27/17 Pz/LVII Pz
+40/17 Pz/LVII Pz
+63/17 Pz/LVII Pz
+23/23 Pz/LVII Pz
+128/23 Pz/LVII Pz
+128/23 Pz/LVII Pz
+126&128/23Pz/LVII Pz
+23/23 Pz/LVII Pz
+126/23 Pz/LVII Pz
+128/23 Pz/LVII Pz
+I/213 LW FlaK
+II/36 LW FlaK
+I/36 LW FlaK
+III/36 LW FlaK
+III/231 LW FlaK
+II/213 LW FlaK
+LuftFlotte 4
+Rum Fliegerkorps
+81 Cav/51
+81 Cav/51
+81 Cav/51
+81 Cav/51
+61 Cav/51
+61 Cav/51
+61 Cav/51
+61 Cav/51
+126 Inf/51
+358/126 Inf/51
+126 Inf/51
+366/126 Inf/51
+550/126 Inf/51
+824/126 Inf/51
+126 Inf/51
+51 Army
+51 Army
+51 Army
+302 Shock/51
+302 Shock/51
+865/302 Shock/51
+823/302 Shock/51
+825/302 Shock/51
+824/302 Shock/51
+302 Shock/51
+241/13 Mech/51
+13 Mech/51
+13 Mech/51
+13 Mech/51
+13 Mech/51
+13 Mech/51
+17/13 Mech/51
+62/13 Mech/51
+38/13 Gd/2 GA
+214/38/13 Gd/2 GA
+29/38/13 Gd/2 GA
+48/38/13 Gd/2 GA
+51/38/13 Gd/2 GA
+300/51
+38/13 Gd/2 GA
+300/51
+300/51
+1049/300/51
+1051/300/51
+1055/300/51
+38/13 Gd/2 GA
+20I/51
+51 Army
+51 Army
+1378/87/51
+235/4 Mech/51
+4 Mech/51
+4 Mech/51
+4 Mech/51
+4 Mech/51
+36/4 Mech/51
+59/4 Mech/51
+384 ID
+384 ID
+384 ID
+384 ID
+384 ID
+384 ID
+384 ID
+384 ID
+Penal
+432/4 Pz Armee
+6 Pz/LVII Pz
+23 Pz/LVII Pz
+3/7 Ind Tk XXX
+18/7 Ind Tk XXX
+19/7 Ind Tk XXX
+7 Ind Tk XXX
+7 Ind Tk XXX
+7 Ind Tk XXX
+2/7 Ind Tk XXX
+1 Gd/2 GA
+1 Gd/2 GA
+1 Gd/2 GA
+50/24 Gd/1 Gd/2 GA
+59/33 Gd/1 Gd/2 GA
+72/24 Gd/1 Gd/2 GA
+71/24 Gd/1 Gd/2 GA
+70/24 Gd/1 Gd/2 GA
+84/33 Gd/1 Gd/2 GA
+86/33 Gd/1 Gd/2 GA
+88/33 Gd/1 Gd/2 GA
+13 Gd/2 GA
+13 Gd/2 GA
+100/49 Gd/13 Gd/2 GA
+22/3 Gd/13 Gd/2 GA
+13 Gd/2 GA
+5/3 Gd/13 Gd/2 GA
+9/3 Gd/13 Gd/2 GA
+7/3 Gd/13 Gd/2 GA
+144/49 Gd/13 Gd/2 GA
+147/49 Gd/13 Gd/2 GA
+145/49 Gd/13 Gd/2 GA
+8 Air Regiment
+67 Air Regiment
+Rum Fliegerkorps
+LuftFlotte 4
+LuftFlotte 4
+KG/VI Rum
+KG Hollidt
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Don River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Verke-Kurmoiarsaia River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Askai River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Rostov-Stalingrad RxR
+Kotelnikovo
+Kotelnikovo
+Kotelnikovo
+Kurmoyarsky
+Kurmoyarsky
+Verkhne-Kurmioaskaia
+KG Hollidt Depot
+Verkhne-Chirskaia
+Kapinski
+Biriukov
+Biriukov
+Logovsk
+Logovsk
+The Green Door
+Chilekovo Station
+Chilekovo Station
+Verkhne-Kumski
+Kruglyakovo
+Zalivskii
+Zalivskii
+/1 Rum/VII Rum

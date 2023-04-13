@@ -1,0 +1,105 @@
+Linjiang Campaign
+2 Ind.PLA Div.
+1 Ind.PLA Div.
+1 Ind.PLA Div.
+1 Ind.PLA Div.
+2 Ind.PLA Div.
+2 Ind.PLA Div.
+2 Ind.PLA Div.
+1 Ind.PLA Div.
+1 Ind.PLA Div.
+1 Ind.PLA Div.
+1 Ind.PLA Div.
+6 PLA Column
+6 PLA Column
+6 PLA Column
+6 PLA Column
+6 PLA Column
+6 PLA Column
+6 PLA Column
+6 PLA Column
+6 PLA Column
+6 PLA Column
+[PLA]
+[PLA]
+195 KMT Div./[52A]
+195 KMT Div./[52A]
+195 KMT Div./[52A]
+2 KMT Div./[52A]
+2 KMT Div./[52A]
+2 KMT Div./[52A]
+21 KMT Div./[52A]
+21 KMT Div./[52A]
+21 KMT Div./[52A]
+89 KMT Div./[60A]
+89 KMT Div./[60A]
+89 KMT Div./[60A]
+89 KMT Div./[60A]
+Dehui
+Nong an
+Jishu
+Changchun
+Jilin
+Song Hua River
+Xinan
+Fanjiatun
+Siping
+Dunhua
+Yangtonshan
+Qingyu
+Huadian
+Songjianhe
+VOLCANO LAKE
+Hunjiang
+Tonghua
+Linjiang
+3 Ind.PLA Div.
+3 Ind.PLA Div.
+3 Ind.PLA Div.
+3 Ind.PLA Div.
+3 PLA Column
+3 PLA Column
+3 PLA Column
+3 PLA Column
+[PLA HQ]
+3 PLA Column
+3 Ind.PLA Div.
+3 Ind.PLA Div.
+3 PLA Column
+3 PLA Column
+[Linjiang HQ]
+30 N.O.KMT Div./[N.O.1A]
+30 N.O.KMT Div./[N.O.1A]
+30 N.O.KMT Div./[N.O.1A]
+30 N.O.KMT Div./[N.O.1A]
+22 N.O.KMT Div./[N.O.1A]
+22 N.O.KMT Div./[N.O.1A]
+22 N.O.KMT Div./[N.O.1A]
+[N.O. 1A HQ]
+[N.O.1A]
+[N.O.1A]
+4 PLA Column
+4 PLA Column
+4 PLA Column
+4 PLA Column
+4 PLA Column
+88 KMT Div./[60A]
+88 KMT Div./[60A]
+88 KMT Div./[60A]
+88 KMT Div./[60A]
+87 KMT Div./[60A]
+87 KMT Div./[60A]
+87 KMT Div./[60A]
+87 KMT Div./[60A]
+6 PLA Column
+6 PLA Column
+[13A]
+54 KMT Div./[13A]
+54 KMT Div./[13A]
+54 KMT Div./[13A]
+54 KMT Div./[13A]
+Jilin Security Regiment
+Jilin Security Regiment
+Jilin Security Regiment
+Siping Security Regiment
+[N.O.1A Att.]

@@ -1,0 +1,119 @@
+[MAP:801] [TERUEL.MAP          ]
+--------------------------------
+(25,00) #Rio Alfambra
+(24,01) #Rio Alfambra
+(22,02) #Alfambra
+(23,02) #Alfambra
+(24,02) #Rio Alfambra
+(22,03) #Alfambra
+(23,03) #Rio Alfambra
+(24,03) #Rio Alfambra
+(11,04) #Villarquemado
+(22,04) #Rio Alfambra
+(23,04) #Rio Alfambra
+(01,05) #Cella
+(10,05) #Villarquemado
+(23,05) #Rio Alfambra
+(32,05) #Escorihuela
+(21,06) #Rio Alfambra
+(22,06) #Rio Alfambra
+(32,06) #Escorihuela
+(21,07) #Rio Alfambra
+(19,08) #Rio Alfambra
+(20,08) #Rio Alfambra
+(21,08) #Rio Alfambra
+(37,08) #Cedrillas
+(38,08) #Cedrillas
+(19,09) #Rio Alfambra
+(20,09) #Rio Alfambra
+(20,10) #Rio Alfambra
+(03,11) #Rio Guadalaviar
+(09,11) #Rio Guadalaviar
+(19,11) #Rio Alfambra
+(20,11) #Rio Alfambra
+(01,12) #Rio Guadalaviar
+(02,12) #Rio Guadalaviar
+(04,12) #Rio Guadalaviar
+(05,12) #Rio Guadalaviar
+(06,12) #Rio Guadalaviar
+(07,12) #Rio Guadalaviar
+(08,12) #Rio Guadalaviar
+(10,12) #Rio Guadalaviar
+(11,12) #Rio Guadalaviar
+(19,12) #Rio Alfambra
+(20,12) #Rio Alfambra
+(02,13) #Albarracin
+(10,13) #Rio Guadalaviar
+(11,13) #Rio Guadalaviar
+(12,13) #Rio Guadalaviar
+(14,13) #San Blas
+(19,13) #Rio Alfambra
+(12,14) #Rio Guadalaviar
+(13,14) #Rio Guadalaviar
+(17,14) #Rio Alfambra
+(19,14) #Rio Alfambra
+(14,15) #Rio Guadalaviar
+(15,15) #Rio Guadalaviar
+(16,15) #Rio Guadalaviar
+(18,15) #Rio Turia
+(19,15) #Rio Turia
+(10,16) #Bezas
+(19,16) #Rio Turia
+(20,16) #Teruel
+(21,16) #Teruel
+(20,17) #Rio Turia
+(21,17) #Rio Turia
+(22,17) #Teruel
+(23,17) #Teruel
+(20,18) #Teruel
+(21,18) #Rio Turia
+(22,18) #Teruel
+(23,18) #Teruel
+(16,19) #La Guea
+(21,19) #Rio Turia
+(22,19) #Teruel
+(23,19) #Teruel
+(31,19) #Castralvo
+(16,20) #La Guea
+(21,20) #Rio Turia
+(22,20) #Rio Turia
+(21,21) #Rio Turia
+(22,21) #Rio Turia
+(27,21) #Aldehuela
+(21,22) #Rio Turia
+(22,22) #Rio Turia
+(20,23) #Rio Turia
+(21,23) #Rio Turia
+(22,23) #Villaspesa
+(19,24) #Villel
+(20,24) #Rio Turia
+(21,24) #Rio Turia
+(20,25) #Rio Turia
+(21,25) #Rio Turia
+(20,26) #Rio Turia
+(20,27) #Rio Turia
+(19,28) #Rio Turia
+(20,28) #Rio Turia
+(19,29) #Rio Turia
+(17,30) #Villastar
+(18,30) #Rio Turia
+(32,30) #Puebla de Valverde
+(33,30) #Puebla de Valverde
+(04,31) #Rubiales
+(18,31) #Rio Turia
+(18,32) #Rio Turia
+(18,33) #Rio Turia
+(18,34) #Rio Turia
+(33,34) #Sarrion
+(41,34) #Rio Mijares
+(42,34) #Rio Mijares
+(18,35) #Rio Turia
+(39,35) #Rio Mijares
+(40,35) #Rio Mijares
+(41,35) #Rio Mijares
+(17,36) #Rio Turia
+(18,36) #Rio Turia
+(39,36) #Rio Mijares
+(16,37) #Rio Turia
+(37,37) #Rio Mijares
+(38,37) #Rio Mijares

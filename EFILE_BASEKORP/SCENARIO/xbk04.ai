@@ -1,0 +1,68 @@
+'---
+'Config AI file for scenario: xbk04.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=60 items  ' Replacement for default list
+ 183  '  120mm m/32  [ATY  Norway]  Cost: 240
+ 255  '  75mm m/01  [ATY  Norway]  Cost: 144
+ 257  '  Gladiator IIA  [FTR  Norway]  Cost: 348
+ 259  '  Wagon  [TPT  Norway]  Cost: 24
+ 347  '  Royal Marines 39  [INF  United Kingdom]  Cost: 144
+ 377  '  Matilda II  [ TK  United Kingdom]  Cost: 528
+ 382  '  QL  [TPT  United Kingdom]  Cost: 72
+ 383  '  Bren Carrier  [TPT  United Kingdom]  Cost: 216
+ 385  '  Hurricane IA  [FTR  United Kingdom]  Cost: 468
+ 387  '  Spitfire IA  [FTR  United Kingdom]  Cost: 588
+ 398  '  C-47  [ATP  United Kingdom]  Cost: 348
+ 574  '  Transport  [ATP  Norway]  Cost: 348
+ 614  '  Skua  [ TB  United Kingdom]  Cost: 396
+ 616  '  35 Engineer  [INF  Norway]  Cost: 288
+ 627  '  18pdr  [ATY  United Kingdom]  Cost: 144
+ 629  '  4.5inch  [ATY  United Kingdom]  Cost: 192
+ 632  '  Lastbil  [TPT  Norway]  Cost: 60
+ 871  '  Dragoner  [INF  Norway]  Cost: 120
+ 934  '  Gladiator IIA  [FTR  United Kingdom]  Cost: 360
+ 993  '  Swordfish I  [ TB  United Kingdom]  Cost: 300
+1454  '  81mm mortar  [ATY  Norway]  Cost: 168
+1455  '  75mm m/11-24  [ATY  Norway]  Cost: 276
+1456  '  MG  [FlaK  Norway]  Cost: 96
+1462  '  C.VE  [ TB  Norway]  Cost: 288
+1518  '  105mm m/04  [ATY  Norway]  Cost: 228
+1689  '  3inch mortar  [ATY  United Kingdom]  Cost: 180
+1691  '  3.7inch AB  [ATY  United Kingdom]  Cost: 384
+1700  '  MG  [FlaK  United Kingdom]  Cost: 108
+1707  '  Matilda IIICS  [ TK  United Kingdom]  Cost: 528
+1721  '  Albacore  [ TB  United Kingdom]  Cost: 312
+1726  '  Hudson  [ TB  United Kingdom]  Cost: 504
+1728  '  Nomad  [ TB  United Kingdom]  Cost: 504
+1733  '  Wagon  [TPT  United Kingdom]  Cost: 12
+2255  '  Catalina  [ TB  United Kingdom]  Cost: 420
+2469  '  120mm m/09  [ATY  Norway]  Cost: 204
+2471  '  Grensejeger  [INF  Norway]  Cost: 216
+2472  '  Garden  [INF  Norway]  Cost: 108
+2477  '  Cletrac  [TPT  Norway]  Cost: 60
+2482  '  MF-11  [ TB  Norway]  Cost: 324
+2483  '  He 115  [ TB  Norway]  Cost: 360
+2546  '  Horse  [TPT  Norway]  Cost: 12
+2547  '  Mules  [TPT  Norway]  Cost: 12
+2592  '  Scots Infantry 39  [INF  United Kingdom]  Cost: 96
+2602  '  Hurricane II  [FTR  United Kingdom]  Cost: 504
+2605  '  Lysander I  [ TB  United Kingdom]  Cost: 336
+2613  '  Horse  [TPT  United Kingdom]  Cost: 12
+2614  '  C8  [TPT  United Kingdom]  Cost: 84
+2615  '  Carrier  [TPT  United Kingdom]  Cost: 168
+2616  '  MW 15cwt  [TPT  United Kingdom]  Cost: 60
+2618  '  Pioneer  [TPT  United Kingdom]  Cost: 84
+2942  '  Horsa II  [ATP  United Kingdom]  Cost: 180
+2943  '  Hamilcar  [ATP  United Kingdom]  Cost: 180
+3311  '  Skis  [TPT  Norway]  Cost: 72
+3353  '  Walrus  [ TB  United Kingdom]  Cost: 360
+3853  '  Motor Infantry 40  [INF  United Kingdom]  Cost: 144
+3870  '  3.7inch  [ATY  United Kingdom]  Cost: 408
+4075  '  Swordfish I  [ TB  United Kingdom]  Cost: 324
+5562  '  Kingfisher  [ TB  United Kingdom]  Cost: 552
+5823  '  Train  [RTP  Norway]  Cost: 120
+5831  '  Train  [RTP  United Kingdom]  Cost: 120

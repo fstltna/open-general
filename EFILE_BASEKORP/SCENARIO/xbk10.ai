@@ -1,0 +1,37 @@
+'---
+'Config AI file for scenario: xbk10.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=29 items  ' Replacement for default list
+  45  '  Suffren CA  [sBS  France]  Cost: 792
+  46  '  La Galissonniere LC  [sBS  France]  Cost: 540
+  47  '  Le Fantasque DD  [sDD  France]  Cost: 324
+  56  '  AGR2  [TPT  France]  Cost: 48
+  59  '  Wagon  [TPT  France]  Cost: 24
+  60  '  D.520C.1  [FTR  France]  Cost: 504
+  62  '  Po.633  [ TB  France]  Cost: 468
+ 545  '  Transport  [NTP  France]  Cost: 60
+ 590  '  155mm C mle17  [ATY  France]  Cost: 756
+ 591  '  Char D1B  [ TK  France]  Cost: 336
+ 724  '  Legionnaire  [INF  France]  Cost: 144
+1176  '  220mm L mle17  [ATY  France]  Cost: 1836
+1200  '  VG.33  [FTR  France]  Cost: 516
+1202  '  MB.152  [FTR  France]  Cost: 552
+1209  '  Leo 451  [ TB  France]  Cost: 636
+1214  '  MB.174  [ TB  France]  Cost: 552
+1216  '  Jaguar DD  [sDD  France]  Cost: 264
+1217  '  Duguay-Trouin LC  [sBS  France]  Cost: 444
+1218  '  Emile Berten LC  [sBS  France]  Cost: 396
+1219  '  Algerie CA  [sBS  France]  Cost: 840
+2837  '  Horse  [TPT  France]  Cost: 12
+2838  '  Limber  [TPT  France]  Cost: 36
+2845  '  P107  [TPT  France]  Cost: 180
+2847  '  S20TL  [TPT  France]  Cost: 60
+2848  '  M2TZ  [TPT  France]  Cost: 36
+2849  '  S35  [TPT  France]  Cost: 60
+2852  '  Mules  [TPT  France]  Cost: 12
+2864  '  Bicycles  [TPT  France]  Cost: 12
+5815  '  Train  [RTP  France]  Cost: 120

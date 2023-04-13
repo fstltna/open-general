@@ -1,0 +1,21 @@
+'---
+'Config purchase file for scenario: SSBDM_48.xscn
+
+'* Custom list of items available to purchase by players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line starts with a valid equipment code
+'  Included 104 items by the Suite
+
+#0    '  Item/s for Player1 follow...
+
+#1    '  Item/s for Player2 follow...
+ 407  '  M18  [ AT  USA]  Cost: 612
+ 454  '  P-38J Lightning  [FTR  USA]  Cost: 936
+ 458  '  P-47D Thunderbolt  [FTR  USA]  Cost: 1032
+ 459  '  P-47N Thunderbolt  [FTR  USA]  Cost: 1032
+ 461  '  P-51D Mustang  [FTR  USA]  Cost: 936
+ 468  '  B-25J Mitchell  [ TB  USA]  Cost: 840
+1767  '  M4A3-76W  [ TK  USA]  Cost: 768
+1989  '  Armored Infantry 44  [INF  USA]  Cost: 552
+2885  '  B-17B Fortress  [ LB  USA]  Cost: 876
+3938  '  Armored Infantry 43  [INF  USA]  Cost: 468

@@ -1,0 +1,39 @@
+Fa05-Riposte
+ErP 10
+ErP 112
+PPP 7
+9 Ptri/KTR 13
+5 Ptri/KTR 12
+JR 16/6 Div
+Hw Rgt 247/56 RflD
+I/Aty Rgt 113/56 RflD
+RflRgt 37/56 RflD
+RflRgt 184/56 RflD
+RflRgt 213/56 RflD
+AT Bn 59/56 RflD
+Rec Bn 38/56 RflD
+Kr/1 RajaR
+I/1 RajaR
+II/1 RajaR
+8/JR 37/13 Div
+KTR 12/12 Div
+Kev Os 12/12 Div
+JR 34/12 Div
+JR 35/12 Div
+JR 36/12 Div
+II/ITR/Os Talvela
+I/ITR/IV. Corps
+AT Bn 237/139 RflD
+Aty Rgt 354/139 RflD
+RflRgt 364/139 RflD
+RflRgt 609/139 RflD
+RflRgt 718/139 RflD
+Train Bde/139 RflD
+lt Det/139 RflD
+Tk Bn 410/56 RflD
+I/39 SBAP
+II/39 SBAP
+I/145 IAP
+SUOJARVI
+SUOJARVI
+SUOJARVI

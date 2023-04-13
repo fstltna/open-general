@@ -1,0 +1,25 @@
+
+* Read carefully before editing!
+*------------------------------------------------------------------------------------------
+* Lines can be of any length, but only the first 96 chars will be read.
+* Empty lines and those starting with * are not read.
+* Can ammend text & data, but do not change the sequence of lines.
+*------------------------------------------------------------------------------------------
+
+* Background colour for main window:
+30,30,30
+
+* Background for dialogs:
+70,70,70
+
+* White text:
+230,230,230
+
+* Gold/yellow text:
+240,236,180
+
+* Victory dialog's transparency:
+220
+
+* Red text for units with low ammo, fuel or strength:
+250, 0, 0

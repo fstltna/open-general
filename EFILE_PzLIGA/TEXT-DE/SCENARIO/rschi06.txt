@@ -1,0 +1,64 @@
+1942 Kunming [PL 3.2]
+Xiangyun
+Dayao
+Chuxiang
+Shuangbai
+Yipinglang
+Luquan
+Kunming
+Flugplatz Kunming 
+Chenggong
+Jinning
+Yuxi
+Dajie
+Eshan
+Chengjiang
+Lishe Jiang
+Djan Ch
+Fuxian Hu
+Maotou Shan
+55 R/18 ID/15 Armee
+56 R/18 ID/15 Armee
+114 R/18 ID/15 Armee
+1 R/18 ID/15 Armee
+12 Cav R/18 ID/15 Armee
+12 eR/18 ID/15 Armee
+18 aty R/18 ID/15 Armee
+113 R/56 ID/15 Armee
+146 R/56 ID/15 Armee
+148 R/56 ID/15 Armee
+14 Tk R/56 ID/15 Armee
+56 Rc R/56 ID/15 Armee
+56 aty R/56 ID/15 Armee
+56 e R/56 ID/15 Armee
+HQ der 15. Armee
+7.LuftBr
+7.LuftBr
+7.LuftBr
+7.LuftBr
+7.LuftBr
+Art/V.Armee
+64 R/22 ID/V Armee
+65 R/22 ID/V Armee
+66 R/22 ID/V Armee
+286 R/96 ID/V Armee
+287 R/96 ID/V Armee
+288 R/96 ID/V Armee
+599 R/200 ID/V Armee
+600 R/200 ID/V Armee
+598 R/200 ID/V Armee
+HQ/V Armee
+e B/V Armee
+Tk R/V Armee
+Cv R/V Armee
+82 R/28 ID/LVXI Armee
+83 R/28 ID/LVXI Armee
+84 R/28 ID/LVXI Armee
+112 R/38 ID/LVXI Armee
+113 R/38 ID/LVXI Armee
+114 R/38 ID/LVXI Armee
+85 R/29 ID/LVXI Armee
+86 R/29 ID/LVXI Armee
+87 R/29 ID/LVXI Armee
+HQ/LVXI Armee
+18 R/LVXI Armee

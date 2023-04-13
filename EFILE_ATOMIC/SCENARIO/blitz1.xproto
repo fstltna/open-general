@@ -1,0 +1,44 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  67  '  Ju 88A-1  [ TB  Germany]  Cost: 792
+  89  '  PzJag I 47mm Pak(t)  [ AT  Germany]  Cost: 228
+ 101  '  Sturmpanzer I  [ATY  Germany]  Cost: 552
+ 103  '  StuG IIIB  [ AT  Germany]  Cost: 312
+ 143  '  Pz IIIG  [ TK  Germany]  Cost: 360
+ 148  '  Pz IIIF  [ TK  Germany]  Cost: 312
+1261  '  Pz IVD  [ TK  Germany]  Cost: 420
+1263  '  Pz II Flamm  [ TK  Germany]  Cost: 336
+1283  '  Hs 129B-1  [ TB  Germany]  Cost: 552
+1899  '  88mm Flak 37  [ AD  Germany]  Cost: 516
+1944  '  150mm sFH37  [ATY  Germany]  Cost: 708
+2417  '  Fallschirmjäger 40  [INF  Germany]  Cost: 288
+2954  '  Bf 109T-1  [FTR  Germany]  Cost: 576
+2955  '  Fi 167  [ TB  Germany]  Cost: 552
+3172  '  Sd.Kfz. 251/9   [ATY  Germany]  Cost: 396
+3269  '  Marineinfanterie 40  [INF  Germany]  Cost: 288
+3295  '  He 111E  [ LB  Germany]  Cost: 636
+3355  '  150mm K18  [ATY  Germany]  Cost: 948
+3416  '  Gebirgsjäger 40  [INF  Germany]  Cost: 288
+3442  '  Fallschirmpioniere 40  [INF  Germany]  Cost: 360
+3482  '  PzGren 40 auf Sd.Kfz. 251  [INF  Germany]  Cost: 504
+4402  '  Ju 87R-2  [ TB  Germany]  Cost: 588
+4537  '  Bf 109E-4/B  [ TB  Germany]  Cost: 792
+4576  '  Sd.Kfz. 8 mit 88mm Flak 18  [ AD  Germany]  Cost: 756
+4772  '  Do 215B-4  [ LB  Germany]  Cost: 396
+5053  '  Bf 109E-4/Trop  [FTR  Germany]  Cost: 636
+5068  '  Fw 200C-4  [ LB  Germany]  Cost: 840
+5070  '  Fw 200C-1  [ LB  Germany]  Cost: 696
+5071  '  Fw 200C-3/U-3  [ LB  Germany]  Cost: 756
+6129  '  PzSpWg DAF 201(h)  [RCN  Germany]  Cost: 300
+6701  '  Lehrregiment Brandenburg  [INF  Germany]  Cost: 420
+6899  '  Grossdeutschland 40  [INF  Germany]  Cost: 216
+7466  '  Grenadiere 40  [INF  Germany]  Cost: 216
+7930  '  Sd.Kfz. 8 mit 88mm Flak 18  [ AT  Germany]  Cost: 816
+7931  '  Sturmpanzer I  [ AT  Germany]  Cost: 600
+8163  '  Marinestosstrupp 40  [INF  Germany]  Cost: 372
+8343  '  88mm Pak 38  [ AD  Germany]  Cost: 516
+9079  '  Gebirgspioniere 40  [INF  Germany]  Cost: 372

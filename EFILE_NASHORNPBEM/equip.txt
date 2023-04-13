@@ -1,0 +1,537 @@
+Error! VERSION NashornPBEM 1.0a (27/11/13)
+20mm Mobile
+20mmx4 Static
+37mm Mobile
+55mm Static
+Pz Coelian
+Fusiller Inf
+SS VolksGrenadier
+Gren/20mmx4
+Gren/37mm
+Gren/88mm
+SS Wirbelwind
+88mm AA/AT
+JagElephant
+JagPanther
+Jag IV
+JagTiger
+Marder III(t)
+JagNashorn
+K18 HvGun
+SS Wufrahmen
+Hummel
+Wurfrahmen
+Supply Depot
+SS Cossack
+Security Inf
+Cavalry
+PzGren Pioneer
+FJ Hv Mg
+Supply Halftruck
+Regular Inf
+SS Pz IV L
+SpWg(radar) 
+Police Inf
+SS SpWg(5cm)
+PzSpWg'44
+Hv Cruiser Rhineland (B)
+Pz Mighty Maus
+Pz Panther D
+SS Panther D
+Pz Panther II
+Hv Halftractor
+Pz III L
+Pz IV J
+Pz Tiger
+Pz King Tiger
+Scout Ht
+Regular Ht
+Hv Truck
+Hv Wagon
+Bf-109k
+He-129 (R)
+Ju-87g (DB)
+HvArt Bunker
+Hv Fortified Base
+M3 Ht
+37mm Static
+76mm Static
+60cm Morser(B)
+ISU-122
+ISU-152(B)
+SU-100
+SU-76m
+SU-85
+F-22 Gun
+ML-20 HvGun
+Katyuska(B)
+Katyuska2(B)
+SU-45
+Lt Cavalry
+Assault Eng
+NKVD Command
+Engineer Inf
+Guard Cavalry
+Penal Inf
+Navy Marine
+Shock Para
+Cechens
+HvArt Bunker
+Battleship Trotsky(B)
+Sib Guard
+SU-76 Bug
+IS-2
+IS-3
+Guard/IS-1
+KV-85
+T-34 Command
+T-34/43
+T-34/85
+Lt Truck
+Wagon
+La-9
+Spitfire VB
+IL-2m3
+IL-Beast (RB)
+Transport Ship
+Naval Transport
+BR-2(B)
+88mm Static
+Bunker
+Hv Nebelwerf
+Grenadier Inf
+SS Mountain Inf
+SS PzGrenadier
+Pz III M
+HQ SS PzGren
+SS Maultier(B)
+Bf-109e
+Guard
+90cm RailGun(B)
+85mm Static
+Security Inf
+Regular Inf
+Guard/T34-43
+IS-1
+T-34 Flame
+SiegeMort(B)
+T-44/100
+T-44/85
+Yak-9
+Il-702 Jet
+FJ Inf
+SS PzGren Ht
+SS 7.5cm Pak Ht
+M38 HvGun(B)
+Cossack
+Motorised Inf
+SS Fusiller
+Partisan Eng
+Coastal Gun
+Partisan
+20mm Mobile
+M3A3 Grant
+Valentine III
+Hv Radar Bunker
+Pz Bridge
+He-111
+Brumbar(B)
+Pe-2 (R)
+Navy Inf
+88mm AA/AT
+SS Sturm Marine
+Hetzer Flame
+7.6cm Pak(r)
+7.5cm Pak Ht
+Engineer Ht
+FJ Mortar
+StuG M42(i)
+Mortar
+FieldGun
+K9 Gun
+FJ Pioneer
+HQ SS Inf
+SS Mortar
+PzGrenadier
+Volks + Pak
+SS Cavalry
+SS JagPanther
+HQ PzGren
+Pz II Scout
+Pz T34(r)
+Me-410 Jet
+Ju-86 (LB)
+Destroyer Narvik
+U-69 Sealion
+Patrol Boat
+SS Engineer Ht
+T-34 Karakurt
+SU-60 Vapo
+Halftrk 20mm
+6.2cm Pak
+HQ Panther
+100mm Pak
+HvMortar
+StuG III
+Commando
+Supply HalfTruck
+SS StuG  IV
+Zis-3 Gun
+BR-7(B)
+T-44/100 Tick
+LtMortar
+Sib Command
+Command
+Sib Regular Inf
+Shock Inf
+SF Specnaz
+Bren Ht
+M3 AT Ht
+KV-2 Flame
+Sherman M4
+Sherman Jumbo
+Stuart M3
+Navy Fortified Inf
+SU-122m
+Bunker
+Partisan Dug In
+Hurricane I
+Yer-2 (LB)
+Destroyer Lenin
+128mm Static
+FJ Inf Gun
+HQ Pz IV
+HQ Bunker
+Hv Bunker
+Art Bunker
+Hv FieldGun
+SS Tiger
+Hv Bunker
+Conscript
+Mountain Inf
+Patrol Boat
+T-24 Bridge
+SS Lt Flak Ht
+Fortified Inf
+Tractor
+Pz Ostwind
+Trike
+Peddle Bike
+Lt Truck
+SturmTiger(B)
+Pz Mini Ratte
+Pz 88mm Emil
+SU-76(r)
+Pz Morser(B)
+Pz KV-1(r)
+Pz Mobelwagon
+Sib Shock Inf
+Fortified Inf
+SF Brandenburg
+Mules
+Partisan Base
+Staff Car
+Gaz Jeep
+Hv Truck
+Tractor
+Hv Fortified Base
+SS Lt Mortar Ht
+Lt Halftrack
+Truck
+Sturm Marine
+HQ Infantry
+Lt Flak Ht
+Me-163 Jet
+V-1 Rock(LB)
+SS MotorBike
+PartisanLtMortar
+HQ Bunker
+Radar Bunker
+BA-4 ArmCar
+Sib Fortified Inf
+SU-76 Suka
+Navy Command
+SS JagNimrod
+Destroyer Kremlin
+Lt HalfTruck
+Hv Fortified Inf
+Supply Depot
+Construction
+SK Security
+Sib Assault Eng
+ArmourTruck
+Radar Bunker
+SF Demo Team
+T-34 MGx4
+T-26 MGx2
+Engineer Inf
+Lt Mortar Ht
+Construction
+SS Engineer
+SS PzGren Pioneer
+SS HvMortar
+PzGren Ht
+SF Demo Team
+FJ Pathfinder
+M15 MGx2
+Truck 37mm
+Art Bunker
+Sib LtMortar
+Hv Engineer
+Sib Engineer
+5cm Pak
+7.5cm Pak
+88mm Pak
+JagHetzer
+Jag IV L/70
+Marder II
+StuG IV
+Marder IV
+JagSchlepper
+Marder III
+128mm Pak
+SS Jaeger Inf
+Pz Panther A
+Pz IV G
+Pz IV H
+Pz Panther F
+Pz III Flame
+SpWg(Mg)
+AB-43(i)
+Gren/Wirbelwind
+SS Peddle Bike
+15cm HvGun
+Wespe
+Grille 38(t)
+Schlepper(B)
+StuH 42
+K1 Gun
+SS Nebelwerf
+HvMortar
+Pz 38t 20mm
+Halftrk 37mm
+45mm Static
+Pz Wirbelwind
+Halftrk 20mmx4
+Pz Kugelblitz
+Truck 20mm
+Truck 37mm
+Bf-109g
+Fw-190f (FB)
+Fw-190a (FB)
+Bf-109f
+Ar-68 (R)
+Bf-110d (RB)
+He-70
+Do-17z
+Fw-58
+Fi-167 (TB)
+Ju-87e (DB)
+Do-217 (LB)
+Air Transport
+SS Air Transport
+FJ Transport
+FJ Glider
+Hv Air Transport
+Coastal mines (not used)
+Destroyer Wulf
+Assault Boat
+3,7 Pak Mob (not used)
+PzJag I 40 (not used)
+Sturm 40F (not used)
+Stug III (not used)
+Hv FieldGun (not used)
+Grille 40 (not used)
+Rockets (not used)
+PzIB Assualt Gun 40 (not used)
+AmpSIG Art (not used)
+Sturm I CS 40 (not used)
+StuH 42 (not used)
+FJ 38 Eng 40 (not used)
+FJ 38 40 (not used)
+PzSpWg(MgFlak) 40 (not used)
+Bismarck BB (not used)
+Scharnhorst BB (not used)
+Crusier Konigsberg (B)
+Graf Zeppelin CVL (not used)
+Maass DD (not used)
+Pz 35(t) 40 (not used)
+Pz 38(t) A 40 (not used)
+Pz 38(t) F 40 (not used)
+Pz II A 40 (not used)
+Pz II E 40 (not used)
+Pz III E 40 (not used)
+Pz III G 40 (not used)
+Pz III J 40 (not used)
+Pz III H 40 (not used)
+Pz Turan(h) 40 (not used)
+Pz IV D 40 (not used)
+Pz IVF 2 40 (not used)
+Bunker (not used)
+Bf-109b (not used)
+MotorBikes (not used)
+7,5 Pak Early 40 (not used)
+M-18 (B) (not used)
+Static HvWurf(B) (not used)
+Maultier (not used)
+Pz IV F 40 (not used)
+Mt Infantry 40 (not used)
+Inf 35 7,5 LG (not used)
+Inf Mortars 40 (not used)
+He-51c (not used)
+Hvy Coastal Batt (not used)
+Pontoon (not used)
+Pz IV C (not used)
+FJ Lt Mortars (not used)
+Zrinyi '44M(h) (not used)
+75 FieldPak (not used)
+Med Howister (not used)
+Armd Recon(f) (not used)
+Pz Recon (not used)
+Pz II Amp (not used)
+Pz II Flame (not used)
+Pz 735 (f) (not used)
+Pz 731 (f) (not used)
+Pz 739 (f) (not used)
+Pz III CS (not used)
+Pz IV CS (not used)
+Fw-190a (not used)
+Bf-109g (not used)
+Bf-109g (not used)
+He-112b37 (not used)
+Me-410a (not used)
+Ju-86K (not used)
+Me-262A Late (not used)
+He-115 Seaplane (not used)
+Hs-123 Bi-Plane (not used)
+Hs-129C NightFightBomb (not used)
+Hs-129 Recon (not used)
+Emden CL (not used)
+Lutzow BC (not used)
+Deutschland BB (not used)
+U-7 SS (not used)
+U-37 SS (not used)
+SS BlackShirt 38 Cavarly (not used)
+AT Block (not used)
+Road Block (not used)
+Factory (not used)
+lePzSpWg (not used)
+Marder I (not used)
+Landing Craft (not used)
+Pz Lehel (not used)
+37mm AD (not used)
+Sup-Hvy Coastal Batt (not used)
+Dirt Airfield  (not used)
+Horse + Cart (not used)
+HalfTractor (not used)
+Lt Truck (not used)
+Field Gun (r) (not used)
+105 FieldPak (not used)
+Hs-126A -1 (not used)
+Radar CL (not used)
+Blackshirt Militia (not used)
+HQ Gestapo
+SS 10.5cm FieldGun (not used)
+Raubtier TB (not used)
+T22 DD (not used)
+FightBomb Seaplane (not used)
+Bf-109t (not used)
+Me-155a (not used)
+Power Station (not used)
+Railway Bridge (not used)
+SS Lt Mortar  (not used)
+Alpine Bridge Inf (not used)
+Police Inf
+BA-6 ArmCar
+7.6cm Pak
+5.5cm Pak
+JagNimrod
+Carrier
+Horse+Cart
+Mules
+Train Transport
+Train Transport
+Sib HvMortar
+A-19 HvGun
+BR-4(B)
+SU-152m
+Truck MGx2 
+Yak-1
+La-5
+I-15 (R)
+Yak-7b (FB)
+Yak-7
+IL-2
+Sb-2
+Boston III
+Tu-2 (DB)
+Fury-2 (TB)
+B25 Mitch(LB)
+Air Transport
+Para Transport
+Para Glider
+S-11 Ural
+Assault Boat
+halftruck (not used)
+Krim CA (not used)
+Kirov CA (not used)
+shock (not used)
+T-34 /40 (not used)
+T-34 /41 (not used)
+T-60 (not used)
+T-70 (not used)
+YaK-1 (not used)
+Yak-3 (not used)
+MiG-3 (not used)
+I-16 (not used)
+YaK-7 (not used)
+P39 FightBomb (not used)
+LaGG-3 (not used)
+Katyuska Rockets (not used)
+105 FieldPak (not used)
+Lt Katyuska Trk (not used)
+BT-7 Lt CS Tk (not used)
+BT-7 CS Tank (not used)
+BT-7 Recon Tk (not used)
+KV-1S /42 (not used)
+100mm Batt (not used)
+Hv 76mm Pak (not used)
+Seaplane Transport (not used)
+P63 FightBomb (not used)
+Dirt Airfield (not used)
+Great bomber (not used)
+Hv Coastal Batt (not used)
+Pe-2 bomb (not used)
+T-28 Amp Tank (not used)
+Naval Gun (not used)
+Lt Pak Mob (not used)
+Pak Carrier (not used)
+D-10 FieldGun (not used)
+75 FieldPak (not used)
+122mm Long Battery (not used)
+Rock CS Tank (not used)
+Hv MG Support (not used)
+LL Churchill III (not used)
+LL Matilda II (not used)
+Lt Flame Tank (not used)
+T-35 Assualt (not used)
+I-16 Carrier (not used)
+Pe-3 Carrier (not used)
+Ar-2 Bomber (not used)
+Tb Bomber (not used)
+Bomber (not used)
+Novik DD (not used)
+Krappa Class (not used)
+C SS (not used)
+Sniper Team (not used)
+Guards+T34/85 (not used)
+Fast Truck (not used)
+AmpTruck (not used)
+Hv Wagon (not used)
+Lt AirMob Art (not used)
+Early Mob AT (not used)
+Mobile Gun (not used)
+Craters (not used)
+Scout Car
+Staff Car
+M16 MG(4) AA (not used)

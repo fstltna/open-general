@@ -1,0 +1,13 @@
+Battle of Wollin
+September 16, 1759
+
+In August two Swedish corpses, supported by the galley flotilla, were directed against the islands of Usedom and Wollin at the mouth of the Oder. The plan was to capture these two islands and then to enter in the eastern part of the Stettin Lagoon with the galley flotilla. On September 16, after a preparation of artillery, Fredrik Axel von Fersen launched his troops against the walls of Wollin.
+
+Deploy Hexes: 21
+
+ORDER: Hold at least 3 VHs, and keep your MSU alive.
+
+NOTE: The Citadel resupplies all adjacent friendly units and gives turn prestige.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

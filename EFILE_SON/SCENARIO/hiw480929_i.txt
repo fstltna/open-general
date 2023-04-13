@@ -1,0 +1,12 @@
+Pákozd
+September 29, 1848
+
+Colonel! After two weeks of retreating without any resistance, the National Defense Committee (NDC) removed the incompetent leader of the Transdanubian Corps and chose you to stop Jellachic’s advance. The Croatian troops are only 70 kilometers away from our capital!
+
+Deploy Hexes: 10
+
+ORDER: Take all VHs.
+
+NOTE: You have got 1750 pp to build your own starting core, please don’t close the deploy panel before purchasing units.
+
+scenario designer: Csaba (lvjtn)

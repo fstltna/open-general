@@ -1,0 +1,206 @@
+Contraofensiva de Teruel
+22 BM/39 Div./[XIII]
+64 BM/39 Div./[XIII]
+96 BM/39 Div./[XIII]
+Cella
+Villarquemado
+Albarracin
+Bezas
+La Guea
+El Canigral
+Rubiales
+Villastar
+Villel
+Villaspesa
+Aldehuela
+Castralvo
+Teruel
+Puebla de Valverde
+Sarrion
+Escorihuela
+Cedrillas
+Alfambra
+Rio Alfambra
+Rio Turia
+Rio Guadalaviar
+San Blas
+Rio Mijares
+59 BM/42 Div./[XIII]
+61 BM/42 Div./[XIII]
+151 BM/42 Div./[XIII]
+82 BM/40 Div./[XX]
+82 BM/40 ID/[XX]
+84 BM/40 Div./[XX]
+82 BM/40 ID/[XX]
+87 BM/40 Div./[XX]
+82 BM/40 ID/[XX]
+218 BM/68 Div./[XX]
+218 BM/68 ID/[XX]
+219 BM/68 Div./[XX]
+218 BM/68 ID/[XX]
+220 BM/68 Div./[XX]
+VII Bon./IV Bda./52 ID
+VI Bon./I Bda./52 ID
+II Bon./IV Bda./52 ID
+V Bon./IV Bda./52 ID
+III Bon./IV Bda./52 ID
+IV Bon./IV Bda./52 ID
+[CNT]
+1 BM/11 Div./[XXII]
+9 BM/11 Div./[XXII]
+100 BM/11 Div./[XXII]
+3 BM/34 Div./[XVIII]
+10 BM/34 Div./[XVIII]
+68 BM/34 Div./[XVIII]
+92 BM/70 Div./[XVIII]
+95 BM/70 Div./[XVIII]
+116 BM/25 Div./[XXII]
+115 BM/25 Div./[XXII]
+117 BM/25 Div./[XXII]
+XIII Ban./IV Bda./52 ID
+319 Bon./IV Bda./52 ID
+408 Bon./IV Bda./52 ID
+A.C./IV Bda./52 ID
+IV Bda./52 ID
+13 ID/[TURIA]
+6 Tabor Melilla/13 ID/[TURIA]
+4 Ban. Castilla/13 ID/[TURIA]
+1 Tabor Melilla/13 ID/[CEM]
+Ifni Btn./13 ID/[CEM]
+6 Ban./13 ID/[CEM]
+262 Btn./13 ID/[CEM]
+4 Ban./13 ID/[CEM]
+10 BM/46 ID/[V]
+101 BM/46 ID/[V]
+209 BM/46 ID/[V]
+XI BI/35 ID/[V]
+XV BI/35 ID/[V]
+32 BM/35 ID/[V]
+49 BM/47 ID/[V]
+69 BM/47 ID/[V]
+6 Ban.Pal./1/5 ID/[Navarra]
+5 Bon./25 SQR/1/5 ID/[Navarra]
+5 Bon./22 SQR/1/5 ID/[Navarra]
+11 Bon/ZR/1/5 ID/[Navarra]
+5 ID/[Navarra]
+4 Bon./29 ZAR/2/5 ID/[Navarra]
+7 Bon./29 ZAR/2/[Navarra]
+3 Bon./26 ARR/2/[Navarra]
+4 Tab./GFRIS/2/5 ID/[Navarra]
+1 MG/3/5 ID/[Navarra]
+1 Ban. Pal./3/5 ID/[Navarra]
+3/5 ID/[Navarra]
+1 Agrup./5 ID/[Navarra]
+2 Agrup/5 ID/[Navarra]
+6 Ban. Pal/1 Agrup/5 ID/[Navarra]
+8 Bon./VR/3/[Navarra]
+1 Agrup/1 ID/[Navarra]
+2 Agrup/1 ID/[Navarra]
+1 ID/[Navarra]
+3 Agrup/1 ID/[Navarra]
+4 Agrup/1 ID/[Navarra]
+2 ID/[Navarra]
+2 ID/[Navarra]
+2 ID/[Navarra]
+2 ID/[Navarra]
+[XIII]
+[XVIII]
+[XXII]
+[XX]
+52 ID
+AtyGrp./13 Div./-/
+6 Tabor Melilla/13 Div./-/
+4 Ban. Castilla/13 Div./-/
+1 Tabor Melilla/13 Div./-/
+Ifni Btn./13 Div./-/
+6 Ban./13 Div./-/
+262 Btn./13 Div./-/
+4 Ban./13 Div./-/
+2 Agrup/5 ID/[Navarra]
+1 Agrup./5 ID/[Navarra]
+6 Ban.Pal./1/5 ID/[Navarra]
+4 Tab./GFRIS/2/5 ID/[Navarra]
+1 MG/3/5 ID/[Navarra]
+1 Ban. Pal./3/5 ID/[Navarra]
+3/5 ID/[Navarra]
+5 ID/[Navarra]
+1 Agrup/1 ID/[Navarra]
+2 Agrup/1 ID/[Navarra]
+4 Agrup/1 ID/[Navarra]
+1 ID/[Navarra]
+8 Bon./VR/3/[Navarra]
+2 ID/[Navarra]
+2 ID/[Navarra]
+2 ID/[Navarra]
+2 ID/[Navarra]
+61 ID/[Varela]
+61 ID/[Varela]
+61 ID/[Varela]
+61 ID/[Varela]
+62 ID/[Varela]
+62 ID/[Varela]
+62 ID/[Varela]
+62 ID/[Varela]
+63 ID/[Varela]
+63 ID/[Varela]
+63 ID/[Varela]
+209 BM/46 Div./[V]
+101 BM/46 Div./[V]
+10 BM/46 Div./[V]
+49 BM/47 Div./[V]
+69 BM/47 Div./[V]
+XV BI/35 Div./[V]
+XI BI/35 Div./[V]
+32 BM/35 Div./[V]
+[V]
+81 ID/[Aranda]
+81 ID/[Aranda]
+81 ID/[Aranda]
+82 ID/[Aranda]
+82 ID/[Aranda]
+82 ID/[Aranda]
+83 ID/[Aranda]
+83 ID/[Aranda]
+83 ID/[Aranda]
+83 ID/[Aranda]
+82 ID/[Aranda]
+81 ID/[Aranda]
+[Legion Condor]
+[Legion Condor]
+FARE
+150 ID
+150 ID
+84 ID
+84 ID
+[XX]
+CTV
+[Guarnicion]
+[Guarnicion]
+[Guarnicion}
+(Modesto) [V]
+(Estado Mayor) [XVIII]
+(Estado Mayor) [XXII]
+(Estado Mayor) [XX]
+(Estado Mayor)[Varela]
+(Estado Mayor)[Aranda]
+[XVIII]
+Linea de frente
+62 Div./[Aranda]
+62 Div./[Varela]
+62 Div./[Varela]
+62 Div./[Varela]
+1 Agrup./1 Div./[Varela]
+2 Agrup./1 Div./[Varela]
+3 Agrup./1 Div./[Varela]
+4 Agrup./1 Div./[Varela]
+1 Div./[Varela]
+[Varela]
+[Varela]
+1 Div./[Varela]
+62 Div./[Aranda]
+62 Div./[Aranda]
+62 Div./[Aranda]
+82 BM/40 Div./[XX]
+84 BM/40 Div./[XX]
+87 BM/40 Div./[XX]
+(Estado Mayor)[XIII]

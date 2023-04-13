@@ -1,0 +1,21 @@
+Ysterspruit
+
+February 25th, 1902
+
+During the last year we haven't taken many risks. There were some big battles like Vlakfontein or Moedwil, but most of the time our actions consisted of blowing railway lines and bridges or attacking small British columns.
+
+But right now we're running short of ammunition and other supplies, so we need to be more aggresive. A large British convoy is heading to Klerksdorp escorted by a force of 700 soldiers. It's imperative that we defeat the enemy and capture that convoy.
+
+Victory conditions:
+- Destroy all 4 British wagons (MSUs) 
+- Prevent any enemy unit (MSUs or not) from reaching the EH at (21,4).
+- Your MSU must survive.
+
+
+
+
+
+
+
+
+

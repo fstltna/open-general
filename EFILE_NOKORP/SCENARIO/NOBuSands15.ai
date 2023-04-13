@@ -1,0 +1,26 @@
+'---
+'Config AI file for scenario: NOBuSands15.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=18 items  ' Replacement for default list
+ 348  '  AEC I  [RCN  United Kingdom]  Cost: 336
+ 369  '  A13 (Cruiser Mk V, Covenanter)  [ TK  United Kingdom]  Cost: 300
+ 371  '  A15 (Cruiser Mk VI Crusader II)  [ TK  United Kingdom]  Cost: 336
+ 372  '  A15 (Cruiser Mk VI Crusader III)  [ TK  United Kingdom]  Cost: 396
+ 379  '  Valentine III  [ TK  United Kingdom]  Cost: 468
+ 402  '  M16 MGMC "Meat Chopper"  [FlaK  USA]  Cost: 492
+ 408  '  M3 GMC  [ AT  USA]  Cost: 288
+ 416  '  M7 Priest  105mm  [ATY  USA]  Cost: 660
+ 418  '  T19  105 mm HMC  [ATY  USA]  Cost: 408
+ 443  '  M4A1 Sherman  [ TK  USA]  Cost: 552
+ 635  '  A27L (Cruiser Mk VIII, Centaur I)  [ TK  United Kingdom]  Cost: 492
+ 736  '  Tirailleurs 35  [INF  France]  Cost: 72
+3361  '  2pdr Portee  [ AT  United Kingdom]  Cost: 144
+3399  '  Priest  [ATY  United Kingdom]  Cost: 672
+3922  '  Armored Infantry 42  [INF  USA]  Cost: 156
+5691  '  Daimler AC Mk.II  [RCN  United Kingdom]  Cost: 360
+5785  '  Motorcycle Recon  [RCN  USA]  Cost: 240
+5976  '  M3 Light Tank (Stuart)  [RCN  USA]  Cost: 348

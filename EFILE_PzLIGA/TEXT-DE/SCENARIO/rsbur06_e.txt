@@ -1,0 +1,120 @@
+1945 Nord-Burma [PL 3.2]
+Dschungel
+Fluss Chindwin
+Fluss Irrawady
+Shingbwiyang
+Fluss Salween
+Sumprabum
+Mogaung
+Myitkyina
+Getreide
+Burmastrasse
+Lungling
+Bhamo
+Kalewa
+Lashio
+Monywa
+Mandalay
+214 R/33 ID/15 Armee
+215 R/33 ID/15 Armee
+33 R/33 ID/15 Armee
+11 B/33 ID/15 Armee
+2 TkR/33 ID/15 Armee
+33 R/33 ID/15 Armee
+26 R/33 ID/15 Armee
+51 Bn/33 ID/15 Armee
+213 R/33 ID/15 Armee
+51 R/15 ID/15 Armee
+60 R/15 ID/15 Armee
+67 R/15 ID/15 Armee
+15 Bn/15 ID/15 Armee
+15 G/15 ID/15 Armee
+21 R/15 ID/15 Armee
+21 R/15 ID/15 Armee
+58 R/31 ID/15 Armee
+124 R/31 ID/15 Armee
+138 R/31 ID/15 Armee
+1 Bn/31 ID/15 Armee
+Aty R/31 ID/15 Armee
+HQ/15 Armee
+Aty G/15 Armee
+AA G/15 Armee
+E Bn/15 Armee
+E Bn/15 Armee
+55 R/18 ID/33 Armee
+56 R/18 ID/33 Armee
+114 R/18 ID/33 Armee
+1 R/18 ID/33 Armee
+12 Cav R/18 ID/33 Armee
+12 eR/18 ID/33 Armee
+18 aty R/18 ID/33 Armee
+113 R/56 ID/33 Armee
+146 R/56 ID/33 Armee
+148 R/56 ID/33 Armee
+14 Tk R/56 ID/33 Armee
+56 Rc R/56 ID/33 Armee
+56 aty R/56 ID/33 Armee
+56 e R/56 ID/33 Armee
+1 R/30 ID/Y Streitmacht
+2 R/30 ID/Y Streitmacht
+3 R/30 ID/Y Streitmacht
+HQ/Y Streitmacht
+Aty R/30 ID/Y Streitmacht
+1 R/38 ID/Y Streitmacht
+2 R/38 ID/Y Streitmacht
+3 R/38 ID/Y Streitmacht
+Aty R/38 ID/Y Streitmacht
+1 R/50 ID/Y Streitmacht
+2 R/50 ID/Y Streitmacht
+3 R/50 ID/Y Streitmacht
+Aty R/50 ID/Y Streitmacht
+1 R/39 ID/Y Streitmacht
+2 R/39 ID/Y Streitmacht
+3 R/39 ID/Y Streitmacht
+Aty R/39 ID/Y Streitmacht
+3 Br/SFB
+14 Br/SFB
+77 Br/SFB
+11 Br/SFB
+23 Br/SFB
+5307/NCAC
+29 BR/36 ID
+72 BR/36 ID
+26 BR/36 ID
+Aty R/36 ID
+Aty R/64 ID/NCAC
+1 R/64 ID/NCAC
+2 R/64 ID/NCAC
+3 R/64 ID/NCAC
+1 R/114 ID/NCAC
+2 R/114 ID/NCAC
+3 R/114 ID/NCAC
+Aty R/114 ID/NCAC
+62 Br/19 Indische ID/IV Korps
+64 Br/19 Indische ID/IV Korps
+98 Br/19 Indische ID/IV Korps
+64 Bn/19 Indische ID/IV Korps
+HQ/IV Korps
+26 R/19 Indische ID/IV Korps
+3 R/19 Indische ID/IV Korps
+33 R/19 Indische ID/IV Korps
+7 Tk R/19 Indische ID/IV Korps
+48 Br/17 Indische ID/IV Korps
+63 Br/17 Indische ID/IV Korps
+99 Br/17 Indische ID/IV Korps
+2 R/17 Indische ID/IV Korps
+29 R/17 Indische ID/IV Korps
+1 R/17 Indische ID/IV Korps
+1 AA R/17 Indische ID/IV Korps
+Tk Bn/NCAC
+Tk Bn/Y Streitmacht
+At Bn/Y Streitkraefte
+AA Bn/Y Streitkraefte
+Rcn Bn/NCAC
+1 R/65 ID/NCAC
+2 R/65 ID/NCAC
+3 R/65 ID/NCAC
+Aty R/65 ID/NCAC
+5. Luftflotte
+Fliegender Tiger
+56 AS

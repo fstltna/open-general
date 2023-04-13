@@ -1,0 +1,149 @@
+** This file is only intended for those designers wanting to
+** customize some texts.
+**
+* Each section must be identified by a header section
+* enclosed by square brackets, i.e: [sides]
+* watch out header section spelling!
+* You can omit one or more sections if you don't need different
+* (insert an asterisk at start of line including section header)
+* but any section you include, must include all items
+* ------------------------------------------------------------------
+*
+* Warning:
+* If you include a [sides] section here, it will overwrite sides denominations 
+* defined in Nations.txt for this Efile
+*
+[sides]
+Seite I
+Seite II
+
+[classes]
+keine Klasse
+Infanterie
+Kavallerie
+Späher
+Speerträger
+---
+Befestigung
+Boden-Transport
+Eilmarsch
+Bogenschützen
+Spionabwehr
+Spion
+---
+---
+Luft-Transport
+Helo Transport ???
+Boote - uboote... ???
+kleine Schiffe
+Schlachtschiffe
+---
+See-Transport
+---
+---
+---
+
+[targets]
+Weich-Bodenangriffswert
+Hart-Bodenangriffswert
+Spion-Angriffswert
+See-Angriffswert
+
+[spaces]
+Boden
+Unterwanderung
+
+[movement]
+zu Pferd
+leichtes Gespann
+schweres Gespann
+zu Fuss
+Stehend
+Inkognito
+auf Hoher See			
+an der Küste
+in alle Terrains
+amphibisch
+See
+im Gebirge (zu Fuss)
+Eilmarsch
+--- Helicopter ???
+
+
+[transports]
+keine Transportmöglichkeit
+Seetransport
+Luft- und Seetransport
+Spion, Luft- und Seetransport
+Eilmarsch
+--- Helicopter ???
+
+[requisition]
+Wechsel Boden/Spion/See-Menü
+Wähle Spionabwehr
+---
+Wähle Befestigung
+Wähle Speerträger
+Wähle Bogenschütze
+Wähle Infanterie
+Wähle Aufklärer
+Wähle Kavalerie
+Wähle Spion
+---
+---
+---
+Wähle Boot
+Wähle Schiff
+---
+---
+---
+---
+Einheitsname
+Einheit auflösen
+Beenden
+
+[terrain]
+Offenes Gelände
+Stadt
+Spionversteck
+Wald
+Dickicht
+Hügel
+Berg
+Sand
+Sumpf
+Ozean
+Fluss
+Befestigung
+Hafen
+Bach
+Böschung
+Unpassierbarer Fluss
+Raues Gelände
+---
+Straße
+ausgebaute Straßen
+
+[unitdata]
+Anführer
+Transport
+Land
+Erfahrung
+Erfahrungsstufe
+--
+Stamina
+Stärke
+Reichweite
+Initiative
+Sichtweite
+Bew. Methode
+Harter Angriff
+Weicher Angriff
+Spion Angriff
+See Angriff
+Grund Verteidigung
+Spion Verteidigung
+Nahe Verteidigung
+Fern Verteidigung
+Klasse
+Kosten

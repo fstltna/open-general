@@ -1,0 +1,213 @@
+Tunez
+Bizerte
+Bizerte : PORT
+Cap Serrat : ROUGH
+Lake Bizerte
+Sedjenine
+Sedjenana : RIVER
+Lake Ichkeul
+Ferryville
+Lake Ghar el Melh : OCEAN
+Cap Farina : CLEAR
+Wadi Tine : RIVER
+Medjerda : RIVER
+Mateur
+Djefna
+Protville
+Chouigui-Tebourba
+Djedeida
+Sidi Nsir
+Tunis
+Tunis : PORT
+Beja
+Kebir : RIVER
+Medjez el Bab
+St Cyprien
+Massicault
+Siliana : RIVER
+St.Marie du Zit
+Pont du Fahs
+Teboursouk
+Bou Arada
+3 Bde/1 Arm.D/[X]
+186 R/185 Folgore/[X]
+187 R/185 Folgore/[X]
+AR 185/185 Folgore/[X]
+5 Br/2 NZ/XXX/VIII
+4 Br/2 NZ/XXX/VIII
+6 Br/2 NZ/XXX/VIII
+6 eB/2 NZ/XXX/VIII
+9 Br/2 NZ/XXX/VIII
+2 R/2 NZ/XXX/VIII
+4 R/2 NZ/XXX/VIII
+7 Br/4 Indian/XXX/VIII
+5 Br/4 Indian/XXX/VIII
+161 Br/4 Indian/XXX/VIII
+4 B/4 Indian/XXX/VIII
+149 R/4 Indian/XXX/VIII
+57 R/4 Indian/XXX/VIII
+32 R/4 Indian/XXX/VIII
+1 Br/1 ID/1 Army Free
+2 Br/1 ID/1 Army Free
+4 Br/1 ID/1 Army Free
+1 R/1 ID/1 Army Free
+4 R/2 ID Marroco/1 Army Free
+5 R/2 ID Marroco/1 Army Free
+6 R/2 ID Marroco/1 Army Free
+63 R/2 ID Marroco/1 Army Free
+8 Rca /1 Army Free
+7 R/3 ID Algeria/1 Army Free
+4 R/3 ID Algeria/1 Army Free
+3 R/3 ID Algeria/1 Army Free
+67 R/3 ID Algeria/1 Army Free
+8 RTC /1 Army Free
+11 Br/78 ID/V
+36 Br/78 ID/V
+38 Br/78 ID/V
+64 R/78 ID/V
+17 R/78 ID/V
+49 R/78 ID/V
+20 Br/6 Arm D/V
+1 Br/36 ID/V Army
+2 Br/36 ID/V Army
+3 Br/36 ID/V Army
+1 RTR/36 ID/V Army
+AR/36 ID/V Army
+ATR/36 ID/V Army
+AAR/36 ID/V Army
+135 R/34 Inf
+133 R/34 Inf
+16 R/1 ID/II Corps/I Army
+18 R/1 ID/II Corps/I Army
+26 R/1 ID/II Corps/I Army
+1 R/1 ID/II Corps/I Army
+5 R/1 ID/II Corps/I Army
+1 R/1 ID/II Corps/I Army
+1 B/1 ID/II Corps/I Army
+39 R/9 ID/II Corps/I Army
+49 R/9 ID/II Corps/I Army
+60 R/9 ID/II Corps/I Army
+15 B/9 ID/II Corps/I Army
+15 R/9 ID/II Corps/I Army
+26 R/9 ID/II Corps/I Army
+34 R/9 ID/II Corps/I Army
+15 aaB/9 ID/II Corps/I Army
+1 B/1 Inf
+1 B/5 R/1 Inf
+2 B/5 R/1 Inf
+1 Inf
+26 R/9 Inf
+34 R/9 Inf
+109 B/34 Inf
+134 R/34 Inf
+133 R/34 Inf
+1 R/1 Arm
+2 R/1 Arm
+3 R/1 Arm
+4 R/1 Arm
+141 R/1 Arm
+1-1 R/1 Arm
+123 B/1 Arm
+1 Arm
+1-4 Ada R/1 Arm
+33 R/1 Inf
+151 R/34 Inf
+125 R/34 Inf
+eB/34 ID
+963 R/999 Leicht D
+999 B/999 Leicht D
+999 B/999 Leicht D
+81 R/999 Leicht D
+961 R/999 Leicht D
+962 R/999 Leicht D
+91 R/Superga D/XXX/V
+92 R/Superga D/XXX/V
+5 R/Superga D/XXX/V
+3 G/Imperiali D/XXX/V
+15 B/Imperiali D/XXX/V
+6 R/Imperiali D/XXX/V
+Lodi B/Centauro Div
+31 R/Centauro Div
+5 R/Centauro Div
+200 R/90 Leicht D/XX/I
+361 R/90 Leicht D/XX/I
+155 R/90 Leicht D/XX/I
+190 R/90 Leicht D/XX/I
+190 B/90 Leicht D/XX/I
+aaB/90 Leicht D/XX/I
+220 R/164 Leicht D/XXI/I
+433 R/164 Leicht D/XXI/I
+164 B/164 Leicht D/XXI/I
+aaB/164 Leicht D/XXI/I
+65 R/Trieste D/XX/I
+136 R/Giov.Fasc D/XX/I
+125 R/Spezia D/XXI/I
+80 aaB/Spezia D/XXI/I
+580 B/21 Pz/DAK
+200 Pzjgr B/21 Pz/DAK
+5 Pz R/21 Pz/DAK
+104 Pzg R/21 Pz/DAK
+47 R/21 Pz/DAK
+609 B/21 Pz
+2/2 155 R/21Pz
+220 Pio B/21 Pz/DAK
+1/2 155 R/21Pz
+8 R/15 Pz D
+155 R/15 Pz D
+13 Pio B/15 Pz D
+14 B/15 Pz D
+276 B/15 Pz D
+33 R/15 Pz D
+4 Pzjgr B/15 Pz D
+10 Rec/10 Pz
+1 B/7 Pz R/10 Pz
+86 Pzg R/10 Pz
+1/2 90 R/10 Pz
+1 B/90 Pzjgr R/10 Pz
+2 B/90 Pzjgr R/10 Pz
+302 B/10 Pz
+2/2 90 R/10 Pz
+Pz Bn 501
+RTC/1 ID
+re/1 ID
+eB/4 ID/V
+10 Br/4 ID/V
+11 Br/4 ID/V
+12 Br/4 ID/V
+28 Br/4 ID/V
+21 Br/4 ID/V
+17 Br/4 ID/V
+18 B/4 ID/V
+20 Br/6 Arm D/V
+26 Br/6 Arm D/V
+1 RTR/36 ID/V Army
+152 R/6 Arm D/V
+1 Br/6 Arm D/V
+61 Br/6 Arm D/V
+1 Br/1 Arm D/X/VIII
+2 Br/1 Arm D/X/VIII
+2 R/6 Arm D/X/VIII
+3 R/7 Arm/XIII/VIII
+22 Br/7 Arm/XIII/VIII
+4 Br/7 Arm/XIII/VIII
+Luft
+RAF
+USAAF
+USAAF
+RAF
+RAF
+Luft
+RAF
+USAAF
+USAAF
+USAAF
+5 R/Raemcke Bde./[DAK]
+Huebner/Raemcke Bde./[DAK]
+1 R/HG D
+2 R/HG D
+atB/HG D
+350 R/Saharian Grouping
+290 R/Saharian Grouping
+Novara B/Saharian Grouping
+aaB/Trieste D/XX/I
+80 aaB/Spezia D/XXI/I

@@ -1,0 +1,9 @@
+Retreat From Fortress Frankfurt
+
+04/24/1945
+
+On the 19th of April, with the collapse of his final line of defense, General Busse had to take measures to secure the northern flank of his truncated 9th Army as best as he could. The Soviet thrust toward Fuerstenwalde threatened the 169th and 712th Infantry Divisions which, with the Frankfurt garrison, were still trying to hold on to their forward positions, as insisted upon by Hitler. While Busse tried to restore his fronts with 'Kurmark' and SS 'Nederland' the Infantry Divisions began to wheel back to the southwest over the Spree river to establish a new line of defense there. On the evening of April 21st, scouts from the Soviet 3rd Guards Tank Army reached Koenigs Wusterhausen, thereby effectively completing the encirclement of the 9th Army.
+
+You are the rear guard for the 9th Army. You have to hold three (3) vh for a BV, two (2) for a V and one (1) for a TV
+
+New units have strength 8. German units are short on ammo and fuel.

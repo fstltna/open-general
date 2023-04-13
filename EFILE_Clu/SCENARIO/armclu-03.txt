@@ -1,0 +1,84 @@
+Running Fight
+PzGrenRgt/Kmk
+Flak-Kampftrupp/Kmk
+verst. PzAbt./Kmk
+StuG-LehrBrig. 111
+verst. Art.Abt./Kmk
+Kgr. Mueller
+Stab/V. SS-Geb.Korps
+965 Rfl Rgt/274 RflD
+963 Rfl Rgt/274 RflD
+965 Rfl Rgt/274 RflD
+150 AT Bn/274 RflD
+814 Aty Rgt/274 RflD
+920 Rfl Rgt/247 RflD
+916 Rfl Rgt/247 RflD
+909 Rfl Rgt/247 RflD
+306 AT Bn/247 RflD
+778 Aty Rgt/247 RflD
+738 Rfl Rgt/134 RflD
+515 Rfl Rgt/134 RflD
+629 Rfl Rgt/134 RflD
+235 AT Bn/134 RflD
+410 Aty Rgt/134 RflD
+1232 Rfl Rgt/370 RflD
+1234 Rfl Rgt/370 RflD
+1230 Rfl Rgt/370 RflD
+400 AT Bn/370 RflD
+940 Aty Rgt/370 RflD
+12 SP Aty Bde/69 Army
+8 AT Bde/69 Army
+1083 Rfl Rgt/312 RflD
+1081 Rfl Rgt/312 RflD
+1079 Rfl Rgt/312 RflD
+375 AT Bn/312 RflD
+859 Aty Rgt/312 RflD
+275 Rfl Rgt/117 RflD
+240 Rfl Rgt/117 RflD
+820 Rfl Rgt/117 RflD
+222 AT Bn/117 RflD
+322 Aty Rgt/117 RflD
+68 Tk Bde/69 Army
+344 Gds hvy SP Aty Rgt/69 Army
+20 Gds Mech Rfl Bde/8 Gds Mech Corp
+1 Gds Tk Bde/8 Gds Mech Corps
+405 Gds Mrt Bn/8 Gds Mech Corps
+19 Gds Mech Rfl Bde/8 Gds Mech Corp
+69 Gds Tk Rgt/19 Gds Mech Rfl Bde
+8 Gds Mcycl Bn/8 Gds Mech Corps
+III/SchlG 2
+Snow
+Bischofsee
+Klein Luebbichow
+Polenzig
+Zohlow
+Drenzig
+Gross Luebbichow
+Laubow
+Biberteich
+Schoenwalde
+Neu Bischofsee
+Eilang
+Polenziger Bruch
+Klauswalde
+Neu Zohlow
+Reppen
+Friedrichswille
+Kemnath
+Beelitz
+Neuendorf
+Tornow
+Bullenwiese
+Bottschow
+Pinnow
+Grundhof
+Sternberg
+Wildenhagen
+Goerbitsch
+Neu Wildenhagen
+Hildesheim
+Pulverkrug
+Reichenwalde
+Matschdorf
+Klein Gandern
+Graeden

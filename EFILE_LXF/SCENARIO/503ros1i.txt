@@ -1,0 +1,14 @@
+00. Rostov 1  (Sporonyy)  (10 January 1943)
+
+STRATEGIC SITUATION:
+The tide of the war in the east is turning against us. Sixth Army is encircled in Stalingrad and attempts to relieve them have failed. Sixth Army is lost... However we still have Heeresgruppe A in the Caucasus. But connections are on the brink of being cut off at Rostov, the key to the Caucasus. Heeresgruppe A is retreating but the Russians are marching against Rostov at the same time and need to be stopped in order to be able to get Heeresgruppe back into the Ukraine. The Russians have to be stopped!
+
+TACTICAL ORDERS:
+Elements of various Russians armies are marching towards Rostov. We have 111st Infantry defending it, but it will be not enough to stop them. Your brand new 503rd Schwere Panzer Abteilung - alongside elements of 16th (motorized) infantry - must conduct a counterattack in the enemy's flank. So instead of Heeresgruppe A, the Russians will be cut off! Drive into their flank, and drive deep but be sure to hold your line. The Russians will try to maintain their positions with ferocious counterattacks. Good luck.
+
+NOTE:
+Units will not be automatically reinforced to strength 10 at the end of the scenario.
+
+SCENARIO DESIGNER:
+Dennis Felling - armygroupdf
+Modified for Open General by Jurgen Smet - Wonderdoctor

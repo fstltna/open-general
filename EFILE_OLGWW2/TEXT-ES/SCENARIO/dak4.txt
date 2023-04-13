@@ -1,0 +1,38 @@
+Mersa el Brega 1942
+Agedabia
+Mersa Brega
+El Agheila
+Sebeha el Chehira
+Via Balbia
+2 Bde/1 Arm Div
+3 Bde/1 Arm Div
+1/101 AT/1 Arm Div
+20 Guards Bde/1 Arm Div
+30 Bde/1 Arm Div
+10 Recce/1 Arm Div
+12 Recce/1 Arm Div
+[8 Army]
+2 AR/1 Arm Div
+[8 Army]
+Bir es Suera
+5 PzR/21 Pz/[DAK]
+3 Rec/21 Pz/[DAK]
+104 Schzt/21 Pz/[DAK]
+MG/21 Pz/[DAK]
+39 Pzjgr/21 Pz/[DAK]
+155 AR/21 Pz/[DAK]
+200 Pio/21 Pz/[DAK]
+33 Pzjgr/15 Pz/[DAK]
+33 AR/15 Pz/[DAK]
+15 Schzt/15 Pz/[DAK]
+15 Schzt/15 Pz/[DAK]
+33 Pio/15 Pz/[DAK]
+15 Mot/15 Pz/[DAK]
+33 Rec/15 Pz/[DAK]
+5 PzR/15 Pz/[DAK]
+DAF
+DAF
+5 SA
+[2 Luftflotte]
+DAF
+[8 Army]

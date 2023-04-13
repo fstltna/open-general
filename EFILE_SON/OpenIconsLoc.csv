@@ -1,0 +1,844 @@
+*IconID;Description;Color;IconClass;Nation;Chassis;IconStyle
+CW012;CSS Virginia (Merrimac) 1862;grey/brown;Ironclad Warship;1800 CSA (Confederate);;Fairline
+CW028;10 inch (254 mm) Columbiad Railway Gun;brown;Train Arty;1800 CSA (Confederate);Train;Fairline
+CW039;HMS Alexandra 1875;;Flagship;1800 UK (United Kingdom / Great Britain);;Fairline
+CW040;Elite Mounted Rifles (Cavalry x2);blue;Cavalry;1800 USA (Union);Horse;Fairline
+CW041;Mounted Rifles (Cavalry x2);grey/blue;Cavalry;1800 CSA (Confederate);Horse;Fairline
+CW042;CSS Scorpion 1865;grey/brown;Ironclad Warship;1800 CSA (Confederate);;Fairline
+CW045;10 inch (245 mm) M1845 Siege Mortar + Crew (x2) 1840 uniform;blue/brown;Towed Arty;1800 USA;;Fairline
+CW100;10 inch (245 mm) M1845 Siege Mortar + Crew (x2);butternut/brown;Towed Arty;1800 CSA (Confederate);;Fairline
+CW101;10 pdr Horse Artillery + Crew (x2) 1840;blue;Towed Arty (horse);1800 USA;;Fairline
+CW102;10 pdr Horse Artillery + Crew (x2);butternut/brown;Towed Arty (horse);1800 CSA (Confederate);;Fairline
+CW104;Bridging Infantry (x2);butternut/grey;Bridging Infantry;1800 CSA (Confederate) / Texas;;Fairline
+CW108;Paddle Steamer Riverboat;white/sand;NTP;1800 All Nations;;Fairline
+CW113;Marines 1840 (Naval Infantry x2);blue/white;Naval Infantry;1800 USA;;Fairline
+CW116;Elite Mounted Rifles (Cavalry x2);grey;Cavalry;1800 CSA (Confederate);Horse;Fairline
+CW122;Mountain Infantry (x2);grey/butternut;Mountain Infantry;1800 CSA (Confederate) / Texas;;Fairline
+CW123;Marines (Naval Infantry x2);grey;Naval Infantry;1800 CSA (Confederate);;Fairline
+CW126;Mounted Rifles 1840 (Cavalry x2);blue;Cavalry;1800 USA;Horse;Fairline
+CW128;6 pdr Foot Artillery + Crew (x2) 1840;blue;Towed Arty;1800 USA;;Fairline
+CW136;Rifles 1840 (Sniper Infantry x1);green;Sniper Infantry;1800 UK (United Kingdom / Great Britain);;Fairline
+CW139;Lancers 1850 (Cavalry x1);blue;Cavalry (lancer);1800 UK (United Kingdom / Great Britain);Horse;Fairline
+CW142;General 1860 (Cavalry x1);blue;HQ Cavalry;1800 UK (United Kingdom / Great Britain);Horse;Fairline
+CW151;Zouaves de la Garde Impériale 1860 (Light Infantry x2);blue/yellow/red;Regular Infantry;1800 France;;Fairline
+CW160;Lanciers 1860 (Light Cavalry x1);blue/red;Cavalry (lancer);1800 France;Horse;Fairline
+CW163;Hussards 1850 (Light Cavalry x1);brown/red;Cavalry (hussar);1800 France;Horse;Fairline
+CW202;Mountain Infantry 1840 (x2);blue;Mountain Infantry;1800 USA;;Fairline
+CW204;Iron Brigade (Elite Infantry x2);blue;Elite Infantry;1800 USA (Union);;Fairline
+CW206;14th New York State (Brooklyn) Militia Infantry (x2);blue/red;Militia Infantry;1800 USA (Union);;Fairline
+CW207;Sharpshooters 1840 (Sniper Infantry x1);green;Sniper Infantry;1800 USA (Union);;Fairline
+CW209;Ulysses S. Grant / General (Cavalry x1);blue;HQ Cavalry;1800 USA (Union);Horse;Fairline
+CW221;Line Infantry 1840 (x2);blue;Regular Infantry;1800 USA;;Fairline
+CW223;Light Infantry 1860 (x2) + Forage Jacket;blue;Regular Infantry;1800 USA (Union);;Fairline
+CW226;Recon / Patrol Cavalry 1840 (x1) + Rifle;blue;Cavalry (scout);1800 USA;Horse;Fairline
+CW228;HMS Neptune 1874;;Ironclad Warship;1800 UK (United Kingdom / Great Britain);;Fairline
+CW230;Robert Edward Lee / General (Cavalry x1);grey;HQ Cavalry;1800 CSA (Confederate);Horse;Fairline
+CW231;6 pdr Foot Artillery + Crew (x2);butternut/brown;Towed Arty;1800 CSA (Confederate) / Texas;;Fairline
+CW232;3 inch (76.2 mm) Ordnance Rifle M1855;butternut/brown;Towed Arty;1800 CSA (Confederate) / Texas;;Fairline
+CW233;3 inch (76.2 mm) 10 pdr Parrott Rifle M1861 + Crew (x2);butternut/brown;Towed Arty;1800 CSA (Confederate) / Texas;;Fairline
+CW240;3 inch (76.2 mm) Ordnance Rifle M1855 + Crew (x2) 1840 uniform;blue;Towed Arty;1800 USA;;Fairline
+CW241;3 inch (76.2 mm) 10 pdr Parrott Rifle M1861 + Crew (x2) 1840 uniform;blue;Towed Arty;1800 USA;;Fairline
+CW242;4.62 inch (117 mm) 12 pdr "Napoleon" M1857 + Crew (x2) 1840 uniform;blue;Towed Arty;1800 USA;;Fairline
+CW254;4.62 inch (117 mm) 12 pdr "Napoleon" M1857 + Crew (x2);butternut/brown;Towed Arty;1800 CSA (Confederate) / Texas;;Fairline
+CW259;Local Light Infantry (x2);grey/butternut;Regular Infantry;1800 CSA (Confederate) / Texas;;Fairline
+CW261;Sharpshooters (Sniper Infantry x1);grey/butternut;Sniper Infantry;1800 CSA (Confederate) / Texas;;Fairline
+CW264;Moving Infantry (x2);butternut;Regular Infantry;1800 CSA (Confederate) / Texas;;Fairline
+CW268;Moving 1st Texas Infantry (x2);grey;Regular Infantry;1800 CSA (Confederate);;Fairline
+CW269;Firing 1st Texas Infantry (x2);grey;Regular Infantry;1800 CSA (Confederate);;Fairline
+CW270;Partisan Rangers (Infantry x2);grey/butternut;Scout Infantry;1800 CSA (Confederate) / Texas;;Fairline
+CW271;General (Cavalry x1);grey/blue;HQ Cavalry;1800 CSA (Confederate);Horse;Fairline
+CW278;Partisan Rangers Cavalry (x1) + Rifle;butternut;Cavalry (scout);1800 CSA (Confederate) / Texas;Horse;Fairline
+CW285;General 1840 (Cavalry x1);blue;HQ Cavalry;1800 USA;Horse;Fairline
+CW292;Sappers 1840 (Bridging Infantry x2);blue;Bridging Infantry;1800 USA;;Fairline
+CW296;Standard-bearers 1840 (HQ Command Infantry x2) + Flag;blue;HQ Infantry;1800 USA;;Fairline
+CW319;Firing Line Infantry 1840 (x2) + Forage Jacket;blue;Regular Infantry;1800 USA;;Fairline
+EQERR;Generic Equipment Error Warning;red;Non-combatant;;;
+HC001;Rumeli Sipahi 1826 (Cavalry x1);red;Cavalry (lancer);1800 Turkey;Horse;Fairline
+JC625;Wooden Square Bunker;brown;Fortification;1700/1800 All Nations;Bunker;Fairline
+JC626;Wooden Square Bunker;winter;Fortification;1700/1800 All Nations;Bunker;Fairline
+JC629;Fortified Wooden Blockhouse;brown;Fortification;1700/1800 All Nations;Building;Fairline
+JC630;Fortified Wooden Blockhouse;winter;Fortification;1700/1800 All Nations;Building;Fairline
+JKJ82;Supply Dump;olive;Fortification / Terrain layer;Antique/1700/1800/WW1/WW2/Cold War/2000 All Nations;Tent Camp;Juankar
+LNW01;12 pdr Feldkanone (Foot Artillery) + Crew (x2) 1800 (mod. NW025);brown/yellow;Towed Arty;1800 Austria;;Fairline
+LNW02;4 pdr Canon (Foot Artillery) + Crew (x2) 1810 (mod. NW239);blue/green;Towed Arty;1800 France;;Fairline
+LNW03;6 pdr Feldkanone (Foot Artillery) + Crew (x2) 1800 (mod. NW037);brown/yellow;Towed Arty;1800 Austria;;Fairline
+LNW04;6 pdr Berittene Artillerie (Horse Artillery) + Crew (x2) 1800 (mod. LV003);brown/yellow;Towed Arty (horse);1800 Austria;;Fairline
+LNW05;Jäger 1810 (Mountain Infantry x2);grey;Mountain Infantry;1800 Austria;;Fairline
+LNW06;Jäger 1800 (Mountain Infantry x2);grey;Mountain Infantry;1800 Austria;;Fairline
+LNW07;Jäger 1790 (Mountain Infantry x2);grey;Mountain Infantry;1700/1800 Austria;;Fairline
+LNW08;Uhlanen 1840 (Light Cavalry x1) (mod. NW021);green/red;Cavalry (lancer);1800 Austria;Horse;Fairline
+LNW09;Chevaulegers 1840 (Light Cavalry x1) (mod. CW163 / NW018);white;Cavalry (chevau-léger);1800 Austria;Horse;Fairline
+LNW10;Congreve Rocket + Crew (x2) 1840 (mod. NW106);brown/white;Towed Arty (missile);1800 Austria;;Fairline
+LNW11;Horse Cart (x2) (mod. NW054);green;TPT Animal Carriage;1700/1800 All Nations;Wagon;Fairline
+LNW12;4 pdr Foot Artillery + Crew (x2) 1800;blue/grey;Towed Arty;1800 UK (United Kingdom / Great Britain) / Canada;;Fairline
+LNW13;6 pdr Horse Artillery + Crew (x2) 1800 (mod. NW123);blue/grey;Towed Arty (horse);1800 UK (United Kingdom / Great Britain) / Canada;;Fairline
+LNW14;9 pdr Foot Artillery + Crew (x2) 1800;blue/grey;Towed Arty;1800 UK (United Kingdom / Great Britain) / Canada;;Fairline
+LNW15;Yegerya 1810 (Mountain Infantry x2) (mod. NW511);green;Mountain Infantry;1800 Russia;;Fairline
+LNW16;6 pdr Konnaya Artilleriya (Horse Artillery) + Crew (x2) 1800;green/white;Towed Arty (horse);1800 Russia;;Fairline
+LNW17;Horse Cart (x2) (mod. NW054);blue;TPT Animal Carriage;1700/1800 All Nations;Wagon;Fairline
+LNW18;Kirasiry 1810 (Cavalry x2) (mod. NW533 / NW535);white/green;Cavalry (cuirassier);1800 Russia;Horse;Fairline
+LNW19;Kazaki 1840 (Cavalry x1) (mod. CW163 / NW537);green/blue;Cavalry (chevau-léger);1800 Russia;Horse;Fairline
+LNW20;8 pdr Pushka (Foot Artillery) + Crew (x2) 1800;green/white;Towed Arty;1800 Russia;;Fairline
+LNW21;4 pdr Pushka (Foot Artillery) + Crew (x2) 1800;green/white;Towed Arty;1800 Russia;;Fairline
+LNW22;Tüzelõ Sorkatona 1848 (Firing Line Infantry x2) (mod. CW129);red/blue;Regular Infantry;1800 Hungary;;Fairline
+LNW23;Nemzetõr 1848 (Militia Infantry x2) (mod. NW600);black;Militia Infantry;1800 Hungary;;Fairline
+LNW24;Honvéd 1848 (Light Infantry x2) (mod. NW314);brown/red;Regular Infantry;1800 Hungary;;Fairline
+LNW25;Vörössipkás 1848 (Elite Infantry x2) (mod. NW136);blue/red;Elite Infantry;1800 Hungary;;Fairline
+LNW26;Sorkatona 1848 (Line Infantry x2) (mod. NW354);blue;Regular Infantry;1800 Hungary;;Fairline
+LNW27;Székely Határõr 1848 (Mountain Infantry x2) (mod. NW269 / NW304);blue;Mountain Infantry;1800 Hungary;;Fairline
+LNW28;Árkász 1848 (Bridging Infantry x2) (mod. NW408);blue;Bridging Infantry;1800 Hungary;;Fairline
+LNW29;Parancsnokság 1848 (HQ Command Infantry x2) + Flag (mod. NW161 / NW166);red/white;HQ Infantry;1800 Hungary;;Fairline
+LNW30;Dragonyos 1848 (Cavalry x2) (mod. NW623 / NW624);blue;Cavalry (dragoon);1800 Hungary;Horse;Fairline
+LNW31;Vértes 1848 (Cavalry x2) (mod. NW084);blue/green;Cavalry (cuirassier);1800 Hungary;Horse;Fairline
+LNW32;Lovas Nemzetõr 1848 (Light Cavalry x1) (mod. NW602);black;Cavalry (scout);1800 Hungary;Horse;Fairline
+LNW33;Huszár 1848 (Light Cavalry x1) (mod. CW163);blue/red;Cavalry (hussar);1800 Hungary;Horse;Fairline
+LNW34;Lengyel Légió (Legiony Polskie) Ulánus 1848 (Cavalry x1) (mod. NW538);red/blue;Cavalry (lancer);1800 Hungary;Horse;Fairline
+LNW35;Horse Cart - Small (x2);sand;TPT Animal Carriage;1700/1800 All Nations;Wagon;Fairline
+LNW36;Horse Cart - Small (x2) (mod. LV040);blue;TPT Animal Carriage;1700/1800 All Nations;Wagon;Fairline
+LNW37;Horse Cart - Small (x2) (mod. LV040);green;TPT Animal Carriage;1700/1800 All Nations;Wagon;Fairline
+LNW38;12 inch (305 mm) Siege Mortar / Fort Defense Artillery (mod. CW245);grey/brown;Towed Arty / Fortification;1800 All Nations;;Fairline
+LNW39;4 pdr Feldkanone (Foot Artillery) + Crew (x2) 1800;brown/yellow;Towed Arty;1800 Austria;;Fairline
+LNW40;8 pdr Feldkanone (Foot Artillery) + Crew (x2) 1800;brown/yellow;Towed Arty;1800 Austria;;Fairline
+LNW41;Pontoon Bridge (mod. JC810);sand/green;Terrain layer;1800/WW1/WW2 All Nations;;Default
+LNW42;Dragoni 1840 (Cavalry x2) (mod. NW083);blue/green;Cavalry (dragoon);1800 Italy Sardinia-Piedmont;Horse;Fairline
+LNW43;Fanteria di Linea 1840 (Moving Line Infantry x2) (mod. NW604);blue/green;Regular Infantry;1800 Italy Sardinia-Piedmont;;Fairline
+LNW44;Genio Zappatori 1840 (Bridging Infantry x2) (mod. NW605 / NW548);green/light blue;Bridging Infantry;1800 Italy Sardinia-Piedmont;;Fairline
+LNW45;Bersaglieri 1840 (Mountain Infantry x2) (mod. NW605 / LV018);green;Mountain Infantry;1800 Italy Sardinia-Piedmont;;Fairline
+LNW46;Stati Maggiori 1840 (HQ Command Infantry x2) + Flag (mod. NW577 / NW604);green/white;HQ Infantry;1800 Italy Sardinia-Piedmont;;Fairline
+LNW47;Granatieri 1840 (Elite Infantry x2) (mod. NW606 / LV048);blue/green;Elite Infantry;1800 Italy Sardinia-Piedmont;;Fairline
+LNW48;Horse Cart - Small (x2) (mod. LV040);olive;TPT Animal Carriage;1700/1800 All Nations;Wagon;Fairline
+LNW49;Steam Locomotive (0/6/0) without tender (mod. JRM4C);panzergrau/red;TPT (train);1800/WW1/WW2 All Nations;Train;Default
+LNW50;Steam Locomotive (0/6/0) without tender (mod. JRM4C);panzergrau/grey;TPT (train);1800/WW1/WW2 All Nations;Train;Default
+LNW51;Steam Locomotive (0/6/0) without tender (mod. JRM4C);panzergrau/yellow;TPT (train);1800/WW1/WW2 All Nations;Train;Default
+LNW52;Steam Locomotive (0/6/0) without tender (mod. JRM4C);panzergrau/blue;TPT (train);1800/WW1/WW2 All Nations;Train;Default
+LNW53;Steam Locomotive (0/6/0) without tender (mod. JRM4C);green;TPT (train);1800/WW1/WW2 All Nations;Train;Default
+LNW54;Steam Locomotive (0/6/0) without tender (mod. JRM4C);green/red;TPT (train);1800/WW1/WW2 All Nations;Train;Default
+LNW55;Steam Locomotive (0/6/0) without tender (mod. JRM4C);green/grey;TPT (train);1800/WW1/WW2 All Nations;Train;Default
+LNW56;Steam Locomotive (0/6/0) without tender (mod. JRM4C);green/orange;TPT (train);1800/WW1/WW2 All Nations;Train;Default
+LNW57;Steam Locomotive (0/6/0) without tender (mod. JRM4C);green/blue;TPT (train);1800/WW1/WW2 All Nations;Train;Default
+LNW58;Steam Locomotive (0/6/0) without tender (mod. JRM4C);sand/red;TPT (train);1800/WW1/WW2 All Nations;Train;Default
+LNW59;Steam Locomotive (0/6/0) without tender (mod. JRM4C);sand/grey;TPT (train);1800/WW1/WW2 All Nations;Train;Default
+LNW60;Steam Locomotive (0/6/0) without tender (mod. JRM4C);sand/orange;TPT (train);1800/WW1/WW2 All Nations;Train;Default
+LNW61;Steam Locomotive (0/6/0) without tender (mod. JRM4C);sand/blue;TPT (train);1800/WW1/WW2 All Nations;Train;Default
+LNW62;Steam Locomotive (0/6/0) without tender (mod. JRM4C);brown/red;TPT (train);1800/WW1/WW2 All Nations;Train;Default
+LNW63;Steam Locomotive (0/6/0) without tender (mod. JRM4C);brown/grey;TPT (train);1800/WW1/WW2 All Nations;Train;Default
+LNW64;Steam Locomotive (0/6/0) without tender (mod. JRM4C);brown/blue;TPT (train);1800/WW1/WW2 All Nations;Train;Default
+LNW65;Horse Cart (x2) (mod. NW054);brown;TPT Animal Carriage;1700/1800 All Nations;Wagon;Fairline
+LNW66;Sappers 1810 (Bridging Infantry x2) (mod. NW136);blue/grey;Bridging Infantry;1800 UK (United Kingdom / Great Britain);;Fairline
+LNW67;Horse Cart - Small (x2) (mod. LV040);brown;TPT Animal Carriage;1700/1800 All Nations;Wagon;Fairline
+LNW68;6 pdr Horse Artillery + Crew (x2) 1790 (mod. LV016 / NW128);blue/white;Towed Arty (horse);1700/1800 USA;;Fairline
+LNW69;9 pdr Foot Artillery + Crew (x2) 1790 (mod. LV017);blue/white;Towed Arty;1700/1800 USA;;Fairline
+LNW70;6 pdr Berittene Artillerie (Horse Artillery) + Crew (x2) 1790 (mod. LV004 / NW037);brown/yellow;Towed Arty (horse);1700 Austria;;Fairline
+LNW71;8 pdr Feldkanone (Foot Artillery) + Crew (x2) 1790 (mod. LV045);brown/yellow;Towed Arty;1700 Austria;;Fairline
+LNW72;4 pdr Feldkanone (Foot Artillery) + Crew (x2) 1790 (mod. LV044);brown/yellow;Towed Arty;1700 Austria;;Fairline
+LNW73;6 pdr Konnaya Artilleriya (Horse Artillery) + Crew (x2) 1790 (mod. LV019);green/white;Towed Arty (horse);1700/1800 Russia;;Fairline
+LNW74;8 pdr Pushka (Foot Artillery) + Crew (x2) 1790 (mod. LV025);green/white;Towed Arty;1700/1800 Russia;;Fairline
+LNW75;4 pdr Pushka (Foot Artillery) + Crew (x2) 1790 (mod. LV026);green/white;Towed Arty;1700/1800 Russia;;Fairline
+LNW76;Horse Cart (x2) (mod. NW054);grey;TPT Animal Carriage;1700/1800 All Nations;Wagon;Fairline
+LNW77;Horse Cart (x2) (mod. NW054);olive;TPT Animal Carriage;1700/1800 All Nations;Wagon;Fairline
+LNW78;Horse Cart - Small (x2) (mod. LV040);grey;TPT Animal Carriage;1700/1800 All Nations;Wagon;Fairline
+LNW79;Mesterlövész 1848 (Sniper Infantry x1) (mod. LV032);blue;Sniper Infantry;1800 Hungary;;Fairline
+LNW80;Tiratori Scelti 1840 (Sniper Infantry x1) (mod. LV050);green;Sniper Infantry;1800 Italy Sardinia-Piedmont;;Fairline
+LNW81;Fanteria di Linea 1840 (Firing Line Infantry x2) (mod. LV048);blue/green;Regular Infantry;1800 Italy Sardinia-Piedmont;;Fairline
+LNW82;Drydock;brown;Fortification (coastal);1700/1800 All Nations;Building;Fairline
+LNW83;Palisade;brown;Fortification;Antique/1700/1800 All Nations;;Fairline
+NW001;Firing Line Infantry 1770 (x2);blue/white;Regular Infantry;1700 USA;;Fairline
+NW002;Continental Army 1770 (Moving Elite Infantry x2);brown/yellow;Elite Infantry;1700 USA;;Fairline
+NW003;Dragoons 1770 (Cavalry x2);sand/green;Cavalry (dragoon);1700 USA;Horse;Fairline
+NW004;Grenadiere 1800 (Elite Infantry x2);white/red;Elite Infantry;1800 Austria;;Fairline
+NW005;Hungarian Grenadiere / Gránátos 1790 (Elite Infantry x2);white/blue;Elite Infantry;1700/1800 Austria;;Fairline
+NW006;Light Dragoon 1770 (Cavalry x1);white/blue/yellow;Cavalry (chevau-léger);1700 USA;Horse;Fairline
+NW007;Dragoner 1790 (Cavalry x2);red/blue/yellow;Cavalry (dragoon);1700/1800 Denmark;Horse;Fairline
+NW008;Continental Army 1780 (Elite Infantry x2);blue/white;Elite Infantry;1700 USA;;Fairline
+NW009;Sappeure 1810 (Bridging Infantry x2);grey/white;Bridging Infantry;1800 Austria;;Fairline
+NW010;Sappeure 1800 (Bridging Infantry x2);grey/white;Bridging Infantry;1800 Austria;;Fairline
+NW011;Füsiliere 1800 (Moving Line Infantry x2);white/red;Regular Infantry;1800 Austria;;Fairline
+NW012;Füsiliere 1800 (Firing Line Infantry x2);white/red;Regular Infantry;1800 Austria;;Fairline
+NW013;Rifles 1770 (Sniper Infantry x1);grey;Sniper Infantry;1700 USA;;Fairline
+NW014;Hungarian Füsiliere / Lövész 1810 (Moving Line Infantry x2);white/blue;Regular Infantry;1800 Austria;;Fairline
+NW015;8 pdr Foot Artillery + Crew (x2) 1770;brown/white/blue;Towed Arty;1700 USA;;Fairline
+NW016;Kürassiere 1790 (Cavalry x2);white/black;Cavalry (cuirassier);1700/1800 Austria;Horse;Fairline
+NW017;Dragoner 1790 (Cavalry x2);green/white;Cavalry (dragoon);1700/1800 Austria;Horse;Fairline
+NW018;Kürassiere 1800 (Cavalry x2);white/black;Cavalry (cuirassier);1800 Austria;Horse;Fairline
+NW019;Dragoner 1800 (Cavalry x2);green/white;Cavalry (dragoon);1800 Austria;Horse;Fairline
+NW020;Uhlanen 1790 (Light Cavalry x1);green/red;Cavalry (lancer);1700/1800 Austria;Horse;Fairline
+NW021;Uhlanen 1800 (Light Cavalry x1);green/red;Cavalry (lancer);1800 Austria;Horse;Fairline
+NW022;Husaren 1790 (Light Cavalry x1);green/red;Cavalry (hussar);1700/1800 Austria;Horse;Fairline
+NW023;Husaren 1800 (Light Cavalry x1);green/red;Cavalry (hussar);1800 Austria;Horse;Fairline
+NW024;Dragoner 1760 (Cavalry x2);red;Cavalry (dragoon);1700 Germany Bavaria;Horse;Fairline
+NW025;12 pdr Feldkanone (Foot Artillery) + Crew (x2) 1790;brown/yellow;Towed Arty;1700 Austria;;Fairline
+NW026;Füsiliere 1760 (Moving Line Infantry x2);blue/white;Regular Infantry;1700 Germany Bavaria;;Fairline
+NW027;6 inch (152 mm) Haubitze (Howitzer Foot Artillery) + Crew (x2) 1800;brown/yellow;Towed Arty;1800 Austria;;Fairline
+NW028;Landwehr 1800 (Militia Infantry x2);grey;Militia Infantry;1800 Austria;;Fairline
+NW029;Scottish Highlanders 1760 (Mountain Infantry x2);red/green;Mountain Infantry;1700 UK (United Kingdom / Great Britain);;Fairline
+NW030;8 pdr Foot Artillery + Crew (x2) 1760;blue;Towed Arty;1700 UK (United Kingdom / Great Britain);;Fairline
+NW031;Grenadiers 1760 (Elite Infantry x2);red/blue;Elite Infantry;1700 UK (United Kingdom / Great Britain);;Fairline
+NW032;Moving Line Infantry 1760 (x2);red;Regular Infantry;1700 UK (United Kingdom / Great Britain);;Fairline
+NW033;General 1790 (Cavalry x1);white/red;HQ Cavalry;1700/1800 Austria;Horse;Fairline
+NW034;Grenadiere 1790 (Elite Infantry x2);white/red;Elite Infantry;1700/1800 Austria;;Fairline
+NW035;Füsiliere 1790 (Moving Line Infantry x2);white/red;Regular Infantry;1700/1800 Austria;;Fairline
+NW036;Hungarian Füsiliere / Lövész 1790 (Moving Line Infantry x2);white/blue;Regular Infantry;1700/1800 Austria;;Fairline
+NW037;6 pdr Feldkanone (Foot Artillery) + Crew (x2) 1790;brown/yellow;Towed Arty;1700 Austria;;Fairline
+NW038;Kyrasserer 1760 (Cavalry x2);red/yellow;Cavalry (cuirassier);1700 Denmark;Horse;Fairline
+NW039;Dragoner 1760 (Cavalry x2);white/red;Cavalry (dragoon);1700 Denmark;Horse;Fairline
+NW040;12 inch (305 mm) Belagerungsmörser (Siege Mortar) + Crew (x1) 1800;brown/white;Towed Arty;1800 Austria;;Fairline
+NW041;12 pdr Foot Artillery + Crew (x2) 1770;brown/white/blue;Towed Arty;1700 USA;;Fairline
+NW042;Füsiliere 1810 (Moving Line Infantry x2);white/red;Regular Infantry;1800 Austria;;Fairline
+NW043;Füsiliere 1810 (Firing Line Infantry x2);white/red;Regular Infantry;1800 Austria;;Fairline
+NW044;Füsiliere 1790 (Firing Line Infantry x2);white/red;Regular Infantry;1700/1800 Austria;;Fairline
+NW045;12 pdr Foot Artillery + Crew (x2) 1760;blue;Towed Arty;1700 UK (United Kingdom / Great Britain);;Fairline
+NW046;4 pdr Kanon (Foot Artillery) + Crew (x2) 1760;blue/yellow;Towed Arty;1700 Sweden;;Fairline
+NW047;12 pdr Kanon (Foot Artillery) + Crew (x2) 1760;blue/yellow;Towed Arty;1700 Sweden;;Fairline
+NW048;Dragoner 1760 (Cavalry x2);white/red;Cavalry (dragoon);1700 Germany Hanover;Horse;Fairline
+NW049;6 inch (152 mm) Haubitze (Howitzer Foot Artillery) + Crew (x2) 1790;brown/yellow;Towed Arty;1700 Austria;;Fairline
+NW050;Grenadiere 1760 (Elite Infantry x2);red/green;Elite Infantry;1700 Germany Hanover;;Fairline
+NW051;Garde zu Pferde 1760 (Light Cavalry x1);red/yellow;Cavalry (chevau-léger);1700 Germany Hanover;Horse;Fairline
+NW052;12 inch (305 mm) Belagerungsmörser (Siege Mortar) + Crew (x1) 1790;brown/white;Towed Arty;1700 Austria;;Fairline
+NW053;Stabseinheit / Feldkommando 1790 (HQ Command Infantry x2) + Flag;black/white;HQ Infantry;1700/1800 Austria;;Fairline
+NW054;Horse Cart (x2);sand;TPT Animal Carriage;1700/1800 All Nations;Wagon;Fairline
+NW055;Wooden Observation Tower;brown;Fortification (observe);1700/1800 All Nations;;Fairline
+NW056;Wooden Observation Tower;winter;Fortification (observe);1700/1800 All Nations;;Fairline
+NW057;Hungarian Füsiliere / Lövész 1800 (Moving Line Infantry x2);white/blue;Regular Infantry;1800 Austria;;Fairline
+NW058;Castle;sand;Fortification;1700/1800 All Nations;Fort;Fairline
+NW059;Stone Star Fort;sand;Fortification;1700/1800 All Nations;Fort;Fairline
+NW060;Stone Star Fortress;sand;Fortification;1700/1800 All Nations;Fort;Fairline
+NW061;Sloop-of-War / Corvette;brown;Sailing Frigate;1700/1800 All Nations;;Fairline
+NW062;Butler`s Rangers 1770 (Light Infantry x2);green/sand;Regular Infantry;1700 UK (United Kingdom / Great Britain);;Fairline
+NW063;Sappeure 1790 (Bridging Infantry x2);blue;Bridging Infantry;1700/1800 Austria;;Fairline
+NW064;Tory Militia Infantry 1770 (x2);green/white;Militia Infantry;1700 UK (United Kingdom / Great Britain);;Fairline
+NW065;Mounted Rangers 1770 (Cavalry x1);brown/white;Cavalry (scout);1700 USA;Horse;Fairline
+NW066;12 inch (305 mm) Mortier de Siège (Siege Mortar) + Crew (x1) 1760;blue/brown;Towed Arty;1700 France;;Fairline
+NW067;12 inch (305 mm) Siege Mortar + Crew (x1) 1780;blue/white/brown;Towed Arty;1700 UK (United Kingdom / Great Britain);;Fairline
+NW068;Dragoons 1780 (Cavalry x2);blue/white/yellow;Cavalry (dragoon);1700 USA;Horse;Fairline
+NW069;6 inch (152 mm) Howitzer Foot Artillery + Crew (x2) 1780;blue/white;Towed Arty;1700 UK (United Kingdom / Great Britain);;Fairline
+NW070;Füsiliere 1790 (Moving Line Infantry x2);blue/red/white;Regular Infantry;1700/1800 Germany Bavaria;;Fairline
+NW071;Scharfschützen 1790 (Sniper Infantry x1);green/grey;Sniper Infantry;1700/1800 Germany Bavaria;;Fairline
+NW072;Kürassiere 1790 (Cavalry x2);blue/grey/white;Cavalry (cuirassier);1700/1800 Germany Bavaria;Horse;Fairline
+NW073;Dragoner 1790 (Cavalry x2);white/red;Cavalry (dragoon);1700/1800 Germany Bavaria;Horse;Fairline
+NW074;Chevaulegers 1790 (Light Cavalry x1);green/red;Cavalry (chevau-léger);1700/1800 Germany Bavaria;Horse;Fairline
+NW075;4 pdr Feldkanone (Foot Artillery) + Crew (x2) 1790;blue;Towed Arty;1700/1800 Germany Bavaria;;Fairline
+NW076;6 pdr Feldkanone (Foot Artillery) + Crew (x2) 1790;blue;Towed Arty;1700/1800 Germany Bavaria;;Fairline
+NW077;8 pdr Feldkanone (Foot Artillery) + Crew (x2) 1790;blue;Towed Arty;1700/1800 Germany Bavaria;;Fairline
+NW078;12 pdr Feldkanone (Foot Artillery) + Crew (x2) 1790;blue;Towed Arty;1700/1800 Germany Bavaria;;Fairline
+NW079;6 pdr Berittene Artillerie (Horse Artillery) + Crew (x2) 1790;blue;Towed Arty (horse);1700/1800 Germany Bavaria;;Fairline
+NW080;Füsiliere 1790 (Line Infantry x2);blue/red/white;Regular Infantry;1700/1800 Germany Baden;;Fairline
+NW081;Scharfschützen 1790 (Sniper Infantry x1);green/grey;Sniper Infantry;1700/1800 Germany Baden;;Fairline
+NW082;Kürassiere 1790 (Cavalry x2);white;Cavalry (cuirassier);1700/1800 Germany Baden;Horse;Fairline
+NW083;Dragoner 1790 (Cavalry x2);blue/red;Cavalry (dragoon);1700/1800 Germany Baden;Horse;Fairline
+NW084;Husaren 1790 (Light Cavalry x1);green/red;Cavalry (hussar);1700/1800 Germany Baden;Horse;Fairline
+NW085;Mushketyory 1760 (Light Infantry x2);green/red;Regular Infantry;1700 Russia;;Fairline
+NW086;Füsiliere 1810 (Line Infantry x2);green;Regular Infantry;1800 Germany Nassau;;Fairline
+NW087;Grenadiere 1810 (Elite Infantry x2);green;Elite Infantry;1800 Germany Nassau;;Fairline
+NW088;Füsiliere 1790 (Moving Line Infantry x2);white/blue;Regular Infantry;1700/1800 Germany Westphalia;;Fairline
+NW089;Scharfschützen 1790 (Sniper Infantry x1);green;Sniper Infantry;1700/1800 Germany Westphalia;;Fairline
+NW090;Scharfschützen 1790 (Sniper Infantry x1);green/grey;Sniper Infantry;1700/1800 Germany Saxony;;Fairline
+NW091;Kürassiere 1790 (Cavalry x2);white/black;Cavalry (cuirassier);1700/1800 Germany Westphalia;Horse;Fairline
+NW092;Kürassiere 1790 (Cavalry x2);white/black;Cavalry (cuirassier);1700/1800 Germany Saxony;Horse;Fairline
+NW093;Chevaulegers 1790 (Light Cavalry x1);green;Cavalry (chevau-léger);1700/1800 Germany Westphalia;Horse;Fairline
+NW094;Chevaulegers 1790 (Light Cavalry x1);red/green/white;Cavalry (chevau-léger);1700/1800 Germany Saxony;Horse;Fairline
+NW095;Husaren 1790 (Light Cavalry x1);green;Cavalry (hussar);1700/1800 Germany Westphalia;Horse;Fairline
+NW096;Husaren 1790 (Light Cavalry x1);blue;Cavalry (hussar);1700/1800 Germany Saxony;Horse;Fairline
+NW097;12 pdr Canon (Foot Artillery) + Crew (x2) 1760;blue/green;Towed Arty;1700 France;;Fairline
+NW098;4 pdr Canon (Foot Artillery) + Crew (x2) 1760;blue/green;Towed Arty;1700 France;;Fairline
+NW099;6 pdr Foot Artillery + Crew (x2) 1780;blue/white;Towed Arty;1700 UK (United Kingdom / Great Britain);;Fairline
+NW100;6 pdr Foot Artillery + Crew (x2) 1770;brown/white/blue;Towed Arty;1700 USA;;Fairline
+NW101;Light Dragoon 1780 (Cavalry x1);blue/white/yellow;Cavalry (chevau-léger);1700 USA;Horse;Fairline
+NW102;General 1760 (Cavalry x1);blue/red;HQ Cavalry;1700 Germany Prussia;Horse;Fairline
+NW103;General 1760 (Cavalry x1);green/yellow/red;HQ Cavalry;1700 Russia;Horse;Fairline
+NW104;George Washington / General 1770 (Cavalry x1);blue/yellow;HQ Cavalry;1700 USA;Horse;Fairline
+NW105;Sir Henry Clinton / General 1760 (Cavalry x1);red/white;HQ Cavalry;1700 UK (United Kingdom / Great Britain);Horse;Fairline
+NW106;Congreve Rocket + Crew (x2) 1810;blue/grey;Towed Arty (missile);1800 UK (United Kingdom / Great Britain);;Fairline
+NW107;General 1790 (Cavalry x1);blue/yellow;HQ Cavalry;1700/1800 Sweden;Horse;Fairline
+NW108;Light Dragoon 1760 (Cavalry x1);red/white;Cavalry (chevau-léger);1700 UK (United Kingdom / Great Britain);Horse;Fairline
+NW109;Füsiliere 1760 (Moving Line Infantry x2);white/red;Regular Infantry;1700 Austria;;Fairline
+NW110;British Legion Light Dragoon 1770 (Cavalry x1);green/white;Cavalry (chevau-léger);1700 UK (United Kingdom / Great Britain);Horse;Fairline
+NW111;Queen`s Rangers (Light Cavalry x1);;Cavalry (chevau-léger);1700 UK (United Kingdom / Great Britain);Horse;Fairline
+NW112;Hungarian Füsiliere / Lövész 1760 (Moving Line Infantry x2);white/red;Regular Infantry;1700 Austria;;Fairline
+NW113;4 pdr Foot Artillery + Crew (x2) 1770;brown/white/blue;Towed Arty;1700 USA;;Fairline
+NW114;Sappers 1770 (Bridging Infantry x2);blue/white;Bridging Infantry;1700 USA;;Fairline
+NW115;Fusileros 1790 (Moving Line Infantry x2);white;Regular Infantry;1700/1800 Spain;;Fairline
+NW116;Sailing Frigate;brown;Warship;1700/1800 All Nations;;Fairline
+NW117;Tiratori Scelti 1760 (Sniper Infantry x1);green/white;Sniper Infantry;1700 Italy;;Fairline
+NW118;Iroquois Scout Cavalry 1770 (x1);white/yellow;Cavalry (scout);1700 Indian Tribes;Horse;Fairline
+NW119;6 pdr Foot Artillery + Crew (x2) 1760;blue;Towed Arty;1700 UK (United Kingdom / Great Britain);;Fairline
+NW120;12 pdr Foot Artillery + Crew (x2) 1800;blue/grey;Towed Arty;1800 UK (United Kingdom / Great Britain) / Canada;;Fairline
+NW121;6 inch (152 mm) Howitzer Foot Artillery + Crew (x2) 1800;blue/grey;Towed Arty;1800 UK (United Kingdom / Great Britain) / Canada;;Fairline
+NW122;6 pdr Horse Artillery + Crew (x2) 1780;blue/white;Towed Arty (horse);1700 UK (United Kingdom / Great Britain);;Fairline
+NW123;6 pdr Foot Artillery + Crew (x2) 1800;blue/grey;Towed Arty;1800 UK (United Kingdom / Great Britain) / Canada;;Fairline
+NW124;4 pdr Foot Artillery + Crew (x2) 1760;blue;Towed Arty;1700 UK (United Kingdom / Great Britain);;Fairline
+NW125;Husaren 1760 (Light Cavalry x1);green/red;Cavalry (hussar);1700 Germany Hanover;Horse;Fairline
+NW126;12 inch (305 mm) Siege Mortar + Crew (x1) 1800;blue/grey/brown;Towed Arty;1800 UK (United Kingdom / Great Britain) / Canada;;Fairline
+NW127;4 pdr Foot Artillery + Crew (x2) 1790;blue/white;Towed Arty;1700/1800 USA;;Fairline
+NW128;6 pdr Foot Artillery + Crew (x2) 1790;blue/white;Towed Arty;1700/1800 USA;;Fairline
+NW129;4 pdr Foot Artillery + Crew (x2) 1780;blue/white;Towed Arty;1700 UK (United Kingdom / Great Britain);;Fairline
+NW130;12 pdr Foot Artillery + Crew (x2) 1790;blue/white;Towed Arty;1700/1800 USA;;Fairline
+NW131;6 inch (152 mm) Howitzer Foot Artillery + Crew (x2) 1790;blue/white;Towed Arty;1700/1800 USA;;Fairline
+NW132;12 inch (305 mm) Siege Mortar + Crew (x1) 1790;blue/white/brown;Towed Arty;1700/1800 USA;;Fairline
+NW133;Camel Pack (x1);brown/blue;TPT Animal Pack;1700/1800 All Nations;Camel;Fairline
+NW134;Iroquois Rifles 1770 (Line Infantry x2);red/blue;Regular Infantry;1700 Indian Tribes;;Fairline
+NW135;Royal Marines 1760 (Naval Infantry x2);red/white;Naval Infantry;1700 UK (United Kingdom / Great Britain);;Fairline
+NW136;Sappers 1800 (Bridging Infantry x2) (mod. NW180);blue/white;Bridging Infantry;1800 UK (United Kingdom / Great Britain);;Fairline
+NW137;Grenadiers 1810 (Elite Infantry x2);red/grey;Elite Infantry;1800 UK (United Kingdom / Great Britain);;Fairline
+NW138;Moving Line Infantry 1790 (x2);red/white;Regular Infantry;1700/1800 UK (United Kingdom / Great Britain);;Fairline
+NW139;Moving Line Infantry 1800 (x2);red/white;Regular Infantry;1800 UK (United Kingdom / Great Britain);;Fairline
+NW140;Moving Line Infantry 1810 (x2);red/grey;Regular Infantry;1800 UK (United Kingdom / Great Britain);;Fairline
+NW141;Firing Line Infantry 1810 (x2);red/grey;Regular Infantry;1800 UK (United Kingdom / Great Britain);;Fairline
+NW142;Light Infantry 1800 (x2);red/white;Regular Infantry;1800 UK (United Kingdom / Great Britain);;Fairline
+NW143;Moving Line Infantry 1790 (x2);red/white;Regular Infantry;1700 UK (United Kingdom / Great Britain);;Fairline
+NW144;Rifles 1800 (Sniper Infantry x1);green/grey;Sniper Infantry;1800 UK (United Kingdom / Great Britain);;Fairline
+NW145;Scottish Highlanders 1790 (Mountain Infantry x2);red/green;Mountain Infantry;1700/1800 UK (United Kingdom / Great Britain);;Fairline
+NW146;Royal Scots Greys 1790 (Cavalry x2);red/grey;Cavalry (dragoon);1700/1800 UK (United Kingdom / Great Britain);Horse;Fairline
+NW147;Life Guards Dragoons 1790 (Cavalry x2);red/blue/white;Cavalry (dragoon);1700/1800 UK (United Kingdom / Great Britain);Horse;Fairline
+NW148;Royal Horse Guards 1790 (Cavalry x2);blue/white;Cavalry (cuirassier);1700/1800 UK (United Kingdom / Great Britain);Horse;Fairline
+NW149;Life Guards Dragoons 1810 (Cavalry x2);red/grey;Cavalry (dragoon);1800 UK (United Kingdom / Great Britain);Horse;Fairline
+NW150;Royal Horse Guards 1810 (Cavalry x2);blue/grey;Cavalry (cuirassier);1800 UK (United Kingdom / Great Britain);Horse;Fairline
+NW151;Dragoons 1790 (Cavalry x2);red/white;Cavalry (dragoon);1700/1800 UK (United Kingdom / Great Britain);Horse;Fairline
+NW152;Dragoons 1810 (Cavalry x2);red/grey;Cavalry (dragoon);1800 UK (United Kingdom / Great Britain);Horse;Fairline
+NW153;Hussars 1790 (Light Cavalry x1);blue/white;Cavalry (hussar);1700/1800 UK (United Kingdom / Great Britain);Horse;Fairline
+NW154;Light Dragoon 1790 (Cavalry x1);blue/white;Cavalry (chevau-léger);1700/1800 UK (United Kingdom / Great Britain);Horse;Fairline
+NW155;Light Dragoon 1810 (Cavalry x1);blue/yellow/grey;Cavalry (chevau-léger);1800 UK (United Kingdom / Great Britain);Horse;Fairline
+NW156;Arthur Wellesley - Duke of Wellington / Field Marshal 1790 (Cavalry x1);blue/grey;HQ Cavalry;1700/1800 UK (United Kingdom / Great Britain);Horse;Fairline
+NW157;Grenadiere 1760 (Elite Infantry x2);white/red;Elite Infantry;1700 Austria;;Fairline
+NW158;Scharfschützen 1790 (Sniper Infantry x1);grey;Sniper Infantry;1700/1800 Austria;;Fairline
+NW159;Scharfschützen 1800 (Sniper Infantry x1);grey;Sniper Infantry;1800 Austria;;Fairline
+NW160;General 1790 (Cavalry x1);red/white;HQ Cavalry;1700/1800 UK (United Kingdom / Great Britain);Horse;Fairline
+NW161;Tory Militia Infantry 1780 (x2);red/white;Militia Infantry;1700/1800 UK (United Kingdom / Great Britain);;Fairline
+NW162;4 pdr Feldkanone (Foot Artillery) + Crew (x2) 1760;green/yellow/brown;Towed Arty;1700 Germany Saxony;;Fairline
+NW163;Royal Marines 1790 (Naval Infantry x2);red/white;Naval Infantry;1700/1800 UK (United Kingdom / Great Britain);;Fairline
+NW164;Rifles 1790 (Sniper Infantry x1);green;Sniper Infantry;1700/1800 UK (United Kingdom / Great Britain);;Fairline
+NW165;12 pdr Feldkanone (Foot Artillery) + Crew (x2) 1760;green/yellow/brown;Towed Arty;1700 Germany Saxony;;Fairline
+NW166;Standard-bearers 1810 (HQ Command Infantry x2) + Flag;red/white/grey;HQ Infantry;1800 UK (United Kingdom / Great Britain);;Fairline
+NW167;8 pdr Canon (Foot Artillery) + Crew (x2) 1760;blue/green;Towed Arty;1700 France;;Fairline
+NW168;Firing Line Infantry 1800 (x2);red/white;Regular Infantry;1800 UK (United Kingdom / Great Britain);;Fairline
+NW169;Firing Line Infantry 1790 (x2);red/white;Regular Infantry;1700 UK (United Kingdom / Great Britain);;Fairline
+NW170;Grenadiers 1800 (Elite Infantry x2);red/white;Elite Infantry;1800 UK (United Kingdom / Great Britain);;Fairline
+NW171;Standard-bearers 1800 (HQ Command Infantry x2) + Flag;red/white;HQ Infantry;1800 UK (United Kingdom / Great Britain);;Fairline
+NW172;12 pdr Canon (Foot Artillery) + Crew (x2) 1810;blue/green;Towed Arty;1800 France;;Fairline
+NW173;Royal Horse Guards 1760 (Cavalry x2);blue/red/yellow;Cavalry (cuirassier);1700 UK (United Kingdom / Great Britain);Horse;Fairline
+NW174;Firing Line Infantry 1790 (x2);red/white;Regular Infantry;1700/1800 UK (United Kingdom / Great Britain);;Fairline
+NW175;Grenadiers 1790 (Elite Infantry x2);red/white;Elite Infantry;1700/1800 UK (United Kingdom / Great Britain);;Fairline
+NW176;12 inch (305 mm) Mortier de Siège (Siege Mortar) + Crew (x1) 1810;blue/brown;Towed Arty;1800 France;;Fairline
+NW177;Standard-bearers 1790 (HQ Command Infantry x2) + Flag;red/white;HQ Infantry;1700/1800 UK (United Kingdom / Great Britain);;Fairline
+NW178;Royal Marines 1800 (Naval Infantry x2);;Naval Infantry;1800 UK (United Kingdom / Great Britain);;Fairline
+NW179;Congreve Rocket + Crew (x1) 1800;blue/grey;Towed Arty (missile);1800 UK (United Kingdom / Great Britain);;Fairline
+NW180;Sappers 1790 (Bridging Infantry x2);red/white/sand;Bridging Infantry;1700/1800 UK (United Kingdom / Great Britain);;Fairline
+NW181;Strzelcy Wyborowi 1807 (Sniper Infantry x1);green/blue;Sniper Infantry;1800 Poland (Ksiestwo Warszawskie);;Fairline
+NW182;4 pdr Feldkanone (Foot Artillery) + Crew (x2) 1760;grey/brown;Towed Arty;1700 Germany Bavaria;;Fairline
+NW183;Continental Army 1770 (Firing Elite Infantry x2);brown/yellow;Elite Infantry;1700 USA;;Fairline
+NW184;Moving Line Infantry 1790 (x2) - colonial dress;red/white;Regular Infantry;1700/1800 UK (United Kingdom / Great Britain);;Fairline
+NW185;Firing Line Infantry 1790 (x2) - colonial dress;red/white;Regular Infantry;1700/1800 UK (United Kingdom / Great Britain);;Fairline
+NW186;Grenadiers 1790 (Elite Infantry x2) - colonial dress;red/white;Elite Infantry;1700/1800 UK (United Kingdom / Great Britain);;Fairline
+NW187;Musketerare 1760 (Moving Light Infantry x2);blue/yellow;Regular Infantry;1700 Sweden;;Fairline
+NW188;Drabant 1760 (Light Cavalry x1);blue/yellow;Cavalry (chevau-léger);1700 Sweden;Horse;Fairline
+NW189;Iroquois Hunter 1770 (Sniper Infantry x1);blue/red;Sniper Infantry;1700 Indian Tribes;;Fairline
+NW190;Fencibles 1810 (Light Infantry x2);red/blue;Regular Infantry;1800 UK (United Kingdom / Great Britain);;Fairline
+NW191;Jäger 1800 (Mountain Infantry x2);grey;Mountain Infantry;1800 UK (United Kingdom / Great Britain) Black Brunswickers / Germany Hanover;;Fairline
+NW192;Sedentary Militia Infantry 1810 (x2);;Militia Infantry;1800 Canada;;Fairline
+NW193;Iroquois Light Infantry 1770 (x1) + Tomahawk;blue;Regular Infantry;1700 Indian Tribes;;Fairline
+NW194;Mahican Rifles 1770 (Line Infantry x2);sand;Regular Infantry;1700 Indian Tribes;;Fairline
+NW195;8 pdr Feldkanone (Foot Artillery) + Crew (x2) 1760;green/yellow/brown;Towed Arty;1700 Germany Saxony;;Fairline
+NW196;6 pdr Canonne (Foot Artillery) + Crew (x2) 1790;green/white;Towed Arty;1700/1800 Italy;;Fairline
+NW197;8 pdr Canonne (Foot Artillery) + Crew (x2) 1790;green/white;Towed Arty;1700/1800 Italy;;Fairline
+NW198;12 pdr Canonne (Foot Artillery) + Crew (x2) 1790;green/white;Towed Arty;1700/1800 Italy;;Fairline
+NW199;6 inch (152 mm) Obice (Howitzer Foot Artillery) + Crew (x2) 1790;green/white;Towed Arty;1700/1800 Italy;;Fairline
+NW200;6 pdr Canonne a Cavallo (Horse Artillery) + Crew (x2) 1790;green/white;Towed Arty (horse);1700/1800 Italy;;Fairline
+NW201;Dragons 1790 (Cavalry x2);green/white;Cavalry (dragoon);1700/1800 France;Horse;Fairline
+NW202;Fusiliers 1770 (Moving Line Infantry x2);white/blue;Regular Infantry;1700 France;;Fairline
+NW203;Gendarmerie à Pied 1800 (Militia Infantry x2);blue/white/sand;Militia Infantry;1800 France;;Fairline
+NW204;Grenadiers 1770 (Elite Infantry x2);white/blue;Elite Infantry;1700 France;;Fairline
+NW205;Chasseurs à Pied de la Garde Impériale 1812 - in Russia (Infantry x2);blue;Regular Infantry;1800 France;;Fairline
+NW206;Grenadiers 1790 (Elite Infantry x2);blue/white;Elite Infantry;1700/1800 France;;Fairline
+NW207;Hussards 1770 (Light Cavalry x1);blue/red;Cavalry (hussar);1700 France;Horse;Fairline
+NW208;Jegrzy 1807 (Mountain Infantry x2);green/blue;Mountain Infantry;1800 Poland (Ksiestwo Warszawskie);;Fairline
+NW209;12 inch (305 mm) Mortaio da Assedio (Siege Mortar) + Crew (x1) 1790;green/white/brown;Towed Arty;1700/1800 Italy;;Fairline
+NW210;4 pdr Canonne (Foot Artillery) + Crew (x2) 1790;green/white;Towed Arty;1700/1800 Italy;;Fairline
+NW211;Grenadiers 1810 (Elite Infantry x2);blue/white;Elite Infantry;1800 France;;Fairline
+NW212;8 pdr Kanon (Foot Artillery) + Crew (x2) 1760;blue/yellow;Towed Arty;1700 Sweden;;Fairline
+NW213;Cuirassiers 1810 (Cavalry x2);white/yellow;Cavalry (cuirassier);1800 France;Horse;Fairline
+NW214;Chasseurs à Cheval 1810 (Light Cavalry x1);green;Cavalry (chevau-léger);1800 France;Horse;Fairline
+NW215;Chasseurs à Cheval 1790 (Light Cavalry x1);green;Cavalry (chevau-léger);1700/1800 France;Horse;Fairline
+NW216;Grenaderer 1790 (Elite Infantry x2);red/grey;Elite Infantry;1700/1800 Denmark;;Fairline
+NW217;Fusiliers 1790 (Moving Line Infantry x2);red/grey;Regular Infantry;1700/1800 Denmark;;Fairline
+NW218;8 pdr Artyleria (Foot Artillery) + Crew (x2) 1760;red/yellow;Towed Arty;1700 Poland;;Fairline
+NW219;Finskyttens 1790 (Sniper Infantry x1);green/grey;Sniper Infantry;1700/1800 Denmark;;Fairline
+NW220;Keskin Nisanci 1760 (Sniper Infantry x1);red/blue;Sniper Infantry;1700/1800 Turkey;;Fairline
+NW221;Grenadiere 1760 (Elite Infantry x2);blue/yellow;Elite Infantry;1700 Germany Hessen-Kassel;;Fairline
+NW222;Füsiliere 1760 (Moving Line Infantry x2);blue/white/yellow;Regular Infantry;1700 Germany Hessen-Kassel;;Fairline
+NW223;Chevauleger 1790 (Light Cavalry x1);red/blue;Cavalry (chevau-léger);1700/1800 Denmark;Horse;Fairline
+NW224;12 pdr Feldkanone (Foot Artillery) + Crew (x2) 1760;grey/brown;Towed Arty;1700 Germany Bavaria;;Fairline
+NW225;Scharfschützen 1760 (Sniper Infantry x1);green/yellow;Sniper Infantry;1700 Germany Hessen-Kassel;;Fairline
+NW226;Fusiliers 1800 (Firing Line Infantry x2);blue/white;Regular Infantry;1800 France;;Fairline
+NW227;Fusiliers 1800 (Moving Line Infantry x2);blue/white;Regular Infantry;1800 France;;Fairline
+NW228;12 inch (305 mm) Belagerungsmörser (Siege Mortar) + Crew (x1) 1760;blue/white/brown;Towed Arty;1700 Germany Prussia;;Fairline
+NW229;8 pdr Canon (Foot Artillery) + Crew (x2) 1810;blue;Towed Arty;1800 France;;Fairline
+NW230;6 pdr Canon à Cheval (Horse Artillery) + Crew (x2) 1810;blue;Towed Arty (horse);1800 France;;Fairline
+NW231;12 pdr Canon (Foot Artillery) + Crew (x2) 1800;blue/green;Towed Arty;1800 France;;Fairline
+NW232;8 pdr Canon (Foot Artillery) + Crew (x2) 1800;blue/green;Towed Arty;1800 France;;Fairline
+NW233;6 inch (152 mm) Obusier (Howitzer Foot Artillery) + Crew (x2) 1800;blue/green;Towed Arty;1800 France;;Fairline
+NW234;6 inch (152 mm) Obusier (Howitzer Foot Artillery) + Crew (x2) 1810;blue/green;Towed Arty;1800 France;;Fairline
+NW235;8 pdr Feldkanone (Foot Artillery) + Crew (x2) 1760;blue/yellow/red;Towed Arty;1700 Germany Hessen-Kassel;;Fairline
+NW236;8 pdr Feldkanone (Foot Artillery) + Crew (x2) 1760;grey/brown;Towed Arty;1700 Germany Bavaria;;Fairline
+NW237;6 pdr Canon à Cheval (Horse Artillery) + Crew (x2) 1800;blue/green;Towed Arty (horse);1800 France;;Fairline
+NW238;6 pdr Canon (Foot Artillery) + Crew (x2) 1800;blue/green;Towed Arty;1800 France;;Fairline
+NW239;4 pdr Canon (Foot Artillery) + Crew (x2) 1800;blue/green;Towed Arty;1800 France;;Fairline
+NW240;Musketiere 1760 (Moving Light Infantry x2);red/white/yellow;Regular Infantry;1700 Germany Hanover;;Fairline
+NW241;12 inch (305 mm) Mortier de Siège (Siege Mortar) + Crew (x1) 1800;blue/brown;Towed Arty;1800 France;;Fairline
+NW242;6 pdr Canon (Foot Artillery) + Crew (x2) 1810;blue/green;Towed Arty;1800 France;;Fairline
+NW243;6 pdr Canon (Foot Artillery) + Crew (x2) 1790;blue/green;Towed Arty;1700/1800 France;;Fairline
+NW244;8 pdr Canon (Foot Artillery) + Crew (x2) 1790;blue/green;Towed Arty;1700/1800 France;;Fairline
+NW245;12 pdr Canon (Foot Artillery) + Crew (x2) 1790;blue/green;Towed Arty;1700/1800 France;;Fairline
+NW246;6 inch (152 mm) Obusier (Howitzer Foot Artillery) + Crew (x2) 1790;blue/green;Towed Arty;1700/1800 France;;Fairline
+NW247;6 pdr Canon à Cheval (Horse Artillery) + Crew (x2) 1790;blue/green;Towed Arty (horse);1700/1800 France;;Fairline
+NW248;Dragoner 1760 (Cavalry x2);blue/white;Cavalry (dragoon);1700 Germany Hessen-Kassel;Horse;Fairline
+NW249;12 inch (305 mm) Mortier de Siège (Siege Mortar) + Crew (x1) 1790;blue/brown;Towed Arty;1700/1800 France;;Fairline
+NW250;4 pdr Canon (Foot Artillery) + Crew (x2) 1790;blue/green;Towed Arty;1700/1800 France;;Fairline
+NW251;Grenadiers de la Garde 1790 (Elite Infantry x2);blue/white;Elite Infantry;1700/1800 France;;Fairline
+NW252;Militia Infantry (x2);white;Militia Infantry;1800 Arab Nations;;Fairline
+NW253;Troupes de Marine 1800 (Naval Infantry x2);blue;Naval Infantry;1800 France;;Fairline
+NW254;Fusiliers 1770 (Firing Line Infantry x2);white/blue;Regular Infantry;1700 France;;Fairline
+NW255;Tirailleurs de la Garde Impériale 1810 (Mountain Infantry x2);blue/white;Mountain Infantry;1800 France;;Fairline
+NW256;Flanquers 1800 (Light Infantry x2);green/white;Regular Infantry;1800 France;;Fairline
+NW257;Grenadier à Cheval de la Garde 1790 (Cavalry x1);blue/white/yellow;Cavalry (chevau-léger);1700/1800 France;Horse;Fairline
+NW258;Dragons de la Garde Impériale 1810 (Cavalry x2);green/white;Cavalry (dragoon);1800 France;Horse;Fairline
+NW259;Lanciers Polonais de la Garde Impériale 1810 (Light Cavalry x1);blue/red;Cavalry (lancer);1800 France;Horse;Fairline
+NW260;Lanciers Hollandais de la Garde Impériale 1810 (Light Cavalry x1);red/blue;Cavalry (lancer);1800 France;Horse;Fairline
+NW261;Chasseurs à Cheval de la Garde 1800 (Light Cavalry x1);green/yellow;Cavalry (chevau-léger);1800 France;Horse;Fairline
+NW262;Mamelouks de la Garde Impériale 1800 (Light Cavalry x1);blue/red;Cavalry (chevau-léger);1800 France;Horse;Fairline
+NW263;Gendarmerie à Cheval 1790 (Light Cavalry x1);blue/red/yellow;Cavalry (chevau-léger);1700/1800 France;Horse;Fairline
+NW264;Sapeurs-Mineurs de la Garde 1800 (Bridging Infantry x2);blue/white;Bridging Infantry;1800 France;;Fairline
+NW265;Troupes de Marine de la Garde Impériale 1810 (Naval Infantry x2);blue;Naval Infantry;1800 France;;Fairline
+NW266;Régiment Hollandais de Grenadiers de la Garde Impériale 1810 (Elite Infantry x2);white/red;Elite Infantry;1800 France;;Fairline
+NW267;Sapeurs-Mineurs 1770 (Bridging Infantry x2);white/blue;Bridging Infantry;1700 France;;Fairline
+NW268;Gendarmerie à Pied 1770 (Militia Infantry x2);blue/white/yellow;Militia Infantry;1700 France;;Fairline
+NW269;Tirailleurs 1800 (Mountain Infantry x2);blue;Mountain Infantry;1800 France;;Fairline
+NW270;Cuirassiers 1790 (Cavalry x2);blue;Cavalry (cuirassier);1700/1800 France;Horse;Fairline
+NW271;12 inch (305 mm) Mörsare (Siege Mortar) + Crew (x1) 1760;blue/yellow/brown;Towed Arty;1700 Sweden;;Fairline
+NW272;12 inch (305 mm) Mozdzierz (Siege Mortar) + Crew (x1) 1760;red/brown;Towed Arty;1700 Poland;;Fairline
+NW273;Hussards 1800 (Light Cavalry x1);blue;Cavalry (hussar);1800 France;Horse;Fairline
+NW274;Chasseurs à Cheval 1800 (Light Cavalry x1);green;Cavalry (chevau-léger);1800 France;Horse;Fairline
+NW275;Napoléon Bonaparte (Boney) 1800 (Cavalry x1);grey;HQ Cavalry;1800 France;Horse;Fairline
+NW276;Scharfschützen 1810 (Sniper Infantry x1);grey;Sniper Infantry;1800 Austria;;Fairline
+NW277;Husaren 1760 (Light Cavalry x1);blue/red;Cavalry (hussar);1700 Austria;Horse;Fairline
+NW278;Général 1810 (Cavalry x1);blue/yellow;HQ Cavalry;1800 France;Horse;Fairline
+NW279;Gendarmerie à Pied de la Garde Impériale 1810 (Militia Infantry x2);blue/red/sand;Militia Infantry;1800 France;;Fairline
+NW280;Tireurs Embusqués 1800 (Sniper Infantry x1);blue;Sniper Infantry;1800 France;;Fairline
+NW281;Fusiliers 1790 (Moving Line Infantry x2);blue/white;Regular Infantry;1700/1800 France;;Fairline
+NW282;Tireurs Embusqués de la Garde Impériale 1810 (Sniper Infantry x1);blue/white;Sniper Infantry;1700/1800 France;;Fairline
+NW283;Chevaux-Légers Lanciers 1810 (Light Cavalry x1);green/red;Cavalry (lancer);1800 France;Horse;Fairline
+NW284;Sapeurs-Mineurs 1800 (Bridging Infantry x2);blue/white;Bridging Infantry;1800 France;;Fairline
+NW285;Troupes de Marine 1770 (Naval Infantry x2);blue;Naval Infantry;1700 France;;Fairline
+NW286;Fusiliers 1790 (Firing Line Infantry x2);blue/white;Regular Infantry;1700/1800 France;;Fairline
+NW287;Grenadiers 1800 (Elite Infantry x2);blue/white;Elite Infantry;1800 France;;Fairline
+NW288;Fusiliers 1790 (Moving Line Infantry x2) - in Egypt;brown/white;Regular Infantry;1700/1800 France;;Fairline
+NW289;Flanquers 1790 (Light Infantry x2);green/white;Regular Infantry;1700/1800 France;;Fairline
+NW290;Cazadores de Montaña 1790 (Mountain Infantry x2);blue/white;Mountain Infantry;1700/1800 Spain;;Fairline
+NW291;12 inch (305 mm) Belagerungsmörser (Siege Mortar) + Crew (x1) 1760;grey/brown;Towed Arty;1700 Germany Bavaria;;Fairline
+NW292;12 inch (305 mm) Havan (Siege Mortar) + Crew (x1) 1760;green/brown;Towed Arty;1700/1800 Turkey;;Fairline
+NW293;Light Dragoon 1790 (Cavalry x1);green/red/brown;Cavalry (chevau-léger);1700/1800 USA;Horse;Fairline
+NW294;Infantaria Ligeira 1790 (Light Infantry x2);blue/white;Regular Infantry;1700/1800 Portugal;;Fairline
+NW295;Gendarmerie à Cheval de la Garde 1790 (Light Cavalry x1);blue/yellow;Cavalry (chevau-léger);1700/1800 France;Horse;Fairline
+NW296;Scharfschützen 1760 (Sniper Infantry x1);green/yellow;Sniper Infantry;1700 Germany Hanover;;Fairline
+NW297;Fusiliers 1810 (Moving Line Infantry x2) - in Russia;sand/white;Regular Infantry;1800 France;;Fairline
+NW298;Fanteria 1790 (Line Infantry x2);red/blue/white;Regular Infantry;1800 Italy Sicily;;Fairline
+NW299;Porte-Aigle 1810 (HQ Command Infantry x2) + Flag;blue/white;HQ Infantry;1800 France;;Fairline
+NW300;12 inch (305 mm) Siege Mortar + Crew (x1) 1760;blue/brown;Towed Arty;1700 UK (United Kingdom / Great Britain);;Fairline
+NW301;Milicja 1807 (Militia Infantry x2);brown/white;Militia Infantry;1800 Poland (Ksiestwo Warszawskie);;Fairline
+NW302;Infantaria de Marinha 1790 (Naval Infantry x2);brown;Naval Infantry;1700/1800 Portugal;;Fairline
+NW303;12 inch (305 mm) Belagerungsmörser (Siege Mortar) + Crew (x1) 1760;green/yellow/brown;Towed Arty;1700 Germany Saxony;;Fairline
+NW304;12 inch (305 mm) Belagerungsmörser (Siege Mortar) + Crew (x1) 1760;blue/yellow/brown;Towed Arty;1700 Germany Hessen-Kassel;;Fairline
+NW305;Cog;brown;NTP;1700/1800 All Nations;;Fairline
+NW306;Hussards 1790 (Light Cavalry x1);blue;Cavalry (hussar);1700/1800 France;Horse;Fairline
+NW307;Line Infantry / Linieninfanterie 1800 (x2);red/blue/white;Regular Infantry;1800 UK (United Kingdom / Great Britain) German Legion / Germany Hanover;;Fairline
+NW308;Fusileros 1760 (Line Infantry x2);white/blue;Regular Infantry;1700 Spain;;Fairline
+NW309;Sapeurs-Mineurs 1790 (Bridging Infantry x2);blue/white;Bridging Infantry;1700/1800 France;;Fairline
+NW310;Porte-Aigle 1800 (HQ Command Infantry x2) + Flag;blue/white;HQ Infantry;1800 France;;Fairline
+NW311;Estado Mayor / Infantería de Mando 1790 (HQ Command Infantry x2) + Flag;blue/white;HQ Infantry;1700/1800 Spain;;Fairline
+NW312;Seventy-four Two-decker Gunship;brown;Warship;1700/1800 All Nations;;Fairline
+NW313;Livgarde til Hest 1760 (Light Cavalry x1);red/yellow;Cavalry (chevau-léger);1700 Denmark;Horse;Fairline
+NW314;Fusiliers de la Legion Portugaise 1800 (Line Infantry x2);brown;Regular Infantry;1800 France;;Fairline
+NW315;Flanquers de la Garde Impériale 1810 (Light Infantry x2);green/white;Regular Infantry;1800 France;;Fairline
+NW316;Grenadiers 1790 (Elite Infantry x2) - in Egypt;blue/white;Elite Infantry;1700/1800 France;;Fairline
+NW317;Flanquers 1790 (Light Infantry x2) - in Egypt;green/white;Regular Infantry;1700/1800 France;;Fairline
+NW318;Fusiliers 1790 (Firing Line Infantry x2) - in Egypt;brown/white;Regular Infantry;1700/1800 France;;Fairline
+NW319;Guide Catalan 1800 (Light Cavalry x1);blue/red;Cavalry (chevau-léger);1800 France;Horse;Fairline
+NW320;Dragoner 1760 (Cavalry x2);blue/yellow;Cavalry (dragoon);1700 Sweden;Horse;Fairline
+NW321;Général 1790 (Cavalry x1);blue/white;HQ Cavalry;1700/1800 France;Horse;Fairline
+NW322;4 pdr Feldkanone (Foot Artillery) + Crew (x2) 1760;blue/yellow/red;Towed Arty;1700 Germany Hessen-Kassel;;Fairline
+NW323;12 pdr Feldkanone (Foot Artillery) + Crew (x2) 1760;blue/yellow/red;Towed Arty;1700 Germany Hessen-Kassel;;Fairline
+NW324;6 inch (152 mm) Obusier (Howitzer Foot Artillery) + Crew (x2) 1790;blue/green;Towed Arty;1700 France;;Fairline
+NW325;8 pdr Feldkanone (Foot Artillery) + Crew (x2) 1760;blue/white;Towed Arty;1700 Germany Prussia;;Fairline
+NW326;Dhow;brown;NTP;1700/1800 All Nations;;Fairline
+NW327;Connecticut Militia Infantry 1770 (x2);brown;Militia Infantry;1700 USA;;Fairline
+NW328;HMS Birkenhead 1845 Steam Corvette;grey/brown;Ironclad Frigate;1800 UK (United Kingdom / Great Britain);;Fairline
+NW329;Coraceros 1800 (Cavalry x2);red/white;Cavalry (cuirassier);1800 Spain;Horse;Fairline
+NW330;Fizylierzy 1800 (Moving Line Infantry x2);blue/yellow/white;Regular Infantry;1800 Poland (Ksiestwo Warszawskie);;Fairline
+NW331;Ulani 1807 (Light Cavalry x1);blue/yellow;Cavalry (lancer);1800 Poland (Ksiestwo Warszawskie);Horse;Fairline
+NW332;Grenadierzy 1800 (Elite Infantry x2);blue/white;Elite Infantry;1800 Poland (Ksiestwo Warszawskie);;Fairline
+NW333;Szaserzy 1800 (Light Infantry x2);red/blue/white;Regular Infantry;1800 Poland (Ksiestwo Warszawskie);;Fairline
+NW334;Huzarzy 1807 (Light Cavalry x1);blue;Cavalry (hussar);1800 Poland (Ksiestwo Warszawskie);Horse;Fairline
+NW335;Georgia Militia Infantry 1770 (x2);yellow/sand;Militia Infantry;1700 USA;;Fairline
+NW336;Maryland Militia Infantry 1770 (x2);blue/sand;Militia Infantry;1700 USA;;Fairline
+NW337;Galleon;brown;Warship;1700 All Nations;;Fairline
+NW338;Dhow;brown;Schooner Warship;1700/1800 All Nations;;Fairline
+NW339;12 inch (305 mm) Siege Mortar + Crew (x1) 1770;brown/white;Towed Arty;1700 USA;;Fairline
+NW340;Voltigeurs 1815 (Light Infantry x2);blue/grey;Regular Infantry;1800 Netherlands;;Fairline
+NW341;Fuseliers 1815 (Moving Line Infantry x2);blue/grey;Regular Infantry;1800 Netherlands;;Fairline
+NW342;Scherpschutters 1815 (Sniper Infantry x1);green/grey;Sniper Infantry;1800 Netherlands;;Fairline
+NW343;Dragonders 1810 (Cavalry x2);blue/red/white;Cavalry (dragoon);1800 Netherlands;Horse;Fairline
+NW344;Licht Dragonder 1810 (Cavalry x1);green/grey;Cavalry (chevau-léger);1800 Netherlands;Horse;Fairline
+NW345;Huzaren 1815 (Light Cavalry x1);blue;Cavalry (hussar);1800 Netherlands;Horse;Fairline
+NW346;Dragones 1800 (Cavalry x2);yellow/blue;Cavalry (dragoon);1800 Spain;Horse;Fairline
+NW347;12 inch (305 mm) Belagerungsmörser (Siege Mortar) + Crew (x1) 1790;blue/brown;Towed Arty;1700 Germany Bavaria;;Fairline
+NW348;6 inch (152 mm) Haubitze (Howitzer Foot Artillery) + Crew (x2) 1790;blue;Towed Arty;1700 Germany Bavaria;;Fairline
+NW349;6 pdr Canon (Foot Artillery) + Crew (x2) 1760;blue/green;Towed Arty;1700 France;;Fairline
+NW350;Fusileros 1800 (Line Infantry x2);white/red;Regular Infantry;1800 Spain;;Fairline
+NW351;Granaderos 1800 (Elite Infantry x2);white/green;Elite Infantry;1800 Spain;;Fairline
+NW352;Francotiradores 1790 (Sniper Infantry x1);blue/white;Sniper Infantry;1700/1800 Spain;;Fairline
+NW353;Milicia 1790 (Militia Infantry x2);brown/green;Militia Infantry;1700/1800 Spain;;Fairline
+NW354;Fusileros 1810 (Line Infantry x2);blue;Regular Infantry;1800 Spain;;Fairline
+NW355;Infantería de Marina 1790 (Naval Infantry x2);blue;Naval Infantry;1700/1800 Spain;;Fairline
+NW356;Dragones 1790 (Cavalry x2);blue/white;Cavalry (dragoon);1700/1800 Spain;Horse;Fairline
+NW357;6 pdr Canon à Cheval (Horse Artillery) + Crew (x2) 1760;blue/green;Towed Arty (horse);1700 France;;Fairline
+NW358;Húsares 1790 (Light Cavalry x1);brown/blue;Cavalry (hussar);1700/1800 Spain;Horse;Fairline
+NW359;Granaderos 1790 (Elite Infantry x2);white/blue;Elite Infantry;1700/1800 Spain;;Fairline
+NW360;Guerrilla 1790 (Militia Infantry x2);brown;Militia Infantry;1700/1800 Spain;;Fairline
+NW361;4 pdr Canon (Foot Artillery) + Crew (x2) 1740;blue/red/green;Towed Arty;1700 France;;Fairline
+NW362;8 pdr Canon (Foot Artillery) + Crew (x2) 1740;blue/red/green;Towed Arty;1700 France;;Fairline
+NW363;4 pdr Cañón (Foot Artillery) + Crew (x2) 1790;blue;Towed Arty;1700/1800 Spain;;Fairline
+NW364;6 pdr Cañón (Foot Artillery) + Crew (x2) 1790;blue;Towed Arty;1700/1800 Spain;;Fairline
+NW365;8 pdr Cañón (Foot Artillery) + Crew (x2) 1790;blue;Towed Arty;1700/1800 Spain;;Fairline
+NW366;12 pdr Cañón (Foot Artillery) + Crew (x2) 1790;blue;Towed Arty;1700/1800 Spain;;Fairline
+NW367;6 inch (152 mm) Obús (Howitzer Foot Artillery) + Crew (x2) 1790;blue;Towed Arty;1700/1800 Spain;;Fairline
+NW368;6 pdr Cañón a Caballo (Horse Artillery) + Crew (x2) 1790;blue;Towed Arty (horse);1700/1800 Spain;;Fairline
+NW369;Dragoner 1760 (Cavalry x2);blue/grey;Cavalry (dragoon);1700 Germany Saxony;Horse;Fairline
+NW370;12 inch (305 mm) Mortero de Asedio (Siege Mortar) + Crew (x1) 1790;blue/brown;Towed Arty;1700/1800 Spain;;Fairline
+NW371;12 pdr Canon (Foot Artillery) + Crew (x2) 1740;blue/red/green;Towed Arty;1700 France;;Fairline
+NW372;Pontoneros 1790 (Bridging Infantry x2);white/red/green;Bridging Infantry;1700/1800 Spain;;Fairline
+NW373;12 inch (305 mm) Mortier de Siège (Siege Mortar) + Crew (x1) 1740;blue/red/brown;Towed Arty;1700 France;;Fairline
+NW374;4 pdr Feldkanone (Foot Artillery) + Crew (x2) 1740;blue/white;Towed Arty;1700 Germany Prussia;;Fairline
+NW375;Général 1760 (Cavalry x1);blue/yellow/red;HQ Cavalry;1700 France;Horse;Fairline
+NW376;8 pdr Feldkanone (Foot Artillery) + Crew (x2) 1740;blue/white;Towed Arty;1700 Germany Prussia;;Fairline
+NW377;12 pdr Feldkanone (Foot Artillery) + Crew (x2) 1740;blue/white;Towed Arty;1700 Germany Prussia;;Fairline
+NW378;12 inch (305 mm) Belagerungsmörser (Siege Mortar) + Crew (x1) 1740;blue/white/brown;Towed Arty;1700 Germany Prussia;;Fairline
+NW379;Cuirassiers 1760 (Cavalry x2);blue;Cavalry (cuirassier);1700 France;Horse;Fairline
+NW380;Fuzileiro 1790 (Moving Line Infantry x2);blue;Regular Infantry;1700/1800 Portugal;;Fairline
+NW381;Atiradores Especiais 1790 (Sniper Infantry x1);brown;Sniper Infantry;1700/1800 Portugal;;Fairline
+NW382;Dragões 1790 (Cavalry x2);blue/white;Cavalry (dragoon);1700/1800 Portugal;Horse;Fairline
+NW383;Kürassiere 1760 (Cavalry x2);yellow/black;Cavalry (cuirassier);1700 Germany Prussia;Horse;Fairline
+NW384;Dragoons 1760 (Cavalry x2);red/yellow;Cavalry (dragoon);1700 UK (United Kingdom / Great Britain);Horse;Fairline
+NW385;Life Guards Dragoons 1760 (Cavalry x2);red/blue;Cavalry (dragoon);1700 UK (United Kingdom / Great Britain);Horse;Fairline
+NW386;Huzaren 1760 (Light Cavalry x1);blue;Cavalry (hussar);1700 Netherlands;Horse;Fairline
+NW387;Husaren 1760 (Light Cavalry x1);red/yellow/blue;Cavalry (hussar);1700 Germany Prussia;Horse;Fairline
+NW388;Gusary 1760 (Light Cavalry x1);green/red;Cavalry (hussar);1700 Russia;Horse;Fairline
+NW389;Donskiye Kazaki 1760 (Light Cavalry x1);green/white/red;Cavalry (lancer);1700 Russia;Horse;Fairline
+NW390;Infanterie 1790 (Line Infantry x2);red/blue/white;Regular Infantry;1700/1800 Switzerland;;Fairline
+NW391;Fysiljar 1790 (Firing Line Infantry x2);blue/white;Regular Infantry;1700/1800 Sweden;;Fairline
+NW392;Dragons 1760 (Cavalry x2);blue;Cavalry (dragoon);1700 France;Horse;Fairline
+NW393;Dragoner 1800 (Cavalry x2);blue/red/white;Cavalry (dragoon);1700 Germany Prussia;Horse;Fairline
+NW394;Mounted Rangers 1810 (Cavalry x1);brown/green;Cavalry (scout);1800 USA;Horse;Fairline
+NW395;Granaderos 1760 (Elite Infantry x2);white/blue;Elite Infantry;1700 Spain;;Fairline
+NW396;Scottish Highlanders 1810 (Mountain Infantry x2);red/green;Mountain Infantry;1800 UK (United Kingdom / Great Britain);;Fairline
+NW397;New Hampshire Militia Infantry 1770 (x2);green/brown;Militia Infantry;1700 USA;;Fairline
+NW398;New Jersey Militia Infantry 1770 (x2);sand/blue;Militia Infantry;1700 USA;;Fairline
+NW399;New York Militia Infantry 1770 (x2);brown/blue;Militia Infantry;1700 USA;;Fairline
+NW400;North Carolina Militia Infantry 1770 (x2);sand;Militia Infantry;1700 USA;;Fairline
+NW401;Standarte Uhlanen 1790 (Light Cavalry x1);blue/white;Cavalry (lancer);1700 Germany Prussia;Horse;Fairline
+NW402;Rifles 1760 (Sniper Infantry x1);green;Sniper Infantry;1700 UK (United Kingdom / Great Britain);;Fairline
+NW403;Uhlanen 1790 (Light Cavalry x1);blue/white;Cavalry (lancer);1700/1800 Germany Prussia;Horse;Fairline
+NW404;Standard-bearers 1770 (HQ Command Infantry x2) + Flag;blue/white;HQ Infantry;1700 USA;;Fairline
+NW405;Porte-Aigle 1760 (HQ Command Infantry x2) + Flag;white;HQ Infantry;1700 France;;Fairline
+NW406;Grenadiere 1800 (Elite Infantry x2);blue/red/grey;Elite Infantry;1800 Germany Prussia;;Fairline
+NW407;Dragoni 1760 (Cavalry x2);red;Cavalry (dragoon);1700 Poland;Horse;Fairline
+NW408;Sappeure 1800 (Bridging Infantry x2);blue/grey;Bridging Infantry;1800 Germany Prussia;;Fairline
+NW409;Sappeure 1790 (Bridging Infantry x2);blue/yellow/sand;Bridging Infantry;1700/1800 Germany Prussia;;Fairline
+NW410;8 pdr Feldkanone (Foot Artillery) + Crew (x2) 1800;blue/grey;Towed Arty;1800 Germany Prussia;;Fairline
+NW411;12 pdr Feldkanone (Foot Artillery) + Crew (x2) 1800;blue/grey;Towed Arty;1800 Germany Prussia;;Fairline
+NW412;6 inch (152 mm) Haubitze (Howitzer Foot Artillery) + Crew (x2) 1800;blue/grey;Towed Arty;1800 Germany Prussia;;Fairline
+NW413;6 pdr Berittene Artillerie (Horse Artillery) + Crew (x2) 1800;blue/grey;Towed Arty (horse);1800 Germany Prussia;;Fairline
+NW414;6 pdr Feldkanone (Foot Artillery) + Crew (x2) 1800;blue/grey;Towed Arty;1800 Germany Prussia;;Fairline
+NW415;4 pdr Feldkanone (Foot Artillery) + Crew (x2) 1800;blue/grey;Towed Arty;1800 Germany Prussia;;Fairline
+NW416;Füsiliere 1760 (Moving Line Infantry x2);blue/white;Regular Infantry;1700 Germany Saxony;;Fairline
+NW417;12 inch (305 mm) Belagerungsmörser (Siege Mortar) + Crew (x1) 1800;blue/grey/brown;Towed Arty;1800 Germany Prussia;;Fairline
+NW418;4 pdr Feldkanone (Foot Artillery) + Crew (x2) 1790;blue/white;Towed Arty;1700/1800 Germany Prussia;;Fairline
+NW419;6 pdr Feldkanone (Foot Artillery) + Crew (x2) 1790;blue/white;Towed Arty;1700/1800 Germany Prussia;;Fairline
+NW420;8 pdr Feldkanone (Foot Artillery) + Crew (x2) 1790;blue/white;Towed Arty;1700/1800 Germany Prussia;;Fairline
+NW421;12 pdr Feldkanone (Foot Artillery) + Crew (x2) 1790;blue/white;Towed Arty;1700/1800 Germany Prussia;;Fairline
+NW422;6 inch (152 mm) Haubitze (Howitzer Foot Artillery) + Crew (x2) 1790;blue/white;Towed Arty;1700/1800 Germany Prussia;;Fairline
+NW423;6 pdr Berittene Artillerie (Horse Artillery) + Crew (x2) 1790;blue/white;Towed Arty (horse);1700/1800 Germany Prussia;;Fairline
+NW424;Kürassiere 1760 (Cavalry x2);white/black;Cavalry (cuirassier);1700 Austria;Horse;Fairline
+NW425;12 inch (305 mm) Belagerungsmörser (Siege Mortar) + Crew (x1) 1790;blue/white/brown;Towed Arty;1700/1800 Germany Prussia;;Fairline
+NW426;Landwehr 1790 (Militia Infantry x2);;Militia Infantry;1700/1800 Germany Prussia;;Fairline
+NW427;Füsiliere 1800 (Moving Light Infantry x2);blue/white;Regular Infantry;1800 Germany Prussia;;Fairline
+NW428;Jäger 1790 (Mountain Infantry x2);green/yellow;Mountain Infantry;1700 Germany Prussia;;Fairline
+NW429;Grenadjarer 1760 (Elite Infantry x2);blue/yellow;Elite Infantry;1700 Sweden;;Fairline
+NW430;Grenadiere 1810 (Elite Infantry x2);blue/grey;Elite Infantry;1800 Germany Prussia;;Fairline
+NW431;Musketiere 1810 (Moving Line Infantry x2);blue/grey;Regular Infantry;1800 Germany Prussia;;Fairline
+NW432;Musketiere 1810 (Firing Line Infantry x2);blue/grey;Regular Infantry;1800 Germany Prussia;;Fairline
+NW433;Füsiliere 1810 (Light Infantry x2);blue/white;Regular Infantry;1800 Germany Prussia;;Fairline
+NW434;Jäger 1810 (Mountain Infantry x2);green/grey;Mountain Infantry;1800 Germany Prussia;;Fairline
+NW435;Dragoner 1760 (Cavalry x2);white/grey;Cavalry (dragoon);1700/1800 Germany Prussia;Horse;Fairline
+NW436;Gardes du Corps Dragoner 1790 (Cavalry x2);white;Cavalry (dragoon);1700/1800 Germany Prussia;Horse;Fairline
+NW437;Kürassiere 1790 (Cavalry x2);white/black/blue;Cavalry (cuirassier);1700/1800 Germany Prussia;Horse;Fairline
+NW438;Kürassiere 1810 (Cavalry x2);white/grey;Cavalry (cuirassier);1800 Germany Prussia;Horse;Fairline
+NW439;Dragoner 1800 (Cavalry x2);blue/white;Cavalry (dragoon);1800 Germany Prussia;Horse;Fairline
+NW440;Dragoner 1810 (Cavalry x2);blue/grey;Cavalry (dragoon);1800 Germany Prussia;Horse;Fairline
+NW441;Standarte Uhlanen 1800 (Light Cavalry x1);blue/grey;Cavalry (lancer);1800 Germany Prussia;Horse;Fairline
+NW442;Uhlanen 1810 (Light Cavalry x1);blue/grey;Cavalry (lancer);1800 Germany Prussia;Horse;Fairline
+NW443;Husaren 1790 (Light Cavalry x1);red/white;Cavalry (hussar);1700 Germany Prussia;Horse;Fairline
+NW444;Husaren 1800 (Light Cavalry x1);blue/grey;Cavalry (hussar);1800 Germany Prussia;Horse;Fairline
+NW445;Gebhard Leberecht von Blucher / Feldmarschall 1790 (Cavalry x1);blue/grey;HQ Cavalry;1700/1800 Germany Prussia;Horse;Fairline
+NW446;General 1790 (Cavalry x1);blue/grey;HQ Cavalry;1700/1800 Germany Prussia;Horse;Fairline
+NW447;Marineinfanterie 1790 (Naval Infantry x2);blue/white;Naval Infantry;1700/1800 Germany Prussia;;Fairline
+NW448;Sappeure 1810 (Bridging Infantry x2);blue/grey;Bridging Infantry;1800 Germany Prussia;;Fairline
+NW449;Grenadiere 1790 (Elite Infantry x2);blue/white;Elite Infantry;1700 Germany Prussia;;Fairline
+NW450;Musketiere 1790 (Moving Line Infantry x2);blue/white;Regular Infantry;1700/1800 Germany Prussia;;Fairline
+NW451;Musketiere 1760 (Light Infantry x2);green/white/yellow;Regular Infantry;1700 Germany Heiliges Römisches Reich;;Fairline
+NW452;Scharfschützen 1790 (Sniper Infantry x1);green/sand;Sniper Infantry;1700 Germany Prussia;;Fairline
+NW453;Husaren 1810 (Light Cavalry x1);blue;Cavalry (hussar);1800 Germany Prussia;Horse;Fairline
+NW454;Musketiere 1790 (Firing Line Infantry x2);blue/white;Regular Infantry;1700/1800 Germany Prussia;;Fairline
+NW455;Füsiliere 1800 (Firing Light Infantry x2);blue/white;Regular Infantry;1800 Germany Prussia;;Fairline
+NW456;Garde-Grenadiere 1790 (Elite Infantry x2);blue/white;Elite Infantry;1700 Germany Prussia;;Fairline
+NW457;Jäger 1760 (Mountain Infantry x2);green/yellow;Mountain Infantry;1700 Germany Hessen-Kassel;;Fairline
+NW458;Scharfschützen 1800 (Sniper Infantry x1);green/yellow;Sniper Infantry;1800 Germany Prussia;;Fairline
+NW459;Jäger 1800 (Mountain Infantry x2);green/yellow;Mountain Infantry;1800 Germany Prussia;;Fairline
+NW460;Scharfschützen 1810 (Sniper Infantry x1);green/grey;Sniper Infantry;1800 Germany Prussia;;Fairline
+NW461;Jäger 1790 (Mountain Infantry x2);green/grey;Mountain Infantry;1700/1800 Germany Baden;;Fairline
+NW462;Stabseinheit / Feldkommando 1800 (HQ Command Infantry x2) + Flag;blue/grey;HQ Infantry;1800 Germany Prussia;;Fairline
+NW463;Jäger 1790 (Mountain Infantry x2);green/grey;Mountain Infantry;1700/1800 Germany Bavaria;;Fairline
+NW464;Jäger 1790 (Mountain Infantry x2);green/grey;Mountain Infantry;1700/1800 Germany Saxony;;Fairline
+NW465;Jäger 1790 (Mountain Infantry x2);green;Mountain Infantry;1700/1800 Germany Westphalia;;Fairline
+NW466;Jäger 1790 (Mountain Infantry x2);green;Mountain Infantry;1700/1800 Germany Württemberg;;Fairline
+NW467;Jägare 1790 (Mountain Infantry x2);green;Mountain Infantry;1700/1800 Sweden;;Fairline
+NW468;Jaegere 1790 (Mountain Infantry x2);green/grey;Mountain Infantry;1700/1800 Denmark;;Fairline
+NW469;Caçadores 1790 (Mountain Infantry x2);brown;Mountain Infantry;1700/1800 Portugal;;Fairline
+NW470;Snaypery 1760 (Sniper Infantry x1);green/olive;Sniper Infantry;1700 Russia;;Fairline
+NW471;Fizylierzy 1807 (Firing Line Infantry x2);blue/yellow/white;Regular Infantry;1800 Poland (Ksiestwo Warszawskie);;Fairline
+NW472;Sappör 1790 (Bridging Infantry x2);blue/sand;Bridging Infantry;1700/1800 Sweden;;Fairline
+NW473;Fusileros 1790 (Firing Line Infantry x2);white;Regular Infantry;1700/1800 Spain;;Fairline
+NW474;Fanteria Leggera 1790 (Firing Light Infantry x2);green/white;Regular Infantry;1700/1800 Italy;;Fairline
+NW475;Fanteria di Marina 1790 (Naval Infantry x2);green/white;Naval Infantry;1700/1800 Italy;;Fairline
+NW476;HMS Arrogant (1848);grey/brown;Ironclad Frigate;1800 UK (United Kingdom / Great Britain);;Fairline
+NW477;Monomotapa Female Warrior (Militia Infantry x1) + Spear and Shield;brown;Militia Infantry;1800 Aboriginal Nations;;Fairline
+NW478;Lancers 1840 (Cavalry x1);red/blue;Cavalry (lancer);1800 UK (United Kingdom / Great Britain);Horse;Fairline
+NW479;8 pdr Foot Artillery + Crew (x2);white/brown;Towed Arty;1800 Arab Nations;;Fairline
+NW480;Elephant Pack (x1);brown/grey;TPT Animal Pack;Antique/1700/1800 All Nations;Elephant;Fairline
+NW481;Mule Pack (x1);brown;TPT Animal Pack;1700/1800 All Nations;Mule;Fairline
+NW482;Cavalry (x1) + Rifle;white;Cavalry (scout);1800 Arab Nations;Horse;Fairline
+NW483;Cavalry (x1) + Sabre;white;HQ Cavalry;1800 Arab Nations;Horse;Fairline
+NW484;Cavalry (x1) + Rifle;black/white;Cavalry (chevau-léger);1800 Arab Nations;Horse;Fairline
+NW485;Warriors (Infantry x2);white;Regular Infantry;1800 Arab Nations;;Fairline
+NW486;Indian Scout Cavalry (x1) + Rifle;brown/yellow;Cavalry (chevau-léger);1800 Indian Tribes;Horse;Fairline
+NW487;Indian Warrior (Militia Infantry x2) + Picket and Shield;brown/blue;Militia Infantry;1800 Indian Tribes;;Fairline
+NW488;Dragoner 1790 (Cavalry x2);green/white;Cavalry (dragoon);1700/1800 Germany Württemberg;Horse;Fairline
+NW489;Indian Scout Cavalry (x1);brown/yellow;Cavalry (scout);1800 Indian Tribes;Horse;Fairline
+NW490;Füsiliere 1790 (Moving Line Infantry x2);blue/white;Regular Infantry;1700/1800 Germany Württemberg;;Fairline
+NW491;Scharfschützen 1790 (Sniper Infantry x1);green;Sniper Infantry;1700/1800 Germany Württemberg;;Fairline
+NW492;Kürassiere 1790 (Cavalry x2);yellow/grey;Cavalry (cuirassier);1700/1800 Germany Württemberg;Horse;Fairline
+NW493;Camel Troop (x1);white/sand;Camelry;1800 Arab Nations;Camel;Fairline
+NW494;Chevaulegers 1790 (Light Cavalry x1);blue/red/white;Cavalry (chevau-léger);1700/1800 Germany Württemberg;Horse;Fairline
+NW495;Sappeurs 1815 (Bridging Infantry x2);blue/grey;Bridging Infantry;1800 Netherlands;;Fairline
+NW496;Mariniers 1815 (Naval Infantry x2);blue/grey;Naval Infantry;1800 Netherlands;;Fairline
+NW497;Generale Staf 1815 (HQ Command Infantry x2);blue/grey;HQ Infantry;1800 Netherlands;;Fairline
+NW498;10 inch (245 mm) Mortero M1845 (Siege Mortar) + Crew (x2);blue/brown;Towed Arty;1800 Mexico;;Fairline
+NW499;3 inch (76.2 mm) 10 pdr Parrott Rifle M1861 + Crew (x2);blue/sand;Towed Arty;1800 Mexico;;Fairline
+NW500;10 pdr Cañón a Caballo (Horse Artillery) + Crew (x2);blue/sand;Towed Arty;1800 Mexico;;Fairline
+NW501;4.62 inch (117 mm) 12 pdr "Napoleon" M1857 + Crew (x2);blue/sand;Towed Arty;1800 Mexico;;Fairline
+NW502;Infantería de Línea 1840 (Firing Line Infantry x2);white;Regular Infantry;1800 Mexico;;Fairline
+NW503;Infantería de Línea 1840 (Moving Line Infantry x2);white;Regular Infantry;1800 Mexico;;Fairline
+NW504;Draguny 1790 (Cavalry x2);green/white;Cavalry (dragoon);1700/1800 Russia;Horse;Fairline
+NW505;Leyb-Gvardiya Draguny 1800 (Cavalry x2);green/white;Cavalry (dragoon);1800 Russia;Horse;Fairline
+NW506;Grenadery 1760 (Elite Infantry x2);green/red;Elite Infantry;1700 Russia;;Fairline
+NW507;Kirasiry 1760 (Cavalry x2);yellow/black;Cavalry (cuirassier);1700 Russia;Horse;Fairline
+NW508;Sapery 1790 (Bridging Infantry x2);green/white;Bridging Infantry;1700/1800 Russia;;Fairline
+NW509;Rurales 1840 (Light Cavalry x1);white;Cavalry (lancer);1800 Mexico;Horse;Fairline
+NW510;Grenadery 1810 (Elite Infantry x2);green/red/white;Elite Infantry;1800 Russia;;Fairline
+NW511;Snaypery 1810 (Sniper Infantry x1);green;Sniper Infantry;1800 Russia;;Fairline
+NW512;Grenadery 1790 (Elite Infantry x2);green/white;Elite Infantry;1700/1800 Russia;;Fairline
+NW513;Fuzelyery 1790 (Moving Line Infantry x2);green/white;Regular Infantry;1700/1800 Russia;;Fairline
+NW514;Francotiradores 1840 (Sniper Infantry x1);blue/white;Sniper Infantry;1800 Mexico;;Fairline
+NW515;Guardia Nacional 1840 (Light Infantry x2);red/white;Regular Infantry;1800 Mexico;;Fairline
+NW516;Milicia 1840 (Militia Infantry x2);white;Militia Infantry;1800 Mexico;;Fairline
+NW517;Fuzelyery 1800 (Moving Line Infantry x2);green/white;Regular Infantry;1800 Russia;;Fairline
+NW518;Fuzelyery 1810 (Moving Line Infantry x2);green/white;Regular Infantry;1800 Russia;;Fairline
+NW519;Fuzelyery 1810 (Firing Line Infantry x2);green/white;Regular Infantry;1800 Russia;;Fairline
+NW520;6 pdr Cañón (Foot Artillery) + Crew (x2) 1840;blue/sand;Towed Arty;1800 Mexico;;Fairline
+NW521;Yegerya 1790 (Mountain Infantry x2);green/olive;Mountain Infantry;1700/1800 Russia;;Fairline
+NW522;Yegerya 1800 (Mountain Infantry x2);green;Mountain Infantry;1800 Russia;;Fairline
+NW523;Snaypery 1800 (Sniper Infantry x1);green;Sniper Infantry;1800 Russia;;Fairline
+NW524;3 inch (76.2 mm) Ordnance Rifle M1855 + Crew (x2);blue/sand;Towed Arty;1800 Mexico;;Fairline
+NW525;Fuzelyery 1810 (Line Infantry x2) + Jacket;winter;Regular Infantry;1800 Russia;;Fairline
+NW526;Cazadores de Montaña 1840 (Mountain Infantry x2);blue/white;Mountain Infantry;1800 Mexico;;Fairline
+NW527;Caballería Pesada 1840 (Cavalry x2);blue/grey;Cavalry;1800 Mexico;Horse;Fairline
+NW528;Lanceros 1840 (Cavalry x1);blue/grey;Cavalry (lancer);1800 Mexico;Horse;Fairline
+NW529;General 1840 (Cavalry x1);blue;HQ Cavalry;1800 Mexico;Horse;Fairline
+NW530;Leyb Gvardiya Ulany 1790 (Light Cavalry x1);blue/red;Cavalry (lancer);1700/1800 Russia;Horse;Fairline
+NW531;Supremos Poderes 1840 (Elite Infantry x2);blue;Elite Infantry;1800 Mexico;;Fairline
+NW532;Kirasiry 1790 (Cavalry x2);white/black;Cavalry (cuirassier);1700/1800 Russia;Horse;Fairline
+NW533;Kirasiry 1800 (Cavalry x2);white/black/grey;Cavalry (cuirassier);1800 Russia;Horse;Fairline
+NW534;Abanderado 1840 (HQ Command Infantry x2) + Flag;blue;HQ Infantry;1800 Mexico;;Fairline
+NW535;Draguny 1800 (Cavalry x2);green/grey;Cavalry (dragoon);1800 Russia;Horse;Fairline
+NW536;Ulany 1790 (Light Cavalry x1);blue/grey;Cavalry (lancer);1700/1800 Russia;Horse;Fairline
+NW537;Gusary 1800 (Light Cavalry x1);green/blue;Cavalry (hussar);1800 Russia;Horse;Fairline
+NW538;Leyb-Gvardiya Kazaki 1790 (Light Cavalry x1);red/blue;Cavalry (lancer);1700/1800 Russia;Horse;Fairline
+NW539;Kazaki 1790 (Light Cavalry x1);blue;Cavalry (lancer);1700/1800 Russia;Horse;Fairline
+NW540;Donskiye Kazaki 1790 (Light Cavalry x1);blue;Cavalry (lancer);1700/1800 Russia;Horse;Fairline
+NW541;Opolchenie 1790 (Militia Infantry x2);sand;Militia Infantry;1700/1800 Russia;;Fairline
+NW542;Irish Volunteers 1780 (Light Infantry x2);red/white;Regular Infantry;1700/1800 UK (United Kingdom / Great Britain);;Fairline
+NW543;9 pdr Foot Artillery + Crew (x2) 1780;blue/white;Towed Arty;1700 UK (United Kingdom / Great Britain);;Fairline
+NW544;12 pdr Pushka (Foot Artillery) + Crew (x2) 1800;green/white;Towed Arty;1800 Russia;;Fairline
+NW545;6 inch (152 mm) Gaubitsa (Howitzer Foot Artillery) + Crew (x2) 1800;green/white;Towed Arty;1800 Russia;;Fairline
+NW546;4 pdr Feldkanone (Foot Artillery) + Crew (x2) 1760;blue/white;Towed Arty;1700 Germany Prussia;;Fairline
+NW547;General 1790 (Cavalry x1);green/white;HQ Cavalry;1700/1800 Russia;Horse;Fairline
+NW548;Sapery 1810 (Bridging Infantry x2);green/white;Bridging Infantry;1800 Russia;;Fairline
+NW549;6 pdr Pushka (Foot Artillery) + Crew (x2) 1800;green/white;Towed Arty;1800 Russia;;Fairline
+NW550;12 pdr Foot Artillery + Crew (x2) 1780;blue/white;Towed Arty;1700 UK (United Kingdom / Great Britain);;Fairline
+NW551;Dragoner 1760 (Cavalry x2);green/white;Cavalry (dragoon);1700 Austria;Horse;Fairline
+NW552;12 inch (305 mm) Osadnaya Mortira (Siege Mortar) + Crew (x1) 1800;green/white/brown;Towed Arty;1800 Russia;;Fairline
+NW553;Pontoneros 1840 (Bridging Infantry x2);red/white;Bridging Infantry;1800 Mexico;;Fairline
+NW554;Snaypery 1790 (Sniper Infantry x1);green/olive;Sniper Infantry;1700/1800 Russia;;Fairline
+NW555;Pavlovsky Leyb-Gvardiya Grenadery 1790 (Elite Infantry x2);green/red/white;Elite Infantry;1700/1800 Russia;;Fairline
+NW556;Fuzelyery 1790 (Firing Line Infantry x2);green/white;Regular Infantry;1700/1800 Russia;;Fairline
+NW557;Fuzelyery 1800 (Firing Line Infantry x2);green/white;Regular Infantry;1800 Russia;;Fairline
+NW558;Leyb-Gvardiya Grenadery 1800 (Elite Infantry x2);green/red/white;Elite Infantry;1800 Russia;;Fairline
+NW559;Leyb-Gvardiya Gusary 1790 (Light Cavalry x1);blue/white;Cavalry (hussar);1700/1800 Russia;Horse;Fairline
+NW560;Gusary 1790 (Light Cavalry x1);green/white;Cavalry (hussar);1700/1800 Russia;Horse;Fairline
+NW561;Sapeurs-Mineurs de la Garde 1790 (Bridging Infantry x2);blue/white;Bridging Infantry;1700/1800 France;;Fairline
+NW562;Dowództwo 1807 (HQ Command Infantry x2) + Flag;red/blue/white;HQ Infantry;1800 Poland (Ksiestwo Warszawskie);;Fairline
+NW563;Yegerya 1760 (Mountain Infantry x2);green/olive;Mountain Infantry;1700 Russia;;Fairline
+NW564;Sapadores 1790 (Bridging Infantry x2);blue;Bridging Infantry;1700/1800 Portugal;;Fairline
+NW565;4 pdr Savas Topu (Foot Artillery) + Crew (x2) 1830;green/blue/brown;Towed Arty;1800 Turkey;;Fairline
+NW566;6 pdr Savas Topu (Foot Artillery) + Crew (x2) 1830;green/blue/brown;Towed Arty;1800 Turkey;;Fairline
+NW567;6 pdr Atli Topçu (Horse Artillery) + Crew (x2) 1830;green/blue/brown;Towed Arty (horse);1800 Turkey;;Fairline
+NW568;Alpini 1760 (Mountain Infantry x2);green/white;Mountain Infantry;1700 Italy;;Fairline
+NW569;12 pdr Feldkanone (Foot Artillery) + Crew (x2) 1760;blue/white;Towed Arty;1700 Germany Prussia;;Fairline
+NW570;6 pdr Pushka (Foot Artillery) + Crew (x2) 1790;green/white;Towed Arty;1700/1800 Russia;;Fairline
+NW571;4 pdr Artyleria (Foot Artillery) + Crew (x2) 1760;red/yellow;Towed Arty;1700 Poland;;Fairline
+NW572;12 pdr Pushka (Foot Artillery) + Crew (x2) 1790;green/white;Towed Arty;1700/1800 Russia;;Fairline
+NW573;6 inch (152 mm) Gaubitsa (Howitzer Foot Artillery) + Crew (x2) 1790;green/white;Towed Arty;1700/1800 Russia;;Fairline
+NW574;12 pdr Artyleria (Foot Artillery) + Crew (x2) 1760;red/yellow;Towed Arty;1700 Poland;;Fairline
+NW575;General 1760 (Cavalry x1);white/red;HQ Cavalry;1700 Austria;Horse;Fairline
+NW576;12 inch (305 mm) Osadnaya Mortira (Siege Mortar) + Crew (x1) 1790;green/white/brown;Towed Arty;1700/1800 Russia;;Fairline
+NW577;Generalny Shtab / Komandovaniye 1800 (HQ Command Infantry x2) + Flag;green/white;HQ Infantry;1800 Russia;;Fairline
+NW578;8 pdr Savas Topu (Foot Artillery) + Crew (x2) 1830;green/blue/brown;Towed Arty;1800 Turkey;;Fairline
+NW579;12 pdr Savas Topu (Foot Artillery) + Crew (x2) 1830;green/blue/brown;Towed Arty;1800 Turkey;;Fairline
+NW580;6 pdr Artyleria (Foot Artillery) + Crew (x2) 1760;red/yellow;Towed Arty;1700 Poland;;Fairline
+NW581;6 pdr Artyleria Konna (Horse Artillery) + Crew (x2) 1760;red/yellow;Towed Arty (horse);1700 Poland;;Fairline
+NW582;Pennsylvania Militia Infantry 1770 (x2);blue/white/sand;Militia Infantry;1700 USA;;Fairline
+NW583;Stratiotes Pezikou 1820 (Moving Line Infantry x2);blue/white;Regular Infantry;1800 Greece;;Fairline
+NW584;Stratiotes Pezikou 1820 (Firing Line Infantry x2);blue/white;Regular Infantry;1800 Greece;;Fairline
+NW585;Kleftes 1820 (Militia Infantry x2);sand/white;Militia Infantry;1800 Greece;;Fairline
+NW586;Souliotissa 1820 (Sniper Infantry x1);red/white/blue;Sniper Infantry;1800 Greece;;Fairline
+NW587;Lohies Typikon Tagmaton 1820 (Elite Infantry x2);blue/white/red;Elite Infantry;1800 Greece;;Fairline
+NW588;Ypolohagi Typikon Tagmaton 1820 (HQ Command Infantry x2) + Flag;blue/white/yellow;HQ Infantry;1800 Greece;;Fairline
+NW589;Souliotes 1820 (Mountain Infantry x2);blue/white;Mountain Infantry;1800 Greece;;Fairline
+NW590;Timarli Sipahi 1760 (Cavalry x1);red;Cavalry (lancer);1700/1800 Turkey;Horse;Fairline
+NW591;Bekci 1760 (Militia Infantry x2);blue/red/white;Militia Infantry;1700/1800 Turkey;;Fairline
+NW592;Muhafiz 1826 (Elite Infantry x2);red/yellow/blue;Elite Infantry;1800 Turkey;;Fairline
+NW593;Hiliarhi Atakton Somaton 1820 (Bridging Infantry x2);red/yellow/white;Bridging Infantry;1800 Greece;;Fairline
+NW594;6 inch (152 mm) Haubica (Howitzer Foot Artillery) + Crew (x2) 1760;red/yellow;Towed Arty;1700 Poland;;Fairline
+NW595;6 inch (152 mm) Obüs (Howitzer Foot Artillery) + Crew (x2) 1830;green/blue/brown;Towed Arty;1800 Turkey;;Fairline
+NW596;6 inch (152 mm) Haubits (Howitzer Foot Artillery) + Crew (x2) 1760;blue/yellow;Towed Arty;1700 Sweden;;Fairline
+NW597;6 inch (152 mm) Haubitze (Howitzer Foot Artillery) + Crew (x2) 1760;blue/white;Towed Arty;1700 Germany Prussia;;Fairline
+NW598;6 inch (152 mm) Haubitze (Howitzer Foot Artillery) + Crew (x2) 1760;grey/brown;Towed Arty;1700 Germany Bavaria;;Fairline
+NW599;6 inch (152 mm) Haubitze (Howitzer Foot Artillery) + Crew (x2) 1740;blue/white;Towed Arty;1700 Germany Prussia;;Fairline
+NW600;Line Infantry / Linieninfanterie 1810 (x2);black;Regular Infantry;1800 UK (United Kingdom / Great Britain) Black Brunswickers / Germany Hanover;;Fairline
+NW601;Rifles / Scharfschützen 1810 (Sniper Infantry x1);grey;Sniper Infantry;1800 UK (United Kingdom / Great Britain) Black Brunswickers / Germany Hanover;;Fairline
+NW602;Hussars / Husaren 1810 (Light Cavalry x1);black;Cavalry (hussar);1800 UK (United Kingdom / Great Britain) Black Brunswickers / Germany Hanover;Horse;Fairline
+NW603;Light Dragoons / Leichte Dragoner 1800 (Cavalry x1);blue/red/grey;Cavalry (chevau-léger);1800 UK (United Kingdom / Great Britain) German Legion / Germany Hanover;Horse;Fairline
+NW604;Fanteria di Linea 1800 (Line Infantry x2);green/white;Regular Infantry;1800 Italy;;Fairline
+NW605;Fanteria Leggera 1840 (Light Infantry x2);green/blue;Regular Infantry;1800 Italy Sardinia-Piedmont;;Fairline
+NW606;Fanteria di Linea 1790 (Line Infantry x2);green/white;Regular Infantry;1700/1800 Italy;;Fairline
+NW607;Fanteria Leggera 1790 (Moving Light Infantry x2);green/white;Regular Infantry;1700/1800 Italy;;Fairline
+NW608;Piyade 1826 (Line Infantry x2);red/blue;Regular Infantry;1800 Turkey;;Fairline
+NW609;Muhafiz 1760 (Elite Infantry x2);green/yellow/blue;Elite Infantry;1700/1800 Turkey;;Fairline
+NW610;Sipahi 1760 (Cavalry x2);red/green;Cavalry;1700/1800 Turkey;Horse;Fairline
+NW611;6 inch (152 mm) Haubitze (Howitzer Foot Artillery) + Crew (x2) 1760;green/yellow/brown;Towed Arty;1700 Germany Saxony;;Fairline
+NW612;General (Cavalry x1);green/red/white;HQ Cavalry;1700/1800 Turkey;Horse;Fairline
+NW613;4 pdr Savas Topu (Foot Artillery) + Crew (x2) 1760;blue/green;Towed Arty;1700/1800 Turkey;;Fairline
+NW614;6 pdr Savas Topu (Foot Artillery) + Crew (x2) 1760;green/blue;Towed Arty;1700/1800 Turkey;;Fairline
+NW615;8 pdr Savas Topu (Foot Artillery) + Crew (x2) 1760;green/blue;Towed Arty;1700/1800 Turkey;;Fairline
+NW616;12 pdr Savas Topu (Foot Artillery) + Crew (x2) 1760;green/blue;Towed Arty;1700/1800 Turkey;;Fairline
+NW617;8 pdr Atli Topçu (Horse Artillery) + Crew (x2) 1790;green/blue;Towed Arty (horse);1700/1800 Turkey;;Fairline
+NW618;Yeniçeri 1760 (Line Infantry x2);blue/red;Regular Infantry;1700/1800 Turkey;;Fairline
+NW619;Fysiljar 1790 (Moving Line Infantry x2);blue/white;Regular Infantry;1700/1800 Sweden;;Fairline
+NW620;Livgardets Grenadjarer 1790 (Elite Infantry x2);blue/red/white;Elite Infantry;1700/1800 Sweden;;Fairline
+NW621;Skarpskytte 1790 (Sniper Infantry x1);green;Sniper Infantry;1700/1800 Sweden;;Fairline
+NW622;Kyrassiarer 1790 (Cavalry x2);yellow/grey;Cavalry (cuirassier);1700/1800 Sweden;Horse;Fairline
+NW623;Dragoner 1800 (Cavalry x2);blue/yellow;Cavalry (dragoon);1800 Sweden;Horse;Fairline
+NW624;Husar 1800 (Light Cavalry x1);blue/yellow;Cavalry (hussar);1800 Sweden;Horse;Fairline
+NW625;Moving Line Infantry 1810 (x2);blue/white;Regular Infantry;1800 USA;;Fairline
+NW626;Moving Line Infantry 1780 (x2);blue/white;Regular Infantry;1700 USA;;Fairline
+NW627;Rifles 1800 (Sniper Infantry x1);olive;Sniper Infantry;1800 USA;;Fairline
+NW628;Dragoons 1810 (Cavalry x2);blue/white;Cavalry (dragoon);1800 USA;Horse;Fairline
+NW629;6 inch (152 mm) Howitzer Foot Artillery + Crew (x2) 1760;blue;Towed Arty;1700 UK (United Kingdom / Great Britain);;Fairline
+NW630;Light Infantry 1810 (x2);blue/white;Regular Infantry;1800 USA;;Fairline
+NW631;8 pdr Artyleria (Foot Artillery) + Crew (x2) 1807;green/white/yellow;Towed Arty;1800 Poland;;Fairline
+NW632;General 1810 (Cavalry x1);blue;HQ Cavalry;1800 USA;Horse;Fairline
+NW633;Marines 1810 (Naval Infantry x2);grey;Naval Infantry;1800 USA Marine (USMC);;Fairline
+NW634;Elite Infantry 1810 (x2);grey/white;Elite Infantry;1800 USA;;Fairline
+NW635;Standard-bearers 1810 (HQ Command Infantry x2) + Flag;blue/white;HQ Infantry;1800 USA;;Fairline
+NW636;12 inch (305 mm) Mozdzierz (Siege Mortar) + Crew (x1) 1807;green/white/brown;Towed Arty;1800 Poland;;Fairline
+NW637;Firing Line Infantry 1810 (x2);blue/white;Regular Infantry;1800 USA;;Fairline
+NW638;Firing Line Infantry 1780 (x2);blue/white;Regular Infantry;1700 USA;;Fairline
+NW639;Mountain Infantry 1810 (x2);olive;Mountain Infantry;1800 USA;;Fairline
+NW640;4 pdr Artyleria (Foot Artillery) + Crew (x2) 1807;green/white/yellow;Towed Arty;1800 Poland;;Fairline
+NW641;12 pdr Artyleria (Foot Artillery) + Crew (x2) 1807;green/white/yellow;Towed Arty;1800 Poland;;Fairline
+NW642;6 pdr Artyleria (Foot Artillery) + Crew (x2) 1807;green/white/yellow;Towed Arty;1800 Poland;;Fairline
+NW643;Rhode Island Militia Infantry 1770 (x2);white;Militia Infantry;1700 USA;;Fairline
+NW644;6 pdr Artyleria Konna (Horse Artillery) + Crew (x2) 1807;green/white/yellow;Towed Arty (horse);1800 Poland;;Fairline
+NW645;6 inch (152 mm) Haubica (Howitzer Foot Artillery) + Crew (x2) 1807;green/white/yellow;Towed Arty;1800 Poland;;Fairline
+NW646;6 inch (152 mm) Obusier (Howitzer Foot Artillery) + Crew (x2) 1740;blue/red/green;Towed Arty;1700 France;;Fairline
+NW647;6 inch (152 mm) Howitzer Foot Artillery + Crew (x2) 1770;brown/white/blue;Towed Arty;1700 USA;;Fairline
+NW648;6 inch (152 mm) Haubitze (Howitzer Foot Artillery) + Crew (x2) 1760;blue/yellow/red;Towed Arty;1700 Germany Hessen-Kassel;;Fairline
+NW649;Ierolohites 1820 (Light Infantry x2);black/grey;Regular Infantry;1800 Greece;;Fairline
+NW650;Navtes 1820 (Naval Infantry x2);blue/red/white;Naval Infantry;1800 Greece;;Fairline
+NW651;Loghofori Ippis 1820 (Cavalry x1);green/grey;Cavalry (lancer);1800 Greece;Horse;Fairline
+NW652;Dragoni 1820 (Cavalry x2);green/red;Cavalry (dragoon);1800 Greece;Horse;Fairline
+NW653;6 pdr Berittene Artillerie (Horse Artillery) + Crew (x2) 1760;brown/yellow;Towed Arty (horse);1700 Austria;;Fairline
+NW654;8 pdr Feldkanone (Foot Artillery) + Crew (x2) 1760;brown/yellow;Towed Arty;1700 Austria;;Fairline
+NW655;4 pdr Feldkanone (Foot Artillery) + Crew (x2) 1760;brown/yellow;Towed Arty;1700 Austria;;Fairline
+NW656;12 pdr Feldkanone (Foot Artillery) + Crew (x2) 1760;brown/yellow;Towed Arty;1700 Austria;;Fairline
+NW657;6 pdr Feldkanone (Foot Artillery) + Crew (x2) 1760;brown/yellow;Towed Arty;1700 Austria;;Fairline
+NW658;6 inch (152 mm) Haubitze (Howitzer Foot Artillery) + Crew (x2) 1760;brown/yellow;Towed Arty;1700 Austria;;Fairline
+NW659;12 inch (305 mm) Belagerungsmörser (Siege Mortar) + Crew (x1) 1760;brown;Towed Arty;1700 Austria;;Fairline
+NW660;Stabseinheit / Feldkommando 1760 (HQ Command Infantry x2) + Flag;black/white;HQ Infantry;1700 Austria;;Fairline
+NW661;Kürassiere 1760 (Cavalry x2);blue/white;Cavalry (cuirassier);1700 Germany Bavaria;Horse;Fairline
+NW662;Grenadiere 1760 (Elite Infantry x2);blue/white;Elite Infantry;1700 Germany Bavaria;;Fairline
+NW663;Stabseinheit / Feldkommando 1760 (HQ Command Infantry x2) + Flag;red/blue/yellow;HQ Infantry;1700 Germany Hanover;;Fairline
+NW664;Musketiere 1760 (Light Infantry x2);blue/white/yellow;Regular Infantry;1700 Germany Hessen-Kassel;;Fairline
+NW665;Grenadiere 1760 (Elite Infantry x2);white/blue;Elite Infantry;1700 Germany Saxony;;Fairline
+NW666;South Carolina Militia Infantry 1770 (x2);blue/white;Militia Infantry;1700 USA;;Fairline
+NW667;Virginia Militia Infantry 1770 (x2);olive/blue;Militia Infantry;1700 USA;;Fairline
+NW668;Stabseinheit / Feldkommando 1760 (HQ Command Infantry x2) + Flag;blue/white;HQ Infantry;1700 Germany Prussia;;Fairline
+NW669;Generalny Shtab / Komandovaniye 1760 (HQ Command Infantry x2) + Flag;green/red;HQ Infantry;1800 Russia;;Fairline
+NW670;Sappers 1810 (Bridging Infantry x2);grey/white;Bridging Infantry;1800 USA;;Fairline
+NW671;Füsiliere 1760 (Firing Line Infantry x2);blue/white;Regular Infantry;1700 Germany Bavaria;;Fairline
+NW672;Musketiere 1760 (Firing Light Infantry x2);red/white/yellow;Regular Infantry;1700 Germany Hanover;;Fairline
+NW673;Füsiliere 1760 (Firing Line Infantry x2);blue/white/yellow;Regular Infantry;1700 Germany Hessen-Kassel;;Fairline
+NW674;Füsiliere 1760 (Firing Line Infantry x2);blue/white;Regular Infantry;1700 Germany Saxony;;Fairline
+NW675;Musketerare 1760 (Firing Light Infantry x2);blue/yellow;Regular Infantry;1700 Sweden;;Fairline
+NW676;Stabseinheit / Feldkommando 1760 (HQ Command Infantry x2) + Flag;blue/white;HQ Infantry;1700 Germany Bavaria;;Fairline
+NW677;Stabseinheit / Feldkommando 1760 (HQ Command Infantry x2) + Flag;blue/white;HQ Infantry;1700 Germany Saxony;;Fairline
+NW678;Sappeure 1760 (Bridging Infantry x2);blue/sand;Bridging Infantry;1700 Germany Hessen-Kassel;;Fairline
+NW679;Firing Line Infantry 1760 (x2);red;Regular Infantry;1700 UK (United Kingdom / Great Britain);;Fairline
+NW680;Füsiliere 1790 (Firing Line Infantry x2);blue/red/white;Regular Infantry;1700/1800 Germany Bavaria;;Fairline
+NW681;Fuzileiro 1790 (Firing Line Infantry x2);blue;Regular Infantry;1700/1800 Portugal;;Fairline
+NW682;Fusiliers 1790 (Firing Line Infantry x2);red/grey;Regular Infantry;1700/1800 Denmark;;Fairline
+NW683;Fuseliers 1815 (Firing Line Infantry x2);blue/grey;Regular Infantry;1800 Netherlands;;Fairline
+NW684;Füsiliere 1790 (Firing Line Infantry x2);white/blue;Regular Infantry;1700/1800 Germany Westphalia;;Fairline
+NW686;Füsiliere 1790 (Firing Line Infantry x2);blue/white;Regular Infantry;1700/1800 Germany Württemberg;;Fairline
+NW687;Sappers 1760 (Bridging Infantry x2);red/green/sand;Bridging Infantry;1700 UK (United Kingdom / Great Britain);;Fairline
+NW688;Dragons de la Garde Royale 1760 (Cavalry x2);green/red;Cavalry (dragoon);1700 France;Horse;Fairline
+NW689;General 1760 (Cavalry x1);blue;HQ Cavalry;1700 Germany Hanover;Horse;Fairline
+NW690;Husaren 1760 (Light Cavalry x1);blue/red;Cavalry (hussar);1700 Germany Hessen-Kassel;Horse;Fairline
+NW691;Husar 1760 (Light Cavalry x1);blue/yellow;Cavalry (hussar);1700 Sweden;Horse;Fairline
+NW692;Conti Cavalerie 1760 (Light Cavalry x1);grey/yellow;Cavalry (chevau-léger);1700 France;Horse;Fairline
+NW693;Standard-bearers 1760 (HQ Command Infantry x2) + Flag;red/white;HQ Infantry;1700 UK (United Kingdom / Great Britain);;Fairline
+NW694;Musketiere 1760 (Moving Line Infantry x2);blue/white/red;Regular Infantry;1700 Germany Prussia;;Fairline
+NW695;Musketiere 1760 (Firing Line Infantry x2);blue/white/red;Regular Infantry;1700 Germany Prussia;;Fairline
+NW696;Grenadiere 1760 (Elite Infantry x2);blue/white/red;Elite Infantry;1700 Germany Prussia;;Fairline
+NW697;Garde-Grenadiere 1760 (Elite Infantry x2);blue/sand;Elite Infantry;1700 Germany Prussia;;Fairline
+NW698;Füsiliere 1760 (Moving Light Infantry x2);blue/white/pink;Regular Infantry;1700 Germany Prussia;;Fairline
+NW699;Jäger 1760 (Mountain Infantry x2);green/sand;Mountain Infantry;1700 Germany Prussia;;Fairline
+NW700;Scharfschützen 1760 (Sniper Infantry x1);green/sand;Sniper Infantry;1700 Germany Prussia;;Fairline
+NW701;Sappeure 1760 (Bridging Infantry x2);blue/sand;Bridging Infantry;1700 Germany Prussia;;Fairline

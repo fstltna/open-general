@@ -1,0 +1,133 @@
+Crossing the Schelde
+3/II/2 Cocotte Rouge
+4/II/2CocotteBlanche
+1/I/2 La Comette
+2/I/2 Le Chardon
+5/III/3 FauconEgypt.
+7/III/3 FlecheAilee
+1/I/1 Mouette
+9/V/1 Sioux Blue
+Div.AT/10ID [IV]
+Div.AT/10ID [IV]
+II/10/10ID [IV]
+III/10/10ID [IV]
+IV/10/10ID [IV]
+I/10/10ID [IV]
+Div.AA/10ID [IV]
+I/3Ch/10DI [IV]
+II/3Ch/10DI [IV]
+III/3Ch/10DI [IV]
+I/5Ch/10DI [IV]
+II/5Ch/10DI [IV]
+III/5Ch/10DI [IV]
+I/6Ch/10DI [IV]
+II/6Ch/10DI [IV]
+III/6Ch/10DI [IV]
+I/9/11DI [IV]
+II/9/11DI [IV]
+III/9/11DI [IV]
+IV/9/11DI [IV]
+I/14/11DI [IV]
+II/14/11DI [IV]
+III/14/11DI [IV]
+I/20/11DI [IV]
+II/20/11DI [IV]
+III/20/11DI [IV]
+I/29/11DI [IV]
+II/29/11DI [IV]
+III/29/11DI [IV]
+AT/1DC [CC]
+III/17/1DC [CC]
+IV/17/1CD [CC]
+I/17/1DC [CC]
+II/17/1DC [CC]
+1Kar.Cycl./1DC [CC]
+3Kar.Cycl./1DC [CC]
+Recce  [CC]
+1G/1DC [CC]
+2L/1DC [CC]
+3L/1DC [CC]
+14/-/95/9eDIM
+10/30eRAD/9eDIM
+I/230/9eDIM
+II/230/9eDIM
+I/30/9eDIM
+II/30/9eDIM
+III/30/9eDIM
+704/409eRADCA/9eDIM
+I/13/9eDIM
+II/13/9eDIM
+III/13/9eDIM
+I/95/9eDIM
+II/95/9eDIM
+III/95/9eDIM
+I/131/9eDIM
+II/131/9eDIM
+III/131/9eDIM
+13/-/13/9eDIM
+9/-/9eDIM
+2IDReconGroup/9eDIM
+Fort Liefkenshoek
+Fort St-Maria
+Fort van Zwijndrecht
+Fort van Kruibeke
+Fort van Hoboken
+I/33/9Pz [XXVI]
+II/33/9Pz [XXVI]
+50/-/9Pz [XXVI]
+I/102/9Pz [XXVI]
+II/102/9Pz [XXVI]
+III/102/9Pz [XXVI]
+701sIG/-/-/9Pz [XXVI]
+9/-/9Pz [XXVI]
+I/10/9Pz [XXVI]
+II/10/9Pz [XXVI]
+III/10/9Pz [XXVI]
+I/11/9Pz [XXVI]
+II/11/9Pz [XXVI]
+III/11/9Pz [XXVI]
+9/-/9Pz [XXVI]
+86Pio/-/9Pz [XXVI]
+I/SS Aty Rgt
+II/SS Aty Rgt
+III/SS Aty Rgt
+SS Aufkl Bn
+SS Fla Bn
+I/SSRgtDeutschland
+II/SSRgtDeutschland
+III/SSRgtDeutschland
+I/JG26 [JFF2] LF2
+II/JG26 [JFF2] LF2
+II/ZG1 [JFF2] LF2
+II/JG26 [JFF2] LF2
+III/JG26 [JFF2] LF2
+I/KG30 [IV] LF2
+Schelde
+Rupel
+Moervaart
+Prosper dorp
+Kalo
+Stekene
+St-Niklaas
+Belsele
+Haasdonk
+Nieuwkerken
+Beveren
+Melsele
+Zwijndrecht
+Burcht
+Kruibeke
+Bazel
+Rupelmonde
+Hemiksem
+Schelle
+Aartselaar
+Kontich
+Antwerpen
+Doel
+Wilrijk
+Edegem
+Hulst
+Destroyed bridge
+Vliegveld Belsele 
+[IV]

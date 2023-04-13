@@ -1,0 +1,17 @@
+1936-45 RED ARMY CAMPAIGN
+Soviet Campaign
+
+Lead your troops to victory in this OpenGeneral campaign about the Red Army in Second World War and fight selected battles in Spanish Civil War, the Japanese-Soviet border conflict, the Winter War, Poland and the Great Patriotic War. 
+
+The campaign uses the "elite/green replacements" feature. Units which had suffered losses in battle, have experience points to pay if you use green replacement, depending on the amount of the losses. Your core units are not automatically refreshed after a scenario, so avoid wasteful or unnecessary attacks. Furthermore, you can add so-called attachments to your units that increase their effectiveness, but cost some prestige.
+
+Enjoy!
+
+Björn aka Golothin
+
+Comments, compliments, suggestions or whatever can be sent to: golothin@netscape.net
+
+Campaign Designer: Golothin
+Number of Scenarios: 21 linear
+LXF Version: v1.0
+Last Playtest: 10/2020

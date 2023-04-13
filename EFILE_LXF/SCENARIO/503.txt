@@ -1,0 +1,18 @@
+1943-45 HEAVY PANZER DETACHMENT 503
+Builders Paradise sPzAbt 503 Campaign
+
+Oberstleutnant Post, you have been given command of the newly formed schwere Panzerabteilung 503, equipped with 20 Panzerkampfwagen Tiger Ausf.E and 25 Pz.Kpfw.III Ausf.N. Your unit was supposed to be sent to Africa, but orders have changed: Southern Russia it is.
+
+Where did the idea of making this campaign came from? Back in September 2003, Steve Brown had the idea creating a collaborative Panzer General 2 campaign focusing on a small German panzer unit. Each of the campaign makers active on the Builders Paradise forum would contribute one or two scenarios. After looking into the unit histories, schwere Panzerabteilung 503 was selected. The equipment file was Adler's AdlerKorps. Unfortunately only a handful of scenarios were actually created by Dennis Felling (Armygroup DF), Jorge Gabitto and Jurgen Smet (Wonderdoctor).
+
+The project was however picked up again in August 2014 by Jurgen after getting in touch with Dennis, Doug (Dhoned), Adler, Steve, Björn (Golothin) and many others on the JP's Panzers Forum. Major contributor of campaign design ideas and Hungarian late-war scenarios for the new project was Csaba (lvjtn). Björn (Golothin) - also heavily involved in the original project - takes care of the LXF e-file version of the campaign so that it is available for more than just the AdlerKorps e-file.
+
+Enjoy!
+
+Jurgen Smet & Csaba Zsadányi-Nagy aka Wonderdoctor & lvjtn
+
+Campaign Designer: Jurgen Smet & Csaba Zsadányi-Nagy
+Number of Scenarios: 12
+LXF Conversion: Golothin, based on AK v1.00
+LXF Version: v2.2
+Last Playtest: ?

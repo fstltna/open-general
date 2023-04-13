@@ -1,0 +1,184 @@
+1943 San Francisco - US Gegenangriff [PL 3.2]
+Golden Gate Bridge
+Alcatraz Gefaegnis
+Bridge
+Oakland
+Danville
+San Francisco
+San Ramon
+Golden Gate Nat. Rec. Gebiet
+Alameda
+San Leandro
+Dublin
+Livermore
+Hayward
+Pleasanton
+Union City
+San Mateo
+Fremont
+Redwood City
+Milpitas
+Palo Alto
+San Jose
+Los Altos
+Saratoga
+Cupertino
+Scotts Valley
+Los Gatos
+Morgan Hill
+Gilroy
+Santa Cruz
+Strand
+Capitola
+Watsonville
+Marina
+Monterey
+8 R/4 Div./[16A]
+37 R/4 Div./[16A]
+4 AR/4 Div./[16A]
+[IJNAF]
+[IJNAF]
+[IJNAF]
+IJN Tenryu
+IJN Yubari
+IJN Aoba
+IJN Kako
+IJN Yudachi
+61 R/4 Div./[16A]
+4 ER/4 Div./[16A]
+56 Bde./[16A]
+4 R/2 Div./[16A]
+16 R/2 Div./[16A]
+29 R/2 Div./[16A]
+2 AR/2 Div./[16A]
+19 ER/2 Div./[16A]
+20 AR/2 Div./[16A]
+2 AA/2 Div./[16A]
+8 Tk.Rgt./[16A]
+4 AR/-/[16A]
+IJN Kongo
+IJN Haruna
+[16 Army HQ]
+Kaiserliche WachAbtl.
+SNLF
+4 CR/4 Div./[16A]
+4.Kommando
+4.Kommando
+4.Kommando
+4.Kommando
+Alameda-Luftverteidigungen
+Alameda-Luftverteidigungen
+SF Bucht Kuestenverteidigungen
+SF Bucht Kuestenverteidigungen
+Militaerpolizei/-/[16A]
+Militaerpolizei/-/[16A]
+Militaerpolizei/-/[16A]
+SF Kuestenverteidigung
+SF Kuestenverteidigung
+SF Kuestenverteidigung
+SF Kuestenverteidigung
+SF Kuestenverteidigung
+SF Kuestenverteidigung
+SF Kuestenverteidigung
+SF Kuestenverteidigung
+San Francisco Luftverteidigung
+SF Kuestenverteidigung
+SF Kuestenverteidigung
+1 Bde./1 CD/[IX]
+2 Bde./1 CD/[IX]
+3 Bde./1 CD/[IX]
+4 Bde./1 CD/[IX]
+82 FAR/1 CD/[IX]
+129 R/65 Bde./33 Div./[IX]
+130 R/65 Bde./33 Div./[IX]
+131 R/66 Bde./33 Div./[IX]
+132 R/66 Bde./33 Div./[IX]
+122 AR/Art.Bde./33 Div./[IX]
+131 R/66 Bde./33 Div./[IX]
+124 AR/Art.Bde./33 Div./[IX]
+123 AR/Art.Bde./33 Div./[IX]
+108 ER/33 Div./[IX]
+23 R/4 USMC/[IX]
+24 R/4 USMC/[IX]
+25 R/4 USMC/[IX]
+14 R/4 USMC/[IX]
+4 Tk.Bn./4 USMC/[IX]
+4 Pio.Bn./4 USMC/[IX]
+I-401
+I-400
+USS Yorktown
+USS Essex
+USS Boise
+USS Northampton
+USS Iowa
+USS Idaho
+USS Atlanta
+USS Reno
+USS Salt Lake City
+USS South Dakota
+USS Brooklyn
+USS Cleveland
+USS Honolulu
+[Yorktown]
+[Essex]
+SNLF
+Kaiserliche WachDiv./[16A]
+Kaiserliche WachDiv./[25A]
+Kaiserliche WachDiv./[25A]
+Kaiserliche WachDiv./[25A]
+Kaiserliche WachDiv./[25A]
+MARINEBLOCKADE
+Kaiserliche WachDiv./[25A]
+3.Feld AR/-/[25A]
+18.Feld AR/-/[25A]
+21.Feld AR/-/[25A]
+[16 Abteilung]
+[16 Abteilung]
+[16 Abteilung]
+Kaiserliche WachDiv./[16A]
+Kaiserliche WachDiv./[16A]
+Kaiserliche WachDiv./[16A]
+Kaiserliche WachDiv./[16A]
+Kaiserliche WachDiv./[16A]
+CA
+CA
+CA
+CA
+155 R/61 Bde./31 Div./[IX]
+156 R/61 Bde./31 Div./[IX]
+154 R/62 Bde./31 Div./[IX]
+167 R/62 Bde./31 Div./[IX]
+106 ER/31 Div./[IX]
+114 AR/56 Art.Bde./31 Div./[IX]
+116 AR/56 Art.Bde./31 Div./[IX]
+117 AR/56 Art.Bde./31 Div./[IX]
+149 R/75 Bde./38 Div./[IX]
+150 R/75 Bde./38 Div./[IX]
+151 R/76 Bde./38 Div./[IX]
+152 R/76 Bde./38 Div./[IX]
+113 ER/38 Div./[IX]
+138 AR/63 Art.Bde./38 Div./[IX]
+151 R/76 Bde./38 Div./[IX]
+139 AR/63 Art.Bde./38 Div./[IX]
+140 AR/63 Art.Bde./38 Div./[IX]
+SF Kuestenverteidigung
+CA
+CA
+4 R/2 Div./[16A]
+16 R/2 Div./[16A]
+29 R/2 Div./[16A]
+2 AR/2 Div./[16A]
+19 ER/2 Div./[16A]
+20 AR/2 Div./[16A]
+2 AA/2 Div./[16A]
+2 Div./[16A]
+4 AR/-/[16A]
+IJN Kinugasa
+IJN Akagi
+IJN Taiyo
+IJN Tone
+IJN Minekaze
+IJN Akizuki
+IJN Yamato
+2 Yokosuka/SNLF
+3 Yokosuka/SNLF

@@ -1,0 +1,122 @@
+'---
+'Config AI file for scenario: OAKSB_S_nordwind.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=60 
+$buy_newair=40 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3  
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2  
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=104 items  ' Replacement for default list
+  26  '  M16  [FlaK  France]  Cost: 312
+  28  '  90mm mle40  [ AD  France]  Cost: 552
+  29  '  M10  [ AT  France]  Cost: 480
+  31  '  155mm L mle17F  [ATY  France]  Cost: 756
+  33  '  M7  [ATY  France]  Cost: 684
+  40  '  43 Infanterie  [INF  France]  Cost: 96
+  41  '  M8  [RCN  France]  Cost: 480
+  50  '  M5A1  [RCN  France]  Cost: 552
+  51  '  M4A2  [ TK  France]  Cost: 564
+  52  '  M4A1(76)W  [ TK  France]  Cost: 1044
+ 400  '  90mm M1A1  [ AD  USA]  Cost: 552
+ 401  '  M15A1  [ AD  USA]  Cost: 540
+ 402  '  M16  [FlaK  USA]  Cost: 312
+ 403  '  3inch M5  [ AT  USA]  Cost: 180
+ 405  '  57mm M1  [ AT  USA]  Cost: 120
+ 406  '  M10  [ AT  USA]  Cost: 480
+ 407  '  M18  [ AT  USA]  Cost: 420
+ 409  '  M36  [ AT  USA]  Cost: 504
+ 410  '  105mm How M2  [ATY  USA]  Cost: 240
+ 411  '  155mm How M1  [ATY  USA]  Cost: 528
+ 412  '  75mm How M8 AB  [ATY  USA]  Cost: 312
+ 413  '  8inch Gun M1  [ATY  USA]  Cost: 2328
+ 414  '  M12  [ATY  USA]  Cost: 1200
+ 415  '  M4(105)  [ AT  USA]  Cost: 468
+ 416  '  M7  [ATY  USA]  Cost: 660
+ 417  '  M8  [ AT  USA]  Cost: 216
+ 428  '  M20  [RCN  USA]  Cost: 240
+ 429  '  M24  [RCN  USA]  Cost: 612
+ 430  '  M8  [RCN  USA]  Cost: 480
+ 440  '  M5A1  [RCN  USA]  Cost: 552
+ 443  '  M4A1  [ TK  USA]  Cost: 552
+ 444  '  M4A1(76)W  [ TK  USA]  Cost: 1044
+ 446  '  M4A3E2  [ TK  USA]  Cost: 852
+ 447  '  M4A3(76)W HVSS  [ TK  USA]  Cost: 1080
+ 454  '  P-38J  [FTR  USA]  Cost: 1224
+ 455  '  P-38L  [FTR  USA]  Cost: 1248
+ 458  '  P-47D-25  [FTR  USA]  Cost: 1248
+ 461  '  P-51D-5  [FTR  USA]  Cost: 1200
+ 465  '  A-26B  [ TB  USA]  Cost: 1308
+ 567  '  43 Infantry  [INF  USA]  Cost: 96
+ 666  '  105mm C mle35  [ATY  France]  Cost: 240
+ 677  '  M4A3E2(76)W  [ TK  USA]  Cost: 1584
+ 731  '  M13  [FlaK  USA]  Cost: 192
+ 898  '  40mm M1  [ AD  USA]  Cost: 180
+1165  '  20mm mle39  [FlaK  France]  Cost: 72
+1169  '  57mm mle41  [ AT  France]  Cost: 132
+1178  '  81mm mle39  [ATY  France]  Cost: 84
+1179  '  155mm L mle38  [ATY  France]  Cost: 1380
+1180  '  155mm C mle41  [ATY  France]  Cost: 480
+1188  '  43 Chocs  [INF  France]  Cost: 1980
+1192  '  M3A1  [RCN  France]  Cost: 192
+1195  '  Centaur III  [ TK  France]  Cost: 564
+1196  '  P.38F  [FTR  France]  Cost: 1200
+1197  '  P.47D  [FTR  France]  Cost: 1272
+1746  '  .50 M51  [FlaK  USA]  Cost: 48
+1750  '  81mm Mortar M1  [ATY  USA]  Cost: 84
+1751  '  4.2inch Mortar M30  [ATY  USA]  Cost: 204
+1755  '  105mm How M3 AB  [ATY  USA]  Cost: 360
+1757  '  155mm Gun M1A1  [ATY  USA]  Cost: 1380
+1760  '  240mm How M1  [ATY  USA]  Cost: 1824
+1761  '  8inch How M1  [ATY  USA]  Cost: 1500
+1765  '  M4  [ TK  USA]  Cost: 564
+1766  '  M4A3(75)W  [ TK  USA]  Cost: 648
+1767  '  M4A3(76)W  [ TK  USA]  Cost: 1044
+1770  '  M22  [ TK  USA]  Cost: 528
+1995  '  43 Airborne Engineers  [INF  USA]  Cost: 864
+2795  '  .50 M2 AB  [FlaK  USA]  Cost: 144
+2825  '  M3 GMC  [ AT  France]  Cost: 180
+2826  '  M8  [ AT  France]  Cost: 312
+2863  '  43 Sapeurs  [INF  France]  Cost: 456
+2866  '  44 Infanterie Mecanisee  [INF  France]  Cost: 540
+2908  '  57mm M1 AB  [ AT  USA]  Cost: 264
+2910  '  GP AB  [RCN  USA]  Cost: 288
+3173  '  M4A1  [ATY  USA]  Cost: 252
+3304  '  43 Infanterie de l'Air  [INF  France]  Cost: 432
+3915  '  44 Glider Infantry  [INF  USA]  Cost: 312
+3923  '  44 Parachute Infantry  [INF  USA]  Cost: 408
+3932  '  43 Combat Engineers  [INF  USA]  Cost: 492
+3933  '  43 Bridging  [INF  USA]  Cost: 216
+3936  '  43 MP  [INF  USA]  Cost: 72
+3937  '  43 Ranger  [INF  USA]  Cost: 780
+3938  '  44 Armored Infantry  [INF  USA]  Cost: 540
+3957  '  43 Pontonniers  [INF  France]  Cost: 216
+3959  '  44 Infanterie de l'Air  [INF  France]  Cost: 444
+4114  '  Spitfire PR.XI  [ TB  USA]  Cost: 864
+4510  '  P-47D-22  [ TB  USA]  Cost: 1392
+4511  '  P-51D-15  [ TB  USA]  Cost: 1356
+4515  '  P-51D-25  [FTR  USA]  Cost: 1224
+4516  '  P-38J 'Droop Snoot'  [ TB  USA]  Cost: 1164
+4609  '  B-26F  [ TB  USA]  Cost: 1260
+4619  '  F-3A  [ TB  USA]  Cost: 852
+4620  '  F-5E  [ TB  USA]  Cost: 948
+4661  '  L-3  [ TB  USA]  Cost: 276
+4662  '  L-5  [ TB  USA]  Cost: 300
+4663  '  Mosquito PR.XVI  [ TB  USA]  Cost: 948
+4667  '  Beaufighter TF.X  [ TB  USA]  Cost: 1188
+4744  '  P-47D-40  [FTR  USA]  Cost: 1308
+5086  '  L-4A  [ TB  USA]  Cost: 276
+5104  '  P-47D-30  [ TB  USA]  Cost: 1392
+5213  '  VUDB  [RCN  France]  Cost: 168
+5511  '  44 FFI  [INF  France]  Cost: 96
+5512  '  44 FFI Recon  [RCN  France]  Cost: 180
+5513  '  M12  [ATY  France]  Cost: 1212
+5586  '  81mm Maquis  [ATY  France]  Cost: 84

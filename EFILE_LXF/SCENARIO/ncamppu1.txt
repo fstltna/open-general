@@ -1,0 +1,133 @@
+Pusan Perimeter 1
+Nam River
+Naktong-ni
+Ulsong
+Yongdok
+Kumch'on
+Kumwi
+Waegwan
+Taegu
+P'ohang-dong
+Onyang
+Tongsan
+Chanji
+Miryang
+Yangsan
+Ulsan
+Yongsan
+Naktong River
+Samnagjnin
+Hanam
+Namch'ang
+Munang
+Chingyong
+Changan
+Masan
+Kimhae
+Ch'angwon
+Kijang
+Chinhae
+Pusan [AIRFIELD]
+Pusan
+Chinju
+USS Helena
+Task Force P'ohang (C/18)
+TF P'ohang (P'ohang KMC)
+Task Force P'ohang (I/17)
+Task Force P'ohang (II/17)
+Yuhak-san Hill
+Obong-ni Ridge
+8th Army Supply Base
+I/35/25th Division
+II/35/25th Division
+I/24/25th Division
+II/24/25th Division
+I/5RCT/25th Division
+II/5RCT/25th Division
+III/5RCT/25th Division
+I/34/24th Division
+II/34/24th Division
+I/21/24th Division
+II/21/24th Division
+I/19/24th Division
+II/19/24th Division
+III/17 ROK/24th Division
+1st Prov. Marine Bgd. (I/5)
+Taegu Airfield Defenses
+1st Prov. Marine Bgd. (II/5)
+I/7C/1st Cavalry Division
+II/7C/1st Cavalry Division
+I/8C/1st Cavalry Division
+II/8C/1st Cavalry Division
+III/8C/1st Cavalry Division
+I/5C/1st Cavalry Division
+II/5C/1st Cavalry Division
+III/5C/1st Cavalry Division
+III/7C/1st Cavalry Division
+A/71st Heavy Tank Bn
+USAF 39th Fighter Squadron
+I/13/6th Division
+II/13/6th Division
+I/14/6th Division
+II/15/6th Division
+I/15/6th Division
+II/14/6th Division
+64/-/25th Division
+I/7/3rd Division
+II/7/3rd Division
+I/8/3rd Division
+II/8/3rd Division
+1/507/-/1st Cavalry Division
+I/29/10th Division
+II/29/10th Division
+I/25/10th Division
+II/25/10th Division
+I/3/8th Division
+I/2/8th Division
+II/2/8th Division
+III/2/8th Division
+I/1/12th Division
+766th Independent Regiment
+I/10/5th Division
+II/1/12th Division
+III/1/12th Division
+II/10/5th Division
+III/10/5th Division
+I/5/5th Division
+I/11/1st Division
+II/11/1st Division
+III/11/1st Division
+I/12/1st Division
+II/12/1st Division
+III/12/1st Division
+I/7/6th Division
+II/7/6th Division
+I/8/6th Division
+II/8/6th Division
+I/10/8th Division
+II/10/8th Division
+III/10/8th Division
+I/21/8th Division
+I/18/Capital Division
+II/18/Capital Division
+III/18/Capital Division
+I/23/3rd Division
+II/23/3rd Division
+I/22/3rd Division
+I/20/1st Division
+II/20/1st Division
+I/24/1st Division
+II/24/1st Division
+Mtr/20/1st Division
+II/21/8th Division
+III/21/8th Division
+61/-/1st Cavalry Div.
+82/-/1st Cavalry Div.
+II/3/8th Division
+III/3/8th Division
+II/11/5th Division
+I/11/5th Division
+I/12/5th Division
+II/12/5th Division
+Naktong River: Blown Bridge
+Cloverleaf Hill

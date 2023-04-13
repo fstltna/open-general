@@ -1,0 +1,4 @@
+No has seleccionado destino, porfavor, selecciona un destino en el mapa estrategico.
+
+
+You haven't selected any destination. Please, select where your army will go.

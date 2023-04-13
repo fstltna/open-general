@@ -1,0 +1,19 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 979  '  Pe-2  [ TB  USSR]  Cost: 720
+1483  '  107mm M1940 (M-60)  [ATY  USSR]  Cost: 792
+2434  '  TB-7/Pe-8  [ LB  USSR]  Cost: 792
+3368  '  120mm Mortar  [ATY  USSR]  Cost: 312
+3703  '  MG 40  [FlaK  USSR]  Cost: 156
+3762  '  Saperno-shturmovoi 40  [INF  USSR]  Cost: 312
+3795  '  Airborne Engineers 40  [INF  USSR]  Cost: 360
+6126  '  KV-1/39  [ TK  USSR]  Cost: 708
+6469  '  KV-1/40  [ TK  USSR]  Cost: 792
+6473  '  KV-2  [ TK  USSR]  Cost: 792
+7545  '  Gwardija 40  [INF  USSR]  Cost: 180
+7869  '  T-28E  [ TK  USSR]  Cost: 504
+7981  '  85mm M1939 (52-K)  [FlaK  USSR]  Cost: 288

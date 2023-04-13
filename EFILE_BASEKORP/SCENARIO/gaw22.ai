@@ -1,0 +1,53 @@
+'---
+'Config AI file for scenario: GAW22.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=45 items  ' Replacement for default list
+ 481  '  SU-152  [ AT  Russia]  Cost: 948
+ 482  '  SU-76M  [ AT  Russia]  Cost: 408
+ 489  '  Katyusha 82mm  [ATY  Russia]  Cost: 420
+ 490  '  Katyusha 300m  [ATY  Russia]  Cost: 708
+ 491  '  SU-122  [ AT  Russia]  Cost: 540
+ 496  '  Kavaleria 41  [INF  Russia]  Cost: 144
+ 506  '  BA-64  [RCN  Russia]  Cost: 276
+ 517  '  KV-1/42  [ TK  Russia]  Cost: 840
+ 522  '  T-34/41  [ TK  Russia]  Cost: 600
+ 524  '  T-34/43  [ TK  Russia]  Cost: 648
+ 530  '  YaK-1  [FTR  Russia]  Cost: 564
+ 531  '  YaK-9D  [FTR  Russia]  Cost: 792
+ 532  '  La-5FN  [FTR  Russia]  Cost: 792
+ 540  '  P-39Q  [ TB  Russia]  Cost: 780
+ 543  '  IL-2m3  [ TB  Russia]  Cost: 780
+ 680  '  Katyusha 132mm  [ATY  Russia]  Cost: 600
+ 689  '  KV-1/42S  [ TK  Russia]  Cost: 840
+ 692  '  OT-34  [ AT  Russia]  Cost: 552
+ 697  '  YaK-1M  [FTR  Russia]  Cost: 720
+ 698  '  YaK-7B  [FTR  Russia]  Cost: 684
+ 979  '  Pe-2  [ TB  Russia]  Cost: 720
+1822  '  T60 BM-8-24  [ATY  Russia]  Cost: 492
+1830  '  Spetsnaz 42  [INF  Russia]  Cost: 540
+1847  '  P-39D  [FTR  Russia]  Cost: 720
+1850  '  Pe-3  [FTR  Russia]  Cost: 576
+1855  '  Tu-2  [ TB  Russia]  Cost: 864
+3024  '  Mineclearer  [INF  Russia]  Cost: 324
+3227  '  YaG-10/76mm  [ AD  Russia]  Cost: 636
+3334  '  BM-13-16  [ATY  Russia]  Cost: 708
+3765  '  Cossacks 41  [INF  Russia]  Cost: 264
+3779  '  Parashutisti 43  [INF  Russia]  Cost: 360
+3782  '  Motociklisti 43  [INF  Russia]  Cost: 300
+3810  '  42 HQ  [RCN  Russia]  Cost: 300
+3812  '  43 Mototsikletnaya Razvedka  [RCN  Russia]  Cost: 300
+4481  '  La-5  [FTR  Russia]  Cost: 684
+4687  '  IL-2 NS-37  [ TB  Russia]  Cost: 864
+4706  '  Tu-2s  [ TB  Russia]  Cost: 864
+5315  '  SU-76  [ATY  Russia]  Cost: 552
+7972  '  SU-37  [ AD  Russia]  Cost: 552
+7979  '  SU-122 How  [ATY  Russia]  Cost: 780
+7980  '  SU-152 How  [ATY  Russia]  Cost: 1248
+7981  '  SU-203  [ATY  Russia]  Cost: 1800
+7984  '  Yag 76.2mm  [ATY  Russia]  Cost: 420
+7987  '  Shocktroops SU-122  [INF  Russia]  Cost: 924
+7988  '  Shocktroops SU-37  [INF  Russia]  Cost: 516

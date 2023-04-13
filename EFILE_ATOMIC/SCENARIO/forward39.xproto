@@ -1,0 +1,25 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 525  '  T-34/85  [ TK  USSR]  Cost: 972
+ 692  '  85mm D-44  [ AT  USSR]  Cost: 192
+1804  '  100mm M1944 (BS-3)  [ AT  USSR]  Cost: 324
+2949  '  ISU-122  [ AT  USSR]  Cost: 1008
+3765  '  Saperno-shturmovoi 44  [INF  USSR]  Cost: 324
+3816  '  Airborne Engineers 44  [INF  USSR]  Cost: 372
+3823  '  MG 44  [FlaK  USSR]  Cost: 180
+4483  '  Yak-3  [FTR  USSR]  Cost: 900
+4686  '  Il-2M3 Shturmovik  [ TB  USSR]  Cost: 912
+4743  '  T-44/85  [ TK  USSR]  Cost: 1596
+5315  '  85mm D-44  [ATY  USSR]  Cost: 564
+5375  '  IS-2  [ TK  USSR]  Cost: 1764
+6117  '  100mm M1944 (BS-3)  [ATY  USSR]  Cost: 840
+7983  '  Udarnyye Voyska T-34/85  [INF  USSR]  Cost: 696
+7985  '  T34 Quad 25mm  [FlaK  USSR]  Cost: 504
+7989  '  Udarnyye Voyska SU-85  [INF  USSR]  Cost: 900
+8645  '  SU-76B  [ATY  USSR]  Cost: 588
+8892  '  ZSU-37  [ AD  USSR]  Cost: 552
+8917  '  ISU-152  [ AT  USSR]  Cost: 1008

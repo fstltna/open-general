@@ -1,0 +1,15 @@
+
+CHENPIECHENG - 12 Aug 1937
+
+Part of Peiping-Suiyuan Railway Operations
+(Japanese victory)
+August 1937
+
+HQ 5th Division - Peiping, Province Hopei
+CO General Seishiro Itagaki
+
+Colonel, with your help Beiping is now in our hands, very good work.  The Chinese forces withdrew in the northwest direction into the Chahar Province.  They will now try to establish a new strong defensive position around the city Kalgan.  To avoid this, you will advance your troops along the Yungting River to the city Chenpiecheng and immediately attack the Chinese.
+
+ORDER - Capture & protect all VHs!
+AUXIN - 1 Engineer-Regiment & Naval-Support
+NEW    - 1xRcn, 2xInf (12 core units)

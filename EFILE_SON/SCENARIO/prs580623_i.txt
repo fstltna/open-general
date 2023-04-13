@@ -1,0 +1,12 @@
+Battle of Krefeld
+June 23, 1758
+
+Since the beginning of his winter offensive in Western Germany in February 1758, the Allied Army under the command of Duke Ferdinand of Brunswick had first pushed back the French Army to the Rhine. Then, at the beginning of June, Ferdinand led his army across the Rhine and initiated a campaign on the west bank of the Rhine. On June 23, Ferdinand, now some 70 km on the west side of the Rhine, found the French drawn up in battle order at Krefeld.
+
+Deploy Hexes: 17
+
+ORDER: Take all VHs and keep your MSU alive.
+
+NOTE: You are awarded by a Cavalry detachment.
+
+scenario designer: Csaba (lvjtn)

@@ -1,0 +1,67 @@
+1941 Landung bei Lingayen [PL 3.2]
+Aringay
+Santo Tomas
+Rosario
+San Jacinto
+San Fabian
+sual
+San Barbara
+Dagupan
+Lingayen
+Tayug
+San Carlos
+Rosales
+Bayambuy
+Aguilar
+Carmen
+1 R/47 ID/14 Armee
+2 R/47 ID/14 Armee
+48 R/47 ID/14 Armee
+1 Taiwan/48 ID/14 Armee
+2 Taiwan/48 ID/14 Armee
+48 Bn/48 ID/14 Armee
+48 Rnc/48 ID/14 Armee
+48 AA/48 ID/14 Armee
+1 R/1 ID/14 Armee
+49 R/1 ID/14 Armee
+57 R/1 ID/14 Armee
+1 Rnc/1 ID/14 Armee
+9 Aty Bn/14 Armee
+1 Aty R/14 Armee
+4 Tk R/14 Armee
+7 Tk R/14 Armee
+Hq/14 Armee
+28 Bn/14 Armee
+Naroti
+Asakaze
+Harukaze
+Matzukaze
+Fumizuki
+Nagatsuki
+Naka
+Arashi
+Nowaki
+Maikaze
+Minegumo
+11 R/11 ID(PA)/USAFFE
+12 R/11 ID(PA)/USAFFE
+13 R/11 ID(PA)/USAFFE
+e Bn/11 ID(PA)/USAFFE
+Art Bn/11 ID(PA)/USAFFE
+71 R/71 ID(PA)/USAFFE
+72 R/71 ID(PA)/USAFFE
+73 R/71 ID(PA)/USAFFE
+e Bn/71 ID(PA)/USAFFE
+Art R/71 ID(PA)/USAFFE
+91 R/91 ID(PA)/USAFFE
+92 R/91 ID(PA)/USAFFE
+93 R/91 ID(PA)/USAFFE
+e Bn/91 ID(PA)/USAFFE
+Aty R/91 ID(PA)/USAFFE
+26 PS/USAFFE
+HQ/USAFFE
+86.FAR Btl. (PS)/USAFFA
+192.Pz Bn/USAFFA
+Fernostluftgruppe
+5.Luftgruppe
+59.CA

@@ -1,0 +1,79 @@
+[Tips arranged by subject and themes.]
+
+Intermediate Playing Tips
+
+[Gameplay]
+-Playing is about having fun, so have some fun!
+-Remember that a weakness that cannot be exploited is not a weakness at all.
+-Try to setup traps for the enemy to stumble into.
+-Look for Moves that are Multi-Purpose in achieving Goals and Aims.
+-Try to have a long term plan as to core development over the course of a campaign.
+-Before ending a turn, take a look at map in strategic view to keep in mind long term scenario goals.
+-Effective wargaming means making life more difficult for the enemy than it is for yourself.
+-Usually it is better to destroy one enemy unit instead of weakening many, unless a Tank is in vicinity to perform multiple overruns.
+-It is not enough to consider only the structural features of a position, also must take into account what they are liable to turn into.
+Careful analysis of terrain is vital to a well conceived and executed battle strategy.
+-Battles are usually won by taking or holding all of the Victory Hexes, but there are exceptions, so read scenario intro briefings carefully.
+-Try to Keep your core composition balanced with a mix of quality and quantity.
+-During some scenarios you will able to purchase equipment from a supporting country, click the arrow at the top right corner of HQ screen to see if this is possible in a scenario.
+-Try to have a plan of attack when going after enemy units.
+-When the enemy is tied up, don't loosen the knots.
+-Use the Strategic Map view whenever you get Reinforcements showing up to make sure you see them all.
+-You can adjust the level of difficulty of a campaign by playing at a % lower than 100% (harder), or at a % greater than 100% (easier).
+-Friendly Units with a gray strength number background, must survive.
+-Enemy Units with a gray strength number background must be destroyed.
+-A hex that has a pink border around it is an Escape hex (EH), and is used to exit the map according to scenario intro briefing.
+-During a campaign, you can use prestige to over-strength your units between scenarios to increase their effectiveness.
+-If possible always provide Fighter escort for your Bombers.
+-Before sending out the Bombers, try to ensure that route is clear of enemy AD and FlaK.
+-Always look one move deeper than seems to be necessary.
+-Towards the end of a scenario, after Victory is clinched, to gain extra experience, order your greener units to attack anything they can if possible.
+-Try to anticipate the moves of the enemy before they happen.
+-If the situation calls for it, don't be afraid to take risks.
+-Use Auxiliary units as cannon fodder to block or prevent attacks on weakened core units.
+-Try luring the enemy into prepared traps by offering a weak auxiliary unit as bait.
+
+[Leaders]
+-Position a Tank with Overwatch leader in an area where the enemy is likely to move to.
+-Flak Support leader allows the unit to do multiple Intercepts and also give Support Fire to ground units at range 1.
+-Forest Camouflage leader allows the unit to become invisible when located in forest terrain; any enemy ground unit entering it's ZOC is subject to a surprise contact.
+-Units having a leader should be upgraded when possible to equipment which is best suited for the particular leader; Reconnaissance Movement Infantry into Airborne Infantry; Battlefield Intelligence tank into another tank possessing a higher movement rate, etc.
+
+[Units]
+-The number of strength points used for an attack is halved by rain or snow for ground units.
+-A Ground unit's spotting range is halved when it is raining or snowing.
+-An air unit's spotting range is halved by overcast and inclement weather.
+-The number of strength points used for an attack is halved by overcast weather for air units.
+-Keep AD units within range of each other so that they can be mutually supporting.
+-Position a weakened ground unit behind a FlaK or AD unit for a possible Interception.
+-FlaK and AD can Intercept enemy aircraft that fly within 1 hex of them.
+-Some FlaK and AD units can fire at both Ground and Air targets.
+-Use a recon unit as your extended eyes of the battlefield.
+-Soften up entrenched enemies with artillery, and ranged direct fire by certain tanks.
+-Artillery or Capital ship with '=' at top of unit info screen are able to Barrage attack; press "Shift" and then target any unspotted hex.
+-A Successful Barrage Attack on an empty hex can make the terrain harder to move through.
+-A Successful Barrage Attack on a hidden enemy can destroy fuel and ammo as well as strength points.
+-A Successful Barrage Attack can reduce a City, Airfield, Bridge, or Port to rubble, making them unusable until Repaired.
+-Level Bombers have the ability of Strategically Bombing an enemy VH, SH, City, Port, or Airfield, and if successful, the enemy will lose prestige according to the experience, strength, and leader of the Level Bomber.
+-Level Bomber attacks reduce enemies fuel and ammo.
+-Units showing a 'z' at the top of unit info window are able to repair or blow up cities, airfields, ports, and bridges when they occupy them without having moved by selecting unit and pressing specific number to do specific task.
+-Units showing a 'z' at the top of unit info window are also able to lay or clear mines in hex they occupy without having moved by selecting unit and pressing specific number to do specific task.
+-When there are no targets for your aircraft, use them to help with Reconnaissance of potential routes of travel.
+-An "Out of the Sun" tactical surprise for air units is automatically treated as a rugged defense.
+-A "Surprise contact" tactical encounter for naval units is automatically treated as a rugged defense.
+-Infantry is best at attacking and defending from towns, forests, and mountains.
+-If an entrenched unit is attacked from an adjacent hex there is a risk of a rugged defense occurring based on the relative experience, unit type, defender's entrenchment level, and if applicable, attacker's leader type.
+-When a ground unit is the recipient of multiple attacks, its ground defense is reduced by 2 for every attack after the first, to a maximum of 8.
+-A combination of artillery and aerial bombardment followed by an assault with an engineer unit is a good way to destroy forts and strong points.
+-The Close Defense value gauges a non infantry ground unit's ability to attack infantry in city or forest hexes, or defend itself in city or forest hexes against infantry.
+-The Ranged Defense Modifier gauges a unit's ability to withstand ranged attacks by ground units other than artillery.
+-The higher a unit's initiative value, the better since the unit with the higher initiative takes less damage during combat.
+-When a tactical surprise or rugged defense occurs, the attacker's initiative is zero.
+-Airmobile units can only fly from an airfield and land in an airfield, if it is unoccupied.
+-Airmobile units can also capture an enemy airfield in the same way provided it is unoccupied.
+-Try to avoid fighting Anti-Tank or Infantry units in urban, forested, or rough terrain with your Tanks.
+-Defensive Artillery fire suppresses for the attacking unit's entire combat. [?]
+-All points of suppression that a Tactical Bomber inflicts on another unit in a turn lasts for the attacking player's entire turn.
+
+
+Visit OG Forums at http://forum.open-general.com/ to learn even more about OpenGen and Wargaming Tactics and Strategies.

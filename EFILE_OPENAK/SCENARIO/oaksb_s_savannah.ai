@@ -1,0 +1,374 @@
+'---
+'Config AI file for scenario: OAKSB_S_savannah.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=60 
+$buy_newair=40 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3  
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2  
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=356 items  ' Replacement for default list
+ 100  '  3.7inch  [ AD  United Kingdom]  Cost: 564
+ 320  '  20mm  [FlaK  United Kingdom]  Cost: 72
+ 321  '  40mm I  [ AD  United Kingdom]  Cost: 180
+ 323  '  17pdr  [ AT  United Kingdom]  Cost: 204
+ 325  '  6pdr II  [ AT  United Kingdom]  Cost: 120
+ 327  '  Wolverine  [ AT  United Kingdom]  Cost: 492
+ 328  '  25pdr  [ATY  United Kingdom]  Cost: 192
+ 330  '  5.5inch  [ATY  United Kingdom]  Cost: 528
+ 331  '  7.2inch I  [ATY  United Kingdom]  Cost: 684
+ 333  '  Sexton  [ATY  United Kingdom]  Cost: 768
+ 348  '  AEC I  [RCN  United Kingdom]  Cost: 504
+ 349  '  AEC II  [RCN  United Kingdom]  Cost: 588
+ 350  '  AEC III  [RCN  United Kingdom]  Cost: 612
+ 352  '  Humber II  [RCN  United Kingdom]  Cost: 288
+ 353  '  Humber IV  [RCN  United Kingdom]  Cost: 468
+ 355  '  Staghound I  [RCN  United Kingdom]  Cost: 564
+ 363  '  Challenger  [ TK  United Kingdom]  Cost: 1092
+ 367  '  Cromwell VI CS  [ AT  United Kingdom]  Cost: 432
+ 375  '  Sherman III  [ TK  United Kingdom]  Cost: 564
+ 378  '  Firefly VC  [ TK  United Kingdom]  Cost: 1080
+ 388  '  Spitfire IX  [FTR  United Kingdom]  Cost: 1116
+ 390  '  Spitfire XII  [FTR  United Kingdom]  Cost: 1116
+ 391  '  Spitfire XIVE  [FTR  United Kingdom]  Cost: 1308
+ 392  '  Beaufighter TF.X  [ TB  United Kingdom]  Cost: 1188
+ 394  '  Hurricane IVD  [ TB  United Kingdom]  Cost: 1080
+ 395  '  Mosquito FB.VI  [ TB  United Kingdom]  Cost: 1260
+ 396  '  Tempest V  [ TB  United Kingdom]  Cost: 1464
+ 397  '  Typhoon IB  [ TB  United Kingdom]  Cost: 1296
+ 399  '  3inch M3  [ AD  USA]  Cost: 240
+ 400  '  90mm M1A1  [ AD  USA]  Cost: 552
+ 401  '  M15A1  [ AD  USA]  Cost: 540
+ 402  '  M16  [FlaK  USA]  Cost: 312
+ 403  '  3inch M5  [ AT  USA]  Cost: 180
+ 405  '  57mm M1  [ AT  USA]  Cost: 120
+ 406  '  M10  [ AT  USA]  Cost: 480
+ 407  '  M18  [ AT  USA]  Cost: 420
+ 409  '  M36  [ AT  USA]  Cost: 504
+ 410  '  105mm How M2  [ATY  USA]  Cost: 240
+ 411  '  155mm How M1  [ATY  USA]  Cost: 528
+ 412  '  75mm How M8 AB  [ATY  USA]  Cost: 312
+ 413  '  8inch Gun M1  [ATY  USA]  Cost: 2328
+ 414  '  M12  [ATY  USA]  Cost: 1200
+ 415  '  M4(105)  [ AT  USA]  Cost: 468
+ 416  '  M7  [ATY  USA]  Cost: 660
+ 417  '  M8  [ AT  USA]  Cost: 216
+ 418  '  T19 HMC  [ AT  USA]  Cost: 288
+ 425  '  43 Parachute Infantry  [INF  USA]  Cost: 360
+ 428  '  M20  [RCN  USA]  Cost: 240
+ 429  '  M24  [RCN  USA]  Cost: 612
+ 430  '  M8  [RCN  USA]  Cost: 480
+ 440  '  M5A1  [RCN  USA]  Cost: 552
+ 443  '  M4A1  [ TK  USA]  Cost: 552
+ 444  '  M4A1(76)W  [ TK  USA]  Cost: 1044
+ 445  '  M4A3  [ TK  USA]  Cost: 564
+ 447  '  M4A3(76)W HVSS  [ TK  USA]  Cost: 1080
+ 452  '  F4U-1A Corsair  [FTR  USA]  Cost: 1176
+ 454  '  P-38J  [FTR  USA]  Cost: 1224
+ 455  '  P-38L  [FTR  USA]  Cost: 1248
+ 458  '  P-47D-25  [FTR  USA]  Cost: 1248
+ 460  '  P-51B  [FTR  USA]  Cost: 1152
+ 461  '  P-51D-5  [FTR  USA]  Cost: 1200
+ 465  '  A-26B  [ TB  USA]  Cost: 1308
+ 468  '  B-25J  [ TB  USA]  Cost: 1152
+ 473  '  GAZ/25  [FlaK  SSSR]  Cost: 240
+ 474  '  37mm ZP-39  [ AD  SSSR]  Cost: 168
+ 478  '  ISU-122  [ AT  SSSR]  Cost: 1092
+ 479  '  ISU-152  [ AT  SSSR]  Cost: 1116
+ 481  '  SU-152  [ AT  SSSR]  Cost: 1044
+ 482  '  SU-76  [ AT  SSSR]  Cost: 408
+ 483  '  SU-85  [ AT  SSSR]  Cost: 552
+ 484  '  122mm M-30  [ATY  SSSR]  Cost: 252
+ 485  '  152mm ML-20  [ATY  SSSR]  Cost: 756
+ 489  '  BM-13-16  [ATY  SSSR]  Cost: 516
+ 490  '  BM-31-12  [ATY  SSSR]  Cost: 528
+ 491  '  SU-122  [ AT  SSSR]  Cost: 552
+ 497  '  41 Saperno-Shturmovoi  [INF  SSSR]  Cost: 360
+ 500  '  43 Kavaleriya  [INF  SSSR]  Cost: 180
+ 506  '  BA-64  [RCN  SSSR]  Cost: 252
+ 513  '  IS-2  [ TK  SSSR]  Cost: 1716
+ 519  '  KV-85  [ TK  SSSR]  Cost: 1440
+ 524  '  T-34/43  [ TK  SSSR]  Cost: 588
+ 525  '  T-34-85  [ TK  SSSR]  Cost: 1104
+ 531  '  Yak-9  [FTR  SSSR]  Cost: 948
+ 532  '  La-5FN  [FTR  SSSR]  Cost: 996
+ 536  '  Yak-3  [FTR  SSSR]  Cost: 1080
+ 540  '  P-39Q  [FTR  SSSR]  Cost: 1008
+ 543  '  Il-2 KSS  [ TB  SSSR]  Cost: 1224
+ 567  '  43 Infantry  [INF  USA]  Cost: 96
+ 576  '  203mm BR-4  [ATY  SSSR]  Cost: 1020
+ 626  '  Archer  [ AT  United Kingdom]  Cost: 552
+ 634  '  43 Gvardeiskaya  [INF  SSSR]  Cost: 240
+ 636  '  Centaur IV CS  [ AT  United Kingdom]  Cost: 444
+ 639  '  120mm PM-38  [ATY  SSSR]  Cost: 228
+ 641  '  Churchill V CS  [ AT  United Kingdom]  Cost: 756
+ 642  '  Churchill VII  [ TK  United Kingdom]  Cost: 924
+ 643  '  Churchill VIII  [ TK  United Kingdom]  Cost: 936
+ 678  '  85mm ZP-39  [ AD  SSSR]  Cost: 516
+ 680  '  BM-8-36  [ATY  SSSR]  Cost: 348
+ 682  '  43 Strelkovy  [INF  SSSR]  Cost: 84
+ 687  '  IS-1  [ TK  SSSR]  Cost: 1524
+ 690  '  100mm BS-3  [ATY  SSSR]  Cost: 492
+ 695  '  T-44-85  [ TK  SSSR]  Cost: 1248
+ 697  '  Yak-1B  [FTR  SSSR]  Cost: 924
+ 699  '  Yak-9D  [FTR  SSSR]  Cost: 972
+ 705  '  P-63A  [FTR  SSSR]  Cost: 1224
+ 713  '  43 Infantry  [INF  Canada]  Cost: 120
+ 714  '  43 Infantry  [INF  United Kingdom]  Cost: 120
+ 720  '  Tetrarch  [ TK  United Kingdom]  Cost: 504
+ 731  '  M13  [FlaK  USA]  Cost: 192
+ 734  '  Crocodile  [ TK  United Kingdom]  Cost: 1044
+ 876  '  41 Partizany  [INF  SSSR]  Cost: 120
+ 897  '  Mosquito PR.XVI  [ TB  United Kingdom]  Cost: 948
+ 898  '  40mm M1  [ AD  USA]  Cost: 180
+ 905  '  76,2mm ZiS-3  [ AT  SSSR]  Cost: 156
+ 948  '  25mm ZP-40  [FlaK  SSSR]  Cost: 84
+ 950  '  M3A3  [ TK  SSSR]  Cost: 576
+ 953  '  Valentine IX  [ TK  SSSR]  Cost: 600
+ 956  '  F-4  [ TB  USA]  Cost: 900
+ 994  '  Tempest V  [FTR  United Kingdom]  Cost: 1404
+ 999  '  43 USMC  [INF  USA]  Cost: 276
+1139  '  82mm BM-37 AB  [ATY  SSSR]  Cost: 276
+1158  '  85mm ZP-39  [FlaK  SSSR]  Cost: 216
+1685  '  Crusader AA I  [ AD  United Kingdom]  Cost: 528
+1687  '  6pdr IV  [ AT  United Kingdom]  Cost: 204
+1689  '  3inch  [ATY  United Kingdom]  Cost: 84
+1690  '  4.2inch  [ATY  United Kingdom]  Cost: 204
+1691  '  3.7inch AB  [ATY  United Kingdom]  Cost: 384
+1692  '  75mm I AB  [ATY  United Kingdom]  Cost: 312
+1694  '  7.2inch IV  [ATY  United Kingdom]  Cost: 912
+1695  '  8inch  [ATY  United Kingdom]  Cost: 1500
+1703  '  Staghound II CS  [RCN  United Kingdom]  Cost: 600
+1704  '  Otter I  [RCN  Canada]  Cost: 204
+1711  '  Churchill AVRE  [ TK  United Kingdom]  Cost: 780
+1712  '  Churchill VI  [ TK  United Kingdom]  Cost: 888
+1713  '  Cromwell IV  [ TK  United Kingdom]  Cost: 564
+1714  '  Firefly IC  [ TK  United Kingdom]  Cost: 996
+1716  '  Sherman V  [ TK  United Kingdom]  Cost: 624
+1722  '  Beaufort I  [ TB  United Kingdom]  Cost: 684
+1726  '  Hudson I  [ TB  United Kingdom]  Cost: 708
+1727  '  Mosquito B.IV  [ TB  United Kingdom]  Cost: 924
+1746  '  .50 M51  [FlaK  USA]  Cost: 48
+1750  '  81mm Mortar M1  [ATY  USA]  Cost: 84
+1752  '  75mm How M1A1  [ATY  USA]  Cost: 276
+1755  '  105mm How M3 AB  [ATY  USA]  Cost: 360
+1757  '  155mm Gun M1A1  [ATY  USA]  Cost: 1380
+1760  '  240mm How M1  [ATY  USA]  Cost: 1824
+1761  '  8inch How M1  [ATY  USA]  Cost: 1500
+1765  '  M4  [ TK  USA]  Cost: 564
+1766  '  M4A3(75)W  [ TK  USA]  Cost: 648
+1767  '  M4A3(76)W  [ TK  USA]  Cost: 1044
+1768  '  M4A4  [ TK  USA]  Cost: 624
+1769  '  M4A6  [ TK  USA]  Cost: 564
+1770  '  M22  [ TK  USA]  Cost: 528
+1772  '  LVT(A)4  [ TK  USA]  Cost: 468
+1778  '  P-40N-1  [FTR  USA]  Cost: 1020
+1779  '  A-20G  [ TB  USA]  Cost: 1176
+1802  '  GAZ/Maxim 4M  [FlaK  SSSR]  Cost: 228
+1804  '  45mm PTP-42  [ AT  SSSR]  Cost: 84
+1805  '  57mm M1  [ AT  SSSR]  Cost: 120
+1809  '  100mm BS-3  [ AT  SSSR]  Cost: 264
+1812  '  76,2mm ZiS-3  [ATY  SSSR]  Cost: 180
+1813  '  76,2mm E-2  [ATY  SSSR]  Cost: 300
+1816  '  122mm A-19  [ATY  SSSR]  Cost: 528
+1817  '  152mm M-10  [ATY  SSSR]  Cost: 540
+1818  '  152mm D-1  [ATY  SSSR]  Cost: 540
+1819  '  152mm BR-2  [ATY  SSSR]  Cost: 1344
+1820  '  210mm BR-17  [ATY  SSSR]  Cost: 3000
+1821  '  280mm BR-5  [ATY  SSSR]  Cost: 1380
+1822  '  BM-8-24  [ATY  SSSR]  Cost: 360
+1823  '  82mm BM-37  [ATY  SSSR]  Cost: 84
+1824  '  107mm PBHM-38  [ATY  SSSR]  Cost: 444
+1825  '  160mm MT-13  [ATY  SSSR]  Cost: 492
+1826  '  41 Shtrafnaya rota  [INF  SSSR]  Cost: 48
+1828  '  42 Avtomatchiki  [INF  SSSR]  Cost: 168
+1830  '  42 Spetsnaz  [INF  SSSR]  Cost: 1092
+1831  '  Carrier  [RCN  SSSR]  Cost: 252
+1832  '  M5A1  [RCN  SSSR]  Cost: 240
+1834  '  M4A2  [ TK  SSSR]  Cost: 564
+1836  '  M3A1  [ TK  SSSR]  Cost: 372
+1837  '  Churchill III  [ TK  SSSR]  Cost: 744
+1838  '  Matilda II  [ TK  SSSR]  Cost: 708
+1848  '  P-40K  [FTR  SSSR]  Cost: 972
+1851  '  A-20B  [ TB  SSSR]  Cost: 1056
+1852  '  B-25D  [ TB  SSSR]  Cost: 996
+1855  '  Tu-2S  [ TB  SSSR]  Cost: 1380
+1931  '  Scout Carrier  [RCN  United Kingdom]  Cost: 204
+1954  '  42 Cavalry  [INF  USA]  Cost: 156
+1958  '  4.5inch  [ AD  United Kingdom]  Cost: 1080
+1961  '  M4A2 DD  [ TK  USA]  Cost: 684
+1989  '  43 Armored Infantry  [INF  USA]  Cost: 192
+1994  '  43 Parachute Engineers  [INF  United Kingdom]  Cost: 1068
+1995  '  43 Airborne Engineers  [INF  USA]  Cost: 864
+2188  '  20mm  [FlaK  Canada]  Cost: 60
+2189  '  3.7inch  [ AD  Canada]  Cost: 396
+2190  '  40mm I  [ AD  Canada]  Cost: 168
+2192  '  6pdr II  [ AT  Canada]  Cost: 120
+2193  '  6pdr IV  [ AT  Canada]  Cost: 168
+2194  '  17pdr  [ AT  Canada]  Cost: 216
+2195  '  Wolverine  [ AT  Canada]  Cost: 432
+2196  '  Archer  [ AT  Canada]  Cost: 588
+2197  '  MMG  [ AT  Canada]  Cost: 96
+2201  '  5.5inch  [ATY  Canada]  Cost: 528
+2202  '  25pdr  [ATY  Canada]  Cost: 192
+2203  '  4.2inch  [ATY  Canada]  Cost: 204
+2204  '  3inch  [ATY  Canada]  Cost: 84
+2205  '  75mm  [ATY  Canada]  Cost: 276
+2206  '  105mm  [ATY  Canada]  Cost: 240
+2207  '  Sexton  [ATY  Canada]  Cost: 696
+2208  '  43 Bridging  [INF  Canada]  Cost: 240
+2209  '  43 Engineers  [INF  United Kingdom]  Cost: 468
+2210  '  43 Parachute Infantry  [INF  Canada]  Cost: 432
+2215  '  43 Commandos  [INF  Canada]  Cost: 1980
+2218  '  Staghound I  [RCN  Canada]  Cost: 456
+2219  '  Lynx  [RCN  Canada]  Cost: 216
+2220  '  Fox I  [RCN  Canada]  Cost: 240
+2222  '  Carrier  [RCN  Canada]  Cost: 192
+2225  '  Grizzly  [ TK  Canada]  Cost: 516
+2227  '  Stuart VI  [RCN  Canada]  Cost: 456
+2233  '  Sherman III  [ TK  Canada]  Cost: 516
+2234  '  Sherman V  [ TK  Canada]  Cost: 564
+2236  '  Ram II  [ TK  Canada]  Cost: 480
+2243  '  Hurricane XII  [FTR  Canada]  Cost: 840
+2245  '  Spitfire VC  [ TB  Canada]  Cost: 1188
+2246  '  Spitfire IX  [FTR  Canada]  Cost: 1116
+2258  '  Mosquito FB.VI  [ TB  Canada]  Cost: 1260
+2259  '  Typhoon IB  [ TB  Canada]  Cost: 1296
+2261  '  Hurricane IVD  [ TB  Canada]  Cost: 1080
+2588  '  SU-76i  [ AT  SSSR]  Cost: 468
+2593  '  43 Scots Infantry  [INF  United Kingdom]  Cost: 180
+2795  '  .50 M2 AB  [FlaK  USA]  Cost: 144
+2867  '  T48 GMC  [ AT  USA]  Cost: 204
+2869  '  43 Mountain  [INF  USA]  Cost: 360
+2908  '  57mm M1 AB  [ AT  USA]  Cost: 264
+2909  '  37mm M3 AB  [ AT  USA]  Cost: 228
+2910  '  GP AB  [RCN  USA]  Cost: 288
+2922  '  6pdr III AB  [ AT  United Kingdom]  Cost: 336
+2923  '  Bren AB  [FlaK  United Kingdom]  Cost: 120
+2924  '  Jeep AB  [RCN  United Kingdom]  Cost: 204
+2927  '  43 Motor Infantry  [INF  United Kingdom]  Cost: 180
+2948  '  12,7mm DShK-38 AB  [FlaK  SSSR]  Cost: 156
+2949  '  45mm PTP-37 AB  [ AT  SSSR]  Cost: 216
+2950  '  76,2mm E-2 AB  [ATY  SSSR]  Cost: 300
+3169  '  43 Mountain Engineers  [INF  USA]  Cost: 852
+3171  '  Carrier, 3inch  [ATY  United Kingdom]  Cost: 252
+3173  '  M4A1  [ATY  USA]  Cost: 252
+3177  '  Carrier, MMG  [ AT  United Kingdom]  Cost: 156
+3180  '  Firefly VC  [ TK  Canada]  Cost: 1044
+3225  '  M15  [ AD  SSSR]  Cost: 540
+3226  '  M16  [FlaK  SSSR]  Cost: 312
+3277  '  20mm AB  [FlaK  United Kingdom]  Cost: 168
+3289  '  43 Motostrelkovy  [INF  SSSR]  Cost: 96
+3334  '  BM-13-16  [ATY  SSSR]  Cost: 516
+3362  '  43 Motor Infantry  [INF  Canada]  Cost: 180
+3382  '  Stuart VI  [RCN  United Kingdom]  Cost: 552
+3386  '  Cromwell V  [RCN  United Kingdom]  Cost: 660
+3387  '  Staghound AA  [FlaK  United Kingdom]  Cost: 252
+3399  '  Priest  [ATY  United Kingdom]  Cost: 684
+3405  '  12,7mm DShK-38  [FlaK  SSSR]  Cost: 48
+3512  '  43 MMG  [ AT  United Kingdom]  Cost: 156
+3770  '  42 Desantny  [INF  SSSR]  Cost: 228
+3772  '  43 Morskaya Pehota  [INF  SSSR]  Cost: 180
+3773  '  43 Voiska NKVD  [INF  SSSR]  Cost: 180
+3775  '  43 Saperno-Shturmovoi  [INF  SSSR]  Cost: 408
+3776  '  43 Saperno-mostovoi  [INF  SSSR]  Cost: 228
+3778  '  43 Pogranvoiska  [INF  SSSR]  Cost: 108
+3779  '  43 Vozdushno-desantny  [INF  SSSR]  Cost: 360
+3780  '  43 Gornostrelkovy  [INF  SSSR]  Cost: 348
+3781  '  43 Gornosaperny  [INF  SSSR]  Cost: 804
+3782  '  43 Mototsiklisty  [INF  SSSR]  Cost: 300
+3783  '  43 Partizany  [INF  SSSR]  Cost: 156
+3811  '  43 Razvedchiki  [RCN  SSSR]  Cost: 204
+3812  '  43 Mototsikletnaya razvedka  [RCN  SSSR]  Cost: 180
+3813  '  43 Konnaya razvedka  [RCN  SSSR]  Cost: 192
+3814  '  43 Gornaya kavaleriya  [RCN  SSSR]  Cost: 312
+3825  '  43 Pulemetny  [ AT  SSSR]  Cost: 120
+3870  '  3.7inch  [ATY  United Kingdom]  Cost: 408
+3877  '  44 Parachute Engineers  [INF  United Kingdom]  Cost: 1116
+3882  '  43 Light Infantry  [INF  United Kingdom]  Cost: 396
+3884  '  43 Engineers  [INF  Canada]  Cost: 468
+3885  '  43 Bridging  [INF  United Kingdom]  Cost: 240
+3886  '  43 Commandos  [INF  United Kingdom]  Cost: 1980
+3888  '  43 Constabulary  [INF  United Kingdom]  Cost: 84
+3897  '  43 Parachute Infantry  [INF  United Kingdom]  Cost: 432
+3898  '  43 Air Landing Infantry  [INF  United Kingdom]  Cost: 348
+3903  '  44 Parachute Infantry  [INF  United Kingdom]  Cost: 444
+3915  '  44 Glider Infantry  [INF  USA]  Cost: 312
+3923  '  44 Parachute Infantry  [INF  USA]  Cost: 408
+3931  '  43 Naval Construction  [INF  USA]  Cost: 96
+3932  '  43 Combat Engineers  [INF  USA]  Cost: 492
+3933  '  43 Bridging  [INF  USA]  Cost: 216
+3934  '  43 National Guard  [INF  USA]  Cost: 60
+3935  '  43 Glider Infantry  [INF  USA]  Cost: 300
+3936  '  43 MP  [INF  USA]  Cost: 72
+3937  '  43 Ranger  [INF  USA]  Cost: 780
+4031  '  Spitfire IXC  [ TB  United Kingdom]  Cost: 1236
+4037  '  Lysander IIIA  [ TB  United Kingdom]  Cost: 648
+4044  '  Auster AOP  [ TB  United Kingdom]  Cost: 300
+4062  '  Spitfire VIII  [FTR  United Kingdom]  Cost: 1260
+4063  '  Spitfire XVIII  [FTR  United Kingdom]  Cost: 1308
+4080  '  Mosquito PR.IX  [ TB  United Kingdom]  Cost: 852
+4086  '  Mosquito B.IX  [ TB  United Kingdom]  Cost: 984
+4087  '  Mosquito B.XVI  [ TB  United Kingdom]  Cost: 1116
+4113  '  Spitfire PR.XI  [ TB  United Kingdom]  Cost: 864
+4115  '  Spitfire PR.XIX  [ TB  United Kingdom]  Cost: 996
+4205  '  Beaufighter TF.X  [ TB  Canada]  Cost: 1188
+4213  '  Anson II  [ TB  Canada]  Cost: 528
+4215  '  Swordfish III  [ TB  Canada]  Cost: 552
+4216  '  Albacore  [ TB  Canada]  Cost: 612
+4236  '  Spitfire IXC  [ TB  Canada]  Cost: 1236
+4245  '  Mosquito B.XX  [ TB  Canada]  Cost: 924
+4246  '  Mosquito B.25  [ TB  Canada]  Cost: 1056
+4248  '  Sea Hurricane XII  [FTR  Canada]  Cost: 924
+4480  '  Yak-9T  [ TB  SSSR]  Cost: 1200
+4510  '  P-47D-22  [ TB  USA]  Cost: 1392
+4516  '  P-38J 'Droop Snoot'  [ TB  USA]  Cost: 1164
+4596  '  A-35A  [ TB  USA]  Cost: 972
+4598  '  SB2C-1 Helldiver  [ TB  USA]  Cost: 1020
+4606  '  A-29  [ TB  USA]  Cost: 792
+4609  '  B-26F  [ TB  USA]  Cost: 1260
+4610  '  P-47D-6  [FTR  USA]  Cost: 1272
+4620  '  F-5E  [ TB  USA]  Cost: 948
+4624  '  F4U-1C Corsair  [FTR  USA]  Cost: 1320
+4630  '  F-7A  [ TB  USA]  Cost: 1056
+4639  '  P-39N-5  [FTR  USA]  Cost: 1032
+4642  '  P-40N-15  [ TB  USA]  Cost: 1092
+4643  '  P-40F-5  [FTR  USA]  Cost: 1020
+4661  '  L-3  [ TB  USA]  Cost: 276
+4662  '  L-5  [ TB  USA]  Cost: 300
+4663  '  Mosquito PR.XVI  [ TB  USA]  Cost: 948
+4674  '  Spitfire IX  [FTR  SSSR]  Cost: 1116
+4677  '  P-47D-10  [ TB  USA]  Cost: 1344
+4679  '  A-20G-5  [ TB  SSSR]  Cost: 1164
+4682  '  Pe-2  [ TB  SSSR]  Cost: 960
+4684  '  Pe-2R  [ TB  SSSR]  Cost: 912
+4686  '  Il-2 AM-38F  [ TB  SSSR]  Cost: 1140
+4690  '  LaGG-3  [FTR  SSSR]  Cost: 840
+4706  '  Tu-2  [ TB  SSSR]  Cost: 1344
+4709  '  U-2VS  [ TB  SSSR]  Cost: 336
+4716  '  P-40M  [FTR  SSSR]  Cost: 960
+4741  '  43 Parashutnaya razvedka  [RCN  SSSR]  Cost: 372
+5086  '  L-4A  [ TB  USA]  Cost: 276
+5107  '  Ventura IIA  [ TB  United Kingdom]  Cost: 936
+5121  '  Mustang III  [FTR  United Kingdom]  Cost: 1152
+5127  '  Beaufighter VIC  [ TB  United Kingdom]  Cost: 1152
+5315  '  SU-76M  [ATY  SSSR]  Cost: 636
+5552  '  U-2LNB  [ TB  SSSR]  Cost: 396
+5570  '  20mm Portee  [FlaK  United Kingdom]  Cost: 216
+5622  '  SU-104  [ AT  SSSR]  Cost: 480
+5624  '  Wasp IIC  [ AT  Canada]  Cost: 240
+5625  '  Sherman III DD  [ TK  United Kingdom]  Cost: 684
+5626  '  M4A2  [ TK  USA]  Cost: 564
+5658  '  44 Parachute Infantry  [INF  Canada]  Cost: 444
+5683  '  44 Parachute HQ  [INF  United Kingdom]  Cost: 288
+5691  '  Daimler II  [RCN  United Kingdom]  Cost: 468
+5698  '  B-25C  [ TB  SSSR]  Cost: 972
+5699  '  B-25J  [ TB  SSSR]  Cost: 1152

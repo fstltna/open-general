@@ -1,0 +1,30 @@
+Old Ironsides - 1st US Armored Division 
+
+Version:  Apr-2019
+Number of Scenarios: 12
+Player Country: USA
+Equipment file: Basekorp 
+Campaign Designer: Narayan Sengupta
+Modified by Brian Gosley aka Puma
+   Not Playtested
+
+The Old Ironsides campaign puts you in control of the 1st US Armored Division - the first US armored division that saw action in World War 2. 
+
+After 2 years of training at Fort Knox, your division is ready for action. Elements of the division will participate in Operation Torch, the Allied landing in French North Africa at a time when Monty is pushing back the Germans and Italians at El Alamein in Egypt. When the Axis forces are kicked out of North-Africa, your division will land in Italy.
+
+
+HISTORY
+
+The Soviet Union have pressed the United States and United Kingdom to start operations in Europe and open a second front to reduce the pressure of German forces on the Soviet troops. While the American commanders favored Operation Sledgehammer, landing in Occupied Europe as soon as possible, the British commanders believed that such a course would end in disaster.
+
+An attack on French North Africa was proposed instead, which would clear the Axis powers from North Africa, improve naval control of the Mediterranean Sea, and prepare for an invasion of Southern Europe in 1943. American President Franklin D. Roosevelt suspected the African operation would rule out an invasion of Europe in 1943 but agreed to support British Prime Minister Winston Churchill.
+
+We have resources for 3 landings. There is no discussion about landings in Oran and Algiers. But where should the third landing take place? 
+
+Tunis? An early capture of Tunis  would facilitate the rapid interdiction of supplies travelling via Tripoli to Rommel's forces in Libya. But Tunis is much too close to Axis airfields in Sicily and Sardinia for any hope of success. And if Spain abandons neutrality and joins the Axis, our lines of communication would be cut off if French Morocco is not in our hands. 
+
+Morocco? The Atlantic swells off Casablanca present considerablle risks to an amphibious landing and there is a chance that the Axis will capture Tunis before we do. But our lines of communication will be safe. 
+
+Bône? The compromise. There is a decent chance that we will capture Tunis before the Axis do. But Bône is in range of Axis bombers and the chance of lines of communications being cut is real.
+
+Eisenhower was in favor of the Eastern Option(s), but the Combined Chiefs of Staff were in favor of the less risky option. So Morocco, Oran and Algiers it is.

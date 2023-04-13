@@ -1,0 +1,33 @@
+* Read carefully before editing!
+* Each line can be any length, but only first 96 chars will be read
+* Emply lines and those starting with * will be skipped.
+* Can replace any text but do no change the sequence of lines
+*-------------------------------------------------------------------
+* This file is optional, use only if you want to override
+* any color used by default
+* Put the adapted file into related efile folder.
+* ------------------------------------------------------------------
+
+* default background for main window
+30,30,30
+
+* default background for dialogs
+39, 47, 44
+
+* white text
+230, 230, 230
+
+* gold/yellow text		
+240, 236, 180
+
+* win dialogs transparency
+220
+
+* red color when low ammo/fuel or strength
+250, 0, 0
+
+* alpha value for hex-blend.png ... remove to use stored settings.
+* 110
+
+* alpha value for 5th (plane highlighter) row of hex-blend.png ... remove to use default (125)
+* 125

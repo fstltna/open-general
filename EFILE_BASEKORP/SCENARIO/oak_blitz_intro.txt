@@ -1,0 +1,13 @@
+Open AK Blitzkrieg
+
+Version:  Apr-2019
+Number of Scenarios: 23
+Player Country: Germany
+Equipment file: Basekorp 
+Campaign Designer: Llewen
+Modified by Brian Gosley aka Puma
+
+You take command from the civil war in Spain, to the "lightning" victories of early World War II and beyond.
+
+Notes:  The intent is to take the original classic SSI Blitzkrieg campaign and add as many of the new features of Open General as possible.
+

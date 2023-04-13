@@ -1,0 +1,28 @@
+Dunkerque
+(28 May - 2 June 1940)
+v.1.0
+The Campaign of the 18 Days
+(10-28 May 1940)
+
+Fictitious scenario
+
+General, 
+
+The situation is dramatic. Several German breakthroughs have been reported. The front is about to break and there are no more reserves to restore the line. A new retreat to the Ijzer/Yser River as suggested by General Weygand is not possible: we would simply lose our ammunition depots since we no longer have the capacity to move them once more. In addition, in the current state of fatigue and demoralization a new retreat would mean the total disintegration of the Army (I guess you are aware of the recent mass surrender of several large units in Gand/Gent). Finally, our British allies have decided to evacuate their expeditionary force in Northern France. In view of the situation King Leopold III has requested, and the Germans have accepted, unconditional surrender. The cease-fire will start at 4.00 A.M of the 28th May.
+
+However, King Leopold III has agreed that our best troops must retreat to Dunkerque to be shipped and continue the battle in the South France.
+
+The BEF and some troops of the French 1st army have created a defensive perimeter around Dunkerque to ensure the evacuation of the greatest number of troops. Our 14 DI, which has been in Yser for some days to cover the rear of the army in case of a German advance from the west, has begun to build bridges to allow you to retreat.
+
+Your mission is to evacuate the greatest possible number of troops.
+
+Victory conditions: withdraw 50 units for TV (BV and V are not possible).
+
+Warning: there is no more coordination between the Allied armies (if ever existed).
+
+Efile: OLGWW2 v.2.00 or higher
+
+Map: Dunkerque (3)
+
+Paqueo, May 2011
+

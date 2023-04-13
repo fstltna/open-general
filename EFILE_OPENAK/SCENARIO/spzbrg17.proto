@@ -1,0 +1,34 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+  71  '  FlakPz 38  [FlaK  Deutschland]  Cost: 276
+  83  '  PzJag V  [ AT  Deutschland]  Cost: 1116
+  84  '  lePzJag IV  [ AT  Deutschland]  Cost: 492
+ 121  '  sPzSpWg (5)  [RCN  Deutschland]  Cost: 492
+ 131  '  Pz Panther A  [ TK  Deutschland]  Cost: 1104
+ 600  '  Sturmgeschutz IV  [ AT  Deutschland]  Cost: 516
+ 606  '  43 Pzgrenadiere (mot)  [INF  Deutschland]  Cost: 276
+ 608  '  43 SS Pzgrenadiere (mot)  [INF  Deutschland]  Cost: 300
+1222  '  3,7 Flak43  [ AD  Deutschland]  Cost: 180
+1251  '  43 Fusiliere  [RCN  Deutschland]  Cost: 216
+1257  '  AufPz 38  [RCN  Deutschland]  Cost: 396
+1258  '  Luchs  [RCN  Deutschland]  Cost: 444
+3415  '  43 Bruckenpioniere  [INF  Deutschland]  Cost: 240
+3418  '  43 Jager (L)  [INF  Deutschland]  Cost: 336
+3440  '  43 Gebirgsjager  [INF  Deutschland]  Cost: 396
+3445  '  43 Gebirgspioniere  [INF  Deutschland]  Cost: 924
+3448  '  44 Kavallerie  [INF  Deutschland]  Cost: 192
+3450  '  43 Brandenburger  [INF  Deutschland]  Cost: 360
+3454  '  43 Kustenjager  [INF  Deutschland]  Cost: 768
+3477  '  43 Kosaken  [INF  Deutschland]  Cost: 252
+3478  '  43 Pzgrenadiere (gep)  [INF  Deutschland]  Cost: 588
+3480  '  44 Pioniere  [INF  Deutschland]  Cost: 444
+3492  '  44 Aufklarungskavallerie  [RCN  Deutschland]  Cost: 180
+3496  '  43 MG Infanterie  [ AT  Deutschland]  Cost: 144
+3501  '  43 Gebirgs-aufklarung  [RCN  Deutschland]  Cost: 360
+3833  '  43 SS Pzgrenadiere (gep)  [INF  Deutschland]  Cost: 624
+4297  '  Ju 88S-1  [ LB  Deutschland]  Cost: 996
+4552  '  Fw 190G-8  [ TB  Deutschland]  Cost: 1200

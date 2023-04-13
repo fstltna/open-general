@@ -1,0 +1,916 @@
+* Warning !!
+* Do not removed neither insert lines (unless specifically told).
+* This file is provided as a template to allow game ui
+* to be translated to a different language
+*
+* Edit every line trying to keep same length as much as possible
+* Save changes as "Strings-XX.txt" replacing "XX" sufix with your language
+* ISO 639-1 code (http: //en.wikipedia.org/wiki/ISO_639-1)
+* Be sure your file is in your main OPENGUI folder
+*
+* To see your progress, start OpenGen and pick your new code in language combo
+* To return to default English UI, pick "Default English text" in the combo
+* Language file is loaded at start and evertime a game is loaded, so to see
+* your last changes, either load a different game or restart OpenGen.
+*-------------------------------------------------------------------
+*
+* These sections can be redefined at efile level
+* by using STRINGS_EFILE.txt in efile folder
+* but you cannot remove from this file
+*
+* [terrain] (testreszabható)
+Mezõ
+Város
+Repülõtér
+Erdõ
+Cserjés
+Domb
+Hegy
+Homok
+Mocsár
+Tenger
+Folyó
+Erõd
+Kikötõ
+Patak
+Meredély
+Átszelhetetlen folyó
+Rögös
+Egyéni (nem használt)
+Út
+Vasút
+
+* [sides] (testreszabható)
+Tengely
+Szövetségesek
+
+* [classes] (testreszabható)
+Nincs
+Gyalogság
+Harckocsi
+Földerítõ
+Tankelhárító
+FlaK
+Erõdítmény
+Csapatszállító
+Vasúti szállító
+Tüzérség
+Légvédelem
+Vadász
+Taktikai bombázó
+Mélységi bombázó
+Légi szállító
+Szállító helikopter
+Tengeralattjáró
+Romboló
+Csatahajó
+Anyahajó
+Tengeri szállító
+Nehézcirkáló
+Cirkáló
+Könnyûcirkáló
+
+* [targets] (testreszabható)
+Könnyû célpont
+Nehéz célpont
+Légi célpont
+Vízi célpont
+
+* [spaces] (testreszabható)
+Szárazföldi
+Légi
+
+* [movement] (testreszabható)
+Lánctalpas
+Féllánctalpas
+Kerék
+Gyalog
+Vontatott
+Légi
+Nyílt vízi
+Partmenti
+Terepjáró
+Partraszálló
+Vízi
+Hegyi (gyalog)
+Vasút
+Helikopter
+
+* [transports] (testreszabható)
+Nem szállítható
+Vízi
+Légi
+Ejtõernyõs
+Vasúti
+Helikopter
+
+* [results] (testreszabható)
+Elsöprõ gyõzelem
+Gyõzelem
+Taktikai gyõzelem
+Vereség
+
+*-----------------------------------------------
+*
+*** From here texts cannot be redefined
+*** only translated
+*
+*-----------------------------------------------
+
+* idõjárás
+Napos
+Felhõs
+Esõ
+Hó
+
+* talajviszony
+Száraz
+Fagyott
+Sár
+
+* hónapok
+Január
+Február
+Március
+Április
+Május
+Június
+Július
+Augusztus
+Szeptember
+Október
+November
+December
+
+* csata üzenetek
+Megsemmisítve %d  Megbénítva %d
+Lerohanás!
+Támadás
+Roham
+Zárótûz
+Beásott védekezés
+Rajtaütés
+Befogtak!
+Rajtaütés!
+Elfogó vadászok!
+Légvédelem
+Támogató tûz
+Közeli támogató tûz
+A támadás megszakítva
+A támadás támogató tûz miatt megszakítva!
+A tengeralattjáró elmenekül
+A tengeralattjáró elsüllyed
+Visszatérés a kikötõbe
+Menekülés
+Fegyverletétel
+Visszavonulás a csatatérrõl
+
+* játék üzenetek
+Az erõsítés megérkezett
+Szeretnél légi szállítást?
+Sikeresen elmentve
+MENTÉS SIKERTELEN - HIBA
+Biztosan el szeretnéd távolítani ezt az egységet?
+Hibás jelszó
+Gratulálunk a gyõzelmedhez
+
+* fõmenü
+Fölszerelés fájl (F-fájl) választása
+Csata indítása
+Hadjárat indítása
+Többjátékos csata
+Játék e-mail-en keresztül
+Legjobb eredmények megketintése
+Játékszerkesztõ (Suite) indítása
+Elmentett játék betöltése
+Beállítások
+Játék újrajátszása xlog naplófájlból (a parancsok naplózva)
+Intró lejátszása
+Verzió információ
+Kilépés
+
+* játék menü
+Következõ egység
+Lépés törlése
+Egység igénylése
+Telepítés
+Parancsnokság
+Légi nézet
+Stratégiai / Normál térkép
+Az e-mail-es ellenfél fordulójának újrajátszása
+Csevegés
+Kiegészítõ opciók
+Teljes képernyõ
+Forduló vége
+Játék mûveletek
+Beállítások
+
+* kiegészítõ opciók menü
+Helyzetjelentés
+Csata bevezetõ
+Gyorsbillentyûk listája
+Terep címkék és adatok Ki/Be
+Rácsok megjelenítése
+Zene Ki/Be
+Hangeffektusok Ki/Be
+Ütközet eredményének mutatása a térképen
+Térkép földerített területei Ki/Be
+Az egység erõsségének és az ütközet becslésének elrejtése
+Kiválasztott egység lõtávolságának megjelenítése
+Videó és egyéb beállítások
+Kész, menü bezárása és visszatérés a játékhoz
+
+* igénylés menü (testreszabható)
+Váltás Szárazföldi + Légi / Vízi egységek között
+Légvédelem választása
+FlaK választása
+Erõdítmény választása
+Tankelhárító választása
+Tüzérség választása
+Gyalogság választása
+Földerítõ választása
+Harckocsi választása
+Vadász választása
+Taktikai bombázó választása
+Mélységi bombázó választása
+Tengeralattjáró választása
+Romboló választása
+Csatahajó választása
+Anyahajó választása
+Nehézcirkáló választása
+Cirkáló választása
+Könnyûcirkáló választása
+Egység átnevezése
+Egység föloszlatása
+Kilépés
+
+* dosszié menü
+Összefoglaló jelentés
+Kilépés
+
+* parancsnokság menü
+Dosszié
+Egység vizsgálata
+Ugrás egy egységhez
+Egység igénylése
+Egység föltöltése/túltöltése
+Egység fejlesztése
+Egység föloszlatása
+Játék mûveletek
+Törzsegységek költsége és a presztízslimit értéke
+Kilépés
+
+* egységek menü
+Fölszállás - Leszállás
+Beszállás - Kiszállás
+Ellátmány
+Utánpótlás
+Egység átnevezése
+Kilépés
+
+* telepítés menü
+Egység igénylése
+Légi nézet
+Stratégiai / Normál térkép
+Rácsok megjelenítése
+Kilépés
+
+* böngészés lista
+Tetejére
+Fölfelé lapoz
+Fölfelé lép
+Lefelé lép
+Lefelé lapoz
+Aljára
+
+* párbeszéd tippek
+Vezetõ
+Szállítás
+Ország
+Tapasztalat
+Tapasztalati szint
+Üzemanyag
+Lõszer
+Erõsség
+Lõtáv
+Kezdeményezés
+Földerítés
+Mozgás módja
+Nehéz támadás
+Könnyû támadás
+Légi támadás
+Vízi támadás
+Földi védelem
+Légi védelem
+Közeli védelem
+Távoli védelem
+Osztály
+Ár
+Parancsnokság
+Új fölszerelés érhetõ el
+Egység igénylése
+Fejlesztés
+Egység vizsgálata
+Okozott veszteségek
+Elszenvedett veszteségek
+LEGJOBB eredmények
+LEGUTÓBBI eredmények
+Váltás a LEGUTÓBBI eredmények
+Váltás a LEGJOBB eredmények
+Stratégiai térkép megtekintése Telepítési pontokkal és egységek nélkül
+Rendelkezésre álló presztízspont: %d
+Nem lehet föltölteni/túltölteni
+Egység föltöltése/túltöltése * Költség=%d
+Az egységet nem lehet föltölteni/túltölteni Költség=%d > %d
+Váltás a Fõ / Támogató országok között
+Nincs elérhetõ adat
+Kilépés
+
+*----------------------------------------------------------------
+* Windows type dialogs : Warning keep lenght as much as possible
+*----------------------------------------------------------------
+* LOAD_SCN
+1. játékos
+2. játékos
+F-fájl mappa
+Az ÖSSZES csata megjelenítése (a rejtetteket is)
+Rendezés fájlnév szerint
+3. játékos
+4. játékos
+Fájl szûrõ
+PG2 mód
+
+* LOAD_SAVES
+1. játékos
+2. játékos
+F-fájl mappa
+PG2 önálló csaták mentését (SAV) is
+PG2 hadjáratok mentését (CSV) is
+Játék betöltése
+Önálló csaták mentését (XSAV) is
+Hadjáratok mentését (XCSV) is
+Szûrõ
+Rendezés dátum szerint
+
+* Gyorsbillentyûk
+OpenGen Gyorsbillentyûk
+Stratégiai térkép nézet
+Térkép görgetés
+Fókusz a kiválasztott egységre
+Veszteséget a térképen
+Terep címkék Ki/Be
+Kilépés (menü, párbeszéd vagy a játék)
+Gyorsbillentyûk
+Váltás légi/földi nézet között
+A legutóbbi visszatöltése
+Forduló összefoglaját mutatja
+Lista föl-le (Telepítés, Parancsnokság)
+Speciális képességek Súgó
+Képernyõmód beállítás
+Csata bevezetõjét mutatja
+Földerített terület kapcsoló
+Erõsség, becslés címke Ki/Be
+Mozgás / Zárótûz kapcsoló
+Forduló vége
+Egység nézet változtatása
+Telepítés
+Parancsnokság
+Következõ egység
+Utánpótlás
+Dosszié
+...egyelõre semmi
+Fölszáll / Leszáll
+Forduló harci naplóját mutatja
+Elõzõ egység
+Kilépés
+Egység megtekintése
+Lépés törlése
+Hibakeresõ jelentést mutatja
+Fölugró hibaüzenet a képernyõn
+Lõtávolság körvonala Ki/Be
+Váltás az árnyékolt terület típusa között
+Kiválasztott egység kiemelése Ki/Be
+Elegendõ üzemanyag jelzés Ki/Be
+Mentett játék betöltése
+Legújabb harci naplót mutatja
+Aktuális játék mentése
+Ellátmány az egységnek
+Egység beemelése a lépegetésbe
+Automatikus mentés
+Egység igénylése
+Beszállás - Kiszállás
+Hang Ki/Be
+Zene Ki/Be
+Erõsség, becslés címke Ki/Be
+Egység kihagyása a lépegetésbõl
+Hiba jelentése
+A térkép újratöltése
+VH/SH infók a térképen Ki/Be
+Földerítetlen területek árnyékolása Ki/Be
+Szállítójármû elhagyása
+Mozgás útvonalának megjelenítése
+Váltás a zene 1/2 között
+Egység statisztika panel Ki/Be
+
+* PBEM SPECIAL CODES
+PBEM (képesség) kódok (@)
+Használhat légi szállítást
+Ejtõernyõvel dobható
+Hegyi (gyalog) mozgási mód
+Híd
+Rohamutász
+Földerítõ (szakaszos) mozgás
+Ha megtámadják, kiszáll (leugrás a csapatszállítóról)
+Tüzérség támogató tûz nélkül
+Támogató tûz
+Földi célpont támadása (Légvédelem, FlaK)
+Harci támogatás
+FlaK - képes légi célpont támadására
+Anyahajó, ellátmány a légi egységeknek
+Képes területet elfoglalni
+Anyahajóra telepíthetõ légierõ
+Légi úton mozgatható csapatszállító
+Utász
+Gépesített
+Több, azonosító betû nélküli képességet is jelöl. Mozgasd fölé az egeret a részletek megtekintéséhez
+Képes zárótüzet adni / bombázni
+Tengerész
+
+* SCN_INTRO
+Csata cím
+Hadjárat bevezetõjének megjelenítése
+
+* LOAD_CAM
+1. játékos
+F-fájl mappa
+# csata
+Térképek ellenõrzése
+Ellenõrzés és hiány letöltése
+Ellenõrzés és automatikus letöltés
+MI
+Rendezés fájlnév szerint
+
+* SCN_END
+Hadjárat címe\nCsata címe
+Teljesítve!!  -
+Elsöprõ gyõzelem
+Fõ ország neve forduló xx
+Dátum
+Az összes ellenséges egységet megsemmisítetted
+Eredmény
+
+* NAME_UNIT
+Egység neve
+
+* e-fájl választása
+Fájlok a mappában
+F-fájl mappák
+Új F-fájl mappa létrehozása: (relatív útvonal)
+
+* média beállítások
+MÉDIA BEÁLLÍTÁSOK
+Zene lejátszása
+Hangok lejátszása
+Videók lejátszása
+Alapértelmezett zene 1: 
+MAX
+Hangerõ
+Intró: 
+Zene intró: 
+Hangerõ
+MAX
+Vegyes hangok (kattintás...)
+MAX
+Hangerõ
+Rossz idõ hangja
+MAX
+Hangerõ
+MCI használata a DirectShow helyett
+Most játszott: 
+Semmi sincs most játszva...
+Alapértelmezett zene 2: 
+
+* PICK_SAVEGAME
+1. játékos
+2. játékos
+Létezõ fájlok               Mappa: 
+Új hozzáadása
+mappa
+Típus
+Mentsd a következõt: 
+Cím
+PG2 mentések megjelenítése
+
+* INFO
+Cím
+~Progress
+
+* BROWSER
+Meghajtó: 
+Aktuális mappa: 
+Fájltípus: 
+Cím
+Fájlnév: 
+Aktuális mappa
+
+* AAR beállítások
+Egység nevének mutatása
+Ország mutatása
+Alap erõsség mutatása
+Okozott veszteség mutatása
+Fórum kódok
+Erõsség (Aktuális / Alap) mutatása
+Excel CSV
+Átlagok mutatása
+Mentések összehasonlítása
+Lejátszott csaták mutatása
+Egység sorszámának mutatása
+Hadrendben álló egységek összegzése
+Összefoglaló jelentés opciói
+PBEM (képességek) kódok mutatása
+~Use Army After Battle (use base strength)
+Eredmény mutatása
+
+* LOAD_EML
+Új játék
+Játék betöltése
+Játék e-mail-en keresztül
+F-fájl mappa
+e-mappa
+Játék fájl
+e-mappa
+
+* képernyõ beállítások
+Görgetés sebessége (képpont elmozdulás)
+Frissítési sebesség (idõzítõ), ezredmp.
+~Frames / hexpos when moving air units
+Extra késleltetés teljes képernyõ módban, ezredmp.
+~Frames / hexpos when moving ground units
+Képernyõ beállítások
+Egység forgatásának késleltetése (0 = nincs forgatás)
+Lövés és robbanás animációjának késleltetése
+
+* BUGREPORT
+Ne csatoljon egyetlen fájlt sem
+Az utolsó AUTOSAVE fájl hozzáadása
+Fájl hozzáadása: 
+Összegzés (max 60 karakter)
+Részletek
+Készítette: (a neved)
+Tétel (kérés vagy hibajelentés) hozzáadása a SourceForge Track System-hez
+Fájl csatolása: 
+Aktuális állapot és a válaszok átnézése a SourceForge Track System-ben : \nhttps: //sourceforge.net/tracker/?group_id=355449
+
+* játék beállítások
+ROBBANTÁS engedélyezése
+JAVÍTÁS engedélyezése
+Játék beállítások
+...hídra, kikötõre, repülõtérre és városra alkalmazva
+ÉPÍTÉS engedélyezése
+Zárótûz engedélyezése
+Csatahajók, cirkálók képesek FlaK módra tüzelni
+Valós zéró lõtáv (nem lõhet a szomszédos mezõkre sem)
+Valós zéró földerítés (nem látja a szomszédos mezõket sem)
+Az összes teljes méretû terület (sor, oszlop 0) használatának az engedélyezése
+Hegy, város stb. blokkolja a közvetlen tüzelést 1-nél nagyobb lõtáv esetén
+Baráti egységek SZINTÉN korlátozzák a lõtávot (speciális egységeket kivéve)
+Új látótávolság szabály (erdõ, város stb. blokkol, korlátozott légi földerítés)
+Légi egységek ellenõrzött területe kiterjesztve (mint a szárazföldieké)
+A légi egységekre a lõtávolságba érkezéskor tüzelhet a légvédelem
+MI kiválasztása
+Kibõvített út szabály (a mezõre lépéskor hat, nem az elhagyásakor)
+Az út engedélyezése az összes tereptípuson (a járhatatlanokon is)
+Az erõsítés akkor érkezik, amikor a játékos aktív (hasonlóan, mint a PG2-ben, a forduló elején)
+A szerkesztés során hozzáadott törzsegységek nem számítanak a presztízslimittel szemben (alapértelmezésben számítanak)
+Fölhasználói csatabeállítások
+A registry beállítások használata
+MI kikapcsolva
+
+* fõ beállítások
+Videó üzemmód: 
+Kattints duplán bármely elemre a használatához
+Legutóbb használt fájlok
+Aktuális videó üzemmód:
+Betöltött játék:
+Térkép kép: 
+F-fájl betöltve
+Játék mappa
+F-fájl mappa
+Ikonfájl betöltve
+Média beállítások
+Csata beállítások
+Jelentés beállítások
+Szélesség x Magasság x képpont
+Képernyõ beállítások
+Betûtípus
+Beállítások tárolása a merevlemezen
+PG2 mód: BE
+Elõször JPG formátumú térképet próbál letölteni
+Felület beállításai
+
+* fölhasználói beállítások
+Robbanás mutatása a célponton (távoli lövés)
+Parancsok naplózása kikapcsolva (nem játszható vissza késõbb)
+Fölhasználói felület beállításai
+Dupla kattintás a Stratégiai nézetre váltáshoz
+Mindig látszódjon a tereptípus a fejlécben
+Idõjárás animáció betöltése a rendszermemóriába
+Idõjárás animáció megjelenítése
+Szöveges naplózás (MI forduló, hibakeresés) kikapcsolása
+PG2 mód: BE
+Megadás helyett robbanást mutat
+Ötletek mutatása
+Egység erõsség és az ütközet becslésének elrejtése
+Ütközet eredményének megjelenítése az egység mellett
+Elegendõ üzemanyag (repülõknek) jelzés elrejtése
+Terep címkék és az utak megjelenítése
+A lõtávolság határvonalainak megjelenítése
+Gyõzelmi / Utánpótlás pontok adatainak elrejtése
+Rácsok megjelenítése
+Elérhetõ információk a térképen
+Földerítetlen területek árnyékolása a térképen
+Fölhasználói nyelv választása
+
+* GAME_OPTIONS
+Új játék
+Játék betöltése
+Játék mentése
+Kilépés
+Kattints duplán bármely tételre a legutóbbi fájlok betöltéséhez
+Aktuális fájl
+F-fájl
+
+* PASSW
+Add meg a jelszót
+
+* MISC FORMATTED TEXT
+Idõjárás: %s
+Játékos: %d * %s
+Oldal: %d (%s) * %s %s
+Aktuális presztízspont: ?
+Aktuális presztízspont: %6d
+Presztízs módosító: %6d
+Tarts %d VH-t
+Utolsó forduló
+%d forduló
+Visszavonandó egységek: %d (forduló: %d, %d, %d BV,V,TV -hez)
+Visszavonandó egységek: %d
+Gátold meg %d MI egység elmenekülését (forduló: %d, %d, %d BV,V,TV -hez)
+Gátold meg %d MI egység elmenekülését
+Gátold meg a játékos %d egységének elmenekülését (forduló: %d, %d, %d BV,V,TV -hez)
+Gátold meg a játékos %d egységének elmenekülését
+Túlélésre megjelölt egységek: %d (forduló: %d, %d, %d BY,V,TV -hez)
+Túlélésre megjelölt egységek: %d
+Megsemmisítendõ megjelölt egység %d (forduló: %d, %d, %d BY,V,TV -hez)
+Megsemmisítendõ megjelölt egység %d
+MI verzió: %s %s
+PG2 mód
+OG mód
+Ablak
+Teljes
+Teljes: %4d x %4d x %2d %s
+Ablak: %4d x %4d x %2d %s
+1. játékos: %s
+2. játékos: %s
+%d csata
+J1: %s - %s
+J2: %s - %s
+J3: %s - %s
+J4: %s - %s
+Csata: %s * Forduló: %d
+Hadjárat: %s\r\nCsata: %s * Forduló: %d
+Csata eredmény: (Nincs pont)
+Csata eredmény : %d
+
+* -------------------------------------
+* Pop Messages
+* not so critical about lenght of text
+* -------------------------------------
+A csata [%s]\nnem található...
+Szeretnéd elõször az aktuális csatát menteni?
+Szeretnél légi szállítást?\nVigyázz, késõbb nem tudod visszavonni ezt a telepítést!
+A csapatszállító el fog veszni. Folytatod?
+Vigyázz, baráti területre tüzelsz.\nValóban folytatni akarod?\n
+\nBiztos vagy benne, hogy meg akarod szakítani az MI fordulóját?\n
+Az egység épít, biztos megszakítod a folyamatban lévõ feladatot?
+Egység: %d %s - %s\nBiztosan el akarod veszteni a csapatszállítót: %s  Mozgás: %d ?
+\nMegerõsíted, hogy föl szeretnéd oszlatni az egységet?\n
+Valóban föl akarod oszlatni ezt az egységet...\n\n%s %s \n
+Erõsítsd meg, hogy ezeket a mappákat szeretnéd létrehozni...\n%s\n%s\n%s
+Valóban törölni szeretnéd a fájlt...\n%s\n
+A hadjárat fájljainak ellenõrzése még tart... \nvalóban meg akarod szakítani?\n
+\nBiztosan újra szeretnéd tölteni a térképet?\n
+Az egységnek nincs üzemanyaga, a csapatszállító nem tud továbblépni!\nSzeretnéd a mozgást tovább folytatni a szállítójármû elvesztésével?\n
+Valóban futtatni szeretnéd a játékszerkesztõt (Suite)?
+Valóban ki akarsz lépni?
+
+A véletlen szám (1,20) tesztelése %d alkalommal\n
+Az F-fájlban %d egység található\nCsak az elsõ %d egység lesz betöltve\n
+%s nem található...\nA fölszerelés nevek nem elérhetõk\n
+A [%s] hadjárat fájl\nnem található...
+F-fájl mappa megváltozott:\n\n%s
+XLOG újrajátszás a fölhasználó által megszakítva...
+XLOG újrajátszás befejezve...
+%s nem nyitható meg\n...a tesztelés megszakítva\n
+%s\nsikeresen elmentve
+Hiba a mentés közben:\n%s
+A csata [%s] \nnem található...
+Hiba...\ntérkép nélkül nem lehet játszani, a térkép mérete ismeretlen\nMegszakítva...\n
+Nem található [%s]\nelmentett fájl...
+Ez nem egy PG2 csv fájl, talán MS-Excel?
+Ez nem egy OpenGen mentés!
+A fájl nem hozható létre\n%s \n
+Figyelem!\n %d egység rossz helyen volt található a térképen\nVissza lettek vonva (1,1) mezõre
+A definiált térkép nem található...\nvagy a csata betöltése közben hiba lépett föl\nnem lesz háttér térkép megjelenítve...
+Hiányzó térkép %s ...\nnem található az interneten sem...\n
+A térképet nem lehet megnyitni: %d\nnem lesz háttér térkép megjelenítve...
+A térkép sikeresen újratöltõdött\n
+Az akna sikeresen eltávolítva...\n
+Nem sikerült eltávolítani az aknát!\n1 megbénulás a forduló hátralevõ részében\n
+Újrajátszás vége...
+A játék sikeresen betöltõdött
+Mentési kísérlet xEml fájlként...\n%s \n
+Nincs érvényes xEml fájlnév megadva...\n
+Ez nem PBEM fájl [%s]\n
+Túl nagy térkép méret...
+%d egység lett visszavonva a térképrõl
+MI fölfüggesztve, nyomd meg az F5-öt a folytatáshoz vagy az ESC-et a megszakításhoz...
+MI fölfüggesztve, kattints a folytatáshoz...
+Nem lehet megnyitni a hadjárat fájlt: %s\nnem ellenõrizhetõ...
+A fölhasználó által megszakítva... \n
+Hadjárat: %s\n%d csata ellenõrizve\nNem hiányzik kritikus fájl
+~Unit: %d %s entering hex with wrong position (%d,%d)\nPlease keep current AUTOSAVE* ..\nBefore ending turn to allow analizing\n
+A csapatszállító nem hagyható el amíg az egység rajta van!
+A %d játékos nem igényelhet több új egységet\nMár %d egységgel rendelkezik\n
+Nem igényelhetõ 0 erõsségû egység\nMódosítsd az Alapértelmezett erõsség beállítását
+~Bad weather data pointer accesing NextWeather()\n
+~Bad weather period on NextWeather()\n
+%s már létezik...
+\nAz alábbi mappák lettek létrehozva: \n%s\n%s\n%s
+%s nem érvényes játék mappa...
+Hiba...\n
+A lehetséges nevek maximális száma elérve\nnem adható több új név
+Használd a legfrissebb Suite verziót, hogy minden egyes csatánál rendbe tedd az OpenGen opciókat
+A begépelt jelszó hibás\nPróbáld újra...
+Túl hosszú a várakozás\n...nyomd le bármely billentyût a program megszakításához\n
+~Seed saved succesfully
+Nem hozható létre\n%s
+~Seed loaded succesfully
+Nem nyitható meg\n%s
+Az egységet nem lehet újraerõsíteni...
+Az egység nem kaphat ellátmányt...
+\nA Suite szerkesztõnek a játék fõ mappájában kell lennie\n
+A védekezõ egység elmenekül!
+ %s \n nem érvényes játék mappa vagy az ikonfájl nem található! \nA program javasolni fogja, hogy válassz egy érvényes játék mappát\n
+Hiba!\nTovábbra sem található érvényes játék mappa, nem fogsz tudni játszani\n
+Nem sikerült fájlba írni\n%s\nA beállítások a registry-ben lesznek tárolva...\n
+Ellenõrzés a %d térkép letöltéséhez\nVárj türelemmel...
+A [%s] mentés\nnem található...
+Nincs elegendõ videó memória a játék futtatásához\nKattints a kilépéshez...\n
+Hadjárat ellenõrzés megszakítva\nVárj türelemmel...
+
+* Lines added after first template version
+Nincs fájl betöltve
+Nincs kép
+Zene fájl választása
+Intró fájl választása
+Intró videó választása
+OpenIntro (a fõ SOUND mappában)
+Nyomj ?-et a képesség kódok (@) súgójának megjelenítéséhez. Használd a PgUp/PgDown gombokat a görgetéshez
+A fejlesztés letiltva ennél a csatánál
+AAR (Összefoglaló jelentés)
+Sereg költsége: %d * Aktuális presztízspont: %d * %s
+Mappa
+Új fölszerelés érhetõ el a legutóbbi csata kezdete óta
+Új fölszerelés érhetõ el ebben a hónapban
+
+* more added
+Térkép áttekintése, nyomj ESC-et a befelyezéshez és Parancsnokságra visszatéréshez
+Idõjárás: %s (%d forduló a változásig)
+Forduló: %d / %d
+Hadsereg
+Sereg költsége: 
+Elérhetõ: %d
+Talajviszony: %s
+ <Nyomj D-t az ugráshoz>
+ <Nyomj A-t légi szállításhoz>
+ <Nyomj N-t vízi szállításhoz>
+ <Fölrobbantva>
+  Épül: %s -%d
+Kattints a szállító jármû részleteinek megjelenítéséhez
+Ctrl+T lenyomása a szállító jármû elhagyásához
+Nincs
+Egy prototípus egységgellettél jutalmazva
+Vezetõ szerzésének esélye: %d%%
+Tartandó Gyõzelmi pont
+%d visszavonandó egység
+Forduló: 
+Bombateher
+~Using movement
+Nem található
+Egység átnevezése
+Hadjárat ellenõrzése
+Csata #%d [%s.scn]
+Csata szöveg fájl [%s.txt]
+Csata #%d [%s]\n[térkép: %s.map]
+Csata #%d [%s]\n[térkép képe #%d]
+kritikus hiba található
+letöltés folyamatban
+az interneten sem
+letöltve az internetrõl
+Nyomd meg az ESC-et a megszakításhoz...
+
+Nem lehet megnyitni a #%d [%s] csatát a térkép ellenõrzéséhez\n
+A #%d [%s] csatának nincs definiált térképe\n
+Nem lehet megnyitni a #%d [%s] csatát a térkép ellenõrzéséhez\n
+A #%d [%s] csatának nincs definiált térképe\n
+A %s hadjáratból %d fájl hiányzik\n
+%d fájl lett letöltve\n
+További %d fájl hiányzik még
+Az összes hiányzó fájl le lett töltve az internetrõl
+Repülõtér: %d Erõd: %d Kikötõ: %d Híd: %d pp
+Kattints a Dosszié megjelenítéséhez
+
+* Special attributes
+Képességek
+Nincs képesség
+Ejtõernyõvel dobható
+Légi úton szállítható
+Hegyi (gyalog) mozgás
+Híd
+Rohamutász
+Földerítõ (szakaszos) mozgás
+NINCS leszállás a jármûrõl támadás esetén
+Leszáll a jármûrõl, ha megtámadják
+NINCS támogató tûz
+Támogató tûz
+Földi célpont támadása (Légvédelem, FlaK)
+Harci támogatás
+Képes légi támadásra
+Döngölt repülõtér - légi egységek telepítése és ellátmányozása
+Képes területet elfoglalni
+Anyahajóra telepíthetõ
+Légi úton szállítható csapatszállító
+Az utász képes építeni és javítani
+Képes aknát fektetni
+Képes aknát fölszedni
+Gépesített, mozgás után támadni tud
+Tengerész, hajóról kiszállás után tud mozogni
+Nem adja meg magát megbénítás miatt
+Mozgás után leszáll a jármûrõl
+Nem használhat döngölt repülõteret
+A teljes lõtávon belül képes bombázni
+Nem csökkenti az ellenség látótávolságát
+Nem csökkenti a lõtávolságot
+Nem biztosít ellenõrzött területet
+Az egység képes elmenekülni, mint a tengeralattjárók
+Képes zárótüzet adni / bombázni
+Képes robbantani
+Nem kaphat vezetõt
+Tartós megbénítás
+All weather combat
+Képes lerohanni
+Nem képes lerohanni
+Nincs lõszerhiány büntetés
+Nem képes befogni légi egységet
+Használhat vasúti szállítást
+Használhat szállító helikoptert
+	
+* vezetõk
+Tenacious Defense : +4 védekezés
+Aggressive Maneuver : +1 mozgás
+Elite Recon Veteran : +2 földerítés
+Tank Killer : A küzdelem során nincs büntetve a kezdeményezés mozgás esetén
+Marksman : +1 Lõtávolság
+Mechanized Veteran : Mozgás után támadni tud
+Skilled Interceptor : Légi egységek többszörös befogása
+Skilled Assault : Ellenáll az elfogó vadászoknak és a légvédelem befogásának
+Aggressive Attack : +2 támadás
+Determined Defense : +2 védekezés
+Battlefield Intelligence : Nem tudnak rajtaütni, +1 kezdeményezés
+First Strike : Elsõként lõhet, ha megnyeri a kezdeményezést
+Resilience : Kevesebb elszenvedett veszteség és nem rohanható le
+Influence : Fejlesztés, utánpótlás és föltöltés költsége fele az alapértelmezettnek
+Fire Discipline : Fele lõszert használ
+Liberator : Képes mezõt elfoglalni és dupla presztízspontot kap az elfoglalásért
+Mountain Training : Az erdõ, domb, hegy és rögös terepen is úgy mozog, mint a mezõn
+All Weather Combat : Nem hat rá az idõjárás
+Camouflage Expert: Csak a környezõ mezõkrõl látható, ha erdõben, városban, cserjésben, homokon vagy hegyen van, illetve tüzel az elsõ szomszédos mezõre lépõ ellenségre
+Combat Support : Kölcsönzi a tapasztalati szintjét a szomszédos baráti egységeknek
+Infiltration Tactics : Nem hat rá a beásottság és elsõként tüzel, ha a kezdeményezést nagyobb különbséggel nyeri mint 1
+Aggressive Maneuver : +1 mozgás
+Skilled Reconnaissance : +2 földerítés
+Reconnaissance Movement : Szakaszos mozgás
+Skilled Ground Attack : Bónusz földi célpontok támadása esetén
+Street Fighter : Városokban nem hat rá a beásottság
+Overwhelming Attack : Nagyobb valószínûséggel okoz veszteséget, az elsõ megbénítás veszteséggé válik
+Superior Maneuver : Figyelmen kívül hagyja az ellenséges egység által ellenõrzött területet
+Extended Front : Támogató tüzet nyújt a szomsédos baráti egységeknek
+Ferocious Defense : Egyik egység sem tudja kikerülni a beásottságát, ellenáll a megbénításnak
+Overwatch : Az elsõ lõtávon belülre lépõ ellenséges egységen rajtaüt
+Devastating Fire : Az egység kétszer tüzel egy forduló alatt
+Bridging : A folyót úgy kezeli, mint a rögös terepet és hídként szolgál
+Shock Tactics : Az okozott megbénulás az egész fordulón áttart
+FlaK Support : Támogató tûz és légi egységek többszörös befogása
+
+

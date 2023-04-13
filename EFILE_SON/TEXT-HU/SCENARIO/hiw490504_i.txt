@@ -1,0 +1,13 @@
+Buda
+1849. V. 4.
+
+Tábornok polgártárs! Csapataink a dicsõ tavaszi hadjárat során nagyszerû tetteket hajtottak végre, ámde lerongyolódtak és megfogyatkoztak. Az osztrák fõsereg üldözése Bécs felé sok sikerrel nem kecsegtet. A Honvédelmi Bizottmány ezért úgy döntött, hogy erõit visszafordítva a körülzárt fõvárost, a császárak által megszállott Buda várát ostrommal bevétesse. Nemzetünk szíve nem lehet idegen kézen! Siker esetén az utánpótlási vonalainkat is rövidebbé teszi.
+
+Elhelyezhetõ egység: 15
+
+KÜLDETÉS: Foglald el az összes gyõzelmi pontot.
+
+JAVASLAT:
+- Nem kell ostromágyúkat venned, erõsítésként fogsz kapni néhányat.
+- Ne add el a fölöslegesnek tûnõ egységeket, késõbb még telepítheted õket.
+- Ha nem szeretsz védekezõ harcokat folytatni egy túlerõben lévõ ellenséggel szemben, itt megnyerheted a hadjáratot egy taktikai gyõzelemmel.

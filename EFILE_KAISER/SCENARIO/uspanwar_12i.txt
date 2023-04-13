@@ -1,0 +1,19 @@
+The last holdouts of the Philippines - Baler
+(12 April 1899)
+v 1.0 - Fictional scenario
+The sunset of the Spanish Empire - The Spanish American War 1898
+
+General,
+
+The peace treaty with the U.S. has put an end to four centuries of Spanish rule over the Philippines. Our troops are being repatriated and administration is being transferred to the Yankees. However, your mission in the Philippines is not over yet.
+
+We have been informed that a detachment of Spanish infantrymen is still besieged by Filipino rebels in a small outpost at Baler, a village on the eastern coast of Luzon. Now that the alliance between the U.S. and the Filipino revolutionary forces is broken and fighting has started between them, the Americans have allowed us to try to relieve the garrison if we wish so. 
+
+It goes without saying that it is a question of honour to relieve the surrounded detachment. You will be in charge of the rescue mission to Baler.
+
+Given that Baler is reachable only by ship (the town is surrounded by mountains and the jungle trails are nearly impassable), you will disembark in the mouth of the Baler River and enter into insurgent-held territory to reach our countrymen. You will have the support of an American gunboat.
+
+Victory conditions: to make the Baler garrison (MSU) escape by turn 8 for a BV, 9 for a V and 10 for a TV. 
+
+Paqueo,
+January 2014

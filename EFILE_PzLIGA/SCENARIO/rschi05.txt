@@ -1,0 +1,164 @@
+1941 Advance to South China
+Hong Kong
+Little Hong Kong
+Hotel
+Aberdeen
+Macao
+Kowloon
+Canton
+Stanley Fort
+Stanley Prison
+Hotel Eucliffe
+Pinghai
+Talping
+Huizhou
+Lufeng
+Kuitan
+Jlesni
+Jinghai
+Heping
+Jlexi
+Heyuan
+Dengta
+Longchuan
+Mianhu
+Wuhua
+Conghua
+Fogang
+Xinfeng
+Guandu
+Shakou
+Shaoguan
+Hanguang
+Yangshan
+Jitian
+Babu
+Enping
+Shenjing
+Haivan
+Yangschun
+Luoding
+Jiangmen
+Kowloon [PORT]
+Hong Kong [PORT]
+Macao [PORT]
+Taiping
+228 R/38 Div./[23A]
+230 R/38 Div./[23A]
+229 R/38 Div./[23A]
+38 Div./[23A]
+38 Div./[23A]
+38 Div./[23A]
+38 Div./[23A]
+38 Div./[23A]
+[JAAF]
+[JAAF]
+[JAAF]
+[JAAF]
+IJN Inazuma
+IJN Ikazuchi
+IJN Tuga
+IJN Isuzu
+Gin Drinker's Line
+Gin Drinker's Line
+Gin Drinker's Line
+Gin Drinker's Line
+Gin Drinker's Line
+Gin Drinker's Line
+2 Royal Scotts/Kowloon Bde.
+2/14 Punjab R./Kowloon Bde.
+5/7 Rajput R./Kowloon Bde.
+Hong Kong Chinese Btn.
+[China Command HQ]
+Royal Rifles/Hong Kong Bde.
+Winnipeg Gren./Hong Kong Bde.
+HKVDC
+HKVDC
+HKVDC
+Middlesex Rgt./Hong Kong Bde.
+[RAF Personnel]
+RA
+RA
+HKVDC
+HKVDC
+HKVDC
+Gin Drinker's Line
+[RAF]
+[RAF]
+HMS Thracian
+HMS Moth
+HMS Robin
+HMS Tern
+HKVDC
+Caçadores Moçambique/Macao
+Xinfeng Reservoir
+65 KMT Div./[12A]
+65 KMT Div./[12A]
+65 KMT Div./[12A]
+65 KMT Div./[12A]
+62 KMT Div./[12A]
+62 KMT Div./[12A]
+62 KMT Div./[12A]
+[12 Army HQ]
+[12A]
+[12A]
+63 KMT Div./[12A]
+63 KMT Div./[12A]
+63 KMT Div./[12A]
+21 KMT Div./[23A]
+21 KMT Div./[23A]
+21 KMT Div./[23A]
+[Canton Garrison]
+[Canton Garrison]
+4/7 Shenshashidan/[14A]
+65 Bde./[14A]
+65 Bde./[14A]
+16 Div./[14A]
+16 Div./[14A]
+16 Div./[14A]
+44 Div./[14A]
+44 Div./[14A]
+44 Div./[14A]
+4 Ind.Bde./[4 MBG]
+9 Ind.Bde./[4 MBG]
+16 Ind.Bde./[4 MBG]
+9 Ind.Bde./[4 MBG]
+16 Ind.Bde./[4 MBG]
+4 Ind.Bde./[4 MBG]
+[Macao Garrison]
+Jiangmen Garrison
+Jiangmen Garrison
+Jiangmen Garrison
+Jiangmen Garrison
+Jiangmen Garrison
+[Jiangmen Garrison]
+[Jiangmen Garrison]
+[Jiangmen Garrison]
+[Jiangmen Garrison]
+[Jiangmen Garrison]
+[Jiangmen Garrison]
+[Jiangmen Garrison]
+[14 Army HQ]
+16 Div./[14A]
+44 Div./[14A]
+[14A]
+[12A]
+228 R/38 Div./[23A]
+230 R/38 Div./[23A]
+229 R/38 Div./[23A]
+38 Div./[23A]
+38 Div./[23A]
+38 Div./[23A]
+38 Div./[23A]
+38 Div./[23A]
+[IJNAF]
+[IJNAF]
+[Canton]
+25 KMT Div./[23A]
+21 KMT Div./[23A]
+25 KMT Div./[23A]
+25 KMT Div./[23A]
+50 KMT Div./[23A]
+50 KMT Div./[23A]
+50 KMT Div./[23A]
+''Macau''

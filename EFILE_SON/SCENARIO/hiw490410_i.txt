@@ -1,0 +1,14 @@
+Vác
+April 10, 1849
+
+General! The 2nd Corps commanded by General Aulich will threaten the Austrians in the doorsteps of Pest. You will lead the 1st, 3rd and 7th Corps. Turn to the North, retake the city Vác and push back the imperials behind the River Garam.
+
+Deploy Hexes: 20
+
+ORDER: Take all VHs.
+
+NOTES:
+- You’ve got 3 railway transports.
+- Please consider that at the end of this scenario the units won’t be resupplied automatically.
+
+scenario designer: Csaba (lvjtn)

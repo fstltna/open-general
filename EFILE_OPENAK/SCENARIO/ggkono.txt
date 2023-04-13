@@ -1,0 +1,208 @@
+Collision at Konotop
+Ubed' River
+Desna River
+Koriukovka
+Avdeyevka
+Voronezh
+Brech River
+Savinki
+Khlop'yaniki
+Bogachka River
+Klishki
+Rodichev
+Esman' River
+Rudnya
+Ponornitsa
+Volynka
+Lushniki
+Ret' River
+Andronikov
+Domashlin
+Obolon'ye
+Raygorodok
+Zmetnyev
+Sosnitsa
+Korop
+Dobrotovo
+Krolevets'
+Doch River
+Shabalinovo
+Karyl'skoye
+Makoshino
+Nekhayevka
+Seym River
+Altynovka
+Velikoye Ust'ye
+Atyusha
+Leninskoye
+Mutino
+Goloven'ki
+Borzna River
+Velikaya Doch
+Jaduty
+Baturin
+Mel'nya
+Mitchenki
+Kukolka River
+Ezuch River
+Bochechki
+Gorodishche
+Alenovka
+Borzna
+Borzenka River
+Konotop
+Popovka
+Romen River
+Korabutovo
+Strel'niki
+Bakhmach
+Kuren'
+Dubov'yazovka
+Pliski
+Tinitsa
+Krasnoye
+Malyi Sambor
+Oster River
+Ivangorod
+Zelenovka
+Velikiy Sambor
+Grigorovka
+Martinovka
+Koshari
+Romen River Source
+Gaivoron
+I/6/3rd Pz[XXIV]
+II/6/3rd Pz[XXIV]
+II/35/4th Pz[XXIV]
+III/6/3rd Pz[XXIV]
+III/GD(XLVI)
+I/20/10th Inf(mot)[XXIV]
+II/41/10th Inf(mot)[XXIV]
+I/33/4 Pz Div [XXIV]
+II/GD(XLVI)
+II/20/10th Inf(mot)[XXIV]
+I/41/10th Inf(mot)[XXIV]
+18/V/GD(XLVI)
+II/400/GD(XLVI)
+III/10/10th Inf(mot)[XXIV]
+I/400/GD(XLVI)
+I/10/10th Inf(mot)(XXIV)
+I/11/10th Inf(mot)[XXIV]
+II/StG 77(II)LF2
+I/StG 77(II)LF2
+I/JG 51(II)LF2
+II/JG 51(II)LF2
+II/4th Abn Brig(II ALC](REM)
+I/4th Abn Brig(II ALC]
+I/3rd Abn Brig(II ALC]
+II/2nd Abn Brig(II ALC]
+I/5th Abn Brig(III ALC]
+II/5th Abn Brig(III ALC]
+I/19/10th Tk
+II/19/10th Tk
+I/20/10th Tk
+II/20/10th Tk
+II/850/277th Rifle
+I/66/61st Rifle(LXVI)
+II/107/117th Rifle(LXVI)
+I/791/135th Rifle
+II/777/227th Rifle
+I/789/227th Rifle
+II/794/227th Rifle
+I/166/49th Rifle(XXVIII)
+I/1032/293rd Rifle
+I/1034/293rd Rifle
+II/1036/293rd Rifle
+III/817/293rd Rifle
+II/331/293rd Rifle
+III/586/293rd Rifle
+II/854/277th Rifle
+I/4/42nd Rifle(XXVIII)
+II/121/49th Rifle(XXVIII)
+I/760/5th AT Bde
+II/55th Ind Tk Batt
+I/55th Ind Tk Batt
+III/55th Ind Tk Batt
+I/17/42nd Rifle(XXVIII)
+I/262/293rd Rifle
+I/338/5th AT Bde
+II/707/117th Rifle(LXVI)
+I/580/154th Rifle(LXVI)
+I/55/61st Rifle(LXVI)
+I/852/277th Rifle
+I/321/117th Rifle(LXVI)
+34IAP/1ShAD
+51IAP/1ShAD
+91BAD/1ShAD
+93BAD/1ShAD
+63IAP/1ShAD
+15IAP/1ShAD
+101BAD/1ShAD
+104BAD/1ShAD
+Tank
+Bypass Konotop with Armour
+Konotop Fortifications
+I/427/192nd Moun(XIII)
+II/427/192nd Moun(XIII)
+I/618/192nd Moun(XIII)
+II/618/192nd Moun(XIII)
+I/676/192nd Moun(XIII)
+II/676/192nd Moun(XIII)
+I/753/192nd Moun(XIII)
+II/753/192nd Moun(XIII)
+I/283/192nd Moun(XIII)
+II/283/192nd Moun(XIII)
+III/283/192nd Moun(XIII)
+I/192/192nd Moun(XIII)
+Sswetschkino
+16/IV/GD(XLVI)
+I/GD(XLVI)
+I/6th Abn Brig(III ALC]
+I/212th Abn Brig(III ALC]
+I/53rd Ind Tk Batt
+II/53rd Ind Tk Batt
+III/53rd Ind Tk Batt
+I/65th Ind Tk Batt
+II/65th Ind Tk Batt
+III/65th Ind Tk Batt
+Bakhmach Defences
+Korabutovo Defences
+Baturin Defences
+Gaivoron Defences
+I/240/117th Rifle(LXVI)
+I/275/117th Rifle(LXVI)
+II/820/117th Rifle(LXVI)
+I/437/154th Rifle(LXVI)
+II/473/154th Rifle(LXVI)
+II/10/10th Tk
+II/221/61st Rifle(LXVI)
+I/307/61st Rifle(LXVI)
+I/236/187th Rifle
+II/292/187th Rifle
+I/455/42nd Rifle(XXVIII)
+I/459/42nd Rifle(XXVIII)
+I/497/135th Rifle
+I/212/49th Rifle(XXVIII)
+II/15/49th Rifle(XXVIII)
+I/28/75th Rifle(XXVIII)
+III/97/75th Rifle(XXVIII)
+I/235/75th Rifle(XXVIII)
+II/222/49th Rifle(XXVIII)
+III/1/49th Rifle(XXVIII)
+I/221/61st Rifle(LXVI)
+III/10/10th Inf(mot)(XXIV)
+I/36/4th Pz[XXIV]
+III/79/4th Pz[XXIV]
+I/Der Fuhrer/Das Reich(XLVI) 
+II/Der Fuhrer/Das Reich(XLVI) 
+III/Der Fuhrer/Das Reich(XLVI) 
+I/Deutschland/Das Reich(XLVI)
+II/Deutschland/Das Reich(XLVI)
+III/Deutschland/Das Reich(XLVI)
+II/KG 3(II)LF2
+I/KG 3(II)LF2
+Large stack at Konotop
+III/10/10th Tk
+I/170/135th Rifle
+II/282/75th Rifle(XXVIII)
+I/10/10th Inf(mot)[XXIV]

@@ -1,0 +1,122 @@
+Unternehmen Seeloewe Training
+18Gruppo/56Stormo
+20Gruppo/56Stormo
+11Gruppo/13Stormo
+43Gruppo/13Stormo
+98Gruppo/43Stormo
+99Gruppo/43Stormo
+39 OA / 5Gruppo OA
+5 GAF
+5/-/-/5ID
+5/-/5ID
+I/29/5ID
+II/29/5ID
+III/29/5ID
+I/89/5ID
+II/89/5ID
+III/89/5ID
+I/90/5ID
+II/90/5ID
+III/90/5ID
+5/-/-/5ID
+86CCNN/-/5ID
+37/-/-/37ID
+37/-/-/37ID
+I/29/37ID
+II/29/37ID
+III/29/37ID
+I/41/37ID
+II/41/37ID
+III/41/37ID
+I/42/37ID
+II/42/37ID
+III/42/37ID
+37/-/-/37ID
+34CCNN/-/37ID
+36CCNN/-/37ID
+44/-/-/44ID
+44/-/-/44ID
+I/7/44ID
+II/7/44ID
+III/7/44ID
+I/21/44ID
+II/21/44ID
+III/21/44ID
+I/22/44ID
+II/22/44ID
+III/22/44ID
+44/-/-/44ID
+33CCNN/-/44ID
+90CCNN/-/44ID
+15
+108
+111
+Zara
+Gorizia
+Fiume
+Vittorio Alfieri
+Alfredo Oriani
+Giosue Carducci
+Vincenzo Gioberti
+III/JG2
+I/JG27
+I/StG1
+I/KG51
+II/KG54
+I/KG55
+I/ZG2
+U-28
+Z4 Richard Beitzen
+U-29
+Z5 Paul Jacobi
+English Channel
+Canche river
+Le Touquet-Paris-Plage
+Montreuil
+Authie river
+Avenses-le-C.te
+Frevent
+Rue
+Crecy en P.
+Somme river
+Nouvion
+Abbeville harbour
+Abbeville
+Ault
+Bernaville
+Trepart
+Ailly le Clacher
+St. Riquier
+Blongy
+Neufchatel en B.
+Flixecourt
+Criel
+Bresle river
+Harnoy
+Molliens Dreuil
+Dieppe Harbour
+Bethune river
+Picquigny
+Amiens
+Poix
+Arques
+Londinieres
+Grand Villers
+Marseille en B.
+Longueville
+Lake
+Formerie
+Dieppe
+I/3/2Pz
+II/3/2Pz
+5/-/2Pz
+I/74/2Pz
+II/74/2Pz
+III/74/2Pz
+I/2/2Pz
+II/2/2Pz
+I/304/2Pz
+II/304/2Pz
+2/-/2Pz
+38/-/2Pz
+SS-V/-/-/SS-V

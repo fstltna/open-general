@@ -1,0 +1,109 @@
+Reclaiming Kharkov
+Kharkov
+Lyubotin
+Kovyagi
+Valki
+Village
+Akssjutovka
+Borovoje
+Konstantinovka
+Zid'ki
+Severskii Donets River
+Mirgorog
+N.Vodolaga
+Sokolovo
+Zmiev
+Borki
+Taranovka
+Andreyevka
+Berestovaya River
+Staroverovka
+Efremovka
+Pervomajsky
+Krasnograd
+Michajlovka
+Kegichevka
+V.Orel'ka
+Roadblock
+XV/11
+II/15/11th Pz Div.
+XI/11
+CX/11
+II/110/11th Pz Div.
+CXIX/11
+LXI/11
+III/L4
+II/L4
+PzJ Staffel/JG51
+I/1SS
+II/1SS
+III/1SS
+I/1SS
+I/1SS
+StuG/-/1st SS LSSAH
+FlaK/-/1st SS LSSAH
+I/Art/1st SS LSSAH
+DCLXXIX/333
+II/679/333rd Inf. Div.
+DCLXXX/333
+II/680/333rd Inf. Div.
+DCLXXXI/333
+CCCXXXIII/333
+333/-/333rd Inf. Div.
+I/2SS
+II/Deu/2nd SS Das Reich
+III/2SS
+I/2/2nd SS Das Reich
+II/2SS
+Aufk/-/2nd SS Das Reich
+StuG/-/2nd SS Das Reich
+FlaK/-/2nd SS Das Reich
+I/Art/2nd SS Das Reich
+CII/2SS
+XVII
+I/Czech
+II/SWF
+XXII
+XXX/TB
+CVI/TB
+CLXXIX/TB
+LXXXVI/TB
+XXV/G
+SWF
+XIII/G Kav
+Kharkov Militia
+XIX
+Sniper Platoon
+Reserves
+XLVIII/G
+CXI
+CLXXXIV
+Kharkov Defenses
+I/DF/2nd SS Das Reich
+II/DF/2nd SS Das Reich
+III/2SS
+XI/6
+II/11/6th Pz Div.
+IV/6
+II/4/6th Pz Div.
+VI/6
+XLI/6
+LXXVI/6
+I/2/1st SS LSSAH
+II/2/1st SS LSSAH
+III/2/1st SS LSSAH
+I/3SS
+II/3SS
+III/3SS
+3/-/3rd SS Totenkopf
+ Kegichevka Airfield
+Hangar
+ Michajlovka River
+Kharkov Airfield
+Railroad
+Railway Junction
+Destroyed Airfield
+SNOW/SAND
+FOREST
+CLEAR
+STREAM

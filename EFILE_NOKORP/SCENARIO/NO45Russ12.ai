@@ -1,0 +1,13 @@
+'---
+'Config AI file for scenario: NO45Russ12.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=5 items  ' Replacement for default list
+ 513  '  IS-2  [ TK  Russia]  Cost: 984
+ 694  '  T-44/100  [ TK  Russia]  Cost: 936
+ 705  '  Il-2m3/37 Sturmovik  [ TB  Russia]  Cost: 660
+7987  '  Shocktroops SU-122  [INF  Russia]  Cost: 1200
+7989  '  Shocktroops SU-85  [INF  Russia]  Cost: 1020

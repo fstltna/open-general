@@ -1,0 +1,173 @@
+The Muencheberg Breach
+Art.Abt.18/18.PzGrenD
+Kgr./20. PzGrenD
+Kgr./156.ID
+Kgr./MB
+Kgr./303.ID
+Kgr./9.FD
+Kgr./15.SS-WaffGrenD
+'Bluecher'
+'P' PzJgd Brig.
+'D' PzJgd Brig.
+'F' PzJgd Brig.
+'R' PzJgd Brig.
+Stab/541. VGrenD
+SS-PzRgt. HvS/11.SS-PD
+SS-PzGrenRgt.24/11.SS
+SS-PzGrenRgt.23/11.SS
+SS-PioBat.11/11.SS
+SS-FlaKAbt.11/11.SS
+Wotan-Stellung
+Wotan-Stellung
+Wotan-Stellung
+SS-Art.Rgt.11/11.SS
+sSS-PzAbt.503
+SS-PzAufkl.Abt.11/11.SS
+47 Gds Tk Bde/9 Gds Tk Corps
+50 Gds Tk Bde/9 Gds Tk Corps
+65 Gds Tk Bde/9 Gds Tk Corps
+33 Gds Mot Rfl Bde/9 Gds Tk Corps
+126 Gds Mrt Bn/9 Gds Tk Corps
+19 Mech Bde/1 Mech Corps
+35 Mech Bde/1 Mech Corps
+37 Mech Bde/1 Mech Corps
+219 Tk Bde/1 Mech Corps
+48 Gds Tk Bde/12 Gds Tk Corps
+49 Gds Tk Bde/12 Gds Tk Corps
+66 Gds Tk Bde/12 Gds Tk Corps
+34 Gds Mot Rfl Bde/12 Gds Tk Corps
+387 Gds SU Rgt/12 Gds Tk Corps
+40 Gds Tk Bde/11 Gds Tk Corps
+44 Gds Tk Bde/11 Gds Tk Corps
+45 Gds Tk Bde/11 Gds Tk Corps
+27 Gds Mot Rfl Bde/12 Gds Tk Corps
+19 Gds Mech Rfl Bde/8 Gds Mech Corps
+20 Gds Mech Rfl Bde/8 Gds Mech Corp
+21 Gds Mech Rfl Bde/8 Gds Mech Corp
+1 Gds Tk Bde/8 Gds Mech Corps
+399 Gds SP Aty Rgt/11 Gds Tk Corps
+53 Gds Mrt Bn/11 Gds Tk Corps
+74 Gds Rfl Rgt/27 Gds RflD
+76 Gds Rfl Rgt/27 Gds RflD
+83 Gds Rfl Rgt/27 Gds RflD
+54 Gds Aty Rgt/27 Gds RflD
+32 Gds AT Bn/27 Gds RflD
+986 RflRgt/230 RflD
+988 RflRgt/230 RflD
+990 RflRgt/230 RflD
+370 AtyRgt/230 RflD
+330 AT Bn/230 RflD
+178 Gds RflRgt/60 Gds RflD
+180 Gds RflRgt/60 Gds RflD
+185 Gds RflRgt/60 Gds RflD
+65 Gds AT Bn/60 Gds RflD
+132 Gds AtyRgt/60 Gds RflD
+283 Gds RflRgt/94 Gds RflD
+286 Gds RflRgt/94 Gds RflD
+288 Gds RflRgt/94 Gds RflD
+100 Gds AT Bn/94 Gds RflD
+199 Gds AtyRgt/94 Gds RflD
+63 Gds RflRgt/23 Gds RflD
+66 Gds RflRgt/23 Gds RflD
+68 Gds RflRgt/23 Gds RflD
+28 Gds AT Bn/23 Gds RflD
+49 Gds AtyRgt/23 Gds RflD
+380 RflRgt/171 RflD
+525 RflRgt/171 RflD
+713 RflRgt/171 RflD
+185 AT Bn/171 RflD
+357 AtyRgt/171 RflD
+266 Gds Rfl Rgt/88 Gds RflD
+269 Gds Rfl Rgt/88 Gds RflD
+271 Gds Rfl Rgt/88 Gds RflD
+96 Gds AT Bn/88 Gds RflD
+194 Gds Aty Rgt/88 Gds RflD
+242 Gds Rfl Rgt/82 Gds RflD
+244 Gds Rfl Rgt/82 Gds RflD
+246 Gds Rfl Rgt/82 Gds RflD
+86 Gds AT Bn/82 Gds RflD
+185 Gds Aty Rgt/82 Gds RflD
+1050 RflRgt/301 RflD
+1052 RflRgt/301 RflD
+1054 RflRgt/301 RflD
+337 AT Bn/301 RflD
+832 AtyRgt/301 RflD
+1368 RflRgt/416 RflD
+1373 RflRgt/416 RflD
+1374 RflRgt/416 RflD
+444 AT Bn/416 RflD
+1054 AtyRgt/416 RflD
+73 RflRgt/33 RflD
+82 RflRgt/33 RflD
+164 RflRgt/33 RflD
+105 AT Bn/33 RflD
+44 AtyRgt/33 RflD
+594 RflRgt/207 RflD
+597 RflRgt/207 RflD
+598 RflRgt/207 RflD
+420 AT Bn/207 RflD
+780 AtyRgt/207 RflD
+282 Ftr AvD/16 Air Army
+188 Bmb AvD/16 Air Army
+221 Bmb AvD/16 Air Army
+286 Ftr AvD/16 Air Army
+176 Gds Ftr AvD/16 Air Army
+1 Gds Ftr AvD/16 Air Army
+move 1 hex SW
+L
+SS-Frw.PzGrenRgt.48/23.SS
+Neutrebbin
+Wuschewier
+Hauptgraben
+Neufeld
+Alte Oder
+Quappendorf
+Friedlandkanal
+Neufriedland
+Kietzer See
+Altfriedland
+Karlsdorf
+Klostersee
+Neuhardenberg
+Dolgensee
+Wulkow
+Hermersdorf
+Trebnitz
+Worin
+Jahnsfelde
+Obersdorf
+Vorderer- oder Haussee
+Moeglin
+Reichenow
+Proetzel
+Praedikow
+Ihlow
+Grunow
+Reichenberg
+Batzlow
+Sophienfliess
+Stoebber
+Bollersdorf
+Ruhlsdorf
+Buckow
+Fliess
+Grosser Klobichsee
+Dahmsdorf
+Behlendorf
+Heinersdorfer See
+Heinersdorf
+Muencheberg
+Hoppegarten
+Regenmantel
+Arensdorf
+Tempelberg
+Eggersdorf
+Goelsdorf
+Buchholz
+Maxsee
+Wachtelberg
+Grosser Weesenberg
+Krugberg
+Jenashoehe
+Liebenberger See
+Schermuetzelsee

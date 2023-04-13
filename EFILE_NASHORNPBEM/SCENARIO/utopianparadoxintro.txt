@@ -1,0 +1,143 @@
+UTOPIAN PARADOX (Version 1.0a)        (Fictional March 1945 CacusasMountians GrandBattle)
+
+(Open General 0.90.20.02 24/01/13)        (Efile_NASHORNPBEM) (utopia.mapx) (Icons 19/11/13)
+(Open General 0.90.30.9b 23/11/13)        Map Download Error Resolved now! use (1111.mapx)
+
+SHOWCASING OPEN GENERAL PBEM IN ALL ITS GLORY OVER 32 TURNS!!
+
+"THE STRATEGIC ADDED TO THE TACTICAL" - Nashorn
+
+-----------------------------------------------------------------------------------------------------------------
+
+"For the Russian commander the new offensive has sharply turned from a crushing final enveloping attack to one of doubt and defensive counter readjustment as shocking reports of breakthrough German attacks in new sectors come through within hours of the Russian launch. 
+Do the Russians stick to or abandon their grand offensive?.
+
+The Germans are holding the main battleline and are certain a swift strike from the NW around Dropov, plus an airborne landing with naval resupply in the NE around Rostoff and also a huge armour spearhead up the West flank, will cause the eventual collapse of the whole front.
+
+The Russians were hoping a massive push down the East Flank around Salem plus increasingly supplied partisan activity in the SW and also a new Navy beachhead in the SE around Oil Depot Alpha would finally bring the Germans to their knees.
+
+Hold what you have and take the fight to the enemy!!" 
+
+-----------------------------------------------------------------------------------------------------------------
+
+The game is designed to be played with 250% Prestige on both sides and the manual House Rules below:-
+
+1/ Russians Production: Limited to only 2 of the same type of any Russian unit on the map at any one time except for unlimited normal Regular Infanty. (Automatically added Reinforcements dont count).
+
+2/ Germans Production: Limited to only 1 of the same type of any German unit on the map at any one time except for unlimited normal Regular Infantry.(Automatically added Reinforcements dont count).
+
+3/ Deployment Speed:   Limited to deploying only 1 ground unit from each Supply Hex owned per turn. Air units have unlimited deployment per turn from Airfields as per normal.
+
+4/ The 4 Corner Supply Hexes: Become deactivated immediately once the nearest Victory Hex (NW-Dropov Airfield/NE-Rostoff Town Hall/SW-Partisan Base/SE-Oil Depot Alpha) to the corresponsing Supply Hex is taken by any enemy unit. Can be reactivated immediately if Victory Hex recaptured.
+
+5/*** REPLAY OF OPPONENTS TURN HAS TO WORK TO BE A VALID TURN***
+
+NOTE:- GERMAN 1ST TURN ONLY DEPOLYMENT OF PLANES OVER AIRFIELD HEXES IS ALLOWED!  (no movement/attacks or production!). 
+
+The game should be played back to back with the victory hexes held after each game added to the mirrored game to find the total victory hex score accumulated and hence the overall winner of the Grand Battle!!
+
+-------------------------------------------------------------------------------------------------------------------
+
+OG Features Used:
+1/ Can Blow/Repair
+2/ Barrage
+3/ True range and spotting 0
+4/ Extended Naval Rules + ships can attack planes + ports dont behave as Supply Hex
+5/ LOF blocked by Mountains/Forests/Cities
+6/ Extended LOS Rules
+7/ Roads on any Terrain + (Bridge over Impassable)
+8/ Reinforcements arrive when player active
+9/ Air Units fired within AD range
+
+OG Features Not Used:
+1/ No Building
+2/ No Air Missions
+3/ Friend units dont block LOF
+4/ No random airborne drops
+5/ Ground conditions cant change
+
+Efile Features:
+1/  Modified Strings_Efile (Naval Attack/Target changed to Special Attack/Target)
+     *Special indicates mostly new fortified units and the few naval units* 
+2/  Barrage[B], Counter Battery and Support Fire used extensively
+3/  TB's No Lasting Supression only other Barrage/Bombsize activated units have ability
+4/  LB's Lasting Supression only via Bombsize - Default Lasting Supression Off 
+5/  Limited fuel/ammo for Air units (more sector/sortie/mission based gameplay)
+6/  Air movement range changes (for example Fighters least range upto LB's most range)
+7/  No Ammo Penalty used by all Air units and Super Heavy units
+8/  Combat Support used by Command units
+9/  No Interception used extensively on low level AD's
+10/ No Leader used extensively (but some units marked at 100% chance in scenario)
+11/ 2 Depot units used - Supply Truck/Supply Base
+12/ Enhanced multi ability Transports (Halftracks/Assualt Boats/etc)
+13/ Enhanced special role units (Jet Interceptors/V1 Rocket/Special Forces/Recon Planes/etc) 
+14/ No ASW default for TB's
+15/ No Surrender used extensively for the more resilient units
+16/ Flak class hardly used
+17/ No Station Needed not used - rail movement only via stations  
+18/ Power units limited by prestige costing 
+19/ More useful weaker/unpopular/cheaper units (each unit has a role to play now hopefully)
+20/ Limited All Weather ability for advanced Planes and Radar AD
+21/ Extra help symbols post Air units name/type for quicker ability indentification
+22/ Naval movement/combat enhancement (quicker/more dynamic gameplay)
+
+Scenario Features:
+1/  Modified Terrain File (Names/Movement/Entrench/IntCaps/Resupply+Replacement Factors)
+     *Biggest change for CITY movement (slower without road thus splitting CITY slightly)*
+     *Biggest name changes - Mountain changed to HEAVY and Ocean to DEEP RIVER*
+     *Factors now effect HEAVY(2), RIVER(3) and MARSH(4)*
+2/  Railways/ Dirt Ports used
+3/  Limited choices of units when buying new equipment during game (No Buy used on Efile)
+4/  Large Map to create specific sectors within the scenario
+5/  Large amount of units to help keep the grand battle feel spread over the 32 turns
+     *133 German units and 152 Russian units - Starting*
+     *15 German units and 13 Russian units - Reinforcements*
+6/  Large amount of prestige every other turn (250%) + extra surges 4 times during game
+     *Total for Germans is 8,900(22,250) and for Russians is 12,100(30,250)*
+7/  Large amount of extra prestige to be won on map to reward offensive play
+     *Winable Prestige for each side is 10,200(25,500)*
+8/  A number of Trigger Hexes on map (see listed below)
+8/  One special, per turn, prestige producing hex, per side (Extra target incentive)
+    *Salem Catacombs[34/20] German 20(50) / Kinski Fuel Depot[4/8] Russian 20(50)*  
+9/  One special, per turn, prestige producing unit, per side (Another target incentive)
+    *Supply Depot unit - Both Sides 10(25)*
+10/ New units produced start with zero experience
+11/ Initial varied starting strength for depolyed units (Balance purposes)
+12/ Initial leader abilities already specifically chosen and fixed (Balance purposes)
+13/ Modified Weather File (March= 2,2,40% / April=3,1,30%) + No Snow Ever
+
+Trigger Hexes:
+*28 Flagged Trigger Hexes and 2 Hidden Trigger Hexes available to trigger whole game*
+1/ 15 Instantly Unit Gains 101 experience points
+   *2 Hidden Hexes + Victory Hexes covered by Fortified Inf/ Bunkers + Arras Castle Hex *
+2/ 8 Instantly Unit Replacements to full strength
+   *All Victory Hexes covered by HQ Bunkers/ Supply Depots + Vladis Station Hex* 
+3/ 5 Instantly Unit Gains a Leader Ability if there is an available slot
+   *4 Corner Victory Hexes + Gestapo HQ Hex*
+4/ 2 Instantly Extra Spotting for one whole turn
+   *East Labinski Naval Command Hex(15 Hexes) + Entrance to "The Keep" Hex(whole map)*
+ 
+Exact Prestige Available per Turn (listed at 100%):
+1/300G 400R 2/150G 200R 3/300G 400R 4/150G 200R 5/1500G 1800R 6/150G 200R 7/500G 800R 8/150G 200R 9/300G 400R 10/150G 1400R 11/300G 400R 12/150G 200R 13/300G 400R 14/150G 200R 15/1000G 400R 16/150G 200R 17/300G 400R 18/150G 200R 19/300G 400R 20/150G 200R 21/500G 700R 22/150G 200R 23/300G 400R 24/150G 200R 25/200G 250R 26/100G 150R 27/200G 250R 28/100G 150R 29/200G 250R 30/100G 150R 31/200G 250R 32/100G 150R
+*Also shown in yellow text at start of each turn - 1st number at 100% (2nd number at 250%)* 
+
+Reinforcements: 
+Turn 5/  4 German Units (Waffen SS) around Rostoff (NE)
+              10 Russain Units (Tank Army) around Alvaron (E)
+Turn 6/  5 German Units (Waffen SS) around Rostoff (NE)
+              1 German Unit HQ Panther Reserve in Maikop (W)
+Turn 7/  2 German Units (Waffen SS) around Rostoff (NE)
+Turn 8/  1 German Unit Panther II Reserve around Maikop (W)
+              2 Russian Units Spitfire VB and Hurricane I around Alvaron (E)
+Turn 9/  1 German Unit Jet Me-163 Prototype around Maikop (W)
+Turn 10/ 2 German Units (Waffen SS) around Murmansk (S)
+Turn 12/ 1 Russian Unit Jet Il-702 Prototype around Alvaron (E)
+
+Notes:
+        Only Slevminska[21/4] and Murmansk[31/36] Docks can refit Battleship.
+
+-------------------------------------------------------------------------------------------------------------------
+
+"This Scenario is a long, complex, fantasy, micro-managed, houseruled, prestige heavy Giant but hopefully everybody will have fun with its endless possiblities, humour, epic gameplay and serious challenge that it contains. This is a mini game within a game, with my main aim for it to become the default scenario test to find out who is the no.1 Open General Player out there LOL."
+
+Special Thanks to Luis Guzman(God), Andrew Gordon(Muse) and everybody else who has made Open General over the years into the greatest of games.   

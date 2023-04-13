@@ -1,0 +1,50 @@
+* Read carefully before editing!
+* Each line can be any length, but only first 96 chars will be read
+* Empty lines and those starting with * will be skipped.
+* Can replace any text but do no change the sequence of lines
+* To increase number of countries just add new lines
+*-------------------------------------------------------------------
+* Sides
+Eastern
+Western
+
+* Nations
+All Countries
+United States
+Russia
+China
+Iran
+North Korea
+South Korea
+Saudi Arabia
+Communist Afghanistan
+United Kingdom
+Thailand
+Turkey
+Iraq
+Kuwait
+Syria
+Israel
+Taiwan
+India
+Egypt
+Pakistan
+United Nations
+Germany
+Singapore
+Japan
+Ukraine
+France
+Vietnam
+Indonesia
+Mongolia
+Australia
+Kazakhstan
+Malaysia
+Soviet Union
+Islamic Afghanistan
+Taliban
+Afghani Rebels
+Jordan
+Palestine
+Argentina

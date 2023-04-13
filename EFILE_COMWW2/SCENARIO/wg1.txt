@@ -1,0 +1,147 @@
+Wintergewitter
+55/6P/4Pz
+2/6P/4Pz
+201/23P/4Pz
+17/17P/4P
+201/23P/4Pz
+57H/-/4Pz
+17/17P/4P
+17/17P/4P
+76/6P/4Pz
+128/23P/4Pz
+15/15LF/4Pz
+57/6P/4Pz
+128/23P/4Pz
+17/17P/4Pz
+37/6P/4Pz
+123/23P/4Pz
+15/15LF/4Pz
+29/15LF/4Pz
+30/15LF/4Pz
+KGL/15LF/4Pz
+RVP/23P/4Pz
+4/6P/4Pz
+114E/6P/4Pz
+17/17P/4P
+17E/17P/4P
+123/23P/4Pz
+2/5C/4R
+1Ft/4AF
+2Ft/4AF
+1TB/4AF
+2TB/4AF
+8/8C/4R
+3/8C/4R
+7C/5C/4R
+8C/5C/4R
+9C/5C/4R
+5C/5C/4R
+4C/8C/4R
+57KH/-/4P
+117/17P/4P
+123/23P/4Pz
+RVP/23P/4Pz
+565T/-/28
+2T/-/2G
+111/-/51
+112/-/51
+113/-/51
+15/15G/51
+28/-/28
+38/-/51
+2/-/2G
+91/91/51
+126/126/51
+34/-/28
+28H/-/28
+34/34G/28
+248/248/28
+128/28H/28
+51/51H/51
+28/28H/28
+51/51H/51
+28/28H/28
+912/91/51
+3021/302/51
+341G/34G/28
+1C/51H/51
+2C/51H/51
+1Ft/8AA
+2Ft/8AA
+1Ft/16AA
+1TB/8AA
+2E/2GH/2G
+342G/34G/28
+343G/34G/28
+51B/51H/51
+151/51H/51
+115/51H/51
+151/15G/51
+152/15G/51
+153/15G/51
+1Ft/16AA
+1TB/16AA
+51/51H/51
+3TB/4AF
+3Ft/4AF
+11/8C/4R
+12/8C/4R
+6B/6P/4Pz
+Kotelnikovo
+Kurmoyarsky
+Nizhne-Chirskaya
+Plevkhin
+Zhutovo Sta.
+Zalivsky
+Novoakaisk
+Gromoslavka
+Chernomorov
+Verkhne-Kumski
+Aksai-Esaulovsky River
+Aksai-Esaulovsky River
+Aksai-Esaulovsky River
+Aksai-Esaulovsky River
+Aksai-Esaulovsky River
+Aksai-Esaulovsky River
+Aksai-Esaulovsky River
+Aksai River
+Aksai-Esaulovsky River
+Aksai-Esaulovsky River
+Don River
+Don River
+Don River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+Myshkova River
+1/4Pz
+59/4M/51
+158/4M/51
+254/51
+255/51
+3023/302/51
+3022/302/51
+3021/302/51
+911/91/51
+3/6P/4Pz
+36/4M/51
+45/4m/51
+55/4M/51
+Gromoslavka Airfield
+Kotelnikovo Airfield
+Village
+Railroad
+Strong Point
+Supply Base
+SNOW/SAND
+44th Separate Armored
+FOREST
+HILL
+CLEAR
+164/62
+62

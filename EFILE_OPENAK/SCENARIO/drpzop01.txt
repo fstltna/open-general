@@ -1,0 +1,125 @@
+Panzer-Verbaende Ostpreussen
+20/20
+I/80/20
+II/80/20
+III/80/20
+I/78/20
+II/78/20
+III/78/20
+I/79/20
+II/79/20
+III/79/20
+59Lt/20
+78Lt/20
+88/20
+62Recon/20
+63Recon/20
+1Mazurski/20
+2Mazurski/20
+1/20
+Mlawa position
+Mlawa position
+Mlawa position
+Mlawa position
+Mlawa position
+Mlawa position
+Mlawa position
+Mlawa position
+Mlawa position
+Mlawa position
+1AAMG
+2AAMG
+114AAMG
+118AAMG
+8
+8
+I/21/8
+II/21/8
+III/21/8
+I/32/8
+II/32/8
+III/32/8
+I/13/8
+II/13/8
+III/13/8
+11/-/Mazowiecka
+1/-/Mazowiecka
+1LtH/Mazowiecka
+7L/Mazowiecka
+11L/Mazowiecka
+3/-/Mazowiecka
+2/-/-/Mazowiecka
+91/-/Nowogrodzka
+9/-/Nowogrodzka
+4MR/Nowogrodzka
+25L/Nowogrodska
+26L/Nowogrodzka
+27L/Nowogrodzka
+5/-/Nowogrodzka
+9/-/-/Nowogrodzka
+152
+41
+I/7/Kempf [I]
+II/7/Kempf [I]
+511/Kempf [I]
+I/SS Aty Rgt [I]
+II/SS Aty Rgt [I]
+III/SS Aty Rgt [I]
+1,2./II/47/Kempf [I]
+2./SS Flak-MG [I]
+I/SSRgt-D/Kempf [I]
+II/SSRgt-D/Kempf [I]
+III/SSRgt-D/Kempf [I]
+505/Kempf [I]
+11/11ID [I]
+I/11/11ID [I]
+II/11/11ID [I]
+III/11/11ID [I]
+I/47/11ID [I]
+11/11ID [I]
+I/2/11ID [I]
+II/2/11ID [I]
+III/2/11ID [I]
+I/23/11ID [I]
+II/23/11ID [I]
+III/23/11ID [I]
+11/11ID [I]
+SS AufklBtl/Kempf [I]
+I/JG1 [I] Lehr
+I/JG21 [I] Lehr
+II/KG3 [Ostpreussen] FD1
+III/KG3 [Ostpreussen] FD1
+I/StG1 [Ostpreussen] FD1
+161/61ID [I]
+I/161/61ID [I]
+II/161/61ID [I]
+III/161/61ID [I]
+IV/161/61ID [I]
+161/61ID [I]
+I/151/61ID [I]
+II/151/61ID [I]
+III/151/61ID [I]
+I/162/61ID [I]
+II/162/61ID [I]
+III/162/61ID [I]
+I/176/61ID [I]
+II/176/61ID [I]
+III/176/61ID [I]
+161/61ID [I]
+I/44/11ID [I]
+II/44/11ID [I]
+III/44/11ID [I]
+Neidenburg
+Soldau
+Janon
+Chorzellen
+Wieczfnia
+Kryznowloga
+Mlawa
+Wisniewka
+Zuromin
+Zenbok
+Przasnysz
+Niedzborz
+Zielona
+3./II/47/Kempf [I]

@@ -1,0 +1,79 @@
+Rzhev
+Sychevka
+Vazusa River
+Kasnia River
+Gzhatsk River
+Osuga River
+Gajduki
+Koniscevo
+Elmanovo
+Village
+Jarygino
+Khlepen
+Iablonia River
+Siderovo
+Maloye Kropotovo
+Aristovo
+Karpevo
+Bolshoye Kropotovo
+Zamjatino
+Stanino
+Zernovka
+Popsujevo
+Selemovo
+Petrakovo
+Verigino
+Fomino
+Novoselovo
+Gorskovo
+Selemovo Airfield
+Elmanovo Airfield
+Gajduki Airfield
+Destroyed Airfield
+CCXV/78
+XIII/5th Pz.
+XIV/5th Pz.
+X/9th Pz.
+I/1st Pz.
+XI/9th Pz.
+IX/5th Pz.
+CLXXVIII/78
+XXXI/5th Pz.
+XXXIII/9th Pz.
+DCLXXXVIII/337
+337th JagdPz. Abt.
+XIV/5
+LVI/5
+53rd JagdPz. Abt.
+CXCV/78
+240th Tank Brig.
+80th Tank Brig.
+26th Guards
+2nd Guards Kav.
+175th Tank Brig.
+CCXXVII/183rd Rifle Div.
+DVIII/174th Rifle Div.
+DCCCLXXIII/174th Rifle Div.
+III/2nd Pz. Div.
+CCCIV/2nd Pz. Div.
+II/2nd Pz. Div.
+38th JagdPz. Abt.
+CXIII/1st Pz.
+II/1st Pz.
+XXXVII/1st Pz.
+I./JG1
+I./JG21
+12th IAP
+CCXXXII/102
+CCXXXV/102
+CIV/102
+CCXXXIII/102
+CII/102
+HILL
+DENSE FOREST
+FOREST
+SNOW/SAND
+CLEAR
+Forward Command
+CCCXXXVII/337
+STAVKA

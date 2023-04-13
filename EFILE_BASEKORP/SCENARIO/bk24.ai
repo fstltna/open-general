@@ -1,0 +1,76 @@
+'---
+'Config AI file for scenario: bk24.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=68 items  ' Replacement for default list
+ 473  '  GAZ/25  [FlaK  Russia]  Cost: 192
+ 489  '  Katyusha 82mm  [ATY  Russia]  Cost: 420
+ 496  '  41 Kavaleria  [INF  Russia]  Cost: 192
+ 497  '  41 Engineer  [INF  Russia]  Cost: 396
+ 501  '  42 Guards  [INF  Russia]  Cost: 228
+ 503  '  41 Parashutisti  [INF  Russia]  Cost: 300
+ 506  '  BA-64  [RCN  Russia]  Cost: 276
+ 517  '  KV-1/42  [ TK  Russia]  Cost: 840
+ 521  '  T-34/40  [ TK  Russia]  Cost: 552
+ 522  '  T-34/41  [ TK  Russia]  Cost: 600
+ 524  '  T-34/43  [ TK  Russia]  Cost: 648
+ 528  '  Gaz-3  [TPT  Russia]  Cost: 72
+ 529  '  Wagon  [TPT  Russia]  Cost: 12
+ 530  '  YaK-1  [FTR  Russia]  Cost: 564
+ 540  '  P-39Q  [ TB  Russia]  Cost: 780
+ 542  '  IL-2  [ TB  Russia]  Cost: 636
+ 543  '  IL-2m3  [ TB  Russia]  Cost: 780
+ 544  '  Li-2  [ATP  Russia]  Cost: 348
+ 680  '  Katyusha 132mm  [ATY  Russia]  Cost: 600
+ 689  '  KV-1/42S  [ TK  Russia]  Cost: 840
+ 692  '  OT-34  [ AT  Russia]  Cost: 552
+ 698  '  YaK-7B  [FTR  Russia]  Cost: 684
+ 876  '  41 Partisani  [INF  Russia]  Cost: 120
+ 979  '  Pe-2  [ TB  Russia]  Cost: 720
+ 995  '  Pe-2R  [ TB  Russia]  Cost: 408
+1802  '  GAZ/MG  [FlaK  Russia]  Cost: 228
+1805  '  MG 42  [FlaK  Russia]  Cost: 192
+1822  '  T60 BM-8-24  [ATY  Russia]  Cost: 492
+1827  '  Siberian  [INF  Russia]  Cost: 204
+1828  '  42 SMG Infantry  [INF  Russia]  Cost: 168
+1830  '  42 Spetsnaz  [INF  Russia]  Cost: 708
+1833  '  KV-8  [ AT  Russia]  Cost: 552
+1850  '  Pe-3  [FTR  Russia]  Cost: 576
+1855  '  Tu-2  [ TB  Russia]  Cost: 864
+1857  '  DB-3T  [ TB  Russia]  Cost: 420
+1859  '  Kom-1  [TPT  Russia]  Cost: 96
+2579  '  Horse  [TPT  Russia]  Cost: 12
+2580  '  Gaz-1  [TPT  Russia]  Cost: 108
+2581  '  Gaz-2  [TPT  Russia]  Cost: 60
+2582  '  Kom-2  [TPT  Russia]  Cost: 144
+2583  '  Gaz-4  [TPT  Russia]  Cost: 84
+2584  '  Kom-3  [TPT  Russia]  Cost: 156
+2585  '  Limber  [TPT  Russia]  Cost: 12
+2586  '  Kom-4  [TPT  Russia]  Cost: 168
+2587  '  Mules  [TPT  Russia]  Cost: 12
+2731  '  Gaz-5  [TPT  Russia]  Cost: 96
+2951  '  A-7  [ATP  Russia]  Cost: 252
+2952  '  TB-3  [ATP  Russia]  Cost: 348
+3334  '  BM-13-16  [ATY  Russia]  Cost: 708
+3761  '  41 NKVD  [INF  Russia]  Cost: 156
+3765  '  41 Cossacks  [INF  Russia]  Cost: 252
+3768  '  41 Mountain  [INF  Russia]  Cost: 276
+3769  '  41 Gornosaperny  [INF  Russia]  Cost: 384
+3770  '  42 Desantny  [INF  Russia]  Cost: 228
+3771  '  42 Marine Infantry  [INF  Russia]  Cost: 144
+3780  '  43 Mountain  [INF  Russia]  Cost: 348
+3782  '  43 Motociklisti  [INF  Russia]  Cost: 300
+3783  '  43 Partisani  [INF  Russia]  Cost: 156
+3808  '  41 Mototsikletnaya Razvedka  [RCN  Russia]  Cost: 252
+3810  '  42 HQ  [RCN  Russia]  Cost: 300
+4481  '  La-5  [FTR  Russia]  Cost: 684
+4691  '  .Suicide Bisnovat  [ TB  Russia]  Cost: 36
+4706  '  .Tu-2s  [ TB  Russia]  Cost: 864
+5828  '  Train  [RTP  Russia]  Cost: 120
+7981  '  SU-203  [ATY  Russia]  Cost: 1800
+7984  '  Yag 76.2mm  [ATY  Russia]  Cost: 420
+7988  '  SU-37 Infantry  [INF  Russia]  Cost: 708
+7990  '  Road Transporter  [TPT  Russia]  Cost: 120

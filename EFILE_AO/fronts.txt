@@ -1,0 +1,59 @@
+* ------------------------------------------------------------------ 
+* . To define Fronts for any country: 
+* . Lines starting with a single number defines country for next fronts/factions 
+* . can include country name after a space or tab, but won't be read 
+* . lines starting with # are read as a front name 
+* . lines starting with @ are read as a faction name 
+* . and belong to the last country read 
+* ------------------------------------------------------------------ 
+1 United States
+* fronts:
+#Ground
+#Air
+#Lunar
+#FutureWar
+#WW2
+#PostWar
+#Bizarre
+#I400
+
+* factions:
+@USMC
+@US Army
+@US Navy
+@USAAF
+@Garrison
+
+4 Nazi Exiles
+* fronts:
+#Ground
+#Lunar
+
+* factions:
+@Wehrmacht
+
+9 Japanese Empire
+* fronts:
+#I400
+
+* factions:
+@NULL
+
+13 Ashes
+* fronts:
+#Tech1
+#Tech2
+#Tech3
+
+* factions:
+@NULL
+
+14 Arm
+* fronts:
+#Tech1
+#Tech2
+#Tech3
+
+* factions:
+@NULL
+

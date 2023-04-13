@@ -1,0 +1,9 @@
+Situation: 
+General, this is the first time that we will fight on german territory. Your unitrs are standing at the Westwall. It is time to move into enemy territority and take the first big city.
+
+Orders:
+Take Aachen and the vicinity.
+
+A few hints:
+- The Westwall is a good opportunity to gain experience with your infantry units. Under one of the bunkers in the middle will be a leader trigger.
+- The germans will more likely not stand back if we capture the first german big city. There is a high possibility for counterattacks. It is not advisable to use your armoured units like tanks for street fights or fights against bunkers. So you should deploy your armoured forces in the south and try to flank Aachen to stop possible counteraatacks northeast of the city.

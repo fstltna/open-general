@@ -1,0 +1,12 @@
+Battle of Freiberg
+October 29, 1762
+
+After a succesful campaign in summer of 1762 in Saxony, Prince Henry of Prussia decided to take the offensive against the Reichsarmee commanded by Prince Stolberg who had the support of András Hadik’s Austrian Corps. The Allies were dug in behind field works situated on top of high ground to the west of the town of Freiberg. This position blocked all approaches to Dresden. Prince Henry received intelligence that the Austrians were expecting reinforcements, so he resolved to attack the Reichsarmee before the arrival of these additional troops.
+
+Deploy Hexes: 22
+
+ORDER: Keep your MSU alive and prevent escaping more than 5 Reichsarmee units.
+
+NOTE: Baden, Bavaria, Saxony and Württemberg represent the Reichsarmee units, their flags on the map helps you to locate them.
+
+scenario designer: Csaba (lvjtn)

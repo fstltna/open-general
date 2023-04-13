@@ -1,0 +1,734 @@
+VERSION: Antique General Efile 3.4."Britannia"
+Hastati
+Signifer
+Scout
+Iceberg
+Reindeer Transport
+wodden Tower
+Pyramids
+h. wagon
+h. wagon
+h. wagon
+h. wagon
+h. wagon
+Elephant
+Plänkler
+dog sled
+Kameltransport
+Infantry
+Cavalry
+Cavalry
+lght.numid.Cavalry 
+Cavalry Transport
+cottages
+Wodden Fortress
+cottages
+armed cottages
+Battle Tower
+Tipi cottages
+Fortress
+House
+Fortress
+Corral
+Cavalry Transport
+wagon
+stone-fortress gate
+stone-fortress wall
+stone-fortress wall
+stone-fortress wall
+stone-fortress wall
+Stone-Tower
+Wodden Tower
+wodden Tower
+Infantry
+l. Wagon
+Brigde
+l. Wagon
+l. Wagon
+l. Wagon
+wagon 
+wagon 
+wagon 
+wagon 
+wagon
+wagon 
+wagon 
+wagon 
+l. Wagon
+l. Wagon
+l. Wagon
+l. Wagon
+barbarian migration
+Big Corall
+Ind. Infantry1
+l. Wagon
+l. wagon
+Wagon
+Fortress
+stone-fortress gate
+stone-fortress wall
+stone-fortress wall
+stone-fortress wall
+stone-fortress wall
+stone-fortress wall
+stone-fortress wall
+wooden fortress wall
+wooden fortress wall
+wooden fortress wall
+wooden fortress wall
+wooden fortress wall
+wooden fortress wall
+wooden fortress wall
+wooden fortress wall
+wooden fortress wall
+Carrier
+Principes
+Guards-of-the-Tribe
+Guards-of-the-Tribe
+Scout
+armed Scout
+Guards-of-the-Tribe
+armed Scout
+Warriors
+Warriors
+young Warriors
+lght.Auxiliares
+Scout
+Scout
+wooden Tower
+wooden Tower
+Stone-Tower
+Stone-Tower
+Burgus
+armed Scout
+armed Scout
+Saboteur
+Saboteur
+Saboteur
+Saboteur
+Saboteurs
+Saboteurs
+Saboteurs
+Saboteurs
+Town
+Assassin
+Spy
+Spy
+Spy
+Triarii
+exp.Assassin
+Warriors
+barbarian migration
+barbarian migration
+barbarian migration
+barbarian migration
+barbarian migration
+Guards-of-the-Tribe
+Warriors
+Scout
+armed Scout
+young Warriors
+Assassin
+Assassin
+SPQR - Senatus PopulusQue Romanus
+gentry Warriors
+Sappers
+young Warriors
+Archers
+Veteran Archers
+heavy Cavalry
+General
+light Cavalry
+Archers
+Archers w.comp.Bows
+Assassin
+Cavalry Trnsprt
+temporary bridge
+Castell
+Spy-Cave
+Castell
+temporary bridge
+l. wagon
+Assassin w.poisn.Blade
+Spy
+bal.Slingers
+Assassin
+bal.Slingers
+armed Scout
+Archers
+Burgus
+exp.Assassin
+General
+Hastati
+wooden Tower
+Castell
+Cavalry Trnsprt
+Scout
+lght.numid.Cavalry 
+l. wagon
+lght.Auxiliares
+light Cavalry
+temporary bridge
+Sappers
+Principes
+Saboteur
+Saboteurs
+heavy Cavalry
+Signifer
+Spy
+Stone-Tower
+Triarii
+Veteran Archers
+Praet.Archers
+Praet.Archers
+Archers w.Hastati
+Archers w.Hastati
+Cavalry Scout
+Cavalry Scout
+Archers
+Archers w.comp.Bows
+Archers w.poisn.Arrows
+Archers w.comp.Bows&posn.Arrw.
+Archers
+Archers w.comp.Bows
+Archers w.poisn.Arrows
+Archers w.comp.Bows&posn.Arrw.
+Veteran Archers w.poisn.Arrows
+Archers w.poisn.Arrows
+Archers w.comp.Bows&posn.Arrw.
+exp.Assassin
+exp.Assassin
+exp.Assassin w.poisn.Blade
+Cavalry
+Cavalry Scout
+gentry Cavalry
+Cart Ballista
+deserted german Legionaires
+exp.Assassin w.poisn.Blade
+Veteran Sappers
+Veteran Sappers
+Veteran Archers w.poisn.Arrows
+Cart Ballista
+exp.Guards-of-the-Tribe
+gentry Guards-of-the-Tribe
+exp.Guards-of-the-Tribe
+gentry Guards-of-the-Tribe
+Skirmishers
+Skirmishers
+light Cavalry
+Axe-Men
+praet.Triarii
+praet. Triarii
+Velites
+Velites
+wooden Tower
+Scorpion
+Scorpion
+Spy-Cave
+Spy-Cave
+Spy-Cave
+Spy-Cave
+Corral
+Corral
+Cavalry
+Doppelkaempfer
+Haeuptling
+Scorpion w.Hastati
+praet.Scorpion
+Scorpion w.Hastati
+praet.Scorpion
+Ind. Infantry2
+Ind. Infantry3
+Ind. Infantry4
+Ind. Infantry5
+Ind. Infantry6
+armed Servants
+armed Servants
+Benefitiari
+Benefitiari
+Romani
+Romani
+hvy. Ballista
+heavy catapult
+Tricontera
+Transportship
+Tricontera
+Transportship
+Transportship
+Transportship
+Battleship
+Battleship
+Vigiles
+Vigiles
+Manipularii
+Manipularii
+Praetoriani
+Praetoriani
+Cavalry Trnsprt
+Cavalry Trnsprt
+armed Cav. Trnsprt
+armed Cav. Trnsprt
+armed Cav. Trnsprt
+armed Cav. Trnsprt
+Wagon
+Wagon
+hvy. Ballista
+hvy. Catapult
+hvy. Catapult
+hvy. Wagon
+hvy. Wagon
+Scout
+Saboteur
+Spy
+Sappers
+Archers
+King
+light Cavalry
+temporary bridge
+l. wagon
+wooden Tower
+Spy-Cave
+Tricontera
+Assassin
+Stone-Tower
+armed Scout
+hvy. Ballista
+Wagon
+hvy. Wagon
+Scorpion
+Cavalry Trnsprt
+Transportship
+young Tusci
+Veteran Tusci
+hvy. Catapult
+armed Servants 
+Guards of the Tribe
+light Cavalry 
+Warriors
+Slingers
+Slingers
+Slingers
+Slingers
+Slingers
+Slingers
+Mountain Trnsprt
+Mountain Trnsprt
+Mountain Trnsprt
+med. Catapult
+med. Catapult
+med. Catapult
+Gladiatores
+Spy
+Saboteur
+Assassin
+Scorpion
+Scout
+armed Scout
+Cavalry Trnsprt
+l. wagon
+Wagon
+hvy. Wagon
+Archers
+Elite Slave-Guards
+armed Slaves
+Spy
+Saboteur
+Assassin
+Scorpion
+Scout
+armed Scout
+Cavalry Trnsprt
+l. wagon
+Wagon
+hvy. Wagon
+Archers
+Guards
+Pirates
+Transportship
+Transportship
+Tricontera
+northern Battleship
+Spy-Cave
+Spy-Cave
+wooden Tower
+wooden Tower
+armed Slaves
+med. Auxiliares
+med. Auxiliares
+Slave-Guards
+light Cavalry
+Elite armed Slaves
+Slave-Guards
+Chariot
+Circus
+Spear Trap
+Longboat blue
+Longboat grey
+Longboat green
+Longboat brown
+Longboat yellow
+Longboat black
+Pentecontera
+Pentecontera
+Pentecontera
+Pentecontera
+Ox Cart
+Ox Cart
+Ox Cart
+Ox Cart
+Ox Cart
+Ox Cart
+Ox Cart
+Cavalry Trnsprt
+Rammer
+Rammer
+Rammer
+Rammer
+Rammer
+Trirema
+Trirema
+Trirema
+Trirema
+Liburna
+Liburna
+Liburna
+Liburna
+Heptera
+Heptera
+Heptera
+Heptera
+light Liburna
+light Liburna
+light Liburna
+light Liburna
+Guards-of-the-Tribe
+Warriors
+Scout
+wooden Tower
+Stone-Tower
+armed Scout
+Saboteur
+Saboteurs
+barbarian migration
+gentry Warriors
+young Warriors
+Archers
+Archers w.comp.Bows
+Assassin
+Assassin w.poisn.Blade
+Spy
+Archers w.poisn.Arrows
+Archers w.comp.Bows&posn.Arrw.
+Cavalry
+Cavalry Scout
+gentry Cavalry
+exp.Guards-of-the-Tribe
+gentry Guards-of-the-Tribe
+Skirmishers
+light Cavalry
+Spy-Cave
+Corral
+armed Servants
+Transportship
+Battleship
+Cavalry Trnsprt
+armed Cav. Trnsprt
+Chariot
+Ox Cart
+lght.Auxiliares w. rom. Officer
+lght.Auxiliares w. rom. Officer
+Guards-of-the-Tribe
+Scout
+armed Scout
+young Warriors
+Saboteur
+Saboteurs
+Spy
+Warriors
+barbarian migration
+Assassin
+Archers
+Archers w.comp.Bows
+Archers w.poisn.Arrows
+Archers w.comp.Bows&posn.Arrw.
+exp.Assassin
+deserted german Legionaires
+exp.Guards-of-the-Tribe
+gentry Guards-of-the-Tribe
+Skirmishers
+Axe-Men
+wooden Tower
+Spy-Cave
+Corral
+Cavalry
+Doppelkaempfer
+Haeuptling
+armed Servants
+Transportship
+Battleship
+Cavalry Trnsprt
+armed Cav. Trnsprt
+Ox Cart
+Longboat
+Longboat
+palisade N (i)
+palisade NE
+palisade E
+palisade SE
+palisade S (o)
+palisade SW
+palisade W
+palisade NW
+palisade N (o)
+palisade S (i)
+palisade NE-S
+palisade SE-N
+palisade N-S (r)
+palisade N-S (l)
+palisade SW-N
+palisade NW-S
+palisade N (i) + Tower
+palisade NE + Tower
+palisade E + Tower
+palisade SE + Tower
+palisade S (o) + Tower
+palisade SW + Tower
+palisade W + Tower
+palisade NW + Tower
+stonewall W-E 
+stonewall N-S 
+stonewall NW-SE
+stonewall NE-SW
+stonewall NE-S
+stonewall NW-S
+stonewall SW-N
+stonewall SE-N
+stonewall S
+stonewall N
+stonewall W
+stonewall E
+stonewall r d
+stonewall l d
+stonewall r u
+stonewall l u
+stonewall N-S + Tower
+stonewall W-E + Tower + Gate
+stonewall W-E + Tower 
+Elephant
+Warriors
+Saboteur
+Spy
+Assassin
+Siege Tower
+Siege Tower
+Siege Tower
+Siege Tower
+Siege Tower
+Longboat
+Longboat
+Tricontera
+northern Battleship
+Pentecontera
+Trirema
+Heptera
+Liburna
+light Liburna
+phoenician Wargalley
+phoenician Wargalley
+phoenician Wargalley
+Tricontera
+Pentecontera
+Trirema
+Heptera
+Liburna
+light Liburna
+Guards-of-the-Tribe
+Warriors
+Scout
+wooden Tower
+Stone-Tower
+armed Scout
+Saboteur
+Saboteurs
+gentry Warriors
+young Warriors
+Archers
+Archers w.comp.Bows
+Archers w.poisn.Arrows
+Archers w.comp.Bows&posn.Arrw.
+Assassin
+Assassin w.poisn.Blade
+Spy
+Cavalry
+Cavalry Scout
+gentry Cavalry
+light Cavalry
+exp.Guards-of-the-Tribe
+gentry Guards-of-the-Tribe
+Skirmishers
+Spy-Cave
+Corral
+Transportship
+Cavalry Trnsprt
+armed Cav. Trnsprt
+Chariot
+Ox Cart
+Battleship
+Wizard
+Assassin
+Cavalry
+General
+light Infantry
+Cavalry Scout
+armed Cav. Trnsprt
+Archers
+Archers w.poisn.Arrows
+Archers w.comp.Bows
+Archers w.comp.Bows&posn.Arrw.
+Cavalry Trnsprt
+Spy
+Saboteur
+Infantry
+Scout
+..None
+Skirmishers
+light Cavalry
+Wizard
+gentry Guards-of-the-Tribe
+exp.Guards-of-the-Tribe
+armed Scout
+wooden Tower
+Stone-Tower
+Spy-Cave
+Corral
+Transportship
+Chariot
+Ox Cart
+Battleship
+Axe-Men
+early Warriors
+early Guards-of-the-Tribe
+Scout
+Spy
+Assassin
+Saboteur
+Saboteurs
+Assassin w.poisn.Blade
+Archers
+Archers w.poisn.Arrows
+Archers w.comp.Bows
+Archers w.comp.Bows&posn.Arrw.
+Cavalry Trnsprt
+armed Cav. Trnsprt
+early Cavalry
+young Warriors
+Warriors
+gentry Warriors
+gentry Guards-of-the-Tribe
+Cavalry
+armed Scout
+Cavalry Scout
+Skirmishers
+gentry Cavalry
+Wizard
+wooden Tower
+Stone-Tower
+Spy-Cave
+Corral
+Transportship
+Chariot
+Ox Cart
+Battleship
+Guards-of-the-Tribe
+Scout
+armed Scout
+young Warriors
+Saboteur
+Saboteurs
+Spy
+Warriors
+Assassin
+Archers
+Archers w.comp.Bows
+Archers w.poisn.Arrows
+Archers w.comp.Bows&posn.Arrw.
+exp.Assassin
+exp.Guards-of-the-Tribe
+gentry Guards-of-the-Tribe
+Skirmishers
+Axe-Men
+wooden Tower
+Spy-Cave
+Corral
+Cavalry
+Haeuptling
+armed Servants
+Transportship
+Battleship
+Cavalry Trnsprt
+armed Cav. Trnsprt
+Ox Cart
+Longboat
+Foederati
+Limitanei
+lght.Auxiliares
+med. Auxiliares
+Ferentarii
+Signifer
+Sappers
+Benefitiari
+Rammer
+Siege Tower
+Comitatenses Infantry
+Comitatenses Cavalry
+Scolae Palatinae
+General
+Scout
+armed Scout
+Cavalry Scout
+Triarii
+Stone-Tower
+Burgus
+Castell
+wooden Tower
+Spy-Cave
+Cavalry Trnsprt
+l. wagon
+armed Cav. Trnsprt
+Wagon
+hvy. Wagon
+Mountain Trnsprt
+Ox Cart
+Archers
+Veteran Archers
+Veteran Archers w.poisn.Arrows
+Cart Ballista
+Scorpion
+hvy. Ballista
+hvy. Catapult
+med. Catapult
+Saboteur
+Saboteurs
+Assassin
+Spy
+exp.Assassin
+exp.Assassin w.poisn.Blade
+light Liburna
+Tricontera
+Pentecontera
+Trirema
+Liburna
+Heptera
+Transportship
+Veteran Guards
+Veteran Pirates
+early Spearmen
+Spearmen
+early Clubfighters
+early Axefighters
+early Sappers
+Sappers
+Clubfighters
+Axefighters
+Ox Cart
+Transportship

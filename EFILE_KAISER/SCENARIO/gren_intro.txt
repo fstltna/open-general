@@ -1,0 +1,12 @@
+1879-18 THE GRENADIER GUARD 
+
+Version: 2.0
+Equipment File: Kaiser General
+Number of Scenarios: 22
+Player Country: British Empire
+Campaign Designer: Urica
+Playtesters: Blitzstoper, Wonderdoc, pzmaniac
+
+In this campaign you will play the role of Bruce W. Dickinson, a fictional British officer, since the time he joined the Army in 1879 until he retired as a Lieutenant General in 1918, after the end of the Great War.
+Spending most of his military career in the Grenadier Guards, Dickinson will fight in the most important British colonial wars in Africa, as well as in the Great War.
+You will have to face indigenous armies, Boer guerrillas and the frightening divisions of the Kaiser. But with faith, skill and courage you will make all of them kneel before the British Empire!

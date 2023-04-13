@@ -1,0 +1,29 @@
+'---
+'List of prototypes
+'Only equipment code (left number) is meaningful
+'Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+ 446  '  M4A3E2  [ TK  USA]  Cost: 588
+ 455  '  P-38L Lightning  [FTR  USA]  Cost: 960
+ 459  '  P-47N Thunderbolt  [FTR  USA]  Cost: 1104
+ 470  '  A-26B Invader  [ TB  USA]  Cost: 1116
+ 662  '  90mm M2  [ AT  USA]  Cost: 312
+ 668  '  M43 203mm  [ATY  USA]  Cost: 1692
+ 677  '  M4A3E2-76W  [ TK  USA]  Cost: 960
+1774  '  F4U-4 Corsair  [FTR  USA]  Cost: 996
+2360  '  P-61B-15 Black Widow  [FTR  USA]  Cost: 1260
+2407  '  M39 81mm Mortar Carrier  [ATY  USA]  Cost: 276
+4516  '  Combat Engineers 44  [INF  USA]  Cost: 324
+4593  '  B-29 Superfortress  [ LB  USA]  Cost: 1224
+5164  '  Airborne Engineers 44  [INF  USA]  Cost: 372
+5242  '  120mm M1  [ AD  USA]  Cost: 804
+5409  '  M4A3R3 Zippo  [ TK  USA]  Cost: 588
+5555  '  SC-1 Seahawk  [ TB  USA]  Cost: 492
+6387  '  M26 Pershing  [ TK  USA]  Cost: 1524
+6388  '  T26E4 Super Pershing  [ TK  USA]  Cost: 1692
+6998  '  Bridging 44  [INF  USA]  Cost: 180
+7342  '  Grenadiers 44  [INF  USA]  Cost: 228
+8175  '  Armored Infantry 45  [INF  USA]  Cost: 900
+8287  '  P-38M Lightning  [FTR  USA]  Cost: 1080
+9974  '  Mountain Combat Engineers 44  [INF  USA]  Cost: 384

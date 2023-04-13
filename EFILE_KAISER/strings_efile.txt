@@ -1,0 +1,167 @@
+** This file is only intended for those designers wanting to
+** customize some texts.
+**
+* Each section must be identified by a header section
+* enclosed by square brackets, i.e: [sides]
+* watch out header section spelling!
+* You can omit one or more sections if you don't need different
+* (insert an asterisk at start of line including section header)
+* but any section you include, must include all items
+* ------------------------------------------------------------------
+*
+* Warning:
+* If you include a [sides] section here, it will overwrite sides denominations 
+* defined in Nations.txt for this Efile
+*
+[sides]
+Central Powers
+Entente
+
+* ------------------------------------------------------------------
+* All sections are commented out for this template
+* uncomment only those sections you need to redefine
+*
+
+[results] 
+Brilliant Victory
+Victory
+Tactical Victory
+Loss
+
+[targets]
+Soft target
+Hard target
+Air target
+Naval target
+
+[spaces]
+Ground
+Air
+
+[movement]
+Tracked
+Gallop
+Wheeled
+Leg
+Towed
+Air
+Deep Naval
+Coastal
+All Terrain
+Amphibious
+Naval
+Mountain (Leg)
+Train
+Helicopter
+*------------------------------------------ 
+*  to customize CUSTOM movement method...
+*  add [movement2] section
+*------------------------------------------
+*[movement2]
+*Custom movement
+
+
+[transports]
+Cannot be transported
+Naval
+Airmobile
+Airborne
+Train
+Helicopter
+
+
+[classes]
+None
+Infantry
+Heavy Cavalry/Tanks
+Light Cavalry/Recon
+Support Weapons
+Machine Guns
+Fortification
+Ground Transport
+Rail Transport
+Artillery
+Air Defense
+Fighter
+Bomber/Scout
+Heavy Bomber/Zeppelin
+Air Transport
+Helo Transport
+Submarine
+Destroyer
+Battleship
+Carrier
+Naval Transport
+Cruiser
+Ship of the Line
+Auxiliary Ship
+
+[requisition]
+Switch Ground+Air / Naval units menu
+Select Air Defense
+Select Machine Guns
+Select Fortification
+Select Support Weapons 
+Select Artillery
+Select Infantry
+Select Light Cavalry/Recon
+Select Heavy Cavalry/Tanks
+Select Fighter
+Select Bomber/Scout
+Select Heavy Bomber/Zeppelin
+Select Submarine
+Select Destroyer
+Select Battleship
+Select Carrier
+Select Cruiser
+Select Ship of the Line
+Select Auxiliary Ship
+Name Unit
+Reassign Unit
+Exit
+
+[terrain]
+CLEAR
+TOWN
+AIRFIELD
+FOREST
+BOCAGE
+HILL
+MOUNTAIN
+SAND
+SWAMP
+OCEAN
+RIVER
+FORTIFICATION
+PORT
+STREAM
+ESCARPMENT
+IMPASSABLE
+ROUGH
+CUSTOM
+ROADS
+RAILS
+
+[unitdata]
+Leader
+Transport
+Country
+Experience
+Experience level
+Fuel
+Ammo
+Strength
+Range
+Initiative
+Spot
+Mov. Method
+Hard Attack
+Soft Attack
+Air Attack
+Naval Attack
+Ground defense
+Air defense
+Close defense
+Range defense
+Class
+Cost

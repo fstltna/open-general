@@ -1,0 +1,149 @@
+* Read carefully before editing!
+* Each line can be any length, but only first 96 chars will be read
+* Emply lines and those starting with * will be skipped.
+* Can replace any text but do no change the sequence of lines
+*-------------------------------------------------------------------
+* This file is optional, use only if you want to override
+* any of the data defined here
+* Put the adapted file into related efile folder.
+*-------------------------------------------------------------------
+* Weather table
+* Define weather probabilities of changing for each zone
+*
+* Entries starting with token # are needed don't remove any
+* for each zone must define
+* 12 entries (1 for each month) each entry defining 4 parameters:
+* A, B, C, D
+* meaning...
+*    A= Average clear period (AvgClearPeriod), in turns
+*    B= Average overcast period (AvgOvercastPeriod), in turns
+*    C= Probability of snow (ProbOfSnow), in percent
+*    D=Probability of precipitation (either rain or snow), in percent
+* Sample:
+* #1  S-Europe (USA) month March is:
+* 10, 5, 1, 40 
+* meaning:
+*    when clear, it will last for 10 turns (average)
+*    When overcast, it will last for 5 turns (average)
+*    during overcast weather probability of precipitation is 40%
+*    and if precipitation is raised, probability of snow is 1% and so 99% for rain:
+*       probability of snow   = 0,01 x 0,40 = 0,004
+*       probability of rain   = 0,99 x 0,40 = 0,396
+*       probability of cloudy = 0,60
+* At the end of clear weather, overcast weather starts and after that weather become clear again
+*
+* You cannot add new zones, game executable must be recompiled to include
+*-------------------------------------------------------------------
+
+#0  Africa
+30, 2, 0, 0		
+20, 2, 0, 0 
+30, 2, 0, 0 
+40, 2, 0, 0 
+50, 2, 0, 0 
+60, 2, 0, 0 
+70, 2, 0, 0 
+80, 2, 0, 0 
+90, 2, 0, 0 
+10, 2, 0, 0 
+10, 2, 0, 0 
+10, 2, 0, 0 
+
+#1  S-Europe (USA)
+5,  5, 1, 60 
+5,  5, 1, 50 
+10, 5, 1, 40 
+10, 5, 0, 30 
+12, 5, 0, 20 
+12, 4, 0, 20 
+12, 4, 0, 20 
+12, 4, 0, 20 
+12, 5, 1, 20 
+10, 5, 1, 35 
+8,  5, 1, 50 
+5,  5, 1, 60 
+
+#2  N-Europe
+5,  5,  75, 20 
+5,  5,  60, 30 
+5,  5,  15, 50 
+5,  5,   5, 60 
+10, 5,   0, 50 
+12, 3,   0, 20 
+12, 3,   0, 20 
+12, 3,   0, 20 
+10, 5,   0, 20 
+5,  5,  10, 20 
+5,  5,  25, 20 
+5, 14, 100, 75 
+
+#3  E-Europe 
+5,  5, 100, 60 
+3,  6,  90, 60 
+5,  5,  80, 50 
+5,  5,  50, 40 
+10, 5,   0, 20 
+12, 4,   0, 20 
+12, 4,   0, 20 
+12, 4,   0, 20 
+10, 5,   0, 20 
+5,  5,  80, 40 
+5,  5,  95, 50 
+5,  5, 100, 60 
+
+#4 S-Asia
+12, 5,  0, 30
+11, 5,  0, 40
+10, 5,  0, 50
+5, 10,  0, 80
+5, 10,  0, 90
+4, 14,  0, 100
+4, 14,  0, 100
+5, 12,  0, 90
+5, 10,  0, 80
+10, 5,  0, 20
+11, 5,  0, 20
+12, 5,  0,12 
+
+#5 Pacific
+10, 7,  0, 70
+10, 7,  0, 80
+10, 7,  0, 90
+8,  8,  0, 95
+5, 10,  0, 95
+4, 14,  0, 100
+4, 14,  0, 100
+5, 12,  0, 90
+5, 10,  0, 80
+10, 5,  0, 40
+11, 5,  0, 40
+12, 5,  0, 40
+
+#6  C-Europe ( Continental )
+5,  6,  65, 55
+6,  5,  55, 50
+6,  4,  35, 50
+6,  5,  10, 45
+7,  4,   0, 45
+8,  4,   0, 40
+9,  3,   0, 40
+9,  3,   0, 45
+9,  4,   0, 45
+8,  5,   1, 45
+7,  6,  15, 50
+6,  6,  55, 60
+
+#7  W-Europe ( Atlantic )
+4,  4,  35, 60
+4,  4,  30, 55
+4,  5,  15, 55
+5,  5,   5, 50
+5,  6,   0, 50
+6,  5,   0, 45
+6,  5,   0, 45
+5,  5,   0, 50
+5,  6,   0, 50
+5,  6,   0, 50
+5,  5,  10, 55
+4,  4,  25, 65
+

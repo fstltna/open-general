@@ -1,0 +1,13 @@
+Engagement of Tornow
+September 26, 1758
+
+Part of the Swedish force conducting operations in Pomerania was foraging in some villages south of Fehrbellin when it was attacked by Prussian cavalry. The hussars charged the Swedish cavalry while the dragoons attacked the Västmanlands Infantry who had formed a square. The Swedish cavalry routed but the infantry resisted six consecutive cavalry charges before retreating in good order. 
+
+Deploy Hexes: 19
+
+ORDER: Take all VHs and keep your MSU alive.
+
+NOTE: losing any of the friendly flag hexes effects imediate loss of the scenario
+
+scenario designers: Michael Nowak
+converted and optimized to OpenGen: Csaba (lvjtn)

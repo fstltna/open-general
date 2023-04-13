@@ -1,0 +1,13 @@
+OPEN PANZER GENERAL Tips
+Only Level Bombers can cause long term suppression.
+Anti Aircraft can move and then fire at air units, if they move into a hex directly below the plane. They don't provide air defense.
+Fire support only takes place if the supporting artillery is adjacent to the defender.
+Units mounted in transport will not dismount automatically at the beginning of a new turn.
+A City, Airfield, or Port that is destroyed cannot be used to deploy or upgrade units until Repaired. Only Level Bombers and Battleships can destroy a hex. 
+Only Construction or Sapper units can repair a hex.
+A Road that is destroyed slows movement across it.
+Paratroopers have a chance of mis-dropping.
+Ground condition can cycle through DRY, FROZEN, and MUD, depending on the season, climate, and persistent and prolonged weather patterns, and will affect movement rates accordingly.
+Planes use Fuel and must be resupplied at appropriate times.
+Units mounted in transport will not dismount if attacked.
+Visit http://forum.open-general.com/ to learn more about Open Panzer General and other Mods available for Open General.

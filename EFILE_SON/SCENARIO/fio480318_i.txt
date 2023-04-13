@@ -1,0 +1,10 @@
+Mailand
+March 18, 1848
+
+Herr General! The city of Mailand has rebelled. Our garrison is well-equipped; however, the whole city fights all over the streets, raising barricades, firing from windows and roofs, and urging the rural population to join them. Your position is very dangerous, the Court is afraid that your troops will be surrounded by the Piedmontese army and peasants from the countryside. You are ordered to retreat to Verona.
+
+ORDER: Hold the VH in Milan, and move 3 units into the Escape Hex!
+
+NOTE: The Zitadelle resupplies all adjacent friendly units.
+
+scenario designer: Csaba (lvjtn)

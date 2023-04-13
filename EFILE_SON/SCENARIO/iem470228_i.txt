@@ -1,0 +1,10 @@
+Batalla de Sacramento
+February 28, 1847
+
+The Yanquis are advancing on Chihuahua City, Rio Sacramento is the last natural obstacle to stop them. Do not fail your country, General!
+
+Deploy Hexes: 16
+
+ORDER: Hold at least one VH and keep your MSU alive.
+
+scenario designer: Csaba (lvjtn)

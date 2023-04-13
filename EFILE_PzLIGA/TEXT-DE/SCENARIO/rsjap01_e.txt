@@ -1,0 +1,158 @@
+1945 Iwo Jima [PL 3.2]
+Flugfeld Nr. 1
+Flugfeld Nr. 2
+Flugfeld Nr. 3 (Im Bau)
+Higashi
+Nishi
+Minami
+Motoyama
+Kita
+Mount Suribachi
+Huegel 362
+Punkt Kitano
+Turkey Knob
+9 R/3 USMC/[V]
+21 R/3 USMC/[V]
+12 R/3 USMC/[V]
+3 Tk.Bn./3 USMC/[V]
+3 Pio.Bn./3 USMC/[V]
+23 R/4 USMC/[V]
+24 R/4 USMC/[V]
+25 R/4 USMC/[V]
+14 R/4 USMC/[V]
+4 Tk.Bn./4 USMC/[V]
+4 Pio.Bn./4 USMC/[V]
+Huegel 362 A
+145 R
+2 MB/109 ID
+2 R/109 ID
+2 R/109 ID
+2 R/109 ID
+109 ID
+145 R
+145 R
+145 R
+NLF
+26 Tk.R./109 ID
+2 MR/109 ID
+2 MR/109 ID
+2 MR/109 ID
+2 MB/109 ID
+2 MB/109 ID
+2 MB/109 ID
+17 MR/109 ID
+2 MB/109
+2 MB/109
+109 ID
+109 ID
+109 ID
+17. Luftflotte
+26 R/5 USMC/[V]
+27 R/5 USMC/[V]
+28 R/5 USMC/[V]
+13 R/5 USMC/[V]
+5 Tk.Bn./5 USMC/[V]
+5 Pio.Bn./5 USMC/[V]
+USS Bismarck Sea
+USS Cape Gloucester
+USS Yorktown
+USS Essex
+USS Saratoga
+USS Boise
+USS Northampton
+USS Iowa
+USS Idaho
+USS Atlanta
+USS Reno
+USS Salt Lake City
+USS South Dakota
+USS Brooklyn
+USS Cleveland
+USS Honolulu
+[Yorktown]
+[Bismarck Sea]
+[Saratoga]
+[Cape Gloucester]
+184/2 Luftangriff
+180/2 Luftangriff
+179/2 Luftangriff
+183/2 Luftangriff
+182/2 Luftangriff
+181/2 Luftangriff
+Brueckenkopf
+Punkt Kitano
+[Essex]
+1 MB/109 ID
+Mount Suribachi [BOESCHUNG]
+Mount Suribachi [RAUH]
+Mount Suribachi [SAND]
+VULKANISCHER BODEN
+Steinbruch
+Punkt Tachiwa
+Fels Kangoku
+Fels Kama
+Fels Hanare
+362A
+362B
+362C
+382
+Amphitheater
+309 Btn./2 MB
+2 MB
+2.Mittl. Moerser Btn./-/109 Div.
+1 MG Btn./-/109 Div.
+1 Btn./145 R/109 Div.
+NLF
+NLF
+NLF
+NLF
+312 Btn./2 MB/109 Div.
+3.Mittl. Moerser Btn./-/109 Div.
+NLF
+NLF
+NLF
+NLF
+NLF
+NLF
+NLF
+NLF
+NLF
+20.Moerser Btn./-/109 Div.
+125 AA/NLF
+1 Btn./26 Panzer Rgt./109 Div.
+311 Btn./2 MB/109 Div.
+109 Div.
+109 Div.
+145 R/109 Div.
+310 Btn./2 MB/109 Div.
+3 Btn./17 MR/109 Div.
+3 Btn./26 Panzer Rgt./109 Div.
+2 R./-/109 Div.
+314 Btn./2 MB./109 Div.
+132 AA/NLF
+149 AA/NLF
+141 AA/NLF
+2  MG Btn-/-/109 Div.
+Raketen-Grp./-/109 Div.
+1 MB/-/109 Div.
+8 AT Btn./-/109 Div.
+9 AT Btn./-/109 Div.
+10 AT Btn./-/109 Div.
+11 AT Btn./-/109 Div.
+12 AT Btn./-/109 Div.
+HQ NLF
+109 Div.
+109 Div.
+109 Div.
+[V Korps]
+[V Korps]
+[V Korps]
+[V Korps]
+Gruen
+Rot 1
+Rot 2
+Gelb 1
+Gelb 2
+Blau 1
+[Schlacht beenden]
+[Schlacht beenden, NUR in TS-Runden benutzen!]

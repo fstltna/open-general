@@ -1,0 +1,9 @@
+Battle of Resaca de La Palma
+May 8, 1846
+
+After the American victory at Palo Alto the preceding day, the Mexican Army withdrew to the Resaca de la Palma, an old riverbed of the Rio Grande. The Americans pursued, starting at dawn. The resaca was a strong defensive position, its 4-foot high banks making a natural trench. Chaparral blocked fields of fire, canceling out the firepower of the American artillery. Mexican General de la Vega said afterward: “I would have bet... that no 10,000 men on earth could drive us from our position.” Well, we’ll see...
+
+ORDER: Take all VHs and keep your MSU alive.
+
+PeG scenario designer: Michael Nowak (Micha)
+converted and optimized to OpenGen: Csaba (lvjtn)

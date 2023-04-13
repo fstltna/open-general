@@ -1,0 +1,104 @@
+1942 Auckland - NZ Invasion [PL 3.2]
+Auckland
+Waimauku
+Helensville
+Waiuku
+Pukekohe
+Manukau
+Insel Motutapu [BERG]
+Insel Motutapu
+Insel Waiheke [WALD]
+Onetangi
+Oneroa
+Orere
+Kawakawa
+Paparata
+Wattle-Bucht
+Whatipu
+Seagrove
+Omaha [HAFEN]
+Pinehill
+Auckland MR/1 MR Bde./[NMD]
+Waikato MR/1 MR Bde./[NMD]
+N.Auckland MR/1 MR Bde./[NMD]
+1 MA Div./[NMD]
+1 MA Div./[NMD]
+1 MA Div./[NMD]
+1 MA Div./[NMD]
+1 MA Div./[NMD]
+1 MA Div./[NMD]
+1 MA Div./[NMD]
+29 Btn./8 Bde./[2NZEF]
+30 Btn./8 Bde./[2NZEF]
+34 Btn./8 Bde./[2NZEF]
+1 FDF/8 Bde./[2NZEF]
+2 FDF/8 Bde./[2NZEF]
+3 FDF/8 Bde./[2NZEF]
+35 FNZA/8 Bde./[2NZEF]
+2 MA Div./[NMD]
+2 MA Div./[NMD]
+2 MA Div./[NMD]
+3 MA Div./[NMD]
+3 MA Div./[NMD]
+4 MA Div./[NMD]
+4 MA Div./[NMD]
+1 Art. Bde./-/[NMD]
+1 RNZAF
+2 RNZAF
+3 RNZAF
+5 RAAF
+2 Bde./4 Div./[SC]
+6 Bde./4 Div./[SC]
+4 Div./[SC]
+[USMC Kampfgruppe]
+[USMC Kampfgruppe]
+[USMC Kampfgruppe]
+[NMD]
+[NMD]
+[NMD]
+Freiwilligenverband
+Freiwilligenverband
+Freiwilligenverband
+Freiwilligenverband
+HMNZ Achilles
+HMNZ Leander
+[Auckland]
+[Auckland]
+HMAS Hobart
+HMAS Perth
+HMAS Adelaide
+2 Yokosuka
+3 Yokosuka
+IJN Kongo
+IJN Tenryu
+IJN Yubari
+IJN Aoba
+IJN Kako
+IJN Yudachi
+IJN Haruna
+IJN Taiyo
+IJN Unyo
+[IJN Taiyo]
+[IJN Unyo]
+Kaiserliche WachDiv./[16A]
+Kaiserliche WachDiv./[16A]
+Kaiserliche WachDiv./[16A]
+Kaiserliche WachDiv./[16A]
+8 Tk.Rgt./[16A]
+[16.Armee-Abteilung]
+8 R/4 Div./[16A]
+37 R/4 Div./[16A]
+4 AR/4 Div./[16A]
+61 R/4 Div./[16A]
+4 ER/4 Div./[16A]
+4 R/2 Div./[16A]
+16 R/2 Div./[16A]
+29 R/2 Div./[16A]
+2 AR/2 Div./[16A]
+19 ER/2 Div./[16A]
+20 AR/2 Div./[16A]
+2 AA/2 Div./[16A]
+4 AR/-/[16A]
+[HQ der 16.Armee]
+SNLF
+[NMD-HQ]

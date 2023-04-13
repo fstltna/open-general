@@ -1,0 +1,175 @@
+1945 Okinawa [PL 3.2]
+Naha
+Shuri
+Yonabaru
+Iwa
+Itoman
+[HQ der 32.Armee]
+NFL/[Okinawa]
+22 R/24 Div./[32A]
+32 R/24 Div./[32A]
+89 R/24 Div./[32A]
+24 Aufkl../24 Div./[32A]
+24 Pio.R/24 Div./[32A]
+42 R/24 Div./[32A]
+15 MR/44 MB/[32A]
+2 Inf./44 MB/[32A]
+11 Btn/63 Bde/62 Div./[32A]
+12 Btn/63 Bde/62 Div./[32A]
+13 Btn/63 Bde/62 Div./[32A]
+14 Btn/63 Bde/62 Div./[32A]
+273 Btn/63 Bde/62 Div./[32A]
+18 Btn/64 Bde/62 Div./[32A]
+21 Btn/64 Bde/62 Div./[32A]
+22 Btn/64 Bde/62 Div./[32A]
+23 Btn/64 Bde/62 Div./[32A]
+272 Btn/64 Bde/62 Div./[32A]
+64 Bde/62 Div./[32A]
+1.Moerser R/5 AC/[32A]
+2.Moerser R/5 AC/[32A]
+100.Btl./5 AC/[32A]
+1 AR/5 AC/[32A]
+23 AR/5 AC/[32A]
+951 Luftflotte
+27/21/[32A]
+70/21/[32A]
+80/21/[32A]
+81/21/[32A]
+103 MG/-/[32A]
+104 MG/-/[32A]
+105 MG/-/[32A]
+3 MG/-/[32A]
+4 MG/[32A]
+14 MG/-/[32A]
+17 MG/-/[32A]
+27 Tk.R/-/[32A]
+1 Boeitai/[Okinawa]
+1 Boeitai/[Okinawa]
+1 Boeitai/[Okinawa]
+1 Boeitai/[Okinawa]
+502/1 Boeitai/[Okinawa]
+503/1 Boeitai/[Okinawa]
+504/1 Boeitai/[Okinawa]
+3/[32A]
+4/-/[32A]
+14/-/[32A]
+17/-/[32A]
+66lBtl./-/[32A]
+Shashi
+Stadt Okinawa 
+Kadena
+Nago
+Motobu
+Oganaku
+Otoa
+Io
+Flugplatz Naha
+Onna
+Kin
+Flugplatz Kadena
+Flugplatz Yontan
+[Shuri-Linie]
+[Shuri Abwehr]
+[Shuri Abwehr]
+[Shuri Abwehr]
+1 R/1 USMC/[III]
+5 R/1 USMC/[III]
+7 R/1 USMC/[III]
+HQ/1 USMC/[III]
+1 Btn./1 USMC/[III]
+11 AR/1 USMC/[III]
+1 Tk.Btn./1 USMC/[III]
+4 R/6 USMC/[III]
+22 R/6 USMC/[III]
+29 R/6 USMC/[III]
+6 Btn./6 USMC/[III]
+15 AR/6 USMC/[III]
+6 Tk.Btn./6 USMC/[III]
+HQ/6 USMC/[III]
+17 R/7 ID/[XXIV]
+Sad R/7 ID/[XXIV]
+184 R/7 ID/[XXIV]
+7 Kav./7 ID/[XXIV]
+7 Tk.Btn./7 ID/[XXIV]
+13 Pio.Btn./7 ID/[XXIV]
+/7 ID/[XXIV]
+HQ/7 ID/[XXIV]
+381 R/96 ID/[XXIV]
+382 R/96 ID/[XXIV]
+383 R/96 ID/[XXIV]
+96 Kav./96 ID/[XXIV]
+HQ/96 ID/[XXIV]
+/96 ID/[XXIV]
+305 R/77 ID/[XXIV]
+306 R/77 ID/[XXIV]
+307 R/77 ID/[XXIV]
+77 Cav./77 ID/[XXIV]
+HQ/77 ID/[XXIV]
+/77 ID/[XXIV]
+301. Jagdgeschwader
+301. Jagdgeschwader
+VII Bombergeschwader
+VII Bombergeschwader
+VII Bombergeschwader
+VII Bombergeschwader
+NLF
+[Kadena]
+[Shuri Abwehr]
+NLF
+NLF
+NLF
+[Shuri-Linie]
+[Shuri-Linie]
+[Shuri-Linie]
+[Shuri-Linie]
+[USMC]
+NLF
+NLF
+NLF
+Strand
+Ginoza
+Nakadomari
+Yamada
+Ishikawa
+Yomitan
+Gushikawa
+Hamahika-jima
+Okinawa
+Chatan
+Kitanagusuku
+Katsuren
+Ukibaru-jima
+Yonagusuku
+Ginowan
+Tsuken-jima
+Machinato
+Nakagusuku
+Naha Marinebasis [HAFEN]
+Nishihara
+Kakibana
+Sashiki
+Kudaka-jima
+Oroku
+Chinen
+Gushikami
+Kiyan
+Mabuni
+Komesu
+1 Bestehendes Rgt.
+1 Bestehendes Rgt.
+1 Bestehendes Rgt.
+Brueckenkopf
+IJN Yamato
+Yamato-Gruppe
+Yamato-Gruppe
+Yamato-Gruppe
+Yamato-Gruppe
+Yamato-Gruppe
+Yamato-Gruppe
+Yamato-Gruppe
+Yamato-Gruppe
+Yamato-Gruppe
+Tokko
+Tokko
+Tokko
+Tokko

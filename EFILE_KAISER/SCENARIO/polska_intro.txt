@@ -1,0 +1,30 @@
+1914-20 POLISH GREAT WAR 
+
+Version: 1.0
+Equipment File: Kaiser General
+Number of Scenarios: 19
+Player Country: Poland
+Campaign Designer: Blitzstoper, Urica
+Playtesters: Bob C, Guille, Devil's Brigade, 1-Terminator, Tinyrodent
+
+The campaign is set during the First World War and after it, during the Polish-Soviet War.
+
+The XIX century wasn't a lucky one for Poles. Most of Poland was divided between the Austrian, German and Russian Empires. And, worst of all,  in 1831 Russia attacked the Kingdom of Poland and conquered the country. Only in the Austro-Hungarian Empire Polish citizens have rights. They could develop their own organizations under the rule of the house of Habsburg. Not only could these organizations be scientifical and political, but they could also be paramilitary. In 1908 a refugee from the "Russian" part of Poland, Józef Pi³sudski,  took control over these paramilitary organizations and prepared  these people to fight against the Russian Empire in the coming war.
+
+The war started in 1914.
+This is the story about him, and about his men who served in Legiony Polskie - Polish Legions in the KuK Army. The deeds accomplished by Józef Pi³sudski and his men created independent Poland.
+In November 1918 many things have changed but the old Polish enemy - Russia - hasn't changed. And Poles had to defend their independence. And - as it occured later - for independence and freedom of all the Europeans, because if Russians had won the war against Poland, they would have turned the greater part of Europe into oppressive, communist union.
+
+
+Playing @ 100% secures enough prestige for all the needed upgrades, all the airfield purchases during the battels and even the refitting during the battles, 
+
+Playing @ 50% secures enough prestige for all the needed upgrades and  all the airfield purchases during the battels. The refitting during the battles will be too expensive.
+
+Playing @ 25%  (and lower) is harder, but possible for experienced players. 
+
+Playing @ 101-299 % is not recommended. It can cause frustration. More in-scenario prestige won't change much (the prestige cap will do its duty).
+
+Playing @ 300% (and higher) is recommended for freestylers. The prestige cap won't stop the flood of prestige, so all is possible - even the fleet of level bombers.
+
+
+Scenarios set during WWI should be played with the restricted core, which is suggested in the briefings. That's why players can't get protos during those battles (except the very first scanrio). Players will have chances to get prototypes since the spring of 1919. In this year experience of newly purchased units slowly rises, to reach 100 in spring of 1920. Good opportunities (weather and prestige) to develop the air forces will be in the spring of 1920. 

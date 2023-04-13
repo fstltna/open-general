@@ -1,0 +1,83 @@
+'---
+'Config AI file for scenario: CAS7SC23.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=75 items  ' Replacement for default list
+ 322  '  40mm Truck  [ AD  United Kingdom]  Cost: 480
+ 339  '  40 Commando  [INF  United Kingdom]  Cost: 600
+ 345  '  40 Paratrooper  [INF  United Kingdom]  Cost: 348
+ 351  '  Daimler II  [RCN  United Kingdom]  Cost: 300
+ 352  '  Humber II  [RCN  United Kingdom]  Cost: 228
+ 354  '  Scout  [RCN  United Kingdom]  Cost: 216
+ 365  '  Churchill IICS  [ TK  United Kingdom]  Cost: 636
+ 369  '  Cruiser IV  [ TK  United Kingdom]  Cost: 300
+ 370  '  Crusader I  [ TK  United Kingdom]  Cost: 312
+ 371  '  Crusader II  [ TK  United Kingdom]  Cost: 336
+ 373  '  Grant I  [ TK  United Kingdom]  Cost: 480
+ 374  '  Stuart I  [ TK  United Kingdom]  Cost: 324
+ 377  '  Matilda II  [ TK  United Kingdom]  Cost: 528
+ 379  '  Valentine III  [ TK  United Kingdom]  Cost: 468
+ 389  '  Spitfire VC  [FTR  United Kingdom]  Cost: 732
+ 392  '  Beaufighter  [ TB  United Kingdom]  Cost: 732
+ 393  '  Hurricane IIC  [ TB  United Kingdom]  Cost: 648
+ 394  '  Hurricane IID  [ TB  United Kingdom]  Cost: 600
+ 637  '  Churchill I  [ TK  United Kingdom]  Cost: 600
+ 638  '  Churchill II  [ TK  United Kingdom]  Cost: 540
+ 652  '  Cruiser III  [ TK  United Kingdom]  Cost: 288
+ 660  '  Spitfire IIA  [FTR  United Kingdom]  Cost: 684
+ 993  '  Swordfish I  [ TB  United Kingdom]  Cost: 300
+1701  '  Marmon-Herrington II  [RCN  United Kingdom]  Cost: 204
+1702  '  Marmon-Herrington III  [RCN  United Kingdom]  Cost: 240
+1706  '  Valentine I  [ TK  United Kingdom]  Cost: 432
+1707  '  Matilda IIICS  [ TK  United Kingdom]  Cost: 528
+1708  '  Covenanter III  [ TK  United Kingdom]  Cost: 348
+1709  '  Crusader IICS  [ TK  United Kingdom]  Cost: 432
+1710  '  Covenanter IIICS  [ TK  United Kingdom]  Cost: 408
+1722  '  Beaufort  [ TB  United Kingdom]  Cost: 540
+1723  '  Mosquito II  [ TB  United Kingdom]  Cost: 936
+1724  '  Blenheim IV  [ TB  United Kingdom]  Cost: 612
+1726  '  Hudson  [ TB  United Kingdom]  Cost: 504
+1727  '  Mosquito IV  [ TB  United Kingdom]  Cost: 864
+1729  '  Whirlwind  [ TB  United Kingdom]  Cost: 768
+1730  '  Halifax  [ LB  United Kingdom]  Cost: 756
+1731  '  Lancaster  [ LB  United Kingdom]  Cost: 960
+1927  '  Kittyhawk IA  [FTR  United Kingdom]  Cost: 684
+1928  '  Tomahawk IIB  [FTR  United Kingdom]  Cost: 648
+1931  '  Carrier Recon  [RCN  United Kingdom]  Cost: 204
+2606  '  Baltimore V  [ TB  United Kingdom]  Cost: 504
+2608  '  Boston  [ TB  United Kingdom]  Cost: 840
+2609  '  .Whitley  [ TB  United Kingdom]  Cost: 648
+2902  '  Wellington  [ LB  United Kingdom]  Cost: 588
+3856  '  40 Camel  [INF  United Kingdom]  Cost: 108
+4001  '  Hampden TB.I  [ TB  United Kingdom]  Cost: 504
+4008  '  Boston III  [ TB  United Kingdom]  Cost: 624
+4013  '  Havoc NF.I  [ TB  United Kingdom]  Cost: 636
+4020  '  Mohawk IV  [FTR  United Kingdom]  Cost: 552
+4021  '  Fortress I  [ LB  United Kingdom]  Cost: 756
+4027  '  Spitfire VA  [FTR  United Kingdom]  Cost: 684
+4038  '  Mosquito II  [FTR  United Kingdom]  Cost: 900
+4049  '  Beaufighter IIF  [ TB  United Kingdom]  Cost: 864
+4050  '  Beaufighter VIF  [ TB  United Kingdom]  Cost: 888
+4052  '  Hurricane IIB  [ TB  United Kingdom]  Cost: 612
+4059  '  Spitfire VC  [ TB  United Kingdom]  Cost: 864
+4060  '  Spitfire VI  [FTR  United Kingdom]  Cost: 804
+4065  '  Stirling I  [ LB  United Kingdom]  Cost: 588
+4071  '  Typhoon IA  [ TB  United Kingdom]  Cost: 780
+4075  '  Swordfish I  [ TB  United Kingdom]  Cost: 324
+4094  '  Manchester IA  [ LB  United Kingdom]  Cost: 564
+4334  '  Maryland I  [ TB  United Kingdom]  Cost: 576
+4720  '  Wellington III  [ LB  United Kingdom]  Cost: 480
+4721  '  Wellington II  [ LB  United Kingdom]  Cost: 516
+4724  '  Liberator I  [ LB  United Kingdom]  Cost: 816
+5109  '  Hurricane IIC tropical  [ TB  United Kingdom]  Cost: 1080
+5112  '  Hurricane IA tropical  [FTR  United Kingdom]  Cost: 792
+5113  '  Hurricane IIA tropical  [FTR  United Kingdom]  Cost: 816
+5114  '  Hurricane IIB tropical  [FTR  United Kingdom]  Cost: 852
+5115  '  Spitfire VC tropical  [ TB  United Kingdom]  Cost: 1188
+5116  '  Spitfire VB tropical  [FTR  United Kingdom]  Cost: 1092
+5133  '  Blenheim IVF  [ TB  United Kingdom]  Cost: 732
+5138  '  Blenheim V  [ TB  United Kingdom]  Cost: 864
+5570  '  20mm Portee  [FlaK  United Kingdom]  Cost: 204

@@ -1,0 +1,16 @@
+Escaping from Zilah (Zalau)
+
+April 16, 1919
+
+Comrade Commisar, the situation is dangerous. After our new, revolutionary government refused to retreat behind the new demarcation lines, the imperialist hyenas insited their capitalist lapdogs, the Romanian and the so called "Czechoslovakian" reactionists. They mobilized their armies and attacked our weak, inexperienced troops. Your job is securing the railway station at Nagykároly as long as possible to cover our retreat.
+
+ORDER: Hold at least one VH, keep your MSU alive and move it onto the Escape Hex at Nagykároly.
+
+NOTES:
+- AI moves first.
+- The longer you hold on, the better result you get.
+- You have 3 free RTP slots.
+
+12 Turns
+
+Scenario designed by Csaba (lvjtn)

@@ -1,0 +1,142 @@
+* Read carefully before editing!
+* Each line can be any lenght, but only first 96 chars will be read
+* Emply lines and those starting with * will be skipped.
+*-------------------------------------------------------------------
+* Fronts & Factions
+* . Can define 254 workable countries at maximun
+* . Can define Fronts/Factions for all countries or just a few ones
+* 
+* To define Fronts for any country:
+* . Lines starting with a single number defines country for next fronts/factions
+* . can include country name after a space or tab, but it won't be read
+* . lines starting with # are read as a front name
+* . lines starting with @ are read as a faction name
+* . and belong to the last country read
+* If more than 254 countries are found, only first 254 will be used.
+* If more than 32 fronts/factions are found only first 32 will be used.
+*
+* You can define only Fronts, only Factions or both
+* You can define any number of Front/Faction up to 32
+*-------------------------------------------------------------------
+* This file should be adapted for any efile by replacing generic
+* CountryName#, #Front# and/or @Faction entries with actual denominations
+* Put the adapted file into related efile folder.
+* ------------------------------------------------------------------
+
+* Sample of full Fronts and Factions
+8	CountryName8 
+#Front1
+#Front2
+#Front3
+#Front4
+#Front5
+#Front6
+#Front7
+#Front8
+#Front9
+#Front11
+#Front11
+#Front12
+#Front13
+#Front14
+#Front15
+#Front16
+#Front17
+#Front18
+#Front19
+#Front20
+#Front21
+#Front22
+#Front23
+#Front24
+#Front25
+#Front26
+#Front27
+#Front28
+#Front29
+#Front30
+#Front31
+#Front32
+
+@Faction1
+@Faction2
+@Faction3
+@Faction4
+@Faction5
+@Faction6
+@Faction7
+@Faction8
+@Faction9
+@Faction11
+@Faction11
+@Faction12
+@Faction13
+@Faction14
+@Faction15
+@Faction16
+@Faction17
+@Faction18
+@Faction19
+@Faction20
+@Faction21
+@Faction22
+@Faction23
+@Faction24
+@Faction25
+@Faction26
+@Faction27
+@Faction28
+@Faction29
+@Faction30
+@Faction31
+@Faction32
+
+* But can define just a few
+12	CountryName12
+#Front1
+#Front2
+#Front3
+#Front4
+#Front5
+#Front6
+#Front7
+#Front8
+
+@Faction1
+@Faction2
+@Faction3
+@Faction4
+
+* or only some Fronts
+16	CountryName16
+#Front1
+#Front2
+#Front3
+#Front4
+#Front5
+#Front6
+
+* or only some Factions
+26	CountryName26
+@Faction1
+@Faction2
+@Faction3
+@Faction4
+
+* also can include help lines for any country 
+26	CountryName26
+> this wouldbe a help line for contry 26
+> another help line for contry 26
+@Faction1
+@Faction2
+@Faction3
+@Faction4
+
+29	CountryName29
+> this wouldbe a help line for contry 29
+> another help line for contry 29
+#Front1
+#Front2
+
+@Faction1
+@Faction2

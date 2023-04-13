@@ -1,0 +1,98 @@
+1942 Mandalay [PL 3.2]
+Fluss Irrawaddy
+Dschungel
+Mandalay
+Fluss Salween
+Meiktila
+Taunggyi
+Fluss Sittang [STROM]
+Yenangyaung
+Fluss Sittang
+Akyab
+Magwe
+Prome
+Toungoo
+214 R/33 ID/15 Armee
+215 R/33 ID/15 Armee
+33 R/33 ID/15 Armee
+11 B/33 ID/15 Armee
+2 TkR/33 ID/15 Armee
+33 R/33 ID/15 Armee
+112 R/55 ID/15 Armee
+143 R/55 ID/15 Armee
+55 R/55 ID/15 Armee
+55 R/55 ID/15 Armee
+55 R/55 ID/15 Armee
+213 R/33 ID/15 Armee
+2 Bn/33 R/33 ID/15 Armee
+55 R/18 ID/15 Armee
+56 R/18 ID/15 Armee
+114 R/18 ID/15 Armee
+1 R/18 ID/15 Armee
+12 Cav R/18 ID/15 Armee
+12 eR/18 ID/15 Armee
+18 aty R/18 ID/15 Armee
+113 R/56 ID/15 Armee
+146 R/56 ID/15 Armee
+148 R/56 ID/15 Armee
+14 Tk R/56 ID/15 Armee
+56 Rc R/56 ID/15 Armee
+56 aty R/56 ID/15 Armee
+56 e R/56 ID/15 Armee
+21 Bn/33 ID/15 Armee
+26 R/33 ID/15 Armee
+51 Bn/33 ID/15 Armee
+at Bn/33 ID/15 Armee
+HQ/15 Armee
+64 R/22 ID/V Armee
+65 R/22 ID/V Armee
+66 R/22 ID/V Armee
+286 R/96 ID/V Armee
+287 R/96 ID/V Armee
+288 R/96 ID/V Armee
+288 R/96 ID/V Armee
+599 R/200 ID/V Armee
+600 R/200 ID/V Armee
+598 R/200 ID/V Armee
+HQ/V Armee
+Aty/V Armee
+e B/V Armee
+Tk R/V Armee
+Cv R/V Armee
+82 R/28 ID/LVXI Armee
+83 R/28 ID/LVXI Armee
+84 R/28 ID/LVXI Armee
+112 R/38 ID/LVXI Armee
+113 R/38 ID/LVXI Armee
+114 R/38 ID/LVXI Armee
+85 R/29 ID/LVXI Armee
+86 R/29 ID/LVXI Armee
+87 R/29 ID/LVXI Armee
+HQ/LVXI Armee
+18 R/LVXI Armee
+2 Tk R/7 Br/I Burma Korps
+7 Bn/7 Br/I Burma Korps
+West Yorkshire R/7 Br/I Burma Korps
+95 At R/7 Br/I Burma Korps
+414 Bn/7 Br/I Burma Korps
+6 Bn/7 Br/I Burma Korps
+81 Bn/7 Br/I Burma Korps
+8 Bn/1 Burma Div/I Burma Korps
+27 R/1 Burma Div/I Burma Korps
+56 Bn/1 Burma Div/I Burma Korps
+FF1-4/1 Burma Div/I Burma Korps
+1 Br /1 Burma Div/I Burma Korps
+2 Br/1 Burma Div/I Burma Korps
+13 Br/1 Burma Div/I Burma Korps
+2 At R/17 Indische Div/I Burma Korps
+2 Bn/17 Indische Div/I Burma Korps
+12 Bn/17 Indische Div/I Burma Korps
+28 Bn/17 Indische Div/I Burma Korps
+60 Bn/17 Indische Div/I Burma Korps
+16 Br/17 Indische Div/I Burma Korps
+48 Br/17 Indische Div/I Burma Korps
+Pegu Force/17 Indische Div/I Burma Korps
+3 Bn/17 Indische Div/I Burma Korps
+BFF/I Burma Korps
+10. Luftwaffe
+7. Geschw. Br

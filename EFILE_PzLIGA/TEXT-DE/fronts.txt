@@ -1,0 +1,82 @@
+* Read carefully before editing!
+* Each line can be any lenght, but only first 96 chars will be read
+* Emply lines and those starting with * will be skipped.
+*-------------------------------------------------------------------
+* Fronts & Factions
+* . Can define for a maximun of 254 workable countries
+* . plus AllCountries (number 0) and NoCountry (number 255)
+* . Can define Fronts/Factions for just a few countries
+* .
+* . To define Fronts for any country:
+* . Lines starting with a single number defines country for next fronts/factions
+* . can include country name after a space or tab, but won't be read
+* . lines starting with # are read as a front name
+* . lines starting with @ are read as a faction name
+* . and belong to the last country read
+* If more than 254 countries are found, only first 254 will be used.
+* If more than 32 fronts/factions are found only first 32 will be used.
+* ------------------------------------------------------------------
+
+4  Japan
+* fronts:
+#Manchurei
+#Pazifik
+
+8  Deutschland
+* fronts:
+#Afrika
+#Westfront
+#Ostfront
+
+* factions:
+@Waffen SS
+@Wehrmacht
+@Luftwaffe
+@Kriegsmarine
+@Gebirgsjäger
+@Volkssturm
+@Legion Condor
+
+10 USA
+* fronts:
+#Pazifik
+#Europa
+#Afrika
+
+13 Italien
+* fronts:
+#Afrika
+#Europa
+
+20 USSR
+* fronts:
+#Europa
+#Asien
+
+* factions:
+@NKVD
+@Red Army
+@Air Force
+@Navy
+
+23 GB
+* fronts:
+#Afrika
+#Europa
+#Asien
+
+25 Span. Nationalisten
+
+* factions:
+@Division Azul
+@Falange Española
+
+26 Span. Republikaner
+
+* factions:
+@Republikanische Armee
+@Sozialistische Miliz
+@Communistische Miliz
+@bastische Armee
+@CNT/AIT
+@Brigada International

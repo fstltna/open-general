@@ -1,0 +1,164 @@
+Where's Wenck?
+I/PzAbt.Bbg/PzAbt.Kmk/KmK
+I/PzAbt.Bbg/PzAbt.Kmk/KmK
+I/PzAbt/KmK
+PzPiBat./KmK
+PzGrenRgt/KmK
+sSS-PzAbt.502
+PzAufkl.Abt./KmK
+AOK 9
+Kgr. 32. SS
+Kgr. 21. PzD
+Kgr.
+GrenRgt. Schill 1/Schill
+GrenRgt. Schill 2/Schill
+GrenRgt. Schill 3/Schill
+Art.Rgt. Schill/Schill
+FuesBat. Schill/Schill
+StuGBrig. 394
+GrenRgt. Hutten 1/Hutten
+GrenRgt. Hutten 2/Hutten
+GrenRgt. Hutten 3/Hutten
+FuesBat. Hutten/Hutten
+Pi-Bat. Hutten/Hutten
+PzJgAbt. Hutten/Hutten
+Art.Rgt. Hutten/Hutten
+FuesBat. SH/SH
+GrenRgt. SH 1/SH
+GrenRgt. SH 2/SH
+GrenRgt. SH 3/SH
+Pi-Bat. SH/SH
+PzJgAbt. SH/SH
+Art.Rgt. SH/SH
+FuesBat. K/Koerner
+GrenRgt. K 3/Koerner
+GrenRgt. K 2/Koerner
+GrenRgt. K 1/Koerner
+Pi-Bat. K/Koerner
+PzJgAbt. K/Koerner
+Art.Rgt. K/Koerner
+Kgr. Reimann/Psd
+Platz-Sich.
+Sich.
+AOK 12
+714 RflRgt/395 RflD
+726 RflRgt/395 RflD
+723 RflRgt/395 RflD
+29 AT-Bn/395 RflD
+968 AtyRgt/395 RflD
+68 Gds Tk Bde
+307 RflRgt/61 RflD
+55 AtyRgt/61 RflD
+66 RflRgt/61 RflD
+131 AT-Bn/61 RflD
+221 RflRgt/61 RflD
+1031 RflRgt/280 RflD
+1033 RflRgt/280 RflD
+1035 RflRgt/280 RflD
+368 AT-Bn/280 RflD
+840 AtyRgt/280 RflD
+240 RflRgt/117 RflD
+275 RflRgt/117 RflD
+820 RflRgt/117 RflD
+222 AT-Bn/117 RflD
+322 AtyRgt/117 RflD
+63 Gds Tk Bde
+68 Ind Gds Tk Bde
+7 Gds Motorcycle Rgt
+12 Gds Mech Bde/5 Gds Mech Corps
+16 Gds Mech Bde/6 Gds Mech Corps
+35 Gds Mech Bde/6 Gds Mech Corps
+28 Gds hvy Tk Rgt/6 Gds Mech Corps
+52 Gds Mrt Bn/6 Gds Mech Corps
+427 Gds AA Rgt/6 Gds Mech Corps
+10 Gds Mech Bde/5 Gds Mech Corps
+11 Gds Mech Bde/5 Gds Mech Corps
+24 Tk Bde/5 Gds Mech Corps
+379 Gds hvy SU-Rgt/5 Gds Mech Corps
+104 Gds SU-Rgt/5 Gds Mech Corps
+1447 SU-Rgt/5 Gds Mech Corps
+285 Mrt Rgt/5 Gds Mech Corps
+2 Gds Motorcycle Bn/5 Gds Mech Corps
+11 Gds Mrt Bn/5 Gds Mech Corps
+763 AA Rgt/5 Gds Mech Corps
+15 RflRgt/147 RflD
+600 RflRgt/147 RflD
+640 RflRgt/147 RflD
+379 AtyRgt/147 RflD
+231 AT-Bn/147 RflD
+388 RflRgt/172 RflD
+514 RflRgt/172 RflD
+747 RflRgt/172 RflD
+174 AT-Bn/172 RflD
+134 AtyRgt/172 RflD
+20 Mot RflBde/25 Tk Corps
+175 Tk Bde/25 Tk Corps
+111 Tk Bde/25 Tk Corps
+162 Tk Bde/25 Tk Corps
+296 Gds lt AtyBde/25 Tk Corps
+334 Gds hvy SP AtyRgt/25 Tk Corps
+286 Ftr AvD/16 Air Army
+282 Ftr AvD/16 Air Army
+11 Gds Ass AvD/16 Air Army
+198 Ass AvD/6 Ass AvCps
+197 Ass AvD/6 Ass AvCps
+241 Av BmbD/3 Av BmbCps
+301 Av BmbD/3 Av BmbCps
+71 Mech Bde
+8 Gds AT-Bde/28 Army
+71 lt Aty Bde
+61 Gds Tk Bde/10 Gds Tk Corps
+530 AT-Rgt/28 Army
+607 AA Rgt/28 Army
+157 Cn Bde/28 Army
+Neuer Graben
+Beelitz
+Seddin
+Gr. Seddiner See
+Buchholz
+Treuenbrietzen
+Nichel
+Dietersdorf
+Marzahna
+Maltershausen
+Nieplitz
+Koenigsgraben
+Nuthe
+Blankensee
+Groessinsee
+Groebener See
+Backofen Berge
+Zauchwitz
+Schoenhagen
+Loewendorf
+Mietgendorf
+Rieben
+Dobbrikow
+Hennickendorf
+Maertensmuehle
+Felgentreu
+Berkenbrueck
+Woltersdorf
+Luckenwalde
+Kloster Zinna
+Kolzenburg
+Jaenickendorf
+Stuelpe
+Golmberg
+Schoenefeld
+Kummersdorf Gut
+Hammerfliess
+Neuendorfer See
+Sperenberg
+Rehagen
+Luedersdorf
+Wiesenhagen
+Trebbin
+Groeben
+Thyrow
+Nunsdorf
+Gross Schulzendorf
+Glienick
+Alt Bork
+Wildenbruch
+Loewendorfer Berg

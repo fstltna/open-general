@@ -1,0 +1,10 @@
+'---
+'Config purchase file for scenario: gf03glor.xscn
+'* List of items to purchase all active players *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=2 items  ' Replacement for default list
+2829  '  Ar 196A-2  [ TB  Germany]  Cost: 372
+7344  '  He 60  [ TB  Germany]  Cost: 204

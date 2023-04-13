@@ -1,0 +1,5327 @@
+
+* Read carefully before editing!
+*-------------------------------------------------------------------------------------------
+* Lines can be of any length, only the first 96 chars will be read.
+* Blank lines and those starting with * are not read.
+*-------------------------------------------------------------------------------------------
+* To define Fronts for a country: 
+*   Line with number identifies country (see NATIONS.TXT file for list and order).
+*    (for clarity, the country's name can be added after a space or tab - this is not read). 
+*   On the lines that follow, those beginning with # specify Front names for country. 
+*   Lines beginning with @s are the Faction names for country. 
+*-------------------------------------------------------------------------------------------
+* For a brief guide to Front/Factions see README.TXT.
+*
+
+*-------------------------------------------------------------------
+1  Czechoslovakia
+*-------------------------------------------------------------------
+#NOM  (UK)
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#EQP Soviet Union ("I Army Corps")
+#-
+#EQP Partisans
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD (Fast / Armoured)
+@GRD Infantry
+@GRD (Motorized)
+@GRD [[Cavalry]]
+@GRD Mountain
+@GRD [[Airmobile]]
+@GRD (1e Division)
+@GRD Garrison/Security
+@GRD Corps
+@SPE Airborne (for I Army Corps)
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE (Partisans)
+@SPE (I Army Corps)
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+2  Poland
+*-------------------------------------------------------------------
+#NOM  (UK)
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#EQP Soviet Union ("LWP")
+#-
+#EQP Home Army
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD (Motorized)
+@GRD Cavalry
+@GRD Mountain
+@GRD [[Airmobile]]
+@GRD (Home Army)
+@GRD Garrison/Security
+@GRD Corps (incl/ tankettes, tanks)
+@SPE Airborne
+@SPE [[Special Forces]]
+@SPE (Auxillary) (=militia)
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE (LWP)
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD Rail
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+3  Denmark
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#EQP Waffen-SS
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD [[Armoured]]
+@GRD Infantry
+@GRD Mot./Mech. (for Infantry)
+@GRD Cavalry (for Infantry)
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD Corps (for Infantry)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE (Waffen-SS)
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+4  Norway
+*-------------------------------------------------------------------
+#NOM  (UK)
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#EQP Waffen-SS
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA Aviation
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD Infantry
+@GRD Mot./Mech. (for Infantry)
+@GRD Cavalry  (for Infantry)
+@GRD Mountain (=mule)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD Corps
+@SPE [[Airborne]]
+@SPE Special Forces (=commandos)
+@SPE (Auxillary) (=militia)
+@SPE [[Paramilitary]]
+@SPE Partisans/Irregulars/Guerrillas
+@SPE (Waffen-SS)
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+5  Netherlands
+*-------------------------------------------------------------------
+#NOM  (+UK)
+#CLIM Default  no KNIL or Waffen-SS
+#CLIM Snow     "     "     "      "       "
+#CLIM Desert
+#CLIM Jungle   KNIL (+UK & US)
+#-
+#-
+#-
+#EQP Waffen-SS
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA Aviation
+@SEA Ground
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (tanks, Corps level)
+@GRD Infantry
+@GRD Mot./Mech. (for Infantry)
+@GRD Cavalry (Corps level)
+@GRD Mountain (=mules)
+@GRD (KNIL)
+@GRD Light
+@GRD Garrison/Security
+@GRD Corps (incl/ specialist Infantry)
+@SPE [[Airborne]]
+@SPE Special Forces
+@SPE (Auxillary)
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE (Waffen-SS)
+@SAG Motorpool
+@SEA Coastal
+@SEA Carriers + Aviation
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+6  Belgium
+*-------------------------------------------------------------------
+#NOM  (Flak + UK)
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-EQP Waffen-SS
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (Corps level)
+@GRD Infantry
+@GRD Mot./Mech. (for Infantry)
+@GRD Cavalry
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD Light
+@GRD Garrison/Security
+@GRD Corps  (incl/ all flak)
+@SPE [[Airborne]]
+@SPE Special Forces
+@SPE (Auxillary) (=militia)
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE (Waffen-SS)
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+7   France
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#EQP LVF/Waffen-SS
+#-
+#EQP Lend-Lease ('First Army')
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA Aviation
+@SEA Ground
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured   (DCR)
+@GRD Infantry       (DI)
+@GRD (Motorized) (DIM)
+@GRD Cavalry       (DLC)
+@GRD Mountain
+@GRD (Mech. Cavalry) (DLM)
+@GRD (Fortress)    (DF)
+@GRD Garrison/Security
+@GRD Corps (w/ specialist Infantry)
+@SPE Airborne
+@SPE (BCC tanks, Corps level)
+@SPE Auxillary/Colonial 
+@SPE (non-Metropolitan)
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE (LVF/Waffen-SS)
+@SAG Motorpool
+@SEA Coastal
+@SEA Carriers + Aviation
+@GRD (Vichy)
+@GRD (First Army)
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+8   Germany
+*-------------------------------------------------------------------
+#NOM (Heer)
+#CLIM Default  horse
+#CLIM Snow    horse
+#CLIM Desert
+#CLIM Jungle
+#CLIM Default (Waffen-SS) horse
+#CLIM Snow (Waffen-SS)   horse
+#CLIM Desert (Waffen-SS)
+#CLIM Jungle (Waffen-SS)
+#EQP (Waffen-SS)
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP Captured equip. (excl. Czech)
+#-
+#-
+#EQP  Rocketry (A4/V2)
+#EQP  Rare
+#EQP  KM Prototypes (Graf Zeppelin)
+#EQP  Prototypes
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA Aviation
+@SEA Ground
+@AIR  ALL
+@AIR  Aviation
+@AIR  Ground (Luftwaffe Field Div)
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD (Motorized)
+@GRD Cavalry
+@GRD Mountain
+@(AIR) (Corps, non-AD)
+@GRD Light (Jäger)
+@GRD Garrison/Security
+@GRD Corps
+@(AIR) Airborne
+@SPE Special Forces
+@SPE (Auxillary)
+@SPE Paramilitary
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@(AIR) (Air Defense, Corps level)
+@SAG Motorpool
+@SEA Coastal
+@SEA Carriers + Aviation
+@GRD Rail
+@(SEA) (Corps level)
+@FRT uv(campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+9  Austria
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD (Fast)
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD Mountain
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps (w/ specialist Infantry)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+10  United States
+*-------------------------------------------------------------------
+#NOM (Army)
+#CLIM Default      DUKW, Cavalry
+#CLIM Snow        DUKW, Cavalry
+#CLIM Desert
+#CLIM Jungle       DUKW, Cavalry
+#CLIM Default (USMC) LVT, DUKW
+#CLIM Snow  (USMC) LVT, DUKW
+#CLIM Desert (USMC)
+#CLIM Jungle (USMC) LVT,DUKW,Samoans 
+#EQP (USMC)        w/Seabees
+#-
+#EQP Navy/Marine Aviation
+#EQP USAAF Aviation
+#EQP USAAF Level Bombers
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes (USMC)
+#EQP  Rare (USMC)
+#EQP  Rare
+#EQP  Prototypes
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA Aviation (Navy w/AAF PBY Patrol)
+@SEA Ground
+@AIR  ALL (USAAF / USMC)
+@AIR  (USAAF / Marine Aviation)
+@(GRD) (FlaK - Corps level)
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (for USMC u/w Inf.)
+@GRD Infantry
+@GRD Mot/Mech. (for USMC u/w Inf.)
+@GRD Cavalry
+@GRD Mountain (for USMC =mules)
+@GRD Airmobile (for Airborne)
+@GRD (National Guard)
+@GRD Garrison/Security(/Reserve)
+@GRD Corps (incl/ AD)
+@SPE Airborne
+@SPE Special Forces
+@SPE Aux/Col. (=native)
+@SPE Paramilitary (=Coast Guard)
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE (Motorpool, Amphibious)
+@SAG Motorpool
+@SEA Coastal
+@SEA Carriers + Aviation
+@(SEA) (Corps level)
+@
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+11  Sweden
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (Corps level)
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD Cavalry
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD Corps
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+12  Switzerland
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (for Infantry)
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD Mountain
+@GRD [[Airmobile]]
+@GRD Light
+@GRD [[Garrison/Security]]
+@GRD Corps (incl/ specialist Infantry)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE (Auxillary)
+@SPE Paramilitary
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE (Border)
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+13  Italy
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#EQP Allied Co-Belligerent
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Captured equipment
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA Aviation
+@SEA Ground
+@AIR  ALL
+@AIR  Aviation
+@AIR  Ground (Corps level)
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD (Motorized)
+@GRD (Fast)
+@GRD Mountain
+@GRD (Blackshirt)
+@GRD (Libyan)
+@GRD Garrison/Security
+@GRD Corps
+@SPE Airborne
+@SPE Special Forces
+@SPE Auxillary/Colonial
+@SPE Paramilitary
+@SPE Partisans/Irregulars/Guerrillas
+@SPE (Co-Belligerent)
+@SAG Motorpool
+@SEA Coastal
+@SEA Carriers + Aviation
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+14  Albania
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#EQP Waffen-SS
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (for Infantry)
+@GRD Infantry
+@GRD Mot./Mech. (for Infantry)
+@GRD [[Cavalry]]
+@GRD Mountain (Waffen-SS)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE Partisans/Irregulars/Guerrillas
+@SPE (Waffen-SS AT)
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+15   Hungary
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#EQP German Supplied
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#EQP German Rare
+#-
+#-
+#-
+#EQP (HRA: limited German equip.)
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD (Motorized) (w/tanks)
+@GRD Cavalry (w/tanks)
+@GRD Mountain
+@GRD [[Airmobile]]
+@GRD Light
+@GRD Garrison/Security
+@GRD Corps (incl/tanks)
+@SPE [[Airborne]]
+@SPE Special Forces (=Paratrooper)
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary (=Arrow Cross)
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD Rail
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+16  Slovakia
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (for Mobile)
+@GRD Infantry
+@GRD (Mobile)
+@GRD Cavalry (for Mobile)
+@GRD Mountain
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary (=Hlinka Guard)
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD Rail
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+17  Romania
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  Ground (=Parachute Infantry)
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD Cavalry
+@GRD Mountain
+@GRD (Fortress)
+@GRD (Frontier)
+@GRD Garrison/Security
+@GRD Corps (incl/ tanks, flak)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary (=Iron Guard)
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+18  Croatia
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  Ground (=Parachute Infantry)
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (Bodyguard)
+@GRD Infantry
+@GRD (Mobile)
+@GRD [[Cavalry]]
+@GRD Mountain
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps  (w/specialist Infantry, AA)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [Auxillary/Colonial]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE (Croatian Legion - Wehrmacht)
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD Rail
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+19   Bulgaria
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  Ground (=Parachute Infantry)
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD Cavalry
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+20  Soviet Union
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP Lend-Lease
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA Aviation
+@SEA Ground
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry (Rifle)
+@GRD (Mechanized)
+@GRD Cavalry
+@GRD Mountain
+@GRD [[Airmobile]]
+@GRD (Motorized Rifle)
+@GRD Garrison/Security
+@GRD Corps
+@SPE Airborne
+@SPE Special Forces
+@SPE (Auxillary) (=militia)
+@SPE [[Paramilitary]]
+@SPE Partisans/Irregulars/Guerrillas
+@SPE (NKVD)
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD Rail
+@SEA Corps 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+21  Yugoslav Partisans (Tito)
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD [[Infantry]]
+@GRD [[Motorized/Mechanized]]
+@GRD Cavalry
+@GRD Mountain
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD Corps
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+22  Kingdom of Yugoslavia (also Chetniks)
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (Corps level)
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD Cavalry
+@GRD Mountain
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps (incl/ Royal Guard)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE (Auxillary) (=Reserve, Corps level) 
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE (Chetniks)
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+23  United Kingdom
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Lend-Lease
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL (incl/Corps)
+@SEA Naval
+@SEA Aviation
+@SEA Ground
+@AIR  ALL (incl/Corps)
+@AIR  Aviation
+@AIR  Ground
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD Mot./Mech. (for Infantry)
+@GRD Cavalry
+@GRD Mountain (=mules)
+@GRD (Motorized)
+@GRD (Mixed)
+@GRD Garrison/Security
+@GRD Corps
+@SPE Airborne
+@SPE Special Forces
+@SPE Auxillary/Colonial
+@SPE (Home Guard)
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE (Chindits)
+@SAG Motorpool
+@SEA Coastal
+@SEA Carriers + Aviation
+@GRD Rail
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+24  Greece
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  United Kingdom
+#-
+#EQP  Captured Italian equipment
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (Corps level)
+@GRD Infantry
+@GRD Mot./Mech. (for Infantry)
+@GRD Cavalry
+@GRD Mountain (incl/ mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps
+@SPE [[Airborne]]
+@SPE Special Forces
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE Partisans/Irregulars/Guerrillas
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+25  Turkey
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA Ground
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD Cavalry
+@GRD Mountain
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps (incl/ AA)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+26 Republican Spain
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA Ground
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD Cavalry
+@GRD Mountain
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps (incl/specialist Infantry)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary
+@SPE Partisans/Irregulars/Guerrillas
+@SPE (International)
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+27  Nationalist Spain
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA Aviation
+@SEA Ground
+@AIR  ALL
+@AIR  Aviation
+@AIR  Ground
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD Cavalry
+@GRD Mountain
+@GRD (Regulares)
+@GRD (Legion)
+@GRD Garrison/Security
+@GRD Corps (w/tanks, specialist Inf.)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE Auxillary/Colonial (=militia)
+@SPE Paramilitary
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE (Wehrmacht volunteers)
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@(SPE) (Luftwaffe volunteers) 
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+28  Portugal
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA LL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD [[Armoured]]
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE (Colonial)
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+29  Finland
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#EQP Waffen-SS
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  Ground (AA Air Corps)
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (Corps level)
+@GRD Infantry
+@GRD Mot./Mec. (Corps level)
+@GRD Cavalry
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps
+@SPE [[Airborne]]
+@SPE Special Forces
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary
+@SPE Partisans/Irregulars/Guerrillas
+@SPE (Waffen-SS volunteers)
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT u(campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+30  Estonia
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (for Infantry)
+@GRD Infantry
+@GRD  Motorized/Mech. (for Infantry)
+@GRD Cavalry  (for Infantry)
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps
+@SPE [[Airborne]]
+@SPE Special Forces
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary
+@SPE Partisans/Irregulars/Guerrillas
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+31  Latvia
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (Corps level)
+@GRD Infantry
+@GRD Motorized/Mech. (for Infantry)
+@GRD Cavalry  (for Infantry)
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps (w/specialist Infantry)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary
+@SPE Partisans/Irregulars/Guerrillas
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD Rail
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+32  Lithuania
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (Corps level)
+@GRD Infantry
+@GRD Motorized/Mech. (for Infantry)
+@GRD Cavalry
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps (w/specialist Infantry)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary
+@SPE Partisans/Irregulars/Guerrillas
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD Rail
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+33  SS
+*-------------------------------------------------------------------
+#
+#
+#
+#
+#
+#CLIM Default (Waffen-SS) horse
+#CLIM Snow (Waffen-SS)   horse
+#CLIM Desert (Waffen-SS)
+#CLIM Jungle (Waffen-SS)
+#EQP (Waffen-SS)
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP Captured equip. (excl. Czech)
+#-
+#-
+#EQP  Rocketry (A4/V2)
+#EQP  Rare
+#
+#EQP  Prototypes
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD (Motorized)
+@GRD Cavalry
+@GRD Mountain
+@GRD Airmobile
+@GRD Light (Jäger)
+@GRD Garrison/Security
+@GRD Corps
+@SPE Airborne
+@SPE Special Forces
+@SPE (Auxillary)
+@SPE Paramilitary
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD Rail
+@
+@FRT (campaign/scenario custom)u
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+34  Russian Liberation Army
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#CLIM Default (Waffen-SS)
+#CLIM Snow (Waffen-SS)
+#CLIM Desert (Waffen-SS)
+#CLIM Jungle (Waffen-SS)
+#EQP Waffen-SS
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (for Infantry)
+@GRD Infantry
+@GRD Mot/Mech. (for Inf / W-SS Inf)
+@GRD Cavalry
+@GRD [[Mountain]]
+@GRD (Waffen-SS Infantry)
+@GRD (Waffen-SS Cavalry)
+@GRD [[Garrison/Security]]
+@GRD Corps (w/tanks)
+@SPE [[Airborne]]
+@SPE Special Forces (=Paratrooper)
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+35  Italian Social Republic
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (Corps level)
+@GRD Infantry
+@GRD Mot/Mech. (=Recon)
+@GRD [[Cavalry]]
+@GRD Mountain
+@GRD [Airmobile]
+@GRD Light (Bersaglieri)
+@GRD Garrison/Security
+@GRD Corps
+@SPE [[Airborne]]
+@SPE Special Forces
+@SPE (Auxillary) (=Reserve)
+@SPE Paramilitary
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE (Marines)
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+36  Axis equipment - captured from the Allies
+*-------------------------------------------------------------------
+#ICONSET Jungle  - Sand/Camo
+#ICONSET Snow    - White
+#ICONSET Desert  - Sand
+#ICONSET Default = Panzergrau
+#ICONSET Default = Green
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@FROM  Poland
+@FROM  Netherlands
+@FROM  France
+@FROM  United Kingdom
+@FROM  Soviet Union
+@FROM  United States
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+37 Allied equipment captured from Axis
+*-------------------------------------------------------------------
+#ICONSET Default = Green
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@FROM  Italy
+@FROM  Germany
+@FROM  Japan
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@-
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+38  Free French Forces
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA Ground (=Marine)
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD (Motorized Infantry)
+@GRD [[Cavalry]]
+@GRD Mountain
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD Corps (incl/early tanks)
+@SPE [[Airborne]]
+@SPE Special Forces
+@SPE Auxillary/Colonial
+@SPE Paramilitary (=FFI)
+@SPE Partisans/Irregulars/Guerrillas
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+39  Canada
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA Aviation
+@SEA Ground
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD Mountain
+@GRD Airmobile (for Airborne)
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD Corps
+@SPE Airborne
+@SPE Special Forces
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA Carriers + Aviation
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+40   Australia
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD Mot/Mech. (for Infantry)
+@GRD Cavalry
+@GRD (Mot/Mech) (for AIF Infantry)
+@GRD (AIF Armoured)
+@GRD (AIF Infantry)
+@GRD Garrison/Security
+@GRD Corps
+@SPE Airborne
+@SPE Special Forces
+@SPE (Auxillary) (=Militia) 
+@SPE (Colonial)
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE (mules)
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+41   New Zealand
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA Aviation
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (for Infantry)
+@GRD Infantry
+@GRD Mot/Mech. (for Infantry)
+@GRD [[Cavalry]]
+@GRD Mountain (=mules)
+@GRD Airmobile (w/Special Forces)
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD Corps
+@SPE [[Airborne]]
+@SPE Special Forces
+@SPE Auxillary/Colonial
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA Carriers + Aviation
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+42  British Raj  (British India)
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  Ground
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD Motorized/Mech. (for Infantry)
+@GRD Cavalry (for Infantry)
+@GRD Mountain (=mules)
+@GRD Airmobile (for Airborne)
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps
+@SPE Airborne
+@SPE [[Special Forces]]
+@SPE Auxillary/Colonial
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+43  South Africa
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  Ground
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD Mot/Mech. (for Infantry)
+@GRD Cavalry
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps
+@SPE [[Airborne]]
+@SPE Special Forces
+@SPE Auxillary/Colonial
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+44  Ethiopia
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD [[Armoured]]
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD Cavalry
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD Corps
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE (Auxillary)
+@SPE (Levys)
+@SPE Partisans/Irregulars/Guerrillas
+@SPE (Gideon Force)
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+45  Iraq
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#EQP Rashid Ali Coup (Apr-Jun 1941)
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#EQP (Counterfactual)
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (Corps level)
+@GRD Infantry
+@GRD Mot/Mech. (Corps level)
+@GRD Cavalry (for Infantry)
+@GRD Mountain (=camels)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps (w/specialist Infantry)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE (Auxillary)
+@SPE Paramilitary
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD Rail
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+46  Iran
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD Infantry
+@GRD (Mechanized)
+@GRD (Mixed)
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps (w/specialist Infantry)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE Auxillary/Colonial
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+47  Afghanistan
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD [[Armoured]]
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD Cavalry (Household)
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD (Mixed)
+@GRD [[Garrison/Security]]
+@GRD Corps
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+48 Free India
+*-------------------------------------------------------------------
+#(Asia)
+#CLIM Default  horse
+#CLIM Snow  horse
+#CLIM Desert
+#CLIM Jungle  horse
+#-CLIM Default (Europe) horse
+#-CLIM Snow (Europe) horse
+#CLIM Desert (Europe)
+#CLIM Jungle (Europe)
+#-EQP (Europe/Wehrmacht)
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD ALL
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE Partisans/Irregulars/Guerrillas
+@SPE (Wehrmacht)
+@SAG [[Motorpool]]
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+49  State of Burma
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]]
+@AIR  [[Ground]]
+@GRD ALL
+@GRD [[Aviation]]
+@GRD Armoured (for Infantry)
+@GRD Infantry
+@GRD Mot/Mech. (for Infantry)
+@GRD [[Cavalry]]
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE Partisans/Irregulars/Guerrillas
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+50 Thailand
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA Ground (=Marines)
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (for Infantry)
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps (w/ tanks, AA, spec. Inf)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+51   Japan
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA Aviation
+@SEA Ground (SNLF Infantry)
+@AIR  ALL
+@AIR  Aviation
+@AIR  Ground
+@GRD ALL
+@GRD Aviation
+@GRD Armoured
+@GRD Infantry
+@GRD (Motorized)
+@GRD Cavalry
+@GRD Mountain
+@GRD Airmobile (for Airborne)
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps
+@SPE Airborne
+@SPE Special Forces (=SNLF Para.)
+@SPE Auxillary/Colonial
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE (Suicide)
+@SAG Motorpool
+@SEA Coastal
+@SEA Carriers + Aviation
+@GRD Rail
+@(SEA) (Corps) (SNLF  w/tanks) 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+52  Manchukuo
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (Corps level)
+@GRD Infantry
+@GRD Mot/Mech. (Corps level)
+@GRD Cavalry
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD (Mixed)
+@GRD Garrison/Security
+@GRD Corps (w/ specialist Inf)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE Auxillary/Colonial
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+53  Mengjiang
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD ALL
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD Cavalry
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary (=militia)
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+54 Provisional Government of China
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD ALL
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary (=militia)
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool]
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+55  Reformed Gov. of China
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD [[ALL]]
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD [[Infantry]]
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG [[Motorpool]]
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+56 Nanjing Nationalist Government
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD [[Armoured]]
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD Cavalry
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps (w/ tank, specialist Inf)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary (=militia)
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+57  Republic of China
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA Ground
+@AIR  ALL
+@AIR  Aviation
+@AIR  Ground
+@GRD ALL
+@GRD [[Aviation]]
+@GRD Armoured
+@GRD Infantry
+@GRD (Motorized)
+@GRD Cavalry
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD Corps (incl/tanks, spec. Inf)
+@SPE [[Airborne]]
+@SPE Special Forces
+@SPE Auxillary/Colonial
+@SPE Paramilitary (=militia)
+@SPE Partisans/Irregulars/Guerrillas
+@SPE (Warlord)
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+58  People's Liberation Army
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA Ground
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (Corps level)
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD Cavalry
+@GRD Mountain
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps (incl/ spec. Inf)
+@SPE Airborne
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary (=militia)
+@SPE Partisans/Irregulars/Guerrillas
+@SPE (Artilley)
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+59  Mongolia
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD Armoured (Corps level)
+@GRD Infantry   (Corps level)
+@GRD (Mechanized)
+@GRD Cavalry
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD Corps
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+60  Philippine Commonwealth
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD [[Armoured]]
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps (incl/ Scouts)
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE Partisans/Irregulars/Guerrillas
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+61 Brazil
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to this faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+62 South Korea
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA Ground
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD [[Armoured]]
+@GRD Infantry (w/o their trucks)
+@GRD (Mechanized)
+@GRD [[Cavalry]]
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps (incl/ tanks)
+@SPE [[Airborne]]
+@SPE Special Forces
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE Partisans/Irregulars/Guerrillas
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+63  North Korea
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA ALL
+@SEA Naval
+@SEA [[Aviation]]
+@SEA Ground
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD [[Aviation]]
+@GRD Armoured
+@GRD Infantry
+@GRD Mot/Mech. (for Infantry)
+@GRD [[Cavalry]]
+@GRD Mountain
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD Corps
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE Partisans/Irregulars/Guerrillas
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA Coastal
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+64  Indonesia
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  ALL
+@AIR  Aviation
+@AIR  [[Ground]]
+@GRD ALL
+@GRD Aviation
+@GRD [[Armoured]]
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary
+@SPE Partisans/Irregulars/Guerrillas
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+65  Revolutionary Forces
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD ALL
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD Cavalry
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+66  Belarusian Central Rada (collaborationist)
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD ALL
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD [[Infantry]]
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary
+@SPE Partisans/Irregulars/Guerrillas
+@SPE [[(special to faction)]]
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+67  Ukraine (collaborationist/nationalist)
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD ALL
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD [[Infantry]]
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD Mountain (=mules)
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE Paramilitary
+@SPE Partisans/Irregulars/Guerrillas
+@SPE [[(special faction)]]
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+68  Nationalist Forces
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD [[ALL]]
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD [[Infantry]]
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG [[Motorpool]]
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+*-------------------------------------------------------------------
+69  Gov. of National Salvation (Serbian State)
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD ALL
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD Infantry
+@GRD [[Motorized/Mechanized]]
+@GRD Cavalry
+@GRD Mountain
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD Garrison/Security
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE Auxillary/Colonial
+@SPE Paramilitary
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE (Chetnik)
+@SAG Motorpool
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+70  Chetniks
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD [[ALL]]
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD [[Infantry]]
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE (Chetniks)
+@SAG [[Motorpool]]
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+*-------------------------------------------------------------------
+71  Luxembourg
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD [[ALL]]
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD [[Infantry]]
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG [[Motorpool]]
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+*-------------------------------------------------------------------
+72  Kingdom of Iceland
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD [[ALL]]
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD [[Infantry]]
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG [[Motorpool]]
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+*-------------------------------------------------------------------
+73  Ireland
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD [[ALL]]
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD [[Infantry]]
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG [[Motorpool]]
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+*-------------------------------------------------------------------
+74  Heroes
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD [[ALL]]
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD [[Infantry]]
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG [[Motorpool]]
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+*-------------------------------------------------------------------
+75  Villains
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD [[ALL]]
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD [[Infantry]]
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG [[Motorpool]]
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+
+*-------------------------------------------------------------------
+76  Irregular Forces
+*-------------------------------------------------------------------
+#NOM
+#CLIM Default
+#CLIM Snow
+#CLIM Desert
+#CLIM Jungle
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#-
+#EQP  Prototypes/Rare
+#-
+#-
+#-
+#-
+#EQP u Campaign: Bltzkrieg Order of Battle
+#EQP v Campaign: 22. ID
+#EQP -Specified Scenario/Campaign
+#-
+#NONE - Help?->FRONTS.TXT
+
+@SEA [[ALL]]
+@SEA [[Naval]]
+@SEA [[Aviation]]
+@SEA [[Ground]]
+@AIR  [[ALL]]
+@AIR  [[Aviation]]
+@AIR  [[Ground]]
+@GRD [[ALL]]
+@GRD [[Aviation]]
+@GRD [[Armoured]]
+@GRD [[Infantry]]
+@GRD [[Motorized/Mechanized]]
+@GRD [[Cavalry]]
+@GRD [[Mountain]]
+@GRD [[Airmobile]]
+@GRD [[Light]]
+@GRD [[Garrison/Security]]
+@GRD [[Corps]]
+@SPE [[Airborne]]
+@SPE [[Special Forces]]
+@SPE [[Auxillary/Colonial]]
+@SPE [[Paramilitary]]
+@SPE [[Partisans/Irregulars/Guerrillas]]
+@SPE [[(special to faction)]]
+@SAG [[Motorpool]]
+@SEA [[Coastal]]
+@SEA [[Carriers + Aviation]]
+@GRD [[Rail]]
+@ 
+@FRT (campaign/scenario custom)
+@FRT (campaign/scenario custom)
+@NONE - Help?->FRONTS.TXT
+
+

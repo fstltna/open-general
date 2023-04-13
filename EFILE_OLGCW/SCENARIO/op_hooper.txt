@@ -1,0 +1,116 @@
+Operation Hooper
+Cuito River
+JUNGLE
+Cuando River
+Lomba River
+Cuito Cuanavale
+Dala
+Lupire
+Cangombe
+Cunjamba
+Mavinga
+21 Bde./6 RM
+21 Tk.Btn./21 Bde./6 RM
+21 Rec.Btn./21 Bde./6 RM
+21 Lt.Aty./21 Bde./6 RM
+21 Hvy.Aty./21 Bde./6 RM
+2 Grp.Tac./16 Bde./6 RM
+2 Grp.Tac./16 Bde./6 RM
+16 Bde./6 RM
+16 Lt.Aty/16 Bde./6 RM
+16 Lt.Hvy/16 Bde./6 RM
+16 Tk.Btn./16 Bde./6 RM
+16 Rec.Btn./16 Bde./6 RM
+59 Bde./6 RM
+59 Tk.Bde./59 Bde./6 RM
+59 Lt.Aty./59 Bde./6 RM
+59 Hvy.Aty./59 Bde./6 RM
+59 Rec.Btn./59 Bde./6 RM
+47 Bde./6 RM
+47 Tk.Btn./47 Bde./6 RM
+47 Lt.Aty./47 Bde./6 RM
+47 Hvy.Aty./47 Bde./6 RM
+47 Rec.Btn./47 Bde./6 RM
+1 Tac.Grp./47 Bde./6 RM
+1 Tac.Grp./47 Bde./6 RM
+50 Cuba Div./6 RM
+50 Cuba Div./6 RM
+50 Cuba Div./6 RM
+50 Cuba Div./6 RM
+50 Cuba Div./6 RM
+59 Bde./6 RM
+47 Bde./6 RM
+[UNITA]
+[UNITA]
+[UNITA]
+[UNITA]
+[UNITA]
+[UNITA]
+[UNITA]
+[UNITA]
+[UNITA]
+[UNITA]
+[UNITA]
+[UNITA]
+[UNITA]
+20 Btn./20 Bde/SADF
+20 Bde/SADF
+20 Bde/SADF
+20 Bde/SADF
+20 Bde/SADF
+Tumpo
+10 Ftr.Rgt.
+32 Ftr.Rgt.
+5 FB Rgt.
+19 FB Rgt.
+59 FB Rgt.
+2 Sqd./SAAF
+600 Sec.Bde./6 RM
+Eng.Bde./6 RM
+201 Hvy.Aty/6 RM
+71 Attack Rgt./6 RM
+HQ/16 Bde./6 RM
+HQ/21 Bde./6 RM
+HQ/59 Bde./6 RM
+HQ/47 Bde./6 RM
+AA/6 RM
+AA/6 RM
+6 Region Militar
+32 Bde./SADF
+32 Bde./SADF
+61 Bde./SADF
+61 Bde./SADF
+61 Bde./SADF
+61 Bde./SADF
+101 SWAFT Btn./SADF
+AA/SAAF
+14 Bde./SADF
+14 Bde./SADF
+14 Bde./SADF
+14 Bde./SADF
+1 Recce/-/SADF
+2 Recce/-/SADF
+3 Recce/-/SADF
+4 SAI/SADF
+4 SAI/SADF
+4 SAI/SADF
+4 SAI/SADF
+4 SAI/SADF
+4 SAI/SADF
+4 SAI/SADF
+4 SAI/SADF
+[MILAN]
+HQ/20 Bde./SADF
+HQ/14 Bde./SADF
+HQ/32 Bde./SADF
+HQ/4 SAI/SADF
+HQ/61 Bde./SADF
+[Cuito Cuan. Positions]
+[Cuito Cuan. Positions]
+[Cuito Cuan. Positions]
+[Cuito Cuan. Positions]
+Pont./-/6 RM
+Pont./-/6 RM
+Puente Victoria o Muerte
+50 Cuba Div./6 RM
+Cuban Forces

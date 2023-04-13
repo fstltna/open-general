@@ -1,0 +1,57 @@
+Deutsche Marinekorps Campaign, 1937-1945
+
+DEUTSCHE MARINEKORPS CAMPAIGN, 1937-1945
+
+Version: 4.0
+Number of Scenarios: 19
+Player Country: WWII Germany
+Campaign Designer: Dennis Felling
+Campaign Converter: HundredDays
+
+
+This hypotetical campaign follows the actions of an hypotetical force: the German Marine Corps. Together with a powerful flotilla of all sorts of warships, this force will join the coastal battles of World War II. Fight at known battles as Westerplatte and Narvik with your ships fighting off the enemy fleets and supporting your invading marines! The campaign ends with an escape to German-occupied Norway for a last stand.
+
+
+
+----------------------------------------------------------------------------
+[From original Introduction/Readme:]
+
+Maps (with mapnumber) required:
+AUCK (224)
+AVRANCHES (323)
+BODEN (556)
+CHERBOURG (328)
+CORSICA (118)
+DALMATION-SOUTH-WINTER (354)
+KERCH (334)
+KRETA (93)
+LEROS (80)
+LITSA (148)
+MOMBASA (419)
+NARVA (164)
+NARVIK2 (264)
+OSEL (86)
+OSLO (329)
+PEENEMUNDE (195)
+PORT (272)
+SOUTHHOLLAND (327)
+WESTERPLATTE (225)
+
+Comments, compliments, suggestions or whatever can be sent to Dennis Felling by mailing me on armygroupdf@hotmail.com
+
+Visit my website at http://members.home.nl/felling/pg2/index.htm
+
+Dennis Felling
+July 2005
+
+MODIFIED Adlerkorps (AK) 4000 version 0.23
+Special Thanks To: Mikael Anteskog Adler, Doug Hone and Toliy.
+
+
+
+
+
+
+----------------------------------------------------------------------------
+[Adapted for the OoB OpenGeneral Efile by HD.]
+

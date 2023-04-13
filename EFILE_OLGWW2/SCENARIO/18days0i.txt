@@ -1,0 +1,22 @@
+Manouvres
+(15 July 1938)
+v.1.0
+The Campaign of the 18 Days
+(10-28 May 1940)
+
+General,
+
+The motorisation of the Cavalry Corps ("Corps de Cavalerie") decided in 1935 is now almost completed. This mobile force will complement our main fortified positions and defence lines providing support where needed.
+
+This year the manoeuvres of the Belgian army aim to prove that the motorisation of the "Corps de Cavalerie" is value for money. As Commander of the Regiment "2e Lanciers" of the 1st Cavalry Division ("1ère Division de Cavalerie") you must contribute to demonstrate its high mobility by making a spectacular move and quickly take the VH.
+
+Le Chef d'Etat-major général de l’armée (EMGA)
+
+Victory conditions: to take the VH before turn 8 for a BV, 10 for a V and 12 for a TV.
+
+Efile: OLGWW2 (version 2.00 or higher)
+
+Map: Impde (760)
+
+Paqueo, July 2012
+

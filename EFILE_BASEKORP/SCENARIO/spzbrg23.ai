@@ -1,0 +1,113 @@
+'---
+'Config AI file for scenario: SpzBrg23.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=105 items  ' Replacement for default list
+ 328  '  25 pdr  [ATY  United Kingdom]  Cost: 276
+ 338  '  Engineers 40  [INF  United Kingdom]  Cost: 408
+ 339  '  Commandos 40  [INF  United Kingdom]  Cost: 600
+ 340  '  Bridging 36  [INF  United Kingdom]  Cost: 192
+ 341  '  Ghurka 39  [INF  United Kingdom]  Cost: 324
+ 343  '  Indian 39  [INF  United Kingdom]  Cost: 84
+ 345  '  Paratroops 40  [INF  United Kingdom]  Cost: 348
+ 347  '  Royal Marines 39  [INF  United Kingdom]  Cost: 144
+ 354  '  Scout  [RCN  United Kingdom]  Cost: 216
+ 369  '  Cruiser IV  [ TK  United Kingdom]  Cost: 300
+ 377  '  Matilda II  [ TK  United Kingdom]  Cost: 528
+ 382  '  QL  [TPT  United Kingdom]  Cost: 72
+ 383  '  Bren Carrier  [TPT  United Kingdom]  Cost: 216
+ 385  '  Hurricane IA  [FTR  United Kingdom]  Cost: 468
+ 387  '  Spitfire IA  [FTR  United Kingdom]  Cost: 588
+ 392  '  Beaufighter  [ TB  United Kingdom]  Cost: 732
+ 398  '  C-47  [ATP  United Kingdom]  Cost: 348
+ 614  '  Skua  [ TB  United Kingdom]  Cost: 396
+ 650  '  Cruiser I  [ TK  United Kingdom]  Cost: 264
+ 651  '  Cruiser II  [ TK  United Kingdom]  Cost: 276
+ 652  '  Cruiser III  [ TK  United Kingdom]  Cost: 288
+ 660  '  Spitfire IIA  [FTR  United Kingdom]  Cost: 684
+ 712  '  40 Infantry  [INF  South Africa]  Cost: 84
+ 720  '  Tetrarch  [ TK  United Kingdom]  Cost: 396
+ 914  '  Battle I  [ TB  United Kingdom]  Cost: 384
+ 922  '  25pdr AT  [ AT  United Kingdom]  Cost: 108
+ 993  '  Swordfish I  [ TB  United Kingdom]  Cost: 300
+1689  '  3inch mortar  [ATY  United Kingdom]  Cost: 180
+1691  '  3.7inch AB  [ATY  United Kingdom]  Cost: 384
+1693  '  6inch  [ATY  United Kingdom]  Cost: 456
+1696  '  9.2inch  [ATY  United Kingdom]  Cost: 1200
+1700  '  MG  [FlaK  United Kingdom]  Cost: 108
+1701  '  Marmon-Herrington II  [RCN  United Kingdom]  Cost: 204
+1705  '  Rolls Royce I  [RCN  United Kingdom]  Cost: 156
+1707  '  Matilda IIICS  [ TK  United Kingdom]  Cost: 528
+1717  '  Fulmar  [FTR  United Kingdom]  Cost: 456
+1718  '  Martlet I  [FTR  United Kingdom]  Cost: 768
+1720  '  Defiant  [FTR  United Kingdom]  Cost: 396
+1721  '  Albacore  [ TB  United Kingdom]  Cost: 312
+1722  '  Beaufort  [ TB  United Kingdom]  Cost: 540
+1724  '  Blenheim IV  [ TB  United Kingdom]  Cost: 612
+1726  '  Hudson  [ TB  United Kingdom]  Cost: 504
+1728  '  Nomad  [ TB  United Kingdom]  Cost: 504
+1729  '  Whirlwind  [ TB  United Kingdom]  Cost: 768
+1910  '  4.5inch BL  [ATY  United Kingdom]  Cost: 756
+1931  '  Carrier Recon  [RCN  United Kingdom]  Cost: 204
+2129  '  MG  [FlaK  South Africa]  Cost: 108
+2138  '  3inch mortar  [ATY  South Africa]  Cost: 180
+2141  '  Bridging  [INF  South Africa]  Cost: 192
+2142  '  Engineer  [INF  South Africa]  Cost: 408
+2144  '  Rhodesian  [INF  South Africa]  Cost: 84
+2149  '  Motorcyclists  [INF  South Africa]  Cost: 216
+2150  '  Marmon-Herrington I  [RCN  South Africa]  Cost: 204
+2151  '  Marmon-Herrington II  [RCN  South Africa]  Cost: 204
+2155  '  Carrier Recon  [RCN  South Africa]  Cost: 204
+2160  '  Fury I  [FTR  South Africa]  Cost: 312
+2161  '  Hurricane IA  [FTR  South Africa]  Cost: 468
+2162  '  Hurricane II  [FTR  South Africa]  Cost: 504
+2163  '  Gladiator IIA  [FTR  South Africa]  Cost: 348
+2164  '  Spitfire IIA  [FTR  South Africa]  Cost: 684
+2169  '  Blenheim I  [ TB  South Africa]  Cost: 540
+2170  '  Baltimore  [ TB  South Africa]  Cost: 504
+2171  '  Ju 86  [ TB  South Africa]  Cost: 492
+2172  '  Beaufort  [ TB  South Africa]  Cost: 540
+2173  '  Beaufighter  [ TB  South Africa]  Cost: 732
+2174  '  Maryland II  [ TB  South Africa]  Cost: 648
+2177  '  Battle I  [ TB  South Africa]  Cost: 384
+2183  '  QL  [TPT  South Africa]  Cost: 84
+2184  '  Bren Carrier  [TPT  South Africa]  Cost: 240
+2185  '  C-47  [ATP  South Africa]  Cost: 348
+2255  '  Catalina  [ TB  United Kingdom]  Cost: 420
+2491  '  25 pdr  [ATY  South Africa]  Cost: 264
+2560  '  Entrenched  [INF  United Kingdom]  Cost: 180
+2592  '  Scots Infantry 39  [INF  United Kingdom]  Cost: 96
+2602  '  Hurricane II  [FTR  United Kingdom]  Cost: 504
+2605  '  Lysander I  [ TB  United Kingdom]  Cost: 336
+2609  '  Whitley  [ TB  United Kingdom]  Cost: 648
+2614  '  C8  [TPT  United Kingdom]  Cost: 84
+2615  '  Carrier  [TPT  United Kingdom]  Cost: 168
+2616  '  MW 15cwt  [TPT  United Kingdom]  Cost: 60
+2617  '  Matador  [TPT  United Kingdom]  Cost: 96
+2618  '  Pioneer  [TPT  United Kingdom]  Cost: 84
+2628  '  C8  [TPT  South Africa]  Cost: 84
+2629  '  Carrier  [TPT  South Africa]  Cost: 240
+2630  '  MW 15cwt  [TPT  South Africa]  Cost: 60
+2631  '  Matador  [TPT  South Africa]  Cost: 48
+2632  '  Pioneer  [TPT  South Africa]  Cost: 72
+2865  '  60pdr  [ATY  United Kingdom]  Cost: 708
+2942  '  Horsa II  [ATP  United Kingdom]  Cost: 180
+2943  '  Hamilcar  [ATP  United Kingdom]  Cost: 180
+3353  '  Walrus  [ TB  United Kingdom]  Cost: 360
+3361  '  2pdr Portee  [ AT  United Kingdom]  Cost: 132
+3853  '  Motor Infantry 40  [INF  United Kingdom]  Cost: 144
+3856  '  Camel 40  [INF  United Kingdom]  Cost: 108
+3857  '  Colonial Cavalry 40  [INF  United Kingdom]  Cost: 120
+3858  '  Sikhs 40  [INF  United Kingdom]  Cost: 216
+3870  '  3.7inch  [ATY  United Kingdom]  Cost: 408
+4049  '  Beaufighter IIF  [ TB  United Kingdom]  Cost: 864
+4075  '  Swordfish I  [ TB  United Kingdom]  Cost: 324
+5118  '  Defiant NF.II  [ TB  United Kingdom]  Cost: 684
+5570  '  20mm Portee  [FlaK  United Kingdom]  Cost: 204
+5683  '  Parachute HQ  [INF  United Kingdom]  Cost: 288
+5831  '  Train  [RTP  United Kingdom]  Cost: 120
+5839  '  Train  [RTP  South Africa]  Cost: 120
+7991  '  25 Pdr at-aty  [ATY  United Kingdom]  Cost: 276

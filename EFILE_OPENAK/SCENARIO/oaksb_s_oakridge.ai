@@ -1,0 +1,154 @@
+'---
+'Config AI file for scenario: OAKSB_S_oakridge.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=60 
+$buy_newair=40 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3  
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2  
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=136 items  ' Replacement for default list
+ 260  '  76,2mm wz.42  [ AT  Polska]  Cost: 228
+ 263  '  87,6mm H wz.40  [ATY  Polska]  Cost: 192
+ 269  '  43 SP Piechota  [INF  Polska]  Cost: 372
+ 272  '  Staghound I  [RCN  Polska]  Cost: 564
+ 274  '  Cromwell IV  [ TK  Polska]  Cost: 564
+ 399  '  3inch M3  [ AD  USA]  Cost: 240
+ 400  '  90mm M1A1  [ AD  USA]  Cost: 552
+ 401  '  M15A1  [ AD  USA]  Cost: 540
+ 402  '  M16  [FlaK  USA]  Cost: 312
+ 403  '  3inch M5  [ AT  USA]  Cost: 180
+ 405  '  57mm M1  [ AT  USA]  Cost: 120
+ 406  '  M10  [ AT  USA]  Cost: 480
+ 407  '  M18  [ AT  USA]  Cost: 420
+ 409  '  M36  [ AT  USA]  Cost: 504
+ 410  '  105mm How M2  [ATY  USA]  Cost: 240
+ 411  '  155mm How M1  [ATY  USA]  Cost: 528
+ 412  '  75mm How M8 AB  [ATY  USA]  Cost: 312
+ 413  '  8inch Gun M1  [ATY  USA]  Cost: 2328
+ 414  '  M12  [ATY  USA]  Cost: 1200
+ 415  '  M4(105)  [ AT  USA]  Cost: 468
+ 416  '  M7  [ATY  USA]  Cost: 660
+ 417  '  M8  [ AT  USA]  Cost: 216
+ 418  '  T19 HMC  [ AT  USA]  Cost: 288
+ 428  '  M20  [RCN  USA]  Cost: 240
+ 429  '  M24  [RCN  USA]  Cost: 612
+ 430  '  M8  [RCN  USA]  Cost: 480
+ 440  '  M5A1  [RCN  USA]  Cost: 552
+ 443  '  M4A1  [ TK  USA]  Cost: 552
+ 444  '  M4A1(76)W  [ TK  USA]  Cost: 1044
+ 445  '  M4A3  [ TK  USA]  Cost: 564
+ 446  '  M4A3E2  [ TK  USA]  Cost: 852
+ 447  '  M4A3(76)W HVSS  [ TK  USA]  Cost: 1080
+ 452  '  F4U-1A Corsair  [FTR  USA]  Cost: 1176
+ 454  '  P-38J  [FTR  USA]  Cost: 1224
+ 455  '  P-38L  [FTR  USA]  Cost: 1248
+ 458  '  P-47D-25  [FTR  USA]  Cost: 1248
+ 461  '  P-51D-5  [FTR  USA]  Cost: 1200
+ 465  '  A-26B  [ TB  USA]  Cost: 1308
+ 468  '  B-25J  [ TB  USA]  Cost: 1152
+ 567  '  43 Infantry  [INF  USA]  Cost: 96
+ 677  '  M4A3E2(76)W  [ TK  USA]  Cost: 1584
+ 726  '  40mm wz.36  [ AD  Polska]  Cost: 180
+ 731  '  M13  [FlaK  USA]  Cost: 192
+ 898  '  40mm M1  [ AD  USA]  Cost: 180
+ 956  '  F-4  [ TB  USA]  Cost: 900
+ 999  '  43 USMC  [INF  USA]  Cost: 276
+1469  '  M16  [FlaK  Polska]  Cost: 312
+1470  '  57mm wz.41  [ AT  Polska]  Cost: 120
+1471  '  Wolverine  [ AT  Polska]  Cost: 480
+1477  '  Sexton  [ATY  Polska]  Cost: 768
+1485  '  43 SP Pionierzy  [INF  Polska]  Cost: 900
+1486  '  43 Piechota  [INF  Polska]  Cost: 120
+1489  '  Crusader AA II  [FlaK  Polska]  Cost: 360
+1498  '  Spitfire IX  [FTR  Polska]  Cost: 1116
+1499  '  Mustang III  [FTR  Polska]  Cost: 1152
+1501  '  Mosquito FB.VI  [ TB  Polska]  Cost: 1260
+1746  '  .50 M51  [FlaK  USA]  Cost: 48
+1750  '  81mm Mortar M1  [ATY  USA]  Cost: 84
+1751  '  4.2inch Mortar M30  [ATY  USA]  Cost: 204
+1752  '  75mm How M1A1  [ATY  USA]  Cost: 276
+1755  '  105mm How M3 AB  [ATY  USA]  Cost: 360
+1757  '  155mm Gun M1A1  [ATY  USA]  Cost: 1380
+1760  '  240mm How M1  [ATY  USA]  Cost: 1824
+1761  '  8inch How M1  [ATY  USA]  Cost: 1500
+1765  '  M4  [ TK  USA]  Cost: 564
+1766  '  M4A3(75)W  [ TK  USA]  Cost: 648
+1767  '  M4A3(76)W  [ TK  USA]  Cost: 1044
+1768  '  M4A4  [ TK  USA]  Cost: 624
+1769  '  M4A6  [ TK  USA]  Cost: 564
+1770  '  M22  [ TK  USA]  Cost: 528
+1772  '  LVT(A)4  [ TK  USA]  Cost: 468
+1921  '  Valentine VIII  [ TK  Polska]  Cost: 600
+1922  '  Sherman III  [ TK  Polska]  Cost: 564
+1925  '  Sherman V  [ TK  Polska]  Cost: 624
+1926  '  Carrier  [RCN  Polska]  Cost: 252
+1954  '  42 Cavalry  [INF  USA]  Cost: 156
+1961  '  M4A2 DD  [ TK  USA]  Cost: 684
+1989  '  43 Armored Infantry  [INF  USA]  Cost: 192
+1995  '  43 Airborne Engineers  [INF  USA]  Cost: 864
+1999  '  94mm wz.38  [ AD  Polska]  Cost: 564
+2518  '  M3 GMC  [ AT  Polska]  Cost: 180
+2521  '  107mm M wz.35  [ATY  Polska]  Cost: 204
+2522  '  Dingo  [RCN  Polska]  Cost: 216
+2523  '  Humber II  [RCN  Polska]  Cost: 372
+2526  '  Grant I  [ TK  Polska]  Cost: 528
+2795  '  .50 M2 AB  [FlaK  USA]  Cost: 144
+2869  '  43 Mountain  [INF  USA]  Cost: 360
+2908  '  57mm M1 AB  [ AT  USA]  Cost: 264
+2910  '  GP AB  [RCN  USA]  Cost: 288
+3169  '  43 Mountain Engineers  [INF  USA]  Cost: 852
+3173  '  M4A1  [ATY  USA]  Cost: 252
+3229  '  Firefly VC  [ TK  Polska]  Cost: 1080
+3279  '  20mm wz.30 SP  [FlaK  Polska]  Cost: 168
+3281  '  75mm wz.38 SP  [ATY  Polska]  Cost: 312
+3298  '  57mm wz.44 SP  [ AT  Polska]  Cost: 348
+3321  '  43 Dragoni  [INF  Polska]  Cost: 264
+3385  '  Stuart VI  [RCN  Polska]  Cost: 552
+3390  '  Cromwell V  [RCN  Polska]  Cost: 660
+3540  '  43 Saperzy  [INF  Polska]  Cost: 240
+3556  '  43 Pionierzy  [INF  Polska]  Cost: 468
+3659  '  43 Ckm Pechota  [ AT  Polska]  Cost: 156
+3915  '  44 Glider Infantry  [INF  USA]  Cost: 312
+3923  '  44 Parachute Infantry  [INF  USA]  Cost: 408
+3931  '  43 Naval Construction  [INF  USA]  Cost: 96
+3932  '  43 Combat Engineers  [INF  USA]  Cost: 492
+3933  '  43 Bridging  [INF  USA]  Cost: 216
+3934  '  43 National Guard  [INF  USA]  Cost: 60
+3936  '  43 MP  [INF  USA]  Cost: 72
+3937  '  43 Ranger  [INF  USA]  Cost: 780
+3938  '  44 Armored Infantry  [INF  USA]  Cost: 540
+3939  '  44 SP Pionerzy  [INF  Polska]  Cost: 1116
+3940  '  44 SP Piechota  [INF  Polska]  Cost: 444
+3943  '  43 Komandosi  [INF  Polska]  Cost: 1980
+4034  '  Mustang I  [ TB  Polska]  Cost: 1056
+4035  '  Hurricane IVRP  [ TB  Polska]  Cost: 900
+4036  '  Lysander IIIA  [ TB  Polska]  Cost: 648
+4043  '  Auster AOP  [ TB  Polska]  Cost: 300
+4510  '  P-47D-22  [ TB  USA]  Cost: 1392
+4511  '  P-51D-15  [ TB  USA]  Cost: 1356
+4516  '  P-38J 'Droop Snoot'  [ TB  USA]  Cost: 1164
+4596  '  A-35A  [ TB  USA]  Cost: 972
+4598  '  SB2C-1 Helldiver  [ TB  USA]  Cost: 1020
+4604  '  TBM-3 Avenger  [ TB  USA]  Cost: 1080
+4606  '  A-29  [ TB  USA]  Cost: 792
+4609  '  B-26F  [ TB  USA]  Cost: 1260
+4610  '  P-47D-6  [FTR  USA]  Cost: 1272
+4620  '  F-5E  [ TB  USA]  Cost: 948
+4624  '  F4U-1C Corsair  [FTR  USA]  Cost: 1320
+4630  '  F-7A  [ TB  USA]  Cost: 1056
+4639  '  P-39N-5  [FTR  USA]  Cost: 1032
+4661  '  L-3  [ TB  USA]  Cost: 276
+4662  '  L-5  [ TB  USA]  Cost: 300
+4663  '  Mosquito PR.XVI  [ TB  USA]  Cost: 948
+4677  '  P-47D-10  [ TB  USA]  Cost: 1344
+5086  '  L-4A  [ TB  USA]  Cost: 276
+5162  '  44 USMC  [INF  USA]  Cost: 60

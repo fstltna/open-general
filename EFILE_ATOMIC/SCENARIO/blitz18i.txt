@@ -1,0 +1,13 @@
+SITUATION:
+
+Herr General, as you know the Allies landed in Northwest Afrika in November and have been been driving east ever since. It is imperative not only that their drive be stopped, but that they be thrown out of Tunesia! We thought to assign this task to Feldmarschall Rommel, but Feldmarschalls Kesselring and Manstein have argued that he is needed to continue the drive on Egypt. We have therefore given you this critical assigment. Herr General, do not disappoint. 
+
+ORDERS: 
+
+Repel the enemy attack, launch your counterattack and take all VHs in 14/18/22 turns for a BV/V/TV.
+
+NOTES:
+
+Three air-transports and Three naval transports are available.
+
+AI will have the first turn!

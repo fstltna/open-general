@@ -1,0 +1,50 @@
+El Arish
+Khan Yunis
+Abasan
+Bani Suhaylah
+Khirbat Ikhza'a
+Rafah Tall
+Korum Sholom
+Korum El Sheikh
+Rafah
+El Arish
+8 PzR/15 Pz/[DAK]
+15 Schzt/15 Pz/[DAK]
+15 Schzt/15 Pz/[DAK]
+15 Mot/15 Pz/[DAK]
+33 Rec/15 Pz/[DAK]
+33 AR/15 Pz/[DAK]
+33 Pzjgr/15 Pz/[DAK]
+33 Pio/15 Pz/[DAK]
+5 R/Raemcke Bde./[DAK]
+5 PzR/21 Pz/[DAK]
+104 Schzt/21 Pz/[DAK]
+155 AR/21 Pz/[DAK]
+3 Rec/21 Pz/[DAK]
+200 Pio/21 Pz/[DAK]
+39 Pzjgr/21 Pz/[DAK]
+8 R/132 Ariete/[XX]
+132 AR/132 Ariete/[XX]
+32 R/132 Ariete/[XX]
+32 R/132 Ariete/[XX]
+32 R/132 Ariete/[XX]
+[DAK]
+Egyptian
+16 Br/6 ID/WDD
+22 Br/6 ID/WDD
+4 R/6 ID/WDD
+65 R/6 ID/RAA/WDD
+31 R/6 ID/RAA/WDD
+8 R/6 ID/RAA/WDD
+16 R/6 ID/RAA/WDD
+4 R/6 ID/RAA/WDD
+12 R/7 SG/RAA/WDD
+2 B/7 SG/RAA/WDD
+18 R/7 SG/RAA/WDD
+Palestines
+DAF
+DAF
+DAF
+Lybian Air Command
+Lybian Air Command
+[2 Luftflotte]

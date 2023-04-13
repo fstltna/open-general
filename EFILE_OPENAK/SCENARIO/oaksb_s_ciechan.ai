@@ -1,0 +1,69 @@
+'---
+'Config AI file for scenario: OAKSB_S_ciechan.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=60 
+$buy_newair=40 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3     
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2     
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=51 items  ' Replacement for default list
+ 261  '  37mm wz.36  [ AT  Polska]  Cost: 84
+ 262  '  105mm A wz.13  [ATY  Polska]  Cost: 240
+ 264  '  75mm A wz.97  [ATY  Polska]  Cost: 132
+ 267  '  39 Kawaleria  [INF  Polska]  Cost: 168
+ 268  '  38 Pionierzy  [INF  Polska]  Cost: 336
+ 270  '  38 Piechota  [INF  Polska]  Cost: 72
+ 273  '  7TP  [ TK  Polska]  Cost: 288
+ 276  '  R35  [ TK  Polska]  Cost: 408
+ 277  '  TKS  [ TK  Polska]  Cost: 156
+ 280  '  P.11c (4 km)  [FTR  Polska]  Cost: 588
+ 281  '  PZL.23B Karas  [ TB  Polska]  Cost: 636
+ 306  '  P.7a  [FTR  Polska]  Cost: 504
+ 577  '  SamPanc wz.34-I  [RCN  Polska]  Cost: 156
+ 663  '  PZL.37B Los  [ TB  Polska]  Cost: 996
+ 706  '  TK3  [RCN  Polska]  Cost: 180
+ 725  '  155mm H wz.17  [ATY  Polska]  Cost: 540
+ 726  '  40mm wz.36  [ AD  Polska]  Cost: 180
+ 727  '  SamPanc wz.29  [RCN  Polska]  Cost: 1032
+1466  '  7,92mm wz.08  [FlaK  Polska]  Cost: 36
+1467  '  75mm wz.36  [ AD  Polska]  Cost: 432
+1468  '  75mm wz.14  [ AD  Polska]  Cost: 432
+1472  '  65mm AG wz.06  [ATY  Polska]  Cost: 252
+1473  '  75mm A wz.02/26  [ATY  Polska]  Cost: 168
+1474  '  100mm H wz.14/19  [ATY  Polska]  Cost: 192
+1475  '  120mm H wz.09/31  [ATY  Polska]  Cost: 228
+1476  '  220mm M wz.32  [ATY  Polska]  Cost: 1092
+1479  '  37 Obrona Narodowa  [INF  Polska]  Cost: 60
+1480  '  38 KOP Gorska  [INF  Polska]  Cost: 276
+1481  '  38 Ckm Piechota  [ AT  Polska]  Cost: 108
+1482  '  38 KOP  [INF  Polska]  Cost: 204
+1483  '  39 Marszowy  [INF  Polska]  Cost: 72
+1490  '  SamPanc wz.28  [RCN  Polska]  Cost: 144
+1491  '  SamPanc wz.34-II  [RCN  Polska]  Cost: 252
+1492  '  38 Zwiadowcy Rowerowi  [RCN  Polska]  Cost: 144
+1495  '  FT-17  [ TK  Polska]  Cost: 204
+1496  '  TKS FK wz.38  [ AT  Polska]  Cost: 132
+1497  '  Vickers E dw  [ TK  Polska]  Cost: 156
+1978  '  38 Saperzy  [INF  Polska]  Cost: 180
+2520  '  105mm A wz.29  [ATY  Polska]  Cost: 468
+2524  '  Vickers E jw  [ TK  Polska]  Cost: 276
+2544  '  Lublin R-XIIID  [ TB  Polska]  Cost: 324
+3278  '  38 Strzelcy  [INF  Polska]  Cost: 132
+3282  '  38 Krakusi  [RCN  Polska]  Cost: 168
+3369  '  75mm A Ppanc wz.02/26  [ AT  Polska]  Cost: 96
+3518  '  P.11c (2 km)  [FTR  Polska]  Cost: 552
+3534  '  39 Ckm Kawaleria  [ AT  Polska]  Cost: 132
+4579  '  P.11a  [FTR  Polska]  Cost: 504
+4580  '  RWD-14b Czapla  [ TB  Polska]  Cost: 396
+4581  '  PZL.23A Karas  [ TB  Polska]  Cost: 600
+4582  '  LWS-6 Zubr  [ TB  Polska]  Cost: 648
+4583  '  PZL.37A Los  [ TB  Polska]  Cost: 948

@@ -1,0 +1,10 @@
+'---
+'Config AI file for scenario: NOGGetEm06.xscn
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=2 items  ' Replacement for default list
+6158  '  "Tough Slow Tank"  [ TK  Ordrac]  Cost: 252
+6163  '  "Cruiser Tank"  [ TK  Ordrac]  Cost: 252

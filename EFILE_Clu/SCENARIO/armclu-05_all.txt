@@ -1,0 +1,3 @@
+... Mission accomplished. Now, there is a connected front and it is possible to send reinforcements over the road bridge at Frankfurt (Oder).
+
+Next scenario: New units have strength 8 and experience 75

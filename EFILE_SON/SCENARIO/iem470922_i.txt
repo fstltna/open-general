@@ -1,0 +1,10 @@
+Sitio de Puebla
+September 22, 1847
+
+Puebla is an important garrison along the route from Veracruz to Mexico City. Our capitol has fallen, this war is lost. Although, by cutting of the Yankee supply lines, we would negotiate a peace from better position.
+
+Deploy Hexes: 18
+
+ORDER: Take all VHs and keep your MSU alive.
+
+scenario designer: Csaba (lvjtn)

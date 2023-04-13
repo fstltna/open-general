@@ -1,0 +1,72 @@
+Helsingborg
+Helsingborg
+Helsingborg Harbour
+Viken
+Lerberget
+Hyllinge
+Barslov
+Billesholm
+Bjuv
+Klippan
+Village
+Svalov
+Lerberget Local Defense
+Barslov Local Defense
+Helsingborg Home Guard
+I/7th (mot) Inf. Bgd.
+II/7th (mot) Inf. Bgd.
+III/7th (mot) Inf. Bgd.
+Eng/7th (mot) Inf. Bgd.
+Arty/7th (mot) Inf. Bgd.
+AT/7th (mot) Inf. Bgd.
+AD/7th (mot) Inf. Bgd.
+Helsingborg Defense Area
+ORP Sep
+ORP Rys
+ORP Zbik
+Batteri Helsingborg
+Batteri Viken
+Batteri Trelleborg
+I/Kustartilleri 2
+I/Kustartilleri 4
+Helsinborg Harbour Defense
+1/I/16/3rd Inf. Div.
+2/I/16/3rd Inf. Div.
+3/-/3rd Inf. Div.
+Helsingborg Air Defense
+V52
+T14
+RAF 236 Squadron
+RAF 235 Squadron
+USAAF 320 Squadron
+USAAF 120 Squadron
+S-33
+S-8
+3/I/16/3rd Inf. Div.
+Military Police Company 3
+HMS Gotland
+HMS Manligheten
+HMS Karlskrona
+HMS Kalmar
+HMS Wrangel
+HMS Wachtmeister
+HMS Gustav V
+HMS Psilander
+HMS Magne
+HMS Visby
+HMS Fylgia
+HMUS Draken
+HMUS U6
+12th Special Air Regiment
+I/Danish Brigade
+II/Danish Brigade
+III/Danish Brigade
+MG/Danish Brigade
+AT/Danish Brigade
+I/F10
+II/F3
+Helsingborg Defense Area HQ
+II/KG26 (from Norway)
+II/KG51
+III/JG77
+II/ZG26 (from Norway)

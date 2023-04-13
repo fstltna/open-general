@@ -1,0 +1,44 @@
+Closing the Ring
+II/12
+III/6
+I/6
+IV/18
+XI/Kv
+II/Kv
+VIII/6A
+III/6A
+II/SWF
+III/12
+VI/TD
+VIII/6
+III/18
+Zvenyhorodka
+Bila Cerkva
+Uman Airfield
+Village
+Volosiv
+Fastiv
+Skvyra
+Dasiv
+Ros River
+Unava River
+Skvyra River
+Losjatyn
+Fursy
+Trusky
+Jablunivka Airfield
+I/L4
+III/L4
+Nordland/5SS
+Westland/5SS
+Germania/5SS
+Fastiv Airfield
+Railroad
+IV/5SS
+Inoperable Airfield
+Staging Area
+Abandoned Airfield
+ROUGH
+CLEAR
+HILL
+FOREST

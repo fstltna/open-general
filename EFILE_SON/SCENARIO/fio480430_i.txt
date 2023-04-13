@@ -1,0 +1,7 @@
+April 30, 1848
+
+Herr General! The Piedmontese army has crossed the border of Lombardy. They are advancing toward Verona and threatening the fortress in Peschiera. You must halt them and hold your position until we can send you reinforcement.
+
+Deploy Hexes: 10
+
+ORDER: Hold at least 5 VHs.

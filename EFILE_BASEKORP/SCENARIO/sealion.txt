@@ -1,0 +1,17 @@
+16. Operation Sealion
+
+Version:  Feb- 2019
+Number of Scenarios: 18
+Player Country: Germany
+Equipment efile: BaseKorp
+Campaign Designer: randowe
+Modified by Brian Gosley aka Puma
+
+This campaign will take you from the cliffs of Scapa Flow to the White Cliffs of Dover. You'll invade Great Britain and experience adventures on the north american continent.
+
+Notes:
+Paratroopers and airborne sappers are very important in this campaign.
+In many scenarios you'll start without an airfield. You'll have to build one.
+Do not sell free core naval vessels. You'll need them!
+Read the scenario description and turn messages carefuly.
+Free refit mode.

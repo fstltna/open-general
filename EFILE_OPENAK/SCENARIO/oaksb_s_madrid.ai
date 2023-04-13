@@ -1,0 +1,76 @@
+'---
+'Config AI file for scenario: OAKSB_S_madrid.xscn
+$buy_ver2=1 
+$buy_turn=1,1 
+$buy_minpres=0 
+$buy_refit=60 
+$buy_newair=40 
+$buy_pick_method=0 
+$buy_pick_range=0 
+$ai_class_cap=  
+$buy_aggresive=2, 1, 9, 5 ,1, 4, 2, 3    
+$buy_defensive=1 ,1 ,9 ,10,1, 4, 9, 2    
+'* List of items to purchase AI *
+'  Only equipment code (left number) is meaningful
+'  Can add or remove items manually as far as each line start with a valid equipment code
+'---
+
+$list=58 items  ' Replacement for default list
+ 283  '  37mm M36  [ AT  República Española]  Cost: 72
+ 284  '  155mm 155/13  [ATY  República Española]  Cost: 540
+ 285  '  75mm 75/28  [ATY  República Española]  Cost: 132
+ 293  '  CI T-26B  [ TK  República Española]  Cost: 300
+ 296  '  I-16-10  [FTR  República Española]  Cost: 684
+ 664  '  I-15 M-25  [FTR  República Española]  Cost: 528
+ 710  '  20mm 20/70  [FlaK  República Española]  Cost: 60
+ 742  '  37 Guardia de Asalto  [INF  República Española]  Cost: 48
+ 984  '  SB 2M-100A  [ TB  República Española]  Cost: 720
+1348  '  105mm 105/22  [ATY  República Española]  Cost: 228
+1528  '  7mm M22  [FlaK  República Española]  Cost: 36
+1529  '  40mm 40/60  [ AD  República Española]  Cost: 168
+1530  '  76,2mm 76/55  [ AD  República Española]  Cost: 336
+1531  '  45mm M32  [ AT  República Española]  Cost: 72
+1532  '  70mm 70/16  [ATY  República Española]  Cost: 252
+1533  '  76,2mm 76/40  [ATY  República Española]  Cost: 180
+1534  '  107mm 107/38  [ATY  República Española]  Cost: 240
+1535  '  114mm 114/13  [ATY  República Española]  Cost: 192
+1540  '  AM Bilbao M32  [RCN  República Española]  Cost: 180
+1541  '  AB UNL M35  [RCN  República Española]  Cost: 192
+1543  '  I-152  [FTR  República Española]  Cost: 504
+1544  '  I-16-5  [FTR  República Española]  Cost: 624
+1547  '  R-Z  [ TB  República Española]  Cost: 600
+1549  '  A.101  [ TB  República Española]  Cost: 528
+4958  '  R-5  [ TB  República Española]  Cost: 444
+4959  '  FK.51  [ TB  República Española]  Cost: 348
+4960  '  Vildebeest  [ TB  República Española]  Cost: 480
+4964  '  S.231  [FTR  República Española]  Cost: 516
+4965  '  GE-23  [FTR  República Española]  Cost: 564
+4989  '  I-152  [ TB  República Española]  Cost: 612
+5986  '  37 Caballeria  [INF  República Española]  Cost: 132
+5988  '  37 Guardia Nacional  [INF  República Española]  Cost: 48
+5989  '  37 Infanteria  [INF  República Española]  Cost: 48
+5990  '  37 Ingenieros  [INF  República Española]  Cost: 300
+5991  '  37 Marineros  [INF  República Española]  Cost: 60
+6001  '  37 Infanteria de Montaña  [INF  República Española]  Cost: 228
+6002  '  37 Carabineros  [INF  República Española]  Cost: 36
+6003  '  37 Pontoneros  [INF  República Española]  Cost: 132
+6004  '  37 Milicia Republicanas  [INF  República Española]  Cost: 36
+6005  '  37 Milicia Communistas  [INF  República Española]  Cost: 36
+6008  '  AB Chevrolet M37  [RCN  República Española]  Cost: 312
+6010  '  37mm M27  [ AT  República Española]  Cost: 48
+6011  '  37mm M17  [ AT  República Española]  Cost: 60
+6013  '  37 Milicias Amatrelladoras  [ AT  República Española]  Cost: 72
+6015  '  40mm M33  [ AT  República Española]  Cost: 48
+6016  '  76,5mm M17  [ATY  República Española]  Cost: 72
+6017  '  75mm 75/31  [ AT  República Española]  Cost: 96
+6018  '  70mm 70/16 AC  [ AT  República Española]  Cost: 168
+6020  '  81mm M33  [ATY  República Española]  Cost: 96
+6021  '  75mm 75/30  [ATY  República Española]  Cost: 132
+6022  '  60mm M26  [ATY  República Española]  Cost: 84
+6029  '  150mm 150/27  [ATY  República Española]  Cost: 456
+6031  '  105mm 105/11  [ATY  República Española]  Cost: 444
+6032  '  75mm 75/13  [ATY  República Española]  Cost: 276
+6054  '  37 Caballeria reconocimiento  [RCN  República Española]  Cost: 108
+6057  '  37 Milicia reconocimiento  [RCN  República Española]  Cost: 24
+6105  '  Milicias 60mm M26  [ATY  República Española]  Cost: 72
+6106  '  Milicias 81mm M33  [ATY  República Española]  Cost: 96
